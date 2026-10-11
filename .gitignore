@@ -1,0 +1,20 @@
+# Secrets: never commit
+.env
+secrets/
+*.enc
+
+# Python / build caches, editor and OS clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.claude/
+.DS_Store
+
+# research pipeline scratch: one-off gate/QA scripts and raw scrape dumps written per subject
+# during a run (incl. large source PDFs), never part of the journey output
+atlas_tools/_*
+
+# atlas transits: the per-journey JSON (52 MB) is regenerated in seconds by
+# atlas_tools/transit_charts.py; the readable .transits.md files are tracked
+zodiac/transits/*.transits.json
