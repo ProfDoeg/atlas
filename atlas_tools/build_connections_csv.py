@@ -7,8 +7,8 @@ alongside catalog_subjects.csv/catalog_stops.csv.
 import csv, json
 
 TAGS = '/home/drdoeg/codex_lab/tags_per_subject.json'
-CATALOG = '/home/drdoeg/instance2_work/Colegio_Invisible/working/journeys/catalog_subjects.csv'
-OUT = '/home/drdoeg/instance2_work/Colegio_Invisible/working/journeys/connections.csv'
+CATALOG = '/home/drdoeg/instance2_work/atlas/catalog_subjects.csv'
+OUT = '/home/drdoeg/instance2_work/atlas/connections.csv'
 
 TYPE_LABEL = {1: 'wrote_about', 2: 'prophecy_hyperstition', 3: 'discourse',
               4: 'proximity_milieu', 5: 'friendship_meeting', 9: 'shared_object_site'}

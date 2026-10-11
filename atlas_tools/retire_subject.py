@@ -34,7 +34,7 @@ import csv, datetime, glob, json, os, re, subprocess, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 D = os.path.abspath(os.path.join(HERE, ".."))
-REPO = os.path.abspath(os.path.join(D, "..", ".."))
+REPO = D
 TAGS = os.path.expanduser("~/codex_lab/tags_per_subject.json")
 
 

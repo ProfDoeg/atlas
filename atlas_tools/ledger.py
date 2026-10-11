@@ -29,7 +29,7 @@ import argparse, glob, json, os, re, subprocess, sys, unicodedata, urllib.reques
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 D = os.path.abspath(os.path.join(HERE, ".."))
-REPO = os.path.abspath(os.path.join(D, "..", ".."))
+REPO = D
 LIVE_URL = "https://colegioinvisible.com/atlas/atlas_globe.html"
 
 
@@ -159,7 +159,7 @@ print(f"  QUEUE.md distinct names     {len(rows)}")
 print(f"  missing Spanish editions    {len(built - es)}")
 
 head = git("rev-parse", "--short", "HEAD")
-dirty = len([l for l in git("status", "--short", "--", "working/journeys").splitlines() if l])
+dirty = len([l for l in git("status", "--short", "--", ".").splitlines() if l])
 print(f"\n  commit {head}   uncommitted journey files: {dirty}")
 
 git("fetch", "-q", "--all")

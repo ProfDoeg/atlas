@@ -17,7 +17,7 @@ Run under tmux:  tmux -L codexbatch new-session -d -s extract1 \\
 import csv, json, os, re, subprocess, threading, time
 
 HOME = os.path.expanduser('~')
-REPO = f'{HOME}/taller/Colegio_Invisible/working/journeys'
+REPO = f'{HOME}/taller/atlas'
 LAB = f'{HOME}/codex_lab'
 OUT = f'{LAB}/extracted'
 CODEX = f'{HOME}/.local/bin/codex'

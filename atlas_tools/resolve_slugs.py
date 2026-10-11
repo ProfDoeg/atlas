@@ -8,7 +8,7 @@ import csv, json, os, sys
 sys.path.insert(0, os.path.expanduser('~/codex_lab'))
 from extract_tagged_connections import build_roster, resolve
 
-REPO = '/home/drdoeg/instance2_work/Colegio_Invisible/working/journeys'
+REPO = '/home/drdoeg/instance2_work/atlas'
 EXTRACTED = '/home/drdoeg/codex_lab/extracted'
 
 

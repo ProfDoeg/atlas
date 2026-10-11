@@ -21,7 +21,7 @@ out of that git add in the first place.
 import os, re, sys
 
 OUT = "/home/drdoeg/codex_lab/out"
-REPO_DOSSIERS = "/home/drdoeg/instance2_work/Colegio_Invisible/working/journeys/dossiers"
+REPO_DOSSIERS = "/home/drdoeg/instance2_work/atlas/dossiers"
 
 BAD_SIGNATURES = [
     "Selected model is at capacity",

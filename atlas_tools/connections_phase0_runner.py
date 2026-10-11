@@ -22,7 +22,7 @@ Run under tmux:  tmux -L codexbatch new-session -d -s phase0 \\
 import csv, os, re, subprocess, threading, time
 
 HOME = os.path.expanduser('~')
-REPO = f'{HOME}/taller/Colegio_Invisible/working/journeys'
+REPO = f'{HOME}/taller/atlas'
 LAB = f'{HOME}/codex_lab'
 OUT = f'{LAB}/connections_out'
 CODEX = f'{HOME}/.local/bin/codex'

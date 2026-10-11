@@ -7,7 +7,7 @@ appends at the end of the file if that heading is absent. Run with
 """
 import os, re, sys
 
-REPO_DOSSIERS = '/home/drdoeg/instance2_work/Colegio_Invisible/working/journeys/dossiers'
+REPO_DOSSIERS = '/home/drdoeg/instance2_work/atlas/dossiers'
 SECTIONS = '/home/drdoeg/codex_lab/connections_out'
 
 

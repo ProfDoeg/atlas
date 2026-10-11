@@ -16,7 +16,7 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-HEAL = os.path.join(HERE, '..', 'heal_earth')
+HEAL = os.path.join(HERE, 'heal_earth')
 SRC = os.path.join(HERE, 'es') if '--es' in sys.argv else HERE
 OUT = os.path.join(HERE, 'story_frames')
 

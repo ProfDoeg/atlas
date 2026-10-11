@@ -3,7 +3,7 @@
 Standing prompt for commissioning a network research dossier — prose Markdown,
 stage one of the pipeline (dossier first; a structured .network.json comes
 later as a separate step, same shape as person dossier -> journey.json).
-Sibling to `working/journeys/dossiers/PROMPT_TEMPLATE.md`. Drafted by
+Sibling to `dossiers/PROMPT_TEMPLATE.md`. Drafted by
 Fable 5.1, 2026-09-06.
 
 ---

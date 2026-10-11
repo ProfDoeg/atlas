@@ -25,7 +25,7 @@ import os
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-JOURNEYS = os.path.join(HERE, '..', 'journeys')
+JOURNEYS = os.path.join(HERE, '..')
 OUT_DIR = os.path.join(JOURNEYS, 'quipu_out')
 DONOR = os.path.join(OUT_DIR, 'joan_globe.html')
 HEAL = os.path.join(HERE, '..', 'heal_earth')

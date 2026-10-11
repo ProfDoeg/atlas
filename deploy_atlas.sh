@@ -29,7 +29,7 @@ PUBLIC=${PUBLIC:-root@178.105.218.163}
 KEY=${KEY:-/home/drdoeg/.ssh/id_ed25519_deploy}
 DOMAIN=${DOMAIN:-colegioinvisible.com}
 
-echo "==> build EN + ES globes from working/journeys"
+echo "==> build EN + ES globes from the atlas"
 python3 "$HERE/build_atlas_globe.py"
 python3 "$HERE/build_atlas_globe.py" --es
 

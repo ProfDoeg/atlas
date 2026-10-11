@@ -12,7 +12,7 @@ these headings from the same roster in the first place).
 """
 import csv, json, os, re, unicodedata
 
-REPO = '/home/drdoeg/instance2_work/Colegio_Invisible/working/journeys'
+REPO = '/home/drdoeg/instance2_work/atlas'
 OUT = '/home/drdoeg/codex_lab/extracted'
 
 TAG_RE = re.compile(r'\*\*\[T(\d+)([+-]?)(?:\s+(\w+))?\]\*\*')

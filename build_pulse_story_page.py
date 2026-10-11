@@ -65,7 +65,7 @@ head += ('\n<style>#titlebar,#meta,#hint,#controls{display:none!important}'
          'width:100vw!important;height:100vh!important}'
          'body{margin:0;background:#000}</style>')
 
-HEAL = os.path.join(HERE, '..', 'heal_earth')
+HEAL = os.path.join(HERE, 'heal_earth')
 topo = json.load(open(os.path.join(HEAL, 'land-50m.json')))
 sc, tr = topo['transform']['scale'], topo['transform']['translate']
 coast_lines = []

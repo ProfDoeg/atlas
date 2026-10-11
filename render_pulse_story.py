@@ -20,7 +20,7 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-HEAL = os.path.join(HERE, '..', 'heal_earth')
+HEAL = os.path.join(HERE, 'heal_earth')
 OUT = os.path.join(HERE, 'pulse_story_frames')
 
 W, H = 1080, 1920

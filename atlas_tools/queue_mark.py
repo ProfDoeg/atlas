@@ -64,7 +64,7 @@ def default_owner():
     if tag:
         return tag
     host = socket.gethostname().split(".")[0]
-    checkout = pathlib.Path(__file__).resolve().parents[3].parent.name
+    checkout = pathlib.Path(__file__).resolve().parents[1].parent.name
     return "{}:{}".format(host, checkout) if checkout else host
 
 

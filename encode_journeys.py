@@ -24,7 +24,7 @@ import os
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-REPO = os.path.abspath(os.path.join(HERE, "..", ".."))   # Colegio_Invisible
+REPO = os.environ.get("COLEGIO_INVISIBLE") or os.path.join(os.path.dirname(HERE), "Colegio_Invisible")   # Colegio_Invisible
 sys.path.insert(0, os.path.join(REPO, "canonical"))
 
 from celestial import (                       # noqa: E402

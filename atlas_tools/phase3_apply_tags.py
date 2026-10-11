@@ -6,7 +6,7 @@ byte of existing content. Run with --dry-run to preview counts only.
 """
 import json, os, re, sys
 
-REPO_DOSSIERS = '/home/drdoeg/instance2_work/Colegio_Invisible/working/journeys/dossiers'
+REPO_DOSSIERS = '/home/drdoeg/instance2_work/atlas/dossiers'
 TAGS = '/home/drdoeg/codex_lab/tags_per_subject.json'
 
 TYPE_LABEL = {1: 'wrote about', 2: 'prophecy/hyperstition', 3: 'discourse',

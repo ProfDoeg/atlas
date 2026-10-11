@@ -15,7 +15,7 @@ counterpart_name, type, sign, subtype, source, text}, ... ]}
 import csv, json, os
 from collections import defaultdict
 
-REPO = '/home/drdoeg/instance2_work/Colegio_Invisible/working/journeys'
+REPO = '/home/drdoeg/instance2_work/atlas'
 EXTRACTED = '/home/drdoeg/codex_lab/extracted'
 DIRECTIONAL = {1, 2, 9}
 

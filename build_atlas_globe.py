@@ -87,7 +87,7 @@ head = raw[:three_end]                      # css + html skeleton + three.js
 assert three_start > 0, 'donor structure changed'
 
 # ---- coastline: heal_earth land-50m topojson + the corrected lakes ----------
-HEAL = os.path.join(HERE, '..', 'heal_earth')
+HEAL = os.path.join(HERE, 'heal_earth')
 topo = json.load(open(os.path.join(HEAL, 'land-50m.json')))
 sc, tr = topo['transform']['scale'], topo['transform']['translate']
 coast_lines = []

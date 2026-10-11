@@ -16,7 +16,7 @@ touches wallets, never calls stop.
 import glob, hashlib, json, os, re, subprocess, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-REPO = os.path.abspath(os.path.join(HERE, "..", "..", ".."))
+REPO = os.environ.get("COLEGIO_INVISIBLE") or os.path.join(os.path.dirname(os.path.dirname(HERE)), "Colegio_Invisible")  # Colegio_Invisible: the golem artifacts stay there
 ART = os.path.join(REPO, "working", "golem", "artifacts")
 CLI = "/usr/local/bin/dogecoin-cli"
 DATADIR = os.path.expanduser("~/.dogecoin")

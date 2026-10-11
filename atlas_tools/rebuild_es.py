@@ -3,7 +3,7 @@ old stops come verbatim from the old Spanish edition (matched by position with t
 English), new stops come from the writer's Spanish output (matched by lat/lng/date)."""
 import json, subprocess, sys
 slug = sys.argv[1]
-REPO = "/home/drdoeg/taller/Colegio_Invisible"; J = f"{REPO}/working/journeys"
+REPO = "/home/drdoeg/taller/atlas"; J = REPO
 
 def head(rel):
     return json.loads(subprocess.run(["git", "-C", REPO, "show", f"HEAD:{rel}"], capture_output=True, text=True, check=True).stdout)
@@ -11,7 +11,7 @@ def head(rel):
 def stops(j): return [s for seg in j["segments"] for s in seg["stops"]]
 def key(s): return (s["lat"], s["lng"], s["date"])
 
-old_en = head(f"working/journeys/{slug}.journey.json"); old_es = head(f"working/journeys/es/{slug}.journey.json")
+old_en = head(f"{slug}.journey.json"); old_es = head(f"es/{slug}.journey.json")
 new_en = json.load(open(f"{J}/{slug}.journey.json", encoding="utf-8"))
 cur_es = json.load(open(f"{J}/es/{slug}.journey.json", encoding="utf-8"))
 oe, os_ = stops(old_en), stops(old_es)

@@ -35,12 +35,12 @@ Run under tmux:  tmux -L codexbatch new-session -d -s runner \\
 import csv, os, re, subprocess, threading, time
 
 HOME = os.path.expanduser('~')
-REPO = f'{HOME}/taller/Colegio_Invisible/working/journeys'
+REPO = f'{HOME}/taller/atlas'
 LAB = f'{HOME}/codex_lab'
 OUT = f'{LAB}/out'
 CODEX = f'{HOME}/.local/bin/codex'
 WORKLIST = f'{LAB}/worklist.txt'
-STAGE_REPO = f'{LAB}/repo'  # the runner's own clone; staging is deterministic
+STAGE_REPO = f'{LAB}/atlas'  # the runner's own clone; staging is deterministic
                             # code here, not an agent tapping approve (the
                             # land_subject.py precedent)
 REFRESH_EVERY = 15          # completions between repo pull + addendum regen
@@ -154,7 +154,7 @@ def quota_wall(text):
 def refresh_repo_locked():
     """Caller must hold LOCK."""
     subprocess.run(['git', 'pull', '--ff-only', '-q'],
-                   cwd=f'{HOME}/taller/Colegio_Invisible', capture_output=True)
+                   cwd=f'{HOME}/taller/atlas', capture_output=True)
     subprocess.run(['python3', 'atlas_tools/make_addendum.py'],
                    cwd=REPO, capture_output=True)
 
@@ -169,7 +169,7 @@ def auto_stage_locked(slug, name, doc):
     the review path instead."""
     if not os.path.isdir(STAGE_REPO):
         return False
-    dest_rel = 'working/journeys/dossiers/' + slug + '.dossier.md'
+    dest_rel = 'dossiers/' + slug + '.dossier.md'
     git_stage(['pull', '--ff-only', '-q'])
     open(os.path.join(STAGE_REPO, dest_rel), 'w').write(doc)
     git_stage(['add', dest_rel])
@@ -215,7 +215,7 @@ def claim_next_slug():
                 continue
             if os.path.exists(f'{REPO}/dossiers/{slug}.dossier.md'):
                 continue
-            if os.path.exists(f'{STAGE_REPO}/working/journeys/dossiers/{slug}.dossier.md'):
+            if os.path.exists(f'{STAGE_REPO}/dossiers/{slug}.dossier.md'):
                 continue
             IN_PROGRESS.add(slug)
             return slug

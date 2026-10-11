@@ -4,7 +4,7 @@ stops are kept, both editions must stay aligned, the report must keep its old te
 Usage: python3 merge_deepen.py <slug>"""
 import json, re, subprocess, sys
 slug = sys.argv[1]
-REPO = "/home/drdoeg/taller/Colegio_Invisible"; J = f"{REPO}/working/journeys"
+REPO = "/home/drdoeg/taller/atlas"; J = REPO
 BAD = "—“”‘’"
 
 def head(rel):
@@ -14,7 +14,7 @@ def stops(j): return [s for seg in j["segments"] for s in seg["stops"]]
 
 report = []; counts = {}
 for ed in ("", "es/"):
-    rel = f"working/journeys/{ed}{slug}.journey.json"
+    rel = f"{ed}{slug}.journey.json"
     old = json.loads(head(rel)); new = json.load(open(f"{J}/{ed}{slug}.journey.json", encoding="utf-8"))
     old_by_name = {s["name"]: s for s in stops(old)}
     restored = 0; missing = []
@@ -59,7 +59,7 @@ dates = [s["date"] for s in se]
 dec = [(a, b) for a, b in zip(dates, dates[1:]) if b < a]
 if dec: report.append(f"dates decrease at {dec[:3]}")
 
-old_rep = head(f"working/journeys/{slug}.report.md")
+old_rep = head(f"{slug}.report.md")
 new_rep = open(f"{J}/{slug}.report.md", encoding="utf-8").read()
 probe = old_rep.strip().splitlines()[-1][:80] if old_rep.strip() else ""
 if probe and probe not in new_rep:

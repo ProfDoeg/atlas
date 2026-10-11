@@ -15,7 +15,7 @@ catalog_subjects.csv -- one row per subject, BUILT and QUEUED together
   logic, reused here) is left out of the queued half entirely, so a
   subject with a stale un-dropped queue row does not appear twice.
 
-  dossier_path points at working/journeys/dossiers/<slug>.dossier.md when
+  dossier_path points at dossiers/<slug>.dossier.md when
   one exists -- an operator-supplied deep-research file staged ahead of
   the pipeline run (see research-pipeline.md's `dossier` arg). This is
   what makes "which queued subjects are ready to launch the moment tokens

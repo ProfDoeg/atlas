@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Zodiac readings for every dated stop in the Atlas of Journeys.
 
-    python3 atlas_tools/zodiac_readings.py                 # every *.journey.json in working/journeys
+    python3 atlas_tools/zodiac_readings.py                 # every *.journey.json in the atlas
     python3 atlas_tools/zodiac_readings.py vaslav_nijinsky julius_caesar
     python3 atlas_tools/zodiac_readings.py --check         # the built-in validation, then exit
 

@@ -23,7 +23,7 @@ import os
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.normpath(os.path.join(HERE, "..", ".."))
+ROOT = os.environ.get("COLEGIO_INVISIBLE") or os.path.join(os.path.dirname(os.path.dirname(HERE)), "Colegio_Invisible")  # Colegio_Invisible, for network.py
 sys.path.insert(0, ROOT)
 
 import network as netcodec  # noqa: E402

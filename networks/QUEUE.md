@@ -1,6 +1,6 @@
 # Network queue
 
-Candidate networks for the working/networks/ collection, approved by the author,
+Candidate networks for the networks/ collection, approved by the author,
 2026-09-06. Five already built (templar, rothschild, invisible-college, qhapaq,
 cybersyn) are not repeated here. Pipeline: NETWORK_DOSSIER_PROMPT.md first
 (prose research dossier), a structured .network.json comes later as a separate

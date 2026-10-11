@@ -134,7 +134,7 @@ head = raw[:three_end]; assert three_start > 0
 head += ('\n<style>#titlebar,#meta,#hint,#controls{display:none!important}'
          '#app{display:block!important}#stage{position:fixed!important;inset:0!important;'
          'width:100vw!important;height:100vh!important}</style>')
-topo = json.load(open(os.path.join(HERE, '..', 'heal_earth', 'land-50m.json')))
+topo = json.load(open(os.path.join(HERE, 'heal_earth', 'land-50m.json')))
 sc, tr = topo['transform']['scale'], topo['transform']['translate']
 coast = []
 for arc in topo['arcs']:
