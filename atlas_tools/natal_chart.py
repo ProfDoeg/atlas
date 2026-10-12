@@ -85,7 +85,9 @@ def dms(lon):
     mins = int(round((d - deg) * 60))
     if mins == 60:
         deg, mins = deg + 1, 0
-    return SIGNS[i], deg, mins
+    if deg == 30:                 # 29°59.6′ rounds to 30°00′, which belongs to the NEXT sign.
+        i, deg = (i + 1) % 12, 0  # Found while fixing the same class of bug in sky_on (nodus3
+    return SIGNS[i], deg, mins    # caught 24°60′ there, 2026-10-12). Rare, but wrong when it hits.
 
 
 def parse_hhmm(s):

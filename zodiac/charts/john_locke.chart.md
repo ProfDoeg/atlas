@@ -12,7 +12,7 @@ Born 1632-08-29 (gregorian calendar), Wrington, the baptism at All Saints (lat 5
 | ☉ Sun | ♍ Virgo 5°58′ | Leo | 1 | 0.969°/d |  |  |
 | ☽ Moon | ♒ Aquarius 25°31′ | Capricornus | 6 | 13.994°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
 | ☿ Mercury | ♍ Virgo 19°45′ | Leo | 1 | 1.681°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 30°00′ | Leo | 12 | 1.240°/d |  |  |
+| ♀ Venus | ♍ Virgo 0°00′ | Leo | 12 | 1.240°/d | fall |  |
 | ♂ Mars | ♎ Libra 22°26′ | Virgo | 2 | 0.658°/d | detriment |  |
 | ♃ Jupiter | ♉ Taurus 25°45′ | Taurus | 9 | 0.053°/d |  |  |
 | ♄ Saturn | ♏ Scorpio 22°46′ | Libra | 3 | 0.053°/d |  |  |
@@ -71,19 +71,20 @@ conjunction 0, sextile 60, square 90, trine 120, opposition 180; orbs 8 Sun/Moon
 
 | element | n | bodies |
 |---|---|---|
-| Fire | 1 | Venus |
-| Earth | 5 | Sun, Mercury, Jupiter, Uranus, Pluto |
+| Fire | 0 |  |
+| Earth | 6 | Sun, Mercury, Venus, Jupiter, Uranus, Pluto |
 | Air | 2 | Moon, Mars |
 | Water | 2 | Saturn, Neptune |
 
 | mode | n | bodies |
 |---|---|---|
 | Cardinal | 1 | Mars |
-| Fixed | 6 | Moon, Venus, Jupiter, Saturn, Neptune, Pluto |
-| Mutable | 3 | Sun, Mercury, Uranus |
+| Fixed | 5 | Moon, Jupiter, Saturn, Neptune, Pluto |
+| Mutable | 4 | Sun, Mercury, Venus, Uranus |
 
 ## Dignities (traditional table; modern rulerships marked)
 
 - ☿ Mercury in Virgo: domicile, exaltation
+- ♀ Venus in Virgo: fall
 - ♂ Mars in Libra: detriment
 - ♇ Pluto in Taurus: detriment (modern)

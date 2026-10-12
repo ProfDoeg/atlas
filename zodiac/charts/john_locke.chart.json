@@ -170,16 +170,18 @@
   },
   "Venus": {
    "longitude": 149.997,
-   "sign": "Leo",
-   "degree": 30,
+   "sign": "Virgo",
+   "degree": 0,
    "minute": 0,
-   "text": "Leo 30°00′",
+   "text": "Virgo 0°00′",
    "glyph": "♀",
    "constellation": "Leo",
    "speed_deg_per_day": 1.2404,
    "retrograde": false,
    "house": 12,
-   "dignity": []
+   "dignity": [
+    "fall"
+   ]
   },
   "Mars": {
    "longitude": 202.441,
@@ -519,18 +521,17 @@
    "Pluto"
   ],
   "elements": {
-   "Fire": 1,
-   "Earth": 5,
+   "Fire": 0,
+   "Earth": 6,
    "Air": 2,
    "Water": 2
   },
   "elements_bodies": {
-   "Fire": [
-    "Venus"
-   ],
+   "Fire": [],
    "Earth": [
     "Sun",
     "Mercury",
+    "Venus",
     "Jupiter",
     "Uranus",
     "Pluto"
@@ -546,8 +547,8 @@
   },
   "modes": {
    "Cardinal": 1,
-   "Fixed": 6,
-   "Mutable": 3
+   "Fixed": 5,
+   "Mutable": 4
   },
   "modes_bodies": {
    "Cardinal": [
@@ -555,7 +556,6 @@
    ],
    "Fixed": [
     "Moon",
-    "Venus",
     "Jupiter",
     "Saturn",
     "Neptune",
@@ -564,6 +564,7 @@
    "Mutable": [
     "Sun",
     "Mercury",
+    "Venus",
     "Uranus"
    ]
   }
@@ -572,6 +573,9 @@
   "Mercury": [
    "domicile",
    "exaltation"
+  ],
+  "Venus": [
+   "fall"
   ],
   "Mars": [
    "detriment"
