@@ -26,6 +26,8 @@ BODIES = ["sun", "moon", "mercury", "venus", "mars", "jupiter", "saturn"]
 GLYPH = {"sun": "☉", "moon": "☽", "mercury": "☿", "venus": "♀",
          "mars": "♂", "jupiter": "♃", "saturn": "♄"}
 ASPECTS = [(0, "conjunction"), (60, "sextile"), (90, "square"), (120, "trine"), (180, "opposition")]
+SIGNS = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
+         "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
 
 
 def orb_for(b1, b2):
@@ -35,6 +37,43 @@ def orb_for(b1, b2):
 def sep(a, b):
     d = abs(a - b) % 360.0
     return min(d, 360.0 - d)
+
+
+def sign_text(lon):
+    lon = lon % 360.0
+    i = int(lon // 30.0)
+    d = lon - 30.0 * i
+    dd = int(d)
+    mm = int(round((d - dd) * 60))
+    if mm == 60:
+        dd, mm = dd + 1, 0
+    return f"{SIGNS[i]} {dd}°{mm:02d}′"
+
+
+def circular_mean(lons):
+    """mean longitude (deg) as the angle of the mean unit vector -- the right way
+    to average points on a circle; a plain arithmetic mean breaks across 0/360"""
+    import math
+    sx = sum(math.cos(math.radians(l)) for l in lons)
+    sy = sum(math.sin(math.radians(l)) for l in lons)
+    return math.degrees(math.atan2(sy, sx)) % 360.0
+
+
+def classify_triad(seps):
+    """seps: the three pairwise separations (deg) among three points. Returns a
+    label if they match a recognized 3-point pattern within a loose 6 deg orb,
+    else None."""
+    orb = 6.0
+    near = lambda a, b: abs(a - b) <= orb
+    if all(near(s, 120) for s in seps):
+        return "Grand Trine (all three ~120° apart)"
+    if sum(1 for s in seps if near(s, 180)) == 1 and sum(1 for s in seps if near(s, 90)) == 2:
+        return "T-square (two in opposition, the third square to both)"
+    if all(near(s, 0) for s in seps):
+        return "Stellium (all three conjunct)"
+    if all(near(s, 60) for s in seps):
+        return "all three in mutual sextile"
+    return None
 
 
 def names():
@@ -111,6 +150,36 @@ def main():
                          f"| {aname} | {GLYPH.get(b2,'')} {p2['traveler'].split()[0]} {b2} | {s:.2f}° |")
         lines.append("")
         total_aspects += len(aspects)
+
+    if len(people) >= 2:
+        lines.append("## Composite chart (circular mean of the group)\n")
+        lines.append("One synthetic body position per planet, averaged across everyone below "
+                     "(circular mean, not a plain average, so it handles the 0/360 wrap) -- "
+                     "reads as a single chart for the group as a unit.\n")
+        lines.append("| body | composite position |")
+        lines.append("|---|---|")
+        common = [b for b in BODIES if all(b in p["bodies"] for p in people)]
+        for b in common:
+            m = circular_mean([p["bodies"][b] for p in people])
+            lines.append(f"| {GLYPH.get(b,'')} {b} | {sign_text(m)} |")
+        lines.append("")
+
+    if len(people) == 3:
+        lines.append("## Triad patterns (same body, all three people)\n")
+        lines.append("For each body, the three pairwise separations among the three people's "
+                     "placements, checked against known 3-point shapes (orb 6°).\n")
+        found_any = False
+        common = [b for b in BODIES if all(b in p["bodies"] for p in people)]
+        for b in common:
+            lons = [p["bodies"][b] for p in people]
+            seps = [sep(lons[0], lons[1]), sep(lons[0], lons[2]), sep(lons[1], lons[2])]
+            label = classify_triad(seps)
+            if label:
+                found_any = True
+                lines.append(f"- {GLYPH.get(b,'')} {b}: {label} ({', '.join(f'{s:.1f}°' for s in seps)})")
+        if not found_any:
+            lines.append("- no recognized 3-point pattern on any shared body")
+        lines.append("")
 
     out_path = ZODIAC / f"synastry_{group_name}.md"
     out_path.write_text("\n".join(lines) + "\n", encoding="utf-8")

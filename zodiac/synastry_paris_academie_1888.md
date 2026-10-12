@@ -237,3 +237,17 @@
 | 4.44° | ♀ Jules-Félix venus | sextile | ☉ Louis sun | 64.44° |
 | 7.19° | ☽ Jules-Félix moon | square | ☽ Louis moon | 82.81° |
 
+## Composite chart (circular mean of the group)
+
+One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.
+
+| body | composite position |
+|---|---|
+| ☉ sun | Leo 21°05′ |
+| ☽ moon | Leo 16°53′ |
+| ☿ mercury | Virgo 4°30′ |
+| ♀ venus | Virgo 0°40′ |
+| ♂ mars | Virgo 7°00′ |
+| ♃ jupiter | Cancer 7°43′ |
+| ♄ saturn | Leo 3°17′ |
+

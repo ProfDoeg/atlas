@@ -27,3 +27,17 @@
 | 6.88° | ☽ Agustí moon | opposition | ☽ Antoni moon | 173.12° |
 | 7.94° | ♀ Agustí venus | conjunction | ☉ Antoni sun | 7.94° |
 
+## Composite chart (circular mean of the group)
+
+One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.
+
+| body | composite position |
+|---|---|
+| ☉ sun | Gemini 14°54′ |
+| ☽ moon | Cancer 8°44′ |
+| ☿ mercury | Gemini 1°53′ |
+| ♀ venus | Cancer 23°56′ |
+| ♂ mars | Scorpio 16°06′ |
+| ♃ jupiter | Virgo 17°35′ |
+| ♄ saturn | Cancer 2°09′ |
+

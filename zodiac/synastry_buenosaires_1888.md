@@ -72,3 +72,23 @@
 | 6.46° | ♀ Eugène venus | opposition | ☉ Ángel sun | 173.54° |
 | 7.61° | ♀ Eugène venus | trine | ☽ Ángel moon | 127.61° |
 
+## Composite chart (circular mean of the group)
+
+One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.
+
+| body | composite position |
+|---|---|
+| ☉ sun | Leo 24°27′ |
+| ☽ moon | Libra 26°45′ |
+| ☿ mercury | Leo 14°17′ |
+| ♀ venus | Leo 29°04′ |
+| ♂ mars | Cancer 15°41′ |
+| ♃ jupiter | Sagittarius 21°19′ |
+| ♄ saturn | Leo 7°43′ |
+
+## Triad patterns (same body, all three people)
+
+For each body, the three pairwise separations among the three people's placements, checked against known 3-point shapes (orb 6°).
+
+- no recognized 3-point pattern on any shared body
+

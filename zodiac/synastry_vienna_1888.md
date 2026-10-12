@@ -33,3 +33,17 @@
 | 6.72° | ♄ Gustav saturn | trine | ☉ Theodor sun | 126.72° |
 | 7.30° | ♂ Gustav mars | opposition | ☽ Theodor moon | 172.70° |
 
+## Composite chart (circular mean of the group)
+
+One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.
+
+| body | composite position |
+|---|---|
+| ☉ sun | Gemini 16°31′ |
+| ☽ moon | Sagittarius 10°33′ |
+| ☿ mercury | Taurus 26°08′ |
+| ♀ venus | Gemini 20°43′ |
+| ♂ mars | Aquarius 26°52′ |
+| ♃ jupiter | Leo 20°47′ |
+| ♄ saturn | Virgo 3°57′ |
+

@@ -138,3 +138,17 @@
 | 5.39° | ♀ Mary venus | sextile | ☽ Sir moon | 54.61° |
 | 7.12° | ☽ Mary moon | square | ☿ Sir mercury | 82.88° |
 
+## Composite chart (circular mean of the group)
+
+One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.
+
+| body | composite position |
+|---|---|
+| ☉ sun | Aquarius 28°10′ |
+| ☽ moon | Capricorn 25°04′ |
+| ☿ mercury | Capricorn 20°19′ |
+| ♀ venus | Virgo 23°08′ |
+| ♂ mars | Capricorn 14°05′ |
+| ♃ jupiter | Leo 8°48′ |
+| ♄ saturn | Virgo 10°45′ |
+
