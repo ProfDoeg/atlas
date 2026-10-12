@@ -7,20 +7,20 @@ Born 1831-08-12 (gregorian calendar), Yekaterinoslav, the Fadeyev house, on the 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 18°30′ | 1 | 0.960°/d | domicile |  |
-| ☽ Moon | ♎ Libra 9°33′ | 3 | 12.760°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 9°16′ | 2 | 1.563°/d | domicile, exaltation |  |
-| ♀ Venus | ♎ Libra 3°33′ | 3 | 0.846°/d | domicile |  |
-| ♂ Mars | ♍ Virgo 2°51′ | 2 | 0.633°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 17°19′ | 7 | R -0.131°/d |  |  |
-| ♄ Saturn | ♍ Virgo 3°07′ | 2 | 0.124°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 12°22′ | 7 | R -0.040°/d | domicile (modern) |  |
-| ♆ Neptune | ♑ Capricornus 22°54′ | 6 | R -0.024°/d |  |  |
-| ♇ Pluto | ♈ Aries 10°33′ | 9 | R -0.011°/d |  |  |
-| ☊ North Node | ♌ Leo 21°54′ | 1 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 21°54′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 18°30′ | Leo | 1 | 0.960°/d | domicile |  |
+| ☽ Moon | ♎ Libra 9°33′ | Virgo | 3 | 12.760°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 9°16′ | Leo | 2 | 1.563°/d | domicile, exaltation |  |
+| ♀ Venus | ♎ Libra 3°33′ | Virgo | 3 | 0.846°/d | domicile |  |
+| ♂ Mars | ♍ Virgo 2°51′ | Leo | 2 | 0.633°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 17°19′ | Capricornus | 7 | R -0.131°/d |  |  |
+| ♄ Saturn | ♍ Virgo 3°07′ | Leo | 2 | 0.124°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 12°22′ | Capricornus | 7 | R -0.040°/d | domicile (modern) |  |
+| ♆ Neptune | ♑ Capricornus 22°54′ | Sagittarius | 6 | R -0.024°/d |  |  |
+| ♇ Pluto | ♈ Aries 10°33′ | Pisces | 9 | R -0.011°/d |  |  |
+| ☊ North Node | ♌ Leo 21°54′ | Leo | 1 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 21°54′ | Capricornus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 
