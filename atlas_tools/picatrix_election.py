@@ -55,11 +55,17 @@ KINDS = [
                     r"translat|manifesto|treatise|novel\b|pamphlet"),
     # bare "cast" left out: "the shadow cast", "cast out" outnumber castings
     ("object",      r"painted|painting|canvas|bronze|carved|sculpt|forged|minted|unveil|inscri|"
-                    r"the machine|built|patent|the first .*(made|built)|talisman|engraved"),
+                    r"built|patent|the first .*(made|built)|talisman|engraved"),
     # "opens"/"opened" left out: a vault, a tomb or a case opened is not a creation
     ("founding",    r"founded|founding|foundation stone|consecrat|charter|inaugurat|launch"),
 ]
 KIND_RE = [(k, re.compile(p, re.I)) for k, p in KINDS]
+# nodus2's review: "the hull that was never launched" and "the city he founded" (a burial in it)
+# match a keyword without being a creation. Both are excluded after the match.
+NOT_CREATION = re.compile(
+    r"never\s+(\w+\s+)?(launch|built|complet|finish|publish|found|written|printed)"
+    r"|\b(he|she|they|who|which|that)\s+(\w+\s+){0,2}(founded|built|wrote|written|published)",
+    re.I)
 
 DOMICILE = {"Gemini", "Virgo"}
 EXALT = {"Virgo"}
@@ -70,6 +76,8 @@ WEEKDAYS = ["Sunday (Sun)", "Monday (Moon)", "Tuesday (Mars)", "Wednesday (Mercu
 
 
 def kind_of(text):
+    if NOT_CREATION.search(text):
+        return None
     for k, rx in KIND_RE:
         if rx.search(text):
             return k
