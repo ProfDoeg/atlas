@@ -75,6 +75,11 @@ WEEKDAYS = ["Sunday (Sun)", "Monday (Moon)", "Tuesday (Mars)", "Wednesday (Mercu
             "Thursday (Jupiter)", "Friday (Venus)", "Saturday (Saturn)"]
 
 
+# The one real creation NOT_CREATION throws out (7 of its 8 removals are right), restored by hand
+# and marked as such in the report: Alfonsina Storni's writers' society, nodus1's catch.
+RESTORED = {("1928-11-08", "Buenos Aires, the writers' society she built"): "founding"}
+
+
 def kind_of(text):
     if NOT_CREATION.search(text):
         return None
@@ -156,9 +161,13 @@ def collect():
             continue
         # stop name only: segment titles ("The Book Outlives the State") would tag every stop in them
         k = kind_of(r["stop_name"])
+        restored = (r["date"], r["stop_name"]) in RESTORED
+        if restored:
+            k = RESTORED[(r["date"], r["stop_name"])]
         if not k:
             continue
-        out.append(dict(r, kind=k, sky=read_sky(r["date"])))
+        out.append(dict(r, kind=k + (" (restored by hand)" if restored else ""),
+                        sky=read_sky(r["date"])))
     return out
 
 
