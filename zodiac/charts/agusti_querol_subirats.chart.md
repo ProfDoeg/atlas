@@ -7,20 +7,20 @@ Born 1860-05-17 (gregorian calendar), Tortosa, birth in the baker's house (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 26°16′ | 1 | 0.963°/d |  |  |
-| ☽ Moon | ♈ Aries 12°11′ | 12 | 12.161°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 5°18′ | 1 | 1.629°/d |  |  |
-| ♀ Venus | ♋ Cancer 11°28′ | 3 | 0.905°/d |  |  |
-| ♂ Mars | ♑ Capricornus 24°55′ | 9 | 0.317°/d | exaltation |  |
-| ♃ Jupiter | ♋ Cancer 21°30′ | 3 | 0.168°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 19°53′ | 4 | 0.046°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 7°08′ | 2 | 0.058°/d |  |  |
-| ♆ Neptune | ♓ Pisces 28°48′ | 11 | 0.024°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 8°27′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 5°33′ | 10 | mean node |  |  |
-| ☋ South Node | ♌ Leo 5°33′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 26°16′ | Taurus | 1 | 0.963°/d |  |  |
+| ☽ Moon | ♈ Aries 12°11′ | Pisces | 12 | 12.161°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 5°18′ | Aries | 1 | 1.629°/d |  |  |
+| ♀ Venus | ♋ Cancer 11°28′ | Gemini | 3 | 0.905°/d |  |  |
+| ♂ Mars | ♑ Capricornus 24°55′ | Sagittarius | 9 | 0.317°/d | exaltation |  |
+| ♃ Jupiter | ♋ Cancer 21°30′ | Gemini | 3 | 0.168°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 19°53′ | Leo | 4 | 0.046°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 7°08′ | Taurus | 2 | 0.058°/d |  |  |
+| ♆ Neptune | ♓ Pisces 28°48′ | Pisces | 11 | 0.024°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 8°27′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 5°33′ | Capricornus | 10 | mean node |  |  |
+| ☋ South Node | ♌ Leo 5°33′ | Cancer | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

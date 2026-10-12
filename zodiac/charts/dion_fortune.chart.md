@@ -7,20 +7,20 @@ Born 1890-12-06 (gregorian calendar), Llandudno, Bryn-y-Bia Road: the birth of V
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 13°52′ | 1 | 1.016°/d |  |  |
-| ☽ Moon | ♍ Virgo 29°43′ | 10 | 12.156°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♐ Sagittarius 24°15′ | 1 | 1.550°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 10°57′ | 1 | R -0.601°/d |  |  |
-| ♂ Mars | ♒ Aquarius 21°44′ | 3 | 0.746°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 9°18′ | 3 | 0.182°/d |  |  |
-| ♄ Saturn | ♍ Virgo 16°53′ | 10 | 0.039°/d |  |  |
-| ♅ Uranus | ♎ Libra 29°35′ | 11 | 0.049°/d |  |  |
-| ♆ Neptune | ♊ Gemini 5°11′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 6°48′ | 7 | R -0.019°/d |  |  |
-| ☊ North Node | ♊ Gemini 14°36′ | 7 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 14°36′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 13°52′ | Ophiuchus | 1 | 1.016°/d |  |  |
+| ☽ Moon | ♍ Virgo 29°43′ | Virgo | 10 | 12.156°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♐ Sagittarius 24°15′ | Ophiuchus | 1 | 1.550°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 10°57′ | Ophiuchus | 1 | R -0.601°/d |  |  |
+| ♂ Mars | ♒ Aquarius 21°44′ | Capricornus | 3 | 0.746°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 9°18′ | Capricornus | 3 | 0.182°/d |  |  |
+| ♄ Saturn | ♍ Virgo 16°53′ | Leo | 10 | 0.039°/d |  |  |
+| ♅ Uranus | ♎ Libra 29°35′ | Virgo | 11 | 0.049°/d |  |  |
+| ♆ Neptune | ♊ Gemini 5°11′ | Taurus | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 6°48′ | Taurus | 7 | R -0.019°/d |  |  |
+| ☊ North Node | ♊ Gemini 14°36′ | Taurus | 7 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 14°36′ | Ophiuchus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

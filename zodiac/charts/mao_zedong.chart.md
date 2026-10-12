@@ -7,20 +7,20 @@ Born 1893-12-26 (gregorian calendar), Shaoshan, birth in the mud-brick house (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 4°30′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♌ Leo 14°09′ | 8 | 14.669°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 15°47′ | 12 | 1.393°/d | detriment |  |
-| ♀ Venus | ♒ Aquarius 20°12′ | 2 | 0.833°/d |  |  |
-| ♂ Mars | ♏ Scorpio 25°53′ | 11 | 0.677°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 22°06′ | 5 | R -0.069°/d |  |  |
-| ♄ Saturn | ♎ Libra 23°59′ | 10 | 0.065°/d | exaltation |  |
-| ♅ Uranus | ♏ Scorpio 13°53′ | 11 | 0.045°/d |  |  |
-| ♆ Neptune | ♊ Gemini 11°34′ | 6 | R -0.026°/d |  |  |
-| ♇ Pluto | ♊ Gemini 9°23′ | 6 | R -0.017°/d |  |  |
-| ☊ North Node | ♈ Aries 15°30′ | 4 | mean node |  |  |
-| ☋ South Node | ♎ Libra 15°30′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 4°30′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♌ Leo 14°09′ | Cancer | 8 | 14.669°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 15°47′ | Ophiuchus | 12 | 1.393°/d | detriment |  |
+| ♀ Venus | ♒ Aquarius 20°12′ | Capricornus | 2 | 0.833°/d |  |  |
+| ♂ Mars | ♏ Scorpio 25°53′ | Libra | 11 | 0.677°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 22°06′ | Aries | 5 | R -0.069°/d |  |  |
+| ♄ Saturn | ♎ Libra 23°59′ | Virgo | 10 | 0.065°/d | exaltation |  |
+| ♅ Uranus | ♏ Scorpio 13°53′ | Libra | 11 | 0.045°/d |  |  |
+| ♆ Neptune | ♊ Gemini 11°34′ | Taurus | 6 | R -0.026°/d |  |  |
+| ♇ Pluto | ♊ Gemini 9°23′ | Taurus | 6 | R -0.017°/d |  |  |
+| ☊ North Node | ♈ Aries 15°30′ | Pisces | 4 | mean node |  |  |
+| ☋ South Node | ♎ Libra 15°30′ | Virgo | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

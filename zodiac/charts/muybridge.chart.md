@@ -7,20 +7,20 @@ Born 1830-04-09 (gregorian calendar), Kingston upon Thames: the birth of Edward 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 18°39′ | 1 | 0.981°/d | exaltation |  |
-| ☽ Moon | ♎ Libra 26°05′ | 7 | 11.837°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♈ Aries 5°04′ | 1 | 1.837°/d |  |  |
-| ♀ Venus | ♓ Pisces 11°06′ | 12 | 0.397°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 28°09′ | 10 | 0.661°/d | exaltation |  |
-| ♃ Jupiter | ♑ Capricornus 16°46′ | 10 | 0.081°/d | fall |  |
-| ♄ Saturn | ♌ Leo 11°23′ | 5 | R -0.007°/d (stationary) | detriment |  |
-| ♅ Uranus | ♒ Aquarius 9°59′ | 11 | 0.029°/d | domicile (modern) |  |
-| ♆ Neptune | ♑ Capricornus 22°42′ | 10 | 0.009°/d (stationary) |  |  |
-| ♇ Pluto | ♈ Aries 8°20′ | 1 | 0.024°/d |  |  |
-| ☊ North Node | ♍ Virgo 17°50′ | 6 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 17°50′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 18°39′ | Pisces | 1 | 0.981°/d | exaltation |  |
+| ☽ Moon | ♎ Libra 26°05′ | Virgo | 7 | 11.837°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♈ Aries 5°04′ | Pisces | 1 | 1.837°/d |  |  |
+| ♀ Venus | ♓ Pisces 11°06′ | Aquarius | 12 | 0.397°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 28°09′ | Sagittarius | 10 | 0.661°/d | exaltation |  |
+| ♃ Jupiter | ♑ Capricornus 16°46′ | Sagittarius | 10 | 0.081°/d | fall |  |
+| ♄ Saturn | ♌ Leo 11°23′ | Cancer | 5 | R -0.007°/d (stationary) | detriment |  |
+| ♅ Uranus | ♒ Aquarius 9°59′ | Capricornus | 11 | 0.029°/d | domicile (modern) |  |
+| ♆ Neptune | ♑ Capricornus 22°42′ | Sagittarius | 10 | 0.009°/d (stationary) |  |  |
+| ♇ Pluto | ♈ Aries 8°20′ | Pisces | 1 | 0.024°/d |  |  |
+| ☊ North Node | ♍ Virgo 17°50′ | Leo | 6 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 17°50′ | Aquarius | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

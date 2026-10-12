@@ -7,20 +7,20 @@ Born 1922-05-14 (gregorian calendar), Lucknow, the birth in the city of the Nawa
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 22°25′ | 1 | 0.965°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 27°34′ | 8 | 13.279°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♊ Gemini 11°50′ | 2 | 1.579°/d | domicile |  |
-| ♀ Venus | ♊ Gemini 15°48′ | 2 | 1.217°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 25°02′ | 8 | R -0.073°/d |  |  |
-| ♃ Jupiter | ♎ Libra 9°42′ | 6 | R -0.068°/d |  |  |
-| ♄ Saturn | ♎ Libra 1°17′ | 6 | R -0.034°/d | exaltation |  |
-| ♅ Uranus | ♓ Pisces 13°12′ | 11 | 0.028°/d |  |  |
-| ♆ Neptune | ♌ Leo 13°21′ | 4 | 0.011°/d |  |  |
-| ♇ Pluto | ♋ Cancer 8°29′ | 3 | 0.018°/d |  |  |
-| ☊ North Node | ♎ Libra 6°38′ | 6 | mean node |  |  |
-| ☋ South Node | ♈ Aries 6°38′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 22°25′ | Aries | 1 | 0.965°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 27°34′ | Sagittarius | 8 | 13.279°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♊ Gemini 11°50′ | Taurus | 2 | 1.579°/d | domicile |  |
+| ♀ Venus | ♊ Gemini 15°48′ | Taurus | 2 | 1.217°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 25°02′ | Ophiuchus | 8 | R -0.073°/d |  |  |
+| ♃ Jupiter | ♎ Libra 9°42′ | Virgo | 6 | R -0.068°/d |  |  |
+| ♄ Saturn | ♎ Libra 1°17′ | Virgo | 6 | R -0.034°/d | exaltation |  |
+| ♅ Uranus | ♓ Pisces 13°12′ | Aquarius | 11 | 0.028°/d |  |  |
+| ♆ Neptune | ♌ Leo 13°21′ | Cancer | 4 | 0.011°/d |  |  |
+| ♇ Pluto | ♋ Cancer 8°29′ | Gemini | 3 | 0.018°/d |  |  |
+| ☊ North Node | ♎ Libra 6°38′ | Virgo | 6 | mean node |  |  |
+| ☋ South Node | ♈ Aries 6°38′ | Pisces | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

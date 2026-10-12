@@ -7,20 +7,20 @@ Born 1872-03-31 (gregorian calendar), Selishchi: birth on the Volkhov (lat 58.89
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 10°36′ | 1 | 0.986°/d | exaltation |  |
-| ☽ Moon | ♐ Sagittarius 26°06′ | 9 | 14.056°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♈ Aries 28°27′ | 1 | 1.462°/d |  |  |
-| ♀ Venus | ♓ Pisces 12°36′ | 12 | 1.222°/d | exaltation |  |
-| ♂ Mars | ♈ Aries 22°05′ | 1 | 0.752°/d | domicile |  |
-| ♃ Jupiter | ♋ Cancer 20°13′ | 4 | 0.048°/d | exaltation |  |
-| ♄ Saturn | ♑ Capricornus 20°15′ | 10 | 0.048°/d | domicile |  |
-| ♅ Uranus | ♋ Cancer 27°00′ | 4 | R -0.003°/d (stationary) |  |  |
-| ♆ Neptune | ♈ Aries 23°14′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♉ Taurus 18°32′ | 2 | 0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♊ Gemini 15°57′ | 3 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 15°57′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 10°36′ | Pisces | 1 | 0.986°/d | exaltation |  |
+| ☽ Moon | ♐ Sagittarius 26°06′ | Ophiuchus | 9 | 14.056°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♈ Aries 28°27′ | Pisces | 1 | 1.462°/d |  |  |
+| ♀ Venus | ♓ Pisces 12°36′ | Aquarius | 12 | 1.222°/d | exaltation |  |
+| ♂ Mars | ♈ Aries 22°05′ | Pisces | 1 | 0.752°/d | domicile |  |
+| ♃ Jupiter | ♋ Cancer 20°13′ | Gemini | 4 | 0.048°/d | exaltation |  |
+| ♄ Saturn | ♑ Capricornus 20°15′ | Sagittarius | 10 | 0.048°/d | domicile |  |
+| ♅ Uranus | ♋ Cancer 27°00′ | Gemini | 4 | R -0.003°/d (stationary) |  |  |
+| ♆ Neptune | ♈ Aries 23°14′ | Pisces | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♉ Taurus 18°32′ | Aries | 2 | 0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♊ Gemini 15°57′ | Taurus | 3 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 15°57′ | Ophiuchus | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

@@ -7,20 +7,20 @@ Born 1895-05-11 (gregorian calendar), Madanapalle, birth in the market town (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 20°02′ | 1 | 0.965°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 14°57′ | 8 | 13.106°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 27°12′ | 1 | 2.139°/d |  |  |
-| ♀ Venus | ♊ Gemini 27°31′ | 2 | 1.168°/d |  |  |
-| ♂ Mars | ♋ Cancer 11°19′ | 3 | 0.605°/d | fall |  |
-| ♃ Jupiter | ♋ Cancer 5°00′ | 3 | 0.190°/d | exaltation |  |
-| ♄ Saturn | ♏ Scorpio 2°49′ | 7 | R -0.071°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 17°39′ | 7 | R -0.042°/d |  |  |
-| ♆ Neptune | ♊ Gemini 14°34′ | 2 | 0.035°/d |  |  |
-| ♇ Pluto | ♊ Gemini 10°47′ | 2 | 0.022°/d |  |  |
-| ☊ North Node | ♓ Pisces 18°58′ | 11 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 18°58′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 20°02′ | Aries | 1 | 0.965°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 14°57′ | Ophiuchus | 8 | 13.106°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 27°12′ | Taurus | 1 | 2.139°/d |  |  |
+| ♀ Venus | ♊ Gemini 27°31′ | Taurus | 2 | 1.168°/d |  |  |
+| ♂ Mars | ♋ Cancer 11°19′ | Gemini | 3 | 0.605°/d | fall |  |
+| ♃ Jupiter | ♋ Cancer 5°00′ | Gemini | 3 | 0.190°/d | exaltation |  |
+| ♄ Saturn | ♏ Scorpio 2°49′ | Virgo | 7 | R -0.071°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 17°39′ | Libra | 7 | R -0.042°/d |  |  |
+| ♆ Neptune | ♊ Gemini 14°34′ | Taurus | 2 | 0.035°/d |  |  |
+| ♇ Pluto | ♊ Gemini 10°47′ | Taurus | 2 | 0.022°/d |  |  |
+| ☊ North Node | ♓ Pisces 18°58′ | Aquarius | 11 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 18°58′ | Leo | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

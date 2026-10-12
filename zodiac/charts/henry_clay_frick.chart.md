@@ -7,20 +7,20 @@ Born 1849-12-19 (gregorian calendar), West Overton, born in the springhouse (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 27°03′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♒ Aquarius 14°05′ | 3 | 11.894°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 26°49′ | 1 | 1.583°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 9°17′ | 1 | 1.255°/d |  |  |
-| ♂ Mars | ♊ Gemini 26°00′ | 7 | R -0.391°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 22°29′ | 10 | 0.061°/d | detriment |  |
-| ♄ Saturn | ♈ Aries 1°17′ | 5 | 0.027°/d | fall |  |
-| ♅ Uranus | ♈ Aries 22°31′ | 5 | R -0.011°/d |  |  |
-| ♆ Neptune | ♓ Pisces 2°22′ | 4 | 0.020°/d | domicile (modern) |  |
-| ♇ Pluto | ♈ Aries 27°01′ | 5 | R -0.008°/d (stationary) |  |  |
-| ☊ North Node | ♌ Leo 26°53′ | 9 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 26°53′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 27°03′ | Sagittarius | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♒ Aquarius 14°05′ | Capricornus | 3 | 11.894°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 26°49′ | Sagittarius | 1 | 1.583°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 9°17′ | Ophiuchus | 1 | 1.255°/d |  |  |
+| ♂ Mars | ♊ Gemini 26°00′ | Taurus | 7 | R -0.391°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 22°29′ | Leo | 10 | 0.061°/d | detriment |  |
+| ♄ Saturn | ♈ Aries 1°17′ | Pisces | 5 | 0.027°/d | fall |  |
+| ♅ Uranus | ♈ Aries 22°31′ | Pisces | 5 | R -0.011°/d |  |  |
+| ♆ Neptune | ♓ Pisces 2°22′ | Aquarius | 4 | 0.020°/d | domicile (modern) |  |
+| ♇ Pluto | ♈ Aries 27°01′ | Pisces | 5 | R -0.008°/d (stationary) |  |  |
+| ☊ North Node | ♌ Leo 26°53′ | Leo | 9 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 26°53′ | Capricornus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

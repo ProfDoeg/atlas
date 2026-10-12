@@ -7,20 +7,20 @@ Born 1888-11-11 (gregorian calendar), Süderen-Linden, the birth-house in the Be
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 19°04′ | 1 | 1.007°/d |  |  |
-| ☽ Moon | ♒ Aquarius 22°59′ | 4 | 13.098°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 1°59′ | 1 | 0.174°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 20°36′ | 2 | 1.228°/d |  |  |
-| ♂ Mars | ♑ Capricornus 13°52′ | 3 | 0.758°/d | exaltation |  |
-| ♃ Jupiter | ♐ Sagittarius 11°10′ | 2 | 0.217°/d | domicile |  |
-| ♄ Saturn | ♌ Leo 20°04′ | 10 | 0.037°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 19°21′ | 12 | 0.057°/d |  |  |
-| ♆ Neptune | ♊ Gemini 1°15′ | 8 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 5°18′ | 8 | R -0.018°/d |  |  |
-| ☊ North Node | ♋ Cancer 24°34′ | 9 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 24°34′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 19°04′ | Libra | 1 | 1.007°/d |  |  |
+| ☽ Moon | ♒ Aquarius 22°59′ | Capricornus | 4 | 13.098°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 1°59′ | Virgo | 1 | 0.174°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 20°36′ | Ophiuchus | 2 | 1.228°/d |  |  |
+| ♂ Mars | ♑ Capricornus 13°52′ | Sagittarius | 3 | 0.758°/d | exaltation |  |
+| ♃ Jupiter | ♐ Sagittarius 11°10′ | Ophiuchus | 2 | 0.217°/d | domicile |  |
+| ♄ Saturn | ♌ Leo 20°04′ | Leo | 10 | 0.037°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 19°21′ | Virgo | 12 | 0.057°/d |  |  |
+| ♆ Neptune | ♊ Gemini 1°15′ | Taurus | 8 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 5°18′ | Taurus | 8 | R -0.018°/d |  |  |
+| ☊ North Node | ♋ Cancer 24°34′ | Gemini | 9 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 24°34′ | Sagittarius | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

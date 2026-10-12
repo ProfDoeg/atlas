@@ -7,20 +7,20 @@ Born 1920-04-13 (gregorian calendar), Milan, the banker's son (lat 45.4642, lng 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 22°46′ | 1 | 0.980°/d | exaltation |  |
-| ☽ Moon | ♒ Aquarius 8°57′ | 11 | 12.406°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 25°46′ | 12 | 0.761°/d | detriment, fall |  |
-| ♀ Venus | ♈ Aries 1°08′ | 1 | 1.228°/d | detriment |  |
-| ♂ Mars | ♏ Scorpio 3°56′ | 8 | R -0.336°/d | domicile |  |
-| ♃ Jupiter | ♌ Leo 8°13′ | 5 | 0.028°/d |  |  |
-| ♄ Saturn | ♍ Virgo 5°26′ | 6 | R -0.041°/d |  |  |
-| ♅ Uranus | ♓ Pisces 4°27′ | 12 | 0.043°/d |  |  |
-| ♆ Neptune | ♌ Leo 8°49′ | 5 | R -0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♋ Cancer 5°49′ | 4 | 0.009°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 16°56′ | 8 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 16°56′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 22°46′ | Pisces | 1 | 0.980°/d | exaltation |  |
+| ☽ Moon | ♒ Aquarius 8°57′ | Capricornus | 11 | 12.406°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 25°46′ | Pisces | 12 | 0.761°/d | detriment, fall |  |
+| ♀ Venus | ♈ Aries 1°08′ | Pisces | 1 | 1.228°/d | detriment |  |
+| ♂ Mars | ♏ Scorpio 3°56′ | Virgo | 8 | R -0.336°/d | domicile |  |
+| ♃ Jupiter | ♌ Leo 8°13′ | Cancer | 5 | 0.028°/d |  |  |
+| ♄ Saturn | ♍ Virgo 5°26′ | Leo | 6 | R -0.041°/d |  |  |
+| ♅ Uranus | ♓ Pisces 4°27′ | Aquarius | 12 | 0.043°/d |  |  |
+| ♆ Neptune | ♌ Leo 8°49′ | Cancer | 5 | R -0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♋ Cancer 5°49′ | Gemini | 4 | 0.009°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 16°56′ | Libra | 8 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 16°56′ | Aries | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

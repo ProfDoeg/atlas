@@ -7,20 +7,20 @@ Born 1900-09-26 (gregorian calendar), Buenos Aires, born in Palermo (lat -34.603
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 2°26′ | 1 | 0.981°/d | fall |  |
-| ☽ Moon | ♎ Libra 25°59′ | 1 | 11.857°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♎ Libra 12°05′ | 1 | 1.661°/d |  |  |
-| ♀ Venus | ♌ Leo 16°38′ | 11 | 1.031°/d |  |  |
-| ♂ Mars | ♋ Cancer 29°33′ | 10 | 0.593°/d | fall |  |
-| ♃ Jupiter | ♐ Sagittarius 5°53′ | 3 | 0.153°/d | domicile |  |
-| ♄ Saturn | ♐ Sagittarius 28°49′ | 3 | 0.038°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 8°59′ | 3 | 0.033°/d |  |  |
-| ♆ Neptune | ♊ Gemini 29°17′ | 9 | 0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 17°43′ | 9 | R -0.003°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 4°58′ | 3 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 4°58′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 2°26′ | Virgo | 1 | 0.981°/d | fall |  |
+| ☽ Moon | ♎ Libra 25°59′ | Virgo | 1 | 11.857°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♎ Libra 12°05′ | Virgo | 1 | 1.661°/d |  |  |
+| ♀ Venus | ♌ Leo 16°38′ | Cancer | 11 | 1.031°/d |  |  |
+| ♂ Mars | ♋ Cancer 29°33′ | Cancer | 10 | 0.593°/d | fall |  |
+| ♃ Jupiter | ♐ Sagittarius 5°53′ | Scorpius | 3 | 0.153°/d | domicile |  |
+| ♄ Saturn | ♐ Sagittarius 28°49′ | Sagittarius | 3 | 0.038°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 8°59′ | Ophiuchus | 3 | 0.033°/d |  |  |
+| ♆ Neptune | ♊ Gemini 29°17′ | Taurus | 9 | 0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 17°43′ | Taurus | 9 | R -0.003°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 4°58′ | Scorpius | 3 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 4°58′ | Taurus | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

@@ -7,20 +7,20 @@ Born 1926-10-15 (gregorian calendar), Poitiers, birth in the surgeon's house (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 20°53′ | 1 | 0.991°/d | fall |  |
-| ☽ Moon | ♑ Capricornus 25°57′ | 4 | 13.792°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♏ Scorpio 7°41′ | 2 | 1.478°/d |  |  |
-| ♀ Venus | ♎ Libra 11°24′ | 1 | 1.250°/d | domicile |  |
-| ♂ Mars | ♉ Taurus 17°34′ | 8 | R -0.227°/d | detriment |  |
-| ♃ Jupiter | ♒ Aquarius 17°28′ | 5 | 0.002°/d (stationary) |  |  |
-| ♄ Saturn | ♏ Scorpio 24°19′ | 2 | 0.106°/d |  |  |
-| ♅ Uranus | ♓ Pisces 26°41′ | 6 | R -0.035°/d |  |  |
-| ♆ Neptune | ♌ Leo 26°30′ | 11 | 0.024°/d |  |  |
-| ♇ Pluto | ♋ Cancer 15°59′ | 10 | 0.001°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 11°07′ | 10 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 11°07′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 20°53′ | Virgo | 1 | 0.991°/d | fall |  |
+| ☽ Moon | ♑ Capricornus 25°57′ | Sagittarius | 4 | 13.792°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♏ Scorpio 7°41′ | Virgo | 2 | 1.478°/d |  |  |
+| ♀ Venus | ♎ Libra 11°24′ | Virgo | 1 | 1.250°/d | domicile |  |
+| ♂ Mars | ♉ Taurus 17°34′ | Aries | 8 | R -0.227°/d | detriment |  |
+| ♃ Jupiter | ♒ Aquarius 17°28′ | Capricornus | 5 | 0.002°/d (stationary) |  |  |
+| ♄ Saturn | ♏ Scorpio 24°19′ | Libra | 2 | 0.106°/d |  |  |
+| ♅ Uranus | ♓ Pisces 26°41′ | Pisces | 6 | R -0.035°/d |  |  |
+| ♆ Neptune | ♌ Leo 26°30′ | Leo | 11 | 0.024°/d |  |  |
+| ♇ Pluto | ♋ Cancer 15°59′ | Gemini | 10 | 0.001°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 11°07′ | Gemini | 10 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 11°07′ | Sagittarius | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

@@ -7,20 +7,20 @@ Born 1973-12-21 (gregorian calendar), Weimar, the birth in the German Democratic
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 28°59′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♏ Scorpio 19°13′ | 12 | 12.214°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 18°11′ | 1 | 1.534°/d | detriment |  |
-| ♀ Venus | ♒ Aquarius 8°07′ | 3 | 0.464°/d |  |  |
-| ♂ Mars | ♈ Aries 29°00′ | 5 | 0.277°/d | domicile |  |
-| ♃ Jupiter | ♒ Aquarius 12°02′ | 3 | 0.205°/d |  |  |
-| ♄ Saturn | ♋ Cancer 1°29′ | 8 | R -0.083°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 26°48′ | 11 | 0.037°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 7°59′ | 1 | 0.036°/d |  |  |
-| ♇ Pluto | ♎ Libra 6°46′ | 11 | 0.011°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 28°30′ | 1 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 28°30′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 28°59′ | Sagittarius | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♏ Scorpio 19°13′ | Libra | 12 | 12.214°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 18°11′ | Ophiuchus | 1 | 1.534°/d | detriment |  |
+| ♀ Venus | ♒ Aquarius 8°07′ | Capricornus | 3 | 0.464°/d |  |  |
+| ♂ Mars | ♈ Aries 29°00′ | Pisces | 5 | 0.277°/d | domicile |  |
+| ♃ Jupiter | ♒ Aquarius 12°02′ | Capricornus | 3 | 0.205°/d |  |  |
+| ♄ Saturn | ♋ Cancer 1°29′ | Gemini | 8 | R -0.083°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 26°48′ | Virgo | 11 | 0.037°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 7°59′ | Ophiuchus | 1 | 0.036°/d |  |  |
+| ♇ Pluto | ♎ Libra 6°46′ | Virgo | 11 | 0.011°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 28°30′ | Sagittarius | 1 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 28°30′ | Taurus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

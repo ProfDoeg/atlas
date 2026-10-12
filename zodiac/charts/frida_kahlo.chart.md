@@ -7,20 +7,20 @@ Born 1907-07-06 (gregorian calendar), Casa Azul, Coyoacán: the birth in the blu
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 12°47′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♉ Taurus 22°07′ | 11 | 12.129°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 6°06′ | 2 | 0.417°/d |  |  |
-| ♀ Venus | ♊ Gemini 23°35′ | 12 | 1.216°/d |  |  |
-| ♂ Mars | ♑ Capricornus 13°31′ | 7 | R -0.293°/d | exaltation |  |
-| ♃ Jupiter | ♋ Cancer 20°19′ | 1 | 0.223°/d | exaltation |  |
-| ♄ Saturn | ♓ Pisces 27°18′ | 9 | 0.006°/d (stationary) |  |  |
-| ♅ Uranus | ♑ Capricornus 10°36′ | 7 | R -0.041°/d |  |  |
-| ♆ Neptune | ♋ Cancer 12°26′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 23°47′ | 12 | 0.022°/d |  |  |
-| ☊ North Node | ♋ Cancer 23°57′ | 1 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 23°57′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 12°47′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♉ Taurus 22°07′ | Aries | 11 | 12.129°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 6°06′ | Cancer | 2 | 0.417°/d |  |  |
+| ♀ Venus | ♊ Gemini 23°35′ | Taurus | 12 | 1.216°/d |  |  |
+| ♂ Mars | ♑ Capricornus 13°31′ | Sagittarius | 7 | R -0.293°/d | exaltation |  |
+| ♃ Jupiter | ♋ Cancer 20°19′ | Gemini | 1 | 0.223°/d | exaltation |  |
+| ♄ Saturn | ♓ Pisces 27°18′ | Pisces | 9 | 0.006°/d (stationary) |  |  |
+| ♅ Uranus | ♑ Capricornus 10°36′ | Sagittarius | 7 | R -0.041°/d |  |  |
+| ♆ Neptune | ♋ Cancer 12°26′ | Gemini | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 23°47′ | Taurus | 12 | 0.022°/d |  |  |
+| ☊ North Node | ♋ Cancer 23°57′ | Gemini | 1 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 23°57′ | Sagittarius | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

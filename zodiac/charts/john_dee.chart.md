@@ -7,20 +7,20 @@ Born 1527-07-13 (julian calendar), London, Tower Ward: the mercer's son (lat 51.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 28°50′ | 1 | 0.956°/d |  |  |
-| ☽ Moon | ♑ Capricornus 21°05′ | 7 | 15.215°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 11°10′ | 1 | 1.568°/d |  |  |
-| ♀ Venus | ♌ Leo 29°55′ | 2 | 1.201°/d |  |  |
-| ♂ Mars | ♏ Scorpio 25°33′ | 5 | 0.288°/d | domicile |  |
-| ♃ Jupiter | ♋ Cancer 8°57′ | 1 | 0.219°/d | exaltation |  |
-| ♄ Saturn | ♉ Taurus 0°45′ | 11 | 0.038°/d |  |  |
-| ♅ Uranus | ♊ Gemini 18°57′ | 12 | 0.049°/d |  |  |
-| ♆ Neptune | ♓ Pisces 16°43′ | 9 | R -0.016°/d | domicile (modern) |  |
-| ♇ Pluto | ♑ Capricornus 21°32′ | 7 | R -0.024°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 22°40′ | 6 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 22°40′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 28°50′ | Cancer | 1 | 0.956°/d |  |  |
+| ☽ Moon | ♑ Capricornus 21°05′ | Sagittarius | 7 | 15.215°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 11°10′ | Gemini | 1 | 1.568°/d |  |  |
+| ♀ Venus | ♌ Leo 29°55′ | Leo | 2 | 1.201°/d |  |  |
+| ♂ Mars | ♏ Scorpio 25°33′ | Libra | 5 | 0.288°/d | domicile |  |
+| ♃ Jupiter | ♋ Cancer 8°57′ | Gemini | 1 | 0.219°/d | exaltation |  |
+| ♄ Saturn | ♉ Taurus 0°45′ | Aries | 11 | 0.038°/d |  |  |
+| ♅ Uranus | ♊ Gemini 18°57′ | Taurus | 12 | 0.049°/d |  |  |
+| ♆ Neptune | ♓ Pisces 16°43′ | Aquarius | 9 | R -0.016°/d | domicile (modern) |  |
+| ♇ Pluto | ♑ Capricornus 21°32′ | Sagittarius | 7 | R -0.024°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 22°40′ | Ophiuchus | 6 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 22°40′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

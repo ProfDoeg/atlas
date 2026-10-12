@@ -7,20 +7,20 @@ Born 1883-02-08 (gregorian calendar), Třešť, the manufacturer's son (lat 49.2
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 18°56′ | 1 | 1.012°/d | detriment |  |
-| ☽ Moon | ♒ Aquarius 22°16′ | 1 | 14.771°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 14°23′ | 1 | R -1.164°/d |  |  |
-| ♀ Venus | ♑ Capricornus 2°26′ | 12 | 0.948°/d |  |  |
-| ♂ Mars | ♒ Aquarius 3°51′ | 1 | 0.778°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 21°27′ | 5 | R -0.024°/d | detriment |  |
-| ♄ Saturn | ♉ Taurus 19°24′ | 4 | 0.035°/d |  |  |
-| ♅ Uranus | ♍ Virgo 22°24′ | 8 | R -0.034°/d |  |  |
-| ♆ Neptune | ♉ Taurus 16°04′ | 4 | 0.007°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 28°19′ | 4 | R -0.001°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♏ Scorpio 15°56′ | 10 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 15°56′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 18°56′ | Capricornus | 1 | 1.012°/d | detriment |  |
+| ☽ Moon | ♒ Aquarius 22°16′ | Capricornus | 1 | 14.771°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 14°23′ | Capricornus | 1 | R -1.164°/d |  |  |
+| ♀ Venus | ♑ Capricornus 2°26′ | Sagittarius | 12 | 0.948°/d |  |  |
+| ♂ Mars | ♒ Aquarius 3°51′ | Capricornus | 1 | 0.778°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 21°27′ | Taurus | 5 | R -0.024°/d | detriment |  |
+| ♄ Saturn | ♉ Taurus 19°24′ | Aries | 4 | 0.035°/d |  |  |
+| ♅ Uranus | ♍ Virgo 22°24′ | Leo | 8 | R -0.034°/d |  |  |
+| ♆ Neptune | ♉ Taurus 16°04′ | Aries | 4 | 0.007°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 28°19′ | Taurus | 4 | R -0.001°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♏ Scorpio 15°56′ | Libra | 10 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 15°56′ | Aries | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

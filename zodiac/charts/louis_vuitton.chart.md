@@ -7,20 +7,20 @@ Born 1821-08-04 (gregorian calendar), Anchay, birth at the mill of Charbouilla (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 11°13′ | 1 | 0.958°/d | domicile |  |
-| ☽ Moon | ♎ Libra 18°22′ | 3 | 11.857°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 7°46′ | 1 | R -0.707°/d |  |  |
-| ♀ Venus | ♍ Virgo 1°04′ | 2 | 1.225°/d | fall |  |
-| ♂ Mars | ♊ Gemini 24°59′ | 11 | 0.667°/d |  |  |
-| ♃ Jupiter | ♈ Aries 29°55′ | 9 | 0.053°/d |  |  |
-| ♄ Saturn | ♈ Aries 26°31′ | 9 | 0.008°/d (stationary) | fall |  |
-| ♅ Uranus | ♐ Sagittarius 29°33′ | 5 | R -0.027°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 0°40′ | 6 | R -0.019°/d |  |  |
-| ♇ Pluto | ♓ Pisces 29°41′ | 8 | R -0.012°/d |  |  |
-| ☊ North Node | ♓ Pisces 5°42′ | 8 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 5°42′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 11°13′ | Cancer | 1 | 0.958°/d | domicile |  |
+| ☽ Moon | ♎ Libra 18°22′ | Virgo | 3 | 11.857°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 7°46′ | Cancer | 1 | R -0.707°/d |  |  |
+| ♀ Venus | ♍ Virgo 1°04′ | Leo | 2 | 1.225°/d | fall |  |
+| ♂ Mars | ♊ Gemini 24°59′ | Taurus | 11 | 0.667°/d |  |  |
+| ♃ Jupiter | ♈ Aries 29°55′ | Aries | 9 | 0.053°/d |  |  |
+| ♄ Saturn | ♈ Aries 26°31′ | Pisces | 9 | 0.008°/d (stationary) | fall |  |
+| ♅ Uranus | ♐ Sagittarius 29°33′ | Sagittarius | 5 | R -0.027°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 0°40′ | Sagittarius | 6 | R -0.019°/d |  |  |
+| ♇ Pluto | ♓ Pisces 29°41′ | Pisces | 8 | R -0.012°/d |  |  |
+| ☊ North Node | ♓ Pisces 5°42′ | Aquarius | 8 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 5°42′ | Leo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

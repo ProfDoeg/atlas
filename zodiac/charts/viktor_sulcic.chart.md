@@ -7,20 +7,20 @@ Born 1895-08-02 (gregorian calendar), Križ pri Trstu: the birth (lat 45.7342, l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 9°25′ | 1 | 0.957°/d | domicile |  |
-| ☽ Moon | ♐ Sagittarius 29°17′ | 5 | 12.485°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♋ Cancer 23°28′ | 12 | 1.720°/d |  |  |
-| ♀ Venus | ♍ Virgo 22°43′ | 2 | 0.721°/d | fall |  |
-| ♂ Mars | ♍ Virgo 2°27′ | 2 | 0.628°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 22°56′ | 12 | 0.219°/d | exaltation |  |
-| ♄ Saturn | ♏ Scorpio 1°19′ | 4 | 0.046°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 15°43′ | 4 | 0.007°/d (stationary) |  |  |
-| ♆ Neptune | ♊ Gemini 17°25′ | 11 | 0.025°/d |  |  |
-| ♇ Pluto | ♊ Gemini 12°29′ | 11 | 0.014°/d |  |  |
-| ☊ North Node | ♓ Pisces 14°34′ | 8 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 14°34′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 9°25′ | Cancer | 1 | 0.957°/d | domicile |  |
+| ☽ Moon | ♐ Sagittarius 29°17′ | Sagittarius | 5 | 12.485°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♋ Cancer 23°28′ | Gemini | 12 | 1.720°/d |  |  |
+| ♀ Venus | ♍ Virgo 22°43′ | Leo | 2 | 0.721°/d | fall |  |
+| ♂ Mars | ♍ Virgo 2°27′ | Leo | 2 | 0.628°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 22°56′ | Gemini | 12 | 0.219°/d | exaltation |  |
+| ♄ Saturn | ♏ Scorpio 1°19′ | Virgo | 4 | 0.046°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 15°43′ | Libra | 4 | 0.007°/d (stationary) |  |  |
+| ♆ Neptune | ♊ Gemini 17°25′ | Taurus | 11 | 0.025°/d |  |  |
+| ♇ Pluto | ♊ Gemini 12°29′ | Taurus | 11 | 0.014°/d |  |  |
+| ☊ North Node | ♓ Pisces 14°34′ | Aquarius | 8 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 14°34′ | Leo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

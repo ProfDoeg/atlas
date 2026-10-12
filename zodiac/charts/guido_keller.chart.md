@@ -7,20 +7,20 @@ Born 1892-02-06 (gregorian calendar), Milan, the birth of the von Kellerer heir 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 16°43′ | 1 | 1.013°/d | detriment |  |
-| ☽ Moon | ♉ Taurus 24°22′ | 4 | 13.762°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♑ Capricornus 27°01′ | 12 | 1.457°/d |  |  |
-| ♀ Venus | ♓ Pisces 20°11′ | 2 | 1.221°/d | exaltation |  |
-| ♂ Mars | ♐ Sagittarius 7°35′ | 11 | 0.621°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 20°38′ | 2 | 0.222°/d | domicile |  |
-| ♄ Saturn | ♍ Virgo 29°37′ | 8 | R -0.047°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 5°52′ | 10 | 0.003°/d (stationary) |  |  |
-| ♆ Neptune | ♊ Gemini 6°18′ | 5 | R -0.005°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 6°57′ | 5 | R -0.005°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 21°59′ | 4 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 21°59′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 16°43′ | Capricornus | 1 | 1.013°/d | detriment |  |
+| ☽ Moon | ♉ Taurus 24°22′ | Taurus | 4 | 13.762°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♑ Capricornus 27°01′ | Sagittarius | 12 | 1.457°/d |  |  |
+| ♀ Venus | ♓ Pisces 20°11′ | Aquarius | 2 | 1.221°/d | exaltation |  |
+| ♂ Mars | ♐ Sagittarius 7°35′ | Scorpius | 11 | 0.621°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 20°38′ | Aquarius | 2 | 0.222°/d | domicile |  |
+| ♄ Saturn | ♍ Virgo 29°37′ | Virgo | 8 | R -0.047°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 5°52′ | Virgo | 10 | 0.003°/d (stationary) |  |  |
+| ♆ Neptune | ♊ Gemini 6°18′ | Taurus | 5 | R -0.005°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 6°57′ | Taurus | 5 | R -0.005°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 21°59′ | Aries | 4 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 21°59′ | Libra | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

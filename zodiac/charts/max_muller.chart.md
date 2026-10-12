@@ -7,20 +7,20 @@ Born 1823-12-06 (gregorian calendar), Dessau, the birth in the Ducal residence-t
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 13°07′ | 1 | 1.016°/d |  |  |
-| ☽ Moon | ♑ Capricornus 21°06′ | 2 | 11.825°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 9°01′ | 1 | 1.568°/d | detriment |  |
-| ♀ Venus | ♎ Libra 27°16′ | 11 | 0.875°/d | domicile |  |
-| ♂ Mars | ♍ Virgo 21°57′ | 10 | 0.485°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 8°54′ | 8 | R -0.111°/d | exaltation |  |
-| ♄ Saturn | ♉ Taurus 18°35′ | 6 | R -0.070°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 10°03′ | 2 | 0.055°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 6°16′ | 2 | 0.035°/d |  |  |
-| ♇ Pluto | ♈ Aries 0°02′ | 5 | R -0.004°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 20°29′ | 2 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 20°29′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 13°07′ | Ophiuchus | 1 | 1.016°/d |  |  |
+| ☽ Moon | ♑ Capricornus 21°06′ | Sagittarius | 2 | 11.825°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 9°01′ | Ophiuchus | 1 | 1.568°/d | detriment |  |
+| ♀ Venus | ♎ Libra 27°16′ | Virgo | 11 | 0.875°/d | domicile |  |
+| ♂ Mars | ♍ Virgo 21°57′ | Leo | 10 | 0.485°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 8°54′ | Gemini | 8 | R -0.111°/d | exaltation |  |
+| ♄ Saturn | ♉ Taurus 18°35′ | Aries | 6 | R -0.070°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 10°03′ | Sagittarius | 2 | 0.055°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 6°16′ | Sagittarius | 2 | 0.035°/d |  |  |
+| ♇ Pluto | ♈ Aries 0°02′ | Pisces | 5 | R -0.004°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 20°29′ | Sagittarius | 2 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 20°29′ | Gemini | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

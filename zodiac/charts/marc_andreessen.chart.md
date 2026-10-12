@@ -7,20 +7,20 @@ Born 1971-07-09 (gregorian calendar), Cedar Falls, the birth (lat 42.5278, lng -
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 16°10′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♑ Capricornus 23°21′ | 7 | 13.904°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♌ Leo 4°41′ | 2 | 1.736°/d |  |  |
-| ♀ Venus | ♋ Cancer 2°33′ | 1 | 1.222°/d |  |  |
-| ♂ Mars | ♒ Aquarius 21°52′ | 8 | 0.027°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 26°55′ | 5 | R -0.047°/d |  |  |
-| ♄ Saturn | ♊ Gemini 2°16′ | 12 | 0.105°/d |  |  |
-| ♅ Uranus | ♎ Libra 9°27′ | 4 | 0.019°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 0°39′ | 6 | R -0.017°/d |  |  |
-| ♇ Pluto | ♍ Virgo 27°17′ | 3 | 0.017°/d |  |  |
-| ☊ North Node | ♒ Aquarius 15°57′ | 8 | mean node |  |  |
-| ☋ South Node | ♌ Leo 15°57′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 16°10′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♑ Capricornus 23°21′ | Sagittarius | 7 | 13.904°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♌ Leo 4°41′ | Cancer | 2 | 1.736°/d |  |  |
+| ♀ Venus | ♋ Cancer 2°33′ | Gemini | 1 | 1.222°/d |  |  |
+| ♂ Mars | ♒ Aquarius 21°52′ | Capricornus | 8 | 0.027°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 26°55′ | Libra | 5 | R -0.047°/d |  |  |
+| ♄ Saturn | ♊ Gemini 2°16′ | Taurus | 12 | 0.105°/d |  |  |
+| ♅ Uranus | ♎ Libra 9°27′ | Virgo | 4 | 0.019°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 0°39′ | Libra | 6 | R -0.017°/d |  |  |
+| ♇ Pluto | ♍ Virgo 27°17′ | Virgo | 3 | 0.017°/d |  |  |
+| ☊ North Node | ♒ Aquarius 15°57′ | Capricornus | 8 | mean node |  |  |
+| ☋ South Node | ♌ Leo 15°57′ | Cancer | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

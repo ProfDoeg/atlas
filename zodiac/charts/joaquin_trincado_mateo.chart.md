@@ -7,20 +7,20 @@ Born 1866-08-19 (gregorian calendar), Cintruénigo, the fourth child (lat 42.080
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 25°45′ | 1 | 0.963°/d | domicile |  |
-| ☽ Moon | ♐ Sagittarius 2°26′ | 5 | 11.880°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♌ Leo 29°42′ | 1 | R -0.868°/d |  |  |
-| ♀ Venus | ♎ Libra 7°52′ | 3 | 1.136°/d | domicile |  |
-| ♂ Mars | ♊ Gemini 16°34′ | 11 | 0.636°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 24°02′ | 6 | R -0.092°/d | fall |  |
-| ♄ Saturn | ♏ Scorpio 6°53′ | 4 | 0.062°/d |  |  |
-| ♅ Uranus | ♋ Cancer 7°01′ | 12 | 0.044°/d |  |  |
-| ♆ Neptune | ♈ Aries 12°32′ | 9 | R -0.017°/d |  |  |
-| ♇ Pluto | ♉ Taurus 15°12′ | 10 | R -0.001°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♎ Libra 4°34′ | 3 | mean node |  |  |
-| ☋ South Node | ♈ Aries 4°34′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 25°45′ | Leo | 1 | 0.963°/d | domicile |  |
+| ☽ Moon | ♐ Sagittarius 2°26′ | Scorpius | 5 | 11.880°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♌ Leo 29°42′ | Leo | 1 | R -0.868°/d |  |  |
+| ♀ Venus | ♎ Libra 7°52′ | Virgo | 3 | 1.136°/d | domicile |  |
+| ♂ Mars | ♊ Gemini 16°34′ | Taurus | 11 | 0.636°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 24°02′ | Sagittarius | 6 | R -0.092°/d | fall |  |
+| ♄ Saturn | ♏ Scorpio 6°53′ | Virgo | 4 | 0.062°/d |  |  |
+| ♅ Uranus | ♋ Cancer 7°01′ | Gemini | 12 | 0.044°/d |  |  |
+| ♆ Neptune | ♈ Aries 12°32′ | Pisces | 9 | R -0.017°/d |  |  |
+| ♇ Pluto | ♉ Taurus 15°12′ | Aries | 10 | R -0.001°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♎ Libra 4°34′ | Virgo | 3 | mean node |  |  |
+| ☋ South Node | ♈ Aries 4°34′ | Pisces | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

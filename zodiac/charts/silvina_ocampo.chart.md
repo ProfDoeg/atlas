@@ -7,20 +7,20 @@ Born 1903-07-28 (gregorian calendar), Buenos Aires, the house on Viamonte 550 (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 3°45′ | 1 | 0.956°/d | domicile |  |
-| ☽ Moon | ♍ Virgo 22°12′ | 2 | 14.286°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 5°15′ | 1 | 2.086°/d |  |  |
-| ♀ Venus | ♍ Virgo 17°47′ | 2 | 0.773°/d | fall |  |
-| ♂ Mars | ♎ Libra 24°29′ | 3 | 0.554°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 22°58′ | 8 | R -0.045°/d | domicile |  |
-| ♄ Saturn | ♒ Aquarius 6°02′ | 7 | R -0.074°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 22°01′ | 5 | R -0.027°/d |  |  |
-| ♆ Neptune | ♋ Cancer 4°37′ | 12 | 0.033°/d |  |  |
-| ♇ Pluto | ♊ Gemini 20°13′ | 11 | 0.018°/d |  |  |
-| ☊ North Node | ♎ Libra 10°09′ | 3 | mean node |  |  |
-| ☋ South Node | ♈ Aries 10°09′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 3°45′ | Cancer | 1 | 0.956°/d | domicile |  |
+| ☽ Moon | ♍ Virgo 22°12′ | Leo | 2 | 14.286°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 5°15′ | Cancer | 1 | 2.086°/d |  |  |
+| ♀ Venus | ♍ Virgo 17°47′ | Leo | 2 | 0.773°/d | fall |  |
+| ♂ Mars | ♎ Libra 24°29′ | Virgo | 3 | 0.554°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 22°58′ | Pisces | 8 | R -0.045°/d | domicile |  |
+| ♄ Saturn | ♒ Aquarius 6°02′ | Capricornus | 7 | R -0.074°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 22°01′ | Ophiuchus | 5 | R -0.027°/d |  |  |
+| ♆ Neptune | ♋ Cancer 4°37′ | Gemini | 12 | 0.033°/d |  |  |
+| ♇ Pluto | ♊ Gemini 20°13′ | Taurus | 11 | 0.018°/d |  |  |
+| ☊ North Node | ♎ Libra 10°09′ | Virgo | 3 | mean node |  |  |
+| ☋ South Node | ♈ Aries 10°09′ | Pisces | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

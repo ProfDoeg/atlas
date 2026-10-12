@@ -7,20 +7,20 @@ Born 1898-02-08 (gregorian calendar), Buenos Aires, born into the grain house (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 19°18′ | 1 | 1.012°/d | detriment |  |
-| ☽ Moon | ♍ Virgo 3°47′ | 8 | 12.910°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♑ Capricornus 25°48′ | 12 | 1.314°/d |  |  |
-| ♀ Venus | ♒ Aquarius 17°22′ | 1 | 1.254°/d |  |  |
-| ♂ Mars | ♑ Capricornus 27°59′ | 12 | 0.770°/d | exaltation |  |
-| ♃ Jupiter | ♎ Libra 9°57′ | 9 | R -0.046°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 10°52′ | 11 | 0.066°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 3°03′ | 11 | 0.025°/d |  |  |
-| ♆ Neptune | ♊ Gemini 19°52′ | 5 | R -0.011°/d |  |  |
-| ♇ Pluto | ♊ Gemini 12°48′ | 5 | R -0.006°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 25°48′ | 12 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 25°48′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 19°18′ | Capricornus | 1 | 1.012°/d | detriment |  |
+| ☽ Moon | ♍ Virgo 3°47′ | Leo | 8 | 12.910°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♑ Capricornus 25°48′ | Sagittarius | 12 | 1.314°/d |  |  |
+| ♀ Venus | ♒ Aquarius 17°22′ | Capricornus | 1 | 1.254°/d |  |  |
+| ♂ Mars | ♑ Capricornus 27°59′ | Sagittarius | 12 | 0.770°/d | exaltation |  |
+| ♃ Jupiter | ♎ Libra 9°57′ | Virgo | 9 | R -0.046°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 10°52′ | Ophiuchus | 11 | 0.066°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 3°03′ | Scorpius | 11 | 0.025°/d |  |  |
+| ♆ Neptune | ♊ Gemini 19°52′ | Taurus | 5 | R -0.011°/d |  |  |
+| ♇ Pluto | ♊ Gemini 12°48′ | Taurus | 5 | R -0.006°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 25°48′ | Sagittarius | 12 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 25°48′ | Gemini | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

@@ -7,20 +7,20 @@ Born 1868-07-13 (gregorian calendar), Choueifat, Mount Lebanon: birth into the h
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 20°49′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♈ Aries 20°29′ | 10 | 12.585°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 23°12′ | 1 | R -0.662°/d |  |  |
-| ♀ Venus | ♋ Cancer 26°40′ | 1 | R -0.596°/d |  |  |
-| ♂ Mars | ♊ Gemini 8°06′ | 12 | 0.695°/d |  |  |
-| ♃ Jupiter | ♈ Aries 13°42′ | 10 | 0.068°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 29°14′ | 5 | R -0.032°/d |  |  |
-| ♅ Uranus | ♋ Cancer 13°33′ | 1 | 0.060°/d |  |  |
-| ♆ Neptune | ♈ Aries 17°18′ | 10 | 0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 16°53′ | 11 | 0.011°/d | detriment (modern) |  |
-| ☊ North Node | ♌ Leo 27°49′ | 2 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 27°49′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 20°49′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♈ Aries 20°29′ | Pisces | 10 | 12.585°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 23°12′ | Gemini | 1 | R -0.662°/d |  |  |
+| ♀ Venus | ♋ Cancer 26°40′ | Gemini | 1 | R -0.596°/d |  |  |
+| ♂ Mars | ♊ Gemini 8°06′ | Taurus | 12 | 0.695°/d |  |  |
+| ♃ Jupiter | ♈ Aries 13°42′ | Pisces | 10 | 0.068°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 29°14′ | Libra | 5 | R -0.032°/d |  |  |
+| ♅ Uranus | ♋ Cancer 13°33′ | Gemini | 1 | 0.060°/d |  |  |
+| ♆ Neptune | ♈ Aries 17°18′ | Pisces | 10 | 0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 16°53′ | Aries | 11 | 0.011°/d | detriment (modern) |  |
+| ☊ North Node | ♌ Leo 27°49′ | Leo | 2 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 27°49′ | Capricornus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

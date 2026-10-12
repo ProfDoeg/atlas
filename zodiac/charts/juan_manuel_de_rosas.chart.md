@@ -7,20 +7,20 @@ Born 1793-03-30 (gregorian calendar), Buenos Aires, birth on the calle Santa Luc
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 9°45′ | 1 | 0.986°/d | exaltation |  |
-| ☽ Moon | ♏ Scorpio 7°27′ | 8 | 13.064°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 26°55′ | 1 | 1.573°/d |  |  |
-| ♀ Venus | ♉ Taurus 25°11′ | 2 | 0.881°/d | domicile |  |
-| ♂ Mars | ♈ Aries 20°28′ | 1 | 0.753°/d | domicile |  |
-| ♃ Jupiter | ♐ Sagittarius 1°40′ | 9 | R -0.038°/d | domicile |  |
-| ♄ Saturn | ♉ Taurus 2°05′ | 2 | 0.122°/d |  |  |
-| ♅ Uranus | ♌ Leo 19°37′ | 5 | R -0.023°/d | detriment (modern) |  |
-| ♆ Neptune | ♏ Scorpio 1°16′ | 8 | R -0.025°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 24°21′ | 11 | 0.022°/d |  |  |
-| ☊ North Node | ♍ Virgo 13°56′ | 6 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 13°56′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 9°45′ | Pisces | 1 | 0.986°/d | exaltation |  |
+| ☽ Moon | ♏ Scorpio 7°27′ | Virgo | 8 | 13.064°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 26°55′ | Pisces | 1 | 1.573°/d |  |  |
+| ♀ Venus | ♉ Taurus 25°11′ | Taurus | 2 | 0.881°/d | domicile |  |
+| ♂ Mars | ♈ Aries 20°28′ | Pisces | 1 | 0.753°/d | domicile |  |
+| ♃ Jupiter | ♐ Sagittarius 1°40′ | Scorpius | 9 | R -0.038°/d | domicile |  |
+| ♄ Saturn | ♉ Taurus 2°05′ | Aries | 2 | 0.122°/d |  |  |
+| ♅ Uranus | ♌ Leo 19°37′ | Leo | 5 | R -0.023°/d | detriment (modern) |  |
+| ♆ Neptune | ♏ Scorpio 1°16′ | Virgo | 8 | R -0.025°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 24°21′ | Capricornus | 11 | 0.022°/d |  |  |
+| ☊ North Node | ♍ Virgo 13°56′ | Leo | 6 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 13°56′ | Aquarius | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

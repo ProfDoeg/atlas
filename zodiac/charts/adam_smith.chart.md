@@ -7,20 +7,20 @@ Born 1723-06-05 (gregorian calendar), Kirkcaldy, the baptism in the parish regis
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 13°39′ | 1 | 0.956°/d |  |  |
-| ☽ Moon | ♋ Cancer 6°51′ | 2 | 13.050°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♋ Cancer 1°34′ | 2 | 1.773°/d |  |  |
-| ♀ Venus | ♉ Taurus 5°06′ | 12 | 1.158°/d | domicile |  |
-| ♂ Mars | ♈ Aries 14°53′ | 11 | 0.741°/d | domicile |  |
-| ♃ Jupiter | ♑ Capricornus 5°53′ | 8 | R -0.109°/d | fall |  |
-| ♄ Saturn | ♐ Sagittarius 26°58′ | 7 | R -0.071°/d |  |  |
-| ♅ Uranus | ♎ Libra 25°14′ | 5 | R -0.023°/d |  |  |
-| ♆ Neptune | ♉ Taurus 27°37′ | 12 | 0.036°/d |  |  |
-| ♇ Pluto | ♍ Virgo 23°20′ | 4 | 0.001°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 14°19′ | 1 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 14°19′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 13°39′ | Taurus | 1 | 0.956°/d |  |  |
+| ☽ Moon | ♋ Cancer 6°51′ | Gemini | 2 | 13.050°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♋ Cancer 1°34′ | Gemini | 2 | 1.773°/d |  |  |
+| ♀ Venus | ♉ Taurus 5°06′ | Aries | 12 | 1.158°/d | domicile |  |
+| ♂ Mars | ♈ Aries 14°53′ | Pisces | 11 | 0.741°/d | domicile |  |
+| ♃ Jupiter | ♑ Capricornus 5°53′ | Sagittarius | 8 | R -0.109°/d | fall |  |
+| ♄ Saturn | ♐ Sagittarius 26°58′ | Sagittarius | 7 | R -0.071°/d |  |  |
+| ♅ Uranus | ♎ Libra 25°14′ | Virgo | 5 | R -0.023°/d |  |  |
+| ♆ Neptune | ♉ Taurus 27°37′ | Taurus | 12 | 0.036°/d |  |  |
+| ♇ Pluto | ♍ Virgo 23°20′ | Leo | 4 | 0.001°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 14°19′ | Taurus | 1 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 14°19′ | Ophiuchus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

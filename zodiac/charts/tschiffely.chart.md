@@ -7,20 +7,20 @@ Born 1895-05-07 (gregorian calendar), Bern, birth into an old Swiss family (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 16°10′ | 1 | 0.967°/d |  |  |
-| ☽ Moon | ♎ Libra 20°15′ | 6 | 14.102°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 18°33′ | 1 | 2.173°/d |  |  |
-| ♀ Venus | ♊ Gemini 22°50′ | 2 | 1.174°/d |  |  |
-| ♂ Mars | ♋ Cancer 8°54′ | 3 | 0.604°/d | fall |  |
-| ♃ Jupiter | ♋ Cancer 4°15′ | 3 | 0.185°/d | exaltation |  |
-| ♄ Saturn | ♏ Scorpio 3°06′ | 7 | R -0.073°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 17°49′ | 7 | R -0.042°/d |  |  |
-| ♆ Neptune | ♊ Gemini 14°26′ | 2 | 0.034°/d |  |  |
-| ♇ Pluto | ♊ Gemini 10°42′ | 2 | 0.021°/d |  |  |
-| ☊ North Node | ♓ Pisces 19°11′ | 11 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 19°11′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 16°10′ | Aries | 1 | 0.967°/d |  |  |
+| ☽ Moon | ♎ Libra 20°15′ | Virgo | 6 | 14.102°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 18°33′ | Aries | 1 | 2.173°/d |  |  |
+| ♀ Venus | ♊ Gemini 22°50′ | Taurus | 2 | 1.174°/d |  |  |
+| ♂ Mars | ♋ Cancer 8°54′ | Gemini | 3 | 0.604°/d | fall |  |
+| ♃ Jupiter | ♋ Cancer 4°15′ | Gemini | 3 | 0.185°/d | exaltation |  |
+| ♄ Saturn | ♏ Scorpio 3°06′ | Virgo | 7 | R -0.073°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 17°49′ | Libra | 7 | R -0.042°/d |  |  |
+| ♆ Neptune | ♊ Gemini 14°26′ | Taurus | 2 | 0.034°/d |  |  |
+| ♇ Pluto | ♊ Gemini 10°42′ | Taurus | 2 | 0.021°/d |  |  |
+| ☊ North Node | ♓ Pisces 19°11′ | Aquarius | 11 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 19°11′ | Leo | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

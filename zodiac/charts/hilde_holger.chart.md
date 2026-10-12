@@ -7,20 +7,20 @@ Born 1905-10-18 (gregorian calendar), Vienna, the poet's daughter is born (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 23°57′ | 1 | 0.993°/d | fall |  |
-| ☽ Moon | ♊ Gemini 13°31′ | 9 | 12.073°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 27°51′ | 1 | 1.649°/d |  |  |
-| ♀ Venus | ♍ Virgo 25°22′ | 12 | 1.229°/d | fall |  |
-| ♂ Mars | ♑ Capricornus 7°02′ | 4 | 0.715°/d | exaltation |  |
-| ♃ Jupiter | ♊ Gemini 5°40′ | 9 | R -0.073°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 26°13′ | 5 | R -0.022°/d | domicile |  |
-| ♅ Uranus | ♑ Capricornus 0°48′ | 4 | 0.032°/d |  |  |
-| ♆ Neptune | ♋ Cancer 10°29′ | 10 | R -0.002°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 22°40′ | 9 | R -0.009°/d (stationary) |  |  |
-| ☊ North Node | ♌ Leo 27°06′ | 11 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 27°06′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 23°57′ | Virgo | 1 | 0.993°/d | fall |  |
+| ☽ Moon | ♊ Gemini 13°31′ | Taurus | 9 | 12.073°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 27°51′ | Virgo | 1 | 1.649°/d |  |  |
+| ♀ Venus | ♍ Virgo 25°22′ | Virgo | 12 | 1.229°/d | fall |  |
+| ♂ Mars | ♑ Capricornus 7°02′ | Sagittarius | 4 | 0.715°/d | exaltation |  |
+| ♃ Jupiter | ♊ Gemini 5°40′ | Taurus | 9 | R -0.073°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 26°13′ | Capricornus | 5 | R -0.022°/d | domicile |  |
+| ♅ Uranus | ♑ Capricornus 0°48′ | Sagittarius | 4 | 0.032°/d |  |  |
+| ♆ Neptune | ♋ Cancer 10°29′ | Gemini | 10 | R -0.002°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 22°40′ | Taurus | 9 | R -0.009°/d (stationary) |  |  |
+| ☊ North Node | ♌ Leo 27°06′ | Leo | 11 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 27°06′ | Capricornus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

@@ -7,20 +7,20 @@ Born 1632-08-29 (gregorian calendar), Wrington, the baptism at All Saints (lat 5
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 5°58′ | 1 | 0.969°/d |  |  |
-| ☽ Moon | ♒ Aquarius 25°31′ | 6 | 13.994°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♍ Virgo 19°45′ | 1 | 1.681°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 30°00′ | 12 | 1.240°/d |  |  |
-| ♂ Mars | ♎ Libra 22°26′ | 2 | 0.658°/d | detriment |  |
-| ♃ Jupiter | ♉ Taurus 25°45′ | 9 | 0.053°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 22°46′ | 3 | 0.053°/d |  |  |
-| ♅ Uranus | ♍ Virgo 23°53′ | 1 | 0.061°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 5°41′ | 3 | 0.022°/d |  |  |
-| ♇ Pluto | ♉ Taurus 24°49′ | 9 | R -0.002°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 29°48′ | 8 | mean node |  |  |
-| ☋ South Node | ♎ Libra 29°48′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 5°58′ | Leo | 1 | 0.969°/d |  |  |
+| ☽ Moon | ♒ Aquarius 25°31′ | Capricornus | 6 | 13.994°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♍ Virgo 19°45′ | Leo | 1 | 1.681°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 30°00′ | Leo | 12 | 1.240°/d |  |  |
+| ♂ Mars | ♎ Libra 22°26′ | Virgo | 2 | 0.658°/d | detriment |  |
+| ♃ Jupiter | ♉ Taurus 25°45′ | Taurus | 9 | 0.053°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 22°46′ | Libra | 3 | 0.053°/d |  |  |
+| ♅ Uranus | ♍ Virgo 23°53′ | Leo | 1 | 0.061°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 5°41′ | Virgo | 3 | 0.022°/d |  |  |
+| ♇ Pluto | ♉ Taurus 24°49′ | Taurus | 9 | R -0.002°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 29°48′ | Aries | 8 | mean node |  |  |
+| ☋ South Node | ♎ Libra 29°48′ | Virgo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

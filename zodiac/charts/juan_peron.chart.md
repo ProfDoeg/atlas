@@ -7,20 +7,20 @@ Born 1895-10-08 (gregorian calendar), Lobos, the adobe rancho on the pampa (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 14°28′ | 1 | 0.988°/d | fall |  |
-| ☽ Moon | ♊ Gemini 0°27′ | 9 | 12.733°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♏ Scorpio 9°00′ | 2 | 0.622°/d |  |  |
-| ♀ Venus | ♍ Virgo 18°04′ | 12 | R -0.102°/d | fall |  |
-| ♂ Mars | ♎ Libra 15°34′ | 1 | 0.661°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 5°31′ | 11 | 0.137°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 7°03′ | 2 | 0.114°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 17°57′ | 2 | 0.054°/d |  |  |
-| ♆ Neptune | ♊ Gemini 18°00′ | 9 | R -0.009°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 12°40′ | 9 | R -0.009°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 11°01′ | 6 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 11°01′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 14°28′ | Virgo | 1 | 0.988°/d | fall |  |
+| ☽ Moon | ♊ Gemini 0°27′ | Taurus | 9 | 12.733°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♏ Scorpio 9°00′ | Libra | 2 | 0.622°/d |  |  |
+| ♀ Venus | ♍ Virgo 18°04′ | Leo | 12 | R -0.102°/d | fall |  |
+| ♂ Mars | ♎ Libra 15°34′ | Virgo | 1 | 0.661°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 5°31′ | Cancer | 11 | 0.137°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 7°03′ | Virgo | 2 | 0.114°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 17°57′ | Libra | 2 | 0.054°/d |  |  |
+| ♆ Neptune | ♊ Gemini 18°00′ | Taurus | 9 | R -0.009°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 12°40′ | Taurus | 9 | R -0.009°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 11°01′ | Aquarius | 6 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 11°01′ | Leo | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

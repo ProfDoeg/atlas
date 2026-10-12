@@ -7,20 +7,20 @@ Born 1831-06-13 (gregorian calendar), 14 India Street, Edinburgh, the birth (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 21°12′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♋ Cancer 29°06′ | 2 | 14.412°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♊ Gemini 1°02′ | 1 | 0.390°/d | domicile |  |
-| ♀ Venus | ♌ Leo 1°32′ | 3 | 1.140°/d |  |  |
-| ♂ Mars | ♋ Cancer 25°12′ | 2 | 0.624°/d | fall |  |
-| ♃ Jupiter | ♒ Aquarius 22°24′ | 9 | R -0.005°/d (stationary) |  |  |
-| ♄ Saturn | ♌ Leo 26°50′ | 3 | 0.075°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 14°22′ | 9 | R -0.019°/d | domicile (modern) |  |
-| ♆ Neptune | ♑ Capricornus 24°26′ | 8 | R -0.021°/d |  |  |
-| ♇ Pluto | ♈ Aries 10°35′ | 11 | 0.010°/d |  |  |
-| ☊ North Node | ♌ Leo 25°04′ | 3 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 25°04′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 21°12′ | Taurus | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♋ Cancer 29°06′ | Cancer | 2 | 14.412°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♊ Gemini 1°02′ | Taurus | 1 | 0.390°/d | domicile |  |
+| ♀ Venus | ♌ Leo 1°32′ | Cancer | 3 | 1.140°/d |  |  |
+| ♂ Mars | ♋ Cancer 25°12′ | Gemini | 2 | 0.624°/d | fall |  |
+| ♃ Jupiter | ♒ Aquarius 22°24′ | Capricornus | 9 | R -0.005°/d (stationary) |  |  |
+| ♄ Saturn | ♌ Leo 26°50′ | Leo | 3 | 0.075°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 14°22′ | Capricornus | 9 | R -0.019°/d | domicile (modern) |  |
+| ♆ Neptune | ♑ Capricornus 24°26′ | Sagittarius | 8 | R -0.021°/d |  |  |
+| ♇ Pluto | ♈ Aries 10°35′ | Pisces | 11 | 0.010°/d |  |  |
+| ☊ North Node | ♌ Leo 25°04′ | Leo | 3 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 25°04′ | Capricornus | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

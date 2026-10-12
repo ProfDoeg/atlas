@@ -7,20 +7,20 @@ Born 1928-12-07 (gregorian calendar), East Oak Lane, Philadelphia, the birth (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 14°40′ | 1 | 1.016°/d |  |  |
-| ☽ Moon | ♎ Libra 18°03′ | 11 | 12.161°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 8°18′ | 1 | 1.564°/d | detriment |  |
-| ♀ Venus | ♑ Capricornus 23°56′ | 2 | 1.204°/d |  |  |
-| ♂ Mars | ♋ Cancer 4°56′ | 8 | R -0.332°/d | fall |  |
-| ♃ Jupiter | ♉ Taurus 1°15′ | 6 | R -0.065°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 20°40′ | 1 | 0.118°/d |  |  |
-| ♅ Uranus | ♈ Aries 3°37′ | 5 | R -0.005°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 1°28′ | 10 | R -0.002°/d (stationary) | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 17°59′ | 8 | R -0.017°/d |  |  |
-| ☊ North Node | ♉ Taurus 29°36′ | 6 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 29°36′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 14°40′ | Ophiuchus | 1 | 1.016°/d |  |  |
+| ☽ Moon | ♎ Libra 18°03′ | Virgo | 11 | 12.161°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 8°18′ | Ophiuchus | 1 | 1.564°/d | detriment |  |
+| ♀ Venus | ♑ Capricornus 23°56′ | Sagittarius | 2 | 1.204°/d |  |  |
+| ♂ Mars | ♋ Cancer 4°56′ | Gemini | 8 | R -0.332°/d | fall |  |
+| ♃ Jupiter | ♉ Taurus 1°15′ | Aries | 6 | R -0.065°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 20°40′ | Ophiuchus | 1 | 0.118°/d |  |  |
+| ♅ Uranus | ♈ Aries 3°37′ | Pisces | 5 | R -0.005°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 1°28′ | Leo | 10 | R -0.002°/d (stationary) | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 17°59′ | Gemini | 8 | R -0.017°/d |  |  |
+| ☊ North Node | ♉ Taurus 29°36′ | Taurus | 6 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 29°36′ | Libra | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

@@ -7,20 +7,20 @@ Born 1778-02-25 (gregorian calendar), Yapeyú, mission town on the Uruguay (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 6°33′ | 1 | 1.004°/d |  |  |
-| ☽ Moon | ♒ Aquarius 8°59′ | 12 | 13.079°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 9°32′ | 12 | 0.946°/d |  |  |
-| ♀ Venus | ♒ Aquarius 29°45′ | 12 | 1.249°/d |  |  |
-| ♂ Mars | ♈ Aries 1°10′ | 2 | 0.766°/d | domicile |  |
-| ♃ Jupiter | ♌ Leo 20°00′ | 6 | R -0.122°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 15°16′ | 9 | R -0.004°/d (stationary) |  |  |
-| ♅ Uranus | ♊ Gemini 11°13′ | 4 | 0.007°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 28°35′ | 7 | R -0.025°/d | detriment (modern) |  |
-| ♇ Pluto | ♒ Aquarius 0°56′ | 12 | 0.027°/d |  |  |
-| ☊ North Node | ♋ Cancer 5°49′ | 5 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 5°49′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 6°33′ | Aquarius | 1 | 1.004°/d |  |  |
+| ☽ Moon | ♒ Aquarius 8°59′ | Capricornus | 12 | 13.079°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 9°32′ | Capricornus | 12 | 0.946°/d |  |  |
+| ♀ Venus | ♒ Aquarius 29°45′ | Aquarius | 12 | 1.249°/d |  |  |
+| ♂ Mars | ♈ Aries 1°10′ | Pisces | 2 | 0.766°/d | domicile |  |
+| ♃ Jupiter | ♌ Leo 20°00′ | Leo | 6 | R -0.122°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 15°16′ | Libra | 9 | R -0.004°/d (stationary) |  |  |
+| ♅ Uranus | ♊ Gemini 11°13′ | Taurus | 4 | 0.007°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 28°35′ | Virgo | 7 | R -0.025°/d | detriment (modern) |  |
+| ♇ Pluto | ♒ Aquarius 0°56′ | Capricornus | 12 | 0.027°/d |  |  |
+| ☊ North Node | ♋ Cancer 5°49′ | Gemini | 5 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 5°49′ | Sagittarius | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

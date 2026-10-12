@@ -7,20 +7,20 @@ Born 1899-08-24 (gregorian calendar), Buenos Aires, the house on Calle Tucumán 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 0°35′ | 1 | 0.965°/d |  |  |
-| ☽ Moon | ♈ Aries 10°01′ | 8 | 14.570°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 22°35′ | 12 | R -0.611°/d |  |  |
-| ♀ Venus | ♌ Leo 24°15′ | 12 | 1.237°/d |  |  |
-| ♂ Mars | ♎ Libra 11°25′ | 2 | 0.643°/d | detriment |  |
-| ♃ Jupiter | ♏ Scorpio 4°51′ | 3 | 0.146°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 17°03′ | 4 | 0.004°/d (stationary) |  |  |
-| ♅ Uranus | ♐ Sagittarius 3°54′ | 4 | 0.010°/d (stationary) |  |  |
-| ♆ Neptune | ♊ Gemini 26°41′ | 10 | 0.020°/d |  |  |
-| ♇ Pluto | ♊ Gemini 16°38′ | 10 | 0.008°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 26°02′ | 4 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 26°02′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 0°35′ | Leo | 1 | 0.965°/d |  |  |
+| ☽ Moon | ♈ Aries 10°01′ | Pisces | 8 | 14.570°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 22°35′ | Leo | 12 | R -0.611°/d |  |  |
+| ♀ Venus | ♌ Leo 24°15′ | Leo | 12 | 1.237°/d |  |  |
+| ♂ Mars | ♎ Libra 11°25′ | Virgo | 2 | 0.643°/d | detriment |  |
+| ♃ Jupiter | ♏ Scorpio 4°51′ | Virgo | 3 | 0.146°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 17°03′ | Ophiuchus | 4 | 0.004°/d (stationary) |  |  |
+| ♅ Uranus | ♐ Sagittarius 3°54′ | Scorpius | 4 | 0.010°/d (stationary) |  |  |
+| ♆ Neptune | ♊ Gemini 26°41′ | Taurus | 10 | 0.020°/d |  |  |
+| ♇ Pluto | ♊ Gemini 16°38′ | Taurus | 10 | 0.008°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 26°02′ | Ophiuchus | 4 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 26°02′ | Taurus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

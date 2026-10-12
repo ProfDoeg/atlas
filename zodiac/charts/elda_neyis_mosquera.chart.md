@@ -7,20 +7,20 @@ Born 1963-08-15 (gregorian calendar), Nueva Antioquia, Turbo: one of twelve (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 21°28′ | 1 | 0.961°/d | domicile |  |
-| ☽ Moon | ♊ Gemini 27°19′ | 11 | 13.893°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♍ Virgo 17°06′ | 2 | 1.302°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 17°21′ | 1 | 1.235°/d |  |  |
-| ♂ Mars | ♎ Libra 11°36′ | 3 | 0.630°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 19°24′ | 9 | R -0.018°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 19°32′ | 7 | R -0.075°/d | domicile |  |
-| ♅ Uranus | ♍ Virgo 4°37′ | 2 | 0.061°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 13°03′ | 4 | 0.011°/d |  |  |
-| ♇ Pluto | ♍ Virgo 11°14′ | 2 | 0.033°/d |  |  |
-| ☊ North Node | ♋ Cancer 18°43′ | 12 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 18°43′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 21°28′ | Leo | 1 | 0.961°/d | domicile |  |
+| ☽ Moon | ♊ Gemini 27°19′ | Taurus | 11 | 13.893°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♍ Virgo 17°06′ | Leo | 2 | 1.302°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 17°21′ | Cancer | 1 | 1.235°/d |  |  |
+| ♂ Mars | ♎ Libra 11°36′ | Virgo | 3 | 0.630°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 19°24′ | Pisces | 9 | R -0.018°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 19°32′ | Capricornus | 7 | R -0.075°/d | domicile |  |
+| ♅ Uranus | ♍ Virgo 4°37′ | Leo | 2 | 0.061°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 13°03′ | Libra | 4 | 0.011°/d |  |  |
+| ♇ Pluto | ♍ Virgo 11°14′ | Leo | 2 | 0.033°/d |  |  |
+| ☊ North Node | ♋ Cancer 18°43′ | Gemini | 12 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 18°43′ | Sagittarius | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

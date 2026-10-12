@@ -7,20 +7,20 @@ Born 1881-10-25 (gregorian calendar), Málaga, the birth on the Plaza de la Merc
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 1°44′ | 1 | 0.998°/d |  |  |
-| ☽ Moon | ♏ Scorpio 24°56′ | 1 | 13.441°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♏ Scorpio 23°56′ | 1 | 0.366°/d |  |  |
-| ♀ Venus | ♎ Libra 3°19′ | 12 | 1.232°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 12°05′ | 9 | 0.276°/d | fall |  |
-| ♃ Jupiter | ♉ Taurus 23°45′ | 7 | R -0.118°/d |  |  |
-| ♄ Saturn | ♉ Taurus 9°16′ | 7 | R -0.080°/d |  |  |
-| ♅ Uranus | ♍ Virgo 16°48′ | 11 | 0.049°/d |  |  |
-| ♆ Neptune | ♉ Taurus 15°32′ | 7 | R -0.027°/d |  |  |
-| ♇ Pluto | ♉ Taurus 28°50′ | 7 | R -0.017°/d | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 10°53′ | 2 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 10°53′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 1°44′ | Virgo | 1 | 0.998°/d |  |  |
+| ☽ Moon | ♏ Scorpio 24°56′ | Libra | 1 | 13.441°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♏ Scorpio 23°56′ | Libra | 1 | 0.366°/d |  |  |
+| ♀ Venus | ♎ Libra 3°19′ | Virgo | 12 | 1.232°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 12°05′ | Gemini | 9 | 0.276°/d | fall |  |
+| ♃ Jupiter | ♉ Taurus 23°45′ | Taurus | 7 | R -0.118°/d |  |  |
+| ♄ Saturn | ♉ Taurus 9°16′ | Aries | 7 | R -0.080°/d |  |  |
+| ♅ Uranus | ♍ Virgo 16°48′ | Leo | 11 | 0.049°/d |  |  |
+| ♆ Neptune | ♉ Taurus 15°32′ | Aries | 7 | R -0.027°/d |  |  |
+| ♇ Pluto | ♉ Taurus 28°50′ | Taurus | 7 | R -0.017°/d | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 10°53′ | Ophiuchus | 2 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 10°53′ | Taurus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

@@ -7,20 +7,20 @@ Born 1824-12-20 (gregorian calendar), Pudding Lane, the surgeon's son is born (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 28°08′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 22°50′ | 1 | 13.020°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 13°39′ | 2 | 1.518°/d |  |  |
-| ♀ Venus | ♒ Aquarius 3°39′ | 3 | 1.222°/d |  |  |
-| ♂ Mars | ♒ Aquarius 5°49′ | 3 | 0.783°/d |  |  |
-| ♃ Jupiter | ♌ Leo 12°54′ | 9 | R -0.065°/d |  |  |
-| ♄ Saturn | ♊ Gemini 2°30′ | 7 | R -0.070°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 14°51′ | 2 | 0.058°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 8°54′ | 2 | 0.037°/d |  |  |
-| ♇ Pluto | ♈ Aries 1°08′ | 5 | 0.002°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 0°22′ | 2 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 0°22′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 28°08′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 22°50′ | Ophiuchus | 1 | 13.020°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 13°39′ | Sagittarius | 2 | 1.518°/d |  |  |
+| ♀ Venus | ♒ Aquarius 3°39′ | Capricornus | 3 | 1.222°/d |  |  |
+| ♂ Mars | ♒ Aquarius 5°49′ | Capricornus | 3 | 0.783°/d |  |  |
+| ♃ Jupiter | ♌ Leo 12°54′ | Cancer | 9 | R -0.065°/d |  |  |
+| ♄ Saturn | ♊ Gemini 2°30′ | Taurus | 7 | R -0.070°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 14°51′ | Sagittarius | 2 | 0.058°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 8°54′ | Sagittarius | 2 | 0.037°/d |  |  |
+| ♇ Pluto | ♈ Aries 1°08′ | Pisces | 5 | 0.002°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 0°22′ | Sagittarius | 2 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 0°22′ | Taurus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

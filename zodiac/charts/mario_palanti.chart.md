@@ -7,20 +7,20 @@ Born 1885-09-20 (gregorian calendar), Milan, the carpenter's second son (lat 45.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 27°11′ | 1 | 0.978°/d |  |  |
-| ☽ Moon | ♒ Aquarius 8°04′ | 6 | 11.955°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 9°25′ | 1 | 1.116°/d | domicile, exaltation |  |
-| ♀ Venus | ♏ Scorpio 3°05′ | 3 | 1.197°/d | detriment |  |
-| ♂ Mars | ♌ Leo 1°53′ | 12 | 0.609°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 18°45′ | 1 | 0.215°/d | detriment |  |
-| ♄ Saturn | ♋ Cancer 7°32′ | 11 | 0.054°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 2°44′ | 2 | 0.063°/d |  |  |
-| ♆ Neptune | ♉ Taurus 25°28′ | 9 | R -0.012°/d |  |  |
-| ♇ Pluto | ♊ Gemini 3°05′ | 10 | R -0.006°/d (stationary) |  |  |
-| ☊ North Node | ♍ Virgo 25°22′ | 1 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 25°22′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 27°11′ | Virgo | 1 | 0.978°/d |  |  |
+| ☽ Moon | ♒ Aquarius 8°04′ | Capricornus | 6 | 11.955°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 9°25′ | Leo | 1 | 1.116°/d | domicile, exaltation |  |
+| ♀ Venus | ♏ Scorpio 3°05′ | Virgo | 3 | 1.197°/d | detriment |  |
+| ♂ Mars | ♌ Leo 1°53′ | Cancer | 12 | 0.609°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 18°45′ | Leo | 1 | 0.215°/d | detriment |  |
+| ♄ Saturn | ♋ Cancer 7°32′ | Gemini | 11 | 0.054°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 2°44′ | Virgo | 2 | 0.063°/d |  |  |
+| ♆ Neptune | ♉ Taurus 25°28′ | Taurus | 9 | R -0.012°/d |  |  |
+| ♇ Pluto | ♊ Gemini 3°05′ | Taurus | 10 | R -0.006°/d (stationary) |  |  |
+| ☊ North Node | ♍ Virgo 25°22′ | Virgo | 1 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 25°22′ | Pisces | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

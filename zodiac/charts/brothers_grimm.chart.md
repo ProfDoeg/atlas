@@ -7,20 +7,20 @@ Born 1785-01-04 (gregorian calendar), Hanau, the house on the Paradeplatz (lat 5
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 14°09′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♎ Libra 16°23′ | 10 | 12.150°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 2°10′ | 2 | 1.372°/d |  |  |
-| ♀ Venus | ♒ Aquarius 20°16′ | 2 | 1.218°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 12°32′ | 12 | 0.711°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 5°48′ | 3 | 0.193°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 24°44′ | 1 | 0.117°/d | domicile |  |
-| ♅ Uranus | ♋ Cancer 14°13′ | 7 | R -0.043°/d |  |  |
-| ♆ Neptune | ♎ Libra 14°37′ | 10 | 0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♒ Aquarius 10°26′ | 2 | 0.028°/d |  |  |
-| ☊ North Node | ♒ Aquarius 23°10′ | 2 | mean node |  |  |
-| ☋ South Node | ♌ Leo 23°10′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 14°09′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♎ Libra 16°23′ | Virgo | 10 | 12.150°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 2°10′ | Capricornus | 2 | 1.372°/d |  |  |
+| ♀ Venus | ♒ Aquarius 20°16′ | Capricornus | 2 | 1.218°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 12°32′ | Ophiuchus | 12 | 0.711°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 5°48′ | Aquarius | 3 | 0.193°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 24°44′ | Sagittarius | 1 | 0.117°/d | domicile |  |
+| ♅ Uranus | ♋ Cancer 14°13′ | Gemini | 7 | R -0.043°/d |  |  |
+| ♆ Neptune | ♎ Libra 14°37′ | Virgo | 10 | 0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♒ Aquarius 10°26′ | Capricornus | 2 | 0.028°/d |  |  |
+| ☊ North Node | ♒ Aquarius 23°10′ | Capricornus | 2 | mean node |  |  |
+| ☋ South Node | ♌ Leo 23°10′ | Leo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

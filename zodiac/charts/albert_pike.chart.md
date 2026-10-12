@@ -7,20 +7,20 @@ Born 1809-12-29 (gregorian calendar), Boston, the cobbler's second son (lat 42.3
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 6°57′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♍ Virgo 25°38′ | 9 | 12.743°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♑ Capricornus 5°58′ | 1 | 1.601°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 18°30′ | 12 | 1.254°/d |  |  |
-| ♂ Mars | ♒ Aquarius 19°15′ | 2 | 0.781°/d |  |  |
-| ♃ Jupiter | ♈ Aries 15°42′ | 4 | 0.062°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 9°36′ | 12 | 0.110°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 12°56′ | 11 | 0.043°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 7°41′ | 12 | 0.034°/d |  |  |
-| ♇ Pluto | ♓ Pisces 13°57′ | 3 | 0.013°/d |  |  |
-| ☊ North Node | ♎ Libra 20°01′ | 10 | mean node |  |  |
-| ☋ South Node | ♈ Aries 20°01′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 6°57′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♍ Virgo 25°38′ | Virgo | 9 | 12.743°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♑ Capricornus 5°58′ | Sagittarius | 1 | 1.601°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 18°30′ | Ophiuchus | 12 | 1.254°/d |  |  |
+| ♂ Mars | ♒ Aquarius 19°15′ | Capricornus | 2 | 0.781°/d |  |  |
+| ♃ Jupiter | ♈ Aries 15°42′ | Pisces | 4 | 0.062°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 9°36′ | Ophiuchus | 12 | 0.110°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 12°56′ | Libra | 11 | 0.043°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 7°41′ | Scorpius | 12 | 0.034°/d |  |  |
+| ♇ Pluto | ♓ Pisces 13°57′ | Aquarius | 3 | 0.013°/d |  |  |
+| ☊ North Node | ♎ Libra 20°01′ | Virgo | 10 | mean node |  |  |
+| ☋ South Node | ♈ Aries 20°01′ | Pisces | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

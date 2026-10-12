@@ -7,20 +7,20 @@ Born 1837-04-17 (gregorian calendar), Hartford, Asylum Street: the birth (lat 41
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 26°46′ | 1 | 0.977°/d | exaltation |  |
-| ☽ Moon | ♍ Virgo 11°11′ | 6 | 12.280°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 28°46′ | 1 | 2.122°/d |  |  |
-| ♀ Venus | ♈ Aries 18°27′ | 1 | 1.235°/d | detriment |  |
-| ♂ Mars | ♌ Leo 12°03′ | 5 | 0.284°/d |  |  |
-| ♃ Jupiter | ♌ Leo 8°18′ | 5 | 0.041°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 15°09′ | 8 | R -0.069°/d |  |  |
-| ♅ Uranus | ♓ Pisces 7°21′ | 12 | 0.042°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 8°03′ | 11 | 0.013°/d |  |  |
-| ♇ Pluto | ♈ Aries 15°40′ | 1 | 0.024°/d |  |  |
-| ☊ North Node | ♉ Taurus 2°01′ | 2 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 2°01′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 26°46′ | Pisces | 1 | 0.977°/d | exaltation |  |
+| ☽ Moon | ♍ Virgo 11°11′ | Leo | 6 | 12.280°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 28°46′ | Pisces | 1 | 2.122°/d |  |  |
+| ♀ Venus | ♈ Aries 18°27′ | Pisces | 1 | 1.235°/d | detriment |  |
+| ♂ Mars | ♌ Leo 12°03′ | Cancer | 5 | 0.284°/d |  |  |
+| ♃ Jupiter | ♌ Leo 8°18′ | Cancer | 5 | 0.041°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 15°09′ | Libra | 8 | R -0.069°/d |  |  |
+| ♅ Uranus | ♓ Pisces 7°21′ | Aquarius | 12 | 0.042°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 8°03′ | Capricornus | 11 | 0.013°/d |  |  |
+| ♇ Pluto | ♈ Aries 15°40′ | Pisces | 1 | 0.024°/d |  |  |
+| ☊ North Node | ♉ Taurus 2°01′ | Aries | 2 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 2°01′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

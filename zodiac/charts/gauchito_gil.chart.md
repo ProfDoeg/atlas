@@ -7,20 +7,20 @@ Born 1840-01-01 (gregorian calendar), Pay Ubre, the birth in the camp (lat -29.2
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 9°43′ | 1 | 1.020°/d |  |  |
-| ☽ Moon | ♏ Scorpio 26°33′ | 11 | 11.882°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♐ Sagittarius 18°33′ | 12 | 0.376°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 23°33′ | 11 | 1.100°/d | detriment |  |
-| ♂ Mars | ♒ Aquarius 8°14′ | 2 | 0.787°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 13°08′ | 11 | 0.163°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 15°49′ | 12 | 0.111°/d |  |  |
-| ♅ Uranus | ♓ Pisces 13°17′ | 3 | 0.032°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 11°08′ | 2 | 0.034°/d |  |  |
-| ♇ Pluto | ♈ Aries 16°58′ | 4 | 0.000°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 9°38′ | 3 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 9°38′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 9°43′ | Sagittarius | 1 | 1.020°/d |  |  |
+| ☽ Moon | ♏ Scorpio 26°33′ | Libra | 11 | 11.882°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♐ Sagittarius 18°33′ | Ophiuchus | 12 | 0.376°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 23°33′ | Libra | 11 | 1.100°/d | detriment |  |
+| ♂ Mars | ♒ Aquarius 8°14′ | Capricornus | 2 | 0.787°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 13°08′ | Libra | 11 | 0.163°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 15°49′ | Ophiuchus | 12 | 0.111°/d |  |  |
+| ♅ Uranus | ♓ Pisces 13°17′ | Aquarius | 3 | 0.032°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 11°08′ | Capricornus | 2 | 0.034°/d |  |  |
+| ♇ Pluto | ♈ Aries 16°58′ | Pisces | 4 | 0.000°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 9°38′ | Aquarius | 3 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 9°38′ | Leo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

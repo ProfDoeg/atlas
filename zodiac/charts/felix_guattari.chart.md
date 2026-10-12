@@ -7,20 +7,20 @@ Born 1930-03-30 (gregorian calendar), Villeneuve-lès-Sablons, birth in the Oise
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 8°35′ | 1 | 0.988°/d | exaltation |  |
-| ☽ Moon | ♈ Aries 5°46′ | 1 | 12.615°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♈ Aries 5°58′ | 1 | 1.998°/d |  |  |
-| ♀ Venus | ♈ Aries 21°13′ | 1 | 1.238°/d | detriment |  |
-| ♂ Mars | ♓ Pisces 9°58′ | 12 | 0.782°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 11°30′ | 3 | 0.159°/d | detriment |  |
-| ♄ Saturn | ♑ Capricornus 11°17′ | 10 | 0.036°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 11°17′ | 1 | 0.057°/d |  |  |
-| ♆ Neptune | ♍ Virgo 1°22′ | 6 | R -0.021°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 17°29′ | 4 | R -0.001°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 4°17′ | 2 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 4°17′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 8°35′ | Pisces | 1 | 0.988°/d | exaltation |  |
+| ☽ Moon | ♈ Aries 5°46′ | Pisces | 1 | 12.615°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♈ Aries 5°58′ | Pisces | 1 | 1.998°/d |  |  |
+| ♀ Venus | ♈ Aries 21°13′ | Pisces | 1 | 1.238°/d | detriment |  |
+| ♂ Mars | ♓ Pisces 9°58′ | Aquarius | 12 | 0.782°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 11°30′ | Taurus | 3 | 0.159°/d | detriment |  |
+| ♄ Saturn | ♑ Capricornus 11°17′ | Sagittarius | 10 | 0.036°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 11°17′ | Pisces | 1 | 0.057°/d |  |  |
+| ♆ Neptune | ♍ Virgo 1°22′ | Leo | 6 | R -0.021°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 17°29′ | Gemini | 4 | R -0.001°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 4°17′ | Aries | 2 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 4°17′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

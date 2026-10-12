@@ -7,20 +7,20 @@ Born 1874-03-24 (gregorian calendar), Erzsebetvaros, Budapest, the birth he will
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 3°13′ | 1 | 0.990°/d | exaltation |  |
-| ☽ Moon | ♊ Gemini 21°42′ | 3 | 13.431°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 24°04′ | 12 | R -0.770°/d | detriment, fall |  |
-| ♀ Venus | ♈ Aries 10°17′ | 1 | 1.242°/d | detriment |  |
-| ♂ Mars | ♉ Taurus 1°48′ | 2 | 0.729°/d | detriment |  |
-| ♃ Jupiter | ♍ Virgo 25°58′ | 6 | R -0.128°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 11°06′ | 11 | 0.088°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 6°28′ | 5 | R -0.018°/d | detriment (modern) |  |
-| ♆ Neptune | ♈ Aries 27°18′ | 1 | 0.035°/d |  |  |
-| ♇ Pluto | ♉ Taurus 20°16′ | 2 | 0.016°/d | detriment (modern) |  |
-| ☊ North Node | ♉ Taurus 7°40′ | 2 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 7°40′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 3°13′ | Pisces | 1 | 0.990°/d | exaltation |  |
+| ☽ Moon | ♊ Gemini 21°42′ | Taurus | 3 | 13.431°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 24°04′ | Pisces | 12 | R -0.770°/d | detriment, fall |  |
+| ♀ Venus | ♈ Aries 10°17′ | Pisces | 1 | 1.242°/d | detriment |  |
+| ♂ Mars | ♉ Taurus 1°48′ | Aries | 2 | 0.729°/d | detriment |  |
+| ♃ Jupiter | ♍ Virgo 25°58′ | Virgo | 6 | R -0.128°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 11°06′ | Capricornus | 11 | 0.088°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 6°28′ | Cancer | 5 | R -0.018°/d | detriment (modern) |  |
+| ♆ Neptune | ♈ Aries 27°18′ | Pisces | 1 | 0.035°/d |  |  |
+| ♇ Pluto | ♉ Taurus 20°16′ | Aries | 2 | 0.016°/d | detriment (modern) |  |
+| ☊ North Node | ♉ Taurus 7°40′ | Aries | 2 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 7°40′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

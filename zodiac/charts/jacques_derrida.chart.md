@@ -7,20 +7,20 @@ Born 1930-07-15 (gregorian calendar), El Biar, the birth of Jackie Derrida (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 21°47′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♓ Pisces 7°26′ | 9 | 11.857°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 21°18′ | 1 | 2.147°/d |  |  |
-| ♀ Venus | ♍ Virgo 0°22′ | 3 | 1.160°/d | fall |  |
-| ♂ Mars | ♊ Gemini 0°19′ | 12 | 0.700°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 4°10′ | 1 | 0.223°/d | exaltation |  |
-| ♄ Saturn | ♑ Capricornus 7°22′ | 7 | R -0.070°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 15°28′ | 10 | 0.005°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 1°55′ | 3 | 0.030°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 19°17′ | 1 | 0.026°/d |  |  |
-| ☊ North Node | ♈ Aries 28°37′ | 10 | mean node |  |  |
-| ☋ South Node | ♎ Libra 28°37′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 21°47′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♓ Pisces 7°26′ | Aquarius | 9 | 11.857°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 21°18′ | Gemini | 1 | 2.147°/d |  |  |
+| ♀ Venus | ♍ Virgo 0°22′ | Leo | 3 | 1.160°/d | fall |  |
+| ♂ Mars | ♊ Gemini 0°19′ | Taurus | 12 | 0.700°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 4°10′ | Gemini | 1 | 0.223°/d | exaltation |  |
+| ♄ Saturn | ♑ Capricornus 7°22′ | Sagittarius | 7 | R -0.070°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 15°28′ | Pisces | 10 | 0.005°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 1°55′ | Leo | 3 | 0.030°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 19°17′ | Gemini | 1 | 0.026°/d |  |  |
+| ☊ North Node | ♈ Aries 28°37′ | Pisces | 10 | mean node |  |  |
+| ☋ South Node | ♎ Libra 28°37′ | Virgo | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

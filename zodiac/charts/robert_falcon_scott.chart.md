@@ -7,20 +7,20 @@ Born 1868-06-06 (gregorian calendar), Outlands, Stoke Damerel: the brewer's son 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 15°31′ | 1 | 0.956°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 23°43′ | 7 | 12.402°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♋ Cancer 7°05′ | 2 | 1.523°/d |  |  |
-| ♀ Venus | ♋ Cancer 26°25′ | 2 | 0.582°/d |  |  |
-| ♂ Mars | ♉ Taurus 11°38′ | 12 | 0.735°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 9°22′ | 11 | 0.160°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 1°14′ | 7 | R -0.071°/d |  |  |
-| ♅ Uranus | ♋ Cancer 11°21′ | 2 | 0.056°/d |  |  |
-| ♆ Neptune | ♈ Aries 16°48′ | 11 | 0.023°/d |  |  |
-| ♇ Pluto | ♉ Taurus 16°17′ | 12 | 0.020°/d | detriment (modern) |  |
-| ☊ North Node | ♌ Leo 29°46′ | 3 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 29°46′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 15°31′ | Taurus | 1 | 0.956°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 23°43′ | Ophiuchus | 7 | 12.402°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♋ Cancer 7°05′ | Gemini | 2 | 1.523°/d |  |  |
+| ♀ Venus | ♋ Cancer 26°25′ | Gemini | 2 | 0.582°/d |  |  |
+| ♂ Mars | ♉ Taurus 11°38′ | Aries | 12 | 0.735°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 9°22′ | Pisces | 11 | 0.160°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 1°14′ | Scorpius | 7 | R -0.071°/d |  |  |
+| ♅ Uranus | ♋ Cancer 11°21′ | Gemini | 2 | 0.056°/d |  |  |
+| ♆ Neptune | ♈ Aries 16°48′ | Pisces | 11 | 0.023°/d |  |  |
+| ♇ Pluto | ♉ Taurus 16°17′ | Aries | 12 | 0.020°/d | detriment (modern) |  |
+| ☊ North Node | ♌ Leo 29°46′ | Leo | 3 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 29°46′ | Aquarius | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

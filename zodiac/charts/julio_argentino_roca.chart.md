@@ -7,20 +7,20 @@ Born 1843-07-17 (gregorian calendar), San Miguel de Tucumán, the colonel's son 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 23°43′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♓ Pisces 25°31′ | 9 | 12.046°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♋ Cancer 3°59′ | 1 | 1.328°/d |  |  |
-| ♀ Venus | ♋ Cancer 2°56′ | 1 | 1.215°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 7°15′ | 6 | 0.052°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 26°03′ | 8 | R -0.091°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 22°15′ | 7 | R -0.074°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 2°23′ | 10 | R -0.007°/d (stationary) |  |  |
-| ♆ Neptune | ♒ Aquarius 20°47′ | 8 | R -0.024°/d |  |  |
-| ♇ Pluto | ♈ Aries 23°00′ | 10 | 0.002°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 1°10′ | 7 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 1°10′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 23°43′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♓ Pisces 25°31′ | Pisces | 9 | 12.046°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♋ Cancer 3°59′ | Gemini | 1 | 1.328°/d |  |  |
+| ♀ Venus | ♋ Cancer 2°56′ | Gemini | 1 | 1.215°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 7°15′ | Scorpius | 6 | 0.052°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 26°03′ | Capricornus | 8 | R -0.091°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 22°15′ | Sagittarius | 7 | R -0.074°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 2°23′ | Pisces | 10 | R -0.007°/d (stationary) |  |  |
+| ♆ Neptune | ♒ Aquarius 20°47′ | Capricornus | 8 | R -0.024°/d |  |  |
+| ♇ Pluto | ♈ Aries 23°00′ | Pisces | 10 | 0.002°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 1°10′ | Sagittarius | 7 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 1°10′ | Gemini | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

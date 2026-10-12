@@ -7,20 +7,20 @@ Born 1879-12-18 (gregorian calendar), Münchenbuchsee, the birth (lat 47.0167, l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 25°44′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♒ Aquarius 26°22′ | 3 | 13.413°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♐ Sagittarius 10°23′ | 1 | R -0.425°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 9°29′ | 12 | 1.092°/d | detriment |  |
-| ♂ Mars | ♉ Taurus 13°01′ | 6 | 0.022°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 6°55′ | 4 | 0.148°/d | domicile |  |
-| ♄ Saturn | ♈ Aries 8°40′ | 5 | 0.011°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 8°48′ | 10 | R -0.003°/d (stationary) |  |  |
-| ♆ Neptune | ♉ Taurus 9°34′ | 6 | R -0.018°/d |  |  |
-| ♇ Pluto | ♉ Taurus 25°57′ | 6 | R -0.016°/d | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 16°44′ | 2 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 16°44′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 25°44′ | Ophiuchus | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♒ Aquarius 26°22′ | Capricornus | 3 | 13.413°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♐ Sagittarius 10°23′ | Ophiuchus | 1 | R -0.425°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 9°29′ | Libra | 12 | 1.092°/d | detriment |  |
+| ♂ Mars | ♉ Taurus 13°01′ | Aries | 6 | 0.022°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 6°55′ | Aquarius | 4 | 0.148°/d | domicile |  |
+| ♄ Saturn | ♈ Aries 8°40′ | Pisces | 5 | 0.011°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 8°48′ | Leo | 10 | R -0.003°/d (stationary) |  |  |
+| ♆ Neptune | ♉ Taurus 9°34′ | Aries | 6 | R -0.018°/d |  |  |
+| ♇ Pluto | ♉ Taurus 25°57′ | Taurus | 6 | R -0.016°/d | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 16°44′ | Sagittarius | 2 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 16°44′ | Gemini | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

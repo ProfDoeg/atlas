@@ -7,20 +7,20 @@ Born 1924-06-12 (gregorian calendar), Milton, Massachusetts: the birth on Adams 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 20°45′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♎ Libra 8°45′ | 5 | 13.846°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 28°30′ | 12 | 1.386°/d |  |  |
-| ♀ Venus | ♋ Cancer 17°30′ | 2 | R -0.078°/d |  |  |
-| ♂ Mars | ♒ Aquarius 25°10′ | 9 | 0.421°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 14°15′ | 7 | R -0.126°/d | domicile |  |
-| ♄ Saturn | ♎ Libra 25°55′ | 5 | R -0.028°/d | exaltation |  |
-| ♅ Uranus | ♓ Pisces 21°34′ | 10 | 0.012°/d |  |  |
-| ♆ Neptune | ♌ Leo 18°11′ | 3 | 0.023°/d |  |  |
-| ♇ Pluto | ♋ Cancer 11°23′ | 2 | 0.024°/d |  |  |
-| ☊ North Node | ♌ Leo 26°23′ | 3 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 26°23′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 20°45′ | Taurus | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♎ Libra 8°45′ | Virgo | 5 | 13.846°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 28°30′ | Taurus | 12 | 1.386°/d |  |  |
+| ♀ Venus | ♋ Cancer 17°30′ | Gemini | 2 | R -0.078°/d |  |  |
+| ♂ Mars | ♒ Aquarius 25°10′ | Capricornus | 9 | 0.421°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 14°15′ | Ophiuchus | 7 | R -0.126°/d | domicile |  |
+| ♄ Saturn | ♎ Libra 25°55′ | Virgo | 5 | R -0.028°/d | exaltation |  |
+| ♅ Uranus | ♓ Pisces 21°34′ | Aquarius | 10 | 0.012°/d |  |  |
+| ♆ Neptune | ♌ Leo 18°11′ | Cancer | 3 | 0.023°/d |  |  |
+| ♇ Pluto | ♋ Cancer 11°23′ | Gemini | 2 | 0.024°/d |  |  |
+| ☊ North Node | ♌ Leo 26°23′ | Leo | 3 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 26°23′ | Capricornus | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

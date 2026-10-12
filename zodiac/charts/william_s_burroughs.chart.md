@@ -7,20 +7,20 @@ Born 1914-02-05 (gregorian calendar), St. Louis, birth on Pershing Avenue (lat 3
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 15°22′ | 1 | 1.014°/d | detriment |  |
-| ☽ Moon | ♊ Gemini 2°57′ | 5 | 12.522°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♒ Aquarius 23°12′ | 1 | 1.791°/d |  |  |
-| ♀ Venus | ♒ Aquarius 13°43′ | 1 | 1.255°/d |  |  |
-| ♂ Mars | ♋ Cancer 6°04′ | 6 | R -0.104°/d | fall |  |
-| ♃ Jupiter | ♒ Aquarius 3°21′ | 1 | 0.234°/d |  |  |
-| ♄ Saturn | ♊ Gemini 11°19′ | 5 | R -0.013°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 8°04′ | 1 | 0.058°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 26°24′ | 6 | R -0.026°/d |  |  |
-| ♇ Pluto | ♊ Gemini 29°22′ | 5 | R -0.013°/d |  |  |
-| ☊ North Node | ♓ Pisces 16°33′ | 2 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 16°33′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 15°22′ | Capricornus | 1 | 1.014°/d | detriment |  |
+| ☽ Moon | ♊ Gemini 2°57′ | Taurus | 5 | 12.522°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♒ Aquarius 23°12′ | Capricornus | 1 | 1.791°/d |  |  |
+| ♀ Venus | ♒ Aquarius 13°43′ | Capricornus | 1 | 1.255°/d |  |  |
+| ♂ Mars | ♋ Cancer 6°04′ | Gemini | 6 | R -0.104°/d | fall |  |
+| ♃ Jupiter | ♒ Aquarius 3°21′ | Capricornus | 1 | 0.234°/d |  |  |
+| ♄ Saturn | ♊ Gemini 11°19′ | Taurus | 5 | R -0.013°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 8°04′ | Capricornus | 1 | 0.058°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 26°24′ | Gemini | 6 | R -0.026°/d |  |  |
+| ♇ Pluto | ♊ Gemini 29°22′ | Taurus | 5 | R -0.013°/d |  |  |
+| ☊ North Node | ♓ Pisces 16°33′ | Aquarius | 2 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 16°33′ | Leo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

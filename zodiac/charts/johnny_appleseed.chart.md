@@ -7,20 +7,20 @@ Born 1774-09-26 (gregorian calendar), Leominster, the second child of Nathaniel 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 2°56′ | 1 | 0.983°/d | fall |  |
-| ☽ Moon | ♊ Gemini 13°20′ | 9 | 12.047°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 29°19′ | 12 | 1.813°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 7°37′ | 12 | 1.229°/d | fall |  |
-| ♂ Mars | ♌ Leo 0°55′ | 11 | 0.591°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 15°19′ | 8 | R -0.070°/d |  |  |
-| ♄ Saturn | ♍ Virgo 29°51′ | 12 | 0.124°/d |  |  |
-| ♅ Uranus | ♊ Gemini 2°15′ | 9 | R -0.015°/d |  |  |
-| ♆ Neptune | ♍ Virgo 20°51′ | 12 | 0.036°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 22°32′ | 4 | R -0.004°/d (stationary) |  |  |
-| ☊ North Node | ♍ Virgo 11°54′ | 12 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 11°54′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 2°56′ | Virgo | 1 | 0.983°/d | fall |  |
+| ☽ Moon | ♊ Gemini 13°20′ | Taurus | 9 | 12.047°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 29°19′ | Virgo | 12 | 1.813°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 7°37′ | Leo | 12 | 1.229°/d | fall |  |
+| ♂ Mars | ♌ Leo 0°55′ | Cancer | 11 | 0.591°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 15°19′ | Aries | 8 | R -0.070°/d |  |  |
+| ♄ Saturn | ♍ Virgo 29°51′ | Virgo | 12 | 0.124°/d |  |  |
+| ♅ Uranus | ♊ Gemini 2°15′ | Taurus | 9 | R -0.015°/d |  |  |
+| ♆ Neptune | ♍ Virgo 20°51′ | Leo | 12 | 0.036°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 22°32′ | Sagittarius | 4 | R -0.004°/d (stationary) |  |  |
+| ☊ North Node | ♍ Virgo 11°54′ | Leo | 12 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 11°54′ | Aquarius | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

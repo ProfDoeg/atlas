@@ -7,20 +7,20 @@ Born 1642-12-25 (gregorian calendar), Woolsthorpe Manor, the birth in the quart 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 3°25′ | 1 | 1.020°/d |  |  |
-| ☽ Moon | ♒ Aquarius 18°12′ | 2 | 14.757°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 12°07′ | 12 | 0.464°/d | detriment |  |
-| ♀ Venus | ♒ Aquarius 19°22′ | 2 | 0.852°/d |  |  |
-| ♂ Mars | ♉ Taurus 4°43′ | 5 | 0.236°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 12°30′ | 3 | 0.154°/d | domicile |  |
-| ♄ Saturn | ♓ Pisces 19°14′ | 3 | 0.058°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 15°07′ | 11 | 0.046°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 0°38′ | 12 | 0.033°/d |  |  |
-| ♇ Pluto | ♊ Gemini 2°49′ | 6 | R -0.016°/d |  |  |
-| ☊ North Node | ♎ Libra 10°10′ | 10 | mean node |  |  |
-| ☋ South Node | ♈ Aries 10°10′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 3°25′ | Sagittarius | 1 | 1.020°/d |  |  |
+| ☽ Moon | ♒ Aquarius 18°12′ | Capricornus | 2 | 14.757°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 12°07′ | Ophiuchus | 12 | 0.464°/d | detriment |  |
+| ♀ Venus | ♒ Aquarius 19°22′ | Capricornus | 2 | 0.852°/d |  |  |
+| ♂ Mars | ♉ Taurus 4°43′ | Aries | 5 | 0.236°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 12°30′ | Aquarius | 3 | 0.154°/d | domicile |  |
+| ♄ Saturn | ♓ Pisces 19°14′ | Aquarius | 3 | 0.058°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 15°07′ | Libra | 11 | 0.046°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 0°38′ | Libra | 12 | 0.033°/d |  |  |
+| ♇ Pluto | ♊ Gemini 2°49′ | Taurus | 6 | R -0.016°/d |  |  |
+| ☊ North Node | ♎ Libra 10°10′ | Virgo | 10 | mean node |  |  |
+| ☋ South Node | ♈ Aries 10°10′ | Pisces | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

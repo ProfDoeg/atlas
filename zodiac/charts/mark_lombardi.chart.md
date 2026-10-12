@@ -7,20 +7,20 @@ Born 1951-03-23 (gregorian calendar), Manlius, the birth the record gives twice 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 1°34′ | 1 | 0.992°/d | exaltation |  |
-| ☽ Moon | ♍ Virgo 25°48′ | 6 | 13.676°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♈ Aries 12°54′ | 1 | 1.935°/d |  |  |
-| ♀ Venus | ♉ Taurus 1°56′ | 2 | 1.215°/d | domicile |  |
-| ♂ Mars | ♈ Aries 16°09′ | 1 | 0.759°/d | domicile |  |
-| ♃ Jupiter | ♓ Pisces 23°06′ | 12 | 0.241°/d | domicile |  |
-| ♄ Saturn | ♍ Virgo 28°55′ | 6 | R -0.079°/d |  |  |
-| ♅ Uranus | ♋ Cancer 5°25′ | 4 | 0.008°/d (stationary) |  |  |
-| ♆ Neptune | ♎ Libra 18°42′ | 7 | R -0.026°/d |  |  |
-| ♇ Pluto | ♌ Leo 17°47′ | 5 | R -0.016°/d |  |  |
-| ☊ North Node | ♓ Pisces 18°30′ | 12 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 18°30′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 1°34′ | Pisces | 1 | 0.992°/d | exaltation |  |
+| ☽ Moon | ♍ Virgo 25°48′ | Virgo | 6 | 13.676°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♈ Aries 12°54′ | Pisces | 1 | 1.935°/d |  |  |
+| ♀ Venus | ♉ Taurus 1°56′ | Aries | 2 | 1.215°/d | domicile |  |
+| ♂ Mars | ♈ Aries 16°09′ | Pisces | 1 | 0.759°/d | domicile |  |
+| ♃ Jupiter | ♓ Pisces 23°06′ | Pisces | 12 | 0.241°/d | domicile |  |
+| ♄ Saturn | ♍ Virgo 28°55′ | Virgo | 6 | R -0.079°/d |  |  |
+| ♅ Uranus | ♋ Cancer 5°25′ | Gemini | 4 | 0.008°/d (stationary) |  |  |
+| ♆ Neptune | ♎ Libra 18°42′ | Virgo | 7 | R -0.026°/d |  |  |
+| ♇ Pluto | ♌ Leo 17°47′ | Cancer | 5 | R -0.016°/d |  |  |
+| ☊ North Node | ♓ Pisces 18°30′ | Aquarius | 12 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 18°30′ | Leo | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

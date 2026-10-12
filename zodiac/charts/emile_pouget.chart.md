@@ -7,20 +7,20 @@ Born 1860-10-12 (gregorian calendar), Pont-de-Salars, the notary's son (lat 44.2
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 18°54′ | 1 | 0.991°/d | fall |  |
-| ☽ Moon | ♍ Virgo 11°55′ | 12 | 14.910°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 2°27′ | 2 | 1.538°/d |  |  |
-| ♀ Venus | ♍ Virgo 3°17′ | 12 | 1.067°/d | fall |  |
-| ♂ Mars | ♒ Aquarius 5°58′ | 5 | 0.525°/d |  |  |
-| ♃ Jupiter | ♌ Leo 21°31′ | 11 | 0.161°/d |  |  |
-| ♄ Saturn | ♍ Virgo 5°39′ | 12 | 0.104°/d |  |  |
-| ♅ Uranus | ♊ Gemini 11°46′ | 9 | R -0.021°/d |  |  |
-| ♆ Neptune | ♓ Pisces 27°22′ | 6 | R -0.025°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 8°53′ | 8 | R -0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 27°43′ | 4 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 27°43′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 18°54′ | Virgo | 1 | 0.991°/d | fall |  |
+| ☽ Moon | ♍ Virgo 11°55′ | Leo | 12 | 14.910°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 2°27′ | Virgo | 2 | 1.538°/d |  |  |
+| ♀ Venus | ♍ Virgo 3°17′ | Leo | 12 | 1.067°/d | fall |  |
+| ♂ Mars | ♒ Aquarius 5°58′ | Capricornus | 5 | 0.525°/d |  |  |
+| ♃ Jupiter | ♌ Leo 21°31′ | Leo | 11 | 0.161°/d |  |  |
+| ♄ Saturn | ♍ Virgo 5°39′ | Leo | 12 | 0.104°/d |  |  |
+| ♅ Uranus | ♊ Gemini 11°46′ | Taurus | 9 | R -0.021°/d |  |  |
+| ♆ Neptune | ♓ Pisces 27°22′ | Pisces | 6 | R -0.025°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 8°53′ | Aries | 8 | R -0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 27°43′ | Sagittarius | 4 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 27°43′ | Gemini | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

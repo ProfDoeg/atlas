@@ -7,20 +7,20 @@ Born 1724-04-22 (gregorian calendar), Königsberg, the birth in the Vorstadt (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 1°59′ | 1 | 0.973°/d |  |  |
-| ☽ Moon | ♈ Aries 12°11′ | 12 | 15.141°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 20°01′ | 12 | 1.929°/d |  |  |
-| ♀ Venus | ♊ Gemini 10°19′ | 2 | 1.165°/d |  |  |
-| ♂ Mars | ♋ Cancer 18°55′ | 3 | 0.508°/d | fall |  |
-| ♃ Jupiter | ♒ Aquarius 10°00′ | 10 | 0.114°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 10°38′ | 9 | R -0.004°/d (stationary) | domicile |  |
-| ♅ Uranus | ♏ Scorpio 1°39′ | 7 | R -0.043°/d |  |  |
-| ♆ Neptune | ♉ Taurus 28°12′ | 1 | 0.034°/d |  |  |
-| ♇ Pluto | ♍ Virgo 26°09′ | 5 | R -0.021°/d |  |  |
-| ☊ North Node | ♉ Taurus 27°16′ | 1 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 27°16′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 1°59′ | Aries | 1 | 0.973°/d |  |  |
+| ☽ Moon | ♈ Aries 12°11′ | Pisces | 12 | 15.141°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 20°01′ | Pisces | 12 | 1.929°/d |  |  |
+| ♀ Venus | ♊ Gemini 10°19′ | Taurus | 2 | 1.165°/d |  |  |
+| ♂ Mars | ♋ Cancer 18°55′ | Gemini | 3 | 0.508°/d | fall |  |
+| ♃ Jupiter | ♒ Aquarius 10°00′ | Capricornus | 10 | 0.114°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 10°38′ | Sagittarius | 9 | R -0.004°/d (stationary) | domicile |  |
+| ♅ Uranus | ♏ Scorpio 1°39′ | Virgo | 7 | R -0.043°/d |  |  |
+| ♆ Neptune | ♉ Taurus 28°12′ | Taurus | 1 | 0.034°/d |  |  |
+| ♇ Pluto | ♍ Virgo 26°09′ | Virgo | 5 | R -0.021°/d |  |  |
+| ☊ North Node | ♉ Taurus 27°16′ | Taurus | 1 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 27°16′ | Libra | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

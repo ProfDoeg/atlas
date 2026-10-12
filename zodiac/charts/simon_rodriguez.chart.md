@@ -7,20 +7,20 @@ Born 1769-10-28 (gregorian calendar), Caracas, birth without a father's name (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 4°53′ | 1 | 1.001°/d |  |  |
-| ☽ Moon | ♎ Libra 17°05′ | 12 | 12.498°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 26°13′ | 1 | 0.266°/d |  |  |
-| ♀ Venus | ♍ Virgo 29°40′ | 11 | 1.212°/d | fall |  |
-| ♂ Mars | ♏ Scorpio 0°15′ | 1 | 0.678°/d | domicile |  |
-| ♃ Jupiter | ♏ Scorpio 27°30′ | 1 | 0.214°/d |  |  |
-| ♄ Saturn | ♌ Leo 2°09′ | 10 | 0.030°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 9°44′ | 7 | R -0.041°/d |  |  |
-| ♆ Neptune | ♍ Virgo 11°16′ | 11 | 0.025°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 13°31′ | 3 | 0.016°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 16°54′ | 2 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 16°54′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 4°53′ | Virgo | 1 | 1.001°/d |  |  |
+| ☽ Moon | ♎ Libra 17°05′ | Virgo | 12 | 12.498°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 26°13′ | Libra | 1 | 0.266°/d |  |  |
+| ♀ Venus | ♍ Virgo 29°40′ | Virgo | 11 | 1.212°/d | fall |  |
+| ♂ Mars | ♏ Scorpio 0°15′ | Virgo | 1 | 0.678°/d | domicile |  |
+| ♃ Jupiter | ♏ Scorpio 27°30′ | Libra | 1 | 0.214°/d |  |  |
+| ♄ Saturn | ♌ Leo 2°09′ | Cancer | 10 | 0.030°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 9°44′ | Aries | 7 | R -0.041°/d |  |  |
+| ♆ Neptune | ♍ Virgo 11°16′ | Leo | 11 | 0.025°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 13°31′ | Sagittarius | 3 | 0.016°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 16°54′ | Ophiuchus | 2 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 16°54′ | Taurus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

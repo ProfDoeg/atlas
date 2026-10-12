@@ -7,20 +7,20 @@ Born 1865-07-06 (gregorian calendar), Vienna, birth in the clockmaker's househol
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 13°53′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 8°55′ | 6 | 12.725°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 18°51′ | 1 | 2.111°/d |  |  |
-| ♀ Venus | ♉ Taurus 28°47′ | 11 | 0.855°/d | domicile |  |
-| ♂ Mars | ♌ Leo 25°17′ | 2 | 0.609°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 21°40′ | 6 | R -0.110°/d | domicile |  |
-| ♄ Saturn | ♎ Libra 23°40′ | 4 | 0.015°/d | exaltation |  |
-| ♅ Uranus | ♋ Cancer 0°30′ | 1 | 0.059°/d |  |  |
-| ♆ Neptune | ♈ Aries 10°34′ | 10 | 0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 14°00′ | 11 | 0.013°/d | detriment (modern) |  |
-| ☊ North Node | ♎ Libra 26°13′ | 4 | mean node |  |  |
-| ☋ South Node | ♈ Aries 26°13′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 13°53′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 8°55′ | Ophiuchus | 6 | 12.725°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 18°51′ | Gemini | 1 | 2.111°/d |  |  |
+| ♀ Venus | ♉ Taurus 28°47′ | Taurus | 11 | 0.855°/d | domicile |  |
+| ♂ Mars | ♌ Leo 25°17′ | Leo | 2 | 0.609°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 21°40′ | Ophiuchus | 6 | R -0.110°/d | domicile |  |
+| ♄ Saturn | ♎ Libra 23°40′ | Virgo | 4 | 0.015°/d | exaltation |  |
+| ♅ Uranus | ♋ Cancer 0°30′ | Gemini | 1 | 0.059°/d |  |  |
+| ♆ Neptune | ♈ Aries 10°34′ | Pisces | 10 | 0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 14°00′ | Aries | 11 | 0.013°/d | detriment (modern) |  |
+| ☊ North Node | ♎ Libra 26°13′ | Virgo | 4 | mean node |  |  |
+| ☋ South Node | ♈ Aries 26°13′ | Pisces | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

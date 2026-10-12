@@ -7,20 +7,20 @@ Born 1862-07-14 (gregorian calendar), Baumgarten, the birth on the Linzer Strass
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 21°15′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♒ Aquarius 24°06′ | 8 | 14.040°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♋ Cancer 7°06′ | 1 | R -0.065°/d |  |  |
-| ♀ Venus | ♊ Gemini 14°26′ | 12 | 1.165°/d |  |  |
-| ♂ Mars | ♈ Aries 4°19′ | 10 | 0.507°/d | domicile |  |
-| ♃ Jupiter | ♍ Virgo 22°23′ | 3 | 0.150°/d | detriment |  |
-| ♄ Saturn | ♍ Virgo 18°30′ | 3 | 0.085°/d |  |  |
-| ♅ Uranus | ♊ Gemini 18°31′ | 12 | 0.052°/d |  |  |
-| ♆ Neptune | ♈ Aries 3°50′ | 10 | R -0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 11°17′ | 11 | 0.009°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 23°50′ | 6 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 23°50′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 21°15′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♒ Aquarius 24°06′ | Capricornus | 8 | 14.040°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♋ Cancer 7°06′ | Gemini | 1 | R -0.065°/d |  |  |
+| ♀ Venus | ♊ Gemini 14°26′ | Taurus | 12 | 1.165°/d |  |  |
+| ♂ Mars | ♈ Aries 4°19′ | Pisces | 10 | 0.507°/d | domicile |  |
+| ♃ Jupiter | ♍ Virgo 22°23′ | Leo | 3 | 0.150°/d | detriment |  |
+| ♄ Saturn | ♍ Virgo 18°30′ | Leo | 3 | 0.085°/d |  |  |
+| ♅ Uranus | ♊ Gemini 18°31′ | Taurus | 12 | 0.052°/d |  |  |
+| ♆ Neptune | ♈ Aries 3°50′ | Pisces | 10 | R -0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 11°17′ | Aries | 11 | 0.009°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 23°50′ | Ophiuchus | 6 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 23°50′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

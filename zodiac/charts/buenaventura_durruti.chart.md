@@ -7,20 +7,20 @@ Born 1896-07-14 (gregorian calendar), León, Santa Ana: the birth (lat 42.5925, 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 22°00′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♍ Virgo 3°18′ | 3 | 14.160°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♋ Cancer 4°00′ | 1 | 1.614°/d |  |  |
-| ♀ Venus | ♋ Cancer 23°14′ | 1 | 1.231°/d |  |  |
-| ♂ Mars | ♉ Taurus 8°31′ | 11 | 0.686°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 13°42′ | 2 | 0.211°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 12°31′ | 5 | R -0.003°/d (stationary) |  |  |
-| ♅ Uranus | ♏ Scorpio 20°22′ | 5 | R -0.012°/d |  |  |
-| ♆ Neptune | ♊ Gemini 19°04′ | 12 | 0.032°/d |  |  |
-| ♇ Pluto | ♊ Gemini 13°09′ | 12 | 0.018°/d |  |  |
-| ☊ North Node | ♒ Aquarius 26°12′ | 8 | mean node |  |  |
-| ☋ South Node | ♌ Leo 26°12′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 22°00′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♍ Virgo 3°18′ | Leo | 3 | 14.160°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♋ Cancer 4°00′ | Gemini | 1 | 1.614°/d |  |  |
+| ♀ Venus | ♋ Cancer 23°14′ | Gemini | 1 | 1.231°/d |  |  |
+| ♂ Mars | ♉ Taurus 8°31′ | Aries | 11 | 0.686°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 13°42′ | Cancer | 2 | 0.211°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 12°31′ | Libra | 5 | R -0.003°/d (stationary) |  |  |
+| ♅ Uranus | ♏ Scorpio 20°22′ | Libra | 5 | R -0.012°/d |  |  |
+| ♆ Neptune | ♊ Gemini 19°04′ | Taurus | 12 | 0.032°/d |  |  |
+| ♇ Pluto | ♊ Gemini 13°09′ | Taurus | 12 | 0.018°/d |  |  |
+| ☊ North Node | ♒ Aquarius 26°12′ | Capricornus | 8 | mean node |  |  |
+| ☋ South Node | ♌ Leo 26°12′ | Leo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

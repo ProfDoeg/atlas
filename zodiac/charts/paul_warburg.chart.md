@@ -7,20 +7,20 @@ Born 1868-08-10 (gregorian calendar), Hamburg, born into the banking house (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 17°35′ | 1 | 0.960°/d | domicile |  |
-| ☽ Moon | ♈ Aries 29°31′ | 9 | 12.595°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♌ Leo 0°21′ | 1 | 1.538°/d |  |  |
-| ♀ Venus | ♋ Cancer 16°13′ | 12 | 0.099°/d |  |  |
-| ♂ Mars | ♊ Gemini 27°05′ | 11 | 0.660°/d |  |  |
-| ♃ Jupiter | ♈ Aries 14°22′ | 9 | R -0.022°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 28°57′ | 4 | 0.012°/d |  |  |
-| ♅ Uranus | ♋ Cancer 15°09′ | 12 | 0.053°/d |  |  |
-| ♆ Neptune | ♈ Aries 17°12′ | 9 | R -0.011°/d |  |  |
-| ♇ Pluto | ♉ Taurus 17°05′ | 10 | 0.002°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♌ Leo 26°20′ | 1 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 26°20′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 17°35′ | Cancer | 1 | 0.960°/d | domicile |  |
+| ☽ Moon | ♈ Aries 29°31′ | Aries | 9 | 12.595°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♌ Leo 0°21′ | Cancer | 1 | 1.538°/d |  |  |
+| ♀ Venus | ♋ Cancer 16°13′ | Gemini | 12 | 0.099°/d |  |  |
+| ♂ Mars | ♊ Gemini 27°05′ | Taurus | 11 | 0.660°/d |  |  |
+| ♃ Jupiter | ♈ Aries 14°22′ | Pisces | 9 | R -0.022°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 28°57′ | Libra | 4 | 0.012°/d |  |  |
+| ♅ Uranus | ♋ Cancer 15°09′ | Gemini | 12 | 0.053°/d |  |  |
+| ♆ Neptune | ♈ Aries 17°12′ | Pisces | 9 | R -0.011°/d |  |  |
+| ♇ Pluto | ♉ Taurus 17°05′ | Aries | 10 | 0.002°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♌ Leo 26°20′ | Leo | 1 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 26°20′ | Capricornus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

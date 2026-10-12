@@ -7,20 +7,20 @@ Born 1944-08-22 (gregorian calendar), Teaneck, the pharmacist's son (lat 40.8976
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 28°46′ | 1 | 0.964°/d | domicile |  |
-| ☽ Moon | ♎ Libra 3°05′ | 3 | 11.845°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♍ Virgo 22°13′ | 2 | 0.212°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 14°08′ | 2 | 1.233°/d | fall |  |
-| ♂ Mars | ♍ Virgo 25°31′ | 2 | 0.638°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 5°42′ | 2 | 0.216°/d | detriment |  |
-| ♄ Saturn | ♋ Cancer 7°24′ | 12 | 0.097°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 12°50′ | 11 | 0.023°/d |  |  |
-| ♆ Neptune | ♎ Libra 2°48′ | 3 | 0.032°/d |  |  |
-| ♇ Pluto | ♌ Leo 9°00′ | 1 | 0.028°/d |  |  |
-| ☊ North Node | ♋ Cancer 25°48′ | 12 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 25°48′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 28°46′ | Leo | 1 | 0.964°/d | domicile |  |
+| ☽ Moon | ♎ Libra 3°05′ | Virgo | 3 | 11.845°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♍ Virgo 22°13′ | Leo | 2 | 0.212°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 14°08′ | Leo | 2 | 1.233°/d | fall |  |
+| ♂ Mars | ♍ Virgo 25°31′ | Virgo | 2 | 0.638°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 5°42′ | Leo | 2 | 0.216°/d | detriment |  |
+| ♄ Saturn | ♋ Cancer 7°24′ | Gemini | 12 | 0.097°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 12°50′ | Taurus | 11 | 0.023°/d |  |  |
+| ♆ Neptune | ♎ Libra 2°48′ | Virgo | 3 | 0.032°/d |  |  |
+| ♇ Pluto | ♌ Leo 9°00′ | Cancer | 1 | 0.028°/d |  |  |
+| ☊ North Node | ♋ Cancer 25°48′ | Gemini | 12 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 25°48′ | Sagittarius | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

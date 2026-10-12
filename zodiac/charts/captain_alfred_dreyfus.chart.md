@@ -7,20 +7,20 @@ Born 1859-10-09 (gregorian calendar), Mulhouse, birth on the Rue du Sauvage (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 15°10′ | 1 | 0.989°/d | fall |  |
-| ☽ Moon | ♓ Pisces 11°11′ | 6 | 12.033°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 13°38′ | 1 | 1.739°/d |  |  |
-| ♀ Venus | ♎ Libra 18°05′ | 1 | 1.250°/d | domicile |  |
-| ♂ Mars | ♍ Virgo 18°47′ | 12 | 0.631°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 23°24′ | 10 | 0.104°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 23°07′ | 11 | 0.095°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 7°29′ | 9 | R -0.021°/d |  |  |
-| ♆ Neptune | ♓ Pisces 25°10′ | 6 | R -0.026°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 7°58′ | 8 | R -0.017°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 17°16′ | 5 | mean node |  |  |
-| ☋ South Node | ♌ Leo 17°16′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 15°10′ | Virgo | 1 | 0.989°/d | fall |  |
+| ☽ Moon | ♓ Pisces 11°11′ | Aquarius | 6 | 12.033°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 13°38′ | Virgo | 1 | 1.739°/d |  |  |
+| ♀ Venus | ♎ Libra 18°05′ | Virgo | 1 | 1.250°/d | domicile |  |
+| ♂ Mars | ♍ Virgo 18°47′ | Leo | 12 | 0.631°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 23°24′ | Gemini | 10 | 0.104°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 23°07′ | Leo | 11 | 0.095°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 7°29′ | Taurus | 9 | R -0.021°/d |  |  |
+| ♆ Neptune | ♓ Pisces 25°10′ | Pisces | 6 | R -0.026°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 7°58′ | Aries | 8 | R -0.017°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 17°16′ | Capricornus | 5 | mean node |  |  |
+| ☋ South Node | ♌ Leo 17°16′ | Cancer | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

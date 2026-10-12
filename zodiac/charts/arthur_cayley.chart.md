@@ -7,20 +7,20 @@ Born 1821-08-16 (gregorian calendar), Richmond, Surrey: the birth (lat 51.4613, 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 22°45′ | 1 | 0.962°/d | domicile |  |
-| ☽ Moon | ♓ Pisces 25°06′ | 8 | 14.548°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♌ Leo 5°19′ | 1 | 0.466°/d |  |  |
-| ♀ Venus | ♍ Virgo 15°46′ | 2 | 1.223°/d | fall |  |
-| ♂ Mars | ♋ Cancer 2°54′ | 12 | 0.652°/d | fall |  |
-| ♃ Jupiter | ♉ Taurus 0°19′ | 10 | 0.014°/d |  |  |
-| ♄ Saturn | ♈ Aries 26°29′ | 9 | R -0.013°/d | fall |  |
-| ♅ Uranus | ♐ Sagittarius 29°16′ | 5 | R -0.018°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 0°28′ | 6 | R -0.014°/d |  |  |
-| ♇ Pluto | ♓ Pisces 29°31′ | 8 | R -0.015°/d |  |  |
-| ☊ North Node | ♓ Pisces 5°04′ | 8 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 5°04′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 22°45′ | Leo | 1 | 0.962°/d | domicile |  |
+| ☽ Moon | ♓ Pisces 25°06′ | Pisces | 8 | 14.548°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♌ Leo 5°19′ | Cancer | 1 | 0.466°/d |  |  |
+| ♀ Venus | ♍ Virgo 15°46′ | Leo | 2 | 1.223°/d | fall |  |
+| ♂ Mars | ♋ Cancer 2°54′ | Gemini | 12 | 0.652°/d | fall |  |
+| ♃ Jupiter | ♉ Taurus 0°19′ | Aries | 10 | 0.014°/d |  |  |
+| ♄ Saturn | ♈ Aries 26°29′ | Pisces | 9 | R -0.013°/d | fall |  |
+| ♅ Uranus | ♐ Sagittarius 29°16′ | Sagittarius | 5 | R -0.018°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 0°28′ | Sagittarius | 6 | R -0.014°/d |  |  |
+| ♇ Pluto | ♓ Pisces 29°31′ | Pisces | 8 | R -0.015°/d |  |  |
+| ☊ North Node | ♓ Pisces 5°04′ | Aquarius | 8 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 5°04′ | Leo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

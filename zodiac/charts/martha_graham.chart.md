@@ -7,20 +7,20 @@ Born 1894-05-11 (gregorian calendar), Allegheny City, the birth on the north ban
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 20°16′ | 1 | 0.965°/d |  |  |
-| ☽ Moon | ♌ Leo 3°36′ | 4 | 14.302°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♉ Taurus 9°10′ | 1 | 1.996°/d |  |  |
-| ♀ Venus | ♈ Aries 4°41′ | 12 | 1.044°/d | detriment |  |
-| ♂ Mars | ♓ Pisces 0°42′ | 11 | 0.699°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 8°11′ | 2 | 0.227°/d | detriment |  |
-| ♄ Saturn | ♎ Libra 19°53′ | 6 | R -0.060°/d | exaltation |  |
-| ♅ Uranus | ♏ Scorpio 12°50′ | 7 | R -0.042°/d |  |  |
-| ♆ Neptune | ♊ Gemini 12°24′ | 2 | 0.035°/d |  |  |
-| ♇ Pluto | ♊ Gemini 9°50′ | 2 | 0.022°/d |  |  |
-| ☊ North Node | ♈ Aries 8°18′ | 12 | mean node |  |  |
-| ☋ South Node | ♎ Libra 8°18′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 20°16′ | Aries | 1 | 0.965°/d |  |  |
+| ☽ Moon | ♌ Leo 3°36′ | Cancer | 4 | 14.302°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♉ Taurus 9°10′ | Aries | 1 | 1.996°/d |  |  |
+| ♀ Venus | ♈ Aries 4°41′ | Pisces | 12 | 1.044°/d | detriment |  |
+| ♂ Mars | ♓ Pisces 0°42′ | Aquarius | 11 | 0.699°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 8°11′ | Taurus | 2 | 0.227°/d | detriment |  |
+| ♄ Saturn | ♎ Libra 19°53′ | Virgo | 6 | R -0.060°/d | exaltation |  |
+| ♅ Uranus | ♏ Scorpio 12°50′ | Libra | 7 | R -0.042°/d |  |  |
+| ♆ Neptune | ♊ Gemini 12°24′ | Taurus | 2 | 0.035°/d |  |  |
+| ♇ Pluto | ♊ Gemini 9°50′ | Taurus | 2 | 0.022°/d |  |  |
+| ☊ North Node | ♈ Aries 8°18′ | Pisces | 12 | mean node |  |  |
+| ☋ South Node | ♎ Libra 8°18′ | Virgo | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

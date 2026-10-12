@@ -7,20 +7,20 @@ Born 1950-12-30 (gregorian calendar), Aarhus, birth in the second city (lat 56.1
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 7°44′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♍ Virgo 10°47′ | 9 | 12.846°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 14°19′ | 1 | R -1.157°/d |  |  |
-| ♀ Venus | ♑ Capricornus 18°52′ | 1 | 1.256°/d |  |  |
-| ♂ Mars | ♒ Aquarius 11°28′ | 2 | 0.786°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 4°22′ | 3 | 0.183°/d | domicile |  |
-| ♄ Saturn | ♎ Libra 2°19′ | 10 | 0.024°/d | exaltation |  |
-| ♅ Uranus | ♋ Cancer 7°24′ | 7 | R -0.043°/d |  |  |
-| ♆ Neptune | ♎ Libra 19°28′ | 10 | 0.013°/d |  |  |
-| ♇ Pluto | ♌ Leo 19°34′ | 8 | R -0.017°/d |  |  |
-| ☊ North Node | ♓ Pisces 22°53′ | 3 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 22°53′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 7°44′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♍ Virgo 10°47′ | Leo | 9 | 12.846°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 14°19′ | Sagittarius | 1 | R -1.157°/d |  |  |
+| ♀ Venus | ♑ Capricornus 18°52′ | Sagittarius | 1 | 1.256°/d |  |  |
+| ♂ Mars | ♒ Aquarius 11°28′ | Capricornus | 2 | 0.786°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 4°22′ | Aquarius | 3 | 0.183°/d | domicile |  |
+| ♄ Saturn | ♎ Libra 2°19′ | Virgo | 10 | 0.024°/d | exaltation |  |
+| ♅ Uranus | ♋ Cancer 7°24′ | Gemini | 7 | R -0.043°/d |  |  |
+| ♆ Neptune | ♎ Libra 19°28′ | Virgo | 10 | 0.013°/d |  |  |
+| ♇ Pluto | ♌ Leo 19°34′ | Leo | 8 | R -0.017°/d |  |  |
+| ☊ North Node | ♓ Pisces 22°53′ | Pisces | 3 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 22°53′ | Leo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

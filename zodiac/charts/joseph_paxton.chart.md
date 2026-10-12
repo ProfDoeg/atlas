@@ -7,20 +7,20 @@ Born 1803-08-03 (gregorian calendar), Milton Bryan, the seventh son (lat 51.9976
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 9°39′ | 1 | 0.958°/d | domicile |  |
-| ☽ Moon | ♒ Aquarius 5°50′ | 7 | 14.181°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♋ Cancer 25°40′ | 12 | 1.854°/d |  |  |
-| ♀ Venus | ♋ Cancer 20°21′ | 12 | 1.220°/d |  |  |
-| ♂ Mars | ♍ Virgo 18°38′ | 2 | 0.624°/d |  |  |
-| ♃ Jupiter | ♎ Libra 2°31′ | 3 | 0.167°/d |  |  |
-| ♄ Saturn | ♍ Virgo 18°32′ | 2 | 0.106°/d |  |  |
-| ♅ Uranus | ♎ Libra 8°03′ | 3 | 0.040°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 21°02′ | 4 | R -0.000°/d (stationary) |  |  |
-| ♇ Pluto | ♓ Pisces 7°53′ | 8 | R -0.018°/d |  |  |
-| ☊ North Node | ♒ Aquarius 23°56′ | 7 | mean node |  |  |
-| ☋ South Node | ♌ Leo 23°56′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 9°39′ | Cancer | 1 | 0.958°/d | domicile |  |
+| ☽ Moon | ♒ Aquarius 5°50′ | Capricornus | 7 | 14.181°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♋ Cancer 25°40′ | Gemini | 12 | 1.854°/d |  |  |
+| ♀ Venus | ♋ Cancer 20°21′ | Gemini | 12 | 1.220°/d |  |  |
+| ♂ Mars | ♍ Virgo 18°38′ | Leo | 2 | 0.624°/d |  |  |
+| ♃ Jupiter | ♎ Libra 2°31′ | Virgo | 3 | 0.167°/d |  |  |
+| ♄ Saturn | ♍ Virgo 18°32′ | Leo | 2 | 0.106°/d |  |  |
+| ♅ Uranus | ♎ Libra 8°03′ | Virgo | 3 | 0.040°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 21°02′ | Libra | 4 | R -0.000°/d (stationary) |  |  |
+| ♇ Pluto | ♓ Pisces 7°53′ | Aquarius | 8 | R -0.018°/d |  |  |
+| ☊ North Node | ♒ Aquarius 23°56′ | Capricornus | 7 | mean node |  |  |
+| ☋ South Node | ♌ Leo 23°56′ | Leo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

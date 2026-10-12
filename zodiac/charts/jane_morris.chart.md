@@ -7,20 +7,20 @@ Born 1839-10-19 (gregorian calendar), Brazier Passage, Holywell, the birth (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 24°56′ | 1 | 0.995°/d | fall |  |
-| ☽ Moon | ♓ Pisces 4°25′ | 6 | 13.921°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♎ Libra 26°52′ | 1 | 1.661°/d |  |  |
-| ♀ Venus | ♎ Libra 5°31′ | 1 | R -0.330°/d | domicile |  |
-| ♂ Mars | ♐ Sagittarius 11°42′ | 3 | 0.729°/d |  |  |
-| ♃ Jupiter | ♎ Libra 28°13′ | 1 | 0.218°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 7°28′ | 3 | 0.097°/d |  |  |
-| ♅ Uranus | ♓ Pisces 13°07′ | 6 | R -0.026°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 9°50′ | 5 | R -0.002°/d (stationary) |  |  |
-| ♇ Pluto | ♈ Aries 17°49′ | 7 | R -0.019°/d |  |  |
-| ☊ North Node | ♓ Pisces 13°34′ | 6 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 13°34′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 24°56′ | Virgo | 1 | 0.995°/d | fall |  |
+| ☽ Moon | ♓ Pisces 4°25′ | Aquarius | 6 | 13.921°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♎ Libra 26°52′ | Virgo | 1 | 1.661°/d |  |  |
+| ♀ Venus | ♎ Libra 5°31′ | Virgo | 1 | R -0.330°/d | domicile |  |
+| ♂ Mars | ♐ Sagittarius 11°42′ | Ophiuchus | 3 | 0.729°/d |  |  |
+| ♃ Jupiter | ♎ Libra 28°13′ | Virgo | 1 | 0.218°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 7°28′ | Scorpius | 3 | 0.097°/d |  |  |
+| ♅ Uranus | ♓ Pisces 13°07′ | Aquarius | 6 | R -0.026°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 9°50′ | Capricornus | 5 | R -0.002°/d (stationary) |  |  |
+| ♇ Pluto | ♈ Aries 17°49′ | Pisces | 7 | R -0.019°/d |  |  |
+| ☊ North Node | ♓ Pisces 13°34′ | Aquarius | 6 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 13°34′ | Leo | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

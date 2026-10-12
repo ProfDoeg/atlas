@@ -7,20 +7,20 @@ Born 1944-06-05 (gregorian calendar), Washington, D.C., the birth (lat 38.9186, 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 14°13′ | 1 | 0.957°/d |  |  |
-| ☽ Moon | ♏ Scorpio 22°06′ | 6 | 13.044°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 20°43′ | 12 | 1.276°/d |  |  |
-| ♀ Venus | ♊ Gemini 8°10′ | 1 | 1.227°/d |  |  |
-| ♂ Mars | ♌ Leo 7°48′ | 3 | 0.586°/d |  |  |
-| ♃ Jupiter | ♌ Leo 20°59′ | 3 | 0.139°/d |  |  |
-| ♄ Saturn | ♊ Gemini 27°55′ | 1 | 0.128°/d |  |  |
-| ♅ Uranus | ♊ Gemini 9°17′ | 1 | 0.059°/d |  |  |
-| ♆ Neptune | ♎ Libra 1°34′ | 5 | R -0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♌ Leo 6°56′ | 3 | 0.019°/d |  |  |
-| ☊ North Node | ♋ Cancer 29°56′ | 2 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 29°56′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 14°13′ | Taurus | 1 | 0.957°/d |  |  |
+| ☽ Moon | ♏ Scorpio 22°06′ | Libra | 6 | 13.044°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 20°43′ | Aries | 12 | 1.276°/d |  |  |
+| ♀ Venus | ♊ Gemini 8°10′ | Taurus | 1 | 1.227°/d |  |  |
+| ♂ Mars | ♌ Leo 7°48′ | Cancer | 3 | 0.586°/d |  |  |
+| ♃ Jupiter | ♌ Leo 20°59′ | Leo | 3 | 0.139°/d |  |  |
+| ♄ Saturn | ♊ Gemini 27°55′ | Taurus | 1 | 0.128°/d |  |  |
+| ♅ Uranus | ♊ Gemini 9°17′ | Taurus | 1 | 0.059°/d |  |  |
+| ♆ Neptune | ♎ Libra 1°34′ | Virgo | 5 | R -0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♌ Leo 6°56′ | Cancer | 3 | 0.019°/d |  |  |
+| ☊ North Node | ♋ Cancer 29°56′ | Cancer | 2 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 29°56′ | Capricornus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

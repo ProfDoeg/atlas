@@ -7,20 +7,20 @@ Born 1814-05-30 (gregorian calendar), Pryamukhino, birth on the family estate (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 7°55′ | 1 | 0.958°/d |  |  |
-| ☽ Moon | ♎ Libra 22°20′ | 5 | 12.549°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 28°53′ | 12 | 2.085°/d |  |  |
-| ♀ Venus | ♈ Aries 22°15′ | 11 | 1.013°/d | detriment |  |
-| ♂ Mars | ♋ Cancer 8°36′ | 2 | 0.639°/d | fall |  |
-| ♃ Jupiter | ♍ Virgo 1°40′ | 4 | 0.093°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 0°08′ | 9 | R -0.030°/d | domicile |  |
-| ♅ Uranus | ♏ Scorpio 29°58′ | 6 | R -0.041°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 16°37′ | 7 | R -0.027°/d |  |  |
-| ♇ Pluto | ♓ Pisces 21°47′ | 10 | 0.009°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 24°36′ | 2 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 24°36′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 7°55′ | Taurus | 1 | 0.958°/d |  |  |
+| ☽ Moon | ♎ Libra 22°20′ | Virgo | 5 | 12.549°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 28°53′ | Taurus | 12 | 2.085°/d |  |  |
+| ♀ Venus | ♈ Aries 22°15′ | Pisces | 11 | 1.013°/d | detriment |  |
+| ♂ Mars | ♋ Cancer 8°36′ | Gemini | 2 | 0.639°/d | fall |  |
+| ♃ Jupiter | ♍ Virgo 1°40′ | Leo | 4 | 0.093°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 0°08′ | Capricornus | 9 | R -0.030°/d | domicile |  |
+| ♅ Uranus | ♏ Scorpio 29°58′ | Libra | 6 | R -0.041°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 16°37′ | Ophiuchus | 7 | R -0.027°/d |  |  |
+| ♇ Pluto | ♓ Pisces 21°47′ | Pisces | 10 | 0.009°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 24°36′ | Gemini | 2 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 24°36′ | Sagittarius | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

@@ -7,20 +7,20 @@ Born 1646-07-01 (gregorian calendar), Leipzig, the birth at the Nikolaikirche (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 9°02′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♒ Aquarius 10°53′ | 8 | 11.906°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 18°27′ | 12 | 0.706°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 23°36′ | 11 | 0.895°/d | domicile |  |
-| ♂ Mars | ♉ Taurus 20°21′ | 11 | 0.709°/d | detriment |  |
-| ♃ Jupiter | ♋ Cancer 15°32′ | 1 | 0.224°/d | exaltation |  |
-| ♄ Saturn | ♉ Taurus 15°08′ | 11 | 0.093°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 26°34′ | 5 | R -0.027°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 6°12′ | 6 | R -0.022°/d |  |  |
-| ♇ Pluto | ♊ Gemini 7°29′ | 12 | 0.020°/d |  |  |
-| ☊ North Node | ♌ Leo 2°10′ | 2 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 2°10′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 9°02′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♒ Aquarius 10°53′ | Capricornus | 8 | 11.906°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 18°27′ | Taurus | 12 | 0.706°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 23°36′ | Taurus | 11 | 0.895°/d | domicile |  |
+| ♂ Mars | ♉ Taurus 20°21′ | Aries | 11 | 0.709°/d | detriment |  |
+| ♃ Jupiter | ♋ Cancer 15°32′ | Gemini | 1 | 0.224°/d | exaltation |  |
+| ♄ Saturn | ♉ Taurus 15°08′ | Aries | 11 | 0.093°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 26°34′ | Libra | 5 | R -0.027°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 6°12′ | Scorpius | 6 | R -0.022°/d |  |  |
+| ♇ Pluto | ♊ Gemini 7°29′ | Taurus | 12 | 0.020°/d |  |  |
+| ☊ North Node | ♌ Leo 2°10′ | Cancer | 2 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 2°10′ | Capricornus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

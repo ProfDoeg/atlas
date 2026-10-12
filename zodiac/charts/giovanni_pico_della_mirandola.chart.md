@@ -7,20 +7,20 @@ Born 1463-02-24 (julian calendar), Mirandola, birth in the castle of the Pico (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 13°57′ | 1 | 0.997°/d |  |  |
-| ☽ Moon | ♉ Taurus 15°36′ | 3 | 11.837°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 24°23′ | 12 | 1.573°/d |  |  |
-| ♀ Venus | ♓ Pisces 4°04′ | 1 | 1.245°/d | exaltation |  |
-| ♂ Mars | ♏ Scorpio 13°39′ | 9 | 0.203°/d | domicile |  |
-| ♃ Jupiter | ♑ Capricornus 27°33′ | 11 | 0.196°/d | fall |  |
-| ♄ Saturn | ♒ Aquarius 19°28′ | 12 | 0.114°/d | domicile |  |
-| ♅ Uranus | ♍ Virgo 15°52′ | 7 | R -0.044°/d |  |  |
-| ♆ Neptune | ♎ Libra 26°03′ | 8 | R -0.018°/d |  |  |
-| ♇ Pluto | ♌ Leo 25°02′ | 6 | R -0.024°/d |  |  |
-| ☊ North Node | ♊ Gemini 7°53′ | 4 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 7°53′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 13°57′ | Aquarius | 1 | 0.997°/d |  |  |
+| ☽ Moon | ♉ Taurus 15°36′ | Aries | 3 | 11.837°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 24°23′ | Capricornus | 12 | 1.573°/d |  |  |
+| ♀ Venus | ♓ Pisces 4°04′ | Aquarius | 1 | 1.245°/d | exaltation |  |
+| ♂ Mars | ♏ Scorpio 13°39′ | Libra | 9 | 0.203°/d | domicile |  |
+| ♃ Jupiter | ♑ Capricornus 27°33′ | Sagittarius | 11 | 0.196°/d | fall |  |
+| ♄ Saturn | ♒ Aquarius 19°28′ | Capricornus | 12 | 0.114°/d | domicile |  |
+| ♅ Uranus | ♍ Virgo 15°52′ | Leo | 7 | R -0.044°/d |  |  |
+| ♆ Neptune | ♎ Libra 26°03′ | Virgo | 8 | R -0.018°/d |  |  |
+| ♇ Pluto | ♌ Leo 25°02′ | Leo | 6 | R -0.024°/d |  |  |
+| ☊ North Node | ♊ Gemini 7°53′ | Taurus | 4 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 7°53′ | Ophiuchus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

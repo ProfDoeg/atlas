@@ -7,20 +7,20 @@ Born 1862-10-26 (gregorian calendar), Karlberg Palace, Solna: the birth at the w
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 2°20′ | 1 | 0.998°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 9°11′ | 2 | 14.718°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 5°41′ | 1 | R -1.259°/d |  |  |
-| ♀ Venus | ♎ Libra 20°59′ | 12 | 1.252°/d | domicile |  |
-| ♂ Mars | ♈ Aries 7°36′ | 6 | R -0.142°/d | domicile |  |
-| ♃ Jupiter | ♎ Libra 13°06′ | 12 | 0.210°/d |  |  |
-| ♄ Saturn | ♎ Libra 0°25′ | 12 | 0.112°/d | exaltation |  |
-| ♅ Uranus | ♊ Gemini 20°19′ | 8 | R -0.024°/d |  |  |
-| ♆ Neptune | ♈ Aries 1°38′ | 6 | R -0.023°/d |  |  |
-| ♇ Pluto | ♉ Taurus 10°34′ | 7 | R -0.019°/d | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 18°19′ | 2 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 18°19′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 2°20′ | Virgo | 1 | 0.998°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 9°11′ | Ophiuchus | 2 | 14.718°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 5°41′ | Virgo | 1 | R -1.259°/d |  |  |
+| ♀ Venus | ♎ Libra 20°59′ | Virgo | 12 | 1.252°/d | domicile |  |
+| ♂ Mars | ♈ Aries 7°36′ | Pisces | 6 | R -0.142°/d | domicile |  |
+| ♃ Jupiter | ♎ Libra 13°06′ | Virgo | 12 | 0.210°/d |  |  |
+| ♄ Saturn | ♎ Libra 0°25′ | Virgo | 12 | 0.112°/d | exaltation |  |
+| ♅ Uranus | ♊ Gemini 20°19′ | Taurus | 8 | R -0.024°/d |  |  |
+| ♆ Neptune | ♈ Aries 1°38′ | Pisces | 6 | R -0.023°/d |  |  |
+| ♇ Pluto | ♉ Taurus 10°34′ | Aries | 7 | R -0.019°/d | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 18°19′ | Ophiuchus | 2 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 18°19′ | Taurus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

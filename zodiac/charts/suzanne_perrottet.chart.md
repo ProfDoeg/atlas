@@ -7,20 +7,20 @@ Born 1889-09-13 (gregorian calendar), Rolle, Lake Geneva, birth in the pharmacis
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 20°23′ | 1 | 0.974°/d |  |  |
-| ☽ Moon | ♉ Taurus 3°07′ | 9 | 12.842°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♎ Libra 15°24′ | 2 | 1.248°/d |  |  |
-| ♀ Venus | ♌ Leo 13°10′ | 12 | 1.179°/d |  |  |
-| ♂ Mars | ♌ Leo 23°32′ | 12 | 0.631°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 29°04′ | 4 | 0.058°/d | domicile |  |
-| ♄ Saturn | ♌ Leo 27°22′ | 12 | 0.121°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 20°10′ | 2 | 0.057°/d |  |  |
-| ♆ Neptune | ♊ Gemini 4°35′ | 10 | R -0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 6°57′ | 10 | R -0.003°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 8°22′ | 11 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 8°22′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 20°23′ | Leo | 1 | 0.974°/d |  |  |
+| ☽ Moon | ♉ Taurus 3°07′ | Aries | 9 | 12.842°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♎ Libra 15°24′ | Virgo | 2 | 1.248°/d |  |  |
+| ♀ Venus | ♌ Leo 13°10′ | Cancer | 12 | 1.179°/d |  |  |
+| ♂ Mars | ♌ Leo 23°32′ | Leo | 12 | 0.631°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 29°04′ | Sagittarius | 4 | 0.058°/d | domicile |  |
+| ♄ Saturn | ♌ Leo 27°22′ | Leo | 12 | 0.121°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 20°10′ | Virgo | 2 | 0.057°/d |  |  |
+| ♆ Neptune | ♊ Gemini 4°35′ | Taurus | 10 | R -0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 6°57′ | Taurus | 10 | R -0.003°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 8°22′ | Gemini | 11 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 8°22′ | Sagittarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

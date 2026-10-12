@@ -7,20 +7,20 @@ Born 1915-07-26 (gregorian calendar), Kowshika, birth on the full moon (lat 13.0
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 1°56′ | 1 | 0.955°/d | domicile |  |
-| ☽ Moon | ♑ Capricornus 25°03′ | 6 | 14.553°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♋ Cancer 13°27′ | 12 | 1.478°/d |  |  |
-| ♀ Venus | ♋ Cancer 18°40′ | 12 | 1.225°/d |  |  |
-| ♂ Mars | ♊ Gemini 13°43′ | 11 | 0.684°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 28°25′ | 8 | R -0.022°/d | domicile |  |
-| ♄ Saturn | ♋ Cancer 9°30′ | 12 | 0.124°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 14°13′ | 7 | R -0.039°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 0°19′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♋ Cancer 2°30′ | 12 | 0.022°/d |  |  |
-| ☊ North Node | ♒ Aquarius 18°10′ | 7 | mean node |  |  |
-| ☋ South Node | ♌ Leo 18°10′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 1°56′ | Cancer | 1 | 0.955°/d | domicile |  |
+| ☽ Moon | ♑ Capricornus 25°03′ | Sagittarius | 6 | 14.553°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♋ Cancer 13°27′ | Gemini | 12 | 1.478°/d |  |  |
+| ♀ Venus | ♋ Cancer 18°40′ | Gemini | 12 | 1.225°/d |  |  |
+| ♂ Mars | ♊ Gemini 13°43′ | Taurus | 11 | 0.684°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 28°25′ | Pisces | 8 | R -0.022°/d | domicile |  |
+| ♄ Saturn | ♋ Cancer 9°30′ | Gemini | 12 | 0.124°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 14°13′ | Capricornus | 7 | R -0.039°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 0°19′ | Cancer | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♋ Cancer 2°30′ | Gemini | 12 | 0.022°/d |  |  |
+| ☊ North Node | ♒ Aquarius 18°10′ | Capricornus | 7 | mean node |  |  |
+| ☋ South Node | ♌ Leo 18°10′ | Cancer | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

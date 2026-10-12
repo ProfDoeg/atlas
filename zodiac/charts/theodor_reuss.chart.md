@@ -7,20 +7,20 @@ Born 1855-06-28 (gregorian calendar), Augsburg, the innkeeper's son (lat 48.3705
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 5°42′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 9°12′ | 6 | 14.030°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 24°51′ | 1 | 0.066°/d |  |  |
-| ♀ Venus | ♌ Leo 19°29′ | 2 | 1.082°/d |  |  |
-| ♂ Mars | ♊ Gemini 16°51′ | 12 | 0.690°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 2°32′ | 9 | R -0.020°/d | domicile |  |
-| ♄ Saturn | ♊ Gemini 21°42′ | 12 | 0.128°/d |  |  |
-| ♅ Uranus | ♉ Taurus 19°31′ | 11 | 0.044°/d |  |  |
-| ♆ Neptune | ♓ Pisces 18°10′ | 9 | R -0.004°/d (stationary) | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 4°30′ | 11 | 0.012°/d | detriment (modern) |  |
-| ☊ North Node | ♉ Taurus 10°05′ | 11 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 10°05′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 5°42′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 9°12′ | Ophiuchus | 6 | 14.030°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 24°51′ | Gemini | 1 | 0.066°/d |  |  |
+| ♀ Venus | ♌ Leo 19°29′ | Leo | 2 | 1.082°/d |  |  |
+| ♂ Mars | ♊ Gemini 16°51′ | Taurus | 12 | 0.690°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 2°32′ | Aquarius | 9 | R -0.020°/d | domicile |  |
+| ♄ Saturn | ♊ Gemini 21°42′ | Taurus | 12 | 0.128°/d |  |  |
+| ♅ Uranus | ♉ Taurus 19°31′ | Aries | 11 | 0.044°/d |  |  |
+| ♆ Neptune | ♓ Pisces 18°10′ | Aquarius | 9 | R -0.004°/d (stationary) | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 4°30′ | Aries | 11 | 0.012°/d | detriment (modern) |  |
+| ☊ North Node | ♉ Taurus 10°05′ | Aries | 11 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 10°05′ | Libra | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

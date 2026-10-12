@@ -7,20 +7,20 @@ Born 1887-12-14 (gregorian calendar), San Fernando, the birth on the delta edge 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 21°44′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 10°50′ | 1 | 14.612°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 3°04′ | 1 | 1.374°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 5°23′ | 12 | 1.084°/d | detriment |  |
-| ♂ Mars | ♎ Libra 3°57′ | 11 | 0.508°/d | detriment |  |
-| ♃ Jupiter | ♏ Scorpio 23°59′ | 12 | 0.208°/d |  |  |
-| ♄ Saturn | ♌ Leo 5°58′ | 9 | R -0.046°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 16°20′ | 11 | 0.035°/d |  |  |
-| ♆ Neptune | ♉ Taurus 28°03′ | 6 | R -0.025°/d |  |  |
-| ♇ Pluto | ♊ Gemini 3°44′ | 7 | R -0.018°/d |  |  |
-| ☊ North Node | ♌ Leo 12°12′ | 9 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 12°12′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 21°44′ | Ophiuchus | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 10°50′ | Ophiuchus | 1 | 14.612°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 3°04′ | Scorpius | 1 | 1.374°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 5°23′ | Virgo | 12 | 1.084°/d | detriment |  |
+| ♂ Mars | ♎ Libra 3°57′ | Virgo | 11 | 0.508°/d | detriment |  |
+| ♃ Jupiter | ♏ Scorpio 23°59′ | Libra | 12 | 0.208°/d |  |  |
+| ♄ Saturn | ♌ Leo 5°58′ | Cancer | 9 | R -0.046°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 16°20′ | Virgo | 11 | 0.035°/d |  |  |
+| ♆ Neptune | ♉ Taurus 28°03′ | Taurus | 6 | R -0.025°/d |  |  |
+| ♇ Pluto | ♊ Gemini 3°44′ | Taurus | 7 | R -0.018°/d |  |  |
+| ☊ North Node | ♌ Leo 12°12′ | Cancer | 9 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 12°12′ | Capricornus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

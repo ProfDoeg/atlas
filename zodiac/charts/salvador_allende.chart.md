@@ -7,20 +7,20 @@ Born 1908-06-26 (gregorian calendar), Santiago, born on Avenida España (lat -33
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 3°59′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♊ Gemini 3°03′ | 12 | 12.732°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♋ Cancer 17°04′ | 1 | R -0.302°/d |  |  |
-| ♀ Venus | ♋ Cancer 19°19′ | 1 | R -0.437°/d |  |  |
-| ♂ Mars | ♋ Cancer 22°13′ | 1 | 0.641°/d | fall |  |
-| ♃ Jupiter | ♌ Leo 13°25′ | 2 | 0.191°/d |  |  |
-| ♄ Saturn | ♈ Aries 9°29′ | 10 | 0.044°/d | fall |  |
-| ♅ Uranus | ♑ Capricornus 15°22′ | 7 | R -0.039°/d |  |  |
-| ♆ Neptune | ♋ Cancer 14°15′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 24°34′ | 12 | 0.023°/d |  |  |
-| ☊ North Node | ♋ Cancer 5°06′ | 1 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 5°06′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 3°59′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♊ Gemini 3°03′ | Taurus | 12 | 12.732°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♋ Cancer 17°04′ | Gemini | 1 | R -0.302°/d |  |  |
+| ♀ Venus | ♋ Cancer 19°19′ | Gemini | 1 | R -0.437°/d |  |  |
+| ♂ Mars | ♋ Cancer 22°13′ | Gemini | 1 | 0.641°/d | fall |  |
+| ♃ Jupiter | ♌ Leo 13°25′ | Cancer | 2 | 0.191°/d |  |  |
+| ♄ Saturn | ♈ Aries 9°29′ | Pisces | 10 | 0.044°/d | fall |  |
+| ♅ Uranus | ♑ Capricornus 15°22′ | Sagittarius | 7 | R -0.039°/d |  |  |
+| ♆ Neptune | ♋ Cancer 14°15′ | Gemini | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 24°34′ | Taurus | 12 | 0.023°/d |  |  |
+| ☊ North Node | ♋ Cancer 5°06′ | Gemini | 1 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 5°06′ | Sagittarius | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

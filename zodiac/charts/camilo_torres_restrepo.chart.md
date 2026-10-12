@@ -7,20 +7,20 @@ Born 1929-02-03 (gregorian calendar), Bogotá: birth in a liberal house (lat 4.5
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 13°42′ | 1 | 1.014°/d | detriment |  |
-| ☽ Moon | ♏ Scorpio 29°02′ | 10 | 11.813°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♒ Aquarius 22°19′ | 1 | R -0.840°/d |  |  |
-| ♀ Venus | ♈ Aries 0°25′ | 3 | 1.042°/d | detriment |  |
-| ♂ Mars | ♊ Gemini 21°14′ | 5 | 0.079°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 3°07′ | 4 | 0.122°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 27°04′ | 11 | 0.093°/d |  |  |
-| ♅ Uranus | ♈ Aries 4°42′ | 3 | 0.041°/d |  |  |
-| ♆ Neptune | ♍ Virgo 0°32′ | 8 | R -0.026°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 16°49′ | 6 | R -0.019°/d |  |  |
-| ☊ North Node | ♉ Taurus 26°31′ | 4 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 26°31′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 13°42′ | Capricornus | 1 | 1.014°/d | detriment |  |
+| ☽ Moon | ♏ Scorpio 29°02′ | Libra | 10 | 11.813°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♒ Aquarius 22°19′ | Capricornus | 1 | R -0.840°/d |  |  |
+| ♀ Venus | ♈ Aries 0°25′ | Pisces | 3 | 1.042°/d | detriment |  |
+| ♂ Mars | ♊ Gemini 21°14′ | Taurus | 5 | 0.079°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 3°07′ | Aries | 4 | 0.122°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 27°04′ | Sagittarius | 11 | 0.093°/d |  |  |
+| ♅ Uranus | ♈ Aries 4°42′ | Pisces | 3 | 0.041°/d |  |  |
+| ♆ Neptune | ♍ Virgo 0°32′ | Leo | 8 | R -0.026°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 16°49′ | Gemini | 6 | R -0.019°/d |  |  |
+| ☊ North Node | ♉ Taurus 26°31′ | Taurus | 4 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 26°31′ | Libra | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

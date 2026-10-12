@@ -7,20 +7,20 @@ Born 1795-09-07 (gregorian calendar), Mannheim, the birth in the Kurpfalz (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 14°17′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♊ Gemini 27°19′ | 10 | 13.866°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♍ Virgo 13°05′ | 1 | 1.900°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 3°59′ | 1 | 1.240°/d | fall |  |
-| ♂ Mars | ♌ Leo 23°14′ | 12 | 0.633°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 27°58′ | 5 | R -0.053°/d | fall |  |
-| ♄ Saturn | ♊ Gemini 13°31′ | 10 | 0.034°/d |  |  |
-| ♅ Uranus | ♍ Virgo 4°01′ | 1 | 0.062°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 4°23′ | 3 | 0.026°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 26°15′ | 6 | R -0.020°/d |  |  |
-| ☊ North Node | ♋ Cancer 26°45′ | 11 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 26°45′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 14°17′ | Leo | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♊ Gemini 27°19′ | Taurus | 10 | 13.866°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♍ Virgo 13°05′ | Leo | 1 | 1.900°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 3°59′ | Leo | 1 | 1.240°/d | fall |  |
+| ♂ Mars | ♌ Leo 23°14′ | Leo | 12 | 0.633°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 27°58′ | Sagittarius | 5 | R -0.053°/d | fall |  |
+| ♄ Saturn | ♊ Gemini 13°31′ | Taurus | 10 | 0.034°/d |  |  |
+| ♅ Uranus | ♍ Virgo 4°01′ | Leo | 1 | 0.062°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 4°23′ | Virgo | 3 | 0.026°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 26°15′ | Capricornus | 6 | R -0.020°/d |  |  |
+| ☊ North Node | ♋ Cancer 26°45′ | Gemini | 11 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 26°45′ | Sagittarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

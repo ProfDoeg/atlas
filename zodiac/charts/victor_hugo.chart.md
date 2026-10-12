@@ -7,20 +7,20 @@ Born 1802-02-26 (gregorian calendar), Besançon, birth on the Grande Rue (lat 47
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 6°44′ | 1 | 1.004°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 11°57′ | 10 | 13.677°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 24°42′ | 1 | 0.831°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 1°47′ | 1 | 1.250°/d | exaltation |  |
-| ♂ Mars | ♒ Aquarius 0°21′ | 12 | 0.761°/d |  |  |
-| ♃ Jupiter | ♌ Leo 29°57′ | 6 | R -0.130°/d |  |  |
-| ♄ Saturn | ♍ Virgo 3°58′ | 7 | R -0.080°/d |  |  |
-| ♅ Uranus | ♎ Libra 5°30′ | 8 | R -0.036°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 21°38′ | 9 | R -0.002°/d (stationary) |  |  |
-| ♇ Pluto | ♓ Pisces 5°24′ | 1 | 0.028°/d |  |  |
-| ☊ North Node | ♓ Pisces 21°37′ | 1 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 21°37′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 6°44′ | Aquarius | 1 | 1.004°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 11°57′ | Ophiuchus | 10 | 13.677°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 24°42′ | Pisces | 1 | 0.831°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 1°47′ | Aquarius | 1 | 1.250°/d | exaltation |  |
+| ♂ Mars | ♒ Aquarius 0°21′ | Capricornus | 12 | 0.761°/d |  |  |
+| ♃ Jupiter | ♌ Leo 29°57′ | Leo | 6 | R -0.130°/d |  |  |
+| ♄ Saturn | ♍ Virgo 3°58′ | Leo | 7 | R -0.080°/d |  |  |
+| ♅ Uranus | ♎ Libra 5°30′ | Virgo | 8 | R -0.036°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 21°38′ | Libra | 9 | R -0.002°/d (stationary) |  |  |
+| ♇ Pluto | ♓ Pisces 5°24′ | Aquarius | 1 | 0.028°/d |  |  |
+| ☊ North Node | ♓ Pisces 21°37′ | Pisces | 1 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 21°37′ | Leo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

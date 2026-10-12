@@ -7,20 +7,20 @@ Born 1866-08-30 (gregorian calendar), Cadiz, the consul's son is born (lat 36.52
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 6°22′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♈ Aries 26°28′ | 8 | 14.216°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♌ Leo 22°35′ | 12 | R -0.118°/d |  |  |
-| ♀ Venus | ♎ Libra 20°14′ | 2 | 1.113°/d | domicile |  |
-| ♂ Mars | ♊ Gemini 23°25′ | 10 | 0.610°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 23°10′ | 5 | R -0.062°/d | fall |  |
-| ♄ Saturn | ♏ Scorpio 7°39′ | 3 | 0.076°/d |  |  |
-| ♅ Uranus | ♋ Cancer 7°28′ | 11 | 0.037°/d |  |  |
-| ♆ Neptune | ♈ Aries 12°19′ | 8 | R -0.021°/d |  |  |
-| ♇ Pluto | ♉ Taurus 15°10′ | 9 | R -0.005°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♎ Libra 3°59′ | 2 | mean node |  |  |
-| ☋ South Node | ♈ Aries 3°59′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 6°22′ | Leo | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♈ Aries 26°28′ | Pisces | 8 | 14.216°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♌ Leo 22°35′ | Leo | 12 | R -0.118°/d |  |  |
+| ♀ Venus | ♎ Libra 20°14′ | Virgo | 2 | 1.113°/d | domicile |  |
+| ♂ Mars | ♊ Gemini 23°25′ | Taurus | 10 | 0.610°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 23°10′ | Sagittarius | 5 | R -0.062°/d | fall |  |
+| ♄ Saturn | ♏ Scorpio 7°39′ | Virgo | 3 | 0.076°/d |  |  |
+| ♅ Uranus | ♋ Cancer 7°28′ | Gemini | 11 | 0.037°/d |  |  |
+| ♆ Neptune | ♈ Aries 12°19′ | Pisces | 8 | R -0.021°/d |  |  |
+| ♇ Pluto | ♉ Taurus 15°10′ | Aries | 9 | R -0.005°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♎ Libra 3°59′ | Virgo | 2 | mean node |  |  |
+| ☋ South Node | ♈ Aries 3°59′ | Pisces | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

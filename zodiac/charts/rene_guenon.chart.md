@@ -7,20 +7,20 @@ Born 1886-11-15 (gregorian calendar), Blois, birth on the Loire (lat 47.5861, ln
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 22°35′ | 1 | 1.008°/d |  |  |
-| ☽ Moon | ♋ Cancer 1°58′ | 9 | 13.598°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♐ Sagittarius 15°01′ | 2 | 0.928°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 18°07′ | 1 | 1.257°/d | detriment |  |
-| ♂ Mars | ♐ Sagittarius 29°38′ | 2 | 0.756°/d |  |  |
-| ♃ Jupiter | ♎ Libra 24°04′ | 12 | 0.203°/d |  |  |
-| ♄ Saturn | ♋ Cancer 22°26′ | 9 | R -0.021°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 10°33′ | 12 | 0.051°/d |  |  |
-| ♆ Neptune | ♉ Taurus 26°32′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 3°18′ | 8 | R -0.018°/d |  |  |
-| ☊ North Node | ♍ Virgo 3°04′ | 11 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 3°04′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 22°35′ | Libra | 1 | 1.008°/d |  |  |
+| ☽ Moon | ♋ Cancer 1°58′ | Gemini | 9 | 13.598°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♐ Sagittarius 15°01′ | Ophiuchus | 2 | 0.928°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 18°07′ | Libra | 1 | 1.257°/d | detriment |  |
+| ♂ Mars | ♐ Sagittarius 29°38′ | Sagittarius | 2 | 0.756°/d |  |  |
+| ♃ Jupiter | ♎ Libra 24°04′ | Virgo | 12 | 0.203°/d |  |  |
+| ♄ Saturn | ♋ Cancer 22°26′ | Gemini | 9 | R -0.021°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 10°33′ | Virgo | 12 | 0.051°/d |  |  |
+| ♆ Neptune | ♉ Taurus 26°32′ | Taurus | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 3°18′ | Taurus | 8 | R -0.018°/d |  |  |
+| ☊ North Node | ♍ Virgo 3°04′ | Leo | 11 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 3°04′ | Aquarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

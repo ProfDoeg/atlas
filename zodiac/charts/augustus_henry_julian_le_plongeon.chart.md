@@ -7,20 +7,20 @@ Born 1825-05-04 (gregorian calendar), St. Helier, Jersey: born on the island bet
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 13°12′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 1°52′ | 8 | 14.272°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♉ Taurus 27°13′ | 1 | R -0.075°/d |  |  |
-| ♀ Venus | ♊ Gemini 5°57′ | 2 | R -0.230°/d |  |  |
-| ♂ Mars | ♉ Taurus 19°01′ | 1 | 0.719°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 5°20′ | 4 | 0.100°/d |  |  |
-| ♄ Saturn | ♊ Gemini 7°35′ | 2 | 0.123°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 19°56′ | 9 | R -0.008°/d (stationary) |  |  |
-| ♆ Neptune | ♑ Capricornus 11°42′ | 9 | R -0.011°/d |  |  |
-| ♇ Pluto | ♈ Aries 3°39′ | 12 | 0.020°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 23°13′ | 8 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 23°13′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 13°12′ | Aries | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 1°52′ | Scorpius | 8 | 14.272°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♉ Taurus 27°13′ | Taurus | 1 | R -0.075°/d |  |  |
+| ♀ Venus | ♊ Gemini 5°57′ | Taurus | 2 | R -0.230°/d |  |  |
+| ♂ Mars | ♉ Taurus 19°01′ | Aries | 1 | 0.719°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 5°20′ | Cancer | 4 | 0.100°/d |  |  |
+| ♄ Saturn | ♊ Gemini 7°35′ | Taurus | 2 | 0.123°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 19°56′ | Sagittarius | 9 | R -0.008°/d (stationary) |  |  |
+| ♆ Neptune | ♑ Capricornus 11°42′ | Sagittarius | 9 | R -0.011°/d |  |  |
+| ♇ Pluto | ♈ Aries 3°39′ | Pisces | 12 | 0.020°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 23°13′ | Ophiuchus | 8 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 23°13′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

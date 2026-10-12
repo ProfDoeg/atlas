@@ -7,20 +7,20 @@ Born 1905-01-21 (gregorian calendar), Granville, the birth above the Channel (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 0°19′ | 1 | 1.018°/d | detriment |  |
-| ☽ Moon | ♋ Cancer 26°17′ | 6 | 14.292°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♑ Capricornus 5°57′ | 12 | 0.919°/d |  |  |
-| ♀ Venus | ♓ Pisces 15°25′ | 2 | 1.131°/d | exaltation |  |
-| ♂ Mars | ♏ Scorpio 3°32′ | 10 | 0.483°/d | domicile |  |
-| ♃ Jupiter | ♈ Aries 22°23′ | 3 | 0.116°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 20°38′ | 1 | 0.116°/d | domicile |  |
-| ♅ Uranus | ♑ Capricornus 1°47′ | 12 | 0.055°/d |  |  |
-| ♆ Neptune | ♋ Cancer 6°13′ | 6 | R -0.025°/d |  |  |
-| ♇ Pluto | ♊ Gemini 20°03′ | 5 | R -0.014°/d |  |  |
-| ☊ North Node | ♍ Virgo 11°24′ | 8 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 11°24′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 0°19′ | Capricornus | 1 | 1.018°/d | detriment |  |
+| ☽ Moon | ♋ Cancer 26°17′ | Gemini | 6 | 14.292°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♑ Capricornus 5°57′ | Sagittarius | 12 | 0.919°/d |  |  |
+| ♀ Venus | ♓ Pisces 15°25′ | Aquarius | 2 | 1.131°/d | exaltation |  |
+| ♂ Mars | ♏ Scorpio 3°32′ | Virgo | 10 | 0.483°/d | domicile |  |
+| ♃ Jupiter | ♈ Aries 22°23′ | Pisces | 3 | 0.116°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 20°38′ | Capricornus | 1 | 0.116°/d | domicile |  |
+| ♅ Uranus | ♑ Capricornus 1°47′ | Sagittarius | 12 | 0.055°/d |  |  |
+| ♆ Neptune | ♋ Cancer 6°13′ | Gemini | 6 | R -0.025°/d |  |  |
+| ♇ Pluto | ♊ Gemini 20°03′ | Taurus | 5 | R -0.014°/d |  |  |
+| ☊ North Node | ♍ Virgo 11°24′ | Leo | 8 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 11°24′ | Aquarius | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

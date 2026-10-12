@@ -7,20 +7,20 @@ Born 1875-04-27 (gregorian calendar), Paris, born in the fifth arrondissement (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 6°19′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♑ Capricornus 15°28′ | 9 | 12.285°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 22°59′ | 12 | 1.899°/d |  |  |
-| ♀ Venus | ♓ Pisces 28°24′ | 11 | 1.178°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 1°49′ | 9 | 0.234°/d | exaltation |  |
-| ♃ Jupiter | ♎ Libra 25°29′ | 6 | R -0.124°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 24°28′ | 10 | 0.062°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 11°00′ | 4 | 0.008°/d (stationary) | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 0°43′ | 1 | 0.038°/d |  |  |
-| ♇ Pluto | ♉ Taurus 21°50′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 16°32′ | 12 | mean node |  |  |
-| ☋ South Node | ♎ Libra 16°32′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 6°19′ | Aries | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♑ Capricornus 15°28′ | Sagittarius | 9 | 12.285°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 22°59′ | Pisces | 12 | 1.899°/d |  |  |
+| ♀ Venus | ♓ Pisces 28°24′ | Pisces | 11 | 1.178°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 1°49′ | Sagittarius | 9 | 0.234°/d | exaltation |  |
+| ♃ Jupiter | ♎ Libra 25°29′ | Virgo | 6 | R -0.124°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 24°28′ | Capricornus | 10 | 0.062°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 11°00′ | Cancer | 4 | 0.008°/d (stationary) | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 0°43′ | Aries | 1 | 0.038°/d |  |  |
+| ♇ Pluto | ♉ Taurus 21°50′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 16°32′ | Pisces | 12 | mean node |  |  |
+| ☋ South Node | ♎ Libra 16°32′ | Virgo | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1856-06-09 (gregorian calendar), Troianiv, born on Shavuot (lat 50.1133, ln
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 18°17′ | 1 | 0.956°/d |  |  |
-| ☽ Moon | ♍ Virgo 0°56′ | 4 | 12.102°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♋ Cancer 5°00′ | 2 | R -0.007°/d (stationary) |  |  |
-| ♀ Venus | ♊ Gemini 6°53′ | 1 | 1.224°/d |  |  |
-| ♂ Mars | ♎ Libra 6°57′ | 5 | 0.280°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 5°22′ | 11 | 0.143°/d |  |  |
-| ♄ Saturn | ♋ Cancer 1°39′ | 2 | 0.128°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 22°34′ | 12 | 0.054°/d |  |  |
-| ♆ Neptune | ♓ Pisces 20°22′ | 10 | 0.007°/d (stationary) | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 5°10′ | 12 | 0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 21°42′ | 11 | mean node |  |  |
-| ☋ South Node | ♎ Libra 21°42′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 18°17′ | Taurus | 1 | 0.956°/d |  |  |
+| ☽ Moon | ♍ Virgo 0°56′ | Leo | 4 | 12.102°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♋ Cancer 5°00′ | Gemini | 2 | R -0.007°/d (stationary) |  |  |
+| ♀ Venus | ♊ Gemini 6°53′ | Taurus | 1 | 1.224°/d |  |  |
+| ♂ Mars | ♎ Libra 6°57′ | Virgo | 5 | 0.280°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 5°22′ | Pisces | 11 | 0.143°/d |  |  |
+| ♄ Saturn | ♋ Cancer 1°39′ | Gemini | 2 | 0.128°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 22°34′ | Aries | 12 | 0.054°/d |  |  |
+| ♆ Neptune | ♓ Pisces 20°22′ | Aquarius | 10 | 0.007°/d (stationary) | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 5°10′ | Aries | 12 | 0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 21°42′ | Pisces | 11 | mean node |  |  |
+| ☋ South Node | ♎ Libra 21°42′ | Virgo | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

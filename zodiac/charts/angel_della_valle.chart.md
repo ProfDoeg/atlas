@@ -7,20 +7,20 @@ Born 1852-10-10 (gregorian calendar), Buenos Aires, born in the year of Caseros 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 16°51′ | 1 | 0.990°/d | fall |  |
-| ☽ Moon | ♍ Virgo 0°55′ | 12 | 14.243°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♎ Libra 10°46′ | 1 | 1.756°/d |  |  |
-| ♀ Venus | ♍ Virgo 0°56′ | 12 | 1.045°/d | fall |  |
-| ♂ Mars | ♏ Scorpio 15°17′ | 2 | 0.699°/d | domicile |  |
-| ♃ Jupiter | ♏ Scorpio 23°51′ | 2 | 0.198°/d |  |  |
-| ♄ Saturn | ♉ Taurus 16°34′ | 8 | R -0.065°/d |  |  |
-| ♅ Uranus | ♉ Taurus 7°21′ | 8 | R -0.038°/d |  |  |
-| ♆ Neptune | ♓ Pisces 9°07′ | 6 | R -0.020°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 1°06′ | 8 | R -0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♋ Cancer 2°34′ | 10 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 2°34′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 16°51′ | Virgo | 1 | 0.990°/d | fall |  |
+| ☽ Moon | ♍ Virgo 0°55′ | Leo | 12 | 14.243°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♎ Libra 10°46′ | Virgo | 1 | 1.756°/d |  |  |
+| ♀ Venus | ♍ Virgo 0°56′ | Leo | 12 | 1.045°/d | fall |  |
+| ♂ Mars | ♏ Scorpio 15°17′ | Libra | 2 | 0.699°/d | domicile |  |
+| ♃ Jupiter | ♏ Scorpio 23°51′ | Libra | 2 | 0.198°/d |  |  |
+| ♄ Saturn | ♉ Taurus 16°34′ | Aries | 8 | R -0.065°/d |  |  |
+| ♅ Uranus | ♉ Taurus 7°21′ | Aries | 8 | R -0.038°/d |  |  |
+| ♆ Neptune | ♓ Pisces 9°07′ | Aquarius | 6 | R -0.020°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 1°06′ | Aries | 8 | R -0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♋ Cancer 2°34′ | Gemini | 10 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 2°34′ | Sagittarius | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

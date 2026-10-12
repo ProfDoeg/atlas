@@ -7,20 +7,20 @@ Born 1902-11-25 (gregorian calendar), Pequot Lakes, the birth on the lake (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 1°48′ | 1 | 1.012°/d |  |  |
-| ☽ Moon | ♎ Libra 4°22′ | 11 | 12.783°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♏ Scorpio 22°02′ | 12 | 1.576°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 0°48′ | 1 | 1.258°/d |  |  |
-| ♂ Mars | ♍ Virgo 17°43′ | 10 | 0.522°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 11°30′ | 3 | 0.150°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 23°52′ | 2 | 0.087°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 20°13′ | 1 | 0.059°/d |  |  |
-| ♆ Neptune | ♋ Cancer 3°10′ | 8 | R -0.023°/d |  |  |
-| ♇ Pluto | ♊ Gemini 19°02′ | 7 | R -0.018°/d |  |  |
-| ☊ North Node | ♎ Libra 23°08′ | 11 | mean node |  |  |
-| ☋ South Node | ♈ Aries 23°08′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 1°48′ | Scorpius | 1 | 1.012°/d |  |  |
+| ☽ Moon | ♎ Libra 4°22′ | Virgo | 11 | 12.783°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♏ Scorpio 22°02′ | Libra | 12 | 1.576°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 0°48′ | Libra | 1 | 1.258°/d |  |  |
+| ♂ Mars | ♍ Virgo 17°43′ | Leo | 10 | 0.522°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 11°30′ | Capricornus | 3 | 0.150°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 23°52′ | Sagittarius | 2 | 0.087°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 20°13′ | Ophiuchus | 1 | 0.059°/d |  |  |
+| ♆ Neptune | ♋ Cancer 3°10′ | Gemini | 8 | R -0.023°/d |  |  |
+| ♇ Pluto | ♊ Gemini 19°02′ | Taurus | 7 | R -0.018°/d |  |  |
+| ☊ North Node | ♎ Libra 23°08′ | Virgo | 11 | mean node |  |  |
+| ☋ South Node | ♈ Aries 23°08′ | Pisces | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

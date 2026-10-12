@@ -7,20 +7,20 @@ Born 1834-08-02 (gregorian calendar), Colmar, rue des Marchands: the birth (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 9°10′ | 1 | 0.957°/d | domicile |  |
-| ☽ Moon | ♊ Gemini 27°19′ | 11 | 13.088°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♌ Leo 14°30′ | 1 | R -0.748°/d |  |  |
-| ♀ Venus | ♍ Virgo 16°11′ | 2 | 1.176°/d | fall |  |
-| ♂ Mars | ♊ Gemini 1°16′ | 11 | 0.665°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 6°21′ | 11 | 0.162°/d | detriment |  |
-| ♄ Saturn | ♎ Libra 6°36′ | 3 | 0.084°/d | exaltation |  |
-| ♅ Uranus | ♒ Aquarius 25°18′ | 7 | R -0.038°/d | domicile (modern) |  |
-| ♆ Neptune | ♑ Capricornus 29°56′ | 6 | R -0.027°/d |  |  |
-| ♇ Pluto | ♈ Aries 13°48′ | 9 | R -0.007°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 24°23′ | 11 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 24°23′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 9°10′ | Cancer | 1 | 0.957°/d | domicile |  |
+| ☽ Moon | ♊ Gemini 27°19′ | Taurus | 11 | 13.088°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♌ Leo 14°30′ | Cancer | 1 | R -0.748°/d |  |  |
+| ♀ Venus | ♍ Virgo 16°11′ | Leo | 2 | 1.176°/d | fall |  |
+| ♂ Mars | ♊ Gemini 1°16′ | Taurus | 11 | 0.665°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 6°21′ | Taurus | 11 | 0.162°/d | detriment |  |
+| ♄ Saturn | ♎ Libra 6°36′ | Virgo | 3 | 0.084°/d | exaltation |  |
+| ♅ Uranus | ♒ Aquarius 25°18′ | Capricornus | 7 | R -0.038°/d | domicile (modern) |  |
+| ♆ Neptune | ♑ Capricornus 29°56′ | Capricornus | 6 | R -0.027°/d |  |  |
+| ♇ Pluto | ♈ Aries 13°48′ | Pisces | 9 | R -0.007°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 24°23′ | Taurus | 11 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 24°23′ | Ophiuchus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

@@ -8,20 +8,20 @@ Born 1561-09-10 (gregorian (proleptic) calendar), Asunción, the birth in the ho
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 16°50′ | 1 | 0.976°/d |  |  |
-| ☽ Moon | ♉ Taurus 26°49′ | 9 | 11.937°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♎ Libra 12°34′ | 2 | 0.616°/d |  |  |
-| ♀ Venus | ♌ Leo 6°09′ | 12 | 0.542°/d |  |  |
-| ♂ Mars | ♒ Aquarius 19°49′ | 6 | R -0.086°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 0°56′ | 10 | 0.033°/d | detriment |  |
-| ♄ Saturn | ♋ Cancer 3°53′ | 11 | 0.066°/d | detriment |  |
-| ♅ Uranus | ♏ Scorpio 21°15′ | 3 | 0.035°/d |  |  |
-| ♆ Neptune | ♊ Gemini 3°27′ | 10 | R -0.002°/d (stationary) |  |  |
-| ♇ Pluto | ♓ Pisces 11°01′ | 7 | R -0.021°/d |  |  |
-| ☊ North Node | ♒ Aquarius 22°26′ | 6 | mean node |  |  |
-| ☋ South Node | ♌ Leo 22°26′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 16°50′ | Leo | 1 | 0.976°/d |  |  |
+| ☽ Moon | ♉ Taurus 26°49′ | Taurus | 9 | 11.937°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♎ Libra 12°34′ | Virgo | 2 | 0.616°/d |  |  |
+| ♀ Venus | ♌ Leo 6°09′ | Cancer | 12 | 0.542°/d |  |  |
+| ♂ Mars | ♒ Aquarius 19°49′ | Capricornus | 6 | R -0.086°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 0°56′ | Taurus | 10 | 0.033°/d | detriment |  |
+| ♄ Saturn | ♋ Cancer 3°53′ | Gemini | 11 | 0.066°/d | detriment |  |
+| ♅ Uranus | ♏ Scorpio 21°15′ | Libra | 3 | 0.035°/d |  |  |
+| ♆ Neptune | ♊ Gemini 3°27′ | Taurus | 10 | R -0.002°/d (stationary) |  |  |
+| ♇ Pluto | ♓ Pisces 11°01′ | Aquarius | 7 | R -0.021°/d |  |  |
+| ☊ North Node | ♒ Aquarius 22°26′ | Capricornus | 6 | mean node |  |  |
+| ☋ South Node | ♌ Leo 22°26′ | Leo | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

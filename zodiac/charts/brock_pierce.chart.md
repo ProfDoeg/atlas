@@ -7,20 +7,20 @@ Born 1980-11-14 (gregorian calendar), Minneapolis, born on the fourteenth of Nov
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 21°47′ | 1 | 1.007°/d |  |  |
-| ☽ Moon | ♒ Aquarius 1°32′ | 4 | 12.966°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♏ Scorpio 4°12′ | 1 | 0.275°/d |  |  |
-| ♀ Venus | ♎ Libra 17°40′ | 12 | 1.222°/d | domicile |  |
-| ♂ Mars | ♐ Sagittarius 23°56′ | 2 | 0.749°/d |  |  |
-| ♃ Jupiter | ♎ Libra 3°14′ | 12 | 0.175°/d |  |  |
-| ♄ Saturn | ♎ Libra 6°22′ | 12 | 0.099°/d | exaltation |  |
-| ♅ Uranus | ♏ Scorpio 25°31′ | 1 | 0.062°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 21°20′ | 2 | 0.034°/d |  |  |
-| ♇ Pluto | ♎ Libra 22°56′ | 12 | 0.036°/d |  |  |
-| ☊ North Node | ♌ Leo 15°04′ | 10 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 15°04′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 21°47′ | Libra | 1 | 1.007°/d |  |  |
+| ☽ Moon | ♒ Aquarius 1°32′ | Capricornus | 4 | 12.966°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♏ Scorpio 4°12′ | Virgo | 1 | 0.275°/d |  |  |
+| ♀ Venus | ♎ Libra 17°40′ | Virgo | 12 | 1.222°/d | domicile |  |
+| ♂ Mars | ♐ Sagittarius 23°56′ | Ophiuchus | 2 | 0.749°/d |  |  |
+| ♃ Jupiter | ♎ Libra 3°14′ | Virgo | 12 | 0.175°/d |  |  |
+| ♄ Saturn | ♎ Libra 6°22′ | Virgo | 12 | 0.099°/d | exaltation |  |
+| ♅ Uranus | ♏ Scorpio 25°31′ | Libra | 1 | 0.062°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 21°20′ | Ophiuchus | 2 | 0.034°/d |  |  |
+| ♇ Pluto | ♎ Libra 22°56′ | Virgo | 12 | 0.036°/d |  |  |
+| ☊ North Node | ♌ Leo 15°04′ | Cancer | 10 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 15°04′ | Capricornus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

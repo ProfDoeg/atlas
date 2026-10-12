@@ -7,20 +7,20 @@ Born 1940-01-28 (gregorian calendar), Mexico City, the fifth of six (lat 19.4326
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 6°56′ | 1 | 1.016°/d | detriment |  |
-| ☽ Moon | ♍ Virgo 19°09′ | 8 | 14.793°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 4°19′ | 1 | 1.685°/d |  |  |
-| ♀ Venus | ♓ Pisces 11°33′ | 2 | 1.220°/d | exaltation |  |
-| ♂ Mars | ♈ Aries 16°20′ | 3 | 0.682°/d | domicile |  |
-| ♃ Jupiter | ♈ Aries 5°22′ | 3 | 0.179°/d |  |  |
-| ♄ Saturn | ♈ Aries 24°58′ | 3 | 0.056°/d | fall |  |
-| ♅ Uranus | ♉ Taurus 18°04′ | 4 | 0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 25°21′ | 8 | R -0.016°/d | detriment (modern) |  |
-| ♇ Pluto | ♌ Leo 1°43′ | 7 | R -0.022°/d |  |  |
-| ☊ North Node | ♎ Libra 24°07′ | 9 | mean node |  |  |
-| ☋ South Node | ♈ Aries 24°07′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 6°56′ | Capricornus | 1 | 1.016°/d | detriment |  |
+| ☽ Moon | ♍ Virgo 19°09′ | Leo | 8 | 14.793°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 4°19′ | Capricornus | 1 | 1.685°/d |  |  |
+| ♀ Venus | ♓ Pisces 11°33′ | Aquarius | 2 | 1.220°/d | exaltation |  |
+| ♂ Mars | ♈ Aries 16°20′ | Pisces | 3 | 0.682°/d | domicile |  |
+| ♃ Jupiter | ♈ Aries 5°22′ | Pisces | 3 | 0.179°/d |  |  |
+| ♄ Saturn | ♈ Aries 24°58′ | Pisces | 3 | 0.056°/d | fall |  |
+| ♅ Uranus | ♉ Taurus 18°04′ | Aries | 4 | 0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 25°21′ | Virgo | 8 | R -0.016°/d | detriment (modern) |  |
+| ♇ Pluto | ♌ Leo 1°43′ | Cancer | 7 | R -0.022°/d |  |  |
+| ☊ North Node | ♎ Libra 24°07′ | Virgo | 9 | mean node |  |  |
+| ☋ South Node | ♈ Aries 24°07′ | Pisces | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

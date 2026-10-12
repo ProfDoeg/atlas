@@ -7,20 +7,20 @@ Born 1890-08-20 (gregorian calendar), 454 Angell Street, Providence: the birth a
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 26°54′ | 1 | 0.963°/d | domicile |  |
-| ☽ Moon | ♎ Libra 14°52′ | 3 | 12.357°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 20°11′ | 2 | 1.433°/d | domicile, exaltation |  |
-| ♀ Venus | ♎ Libra 10°15′ | 3 | 1.117°/d | domicile |  |
-| ♂ Mars | ♐ Sagittarius 10°25′ | 5 | 0.474°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 4°48′ | 7 | R -0.111°/d |  |  |
-| ♄ Saturn | ♍ Virgo 6°03′ | 2 | 0.125°/d |  |  |
-| ♅ Uranus | ♎ Libra 23°27′ | 3 | 0.041°/d |  |  |
-| ♆ Neptune | ♊ Gemini 6°44′ | 11 | 0.011°/d |  |  |
-| ♇ Pluto | ♊ Gemini 7°52′ | 11 | 0.006°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 20°19′ | 11 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 20°19′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 26°54′ | Leo | 1 | 0.963°/d | domicile |  |
+| ☽ Moon | ♎ Libra 14°52′ | Virgo | 3 | 12.357°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 20°11′ | Leo | 2 | 1.433°/d | domicile, exaltation |  |
+| ♀ Venus | ♎ Libra 10°15′ | Virgo | 3 | 1.117°/d | domicile |  |
+| ♂ Mars | ♐ Sagittarius 10°25′ | Ophiuchus | 5 | 0.474°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 4°48′ | Capricornus | 7 | R -0.111°/d |  |  |
+| ♄ Saturn | ♍ Virgo 6°03′ | Leo | 2 | 0.125°/d |  |  |
+| ♅ Uranus | ♎ Libra 23°27′ | Virgo | 3 | 0.041°/d |  |  |
+| ♆ Neptune | ♊ Gemini 6°44′ | Taurus | 11 | 0.011°/d |  |  |
+| ♇ Pluto | ♊ Gemini 7°52′ | Taurus | 11 | 0.006°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 20°19′ | Taurus | 11 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 20°19′ | Ophiuchus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

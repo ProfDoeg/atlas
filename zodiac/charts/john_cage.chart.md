@@ -7,20 +7,20 @@ Born 1912-09-05 (gregorian calendar), Good Samaritan Hospital, Los Angeles: the 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 12°03′ | 1 | 0.970°/d |  |  |
-| ☽ Moon | ♊ Gemini 17°42′ | 10 | 13.832°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 24°42′ | 12 | 0.558°/d |  |  |
-| ♀ Venus | ♍ Virgo 28°44′ | 1 | 1.235°/d | fall |  |
-| ♂ Mars | ♎ Libra 1°29′ | 2 | 0.646°/d | detriment |  |
-| ♃ Jupiter | ♐ Sagittarius 7°11′ | 4 | 0.097°/d | domicile |  |
-| ♄ Saturn | ♊ Gemini 4°01′ | 10 | 0.021°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 0°01′ | 6 | R -0.026°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 25°17′ | 11 | 0.027°/d |  |  |
-| ♇ Pluto | ♊ Gemini 29°59′ | 10 | 0.009°/d (stationary) |  |  |
-| ☊ North Node | ♈ Aries 13°59′ | 8 | mean node |  |  |
-| ☋ South Node | ♎ Libra 13°59′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 12°03′ | Leo | 1 | 0.970°/d |  |  |
+| ☽ Moon | ♊ Gemini 17°42′ | Taurus | 10 | 13.832°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 24°42′ | Leo | 12 | 0.558°/d |  |  |
+| ♀ Venus | ♍ Virgo 28°44′ | Virgo | 1 | 1.235°/d | fall |  |
+| ♂ Mars | ♎ Libra 1°29′ | Virgo | 2 | 0.646°/d | detriment |  |
+| ♃ Jupiter | ♐ Sagittarius 7°11′ | Scorpius | 4 | 0.097°/d | domicile |  |
+| ♄ Saturn | ♊ Gemini 4°01′ | Taurus | 10 | 0.021°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 0°01′ | Capricornus | 6 | R -0.026°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 25°17′ | Gemini | 11 | 0.027°/d |  |  |
+| ♇ Pluto | ♊ Gemini 29°59′ | Taurus | 10 | 0.009°/d (stationary) |  |  |
+| ☊ North Node | ♈ Aries 13°59′ | Pisces | 8 | mean node |  |  |
+| ☋ South Node | ♎ Libra 13°59′ | Virgo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

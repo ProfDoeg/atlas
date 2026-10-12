@@ -7,20 +7,20 @@ Born 1849-08-20 (gregorian calendar), Paris, the typographer's son (lat 48.8566,
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 26°49′ | 1 | 0.963°/d | domicile |  |
-| ☽ Moon | ♍ Virgo 19°50′ | 2 | 13.671°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 0°16′ | 2 | 1.943°/d | domicile, exaltation |  |
-| ♀ Venus | ♋ Cancer 13°22′ | 12 | 1.096°/d |  |  |
-| ♂ Mars | ♊ Gemini 5°26′ | 11 | 0.604°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 1°49′ | 2 | 0.217°/d | detriment |  |
-| ♄ Saturn | ♈ Aries 7°06′ | 9 | R -0.050°/d | fall |  |
-| ♅ Uranus | ♈ Aries 26°15′ | 9 | R -0.015°/d |  |  |
-| ♆ Neptune | ♓ Pisces 3°34′ | 8 | R -0.027°/d | domicile (modern) |  |
-| ♇ Pluto | ♈ Aries 28°50′ | 9 | R -0.007°/d (stationary) |  |  |
-| ☊ North Node | ♍ Virgo 3°18′ | 2 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 3°18′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 26°49′ | Leo | 1 | 0.963°/d | domicile |  |
+| ☽ Moon | ♍ Virgo 19°50′ | Leo | 2 | 13.671°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 0°16′ | Leo | 2 | 1.943°/d | domicile, exaltation |  |
+| ♀ Venus | ♋ Cancer 13°22′ | Gemini | 12 | 1.096°/d |  |  |
+| ♂ Mars | ♊ Gemini 5°26′ | Taurus | 11 | 0.604°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 1°49′ | Leo | 2 | 0.217°/d | detriment |  |
+| ♄ Saturn | ♈ Aries 7°06′ | Pisces | 9 | R -0.050°/d | fall |  |
+| ♅ Uranus | ♈ Aries 26°15′ | Pisces | 9 | R -0.015°/d |  |  |
+| ♆ Neptune | ♓ Pisces 3°34′ | Aquarius | 8 | R -0.027°/d | domicile (modern) |  |
+| ♇ Pluto | ♈ Aries 28°50′ | Pisces | 9 | R -0.007°/d (stationary) |  |  |
+| ☊ North Node | ♍ Virgo 3°18′ | Leo | 2 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 3°18′ | Aquarius | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

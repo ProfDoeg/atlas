@@ -7,20 +7,20 @@ Born 1868-10-24 (gregorian calendar), Saint-Mandé, the birth outside the gate o
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 0°53′ | 1 | 0.998°/d |  |  |
-| ☽ Moon | ♒ Aquarius 7°21′ | 4 | 11.844°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 21°51′ | 1 | 0.148°/d |  |  |
-| ♀ Venus | ♍ Virgo 16°48′ | 11 | 1.127°/d | fall |  |
-| ♂ Mars | ♌ Leo 11°52′ | 10 | 0.512°/d |  |  |
-| ♃ Jupiter | ♈ Aries 6°40′ | 6 | R -0.111°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 3°50′ | 2 | 0.105°/d |  |  |
-| ♅ Uranus | ♋ Cancer 17°22′ | 9 | R -0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♈ Aries 15°29′ | 6 | R -0.027°/d |  |  |
-| ♇ Pluto | ♉ Taurus 16°22′ | 7 | R -0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♌ Leo 22°21′ | 10 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 22°21′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 0°53′ | Virgo | 1 | 0.998°/d |  |  |
+| ☽ Moon | ♒ Aquarius 7°21′ | Capricornus | 4 | 11.844°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 21°51′ | Libra | 1 | 0.148°/d |  |  |
+| ♀ Venus | ♍ Virgo 16°48′ | Leo | 11 | 1.127°/d | fall |  |
+| ♂ Mars | ♌ Leo 11°52′ | Cancer | 10 | 0.512°/d |  |  |
+| ♃ Jupiter | ♈ Aries 6°40′ | Pisces | 6 | R -0.111°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 3°50′ | Scorpius | 2 | 0.105°/d |  |  |
+| ♅ Uranus | ♋ Cancer 17°22′ | Gemini | 9 | R -0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♈ Aries 15°29′ | Pisces | 6 | R -0.027°/d |  |  |
+| ♇ Pluto | ♉ Taurus 16°22′ | Aries | 7 | R -0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♌ Leo 22°21′ | Leo | 10 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 22°21′ | Capricornus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

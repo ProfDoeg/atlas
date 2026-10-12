@@ -7,20 +7,20 @@ Born 1968-07-11 (gregorian calendar), Leicester: a birth in the East Midlands (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 18°45′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♒ Aquarius 0°35′ | 8 | 14.526°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♊ Gemini 28°01′ | 12 | 0.885°/d | domicile |  |
-| ♀ Venus | ♋ Cancer 24°26′ | 1 | 1.230°/d |  |  |
-| ♂ Mars | ♋ Cancer 13°11′ | 1 | 0.661°/d | fall |  |
-| ♃ Jupiter | ♍ Virgo 4°07′ | 3 | 0.180°/d | detriment |  |
-| ♄ Saturn | ♈ Aries 24°49′ | 10 | 0.045°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 25°34′ | 3 | 0.033°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 23°59′ | 5 | R -0.013°/d |  |  |
-| ♇ Pluto | ♍ Virgo 20°40′ | 3 | 0.021°/d |  |  |
-| ☊ North Node | ♈ Aries 13°50′ | 10 | mean node |  |  |
-| ☋ South Node | ♎ Libra 13°50′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 18°45′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♒ Aquarius 0°35′ | Capricornus | 8 | 14.526°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♊ Gemini 28°01′ | Taurus | 12 | 0.885°/d | domicile |  |
+| ♀ Venus | ♋ Cancer 24°26′ | Gemini | 1 | 1.230°/d |  |  |
+| ♂ Mars | ♋ Cancer 13°11′ | Gemini | 1 | 0.661°/d | fall |  |
+| ♃ Jupiter | ♍ Virgo 4°07′ | Leo | 3 | 0.180°/d | detriment |  |
+| ♄ Saturn | ♈ Aries 24°49′ | Pisces | 10 | 0.045°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 25°34′ | Virgo | 3 | 0.033°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 23°59′ | Libra | 5 | R -0.013°/d |  |  |
+| ♇ Pluto | ♍ Virgo 20°40′ | Leo | 3 | 0.021°/d |  |  |
+| ☊ North Node | ♈ Aries 13°50′ | Pisces | 10 | mean node |  |  |
+| ☋ South Node | ♎ Libra 13°50′ | Virgo | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

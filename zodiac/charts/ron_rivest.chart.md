@@ -7,20 +7,20 @@ Born 1947-05-06 (gregorian calendar), Schenectady, the birth in a company town (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 14°39′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♏ Scorpio 23°47′ | 7 | 12.355°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♉ Taurus 3°26′ | 1 | 1.976°/d |  |  |
-| ♀ Venus | ♈ Aries 13°04′ | 12 | 1.202°/d | detriment |  |
-| ♂ Mars | ♈ Aries 18°32′ | 12 | 0.763°/d | domicile |  |
-| ♃ Jupiter | ♏ Scorpio 23°47′ | 7 | R -0.124°/d |  |  |
-| ♄ Saturn | ♌ Leo 2°52′ | 4 | 0.056°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 19°44′ | 2 | 0.051°/d |  |  |
-| ♆ Neptune | ♎ Libra 8°37′ | 6 | R -0.021°/d |  |  |
-| ♇ Pluto | ♌ Leo 11°03′ | 4 | 0.005°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 3°32′ | 2 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 3°32′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 14°39′ | Aries | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♏ Scorpio 23°47′ | Libra | 7 | 12.355°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♉ Taurus 3°26′ | Aries | 1 | 1.976°/d |  |  |
+| ♀ Venus | ♈ Aries 13°04′ | Pisces | 12 | 1.202°/d | detriment |  |
+| ♂ Mars | ♈ Aries 18°32′ | Pisces | 12 | 0.763°/d | domicile |  |
+| ♃ Jupiter | ♏ Scorpio 23°47′ | Libra | 7 | R -0.124°/d |  |  |
+| ♄ Saturn | ♌ Leo 2°52′ | Cancer | 4 | 0.056°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 19°44′ | Taurus | 2 | 0.051°/d |  |  |
+| ♆ Neptune | ♎ Libra 8°37′ | Virgo | 6 | R -0.021°/d |  |  |
+| ♇ Pluto | ♌ Leo 11°03′ | Cancer | 4 | 0.005°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 3°32′ | Taurus | 2 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 3°32′ | Scorpius | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

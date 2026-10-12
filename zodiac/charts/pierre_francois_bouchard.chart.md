@@ -7,20 +7,20 @@ Born 1771-04-29 (gregorian calendar), Orgelet, the joiner's youngest son (lat 46
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 8°26′ | 1 | 0.970°/d |  |  |
-| ☽ Moon | ♏ Scorpio 7°24′ | 7 | 13.758°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 20°29′ | 1 | 2.004°/d |  |  |
-| ♀ Venus | ♓ Pisces 25°34′ | 11 | 1.130°/d | exaltation |  |
-| ♂ Mars | ♋ Cancer 19°59′ | 3 | 0.533°/d | fall |  |
-| ♃ Jupiter | ♑ Capricornus 27°05′ | 9 | 0.052°/d | fall |  |
-| ♄ Saturn | ♌ Leo 9°39′ | 4 | 0.033°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 15°16′ | 1 | 0.058°/d |  |  |
-| ♆ Neptune | ♍ Virgo 11°25′ | 5 | R -0.012°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 19°32′ | 9 | R -0.004°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 17°53′ | 7 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 17°53′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 8°26′ | Aries | 1 | 0.970°/d |  |  |
+| ☽ Moon | ♏ Scorpio 7°24′ | Virgo | 7 | 13.758°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 20°29′ | Aries | 1 | 2.004°/d |  |  |
+| ♀ Venus | ♓ Pisces 25°34′ | Pisces | 11 | 1.130°/d | exaltation |  |
+| ♂ Mars | ♋ Cancer 19°59′ | Gemini | 3 | 0.533°/d | fall |  |
+| ♃ Jupiter | ♑ Capricornus 27°05′ | Sagittarius | 9 | 0.052°/d | fall |  |
+| ♄ Saturn | ♌ Leo 9°39′ | Cancer | 4 | 0.033°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 15°16′ | Aries | 1 | 0.058°/d |  |  |
+| ♆ Neptune | ♍ Virgo 11°25′ | Leo | 5 | R -0.012°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 19°32′ | Sagittarius | 9 | R -0.004°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 17°53′ | Libra | 7 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 17°53′ | Aries | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

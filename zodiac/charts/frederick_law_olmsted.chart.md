@@ -7,20 +7,20 @@ Born 1822-04-26 (gregorian calendar), Hartford, the eighth generation on the riv
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 5°11′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♋ Cancer 5°39′ | 3 | 14.301°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♈ Aries 15°57′ | 12 | 1.709°/d |  |  |
-| ♀ Venus | ♓ Pisces 21°45′ | 11 | 0.717°/d | exaltation |  |
-| ♂ Mars | ♌ Leo 23°33′ | 4 | 0.251°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 11°15′ | 1 | 0.238°/d |  |  |
-| ♄ Saturn | ♉ Taurus 0°22′ | 1 | 0.128°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 7°14′ | 9 | R -0.012°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 5°08′ | 9 | R -0.010°/d |  |  |
-| ♇ Pluto | ♈ Aries 0°14′ | 12 | 0.021°/d |  |  |
-| ☊ North Node | ♒ Aquarius 21°40′ | 10 | mean node |  |  |
-| ☋ South Node | ♌ Leo 21°40′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 5°11′ | Aries | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♋ Cancer 5°39′ | Gemini | 3 | 14.301°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♈ Aries 15°57′ | Pisces | 12 | 1.709°/d |  |  |
+| ♀ Venus | ♓ Pisces 21°45′ | Pisces | 11 | 0.717°/d | exaltation |  |
+| ♂ Mars | ♌ Leo 23°33′ | Leo | 4 | 0.251°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 11°15′ | Aries | 1 | 0.238°/d |  |  |
+| ♄ Saturn | ♉ Taurus 0°22′ | Aries | 1 | 0.128°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 7°14′ | Sagittarius | 9 | R -0.012°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 5°08′ | Sagittarius | 9 | R -0.010°/d |  |  |
+| ♇ Pluto | ♈ Aries 0°14′ | Pisces | 12 | 0.021°/d |  |  |
+| ☊ North Node | ♒ Aquarius 21°40′ | Capricornus | 10 | mean node |  |  |
+| ☋ South Node | ♌ Leo 21°40′ | Leo | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1749-03-23 (gregorian calendar), Beaumont-en-Auge, the birth of the syndic'
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 2°30′ | 1 | 0.990°/d | exaltation |  |
-| ☽ Moon | ♉ Taurus 29°45′ | 2 | 13.196°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♓ Pisces 23°56′ | 12 | R -0.780°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 11°30′ | 12 | 1.234°/d | exaltation |  |
-| ♂ Mars | ♐ Sagittarius 22°11′ | 9 | 0.474°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 11°40′ | 12 | 0.233°/d | domicile |  |
-| ♄ Saturn | ♏ Scorpio 19°45′ | 8 | R -0.038°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 19°57′ | 11 | 0.046°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 22°44′ | 4 | R -0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♐ Sagittarius 1°50′ | 9 | R -0.010°/d |  |  |
-| ☊ North Node | ♑ Capricornus 25°20′ | 10 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 25°20′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 2°30′ | Pisces | 1 | 0.990°/d | exaltation |  |
+| ☽ Moon | ♉ Taurus 29°45′ | Taurus | 2 | 13.196°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♓ Pisces 23°56′ | Pisces | 12 | R -0.780°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 11°30′ | Aquarius | 12 | 1.234°/d | exaltation |  |
+| ♂ Mars | ♐ Sagittarius 22°11′ | Ophiuchus | 9 | 0.474°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 11°40′ | Aquarius | 12 | 0.233°/d | domicile |  |
+| ♄ Saturn | ♏ Scorpio 19°45′ | Libra | 8 | R -0.038°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 19°57′ | Capricornus | 11 | 0.046°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 22°44′ | Gemini | 4 | R -0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♐ Sagittarius 1°50′ | Scorpius | 9 | R -0.010°/d |  |  |
+| ☊ North Node | ♑ Capricornus 25°20′ | Sagittarius | 10 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 25°20′ | Gemini | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

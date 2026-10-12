@@ -7,20 +7,20 @@ Born 1916-10-17 (gregorian calendar), Buenos Aires, the birth on a contested day
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 23°17′ | 1 | 0.993°/d | fall |  |
-| ☽ Moon | ♋ Cancer 1°01′ | 10 | 12.013°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♎ Libra 6°04′ | 1 | 0.454°/d |  |  |
-| ♀ Venus | ♍ Virgo 10°12′ | 12 | 1.139°/d | fall |  |
-| ♂ Mars | ♏ Scorpio 26°20′ | 2 | 0.712°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 1°18′ | 8 | R -0.133°/d |  |  |
-| ♄ Saturn | ♌ Leo 0°05′ | 11 | 0.048°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 15°51′ | 5 | R -0.007°/d (stationary) | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 4°50′ | 11 | 0.012°/d |  |  |
-| ♇ Pluto | ♋ Cancer 4°26′ | 10 | R -0.005°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 24°23′ | 4 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 24°23′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 23°17′ | Virgo | 1 | 0.993°/d | fall |  |
+| ☽ Moon | ♋ Cancer 1°01′ | Gemini | 10 | 12.013°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♎ Libra 6°04′ | Virgo | 1 | 0.454°/d |  |  |
+| ♀ Venus | ♍ Virgo 10°12′ | Leo | 12 | 1.139°/d | fall |  |
+| ♂ Mars | ♏ Scorpio 26°20′ | Libra | 2 | 0.712°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 1°18′ | Aries | 8 | R -0.133°/d |  |  |
+| ♄ Saturn | ♌ Leo 0°05′ | Cancer | 11 | 0.048°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 15°51′ | Capricornus | 5 | R -0.007°/d (stationary) | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 4°50′ | Cancer | 11 | 0.012°/d |  |  |
+| ♇ Pluto | ♋ Cancer 4°26′ | Gemini | 10 | R -0.005°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 24°23′ | Sagittarius | 4 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 24°23′ | Gemini | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

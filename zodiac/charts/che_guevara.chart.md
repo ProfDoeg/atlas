@@ -7,20 +7,20 @@ Born 1928-06-14 (gregorian calendar), Rosario: Entre Ríos 480, birthplace (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 22°41′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♈ Aries 28°56′ | 11 | 14.554°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♋ Cancer 12°14′ | 2 | 0.202°/d |  |  |
-| ♀ Venus | ♊ Gemini 17°51′ | 1 | 1.227°/d |  |  |
-| ♂ Mars | ♈ Aries 21°00′ | 11 | 0.735°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 2°08′ | 12 | 0.193°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 15°11′ | 7 | R -0.073°/d |  |  |
-| ♅ Uranus | ♈ Aries 7°11′ | 11 | 0.023°/d |  |  |
-| ♆ Neptune | ♌ Leo 26°51′ | 3 | 0.020°/d |  |  |
-| ♇ Pluto | ♋ Cancer 16°06′ | 2 | 0.024°/d |  |  |
-| ☊ North Node | ♊ Gemini 8°55′ | 1 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 8°55′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 22°41′ | Taurus | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♈ Aries 28°56′ | Pisces | 11 | 14.554°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♋ Cancer 12°14′ | Gemini | 2 | 0.202°/d |  |  |
+| ♀ Venus | ♊ Gemini 17°51′ | Taurus | 1 | 1.227°/d |  |  |
+| ♂ Mars | ♈ Aries 21°00′ | Pisces | 11 | 0.735°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 2°08′ | Aries | 12 | 0.193°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 15°11′ | Ophiuchus | 7 | R -0.073°/d |  |  |
+| ♅ Uranus | ♈ Aries 7°11′ | Pisces | 11 | 0.023°/d |  |  |
+| ♆ Neptune | ♌ Leo 26°51′ | Leo | 3 | 0.020°/d |  |  |
+| ♇ Pluto | ♋ Cancer 16°06′ | Gemini | 2 | 0.024°/d |  |  |
+| ☊ North Node | ♊ Gemini 8°55′ | Taurus | 1 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 8°55′ | Ophiuchus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

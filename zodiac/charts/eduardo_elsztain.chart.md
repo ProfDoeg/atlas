@@ -7,20 +7,20 @@ Born 1960-01-26 (gregorian calendar), Buenos Aires, the birth of Eduardo Sergio 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 5°03′ | 1 | 1.017°/d | detriment |  |
-| ☽ Moon | ♑ Capricornus 3°44′ | 12 | 14.912°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♒ Aquarius 4°37′ | 1 | 1.696°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 28°33′ | 11 | 1.218°/d |  |  |
-| ♂ Mars | ♑ Capricornus 8°45′ | 12 | 0.746°/d | exaltation |  |
-| ♃ Jupiter | ♐ Sagittarius 23°58′ | 11 | 0.197°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 12°22′ | 12 | 0.112°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 19°27′ | 7 | R -0.042°/d | detriment (modern) |  |
-| ♆ Neptune | ♏ Scorpio 9°08′ | 10 | 0.009°/d (stationary) |  |  |
-| ♇ Pluto | ♍ Virgo 5°39′ | 8 | R -0.021°/d |  |  |
-| ☊ North Node | ♍ Virgo 27°24′ | 8 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 27°24′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 5°03′ | Capricornus | 1 | 1.017°/d | detriment |  |
+| ☽ Moon | ♑ Capricornus 3°44′ | Sagittarius | 12 | 14.912°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♒ Aquarius 4°37′ | Capricornus | 1 | 1.696°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 28°33′ | Sagittarius | 11 | 1.218°/d |  |  |
+| ♂ Mars | ♑ Capricornus 8°45′ | Sagittarius | 12 | 0.746°/d | exaltation |  |
+| ♃ Jupiter | ♐ Sagittarius 23°58′ | Ophiuchus | 11 | 0.197°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 12°22′ | Sagittarius | 12 | 0.112°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 19°27′ | Leo | 7 | R -0.042°/d | detriment (modern) |  |
+| ♆ Neptune | ♏ Scorpio 9°08′ | Libra | 10 | 0.009°/d (stationary) |  |  |
+| ♇ Pluto | ♍ Virgo 5°39′ | Leo | 8 | R -0.021°/d |  |  |
+| ☊ North Node | ♍ Virgo 27°24′ | Virgo | 8 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 27°24′ | Pisces | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

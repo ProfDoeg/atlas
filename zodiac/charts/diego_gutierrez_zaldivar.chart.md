@@ -7,20 +7,20 @@ Born 1975-01-28 (gregorian calendar), Buenos Aires, a birth date the record will
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 7°26′ | 1 | 1.016°/d | detriment |  |
-| ☽ Moon | ♌ Leo 12°40′ | 7 | 15.257°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 24°54′ | 1 | 0.438°/d |  |  |
-| ♀ Venus | ♒ Aquarius 27°12′ | 1 | 1.248°/d |  |  |
-| ♂ Mars | ♑ Capricornus 4°33′ | 12 | 0.734°/d | exaltation |  |
-| ♃ Jupiter | ♓ Pisces 18°28′ | 2 | 0.212°/d | domicile |  |
-| ♄ Saturn | ♋ Cancer 13°47′ | 6 | R -0.072°/d | detriment |  |
-| ♅ Uranus | ♏ Scorpio 2°16′ | 10 | 0.008°/d (stationary) |  |  |
-| ♆ Neptune | ♐ Sagittarius 11°15′ | 11 | 0.024°/d |  |  |
-| ♇ Pluto | ♎ Libra 9°14′ | 9 | R -0.009°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 7°10′ | 11 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 7°10′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 7°26′ | Capricornus | 1 | 1.016°/d | detriment |  |
+| ☽ Moon | ♌ Leo 12°40′ | Cancer | 7 | 15.257°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 24°54′ | Capricornus | 1 | 0.438°/d |  |  |
+| ♀ Venus | ♒ Aquarius 27°12′ | Capricornus | 1 | 1.248°/d |  |  |
+| ♂ Mars | ♑ Capricornus 4°33′ | Sagittarius | 12 | 0.734°/d | exaltation |  |
+| ♃ Jupiter | ♓ Pisces 18°28′ | Aquarius | 2 | 0.212°/d | domicile |  |
+| ♄ Saturn | ♋ Cancer 13°47′ | Gemini | 6 | R -0.072°/d | detriment |  |
+| ♅ Uranus | ♏ Scorpio 2°16′ | Virgo | 10 | 0.008°/d (stationary) |  |  |
+| ♆ Neptune | ♐ Sagittarius 11°15′ | Ophiuchus | 11 | 0.024°/d |  |  |
+| ♇ Pluto | ♎ Libra 9°14′ | Virgo | 9 | R -0.009°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 7°10′ | Scorpius | 11 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 7°10′ | Taurus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

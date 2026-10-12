@@ -7,20 +7,20 @@ Born 1860-04-02 (gregorian calendar), Gravere, birth in the Val di Susa (lat 45.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 12°29′ | 1 | 0.985°/d | exaltation |  |
-| ☽ Moon | ♌ Leo 17°58′ | 5 | 14.524°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 14°08′ | 1 | R -0.775°/d |  |  |
-| ♀ Venus | ♉ Taurus 24°26′ | 2 | 1.137°/d | domicile |  |
-| ♂ Mars | ♑ Capricornus 5°15′ | 10 | 0.521°/d | exaltation |  |
-| ♃ Jupiter | ♋ Cancer 15°58′ | 4 | 0.068°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 19°34′ | 5 | R -0.032°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 4°50′ | 3 | 0.041°/d |  |  |
-| ♆ Neptune | ♓ Pisces 27°24′ | 12 | 0.037°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 7°27′ | 2 | 0.021°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 7°56′ | 11 | mean node |  |  |
-| ☋ South Node | ♌ Leo 7°56′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 12°29′ | Pisces | 1 | 0.985°/d | exaltation |  |
+| ☽ Moon | ♌ Leo 17°58′ | Cancer | 5 | 14.524°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 14°08′ | Pisces | 1 | R -0.775°/d |  |  |
+| ♀ Venus | ♉ Taurus 24°26′ | Taurus | 2 | 1.137°/d | domicile |  |
+| ♂ Mars | ♑ Capricornus 5°15′ | Sagittarius | 10 | 0.521°/d | exaltation |  |
+| ♃ Jupiter | ♋ Cancer 15°58′ | Gemini | 4 | 0.068°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 19°34′ | Leo | 5 | R -0.032°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 4°50′ | Taurus | 3 | 0.041°/d |  |  |
+| ♆ Neptune | ♓ Pisces 27°24′ | Pisces | 12 | 0.037°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 7°27′ | Aries | 2 | 0.021°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 7°56′ | Capricornus | 11 | mean node |  |  |
+| ☋ South Node | ♌ Leo 7°56′ | Cancer | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

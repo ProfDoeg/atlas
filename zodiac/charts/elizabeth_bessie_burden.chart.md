@@ -7,20 +7,20 @@ Born 1841-12-13 (gregorian calendar), Brazier Passage, Holywell, the birth (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 20°53′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 22°01′ | 1 | 12.398°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 2°20′ | 1 | 1.380°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 1°05′ | 1 | 1.253°/d |  |  |
-| ♂ Mars | ♒ Aquarius 10°57′ | 3 | 0.775°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 28°52′ | 1 | 0.229°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 3°41′ | 2 | 0.116°/d | domicile |  |
-| ♅ Uranus | ♓ Pisces 20°38′ | 4 | 0.011°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 14°53′ | 3 | 0.025°/d |  |  |
-| ♇ Pluto | ♈ Aries 19°04′ | 5 | R -0.007°/d (stationary) |  |  |
-| ☊ North Node | ♒ Aquarius 1°56′ | 3 | mean node |  |  |
-| ☋ South Node | ♌ Leo 1°56′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 20°53′ | Ophiuchus | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 22°01′ | Ophiuchus | 1 | 12.398°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 2°20′ | Scorpius | 1 | 1.380°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 1°05′ | Libra | 1 | 1.253°/d |  |  |
+| ♂ Mars | ♒ Aquarius 10°57′ | Capricornus | 3 | 0.775°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 28°52′ | Sagittarius | 1 | 0.229°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 3°41′ | Sagittarius | 2 | 0.116°/d | domicile |  |
+| ♅ Uranus | ♓ Pisces 20°38′ | Aquarius | 4 | 0.011°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 14°53′ | Capricornus | 3 | 0.025°/d |  |  |
+| ♇ Pluto | ♈ Aries 19°04′ | Pisces | 5 | R -0.007°/d (stationary) |  |  |
+| ☊ North Node | ♒ Aquarius 1°56′ | Capricornus | 3 | mean node |  |  |
+| ☋ South Node | ♌ Leo 1°56′ | Cancer | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

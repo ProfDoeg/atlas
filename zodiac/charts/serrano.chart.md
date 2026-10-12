@@ -7,20 +7,20 @@ Born 1917-09-10 (gregorian calendar), Santiago de Chile, Calle Santo Domingo, th
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 16°42′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♋ Cancer 6°19′ | 11 | 12.232°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♎ Libra 3°07′ | 2 | R -0.457°/d |  |  |
-| ♀ Venus | ♎ Libra 22°12′ | 2 | 1.195°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 28°28′ | 11 | 0.626°/d | fall |  |
-| ♃ Jupiter | ♊ Gemini 10°50′ | 10 | 0.067°/d | detriment |  |
-| ♄ Saturn | ♌ Leo 9°45′ | 12 | 0.112°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 20°48′ | 6 | R -0.035°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 6°12′ | 12 | 0.030°/d |  |  |
-| ♇ Pluto | ♋ Cancer 5°26′ | 11 | 0.010°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 7°01′ | 5 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 7°01′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 16°42′ | Leo | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♋ Cancer 6°19′ | Gemini | 11 | 12.232°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♎ Libra 3°07′ | Virgo | 2 | R -0.457°/d |  |  |
+| ♀ Venus | ♎ Libra 22°12′ | Virgo | 2 | 1.195°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 28°28′ | Cancer | 11 | 0.626°/d | fall |  |
+| ♃ Jupiter | ♊ Gemini 10°50′ | Taurus | 10 | 0.067°/d | detriment |  |
+| ♄ Saturn | ♌ Leo 9°45′ | Cancer | 12 | 0.112°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 20°48′ | Capricornus | 6 | R -0.035°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 6°12′ | Cancer | 12 | 0.030°/d |  |  |
+| ♇ Pluto | ♋ Cancer 5°26′ | Gemini | 11 | 0.010°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 7°01′ | Sagittarius | 5 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 7°01′ | Gemini | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

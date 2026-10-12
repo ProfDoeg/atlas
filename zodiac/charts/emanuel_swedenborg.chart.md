@@ -7,20 +7,20 @@ Born 1688-01-29 (gregorian calendar), Stockholm, Gamla Stan: the court chaplain'
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 9°08′ | 1 | 1.015°/d | detriment |  |
-| ☽ Moon | ♐ Sagittarius 17°13′ | 11 | 13.361°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 16°11′ | 12 | 1.315°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 22°20′ | 11 | 1.005°/d |  |  |
-| ♂ Mars | ♈ Aries 21°29′ | 3 | 0.654°/d | domicile |  |
-| ♃ Jupiter | ♑ Capricornus 13°10′ | 12 | 0.220°/d | fall |  |
-| ♄ Saturn | ♎ Libra 24°47′ | 9 | 0.007°/d (stationary) | exaltation |  |
-| ♅ Uranus | ♉ Taurus 14°45′ | 4 | 0.006°/d (stationary) |  |  |
-| ♆ Neptune | ♓ Pisces 7°17′ | 2 | 0.034°/d | domicile (modern) |  |
-| ♇ Pluto | ♋ Cancer 22°23′ | 6 | R -0.021°/d |  |  |
-| ☊ North Node | ♉ Taurus 7°57′ | 4 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 7°57′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 9°08′ | Capricornus | 1 | 1.015°/d | detriment |  |
+| ☽ Moon | ♐ Sagittarius 17°13′ | Ophiuchus | 11 | 13.361°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 16°11′ | Sagittarius | 12 | 1.315°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 22°20′ | Ophiuchus | 11 | 1.005°/d |  |  |
+| ♂ Mars | ♈ Aries 21°29′ | Pisces | 3 | 0.654°/d | domicile |  |
+| ♃ Jupiter | ♑ Capricornus 13°10′ | Sagittarius | 12 | 0.220°/d | fall |  |
+| ♄ Saturn | ♎ Libra 24°47′ | Virgo | 9 | 0.007°/d (stationary) | exaltation |  |
+| ♅ Uranus | ♉ Taurus 14°45′ | Aries | 4 | 0.006°/d (stationary) |  |  |
+| ♆ Neptune | ♓ Pisces 7°17′ | Aquarius | 2 | 0.034°/d | domicile (modern) |  |
+| ♇ Pluto | ♋ Cancer 22°23′ | Gemini | 6 | R -0.021°/d |  |  |
+| ☊ North Node | ♉ Taurus 7°57′ | Aries | 4 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 7°57′ | Libra | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

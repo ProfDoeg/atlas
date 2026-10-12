@@ -7,20 +7,20 @@ Born 1871-07-10 (gregorian calendar), Auteuil, birth in the great-uncle's house 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 17°16′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♈ Aries 22°25′ | 10 | 12.329°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 15°28′ | 1 | 2.160°/d |  |  |
-| ♀ Venus | ♍ Virgo 2°36′ | 3 | 1.009°/d | fall |  |
-| ♂ Mars | ♎ Libra 10°59′ | 4 | 0.513°/d | detriment |  |
-| ♃ Jupiter | ♋ Cancer 10°31′ | 1 | 0.226°/d | exaltation |  |
-| ♄ Saturn | ♑ Capricornus 5°29′ | 7 | R -0.071°/d | domicile |  |
-| ♅ Uranus | ♋ Cancer 26°10′ | 1 | 0.061°/d |  |  |
-| ♆ Neptune | ♈ Aries 23°59′ | 10 | 0.010°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 19°38′ | 11 | 0.013°/d | detriment (modern) |  |
-| ☊ North Node | ♊ Gemini 29°59′ | 12 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 29°59′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 17°16′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♈ Aries 22°25′ | Pisces | 10 | 12.329°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 15°28′ | Gemini | 1 | 2.160°/d |  |  |
+| ♀ Venus | ♍ Virgo 2°36′ | Leo | 3 | 1.009°/d | fall |  |
+| ♂ Mars | ♎ Libra 10°59′ | Virgo | 4 | 0.513°/d | detriment |  |
+| ♃ Jupiter | ♋ Cancer 10°31′ | Gemini | 1 | 0.226°/d | exaltation |  |
+| ♄ Saturn | ♑ Capricornus 5°29′ | Sagittarius | 7 | R -0.071°/d | domicile |  |
+| ♅ Uranus | ♋ Cancer 26°10′ | Gemini | 1 | 0.061°/d |  |  |
+| ♆ Neptune | ♈ Aries 23°59′ | Pisces | 10 | 0.010°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 19°38′ | Aries | 11 | 0.013°/d | detriment (modern) |  |
+| ☊ North Node | ♊ Gemini 29°59′ | Taurus | 12 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 29°59′ | Sagittarius | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

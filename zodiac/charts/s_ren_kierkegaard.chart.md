@@ -7,20 +7,20 @@ Born 1813-05-05 (gregorian calendar), Nytorv 2, the seventh child (lat 55.6775, 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 14°05′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♋ Cancer 14°19′ | 3 | 14.075°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 24°57′ | 12 | 0.023°/d |  |  |
-| ♀ Venus | ♉ Taurus 8°37′ | 1 | 1.232°/d | domicile |  |
-| ♂ Mars | ♑ Capricornus 26°27′ | 9 | 0.473°/d | exaltation |  |
-| ♃ Jupiter | ♌ Leo 1°23′ | 4 | 0.114°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 18°59′ | 9 | R -0.011°/d | domicile |  |
-| ♅ Uranus | ♏ Scorpio 26°17′ | 7 | R -0.041°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 15°00′ | 8 | R -0.022°/d |  |  |
-| ♇ Pluto | ♓ Pisces 20°18′ | 11 | 0.017°/d |  |  |
-| ☊ North Node | ♌ Leo 15°15′ | 4 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 15°15′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 14°05′ | Aries | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♋ Cancer 14°19′ | Gemini | 3 | 14.075°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 24°57′ | Pisces | 12 | 0.023°/d |  |  |
+| ♀ Venus | ♉ Taurus 8°37′ | Aries | 1 | 1.232°/d | domicile |  |
+| ♂ Mars | ♑ Capricornus 26°27′ | Sagittarius | 9 | 0.473°/d | exaltation |  |
+| ♃ Jupiter | ♌ Leo 1°23′ | Cancer | 4 | 0.114°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 18°59′ | Sagittarius | 9 | R -0.011°/d | domicile |  |
+| ♅ Uranus | ♏ Scorpio 26°17′ | Libra | 7 | R -0.041°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 15°00′ | Ophiuchus | 8 | R -0.022°/d |  |  |
+| ♇ Pluto | ♓ Pisces 20°18′ | Aquarius | 11 | 0.017°/d |  |  |
+| ☊ North Node | ♌ Leo 15°15′ | Cancer | 4 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 15°15′ | Capricornus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1938-01-10 (gregorian calendar), Milwaukee, born to the man with the press 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 19°06′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♈ Aries 24°13′ | 4 | 13.659°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♐ Sagittarius 29°21′ | 12 | 0.028°/d | detriment |  |
-| ♀ Venus | ♑ Capricornus 13°05′ | 1 | 1.258°/d |  |  |
-| ♂ Mars | ♓ Pisces 14°33′ | 3 | 0.755°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 4°48′ | 2 | 0.233°/d |  |  |
-| ♄ Saturn | ♓ Pisces 29°21′ | 3 | 0.067°/d |  |  |
-| ♅ Uranus | ♉ Taurus 9°51′ | 5 | R -0.007°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 21°09′ | 9 | R -0.010°/d (stationary) | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 29°15′ | 7 | R -0.022°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 3°44′ | 12 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 3°44′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 19°06′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♈ Aries 24°13′ | Pisces | 4 | 13.659°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♐ Sagittarius 29°21′ | Sagittarius | 12 | 0.028°/d | detriment |  |
+| ♀ Venus | ♑ Capricornus 13°05′ | Sagittarius | 1 | 1.258°/d |  |  |
+| ♂ Mars | ♓ Pisces 14°33′ | Aquarius | 3 | 0.755°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 4°48′ | Capricornus | 2 | 0.233°/d |  |  |
+| ♄ Saturn | ♓ Pisces 29°21′ | Pisces | 3 | 0.067°/d |  |  |
+| ♅ Uranus | ♉ Taurus 9°51′ | Aries | 5 | R -0.007°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 21°09′ | Leo | 9 | R -0.010°/d (stationary) | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 29°15′ | Cancer | 7 | R -0.022°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 3°44′ | Scorpius | 12 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 3°44′ | Taurus | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

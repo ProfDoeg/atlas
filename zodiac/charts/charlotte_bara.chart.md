@@ -7,20 +7,20 @@ Born 1901-04-20 (gregorian calendar), Brussels, the house of the silk merchant (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 29°13′ | 1 | 0.976°/d | exaltation |  |
-| ☽ Moon | ♉ Taurus 14°50′ | 2 | 15.100°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 6°21′ | 1 | 1.545°/d |  |  |
-| ♀ Venus | ♈ Aries 26°19′ | 1 | 1.236°/d | detriment |  |
-| ♂ Mars | ♌ Leo 24°27′ | 5 | 0.172°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 12°53′ | 10 | 0.034°/d | fall |  |
-| ♄ Saturn | ♑ Capricornus 16°17′ | 10 | 0.010°/d (stationary) | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 16°26′ | 9 | R -0.023°/d |  |  |
-| ♆ Neptune | ♊ Gemini 26°59′ | 3 | 0.023°/d |  |  |
-| ♇ Pluto | ♊ Gemini 16°10′ | 3 | 0.017°/d |  |  |
-| ☊ North Node | ♏ Scorpio 24°03′ | 8 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 24°03′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 29°13′ | Aries | 1 | 0.976°/d | exaltation |  |
+| ☽ Moon | ♉ Taurus 14°50′ | Aries | 2 | 15.100°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 6°21′ | Pisces | 1 | 1.545°/d |  |  |
+| ♀ Venus | ♈ Aries 26°19′ | Pisces | 1 | 1.236°/d | detriment |  |
+| ♂ Mars | ♌ Leo 24°27′ | Leo | 5 | 0.172°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 12°53′ | Sagittarius | 10 | 0.034°/d | fall |  |
+| ♄ Saturn | ♑ Capricornus 16°17′ | Sagittarius | 10 | 0.010°/d (stationary) | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 16°26′ | Ophiuchus | 9 | R -0.023°/d |  |  |
+| ♆ Neptune | ♊ Gemini 26°59′ | Taurus | 3 | 0.023°/d |  |  |
+| ♇ Pluto | ♊ Gemini 16°10′ | Taurus | 3 | 0.017°/d |  |  |
+| ☊ North Node | ♏ Scorpio 24°03′ | Libra | 8 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 24°03′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

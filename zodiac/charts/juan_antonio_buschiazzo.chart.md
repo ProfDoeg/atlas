@@ -7,20 +7,20 @@ Born 1845-10-29 (gregorian calendar), Pontinvrea: the mason's son is born (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 5°27′ | 1 | 1.000°/d |  |  |
-| ☽ Moon | ♎ Libra 10°19′ | 12 | 13.314°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 6°50′ | 1 | 1.627°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 16°49′ | 2 | 1.179°/d |  |  |
-| ♂ Mars | ♓ Pisces 0°33′ | 5 | 0.430°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 5°46′ | 7 | R -0.136°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 12°17′ | 4 | 0.021°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 7°20′ | 6 | R -0.034°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 23°08′ | 4 | R -0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♈ Aries 23°45′ | 6 | R -0.019°/d |  |  |
-| ☊ North Node | ♏ Scorpio 16°57′ | 1 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 16°57′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 5°27′ | Virgo | 1 | 1.000°/d |  |  |
+| ☽ Moon | ♎ Libra 10°19′ | Virgo | 12 | 13.314°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 6°50′ | Virgo | 1 | 1.627°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 16°49′ | Ophiuchus | 2 | 1.179°/d |  |  |
+| ♂ Mars | ♓ Pisces 0°33′ | Aquarius | 5 | 0.430°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 5°46′ | Aries | 7 | R -0.136°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 12°17′ | Capricornus | 4 | 0.021°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 7°20′ | Pisces | 6 | R -0.034°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 23°08′ | Capricornus | 4 | R -0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♈ Aries 23°45′ | Pisces | 6 | R -0.019°/d |  |  |
+| ☊ North Node | ♏ Scorpio 16°57′ | Libra | 1 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 16°57′ | Aries | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

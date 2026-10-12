@@ -7,20 +7,20 @@ Born 1853-01-28 (gregorian calendar), Calle de Paula, Havana: the birth (lat 23.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 8°04′ | 1 | 1.016°/d | detriment |  |
-| ☽ Moon | ♍ Virgo 12°39′ | 8 | 13.836°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 19°04′ | 12 | 1.453°/d |  |  |
-| ♀ Venus | ♑ Capricornus 11°45′ | 12 | 1.242°/d |  |  |
-| ♂ Mars | ♒ Aquarius 7°46′ | 1 | 0.786°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 17°10′ | 11 | 0.179°/d | domicile |  |
-| ♄ Saturn | ♉ Taurus 11°17′ | 4 | 0.029°/d |  |  |
-| ♅ Uranus | ♉ Taurus 4°43′ | 4 | 0.014°/d |  |  |
-| ♆ Neptune | ♓ Pisces 9°58′ | 2 | 0.033°/d | domicile (modern) |  |
-| ♇ Pluto | ♈ Aries 29°54′ | 3 | 0.005°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 26°44′ | 5 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 26°44′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 8°04′ | Capricornus | 1 | 1.016°/d | detriment |  |
+| ☽ Moon | ♍ Virgo 12°39′ | Leo | 8 | 13.836°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 19°04′ | Sagittarius | 12 | 1.453°/d |  |  |
+| ♀ Venus | ♑ Capricornus 11°45′ | Sagittarius | 12 | 1.242°/d |  |  |
+| ♂ Mars | ♒ Aquarius 7°46′ | Capricornus | 1 | 0.786°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 17°10′ | Ophiuchus | 11 | 0.179°/d | domicile |  |
+| ♄ Saturn | ♉ Taurus 11°17′ | Aries | 4 | 0.029°/d |  |  |
+| ♅ Uranus | ♉ Taurus 4°43′ | Aries | 4 | 0.014°/d |  |  |
+| ♆ Neptune | ♓ Pisces 9°58′ | Aquarius | 2 | 0.033°/d | domicile (modern) |  |
+| ♇ Pluto | ♈ Aries 29°54′ | Aries | 3 | 0.005°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 26°44′ | Taurus | 5 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 26°44′ | Sagittarius | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

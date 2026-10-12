@@ -7,20 +7,20 @@ Born 1975-07-11 (gregorian calendar), Kyiv, the birth (lat 50.4501, lng 30.5234,
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 18°06′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♌ Leo 12°54′ | 2 | 14.673°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 28°02′ | 12 | 1.381°/d | domicile |  |
-| ♀ Venus | ♍ Virgo 1°06′ | 3 | 0.707°/d | fall |  |
-| ♂ Mars | ♉ Taurus 6°56′ | 11 | 0.697°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 22°46′ | 10 | 0.106°/d |  |  |
-| ♄ Saturn | ♋ Cancer 21°59′ | 1 | 0.130°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 28°12′ | 4 | 0.004°/d (stationary) |  |  |
-| ♆ Neptune | ♐ Sagittarius 9°29′ | 6 | R -0.020°/d |  |  |
-| ♇ Pluto | ♎ Libra 6°42′ | 4 | 0.013°/d |  |  |
-| ☊ North Node | ♏ Scorpio 28°29′ | 5 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 28°29′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 18°06′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♌ Leo 12°54′ | Cancer | 2 | 14.673°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 28°02′ | Taurus | 12 | 1.381°/d | domicile |  |
+| ♀ Venus | ♍ Virgo 1°06′ | Leo | 3 | 0.707°/d | fall |  |
+| ♂ Mars | ♉ Taurus 6°56′ | Aries | 11 | 0.697°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 22°46′ | Pisces | 10 | 0.106°/d |  |  |
+| ♄ Saturn | ♋ Cancer 21°59′ | Gemini | 1 | 0.130°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 28°12′ | Virgo | 4 | 0.004°/d (stationary) |  |  |
+| ♆ Neptune | ♐ Sagittarius 9°29′ | Ophiuchus | 6 | R -0.020°/d |  |  |
+| ♇ Pluto | ♎ Libra 6°42′ | Virgo | 4 | 0.013°/d |  |  |
+| ☊ North Node | ♏ Scorpio 28°29′ | Libra | 5 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 28°29′ | Taurus | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

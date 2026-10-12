@@ -7,20 +7,20 @@ Born 1611-06-13 (gregorian calendar), Riga, St. Peter's parish: the birth of Han
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 21°21′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♋ Cancer 21°23′ | 2 | 14.943°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 13°33′ | 2 | 1.516°/d |  |  |
-| ♀ Venus | ♉ Taurus 8°44′ | 12 | 1.111°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 29°59′ | 2 | 0.614°/d | fall |  |
-| ♃ Jupiter | ♋ Cancer 25°52′ | 2 | 0.200°/d | exaltation |  |
-| ♄ Saturn | ♓ Pisces 5°36′ | 10 | 0.006°/d (stationary) |  |  |
-| ♅ Uranus | ♊ Gemini 17°46′ | 1 | 0.059°/d |  |  |
-| ♆ Neptune | ♍ Virgo 19°27′ | 4 | 0.007°/d (stationary) | detriment (modern) |  |
-| ♇ Pluto | ♉ Taurus 4°30′ | 12 | 0.017°/d | detriment (modern) |  |
-| ☊ North Node | ♊ Gemini 20°05′ | 1 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 20°05′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 21°21′ | Taurus | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♋ Cancer 21°23′ | Gemini | 2 | 14.943°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 13°33′ | Gemini | 2 | 1.516°/d |  |  |
+| ♀ Venus | ♉ Taurus 8°44′ | Aries | 12 | 1.111°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 29°59′ | Cancer | 2 | 0.614°/d | fall |  |
+| ♃ Jupiter | ♋ Cancer 25°52′ | Gemini | 2 | 0.200°/d | exaltation |  |
+| ♄ Saturn | ♓ Pisces 5°36′ | Aquarius | 10 | 0.006°/d (stationary) |  |  |
+| ♅ Uranus | ♊ Gemini 17°46′ | Taurus | 1 | 0.059°/d |  |  |
+| ♆ Neptune | ♍ Virgo 19°27′ | Leo | 4 | 0.007°/d (stationary) | detriment (modern) |  |
+| ♇ Pluto | ♉ Taurus 4°30′ | Aries | 12 | 0.017°/d | detriment (modern) |  |
+| ☊ North Node | ♊ Gemini 20°05′ | Taurus | 1 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 20°05′ | Ophiuchus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

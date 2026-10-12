@@ -7,20 +7,20 @@ Born 1946-08-19 (gregorian calendar), Hope, Arkansas: the birth of William Jeffe
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 25°25′ | 1 | 0.962°/d | domicile |  |
-| ☽ Moon | ♉ Taurus 11°38′ | 10 | 13.989°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 7°08′ | 1 | 0.738°/d |  |  |
-| ♀ Venus | ♎ Libra 10°28′ | 3 | 1.069°/d | domicile |  |
-| ♂ Mars | ♎ Libra 5°58′ | 3 | 0.636°/d | detriment |  |
-| ♃ Jupiter | ♎ Libra 23°08′ | 3 | 0.158°/d |  |  |
-| ♄ Saturn | ♌ Leo 2°03′ | 1 | 0.123°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 21°08′ | 11 | 0.033°/d |  |  |
-| ♆ Neptune | ♎ Libra 6°55′ | 3 | 0.029°/d |  |  |
-| ♇ Pluto | ♌ Leo 11°53′ | 1 | 0.029°/d |  |  |
-| ☊ North Node | ♊ Gemini 17°18′ | 11 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 17°18′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 25°25′ | Leo | 1 | 0.962°/d | domicile |  |
+| ☽ Moon | ♉ Taurus 11°38′ | Aries | 10 | 13.989°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 7°08′ | Cancer | 1 | 0.738°/d |  |  |
+| ♀ Venus | ♎ Libra 10°28′ | Virgo | 3 | 1.069°/d | domicile |  |
+| ♂ Mars | ♎ Libra 5°58′ | Virgo | 3 | 0.636°/d | detriment |  |
+| ♃ Jupiter | ♎ Libra 23°08′ | Virgo | 3 | 0.158°/d |  |  |
+| ♄ Saturn | ♌ Leo 2°03′ | Cancer | 1 | 0.123°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 21°08′ | Taurus | 11 | 0.033°/d |  |  |
+| ♆ Neptune | ♎ Libra 6°55′ | Virgo | 3 | 0.029°/d |  |  |
+| ♇ Pluto | ♌ Leo 11°53′ | Cancer | 1 | 0.029°/d |  |  |
+| ☊ North Node | ♊ Gemini 17°18′ | Taurus | 11 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 17°18′ | Ophiuchus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

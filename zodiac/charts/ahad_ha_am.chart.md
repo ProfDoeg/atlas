@@ -7,20 +7,20 @@ Born 1856-08-18 (gregorian calendar), Skvyra, born into the Hasidic house (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 25°11′ | 1 | 0.963°/d | domicile |  |
-| ☽ Moon | ♓ Pisces 19°31′ | 8 | 14.870°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 3°44′ | 2 | 1.862°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 3°00′ | 2 | 1.237°/d | fall |  |
-| ♂ Mars | ♏ Scorpio 10°26′ | 4 | 0.613°/d | domicile |  |
-| ♃ Jupiter | ♈ Aries 8°32′ | 9 | R -0.064°/d |  |  |
-| ♄ Saturn | ♋ Cancer 10°19′ | 12 | 0.105°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 25°02′ | 10 | 0.011°/d |  |  |
-| ♆ Neptune | ♓ Pisces 19°39′ | 8 | R -0.025°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 5°40′ | 10 | R -0.005°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 18°00′ | 9 | mean node |  |  |
-| ☋ South Node | ♎ Libra 18°00′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 25°11′ | Leo | 1 | 0.963°/d | domicile |  |
+| ☽ Moon | ♓ Pisces 19°31′ | Aquarius | 8 | 14.870°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 3°44′ | Leo | 2 | 1.862°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 3°00′ | Leo | 2 | 1.237°/d | fall |  |
+| ♂ Mars | ♏ Scorpio 10°26′ | Libra | 4 | 0.613°/d | domicile |  |
+| ♃ Jupiter | ♈ Aries 8°32′ | Pisces | 9 | R -0.064°/d |  |  |
+| ♄ Saturn | ♋ Cancer 10°19′ | Gemini | 12 | 0.105°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 25°02′ | Taurus | 10 | 0.011°/d |  |  |
+| ♆ Neptune | ♓ Pisces 19°39′ | Aquarius | 8 | R -0.025°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 5°40′ | Aries | 10 | R -0.005°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 18°00′ | Pisces | 9 | mean node |  |  |
+| ☋ South Node | ♎ Libra 18°00′ | Virgo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

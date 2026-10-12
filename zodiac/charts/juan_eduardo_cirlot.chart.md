@@ -7,20 +7,20 @@ Born 1916-04-09 (gregorian calendar), Barcelona, the birth in the Eixample (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 18°49′ | 1 | 0.982°/d | exaltation |  |
-| ☽ Moon | ♋ Cancer 1°23′ | 4 | 11.841°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♈ Aries 12°32′ | 1 | 1.989°/d |  |  |
-| ♀ Venus | ♊ Gemini 3°41′ | 3 | 1.064°/d |  |  |
-| ♂ Mars | ♌ Leo 12°12′ | 5 | 0.196°/d |  |  |
-| ♃ Jupiter | ♈ Aries 13°19′ | 1 | 0.241°/d |  |  |
-| ♄ Saturn | ♋ Cancer 10°23′ | 4 | 0.051°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 18°55′ | 11 | 0.035°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 29°57′ | 4 | R -0.001°/d (stationary) |  |  |
-| ♇ Pluto | ♋ Cancer 1°23′ | 4 | 0.009°/d (stationary) |  |  |
-| ☊ North Node | ♒ Aquarius 4°30′ | 11 | mean node |  |  |
-| ☋ South Node | ♌ Leo 4°30′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 18°49′ | Pisces | 1 | 0.982°/d | exaltation |  |
+| ☽ Moon | ♋ Cancer 1°23′ | Gemini | 4 | 11.841°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♈ Aries 12°32′ | Pisces | 1 | 1.989°/d |  |  |
+| ♀ Venus | ♊ Gemini 3°41′ | Taurus | 3 | 1.064°/d |  |  |
+| ♂ Mars | ♌ Leo 12°12′ | Cancer | 5 | 0.196°/d |  |  |
+| ♃ Jupiter | ♈ Aries 13°19′ | Pisces | 1 | 0.241°/d |  |  |
+| ♄ Saturn | ♋ Cancer 10°23′ | Gemini | 4 | 0.051°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 18°55′ | Capricornus | 11 | 0.035°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 29°57′ | Cancer | 4 | R -0.001°/d (stationary) |  |  |
+| ♇ Pluto | ♋ Cancer 1°23′ | Gemini | 4 | 0.009°/d (stationary) |  |  |
+| ☊ North Node | ♒ Aquarius 4°30′ | Capricornus | 11 | mean node |  |  |
+| ☋ South Node | ♌ Leo 4°30′ | Cancer | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

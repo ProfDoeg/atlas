@@ -7,20 +7,20 @@ Born 1894-06-05 (gregorian calendar), Macerata, the birth in the Marche (lat 43.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 14°17′ | 1 | 0.957°/d |  |  |
-| ☽ Moon | ♊ Gemini 29°00′ | 1 | 15.099°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♋ Cancer 1°18′ | 2 | 1.818°/d |  |  |
-| ♀ Venus | ♉ Taurus 1°49′ | 12 | 1.118°/d | domicile |  |
-| ♂ Mars | ♓ Pisces 17°54′ | 10 | 0.675°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 13°57′ | 1 | 0.232°/d | detriment |  |
-| ♄ Saturn | ♎ Libra 18°46′ | 5 | R -0.027°/d | exaltation |  |
-| ♅ Uranus | ♏ Scorpio 11°52′ | 6 | R -0.033°/d |  |  |
-| ♆ Neptune | ♊ Gemini 13°19′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 10°24′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♈ Aries 6°58′ | 11 | mean node |  |  |
-| ☋ South Node | ♎ Libra 6°58′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 14°17′ | Taurus | 1 | 0.957°/d |  |  |
+| ☽ Moon | ♊ Gemini 29°00′ | Taurus | 1 | 15.099°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♋ Cancer 1°18′ | Gemini | 2 | 1.818°/d |  |  |
+| ♀ Venus | ♉ Taurus 1°49′ | Aries | 12 | 1.118°/d | domicile |  |
+| ♂ Mars | ♓ Pisces 17°54′ | Aquarius | 10 | 0.675°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 13°57′ | Taurus | 1 | 0.232°/d | detriment |  |
+| ♄ Saturn | ♎ Libra 18°46′ | Virgo | 5 | R -0.027°/d | exaltation |  |
+| ♅ Uranus | ♏ Scorpio 11°52′ | Libra | 6 | R -0.033°/d |  |  |
+| ♆ Neptune | ♊ Gemini 13°19′ | Taurus | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 10°24′ | Taurus | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♈ Aries 6°58′ | Pisces | 11 | mean node |  |  |
+| ☋ South Node | ♎ Libra 6°58′ | Virgo | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

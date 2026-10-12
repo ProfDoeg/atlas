@@ -7,20 +7,20 @@ Born 1919-05-07 (gregorian calendar), Los Toldos, la casa prestada en la pampa (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 15°24′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♌ Leo 15°36′ | 4 | 12.981°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 18°58′ | 12 | 1.009°/d |  |  |
-| ♀ Venus | ♊ Gemini 23°17′ | 2 | 1.166°/d |  |  |
-| ♂ Mars | ♉ Taurus 16°03′ | 1 | 0.727°/d | detriment |  |
-| ♃ Jupiter | ♋ Cancer 11°52′ | 3 | 0.167°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 21°37′ | 4 | 0.023°/d | detriment |  |
-| ♅ Uranus | ♓ Pisces 1°24′ | 11 | 0.025°/d |  |  |
-| ♆ Neptune | ♌ Leo 6°42′ | 4 | 0.010°/d |  |  |
-| ♇ Pluto | ♋ Cancer 5°01′ | 3 | 0.017°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 5°02′ | 8 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 5°02′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 15°24′ | Aries | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♌ Leo 15°36′ | Cancer | 4 | 12.981°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 18°58′ | Pisces | 12 | 1.009°/d |  |  |
+| ♀ Venus | ♊ Gemini 23°17′ | Taurus | 2 | 1.166°/d |  |  |
+| ♂ Mars | ♉ Taurus 16°03′ | Aries | 1 | 0.727°/d | detriment |  |
+| ♃ Jupiter | ♋ Cancer 11°52′ | Gemini | 3 | 0.167°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 21°37′ | Leo | 4 | 0.023°/d | detriment |  |
+| ♅ Uranus | ♓ Pisces 1°24′ | Aquarius | 11 | 0.025°/d |  |  |
+| ♆ Neptune | ♌ Leo 6°42′ | Cancer | 4 | 0.010°/d |  |  |
+| ♇ Pluto | ♋ Cancer 5°01′ | Gemini | 3 | 0.017°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 5°02′ | Scorpius | 8 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 5°02′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

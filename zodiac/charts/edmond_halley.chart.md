@@ -7,20 +7,20 @@ Born 1656-11-08 (gregorian calendar), Haggerston, Shoreditch: the soap-maker's s
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 16°20′ | 1 | 1.007°/d |  |  |
-| ☽ Moon | ♋ Cancer 26°49′ | 9 | 13.745°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♐ Sagittarius 8°56′ | 2 | 0.978°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 0°39′ | 2 | 1.251°/d |  |  |
-| ♂ Mars | ♎ Libra 21°06′ | 12 | 0.657°/d | detriment |  |
-| ♃ Jupiter | ♊ Gemini 3°18′ | 8 | R -0.125°/d | detriment |  |
-| ♄ Saturn | ♎ Libra 1°49′ | 12 | 0.100°/d | exaltation |  |
-| ♅ Uranus | ♑ Capricornus 10°41′ | 3 | 0.040°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 28°26′ | 2 | 0.030°/d |  |  |
-| ♇ Pluto | ♊ Gemini 17°44′ | 8 | R -0.016°/d |  |  |
-| ☊ North Node | ♑ Capricornus 11°51′ | 3 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 11°51′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 16°20′ | Libra | 1 | 1.007°/d |  |  |
+| ☽ Moon | ♋ Cancer 26°49′ | Gemini | 9 | 13.745°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♐ Sagittarius 8°56′ | Ophiuchus | 2 | 0.978°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 0°39′ | Libra | 2 | 1.251°/d |  |  |
+| ♂ Mars | ♎ Libra 21°06′ | Virgo | 12 | 0.657°/d | detriment |  |
+| ♃ Jupiter | ♊ Gemini 3°18′ | Taurus | 8 | R -0.125°/d | detriment |  |
+| ♄ Saturn | ♎ Libra 1°49′ | Virgo | 12 | 0.100°/d | exaltation |  |
+| ♅ Uranus | ♑ Capricornus 10°41′ | Sagittarius | 3 | 0.040°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 28°26′ | Sagittarius | 2 | 0.030°/d |  |  |
+| ♇ Pluto | ♊ Gemini 17°44′ | Taurus | 8 | R -0.016°/d |  |  |
+| ☊ North Node | ♑ Capricornus 11°51′ | Sagittarius | 3 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 11°51′ | Gemini | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

@@ -7,20 +7,20 @@ Born 1874-10-09 (gregorian calendar), Saint Petersburg, birth on the Nikolaevska
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 15°32′ | 1 | 0.989°/d | fall |  |
-| ☽ Moon | ♍ Virgo 29°40′ | 12 | 11.921°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♏ Scorpio 5°54′ | 2 | 1.396°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 1°42′ | 3 | 0.907°/d |  |  |
-| ♂ Mars | ♍ Virgo 14°19′ | 12 | 0.626°/d |  |  |
-| ♃ Jupiter | ♎ Libra 12°50′ | 1 | 0.217°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 7°20′ | 5 | R -0.005°/d (stationary) | domicile |  |
-| ♅ Uranus | ♌ Leo 14°17′ | 11 | 0.037°/d | detriment (modern) |  |
-| ♆ Neptune | ♈ Aries 29°47′ | 7 | R -0.027°/d |  |  |
-| ♇ Pluto | ♉ Taurus 22°22′ | 8 | R -0.015°/d | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 27°08′ | 7 | mean node |  |  |
-| ☋ South Node | ♎ Libra 27°08′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 15°32′ | Virgo | 1 | 0.989°/d | fall |  |
+| ☽ Moon | ♍ Virgo 29°40′ | Virgo | 12 | 11.921°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♏ Scorpio 5°54′ | Virgo | 2 | 1.396°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 1°42′ | Scorpius | 3 | 0.907°/d |  |  |
+| ♂ Mars | ♍ Virgo 14°19′ | Leo | 12 | 0.626°/d |  |  |
+| ♃ Jupiter | ♎ Libra 12°50′ | Virgo | 1 | 0.217°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 7°20′ | Capricornus | 5 | R -0.005°/d (stationary) | domicile |  |
+| ♅ Uranus | ♌ Leo 14°17′ | Cancer | 11 | 0.037°/d | detriment (modern) |  |
+| ♆ Neptune | ♈ Aries 29°47′ | Aries | 7 | R -0.027°/d |  |  |
+| ♇ Pluto | ♉ Taurus 22°22′ | Aries | 8 | R -0.015°/d | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 27°08′ | Pisces | 7 | mean node |  |  |
+| ☋ South Node | ♎ Libra 27°08′ | Virgo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

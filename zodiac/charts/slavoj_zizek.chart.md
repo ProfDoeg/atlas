@@ -7,20 +7,20 @@ Born 1949-03-21 (gregorian calendar), Ljubljana, the birth of an economist's son
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 0°04′ | 1 | 0.993°/d | exaltation |  |
-| ☽ Moon | ♐ Sagittarius 23°25′ | 9 | 13.186°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♓ Pisces 10°00′ | 12 | 1.587°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 23°11′ | 12 | 1.244°/d | exaltation |  |
-| ♂ Mars | ♓ Pisces 29°17′ | 12 | 0.779°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 26°57′ | 10 | 0.161°/d | fall |  |
-| ♄ Saturn | ♍ Virgo 0°48′ | 6 | R -0.065°/d |  |  |
-| ♅ Uranus | ♊ Gemini 26°37′ | 3 | 0.014°/d |  |  |
-| ♆ Neptune | ♎ Libra 14°16′ | 7 | R -0.026°/d |  |  |
-| ♇ Pluto | ♌ Leo 14°29′ | 5 | R -0.015°/d |  |  |
-| ☊ North Node | ♈ Aries 27°15′ | 1 | mean node |  |  |
-| ☋ South Node | ♎ Libra 27°15′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 0°04′ | Pisces | 1 | 0.993°/d | exaltation |  |
+| ☽ Moon | ♐ Sagittarius 23°25′ | Ophiuchus | 9 | 13.186°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♓ Pisces 10°00′ | Aquarius | 12 | 1.587°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 23°11′ | Pisces | 12 | 1.244°/d | exaltation |  |
+| ♂ Mars | ♓ Pisces 29°17′ | Pisces | 12 | 0.779°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 26°57′ | Sagittarius | 10 | 0.161°/d | fall |  |
+| ♄ Saturn | ♍ Virgo 0°48′ | Leo | 6 | R -0.065°/d |  |  |
+| ♅ Uranus | ♊ Gemini 26°37′ | Taurus | 3 | 0.014°/d |  |  |
+| ♆ Neptune | ♎ Libra 14°16′ | Virgo | 7 | R -0.026°/d |  |  |
+| ♇ Pluto | ♌ Leo 14°29′ | Cancer | 5 | R -0.015°/d |  |  |
+| ☊ North Node | ♈ Aries 27°15′ | Pisces | 1 | mean node |  |  |
+| ☋ South Node | ♎ Libra 27°15′ | Virgo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

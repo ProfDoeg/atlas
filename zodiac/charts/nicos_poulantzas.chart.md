@@ -7,20 +7,20 @@ Born 1936-09-21 (gregorian calendar), Athens, Veranzerou Street: the lawyer's so
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 27°49′ | 1 | 0.978°/d |  |  |
-| ☽ Moon | ♏ Scorpio 25°21′ | 3 | 11.856°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♎ Libra 16°02′ | 2 | R -0.316°/d |  |  |
-| ♀ Venus | ♎ Libra 20°26′ | 2 | 1.231°/d | domicile |  |
-| ♂ Mars | ♌ Leo 26°29′ | 12 | 0.627°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 17°00′ | 4 | 0.115°/d | domicile |  |
-| ♄ Saturn | ♓ Pisces 18°03′ | 7 | R -0.075°/d |  |  |
-| ♅ Uranus | ♉ Taurus 9°10′ | 9 | R -0.028°/d |  |  |
-| ♆ Neptune | ♍ Virgo 17°01′ | 1 | 0.037°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 28°29′ | 11 | 0.016°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 28°56′ | 4 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 28°56′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 27°49′ | Virgo | 1 | 0.978°/d |  |  |
+| ☽ Moon | ♏ Scorpio 25°21′ | Libra | 3 | 11.856°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♎ Libra 16°02′ | Virgo | 2 | R -0.316°/d |  |  |
+| ♀ Venus | ♎ Libra 20°26′ | Virgo | 2 | 1.231°/d | domicile |  |
+| ♂ Mars | ♌ Leo 26°29′ | Leo | 12 | 0.627°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 17°00′ | Ophiuchus | 4 | 0.115°/d | domicile |  |
+| ♄ Saturn | ♓ Pisces 18°03′ | Aquarius | 7 | R -0.075°/d |  |  |
+| ♅ Uranus | ♉ Taurus 9°10′ | Aries | 9 | R -0.028°/d |  |  |
+| ♆ Neptune | ♍ Virgo 17°01′ | Leo | 1 | 0.037°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 28°29′ | Cancer | 11 | 0.016°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 28°56′ | Sagittarius | 4 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 28°56′ | Taurus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

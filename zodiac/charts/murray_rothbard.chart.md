@@ -7,20 +7,20 @@ Born 1926-03-02 (gregorian calendar), The Bronx, birth to two immigrants (lat 40
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 10°40′ | 1 | 1.003°/d |  |  |
-| ☽ Moon | ♎ Libra 6°04′ | 8 | 12.208°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♓ Pisces 22°41′ | 1 | 1.844°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 10°25′ | 12 | 0.072°/d |  |  |
-| ♂ Mars | ♑ Capricornus 14°48′ | 11 | 0.714°/d | exaltation |  |
-| ♃ Jupiter | ♒ Aquarius 12°55′ | 12 | 0.223°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 26°03′ | 9 | 0.007°/d (stationary) |  |  |
-| ♅ Uranus | ♓ Pisces 24°43′ | 1 | 0.056°/d |  |  |
-| ♆ Neptune | ♌ Leo 23°01′ | 6 | R -0.026°/d |  |  |
-| ♇ Pluto | ♋ Cancer 12°45′ | 5 | R -0.010°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 23°08′ | 5 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 23°08′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 10°40′ | Aquarius | 1 | 1.003°/d |  |  |
+| ☽ Moon | ♎ Libra 6°04′ | Virgo | 8 | 12.208°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♓ Pisces 22°41′ | Pisces | 1 | 1.844°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 10°25′ | Capricornus | 12 | 0.072°/d |  |  |
+| ♂ Mars | ♑ Capricornus 14°48′ | Sagittarius | 11 | 0.714°/d | exaltation |  |
+| ♃ Jupiter | ♒ Aquarius 12°55′ | Capricornus | 12 | 0.223°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 26°03′ | Libra | 9 | 0.007°/d (stationary) |  |  |
+| ♅ Uranus | ♓ Pisces 24°43′ | Pisces | 1 | 0.056°/d |  |  |
+| ♆ Neptune | ♌ Leo 23°01′ | Leo | 6 | R -0.026°/d |  |  |
+| ♇ Pluto | ♋ Cancer 12°45′ | Gemini | 5 | R -0.010°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 23°08′ | Gemini | 5 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 23°08′ | Sagittarius | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

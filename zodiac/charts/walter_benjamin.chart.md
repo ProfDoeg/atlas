@@ -7,20 +7,20 @@ Born 1892-07-15 (gregorian calendar), Berlin-Tiergarten, the birth on Magdeburge
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 22°55′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♓ Pisces 25°39′ | 9 | 14.034°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♌ Leo 15°53′ | 2 | 1.513°/d |  |  |
-| ♀ Venus | ♋ Cancer 14°45′ | 1 | R -0.573°/d |  |  |
-| ♂ Mars | ♒ Aquarius 16°35′ | 8 | R -0.124°/d |  |  |
-| ♃ Jupiter | ♈ Aries 23°31′ | 10 | 0.093°/d |  |  |
-| ♄ Saturn | ♍ Virgo 25°31′ | 3 | 0.077°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 1°47′ | 5 | 0.005°/d (stationary) |  |  |
-| ♆ Neptune | ♊ Gemini 10°23′ | 12 | 0.029°/d |  |  |
-| ♇ Pluto | ♊ Gemini 9°21′ | 12 | 0.017°/d |  |  |
-| ☊ North Node | ♉ Taurus 13°31′ | 11 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 13°31′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 22°55′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♓ Pisces 25°39′ | Pisces | 9 | 14.034°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♌ Leo 15°53′ | Cancer | 2 | 1.513°/d |  |  |
+| ♀ Venus | ♋ Cancer 14°45′ | Gemini | 1 | R -0.573°/d |  |  |
+| ♂ Mars | ♒ Aquarius 16°35′ | Capricornus | 8 | R -0.124°/d |  |  |
+| ♃ Jupiter | ♈ Aries 23°31′ | Pisces | 10 | 0.093°/d |  |  |
+| ♄ Saturn | ♍ Virgo 25°31′ | Virgo | 3 | 0.077°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 1°47′ | Virgo | 5 | 0.005°/d (stationary) |  |  |
+| ♆ Neptune | ♊ Gemini 10°23′ | Taurus | 12 | 0.029°/d |  |  |
+| ♇ Pluto | ♊ Gemini 9°21′ | Taurus | 12 | 0.017°/d |  |  |
+| ☊ North Node | ♉ Taurus 13°31′ | Aries | 11 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 13°31′ | Libra | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

@@ -7,20 +7,20 @@ Born 1804-12-10 (gregorian calendar), Potsdam, birth in the banker's house (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 17°49′ | 1 | 1.017°/d |  |  |
-| ☽ Moon | ♓ Pisces 14°56′ | 4 | 13.163°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 24°56′ | 1 | 1.572°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 8°01′ | 12 | 1.201°/d | detriment |  |
-| ♂ Mars | ♌ Leo 18°25′ | 9 | 0.125°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 23°06′ | 12 | 0.211°/d |  |  |
-| ♄ Saturn | ♎ Libra 14°18′ | 11 | 0.075°/d | exaltation |  |
-| ♅ Uranus | ♎ Libra 19°42′ | 11 | 0.040°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 26°31′ | 12 | 0.035°/d |  |  |
-| ♇ Pluto | ♓ Pisces 7°35′ | 4 | 0.008°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 27°43′ | 2 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 27°43′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 17°49′ | Ophiuchus | 1 | 1.017°/d |  |  |
+| ☽ Moon | ♓ Pisces 14°56′ | Aquarius | 4 | 13.163°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 24°56′ | Ophiuchus | 1 | 1.572°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 8°01′ | Libra | 12 | 1.201°/d | detriment |  |
+| ♂ Mars | ♌ Leo 18°25′ | Leo | 9 | 0.125°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 23°06′ | Libra | 12 | 0.211°/d |  |  |
+| ♄ Saturn | ♎ Libra 14°18′ | Virgo | 11 | 0.075°/d | exaltation |  |
+| ♅ Uranus | ♎ Libra 19°42′ | Virgo | 11 | 0.040°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 26°31′ | Libra | 12 | 0.035°/d |  |  |
+| ♇ Pluto | ♓ Pisces 7°35′ | Aquarius | 4 | 0.008°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 27°43′ | Sagittarius | 2 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 27°43′ | Gemini | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

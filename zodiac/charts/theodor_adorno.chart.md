@@ -7,20 +7,20 @@ Born 1903-09-11 (gregorian calendar), Frankfurt, Schöne Aussicht 9 (lat 50.1096
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 17°05′ | 1 | 0.973°/d |  |  |
-| ☽ Moon | ♉ Taurus 3°01′ | 9 | 12.902°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♎ Libra 13°40′ | 2 | 0.795°/d |  |  |
-| ♀ Venus | ♍ Virgo 27°47′ | 1 | R -0.521°/d | fall |  |
-| ♂ Mars | ♏ Scorpio 22°09′ | 3 | 0.667°/d | domicile |  |
-| ♃ Jupiter | ♓ Pisces 18°26′ | 7 | R -0.133°/d | domicile |  |
-| ♄ Saturn | ♒ Aquarius 3°10′ | 6 | R -0.042°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 21°34′ | 4 | 0.009°/d (stationary) |  |  |
-| ♆ Neptune | ♋ Cancer 5°47′ | 11 | 0.016°/d |  |  |
-| ♇ Pluto | ♊ Gemini 20°44′ | 10 | 0.004°/d (stationary) |  |  |
-| ☊ North Node | ♎ Libra 7°46′ | 2 | mean node |  |  |
-| ☋ South Node | ♈ Aries 7°46′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 17°05′ | Leo | 1 | 0.973°/d |  |  |
+| ☽ Moon | ♉ Taurus 3°01′ | Aries | 9 | 12.902°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♎ Libra 13°40′ | Virgo | 2 | 0.795°/d |  |  |
+| ♀ Venus | ♍ Virgo 27°47′ | Virgo | 1 | R -0.521°/d | fall |  |
+| ♂ Mars | ♏ Scorpio 22°09′ | Libra | 3 | 0.667°/d | domicile |  |
+| ♃ Jupiter | ♓ Pisces 18°26′ | Aquarius | 7 | R -0.133°/d | domicile |  |
+| ♄ Saturn | ♒ Aquarius 3°10′ | Capricornus | 6 | R -0.042°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 21°34′ | Ophiuchus | 4 | 0.009°/d (stationary) |  |  |
+| ♆ Neptune | ♋ Cancer 5°47′ | Gemini | 11 | 0.016°/d |  |  |
+| ♇ Pluto | ♊ Gemini 20°44′ | Taurus | 10 | 0.004°/d (stationary) |  |  |
+| ☊ North Node | ♎ Libra 7°46′ | Virgo | 2 | mean node |  |  |
+| ☋ South Node | ♈ Aries 7°46′ | Pisces | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

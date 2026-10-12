@@ -7,20 +7,20 @@ Born 1867-06-05 (gregorian calendar), Hamburg, born into the banking house (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 13°50′ | 1 | 0.957°/d |  |  |
-| ☽ Moon | ♋ Cancer 17°32′ | 2 | 14.981°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 19°02′ | 1 | 2.169°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 14°11′ | 12 | 1.198°/d | domicile |  |
-| ♂ Mars | ♌ Leo 20°18′ | 3 | 0.548°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 6°57′ | 10 | 0.069°/d | domicile |  |
-| ♄ Saturn | ♏ Scorpio 18°59′ | 6 | R -0.064°/d |  |  |
-| ♅ Uranus | ♋ Cancer 7°01′ | 2 | 0.057°/d |  |  |
-| ♆ Neptune | ♈ Aries 14°34′ | 11 | 0.023°/d |  |  |
-| ♇ Pluto | ♉ Taurus 15°20′ | 12 | 0.020°/d | detriment (modern) |  |
-| ☊ North Node | ♍ Virgo 19°12′ | 4 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 19°12′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 13°50′ | Taurus | 1 | 0.957°/d |  |  |
+| ☽ Moon | ♋ Cancer 17°32′ | Gemini | 2 | 14.981°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 19°02′ | Taurus | 1 | 2.169°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 14°11′ | Aries | 12 | 1.198°/d | domicile |  |
+| ♂ Mars | ♌ Leo 20°18′ | Leo | 3 | 0.548°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 6°57′ | Aquarius | 10 | 0.069°/d | domicile |  |
+| ♄ Saturn | ♏ Scorpio 18°59′ | Libra | 6 | R -0.064°/d |  |  |
+| ♅ Uranus | ♋ Cancer 7°01′ | Gemini | 2 | 0.057°/d |  |  |
+| ♆ Neptune | ♈ Aries 14°34′ | Pisces | 11 | 0.023°/d |  |  |
+| ♇ Pluto | ♉ Taurus 15°20′ | Aries | 12 | 0.020°/d | detriment (modern) |  |
+| ☊ North Node | ♍ Virgo 19°12′ | Leo | 4 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 19°12′ | Aquarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

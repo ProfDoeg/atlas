@@ -7,20 +7,20 @@ Born 1908-01-12 (gregorian calendar), Culiacán, born in a bandmaster's house (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 20°24′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♉ Taurus 7°29′ | 5 | 12.787°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 18°52′ | 1 | 1.632°/d |  |  |
-| ♀ Venus | ♒ Aquarius 19°25′ | 2 | 1.238°/d |  |  |
-| ♂ Mars | ♈ Aries 0°33′ | 4 | 0.703°/d | domicile |  |
-| ♃ Jupiter | ♌ Leo 10°55′ | 8 | R -0.118°/d |  |  |
-| ♄ Saturn | ♓ Pisces 22°32′ | 3 | 0.079°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 13°15′ | 1 | 0.059°/d |  |  |
-| ♆ Neptune | ♋ Cancer 13°21′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 23°20′ | 6 | R -0.017°/d |  |  |
-| ☊ North Node | ♋ Cancer 13°54′ | 7 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 13°54′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 20°24′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♉ Taurus 7°29′ | Aries | 5 | 12.787°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 18°52′ | Sagittarius | 1 | 1.632°/d |  |  |
+| ♀ Venus | ♒ Aquarius 19°25′ | Capricornus | 2 | 1.238°/d |  |  |
+| ♂ Mars | ♈ Aries 0°33′ | Pisces | 4 | 0.703°/d | domicile |  |
+| ♃ Jupiter | ♌ Leo 10°55′ | Cancer | 8 | R -0.118°/d |  |  |
+| ♄ Saturn | ♓ Pisces 22°32′ | Pisces | 3 | 0.079°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 13°15′ | Sagittarius | 1 | 0.059°/d |  |  |
+| ♆ Neptune | ♋ Cancer 13°21′ | Gemini | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 23°20′ | Taurus | 6 | R -0.017°/d |  |  |
+| ☊ North Node | ♋ Cancer 13°54′ | Gemini | 7 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 13°54′ | Sagittarius | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

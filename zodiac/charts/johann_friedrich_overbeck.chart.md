@@ -7,20 +7,20 @@ Born 1789-07-03 (gregorian calendar), Lubeck, birth in the burgomaster's house (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 11°22′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♏ Scorpio 19°21′ | 5 | 13.327°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 28°46′ | 1 | R -0.104°/d |  |  |
-| ♀ Venus | ♋ Cancer 20°21′ | 1 | 1.229°/d |  |  |
-| ♂ Mars | ♊ Gemini 0°09′ | 12 | 0.705°/d |  |  |
-| ♃ Jupiter | ♌ Leo 4°12′ | 2 | 0.211°/d |  |  |
-| ♄ Saturn | ♓ Pisces 23°10′ | 9 | 0.002°/d (stationary) |  |  |
-| ♅ Uranus | ♌ Leo 3°27′ | 2 | 0.058°/d | detriment (modern) |  |
-| ♆ Neptune | ♎ Libra 20°35′ | 4 | 0.001°/d (stationary) |  |  |
-| ♇ Pluto | ♒ Aquarius 18°50′ | 8 | R -0.017°/d |  |  |
-| ☊ North Node | ♏ Scorpio 26°16′ | 5 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 26°16′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 11°22′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♏ Scorpio 19°21′ | Libra | 5 | 13.327°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 28°46′ | Cancer | 1 | R -0.104°/d |  |  |
+| ♀ Venus | ♋ Cancer 20°21′ | Gemini | 1 | 1.229°/d |  |  |
+| ♂ Mars | ♊ Gemini 0°09′ | Taurus | 12 | 0.705°/d |  |  |
+| ♃ Jupiter | ♌ Leo 4°12′ | Cancer | 2 | 0.211°/d |  |  |
+| ♄ Saturn | ♓ Pisces 23°10′ | Pisces | 9 | 0.002°/d (stationary) |  |  |
+| ♅ Uranus | ♌ Leo 3°27′ | Cancer | 2 | 0.058°/d | detriment (modern) |  |
+| ♆ Neptune | ♎ Libra 20°35′ | Virgo | 4 | 0.001°/d (stationary) |  |  |
+| ♇ Pluto | ♒ Aquarius 18°50′ | Capricornus | 8 | R -0.017°/d |  |  |
+| ☊ North Node | ♏ Scorpio 26°16′ | Libra | 5 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 26°16′ | Taurus | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

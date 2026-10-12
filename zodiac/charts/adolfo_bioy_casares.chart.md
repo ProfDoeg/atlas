@@ -7,20 +7,20 @@ Born 1914-09-15 (gregorian calendar), Recoleta, Buenos Aires: the only child (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 21°18′ | 1 | 0.975°/d |  |  |
-| ☽ Moon | ♋ Cancer 17°32′ | 11 | 12.990°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 3°56′ | 2 | 1.657°/d |  |  |
-| ♀ Venus | ♏ Scorpio 7°39′ | 3 | 0.993°/d | detriment |  |
-| ♂ Mars | ♎ Libra 20°20′ | 2 | 0.662°/d | detriment |  |
-| ♃ Jupiter | ♒ Aquarius 13°22′ | 6 | R -0.077°/d |  |  |
-| ♄ Saturn | ♋ Cancer 1°34′ | 11 | 0.054°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 8°10′ | 6 | R -0.025°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 29°52′ | 11 | 0.025°/d |  |  |
-| ♇ Pluto | ♋ Cancer 2°12′ | 11 | 0.007°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 4°48′ | 7 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 4°48′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 21°18′ | Leo | 1 | 0.975°/d |  |  |
+| ☽ Moon | ♋ Cancer 17°32′ | Gemini | 11 | 12.990°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 3°56′ | Virgo | 2 | 1.657°/d |  |  |
+| ♀ Venus | ♏ Scorpio 7°39′ | Virgo | 3 | 0.993°/d | detriment |  |
+| ♂ Mars | ♎ Libra 20°20′ | Virgo | 2 | 0.662°/d | detriment |  |
+| ♃ Jupiter | ♒ Aquarius 13°22′ | Capricornus | 6 | R -0.077°/d |  |  |
+| ♄ Saturn | ♋ Cancer 1°34′ | Gemini | 11 | 0.054°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 8°10′ | Capricornus | 6 | R -0.025°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 29°52′ | Cancer | 11 | 0.025°/d |  |  |
+| ♇ Pluto | ♋ Cancer 2°12′ | Gemini | 11 | 0.007°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 4°48′ | Aquarius | 7 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 4°48′ | Leo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

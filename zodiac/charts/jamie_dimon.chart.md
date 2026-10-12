@@ -7,20 +7,20 @@ Born 1956-03-13 (gregorian calendar), Jackson Heights, born to the third generat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 22°24′ | 1 | 0.997°/d |  |  |
-| ☽ Moon | ♓ Pisces 27°35′ | 1 | 13.038°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♓ Pisces 2°26′ | 1 | 1.564°/d | detriment, fall |  |
-| ♀ Venus | ♉ Taurus 5°48′ | 3 | 1.128°/d | domicile |  |
-| ♂ Mars | ♑ Capricornus 8°38′ | 11 | 0.654°/d | exaltation |  |
-| ♃ Jupiter | ♌ Leo 23°20′ | 6 | R -0.102°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 2°55′ | 10 | R -0.001°/d (stationary) |  |  |
-| ♅ Uranus | ♋ Cancer 28°21′ | 5 | R -0.020°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 0°03′ | 9 | R -0.020°/d |  |  |
-| ♇ Pluto | ♌ Leo 26°49′ | 6 | R -0.022°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 12°17′ | 10 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 12°17′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 22°24′ | Pisces | 1 | 0.997°/d |  |  |
+| ☽ Moon | ♓ Pisces 27°35′ | Pisces | 1 | 13.038°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♓ Pisces 2°26′ | Aquarius | 1 | 1.564°/d | detriment, fall |  |
+| ♀ Venus | ♉ Taurus 5°48′ | Aries | 3 | 1.128°/d | domicile |  |
+| ♂ Mars | ♑ Capricornus 8°38′ | Sagittarius | 11 | 0.654°/d | exaltation |  |
+| ♃ Jupiter | ♌ Leo 23°20′ | Leo | 6 | R -0.102°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 2°55′ | Scorpius | 10 | R -0.001°/d (stationary) |  |  |
+| ♅ Uranus | ♋ Cancer 28°21′ | Cancer | 5 | R -0.020°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 0°03′ | Virgo | 9 | R -0.020°/d |  |  |
+| ♇ Pluto | ♌ Leo 26°49′ | Leo | 6 | R -0.022°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 12°17′ | Ophiuchus | 10 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 12°17′ | Taurus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

@@ -7,20 +7,20 @@ Born 1804-04-23 (gregorian calendar), Stockholm, the birth of a dancer's daughte
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 2°37′ | 1 | 0.973°/d |  |  |
-| ☽ Moon | ♎ Libra 11°36′ | 6 | 11.974°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 9°45′ | 1 | 2.115°/d |  |  |
-| ♀ Venus | ♊ Gemini 15°05′ | 2 | 1.118°/d |  |  |
-| ♂ Mars | ♈ Aries 0°47′ | 12 | 0.773°/d | domicile |  |
-| ♃ Jupiter | ♏ Scorpio 0°41′ | 7 | R -0.128°/d |  |  |
-| ♄ Saturn | ♍ Virgo 27°53′ | 5 | R -0.057°/d |  |  |
-| ♅ Uranus | ♎ Libra 13°05′ | 6 | R -0.040°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 25°13′ | 7 | R -0.025°/d |  |  |
-| ♇ Pluto | ♓ Pisces 9°16′ | 11 | 0.018°/d |  |  |
-| ☊ North Node | ♒ Aquarius 9°57′ | 10 | mean node |  |  |
-| ☋ South Node | ♌ Leo 9°57′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 2°37′ | Aries | 1 | 0.973°/d |  |  |
+| ☽ Moon | ♎ Libra 11°36′ | Virgo | 6 | 11.974°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 9°45′ | Aries | 1 | 2.115°/d |  |  |
+| ♀ Venus | ♊ Gemini 15°05′ | Taurus | 2 | 1.118°/d |  |  |
+| ♂ Mars | ♈ Aries 0°47′ | Pisces | 12 | 0.773°/d | domicile |  |
+| ♃ Jupiter | ♏ Scorpio 0°41′ | Virgo | 7 | R -0.128°/d |  |  |
+| ♄ Saturn | ♍ Virgo 27°53′ | Virgo | 5 | R -0.057°/d |  |  |
+| ♅ Uranus | ♎ Libra 13°05′ | Virgo | 6 | R -0.040°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 25°13′ | Libra | 7 | R -0.025°/d |  |  |
+| ♇ Pluto | ♓ Pisces 9°16′ | Aquarius | 11 | 0.018°/d |  |  |
+| ☊ North Node | ♒ Aquarius 9°57′ | Capricornus | 10 | mean node |  |  |
+| ☋ South Node | ♌ Leo 9°57′ | Cancer | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

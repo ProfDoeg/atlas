@@ -7,20 +7,20 @@ Born 1892-07-23 (gregorian calendar), Ejersa Goro, the birth in the hills (lat 9
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 0°33′ | 1 | 0.955°/d | domicile |  |
-| ☽ Moon | ♋ Cancer 18°09′ | 12 | 13.728°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 26°52′ | 1 | 1.228°/d |  |  |
-| ♀ Venus | ♋ Cancer 11°02′ | 12 | R -0.331°/d |  |  |
-| ♂ Mars | ♒ Aquarius 15°15′ | 7 | R -0.207°/d |  |  |
-| ♃ Jupiter | ♈ Aries 24°10′ | 9 | 0.070°/d |  |  |
-| ♄ Saturn | ♍ Virgo 26°11′ | 2 | 0.087°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 1°51′ | 4 | 0.012°/d |  |  |
-| ♆ Neptune | ♊ Gemini 10°37′ | 11 | 0.026°/d |  |  |
-| ♇ Pluto | ♊ Gemini 9°29′ | 11 | 0.015°/d |  |  |
-| ☊ North Node | ♉ Taurus 13°05′ | 10 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 13°05′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 0°33′ | Cancer | 1 | 0.955°/d | domicile |  |
+| ☽ Moon | ♋ Cancer 18°09′ | Gemini | 12 | 13.728°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 26°52′ | Leo | 1 | 1.228°/d |  |  |
+| ♀ Venus | ♋ Cancer 11°02′ | Gemini | 12 | R -0.331°/d |  |  |
+| ♂ Mars | ♒ Aquarius 15°15′ | Capricornus | 7 | R -0.207°/d |  |  |
+| ♃ Jupiter | ♈ Aries 24°10′ | Pisces | 9 | 0.070°/d |  |  |
+| ♄ Saturn | ♍ Virgo 26°11′ | Virgo | 2 | 0.087°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 1°51′ | Virgo | 4 | 0.012°/d |  |  |
+| ♆ Neptune | ♊ Gemini 10°37′ | Taurus | 11 | 0.026°/d |  |  |
+| ♇ Pluto | ♊ Gemini 9°29′ | Taurus | 11 | 0.015°/d |  |  |
+| ☊ North Node | ♉ Taurus 13°05′ | Aries | 10 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 13°05′ | Libra | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

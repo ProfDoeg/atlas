@@ -7,20 +7,20 @@ Born 1478-02-07 (julian calendar), Milk Street, City of London: the birth (lat 5
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 27°17′ | 1 | 1.006°/d | detriment |  |
-| ☽ Moon | ♈ Aries 13°14′ | 3 | 13.314°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 19°43′ | 1 | 1.750°/d |  |  |
-| ♀ Venus | ♈ Aries 7°51′ | 3 | 1.175°/d | detriment |  |
-| ♂ Mars | ♎ Libra 28°07′ | 9 | 0.189°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 21°45′ | 3 | 0.185°/d |  |  |
-| ♄ Saturn | ♍ Virgo 1°56′ | 8 | R -0.080°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 27°56′ | 10 | 0.013°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 29°00′ | 10 | 0.007°/d (stationary) |  |  |
-| ♇ Pluto | ♍ Virgo 28°39′ | 8 | R -0.022°/d |  |  |
-| ☊ North Node | ♌ Leo 18°39′ | 7 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 18°39′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 27°17′ | Capricornus | 1 | 1.006°/d | detriment |  |
+| ☽ Moon | ♈ Aries 13°14′ | Pisces | 3 | 13.314°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 19°43′ | Capricornus | 1 | 1.750°/d |  |  |
+| ♀ Venus | ♈ Aries 7°51′ | Pisces | 3 | 1.175°/d | detriment |  |
+| ♂ Mars | ♎ Libra 28°07′ | Virgo | 9 | 0.189°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 21°45′ | Pisces | 3 | 0.185°/d |  |  |
+| ♄ Saturn | ♍ Virgo 1°56′ | Leo | 8 | R -0.080°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 27°56′ | Libra | 10 | 0.013°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 29°00′ | Libra | 10 | 0.007°/d (stationary) |  |  |
+| ♇ Pluto | ♍ Virgo 28°39′ | Virgo | 8 | R -0.022°/d |  |  |
+| ☊ North Node | ♌ Leo 18°39′ | Leo | 7 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 18°39′ | Capricornus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

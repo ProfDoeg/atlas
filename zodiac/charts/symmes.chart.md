@@ -7,20 +7,20 @@ Born 1780-11-05 (gregorian calendar), Sussex County, New Jersey: the birth of th
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 13°14′ | 1 | 1.005°/d |  |  |
-| ☽ Moon | ♒ Aquarius 23°31′ | 4 | 11.936°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♏ Scorpio 28°02′ | 1 | 1.482°/d |  |  |
-| ♀ Venus | ♍ Virgo 27°28′ | 11 | 1.088°/d | fall |  |
-| ♂ Mars | ♎ Libra 5°28′ | 12 | 0.628°/d | detriment |  |
-| ♃ Jupiter | ♏ Scorpio 8°51′ | 1 | 0.219°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 7°42′ | 2 | 0.111°/d |  |  |
-| ♅ Uranus | ♊ Gemini 27°54′ | 8 | R -0.027°/d |  |  |
-| ♆ Neptune | ♎ Libra 4°53′ | 12 | 0.031°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 2°55′ | 4 | 0.010°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 13°43′ | 7 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 13°43′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 13°14′ | Libra | 1 | 1.005°/d |  |  |
+| ☽ Moon | ♒ Aquarius 23°31′ | Capricornus | 4 | 11.936°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♏ Scorpio 28°02′ | Libra | 1 | 1.482°/d |  |  |
+| ♀ Venus | ♍ Virgo 27°28′ | Virgo | 11 | 1.088°/d | fall |  |
+| ♂ Mars | ♎ Libra 5°28′ | Virgo | 12 | 0.628°/d | detriment |  |
+| ♃ Jupiter | ♏ Scorpio 8°51′ | Libra | 1 | 0.219°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 7°42′ | Scorpius | 2 | 0.111°/d |  |  |
+| ♅ Uranus | ♊ Gemini 27°54′ | Taurus | 8 | R -0.027°/d |  |  |
+| ♆ Neptune | ♎ Libra 4°53′ | Virgo | 12 | 0.031°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 2°55′ | Capricornus | 4 | 0.010°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 13°43′ | Aries | 7 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 13°43′ | Libra | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

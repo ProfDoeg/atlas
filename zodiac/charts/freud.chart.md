@@ -7,20 +7,20 @@ Born 1856-05-06 (gregorian calendar), Freiberg (Příbor), Moravia: the wool mer
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 15°38′ | 1 | 0.967°/d |  |  |
-| ☽ Moon | ♊ Gemini 4°21′ | 2 | 14.251°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♉ Taurus 26°19′ | 1 | 2.056°/d |  |  |
-| ♀ Venus | ♈ Aries 25°19′ | 12 | 1.222°/d | detriment |  |
-| ♂ Mars | ♎ Libra 3°25′ | 6 | R -0.102°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 29°25′ | 11 | 0.202°/d | domicile |  |
-| ♄ Saturn | ♊ Gemini 27°35′ | 2 | 0.108°/d |  |  |
-| ♅ Uranus | ♉ Taurus 20°38′ | 1 | 0.058°/d |  |  |
-| ♆ Neptune | ♓ Pisces 19°49′ | 11 | 0.024°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 4°28′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 23°30′ | 12 | mean node |  |  |
-| ☋ South Node | ♎ Libra 23°30′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 15°38′ | Aries | 1 | 0.967°/d |  |  |
+| ☽ Moon | ♊ Gemini 4°21′ | Taurus | 2 | 14.251°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♉ Taurus 26°19′ | Taurus | 1 | 2.056°/d |  |  |
+| ♀ Venus | ♈ Aries 25°19′ | Pisces | 12 | 1.222°/d | detriment |  |
+| ♂ Mars | ♎ Libra 3°25′ | Virgo | 6 | R -0.102°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 29°25′ | Pisces | 11 | 0.202°/d | domicile |  |
+| ♄ Saturn | ♊ Gemini 27°35′ | Taurus | 2 | 0.108°/d |  |  |
+| ♅ Uranus | ♉ Taurus 20°38′ | Aries | 1 | 0.058°/d |  |  |
+| ♆ Neptune | ♓ Pisces 19°49′ | Aquarius | 11 | 0.024°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 4°28′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 23°30′ | Pisces | 12 | mean node |  |  |
+| ☋ South Node | ♎ Libra 23°30′ | Virgo | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1819-02-08 (gregorian calendar), London, Hunter Street: the only child (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 18°27′ | 1 | 1.012°/d | detriment |  |
-| ☽ Moon | ♋ Cancer 23°23′ | 6 | 11.933°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♑ Capricornus 24°22′ | 12 | 1.277°/d |  |  |
-| ♀ Venus | ♑ Capricornus 5°38′ | 12 | 0.684°/d |  |  |
-| ♂ Mars | ♑ Capricornus 26°21′ | 12 | 0.769°/d | exaltation |  |
-| ♃ Jupiter | ♒ Aquarius 0°22′ | 1 | 0.230°/d |  |  |
-| ♄ Saturn | ♓ Pisces 16°46′ | 2 | 0.114°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 23°22′ | 11 | 0.041°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 27°57′ | 11 | 0.027°/d |  |  |
-| ♇ Pluto | ♓ Pisces 25°06′ | 2 | 0.021°/d |  |  |
-| ☊ North Node | ♈ Aries 23°47′ | 3 | mean node |  |  |
-| ☋ South Node | ♎ Libra 23°47′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 18°27′ | Capricornus | 1 | 1.012°/d | detriment |  |
+| ☽ Moon | ♋ Cancer 23°23′ | Gemini | 6 | 11.933°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♑ Capricornus 24°22′ | Sagittarius | 12 | 1.277°/d |  |  |
+| ♀ Venus | ♑ Capricornus 5°38′ | Sagittarius | 12 | 0.684°/d |  |  |
+| ♂ Mars | ♑ Capricornus 26°21′ | Sagittarius | 12 | 0.769°/d | exaltation |  |
+| ♃ Jupiter | ♒ Aquarius 0°22′ | Capricornus | 1 | 0.230°/d |  |  |
+| ♄ Saturn | ♓ Pisces 16°46′ | Aquarius | 2 | 0.114°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 23°22′ | Ophiuchus | 11 | 0.041°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 27°57′ | Sagittarius | 11 | 0.027°/d |  |  |
+| ♇ Pluto | ♓ Pisces 25°06′ | Pisces | 2 | 0.021°/d |  |  |
+| ☊ North Node | ♈ Aries 23°47′ | Pisces | 3 | mean node |  |  |
+| ☋ South Node | ♎ Libra 23°47′ | Virgo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

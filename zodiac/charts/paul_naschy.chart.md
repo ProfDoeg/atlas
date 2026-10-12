@@ -7,20 +7,20 @@ Born 1934-09-06 (gregorian calendar), Madrid, the furrier's workshop near the Pl
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 12°43′ | 1 | 0.970°/d |  |  |
-| ☽ Moon | ♌ Leo 9°34′ | 12 | 11.809°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 22°20′ | 1 | 1.757°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 23°40′ | 12 | 1.230°/d |  |  |
-| ♂ Mars | ♌ Leo 4°05′ | 12 | 0.633°/d |  |  |
-| ♃ Jupiter | ♎ Libra 22°45′ | 2 | 0.189°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 23°07′ | 6 | R -0.068°/d | domicile |  |
-| ♅ Uranus | ♉ Taurus 1°13′ | 9 | R -0.023°/d |  |  |
-| ♆ Neptune | ♍ Virgo 12°13′ | 1 | 0.037°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 25°34′ | 11 | 0.020°/d |  |  |
-| ☊ North Node | ♒ Aquarius 8°27′ | 6 | mean node |  |  |
-| ☋ South Node | ♌ Leo 8°27′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 12°43′ | Leo | 1 | 0.970°/d |  |  |
+| ☽ Moon | ♌ Leo 9°34′ | Cancer | 12 | 11.809°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 22°20′ | Leo | 1 | 1.757°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 23°40′ | Leo | 12 | 1.230°/d |  |  |
+| ♂ Mars | ♌ Leo 4°05′ | Cancer | 12 | 0.633°/d |  |  |
+| ♃ Jupiter | ♎ Libra 22°45′ | Virgo | 2 | 0.189°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 23°07′ | Capricornus | 6 | R -0.068°/d | domicile |  |
+| ♅ Uranus | ♉ Taurus 1°13′ | Aries | 9 | R -0.023°/d |  |  |
+| ♆ Neptune | ♍ Virgo 12°13′ | Leo | 1 | 0.037°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 25°34′ | Gemini | 11 | 0.020°/d |  |  |
+| ☊ North Node | ♒ Aquarius 8°27′ | Capricornus | 6 | mean node |  |  |
+| ☋ South Node | ♌ Leo 8°27′ | Cancer | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

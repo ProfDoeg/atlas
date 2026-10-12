@@ -7,20 +7,20 @@ Born 1895-05-15 (gregorian calendar), Columbus, Ohio, birth in the ironmaster's 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 23°54′ | 1 | 0.964°/d |  |  |
-| ☽ Moon | ♒ Aquarius 4°54′ | 10 | 11.986°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♊ Gemini 5°34′ | 2 | 2.032°/d | domicile |  |
-| ♀ Venus | ♋ Cancer 2°10′ | 3 | 1.161°/d |  |  |
-| ♂ Mars | ♋ Cancer 13°45′ | 3 | 0.606°/d | fall |  |
-| ♃ Jupiter | ♋ Cancer 5°46′ | 3 | 0.195°/d | exaltation |  |
-| ♄ Saturn | ♏ Scorpio 2°32′ | 7 | R -0.068°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 17°29′ | 7 | R -0.042°/d |  |  |
-| ♆ Neptune | ♊ Gemini 14°42′ | 2 | 0.035°/d |  |  |
-| ♇ Pluto | ♊ Gemini 10°53′ | 2 | 0.022°/d |  |  |
-| ☊ North Node | ♓ Pisces 18°45′ | 11 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 18°45′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 23°54′ | Taurus | 1 | 0.964°/d |  |  |
+| ☽ Moon | ♒ Aquarius 4°54′ | Capricornus | 10 | 11.986°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♊ Gemini 5°34′ | Taurus | 2 | 2.032°/d | domicile |  |
+| ♀ Venus | ♋ Cancer 2°10′ | Gemini | 3 | 1.161°/d |  |  |
+| ♂ Mars | ♋ Cancer 13°45′ | Gemini | 3 | 0.606°/d | fall |  |
+| ♃ Jupiter | ♋ Cancer 5°46′ | Gemini | 3 | 0.195°/d | exaltation |  |
+| ♄ Saturn | ♏ Scorpio 2°32′ | Virgo | 7 | R -0.068°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 17°29′ | Libra | 7 | R -0.042°/d |  |  |
+| ♆ Neptune | ♊ Gemini 14°42′ | Taurus | 2 | 0.035°/d |  |  |
+| ♇ Pluto | ♊ Gemini 10°53′ | Taurus | 2 | 0.022°/d |  |  |
+| ☊ North Node | ♓ Pisces 18°45′ | Aquarius | 11 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 18°45′ | Leo | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1842-01-11 (gregorian calendar), Astor House, Broadway at Vesey Street: the
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 20°26′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♑ Capricornus 13°01′ | 1 | 12.004°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 16°20′ | 1 | 1.616°/d |  |  |
-| ♀ Venus | ♑ Capricornus 7°29′ | 1 | 1.256°/d |  |  |
-| ♂ Mars | ♓ Pisces 3°29′ | 3 | 0.776°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 5°31′ | 1 | 0.227°/d | fall |  |
-| ♄ Saturn | ♑ Capricornus 7°05′ | 1 | 0.116°/d | domicile |  |
-| ♅ Uranus | ♓ Pisces 21°18′ | 3 | 0.034°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 15°46′ | 2 | 0.035°/d |  |  |
-| ♇ Pluto | ♈ Aries 19°00′ | 4 | 0.003°/d (stationary) |  |  |
-| ☊ North Node | ♒ Aquarius 0°24′ | 2 | mean node |  |  |
-| ☋ South Node | ♌ Leo 0°24′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 20°26′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♑ Capricornus 13°01′ | Sagittarius | 1 | 12.004°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 16°20′ | Sagittarius | 1 | 1.616°/d |  |  |
+| ♀ Venus | ♑ Capricornus 7°29′ | Sagittarius | 1 | 1.256°/d |  |  |
+| ♂ Mars | ♓ Pisces 3°29′ | Aquarius | 3 | 0.776°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 5°31′ | Sagittarius | 1 | 0.227°/d | fall |  |
+| ♄ Saturn | ♑ Capricornus 7°05′ | Sagittarius | 1 | 0.116°/d | domicile |  |
+| ♅ Uranus | ♓ Pisces 21°18′ | Aquarius | 3 | 0.034°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 15°46′ | Capricornus | 2 | 0.035°/d |  |  |
+| ♇ Pluto | ♈ Aries 19°00′ | Pisces | 4 | 0.003°/d (stationary) |  |  |
+| ☊ North Node | ♒ Aquarius 0°24′ | Capricornus | 2 | mean node |  |  |
+| ☋ South Node | ♌ Leo 0°24′ | Cancer | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

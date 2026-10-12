@@ -7,20 +7,20 @@ Born 1890-12-11 (gregorian calendar), Toulouse, the register at La Grave (lat 43
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 18°57′ | 1 | 1.017°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 4°16′ | 1 | 13.786°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♑ Capricornus 1°58′ | 2 | 1.539°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 8°08′ | 1 | R -0.514°/d |  |  |
-| ♂ Mars | ♒ Aquarius 25°28′ | 3 | 0.747°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 10°14′ | 3 | 0.191°/d |  |  |
-| ♄ Saturn | ♍ Virgo 17°03′ | 10 | 0.031°/d |  |  |
-| ♅ Uranus | ♎ Libra 29°50′ | 11 | 0.046°/d |  |  |
-| ♆ Neptune | ♊ Gemini 5°03′ | 7 | R -0.027°/d |  |  |
-| ♇ Pluto | ♊ Gemini 6°42′ | 7 | R -0.018°/d |  |  |
-| ☊ North Node | ♊ Gemini 14°20′ | 7 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 14°20′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 18°57′ | Ophiuchus | 1 | 1.017°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 4°16′ | Scorpius | 1 | 13.786°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♑ Capricornus 1°58′ | Sagittarius | 2 | 1.539°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 8°08′ | Ophiuchus | 1 | R -0.514°/d |  |  |
+| ♂ Mars | ♒ Aquarius 25°28′ | Capricornus | 3 | 0.747°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 10°14′ | Capricornus | 3 | 0.191°/d |  |  |
+| ♄ Saturn | ♍ Virgo 17°03′ | Leo | 10 | 0.031°/d |  |  |
+| ♅ Uranus | ♎ Libra 29°50′ | Virgo | 11 | 0.046°/d |  |  |
+| ♆ Neptune | ♊ Gemini 5°03′ | Taurus | 7 | R -0.027°/d |  |  |
+| ♇ Pluto | ♊ Gemini 6°42′ | Taurus | 7 | R -0.018°/d |  |  |
+| ☊ North Node | ♊ Gemini 14°20′ | Taurus | 7 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 14°20′ | Ophiuchus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

@@ -7,20 +7,20 @@ Born 1596-03-31 (gregorian calendar), La Haye en Touraine, the birth in the gran
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 10°28′ | 1 | 0.984°/d | exaltation |  |
-| ☽ Moon | ♉ Taurus 4°12′ | 2 | 11.799°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♈ Aries 29°24′ | 1 | 0.853°/d |  |  |
-| ♀ Venus | ♉ Taurus 5°39′ | 2 | 1.222°/d | domicile |  |
-| ♂ Mars | ♊ Gemini 21°58′ | 3 | 0.556°/d |  |  |
-| ♃ Jupiter | ♈ Aries 15°16′ | 1 | 0.241°/d |  |  |
-| ♄ Saturn | ♍ Virgo 2°10′ | 6 | R -0.054°/d |  |  |
-| ♅ Uranus | ♈ Aries 14°45′ | 1 | 0.057°/d |  |  |
-| ♆ Neptune | ♌ Leo 16°39′ | 5 | R -0.014°/d |  |  |
-| ♇ Pluto | ♈ Aries 18°39′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♈ Aries 14°05′ | 1 | mean node |  |  |
-| ☋ South Node | ♎ Libra 14°05′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 10°28′ | Pisces | 1 | 0.984°/d | exaltation |  |
+| ☽ Moon | ♉ Taurus 4°12′ | Aries | 2 | 11.799°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♈ Aries 29°24′ | Aries | 1 | 0.853°/d |  |  |
+| ♀ Venus | ♉ Taurus 5°39′ | Aries | 2 | 1.222°/d | domicile |  |
+| ♂ Mars | ♊ Gemini 21°58′ | Taurus | 3 | 0.556°/d |  |  |
+| ♃ Jupiter | ♈ Aries 15°16′ | Pisces | 1 | 0.241°/d |  |  |
+| ♄ Saturn | ♍ Virgo 2°10′ | Leo | 6 | R -0.054°/d |  |  |
+| ♅ Uranus | ♈ Aries 14°45′ | Pisces | 1 | 0.057°/d |  |  |
+| ♆ Neptune | ♌ Leo 16°39′ | Cancer | 5 | R -0.014°/d |  |  |
+| ♇ Pluto | ♈ Aries 18°39′ | Pisces | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♈ Aries 14°05′ | Pisces | 1 | mean node |  |  |
+| ☋ South Node | ♎ Libra 14°05′ | Virgo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

@@ -7,20 +7,20 @@ Born 1944-08-17 (gregorian calendar), South Bronx, the birth to Florence Spellma
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 23°58′ | 1 | 0.962°/d | domicile |  |
-| ☽ Moon | ♌ Leo 3°29′ | 1 | 12.137°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♍ Virgo 20°10′ | 2 | 0.591°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 7°58′ | 2 | 1.233°/d | fall |  |
-| ♂ Mars | ♍ Virgo 22°20′ | 2 | 0.634°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 4°37′ | 2 | 0.215°/d | detriment |  |
-| ♄ Saturn | ♋ Cancer 6°54′ | 12 | 0.103°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 12°43′ | 11 | 0.027°/d |  |  |
-| ♆ Neptune | ♎ Libra 2°39′ | 3 | 0.030°/d |  |  |
-| ♇ Pluto | ♌ Leo 8°52′ | 1 | 0.028°/d |  |  |
-| ☊ North Node | ♋ Cancer 26°04′ | 12 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 26°04′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 23°58′ | Leo | 1 | 0.962°/d | domicile |  |
+| ☽ Moon | ♌ Leo 3°29′ | Cancer | 1 | 12.137°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♍ Virgo 20°10′ | Leo | 2 | 0.591°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 7°58′ | Leo | 2 | 1.233°/d | fall |  |
+| ♂ Mars | ♍ Virgo 22°20′ | Leo | 2 | 0.634°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 4°37′ | Leo | 2 | 0.215°/d | detriment |  |
+| ♄ Saturn | ♋ Cancer 6°54′ | Gemini | 12 | 0.103°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 12°43′ | Taurus | 11 | 0.027°/d |  |  |
+| ♆ Neptune | ♎ Libra 2°39′ | Virgo | 3 | 0.030°/d |  |  |
+| ♇ Pluto | ♌ Leo 8°52′ | Cancer | 1 | 0.028°/d |  |  |
+| ☊ North Node | ♋ Cancer 26°04′ | Gemini | 12 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 26°04′ | Sagittarius | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

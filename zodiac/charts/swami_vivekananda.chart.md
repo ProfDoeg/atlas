@@ -7,20 +7,20 @@ Born 1863-01-12 (gregorian calendar), Calcutta, the birth in the ancestral house
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 21°21′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♎ Libra 9°02′ | 10 | 13.110°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 3°41′ | 2 | 1.651°/d |  |  |
-| ♀ Venus | ♑ Capricornus 29°02′ | 1 | 1.256°/d |  |  |
-| ♂ Mars | ♈ Aries 28°14′ | 4 | 0.509°/d | domicile |  |
-| ♃ Jupiter | ♎ Libra 25°55′ | 10 | 0.090°/d |  |  |
-| ♄ Saturn | ♎ Libra 5°35′ | 10 | 0.005°/d (stationary) | exaltation |  |
-| ♅ Uranus | ♊ Gemini 17°23′ | 6 | R -0.033°/d |  |  |
-| ♆ Neptune | ♈ Aries 1°19′ | 4 | 0.017°/d |  |  |
-| ♇ Pluto | ♉ Taurus 9°28′ | 5 | R -0.004°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 14°12′ | 12 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 14°12′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 21°21′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♎ Libra 9°02′ | Virgo | 10 | 13.110°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 3°41′ | Capricornus | 2 | 1.651°/d |  |  |
+| ♀ Venus | ♑ Capricornus 29°02′ | Sagittarius | 1 | 1.256°/d |  |  |
+| ♂ Mars | ♈ Aries 28°14′ | Pisces | 4 | 0.509°/d | domicile |  |
+| ♃ Jupiter | ♎ Libra 25°55′ | Virgo | 10 | 0.090°/d |  |  |
+| ♄ Saturn | ♎ Libra 5°35′ | Virgo | 10 | 0.005°/d (stationary) | exaltation |  |
+| ♅ Uranus | ♊ Gemini 17°23′ | Taurus | 6 | R -0.033°/d |  |  |
+| ♆ Neptune | ♈ Aries 1°19′ | Pisces | 4 | 0.017°/d |  |  |
+| ♇ Pluto | ♉ Taurus 9°28′ | Aries | 5 | R -0.004°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 14°12′ | Ophiuchus | 12 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 14°12′ | Taurus | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

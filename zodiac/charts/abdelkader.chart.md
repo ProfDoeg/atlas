@@ -7,20 +7,20 @@ Born 1808-09-06 (gregorian calendar), El Guetna, birth on the wadi (lat 35.3838,
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 13°11′ | 1 | 0.971°/d |  |  |
-| ☽ Moon | ♓ Pisces 25°16′ | 7 | 12.329°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♍ Virgo 8°19′ | 1 | 1.929°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 22°28′ | 1 | 1.241°/d | fall |  |
-| ♂ Mars | ♌ Leo 5°18′ | 12 | 0.631°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 13°14′ | 7 | R -0.133°/d | domicile |  |
-| ♄ Saturn | ♏ Scorpio 17°12′ | 3 | 0.072°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 2°07′ | 3 | 0.046°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 2°04′ | 4 | 0.013°/d |  |  |
-| ♇ Pluto | ♓ Pisces 13°36′ | 7 | R -0.021°/d |  |  |
-| ☊ North Node | ♏ Scorpio 15°23′ | 3 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 15°23′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 13°11′ | Leo | 1 | 0.971°/d |  |  |
+| ☽ Moon | ♓ Pisces 25°16′ | Pisces | 7 | 12.329°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♍ Virgo 8°19′ | Leo | 1 | 1.929°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 22°28′ | Leo | 1 | 1.241°/d | fall |  |
+| ♂ Mars | ♌ Leo 5°18′ | Cancer | 12 | 0.631°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 13°14′ | Aquarius | 7 | R -0.133°/d | domicile |  |
+| ♄ Saturn | ♏ Scorpio 17°12′ | Libra | 3 | 0.072°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 2°07′ | Virgo | 3 | 0.046°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 2°04′ | Scorpius | 4 | 0.013°/d |  |  |
+| ♇ Pluto | ♓ Pisces 13°36′ | Aquarius | 7 | R -0.021°/d |  |  |
+| ☊ North Node | ♏ Scorpio 15°23′ | Libra | 3 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 15°23′ | Aries | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

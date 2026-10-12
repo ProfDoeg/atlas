@@ -7,20 +7,20 @@ Born 1809-01-19 (gregorian calendar), Boston, the birth into the theatre trade (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 28°35′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♓ Pisces 6°23′ | 3 | 13.272°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♑ Capricornus 28°13′ | 1 | 1.679°/d |  |  |
-| ♀ Venus | ♓ Pisces 8°49′ | 3 | 1.193°/d | exaltation |  |
-| ♂ Mars | ♎ Libra 18°30′ | 10 | 0.364°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 16°59′ | 3 | 0.199°/d | domicile |  |
-| ♄ Saturn | ♐ Sagittarius 1°19′ | 12 | 0.081°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 9°09′ | 11 | 0.022°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 6°12′ | 12 | 0.026°/d |  |  |
-| ♇ Pluto | ♓ Pisces 13°06′ | 3 | 0.020°/d |  |  |
-| ☊ North Node | ♏ Scorpio 8°14′ | 11 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 8°14′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 28°35′ | Sagittarius | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♓ Pisces 6°23′ | Aquarius | 3 | 13.272°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♑ Capricornus 28°13′ | Sagittarius | 1 | 1.679°/d |  |  |
+| ♀ Venus | ♓ Pisces 8°49′ | Aquarius | 3 | 1.193°/d | exaltation |  |
+| ♂ Mars | ♎ Libra 18°30′ | Virgo | 10 | 0.364°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 16°59′ | Aquarius | 3 | 0.199°/d | domicile |  |
+| ♄ Saturn | ♐ Sagittarius 1°19′ | Scorpius | 12 | 0.081°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 9°09′ | Libra | 11 | 0.022°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 6°12′ | Scorpius | 12 | 0.026°/d |  |  |
+| ♇ Pluto | ♓ Pisces 13°06′ | Aquarius | 3 | 0.020°/d |  |  |
+| ☊ North Node | ♏ Scorpio 8°14′ | Libra | 11 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 8°14′ | Aries | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

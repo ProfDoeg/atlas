@@ -7,20 +7,20 @@ Born 1886-12-08 (gregorian calendar), Guanajuato, birth on the Calle de Positos 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 15°52′ | 1 | 1.016°/d |  |  |
-| ☽ Moon | ♉ Taurus 4°33′ | 6 | 12.618°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♐ Sagittarius 5°45′ | 1 | R -0.949°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 17°03′ | 1 | 1.258°/d |  |  |
-| ♂ Mars | ♑ Capricornus 17°15′ | 2 | 0.775°/d | exaltation |  |
-| ♃ Jupiter | ♎ Libra 28°29′ | 11 | 0.178°/d |  |  |
-| ♄ Saturn | ♋ Cancer 21°30′ | 8 | R -0.059°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 11°33′ | 11 | 0.035°/d |  |  |
-| ♆ Neptune | ♉ Taurus 25°54′ | 6 | R -0.026°/d |  |  |
-| ♇ Pluto | ♊ Gemini 2°52′ | 7 | R -0.018°/d |  |  |
-| ☊ North Node | ♍ Virgo 1°51′ | 10 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 1°51′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 15°52′ | Ophiuchus | 1 | 1.016°/d |  |  |
+| ☽ Moon | ♉ Taurus 4°33′ | Aries | 6 | 12.618°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♐ Sagittarius 5°45′ | Scorpius | 1 | R -0.949°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 17°03′ | Ophiuchus | 1 | 1.258°/d |  |  |
+| ♂ Mars | ♑ Capricornus 17°15′ | Sagittarius | 2 | 0.775°/d | exaltation |  |
+| ♃ Jupiter | ♎ Libra 28°29′ | Virgo | 11 | 0.178°/d |  |  |
+| ♄ Saturn | ♋ Cancer 21°30′ | Gemini | 8 | R -0.059°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 11°33′ | Virgo | 11 | 0.035°/d |  |  |
+| ♆ Neptune | ♉ Taurus 25°54′ | Taurus | 6 | R -0.026°/d |  |  |
+| ♇ Pluto | ♊ Gemini 2°52′ | Taurus | 7 | R -0.018°/d |  |  |
+| ☊ North Node | ♍ Virgo 1°51′ | Leo | 10 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 1°51′ | Aquarius | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

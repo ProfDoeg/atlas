@@ -7,20 +7,20 @@ Born 1743-06-02 (gregorian calendar), Palermo, birth in the Albergheria (lat 38.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 10°56′ | 1 | 0.957°/d |  |  |
-| ☽ Moon | ♎ Libra 12°14′ | 5 | 12.493°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 29°47′ | 1 | 1.715°/d | domicile |  |
-| ♀ Venus | ♋ Cancer 13°55′ | 2 | 1.189°/d |  |  |
-| ♂ Mars | ♍ Virgo 5°39′ | 4 | 0.466°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 5°44′ | 4 | 0.090°/d | detriment |  |
-| ♄ Saturn | ♌ Leo 29°41′ | 3 | 0.054°/d | detriment |  |
-| ♅ Uranus | ♑ Capricornus 26°46′ | 8 | R -0.024°/d |  |  |
-| ♆ Neptune | ♋ Cancer 10°42′ | 2 | 0.033°/d |  |  |
-| ♇ Pluto | ♏ Scorpio 14°36′ | 6 | R -0.024°/d | domicile (modern) |  |
-| ☊ North Node | ♉ Taurus 17°39′ | 12 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 17°39′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 10°56′ | Taurus | 1 | 0.957°/d |  |  |
+| ☽ Moon | ♎ Libra 12°14′ | Virgo | 5 | 12.493°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 29°47′ | Taurus | 1 | 1.715°/d | domicile |  |
+| ♀ Venus | ♋ Cancer 13°55′ | Gemini | 2 | 1.189°/d |  |  |
+| ♂ Mars | ♍ Virgo 5°39′ | Leo | 4 | 0.466°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 5°44′ | Leo | 4 | 0.090°/d | detriment |  |
+| ♄ Saturn | ♌ Leo 29°41′ | Leo | 3 | 0.054°/d | detriment |  |
+| ♅ Uranus | ♑ Capricornus 26°46′ | Sagittarius | 8 | R -0.024°/d |  |  |
+| ♆ Neptune | ♋ Cancer 10°42′ | Gemini | 2 | 0.033°/d |  |  |
+| ♇ Pluto | ♏ Scorpio 14°36′ | Libra | 6 | R -0.024°/d | domicile (modern) |  |
+| ☊ North Node | ♉ Taurus 17°39′ | Aries | 12 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 17°39′ | Libra | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

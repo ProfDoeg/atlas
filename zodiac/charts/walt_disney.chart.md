@@ -7,20 +7,20 @@ Born 1901-12-05 (gregorian calendar), Tripp Avenue, Chicago: the fourth son (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 12°11′ | 1 | 1.015°/d |  |  |
-| ☽ Moon | ♎ Libra 5°52′ | 11 | 12.074°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♏ Scorpio 27°02′ | 12 | 1.494°/d |  |  |
-| ♀ Venus | ♑ Capricornus 29°26′ | 2 | 1.018°/d |  |  |
-| ♂ Mars | ♑ Capricornus 8°14′ | 2 | 0.768°/d | exaltation |  |
-| ♃ Jupiter | ♑ Capricornus 15°20′ | 2 | 0.214°/d | fall |  |
-| ♄ Saturn | ♑ Capricornus 14°35′ | 2 | 0.106°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 16°42′ | 1 | 0.061°/d |  |  |
-| ♆ Neptune | ♋ Cancer 0°37′ | 8 | R -0.027°/d |  |  |
-| ♇ Pluto | ♊ Gemini 17°49′ | 7 | R -0.019°/d |  |  |
-| ☊ North Node | ♏ Scorpio 11°56′ | 12 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 11°56′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 12°11′ | Ophiuchus | 1 | 1.015°/d |  |  |
+| ☽ Moon | ♎ Libra 5°52′ | Virgo | 11 | 12.074°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♏ Scorpio 27°02′ | Libra | 12 | 1.494°/d |  |  |
+| ♀ Venus | ♑ Capricornus 29°26′ | Sagittarius | 2 | 1.018°/d |  |  |
+| ♂ Mars | ♑ Capricornus 8°14′ | Sagittarius | 2 | 0.768°/d | exaltation |  |
+| ♃ Jupiter | ♑ Capricornus 15°20′ | Sagittarius | 2 | 0.214°/d | fall |  |
+| ♄ Saturn | ♑ Capricornus 14°35′ | Sagittarius | 2 | 0.106°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 16°42′ | Ophiuchus | 1 | 0.061°/d |  |  |
+| ♆ Neptune | ♋ Cancer 0°37′ | Gemini | 8 | R -0.027°/d |  |  |
+| ♇ Pluto | ♊ Gemini 17°49′ | Taurus | 7 | R -0.019°/d |  |  |
+| ☊ North Node | ♏ Scorpio 11°56′ | Libra | 12 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 11°56′ | Aries | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

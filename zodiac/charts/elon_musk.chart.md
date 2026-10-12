@@ -7,20 +7,20 @@ Born 1971-06-28 (gregorian calendar), Pretoria, the birth (lat -25.7461, lng 28.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 5°40′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♍ Virgo 5°29′ | 3 | 12.044°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♋ Cancer 13°36′ | 1 | 2.086°/d |  |  |
-| ♀ Venus | ♊ Gemini 19°07′ | 12 | 1.219°/d |  |  |
-| ♂ Mars | ♒ Aquarius 20°49′ | 8 | 0.160°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 27°37′ | 5 | R -0.077°/d |  |  |
-| ♄ Saturn | ♊ Gemini 1°03′ | 12 | 0.114°/d |  |  |
-| ♅ Uranus | ♎ Libra 9°17′ | 4 | 0.009°/d (stationary) |  |  |
-| ♆ Neptune | ♐ Sagittarius 0°51′ | 6 | R -0.021°/d |  |  |
-| ♇ Pluto | ♍ Virgo 27°08′ | 3 | 0.011°/d |  |  |
-| ☊ North Node | ♒ Aquarius 16°32′ | 8 | mean node |  |  |
-| ☋ South Node | ♌ Leo 16°32′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 5°40′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♍ Virgo 5°29′ | Leo | 3 | 12.044°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♋ Cancer 13°36′ | Gemini | 1 | 2.086°/d |  |  |
+| ♀ Venus | ♊ Gemini 19°07′ | Taurus | 12 | 1.219°/d |  |  |
+| ♂ Mars | ♒ Aquarius 20°49′ | Capricornus | 8 | 0.160°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 27°37′ | Libra | 5 | R -0.077°/d |  |  |
+| ♄ Saturn | ♊ Gemini 1°03′ | Taurus | 12 | 0.114°/d |  |  |
+| ♅ Uranus | ♎ Libra 9°17′ | Virgo | 4 | 0.009°/d (stationary) |  |  |
+| ♆ Neptune | ♐ Sagittarius 0°51′ | Libra | 6 | R -0.021°/d |  |  |
+| ♇ Pluto | ♍ Virgo 27°08′ | Virgo | 3 | 0.011°/d |  |  |
+| ☊ North Node | ♒ Aquarius 16°32′ | Capricornus | 8 | mean node |  |  |
+| ☋ South Node | ♌ Leo 16°32′ | Cancer | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

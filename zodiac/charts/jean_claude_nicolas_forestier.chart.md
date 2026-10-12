@@ -7,20 +7,20 @@ Born 1861-01-09 (gregorian calendar), Aix-les-Bains, birth in a department one y
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 18°47′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 22°24′ | 12 | 13.569°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 5°16′ | 1 | 1.518°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 18°48′ | 12 | 1.239°/d |  |  |
-| ♂ Mars | ♈ Aries 2°49′ | 4 | 0.685°/d | domicile |  |
-| ♃ Jupiter | ♌ Leo 25°49′ | 8 | R -0.085°/d |  |  |
-| ♄ Saturn | ♍ Virgo 9°16′ | 9 | R -0.036°/d |  |  |
-| ♅ Uranus | ♊ Gemini 8°34′ | 6 | R -0.029°/d |  |  |
-| ♆ Neptune | ♓ Pisces 26°52′ | 3 | 0.018°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 7°34′ | 5 | R -0.004°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 23°00′ | 1 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 23°00′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 18°47′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 22°24′ | Ophiuchus | 12 | 13.569°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 5°16′ | Sagittarius | 1 | 1.518°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 18°48′ | Ophiuchus | 12 | 1.239°/d |  |  |
+| ♂ Mars | ♈ Aries 2°49′ | Pisces | 4 | 0.685°/d | domicile |  |
+| ♃ Jupiter | ♌ Leo 25°49′ | Leo | 8 | R -0.085°/d |  |  |
+| ♄ Saturn | ♍ Virgo 9°16′ | Leo | 9 | R -0.036°/d |  |  |
+| ♅ Uranus | ♊ Gemini 8°34′ | Taurus | 6 | R -0.029°/d |  |  |
+| ♆ Neptune | ♓ Pisces 26°52′ | Pisces | 3 | 0.018°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 7°34′ | Aries | 5 | R -0.004°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 23°00′ | Sagittarius | 1 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 23°00′ | Gemini | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

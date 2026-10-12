@@ -7,20 +7,20 @@ Born 1974-02-26 (gregorian calendar), Gobernador Costa, the birth the record can
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 7°01′ | 1 | 1.005°/d |  |  |
-| ☽ Moon | ♈ Aries 20°41′ | 2 | 12.947°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 4°36′ | 1 | R -1.084°/d | detriment, fall |  |
-| ♀ Venus | ♑ Capricornus 28°47′ | 11 | 0.439°/d |  |  |
-| ♂ Mars | ♉ Taurus 29°12′ | 3 | 0.550°/d | detriment |  |
-| ♃ Jupiter | ♒ Aquarius 27°29′ | 12 | 0.238°/d |  |  |
-| ♄ Saturn | ♊ Gemini 27°49′ | 4 | R -0.004°/d (stationary) |  |  |
-| ♅ Uranus | ♎ Libra 27°19′ | 8 | R -0.022°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 9°35′ | 10 | 0.008°/d (stationary) |  |  |
-| ♇ Pluto | ♎ Libra 6°16′ | 8 | R -0.023°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 24°57′ | 10 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 24°57′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 7°01′ | Aquarius | 1 | 1.005°/d |  |  |
+| ☽ Moon | ♈ Aries 20°41′ | Pisces | 2 | 12.947°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 4°36′ | Aquarius | 1 | R -1.084°/d | detriment, fall |  |
+| ♀ Venus | ♑ Capricornus 28°47′ | Sagittarius | 11 | 0.439°/d |  |  |
+| ♂ Mars | ♉ Taurus 29°12′ | Taurus | 3 | 0.550°/d | detriment |  |
+| ♃ Jupiter | ♒ Aquarius 27°29′ | Capricornus | 12 | 0.238°/d |  |  |
+| ♄ Saturn | ♊ Gemini 27°49′ | Taurus | 4 | R -0.004°/d (stationary) |  |  |
+| ♅ Uranus | ♎ Libra 27°19′ | Virgo | 8 | R -0.022°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 9°35′ | Ophiuchus | 10 | 0.008°/d (stationary) |  |  |
+| ♇ Pluto | ♎ Libra 6°16′ | Virgo | 8 | R -0.023°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 24°57′ | Ophiuchus | 10 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 24°57′ | Taurus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

@@ -7,20 +7,20 @@ Born 1886-11-13 (gregorian calendar), Hanover, the house of the sewing-machine m
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 20°34′ | 1 | 1.007°/d |  |  |
-| ☽ Moon | ♊ Gemini 5°07′ | 8 | 13.226°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♐ Sagittarius 13°03′ | 2 | 1.043°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 15°36′ | 1 | 1.256°/d | detriment |  |
-| ♂ Mars | ♐ Sagittarius 28°07′ | 2 | 0.754°/d |  |  |
-| ♃ Jupiter | ♎ Libra 23°40′ | 12 | 0.205°/d |  |  |
-| ♄ Saturn | ♋ Cancer 22°28′ | 9 | R -0.017°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 10°26′ | 12 | 0.052°/d |  |  |
-| ♆ Neptune | ♉ Taurus 26°35′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 3°20′ | 8 | R -0.018°/d |  |  |
-| ☊ North Node | ♍ Virgo 3°11′ | 11 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 3°11′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 20°34′ | Libra | 1 | 1.007°/d |  |  |
+| ☽ Moon | ♊ Gemini 5°07′ | Taurus | 8 | 13.226°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♐ Sagittarius 13°03′ | Ophiuchus | 2 | 1.043°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 15°36′ | Libra | 1 | 1.256°/d | detriment |  |
+| ♂ Mars | ♐ Sagittarius 28°07′ | Sagittarius | 2 | 0.754°/d |  |  |
+| ♃ Jupiter | ♎ Libra 23°40′ | Virgo | 12 | 0.205°/d |  |  |
+| ♄ Saturn | ♋ Cancer 22°28′ | Gemini | 9 | R -0.017°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 10°26′ | Virgo | 12 | 0.052°/d |  |  |
+| ♆ Neptune | ♉ Taurus 26°35′ | Taurus | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 3°20′ | Taurus | 8 | R -0.018°/d |  |  |
+| ☊ North Node | ♍ Virgo 3°11′ | Leo | 11 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 3°11′ | Aquarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

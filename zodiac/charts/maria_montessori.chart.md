@@ -7,20 +7,20 @@ Born 1870-08-31 (gregorian calendar), Chiaravalle, the birth on Piazza Mazzini (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 7°22′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♏ Scorpio 2°57′ | 3 | 14.525°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♎ Libra 2°54′ | 2 | 1.259°/d |  |  |
-| ♀ Venus | ♌ Leo 12°19′ | 12 | 1.218°/d |  |  |
-| ♂ Mars | ♋ Cancer 24°27′ | 11 | 0.636°/d | fall |  |
-| ♃ Jupiter | ♊ Gemini 23°24′ | 10 | 0.131°/d | detriment |  |
-| ♄ Saturn | ♐ Sagittarius 21°43′ | 4 | 0.007°/d (stationary) |  |  |
-| ♅ Uranus | ♋ Cancer 24°51′ | 11 | 0.049°/d |  |  |
-| ♆ Neptune | ♈ Aries 21°28′ | 8 | R -0.018°/d |  |  |
-| ♇ Pluto | ♉ Taurus 18°57′ | 9 | R -0.004°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♋ Cancer 16°33′ | 11 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 16°33′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 7°22′ | Leo | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♏ Scorpio 2°57′ | Virgo | 3 | 14.525°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♎ Libra 2°54′ | Virgo | 2 | 1.259°/d |  |  |
+| ♀ Venus | ♌ Leo 12°19′ | Cancer | 12 | 1.218°/d |  |  |
+| ♂ Mars | ♋ Cancer 24°27′ | Gemini | 11 | 0.636°/d | fall |  |
+| ♃ Jupiter | ♊ Gemini 23°24′ | Taurus | 10 | 0.131°/d | detriment |  |
+| ♄ Saturn | ♐ Sagittarius 21°43′ | Ophiuchus | 4 | 0.007°/d (stationary) |  |  |
+| ♅ Uranus | ♋ Cancer 24°51′ | Gemini | 11 | 0.049°/d |  |  |
+| ♆ Neptune | ♈ Aries 21°28′ | Pisces | 8 | R -0.018°/d |  |  |
+| ♇ Pluto | ♉ Taurus 18°57′ | Aries | 9 | R -0.004°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♋ Cancer 16°33′ | Gemini | 11 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 16°33′ | Sagittarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

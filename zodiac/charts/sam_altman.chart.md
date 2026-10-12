@@ -7,20 +7,20 @@ Born 1985-04-22 (gregorian calendar), Chicago, the birth (lat 41.8781, lng -87.6
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 1°49′ | 1 | 0.975°/d |  |  |
-| ☽ Moon | ♉ Taurus 21°05′ | 1 | 11.866°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 7°41′ | 12 | 0.387°/d |  |  |
-| ♀ Venus | ♈ Aries 6°12′ | 12 | R -0.121°/d | detriment |  |
-| ♂ Mars | ♉ Taurus 26°57′ | 1 | 0.699°/d | detriment |  |
-| ♃ Jupiter | ♒ Aquarius 14°07′ | 10 | 0.126°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 26°36′ | 7 | R -0.064°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 17°31′ | 8 | R -0.024°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 3°33′ | 9 | R -0.009°/d (stationary) |  |  |
-| ♇ Pluto | ♏ Scorpio 3°27′ | 7 | R -0.028°/d | domicile (modern) |  |
-| ☊ North Node | ♉ Taurus 19°16′ | 1 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 19°16′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 1°49′ | Aries | 1 | 0.975°/d |  |  |
+| ☽ Moon | ♉ Taurus 21°05′ | Aries | 1 | 11.866°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 7°41′ | Pisces | 12 | 0.387°/d |  |  |
+| ♀ Venus | ♈ Aries 6°12′ | Pisces | 12 | R -0.121°/d | detriment |  |
+| ♂ Mars | ♉ Taurus 26°57′ | Taurus | 1 | 0.699°/d | detriment |  |
+| ♃ Jupiter | ♒ Aquarius 14°07′ | Capricornus | 10 | 0.126°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 26°36′ | Libra | 7 | R -0.064°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 17°31′ | Ophiuchus | 8 | R -0.024°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 3°33′ | Sagittarius | 9 | R -0.009°/d (stationary) |  |  |
+| ♇ Pluto | ♏ Scorpio 3°27′ | Virgo | 7 | R -0.028°/d | domicile (modern) |  |
+| ☊ North Node | ♉ Taurus 19°16′ | Aries | 1 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 19°16′ | Libra | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

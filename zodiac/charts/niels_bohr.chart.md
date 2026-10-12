@@ -7,20 +7,20 @@ Born 1885-10-07 (gregorian calendar), Copenhagen, Ved Stranden 14 — the birth 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 13°53′ | 1 | 0.988°/d | fall |  |
-| ☽ Moon | ♍ Virgo 26°59′ | 12 | 14.000°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♎ Libra 6°52′ | 1 | 1.774°/d |  |  |
-| ♀ Venus | ♏ Scorpio 23°20′ | 2 | 1.184°/d | detriment |  |
-| ♂ Mars | ♌ Leo 12°02′ | 11 | 0.583°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 22°22′ | 12 | 0.209°/d | detriment |  |
-| ♄ Saturn | ♋ Cancer 8°12′ | 10 | 0.025°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 3°49′ | 1 | 0.062°/d |  |  |
-| ♆ Neptune | ♉ Taurus 25°11′ | 8 | R -0.020°/d |  |  |
-| ♇ Pluto | ♊ Gemini 2°56′ | 9 | R -0.011°/d |  |  |
-| ☊ North Node | ♍ Virgo 24°28′ | 12 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 24°28′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 13°53′ | Virgo | 1 | 0.988°/d | fall |  |
+| ☽ Moon | ♍ Virgo 26°59′ | Virgo | 12 | 14.000°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♎ Libra 6°52′ | Virgo | 1 | 1.774°/d |  |  |
+| ♀ Venus | ♏ Scorpio 23°20′ | Libra | 2 | 1.184°/d | detriment |  |
+| ♂ Mars | ♌ Leo 12°02′ | Cancer | 11 | 0.583°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 22°22′ | Leo | 12 | 0.209°/d | detriment |  |
+| ♄ Saturn | ♋ Cancer 8°12′ | Gemini | 10 | 0.025°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 3°49′ | Virgo | 1 | 0.062°/d |  |  |
+| ♆ Neptune | ♉ Taurus 25°11′ | Taurus | 8 | R -0.020°/d |  |  |
+| ♇ Pluto | ♊ Gemini 2°56′ | Taurus | 9 | R -0.011°/d |  |  |
+| ☊ North Node | ♍ Virgo 24°28′ | Virgo | 12 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 24°28′ | Pisces | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

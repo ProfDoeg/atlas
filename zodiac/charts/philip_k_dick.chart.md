@@ -7,20 +7,20 @@ Born 1929-01-26 (gregorian calendar), Riverside Cemetery, Fort Morgan: the stone
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 5°35′ | 1 | 1.016°/d | detriment |  |
-| ☽ Moon | ♌ Leo 15°09′ | 7 | 14.558°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 23°27′ | 1 | 0.566°/d |  |  |
-| ♀ Venus | ♓ Pisces 21°55′ | 2 | 1.085°/d | exaltation |  |
-| ♂ Mars | ♊ Gemini 20°59′ | 5 | R -0.019°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 2°14′ | 4 | 0.100°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 26°18′ | 11 | 0.100°/d |  |  |
-| ♅ Uranus | ♈ Aries 4°24′ | 3 | 0.035°/d |  |  |
-| ♆ Neptune | ♍ Virgo 0°45′ | 8 | R -0.025°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 16°58′ | 6 | R -0.020°/d |  |  |
-| ☊ North Node | ♉ Taurus 26°57′ | 4 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 26°57′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 5°35′ | Capricornus | 1 | 1.016°/d | detriment |  |
+| ☽ Moon | ♌ Leo 15°09′ | Cancer | 7 | 14.558°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 23°27′ | Capricornus | 1 | 0.566°/d |  |  |
+| ♀ Venus | ♓ Pisces 21°55′ | Pisces | 2 | 1.085°/d | exaltation |  |
+| ♂ Mars | ♊ Gemini 20°59′ | Taurus | 5 | R -0.019°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 2°14′ | Aries | 4 | 0.100°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 26°18′ | Ophiuchus | 11 | 0.100°/d |  |  |
+| ♅ Uranus | ♈ Aries 4°24′ | Pisces | 3 | 0.035°/d |  |  |
+| ♆ Neptune | ♍ Virgo 0°45′ | Leo | 8 | R -0.025°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 16°58′ | Gemini | 6 | R -0.020°/d |  |  |
+| ☊ North Node | ♉ Taurus 26°57′ | Taurus | 4 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 26°57′ | Libra | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

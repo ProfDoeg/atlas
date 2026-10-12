@@ -7,20 +7,20 @@ Born 1882-03-03 (gregorian calendar), Lugo, the five given names (lat 44.4180, l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 12°21′ | 1 | 1.002°/d |  |  |
-| ☽ Moon | ♌ Leo 20°16′ | 6 | 11.862°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 26°05′ | 12 | R -0.499°/d |  |  |
-| ♀ Venus | ♓ Pisces 14°48′ | 1 | 1.249°/d | exaltation |  |
-| ♂ Mars | ♋ Cancer 1°16′ | 5 | 0.280°/d | fall |  |
-| ♃ Jupiter | ♉ Taurus 20°28′ | 3 | 0.150°/d |  |  |
-| ♄ Saturn | ♉ Taurus 8°00′ | 3 | 0.091°/d |  |  |
-| ♅ Uranus | ♍ Virgo 16°30′ | 7 | R -0.044°/d |  |  |
-| ♆ Neptune | ♉ Taurus 14°11′ | 3 | 0.021°/d |  |  |
-| ♇ Pluto | ♉ Taurus 27°27′ | 3 | 0.008°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 4°03′ | 10 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 4°03′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 12°21′ | Aquarius | 1 | 1.002°/d |  |  |
+| ☽ Moon | ♌ Leo 20°16′ | Leo | 6 | 11.862°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 26°05′ | Capricornus | 12 | R -0.499°/d |  |  |
+| ♀ Venus | ♓ Pisces 14°48′ | Aquarius | 1 | 1.249°/d | exaltation |  |
+| ♂ Mars | ♋ Cancer 1°16′ | Gemini | 5 | 0.280°/d | fall |  |
+| ♃ Jupiter | ♉ Taurus 20°28′ | Aries | 3 | 0.150°/d |  |  |
+| ♄ Saturn | ♉ Taurus 8°00′ | Aries | 3 | 0.091°/d |  |  |
+| ♅ Uranus | ♍ Virgo 16°30′ | Leo | 7 | R -0.044°/d |  |  |
+| ♆ Neptune | ♉ Taurus 14°11′ | Aries | 3 | 0.021°/d |  |  |
+| ♇ Pluto | ♉ Taurus 27°27′ | Taurus | 3 | 0.008°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 4°03′ | Scorpius | 10 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 4°03′ | Taurus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

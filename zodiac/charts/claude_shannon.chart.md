@@ -7,20 +7,20 @@ Born 1916-04-30 (gregorian calendar), Petoskey, the birth (lat 45.3733, lng -84.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 9°19′ | 1 | 0.971°/d |  |  |
-| ☽ Moon | ♈ Aries 12°51′ | 12 | 13.074°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 25°24′ | 1 | 1.798°/d |  |  |
-| ♀ Venus | ♊ Gemini 24°44′ | 2 | 0.926°/d |  |  |
-| ♂ Mars | ♌ Leo 18°02′ | 4 | 0.348°/d |  |  |
-| ♃ Jupiter | ♈ Aries 18°19′ | 12 | 0.233°/d |  |  |
-| ♄ Saturn | ♋ Cancer 11°48′ | 3 | 0.082°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 19°30′ | 10 | 0.020°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 0°03′ | 4 | 0.011°/d |  |  |
-| ♇ Pluto | ♋ Cancer 1°39′ | 3 | 0.016°/d |  |  |
-| ☊ North Node | ♒ Aquarius 3°24′ | 10 | mean node |  |  |
-| ☋ South Node | ♌ Leo 3°24′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 9°19′ | Aries | 1 | 0.971°/d |  |  |
+| ☽ Moon | ♈ Aries 12°51′ | Pisces | 12 | 13.074°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 25°24′ | Taurus | 1 | 1.798°/d |  |  |
+| ♀ Venus | ♊ Gemini 24°44′ | Taurus | 2 | 0.926°/d |  |  |
+| ♂ Mars | ♌ Leo 18°02′ | Cancer | 4 | 0.348°/d |  |  |
+| ♃ Jupiter | ♈ Aries 18°19′ | Pisces | 12 | 0.233°/d |  |  |
+| ♄ Saturn | ♋ Cancer 11°48′ | Gemini | 3 | 0.082°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 19°30′ | Capricornus | 10 | 0.020°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 0°03′ | Cancer | 4 | 0.011°/d |  |  |
+| ♇ Pluto | ♋ Cancer 1°39′ | Gemini | 3 | 0.016°/d |  |  |
+| ☊ North Node | ♒ Aquarius 3°24′ | Capricornus | 10 | mean node |  |  |
+| ☋ South Node | ♌ Leo 3°24′ | Cancer | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

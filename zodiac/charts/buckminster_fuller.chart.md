@@ -7,20 +7,20 @@ Born 1895-07-12 (gregorian calendar), Milton, Massachusetts, the birth house (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 19°22′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♓ Pisces 14°45′ | 9 | 11.788°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 5°12′ | 1 | R -0.067°/d |  |  |
-| ♀ Venus | ♍ Virgo 4°52′ | 3 | 0.950°/d | fall |  |
-| ♂ Mars | ♌ Leo 19°20′ | 2 | 0.621°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 18°16′ | 1 | 0.225°/d | exaltation |  |
-| ♄ Saturn | ♏ Scorpio 0°42′ | 5 | 0.013°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 15°45′ | 5 | R -0.011°/d |  |  |
-| ♆ Neptune | ♊ Gemini 16°48′ | 12 | 0.033°/d |  |  |
-| ♇ Pluto | ♊ Gemini 12°09′ | 12 | 0.019°/d |  |  |
-| ☊ North Node | ♓ Pisces 15°41′ | 9 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 15°41′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 19°22′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♓ Pisces 14°45′ | Aquarius | 9 | 11.788°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 5°12′ | Gemini | 1 | R -0.067°/d |  |  |
+| ♀ Venus | ♍ Virgo 4°52′ | Leo | 3 | 0.950°/d | fall |  |
+| ♂ Mars | ♌ Leo 19°20′ | Leo | 2 | 0.621°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 18°16′ | Gemini | 1 | 0.225°/d | exaltation |  |
+| ♄ Saturn | ♏ Scorpio 0°42′ | Virgo | 5 | 0.013°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 15°45′ | Libra | 5 | R -0.011°/d |  |  |
+| ♆ Neptune | ♊ Gemini 16°48′ | Taurus | 12 | 0.033°/d |  |  |
+| ♇ Pluto | ♊ Gemini 12°09′ | Taurus | 12 | 0.019°/d |  |  |
+| ☊ North Node | ♓ Pisces 15°41′ | Aquarius | 9 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 15°41′ | Leo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

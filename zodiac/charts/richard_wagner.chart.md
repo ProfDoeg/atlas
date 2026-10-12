@@ -7,20 +7,20 @@ Born 1813-05-22 (gregorian calendar), Leipzig, the Bruhl: the ninth child (lat 5
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 0°28′ | 1 | 0.961°/d |  |  |
-| ☽ Moon | ♒ Aquarius 14°24′ | 9 | 12.749°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 5°26′ | 12 | 1.117°/d |  |  |
-| ♀ Venus | ♉ Taurus 29°33′ | 12 | 1.230°/d | domicile |  |
-| ♂ Mars | ♒ Aquarius 3°49′ | 9 | 0.388°/d |  |  |
-| ♃ Jupiter | ♌ Leo 3°38′ | 3 | 0.149°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 18°34′ | 8 | R -0.036°/d | domicile |  |
-| ♅ Uranus | ♏ Scorpio 25°34′ | 6 | R -0.042°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 14°35′ | 7 | R -0.026°/d |  |  |
-| ♇ Pluto | ♓ Pisces 20°33′ | 10 | 0.011°/d |  |  |
-| ☊ North Node | ♌ Leo 14°21′ | 3 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 14°21′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 0°28′ | Taurus | 1 | 0.961°/d |  |  |
+| ☽ Moon | ♒ Aquarius 14°24′ | Capricornus | 9 | 12.749°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 5°26′ | Aries | 12 | 1.117°/d |  |  |
+| ♀ Venus | ♉ Taurus 29°33′ | Taurus | 12 | 1.230°/d | domicile |  |
+| ♂ Mars | ♒ Aquarius 3°49′ | Capricornus | 9 | 0.388°/d |  |  |
+| ♃ Jupiter | ♌ Leo 3°38′ | Cancer | 3 | 0.149°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 18°34′ | Sagittarius | 8 | R -0.036°/d | domicile |  |
+| ♅ Uranus | ♏ Scorpio 25°34′ | Libra | 6 | R -0.042°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 14°35′ | Ophiuchus | 7 | R -0.026°/d |  |  |
+| ♇ Pluto | ♓ Pisces 20°33′ | Aquarius | 10 | 0.011°/d |  |  |
+| ☊ North Node | ♌ Leo 14°21′ | Cancer | 3 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 14°21′ | Capricornus | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

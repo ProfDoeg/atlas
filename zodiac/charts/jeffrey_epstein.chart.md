@@ -7,20 +7,20 @@ Born 1953-01-20 (gregorian calendar), Brooklyn, the birth at the edge of the bor
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 29°39′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♈ Aries 0°31′ | 4 | 14.403°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♑ Capricornus 20°37′ | 1 | 1.591°/d |  |  |
-| ♀ Venus | ♓ Pisces 16°10′ | 3 | 1.082°/d | exaltation |  |
-| ♂ Mars | ♓ Pisces 15°28′ | 3 | 0.767°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 11°20′ | 5 | 0.050°/d |  |  |
-| ♄ Saturn | ♎ Libra 27°12′ | 10 | 0.029°/d | exaltation |  |
-| ♅ Uranus | ♋ Cancer 15°53′ | 7 | R -0.042°/d |  |  |
-| ♆ Neptune | ♎ Libra 23°57′ | 10 | 0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♌ Leo 22°37′ | 8 | R -0.022°/d |  |  |
-| ☊ North Node | ♒ Aquarius 13°04′ | 2 | mean node |  |  |
-| ☋ South Node | ♌ Leo 13°04′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 29°39′ | Sagittarius | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♈ Aries 0°31′ | Pisces | 4 | 14.403°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♑ Capricornus 20°37′ | Sagittarius | 1 | 1.591°/d |  |  |
+| ♀ Venus | ♓ Pisces 16°10′ | Aquarius | 3 | 1.082°/d | exaltation |  |
+| ♂ Mars | ♓ Pisces 15°28′ | Aquarius | 3 | 0.767°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 11°20′ | Aries | 5 | 0.050°/d |  |  |
+| ♄ Saturn | ♎ Libra 27°12′ | Virgo | 10 | 0.029°/d | exaltation |  |
+| ♅ Uranus | ♋ Cancer 15°53′ | Gemini | 7 | R -0.042°/d |  |  |
+| ♆ Neptune | ♎ Libra 23°57′ | Virgo | 10 | 0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♌ Leo 22°37′ | Leo | 8 | R -0.022°/d |  |  |
+| ☊ North Node | ♒ Aquarius 13°04′ | Capricornus | 2 | mean node |  |  |
+| ☋ South Node | ♌ Leo 13°04′ | Cancer | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

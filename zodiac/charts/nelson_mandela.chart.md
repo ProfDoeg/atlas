@@ -7,20 +7,20 @@ Born 1918-07-18 (gregorian calendar), Mvezo, the birth on the Mbashe (lat -31.95
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 24°33′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♏ Scorpio 13°42′ | 5 | 12.141°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 15°16′ | 2 | 1.628°/d |  |  |
-| ♀ Venus | ♊ Gemini 21°57′ | 12 | 1.185°/d |  |  |
-| ♂ Mars | ♎ Libra 12°17′ | 4 | 0.548°/d | detriment |  |
-| ♃ Jupiter | ♋ Cancer 1°04′ | 1 | 0.219°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 15°05′ | 2 | 0.123°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 27°00′ | 8 | R -0.032°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 6°26′ | 2 | 0.036°/d |  |  |
-| ♇ Pluto | ♋ Cancer 5°34′ | 1 | 0.024°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 20°33′ | 6 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 20°33′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 24°33′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♏ Scorpio 13°42′ | Libra | 5 | 12.141°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 15°16′ | Cancer | 2 | 1.628°/d |  |  |
+| ♀ Venus | ♊ Gemini 21°57′ | Taurus | 12 | 1.185°/d |  |  |
+| ♂ Mars | ♎ Libra 12°17′ | Virgo | 4 | 0.548°/d | detriment |  |
+| ♃ Jupiter | ♋ Cancer 1°04′ | Gemini | 1 | 0.219°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 15°05′ | Cancer | 2 | 0.123°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 27°00′ | Capricornus | 8 | R -0.032°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 6°26′ | Cancer | 2 | 0.036°/d |  |  |
+| ♇ Pluto | ♋ Cancer 5°34′ | Gemini | 1 | 0.024°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 20°33′ | Ophiuchus | 6 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 20°33′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

@@ -7,20 +7,20 @@ Born 1772-06-19 (gregorian calendar), Bonn, Judengasse: the birth (lat 50.7350, 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 28°07′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♒ Aquarius 12°10′ | 9 | 12.637°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 5°50′ | 1 | 1.166°/d | domicile |  |
-| ♀ Venus | ♌ Leo 12°28′ | 3 | 0.810°/d |  |  |
-| ♂ Mars | ♉ Taurus 10°32′ | 12 | 0.727°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 2°39′ | 10 | 0.006°/d (stationary) | domicile |  |
-| ♄ Saturn | ♌ Leo 25°36′ | 3 | 0.087°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 22°03′ | 12 | 0.049°/d |  |  |
-| ♆ Neptune | ♍ Virgo 13°39′ | 4 | 0.014°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 20°40′ | 8 | R -0.022°/d |  |  |
-| ☊ North Node | ♎ Libra 25°48′ | 5 | mean node |  |  |
-| ☋ South Node | ♈ Aries 25°48′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 28°07′ | Taurus | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♒ Aquarius 12°10′ | Capricornus | 9 | 12.637°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 5°50′ | Taurus | 1 | 1.166°/d | domicile |  |
+| ♀ Venus | ♌ Leo 12°28′ | Cancer | 3 | 0.810°/d |  |  |
+| ♂ Mars | ♉ Taurus 10°32′ | Aries | 12 | 0.727°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 2°39′ | Aquarius | 10 | 0.006°/d (stationary) | domicile |  |
+| ♄ Saturn | ♌ Leo 25°36′ | Leo | 3 | 0.087°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 22°03′ | Aries | 12 | 0.049°/d |  |  |
+| ♆ Neptune | ♍ Virgo 13°39′ | Leo | 4 | 0.014°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 20°40′ | Sagittarius | 8 | R -0.022°/d |  |  |
+| ☊ North Node | ♎ Libra 25°48′ | Virgo | 5 | mean node |  |  |
+| ☋ South Node | ♈ Aries 25°48′ | Pisces | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

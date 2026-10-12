@@ -7,20 +7,20 @@ Born 1975-05-25 (gregorian calendar), Jesus Maria, the eldest of four (lat -12.0
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 3°11′ | 1 | 0.961°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 0°05′ | 7 | 13.746°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♊ Gemini 22°45′ | 1 | 0.366°/d | domicile |  |
-| ♀ Venus | ♋ Cancer 16°48′ | 2 | 1.084°/d |  |  |
-| ♂ Mars | ♈ Aries 2°45′ | 11 | 0.750°/d | domicile |  |
-| ♃ Jupiter | ♈ Aries 15°22′ | 11 | 0.199°/d |  |  |
-| ♄ Saturn | ♋ Cancer 16°16′ | 2 | 0.107°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 28°56′ | 5 | R -0.033°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 10°39′ | 7 | R -0.027°/d |  |  |
-| ♇ Pluto | ♎ Libra 6°41′ | 5 | R -0.012°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 0°58′ | 7 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 0°58′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 3°11′ | Taurus | 1 | 0.961°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 0°05′ | Libra | 7 | 13.746°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♊ Gemini 22°45′ | Taurus | 1 | 0.366°/d | domicile |  |
+| ♀ Venus | ♋ Cancer 16°48′ | Gemini | 2 | 1.084°/d |  |  |
+| ♂ Mars | ♈ Aries 2°45′ | Pisces | 11 | 0.750°/d | domicile |  |
+| ♃ Jupiter | ♈ Aries 15°22′ | Pisces | 11 | 0.199°/d |  |  |
+| ♄ Saturn | ♋ Cancer 16°16′ | Gemini | 2 | 0.107°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 28°56′ | Virgo | 5 | R -0.033°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 10°39′ | Ophiuchus | 7 | R -0.027°/d |  |  |
+| ♇ Pluto | ♎ Libra 6°41′ | Virgo | 5 | R -0.012°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 0°58′ | Libra | 7 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 0°58′ | Taurus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

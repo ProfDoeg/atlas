@@ -7,20 +7,20 @@ Born 1951-08-26 (gregorian calendar), Baltimore, the birth in a physicist's hous
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 1°58′ | 1 | 0.965°/d |  |  |
-| ☽ Moon | ♊ Gemini 19°15′ | 10 | 11.898°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 11°50′ | 1 | R -0.761°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 15°12′ | 1 | R -0.476°/d | fall |  |
-| ♂ Mars | ♌ Leo 4°51′ | 12 | 0.641°/d |  |  |
-| ♃ Jupiter | ♈ Aries 13°26′ | 8 | R -0.070°/d |  |  |
-| ♄ Saturn | ♎ Libra 1°27′ | 2 | 0.113°/d | exaltation |  |
-| ♅ Uranus | ♋ Cancer 12°39′ | 11 | 0.044°/d |  |  |
-| ♆ Neptune | ♎ Libra 17°42′ | 2 | 0.028°/d |  |  |
-| ♇ Pluto | ♌ Leo 19°57′ | 12 | 0.031°/d |  |  |
-| ☊ North Node | ♓ Pisces 10°14′ | 7 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 10°14′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 1°58′ | Leo | 1 | 0.965°/d |  |  |
+| ☽ Moon | ♊ Gemini 19°15′ | Taurus | 10 | 11.898°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 11°50′ | Leo | 1 | R -0.761°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 15°12′ | Leo | 1 | R -0.476°/d | fall |  |
+| ♂ Mars | ♌ Leo 4°51′ | Cancer | 12 | 0.641°/d |  |  |
+| ♃ Jupiter | ♈ Aries 13°26′ | Pisces | 8 | R -0.070°/d |  |  |
+| ♄ Saturn | ♎ Libra 1°27′ | Virgo | 2 | 0.113°/d | exaltation |  |
+| ♅ Uranus | ♋ Cancer 12°39′ | Gemini | 11 | 0.044°/d |  |  |
+| ♆ Neptune | ♎ Libra 17°42′ | Virgo | 2 | 0.028°/d |  |  |
+| ♇ Pluto | ♌ Leo 19°57′ | Leo | 12 | 0.031°/d |  |  |
+| ☊ North Node | ♓ Pisces 10°14′ | Aquarius | 7 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 10°14′ | Leo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

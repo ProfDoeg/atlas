@@ -7,20 +7,20 @@ Born 1869-08-20 (gregorian calendar), Barracas, birth by the Riachuelo (lat -34.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 26°58′ | 1 | 0.963°/d | domicile |  |
-| ☽ Moon | ♒ Aquarius 2°34′ | 7 | 12.304°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♍ Virgo 4°43′ | 2 | 1.870°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 24°28′ | 2 | 1.215°/d | fall |  |
-| ♂ Mars | ♎ Libra 19°33′ | 3 | 0.639°/d | detriment |  |
-| ♃ Jupiter | ♉ Taurus 20°28′ | 10 | 0.067°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 10°22′ | 5 | 0.009°/d (stationary) |  |  |
-| ♅ Uranus | ♋ Cancer 19°58′ | 12 | 0.051°/d |  |  |
-| ♆ Neptune | ♈ Aries 19°22′ | 9 | R -0.014°/d |  |  |
-| ♇ Pluto | ♉ Taurus 18°02′ | 10 | R -0.001°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♌ Leo 6°28′ | 1 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 6°28′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 26°58′ | Leo | 1 | 0.963°/d | domicile |  |
+| ☽ Moon | ♒ Aquarius 2°34′ | Capricornus | 7 | 12.304°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♍ Virgo 4°43′ | Leo | 2 | 1.870°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 24°28′ | Virgo | 2 | 1.215°/d | fall |  |
+| ♂ Mars | ♎ Libra 19°33′ | Virgo | 3 | 0.639°/d | detriment |  |
+| ♃ Jupiter | ♉ Taurus 20°28′ | Aries | 10 | 0.067°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 10°22′ | Ophiuchus | 5 | 0.009°/d (stationary) |  |  |
+| ♅ Uranus | ♋ Cancer 19°58′ | Gemini | 12 | 0.051°/d |  |  |
+| ♆ Neptune | ♈ Aries 19°22′ | Pisces | 9 | R -0.014°/d |  |  |
+| ♇ Pluto | ♉ Taurus 18°02′ | Aries | 10 | R -0.001°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♌ Leo 6°28′ | Cancer | 1 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 6°28′ | Capricornus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

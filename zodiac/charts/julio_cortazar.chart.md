@@ -7,20 +7,20 @@ Born 1914-08-26 (gregorian calendar), Avenue Louis Lepoutre 116, Ixelles, the bi
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 1°55′ | 1 | 0.965°/d |  |  |
-| ☽ Moon | ♏ Scorpio 2°35′ | 3 | 14.471°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♌ Leo 27°08′ | 12 | 1.994°/d |  |  |
-| ♀ Venus | ♎ Libra 16°49′ | 2 | 1.081°/d | domicile |  |
-| ♂ Mars | ♎ Libra 7°17′ | 2 | 0.643°/d | detriment |  |
-| ♃ Jupiter | ♒ Aquarius 15°23′ | 6 | R -0.120°/d |  |  |
-| ♄ Saturn | ♋ Cancer 0°11′ | 11 | 0.083°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 8°47′ | 6 | R -0.036°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 29°17′ | 11 | 0.032°/d |  |  |
-| ♇ Pluto | ♋ Cancer 2°00′ | 11 | 0.014°/d |  |  |
-| ☊ North Node | ♓ Pisces 5°51′ | 7 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 5°51′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 1°55′ | Leo | 1 | 0.965°/d |  |  |
+| ☽ Moon | ♏ Scorpio 2°35′ | Virgo | 3 | 14.471°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♌ Leo 27°08′ | Leo | 12 | 1.994°/d |  |  |
+| ♀ Venus | ♎ Libra 16°49′ | Virgo | 2 | 1.081°/d | domicile |  |
+| ♂ Mars | ♎ Libra 7°17′ | Virgo | 2 | 0.643°/d | detriment |  |
+| ♃ Jupiter | ♒ Aquarius 15°23′ | Capricornus | 6 | R -0.120°/d |  |  |
+| ♄ Saturn | ♋ Cancer 0°11′ | Taurus | 11 | 0.083°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 8°47′ | Capricornus | 6 | R -0.036°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 29°17′ | Cancer | 11 | 0.032°/d |  |  |
+| ♇ Pluto | ♋ Cancer 2°00′ | Gemini | 11 | 0.014°/d |  |  |
+| ☊ North Node | ♓ Pisces 5°51′ | Aquarius | 7 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 5°51′ | Leo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

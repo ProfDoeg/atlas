@@ -7,20 +7,20 @@ Born 1928-03-20 (gregorian calendar), 705 Main Street, Latrobe, the birth (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 29°09′ | 1 | 0.993°/d |  |  |
-| ☽ Moon | ♓ Pisces 3°57′ | 1 | 14.254°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♓ Pisces 1°33′ | 1 | 0.870°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 2°18′ | 1 | 1.228°/d | exaltation |  |
-| ♂ Mars | ♒ Aquarius 15°46′ | 12 | 0.764°/d |  |  |
-| ♃ Jupiter | ♈ Aries 12°28′ | 2 | 0.239°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 18°57′ | 10 | 0.014°/d |  |  |
-| ♅ Uranus | ♈ Aries 3°15′ | 2 | 0.057°/d |  |  |
-| ♆ Neptune | ♌ Leo 27°04′ | 6 | R -0.023°/d |  |  |
-| ♇ Pluto | ♋ Cancer 15°03′ | 5 | R -0.004°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 13°28′ | 4 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 13°28′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 29°09′ | Pisces | 1 | 0.993°/d |  |  |
+| ☽ Moon | ♓ Pisces 3°57′ | Aquarius | 1 | 14.254°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♓ Pisces 1°33′ | Aquarius | 1 | 0.870°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 2°18′ | Aquarius | 1 | 1.228°/d | exaltation |  |
+| ♂ Mars | ♒ Aquarius 15°46′ | Capricornus | 12 | 0.764°/d |  |  |
+| ♃ Jupiter | ♈ Aries 12°28′ | Pisces | 2 | 0.239°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 18°57′ | Ophiuchus | 10 | 0.014°/d |  |  |
+| ♅ Uranus | ♈ Aries 3°15′ | Pisces | 2 | 0.057°/d |  |  |
+| ♆ Neptune | ♌ Leo 27°04′ | Leo | 6 | R -0.023°/d |  |  |
+| ♇ Pluto | ♋ Cancer 15°03′ | Gemini | 5 | R -0.004°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 13°28′ | Taurus | 4 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 13°28′ | Ophiuchus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

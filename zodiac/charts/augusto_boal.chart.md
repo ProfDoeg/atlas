@@ -7,20 +7,20 @@ Born 1931-03-16 (gregorian calendar), Penha, Rio de Janeiro: the birth (lat -22.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 24°27′ | 1 | 0.996°/d |  |  |
-| ☽ Moon | ♒ Aquarius 18°26′ | 12 | 11.888°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 24°27′ | 1 | 1.958°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 11°35′ | 12 | 1.156°/d |  |  |
-| ♂ Mars | ♋ Cancer 27°45′ | 5 | 0.087°/d | fall |  |
-| ♃ Jupiter | ♋ Cancer 10°37′ | 5 | 0.028°/d | exaltation |  |
-| ♄ Saturn | ♑ Capricornus 21°13′ | 11 | 0.073°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 14°15′ | 2 | 0.055°/d |  |  |
-| ♆ Neptune | ♍ Virgo 3°57′ | 7 | R -0.026°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 18°47′ | 5 | R -0.007°/d (stationary) |  |  |
-| ☊ North Node | ♈ Aries 15°42′ | 2 | mean node |  |  |
-| ☋ South Node | ♎ Libra 15°42′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 24°27′ | Pisces | 1 | 0.996°/d |  |  |
+| ☽ Moon | ♒ Aquarius 18°26′ | Capricornus | 12 | 11.888°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 24°27′ | Pisces | 1 | 1.958°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 11°35′ | Capricornus | 12 | 1.156°/d |  |  |
+| ♂ Mars | ♋ Cancer 27°45′ | Gemini | 5 | 0.087°/d | fall |  |
+| ♃ Jupiter | ♋ Cancer 10°37′ | Gemini | 5 | 0.028°/d | exaltation |  |
+| ♄ Saturn | ♑ Capricornus 21°13′ | Sagittarius | 11 | 0.073°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 14°15′ | Pisces | 2 | 0.055°/d |  |  |
+| ♆ Neptune | ♍ Virgo 3°57′ | Leo | 7 | R -0.026°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 18°47′ | Gemini | 5 | R -0.007°/d (stationary) |  |  |
+| ☊ North Node | ♈ Aries 15°42′ | Pisces | 2 | mean node |  |  |
+| ☋ South Node | ♎ Libra 15°42′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

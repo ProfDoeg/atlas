@@ -7,20 +7,20 @@ Born 2025-04-24 (gregorian calendar), San Francisco, the question of what it is 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 4°05′ | 1 | 0.974°/d |  |  |
-| ☽ Moon | ♓ Pisces 11°03′ | 11 | 14.209°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 6°56′ | 12 | 1.085°/d |  |  |
-| ♀ Venus | ♓ Pisces 26°51′ | 11 | 0.381°/d | exaltation |  |
-| ♂ Mars | ♌ Leo 2°28′ | 4 | 0.435°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 20°00′ | 2 | 0.192°/d | detriment |  |
-| ♄ Saturn | ♓ Pisces 27°03′ | 11 | 0.107°/d |  |  |
-| ♅ Uranus | ♉ Taurus 26°02′ | 1 | 0.055°/d |  |  |
-| ♆ Neptune | ♈ Aries 0°51′ | 12 | 0.033°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 3°49′ | 10 | 0.005°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 25°31′ | 11 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 25°31′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 4°05′ | Aries | 1 | 0.974°/d |  |  |
+| ☽ Moon | ♓ Pisces 11°03′ | Aquarius | 11 | 14.209°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 6°56′ | Pisces | 12 | 1.085°/d |  |  |
+| ♀ Venus | ♓ Pisces 26°51′ | Pisces | 11 | 0.381°/d | exaltation |  |
+| ♂ Mars | ♌ Leo 2°28′ | Cancer | 4 | 0.435°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 20°00′ | Taurus | 2 | 0.192°/d | detriment |  |
+| ♄ Saturn | ♓ Pisces 27°03′ | Pisces | 11 | 0.107°/d |  |  |
+| ♅ Uranus | ♉ Taurus 26°02′ | Taurus | 1 | 0.055°/d |  |  |
+| ♆ Neptune | ♈ Aries 0°51′ | Pisces | 12 | 0.033°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 3°49′ | Capricornus | 10 | 0.005°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 25°31′ | Pisces | 11 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 25°31′ | Virgo | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1561-01-22 (julian calendar), York House, the Strand — birth (lat 51.5081
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 12°00′ | 1 | 1.013°/d | detriment |  |
-| ☽ Moon | ♈ Aries 25°30′ | 3 | 11.946°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♒ Aquarius 6°24′ | 1 | R -1.150°/d |  |  |
-| ♀ Venus | ♓ Pisces 8°50′ | 2 | 1.237°/d | exaltation |  |
-| ♂ Mars | ♐ Sagittarius 6°18′ | 11 | 0.641°/d |  |  |
-| ♃ Jupiter | ♈ Aries 19°19′ | 3 | 0.156°/d |  |  |
-| ♄ Saturn | ♊ Gemini 14°08′ | 5 | R -0.024°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 24°15′ | 10 | 0.024°/d |  |  |
-| ♆ Neptune | ♉ Taurus 28°23′ | 4 | R -0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♓ Pisces 9°47′ | 2 | 0.024°/d |  |  |
-| ☊ North Node | ♓ Pisces 4°08′ | 2 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 4°08′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 12°00′ | Capricornus | 1 | 1.013°/d | detriment |  |
+| ☽ Moon | ♈ Aries 25°30′ | Pisces | 3 | 11.946°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♒ Aquarius 6°24′ | Capricornus | 1 | R -1.150°/d |  |  |
+| ♀ Venus | ♓ Pisces 8°50′ | Aquarius | 2 | 1.237°/d | exaltation |  |
+| ♂ Mars | ♐ Sagittarius 6°18′ | Scorpius | 11 | 0.641°/d |  |  |
+| ♃ Jupiter | ♈ Aries 19°19′ | Pisces | 3 | 0.156°/d |  |  |
+| ♄ Saturn | ♊ Gemini 14°08′ | Taurus | 5 | R -0.024°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 24°15′ | Libra | 10 | 0.024°/d |  |  |
+| ♆ Neptune | ♉ Taurus 28°23′ | Taurus | 4 | R -0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♓ Pisces 9°47′ | Aquarius | 2 | 0.024°/d |  |  |
+| ☊ North Node | ♓ Pisces 4°08′ | Aquarius | 2 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 4°08′ | Leo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

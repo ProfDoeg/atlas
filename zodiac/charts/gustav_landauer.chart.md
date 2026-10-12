@@ -7,20 +7,20 @@ Born 1870-04-07 (gregorian calendar), Karlsruhe, the shoe merchant's third son (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 16°59′ | 1 | 0.982°/d | exaltation |  |
-| ☽ Moon | ♊ Gemini 21°48′ | 3 | 12.221°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 9°55′ | 1 | 1.969°/d |  |  |
-| ♀ Venus | ♓ Pisces 4°48′ | 12 | 0.642°/d | exaltation |  |
-| ♂ Mars | ♈ Aries 11°35′ | 1 | 0.768°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 22°48′ | 2 | 0.213°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 28°18′ | 9 | 0.000°/d (stationary) |  |  |
-| ♅ Uranus | ♋ Cancer 17°52′ | 4 | 0.011°/d |  |  |
-| ♆ Neptune | ♈ Aries 19°09′ | 1 | 0.038°/d |  |  |
-| ♇ Pluto | ♉ Taurus 16°49′ | 2 | 0.020°/d | detriment (modern) |  |
-| ☊ North Node | ♋ Cancer 24°17′ | 4 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 24°17′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 16°59′ | Pisces | 1 | 0.982°/d | exaltation |  |
+| ☽ Moon | ♊ Gemini 21°48′ | Taurus | 3 | 12.221°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 9°55′ | Pisces | 1 | 1.969°/d |  |  |
+| ♀ Venus | ♓ Pisces 4°48′ | Aquarius | 12 | 0.642°/d | exaltation |  |
+| ♂ Mars | ♈ Aries 11°35′ | Pisces | 1 | 0.768°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 22°48′ | Aries | 2 | 0.213°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 28°18′ | Sagittarius | 9 | 0.000°/d (stationary) |  |  |
+| ♅ Uranus | ♋ Cancer 17°52′ | Gemini | 4 | 0.011°/d |  |  |
+| ♆ Neptune | ♈ Aries 19°09′ | Pisces | 1 | 0.038°/d |  |  |
+| ♇ Pluto | ♉ Taurus 16°49′ | Aries | 2 | 0.020°/d | detriment (modern) |  |
+| ☊ North Node | ♋ Cancer 24°17′ | Gemini | 4 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 24°17′ | Sagittarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

@@ -7,20 +7,20 @@ Born 1860-05-09 (gregorian calendar), Kirriemuir, birth on Brechin Road (lat 56.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 18°33′ | 1 | 0.966°/d |  |  |
-| ☽ Moon | ♑ Capricornus 5°29′ | 9 | 12.886°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♈ Aries 23°27′ | 12 | 1.329°/d |  |  |
-| ♀ Venus | ♋ Cancer 3°57′ | 3 | 0.972°/d |  |  |
-| ♂ Mars | ♑ Capricornus 22°10′ | 9 | 0.371°/d | exaltation |  |
-| ♃ Jupiter | ♋ Cancer 20°12′ | 3 | 0.154°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 19°35′ | 4 | 0.033°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 6°41′ | 2 | 0.057°/d |  |  |
-| ♆ Neptune | ♓ Pisces 28°36′ | 11 | 0.027°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 8°16′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 5°59′ | 10 | mean node |  |  |
-| ☋ South Node | ♌ Leo 5°59′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 18°33′ | Aries | 1 | 0.966°/d |  |  |
+| ☽ Moon | ♑ Capricornus 5°29′ | Sagittarius | 9 | 12.886°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♈ Aries 23°27′ | Pisces | 12 | 1.329°/d |  |  |
+| ♀ Venus | ♋ Cancer 3°57′ | Gemini | 3 | 0.972°/d |  |  |
+| ♂ Mars | ♑ Capricornus 22°10′ | Sagittarius | 9 | 0.371°/d | exaltation |  |
+| ♃ Jupiter | ♋ Cancer 20°12′ | Gemini | 3 | 0.154°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 19°35′ | Leo | 4 | 0.033°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 6°41′ | Taurus | 2 | 0.057°/d |  |  |
+| ♆ Neptune | ♓ Pisces 28°36′ | Pisces | 11 | 0.027°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 8°16′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 5°59′ | Capricornus | 10 | mean node |  |  |
+| ☋ South Node | ♌ Leo 5°59′ | Cancer | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

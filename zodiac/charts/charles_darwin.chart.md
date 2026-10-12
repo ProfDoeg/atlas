@@ -7,20 +7,20 @@ Born 1809-02-12 (gregorian calendar), The Mount, Shrewsbury: the birth (lat 52.7
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 22°56′ | 1 | 1.010°/d | detriment |  |
-| ☽ Moon | ♑ Capricornus 19°36′ | 12 | 14.091°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 9°32′ | 2 | 1.511°/d | detriment, fall |  |
-| ♀ Venus | ♈ Aries 6°52′ | 3 | 1.139°/d | detriment |  |
-| ♂ Mars | ♎ Libra 25°22′ | 9 | 0.194°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 22°08′ | 2 | 0.227°/d | domicile |  |
-| ♄ Saturn | ♐ Sagittarius 2°53′ | 11 | 0.048°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 9°26′ | 10 | 0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♐ Sagittarius 6°41′ | 11 | 0.014°/d |  |  |
-| ♇ Pluto | ♓ Pisces 13°39′ | 2 | 0.025°/d |  |  |
-| ☊ North Node | ♏ Scorpio 6°58′ | 10 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 6°58′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 22°56′ | Capricornus | 1 | 1.010°/d | detriment |  |
+| ☽ Moon | ♑ Capricornus 19°36′ | Sagittarius | 12 | 14.091°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 9°32′ | Aquarius | 2 | 1.511°/d | detriment, fall |  |
+| ♀ Venus | ♈ Aries 6°52′ | Pisces | 3 | 1.139°/d | detriment |  |
+| ♂ Mars | ♎ Libra 25°22′ | Virgo | 9 | 0.194°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 22°08′ | Pisces | 2 | 0.227°/d | domicile |  |
+| ♄ Saturn | ♐ Sagittarius 2°53′ | Scorpius | 11 | 0.048°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 9°26′ | Libra | 10 | 0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♐ Sagittarius 6°41′ | Scorpius | 11 | 0.014°/d |  |  |
+| ♇ Pluto | ♓ Pisces 13°39′ | Aquarius | 2 | 0.025°/d |  |  |
+| ☊ North Node | ♏ Scorpio 6°58′ | Virgo | 10 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 6°58′ | Aries | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

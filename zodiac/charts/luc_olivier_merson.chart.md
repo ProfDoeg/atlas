@@ -7,20 +7,20 @@ Born 1846-05-21 (gregorian calendar), Paris, the birth in the old twelfth arrond
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 29°32′ | 1 | 0.961°/d |  |  |
-| ☽ Moon | ♈ Aries 7°46′ | 12 | 13.719°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 4°27′ | 1 | 1.159°/d |  |  |
-| ♀ Venus | ♈ Aries 13°48′ | 12 | 1.018°/d | detriment |  |
-| ♂ Mars | ♋ Cancer 6°03′ | 3 | 0.635°/d | fall |  |
-| ♃ Jupiter | ♉ Taurus 25°02′ | 1 | 0.236°/d |  |  |
-| ♄ Saturn | ♓ Pisces 0°18′ | 11 | 0.034°/d |  |  |
-| ♅ Uranus | ♈ Aries 12°59′ | 12 | 0.043°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 28°06′ | 10 | 0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♈ Aries 25°15′ | 12 | 0.020°/d |  |  |
-| ☊ North Node | ♏ Scorpio 6°09′ | 7 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 6°09′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 29°32′ | Taurus | 1 | 0.961°/d |  |  |
+| ☽ Moon | ♈ Aries 7°46′ | Pisces | 12 | 13.719°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 4°27′ | Aries | 1 | 1.159°/d |  |  |
+| ♀ Venus | ♈ Aries 13°48′ | Pisces | 12 | 1.018°/d | detriment |  |
+| ♂ Mars | ♋ Cancer 6°03′ | Gemini | 3 | 0.635°/d | fall |  |
+| ♃ Jupiter | ♉ Taurus 25°02′ | Taurus | 1 | 0.236°/d |  |  |
+| ♄ Saturn | ♓ Pisces 0°18′ | Aquarius | 11 | 0.034°/d |  |  |
+| ♅ Uranus | ♈ Aries 12°59′ | Pisces | 12 | 0.043°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 28°06′ | Aquarius | 10 | 0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♈ Aries 25°15′ | Pisces | 12 | 0.020°/d |  |  |
+| ☊ North Node | ♏ Scorpio 6°09′ | Virgo | 7 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 6°09′ | Aries | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

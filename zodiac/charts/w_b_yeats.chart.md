@@ -7,20 +7,20 @@ Born 1865-06-13 (gregorian calendar), Sandymount, Georgeville: the birth of a pa
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 21°57′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♒ Aquarius 6°30′ | 9 | 13.721°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♊ Gemini 2°22′ | 1 | 1.637°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 12°54′ | 12 | 0.470°/d | domicile |  |
-| ♂ Mars | ♌ Leo 11°28′ | 3 | 0.594°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 24°29′ | 7 | R -0.128°/d | domicile |  |
-| ♄ Saturn | ♎ Libra 23°45′ | 5 | R -0.022°/d | exaltation |  |
-| ♅ Uranus | ♊ Gemini 29°08′ | 1 | 0.059°/d |  |  |
-| ♆ Neptune | ♈ Aries 10°19′ | 11 | 0.016°/d |  |  |
-| ♇ Pluto | ♉ Taurus 13°38′ | 12 | 0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♎ Libra 27°26′ | 5 | mean node |  |  |
-| ☋ South Node | ♈ Aries 27°26′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 21°57′ | Taurus | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♒ Aquarius 6°30′ | Capricornus | 9 | 13.721°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♊ Gemini 2°22′ | Taurus | 1 | 1.637°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 12°54′ | Aries | 12 | 0.470°/d | domicile |  |
+| ♂ Mars | ♌ Leo 11°28′ | Cancer | 3 | 0.594°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 24°29′ | Ophiuchus | 7 | R -0.128°/d | domicile |  |
+| ♄ Saturn | ♎ Libra 23°45′ | Virgo | 5 | R -0.022°/d | exaltation |  |
+| ♅ Uranus | ♊ Gemini 29°08′ | Taurus | 1 | 0.059°/d |  |  |
+| ♆ Neptune | ♈ Aries 10°19′ | Pisces | 11 | 0.016°/d |  |  |
+| ♇ Pluto | ♉ Taurus 13°38′ | Aries | 12 | 0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♎ Libra 27°26′ | Virgo | 5 | mean node |  |  |
+| ☋ South Node | ♈ Aries 27°26′ | Pisces | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

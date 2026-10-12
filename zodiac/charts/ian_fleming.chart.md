@@ -7,20 +7,20 @@ Born 1908-05-28 (gregorian calendar), 27 Green Street, Mayfair, the second son (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 6°15′ | 1 | 0.959°/d |  |  |
-| ☽ Moon | ♉ Taurus 10°22′ | 12 | 13.346°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 26°42′ | 1 | 1.567°/d | domicile |  |
-| ♀ Venus | ♋ Cancer 16°35′ | 2 | 0.549°/d |  |  |
-| ♂ Mars | ♋ Cancer 3°31′ | 2 | 0.649°/d | fall |  |
-| ♃ Jupiter | ♌ Leo 8°24′ | 3 | 0.150°/d |  |  |
-| ♄ Saturn | ♈ Aries 7°36′ | 11 | 0.084°/d | fall |  |
-| ♅ Uranus | ♑ Capricornus 16°22′ | 8 | R -0.028°/d |  |  |
-| ♆ Neptune | ♋ Cancer 13°15′ | 2 | 0.031°/d |  |  |
-| ♇ Pluto | ♊ Gemini 23°54′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♋ Cancer 6°38′ | 2 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 6°38′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 6°15′ | Taurus | 1 | 0.959°/d |  |  |
+| ☽ Moon | ♉ Taurus 10°22′ | Aries | 12 | 13.346°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 26°42′ | Taurus | 1 | 1.567°/d | domicile |  |
+| ♀ Venus | ♋ Cancer 16°35′ | Gemini | 2 | 0.549°/d |  |  |
+| ♂ Mars | ♋ Cancer 3°31′ | Gemini | 2 | 0.649°/d | fall |  |
+| ♃ Jupiter | ♌ Leo 8°24′ | Cancer | 3 | 0.150°/d |  |  |
+| ♄ Saturn | ♈ Aries 7°36′ | Pisces | 11 | 0.084°/d | fall |  |
+| ♅ Uranus | ♑ Capricornus 16°22′ | Sagittarius | 8 | R -0.028°/d |  |  |
+| ♆ Neptune | ♋ Cancer 13°15′ | Gemini | 2 | 0.031°/d |  |  |
+| ♇ Pluto | ♊ Gemini 23°54′ | Taurus | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♋ Cancer 6°38′ | Gemini | 2 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 6°38′ | Sagittarius | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

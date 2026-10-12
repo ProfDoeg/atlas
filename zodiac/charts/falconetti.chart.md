@@ -7,20 +7,20 @@ Born 1892-07-21 (gregorian calendar), Pantin, the birth at the gates of Paris (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 28°39′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♊ Gemini 20°20′ | 12 | 14.040°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 24°20′ | 2 | 1.303°/d |  |  |
-| ♀ Venus | ♋ Cancer 11°46′ | 1 | R -0.404°/d |  |  |
-| ♂ Mars | ♒ Aquarius 15°38′ | 8 | R -0.189°/d |  |  |
-| ♃ Jupiter | ♈ Aries 24°01′ | 10 | 0.076°/d |  |  |
-| ♄ Saturn | ♍ Virgo 26°00′ | 3 | 0.085°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 1°49′ | 5 | 0.010°/d |  |  |
-| ♆ Neptune | ♊ Gemini 10°34′ | 12 | 0.027°/d |  |  |
-| ♇ Pluto | ♊ Gemini 9°27′ | 12 | 0.016°/d |  |  |
-| ☊ North Node | ♉ Taurus 13°11′ | 11 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 13°11′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 28°39′ | Cancer | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♊ Gemini 20°20′ | Taurus | 12 | 14.040°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 24°20′ | Leo | 2 | 1.303°/d |  |  |
+| ♀ Venus | ♋ Cancer 11°46′ | Gemini | 1 | R -0.404°/d |  |  |
+| ♂ Mars | ♒ Aquarius 15°38′ | Capricornus | 8 | R -0.189°/d |  |  |
+| ♃ Jupiter | ♈ Aries 24°01′ | Pisces | 10 | 0.076°/d |  |  |
+| ♄ Saturn | ♍ Virgo 26°00′ | Virgo | 3 | 0.085°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 1°49′ | Virgo | 5 | 0.010°/d |  |  |
+| ♆ Neptune | ♊ Gemini 10°34′ | Taurus | 12 | 0.027°/d |  |  |
+| ♇ Pluto | ♊ Gemini 9°27′ | Taurus | 12 | 0.016°/d |  |  |
+| ☊ North Node | ♉ Taurus 13°11′ | Aries | 11 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 13°11′ | Libra | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

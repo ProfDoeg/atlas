@@ -7,20 +7,20 @@ Born 1918-10-03 (gregorian calendar), Velp, birth five weeks before the Armistic
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 8°58′ | 1 | 0.985°/d | fall |  |
-| ☽ Moon | ♍ Virgo 15°42′ | 12 | 11.997°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 29°20′ | 12 | 1.788°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 25°45′ | 12 | 1.245°/d | fall |  |
-| ♂ Mars | ♐ Sagittarius 1°10′ | 3 | 0.705°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 14°15′ | 10 | 0.097°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 24°29′ | 11 | 0.103°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 24°16′ | 5 | R -0.025°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 8°57′ | 11 | 0.022°/d |  |  |
-| ♇ Pluto | ♋ Cancer 6°41′ | 10 | 0.002°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 16°29′ | 3 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 16°29′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 8°58′ | Virgo | 1 | 0.985°/d | fall |  |
+| ☽ Moon | ♍ Virgo 15°42′ | Leo | 12 | 11.997°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 29°20′ | Virgo | 12 | 1.788°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 25°45′ | Virgo | 12 | 1.245°/d | fall |  |
+| ♂ Mars | ♐ Sagittarius 1°10′ | Scorpius | 3 | 0.705°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 14°15′ | Gemini | 10 | 0.097°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 24°29′ | Leo | 11 | 0.103°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 24°16′ | Capricornus | 5 | R -0.025°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 8°57′ | Cancer | 11 | 0.022°/d |  |  |
+| ♇ Pluto | ♋ Cancer 6°41′ | Gemini | 10 | 0.002°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 16°29′ | Ophiuchus | 3 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 16°29′ | Taurus | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

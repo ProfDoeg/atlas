@@ -7,20 +7,20 @@ Born 1929-06-18 (gregorian calendar), Düsseldorf, the birth and the cleft palat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 26°16′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♏ Scorpio 10°26′ | 6 | 12.151°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 14°17′ | 1 | R -0.240°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 11°09′ | 12 | 0.855°/d | domicile |  |
-| ♂ Mars | ♌ Leo 20°18′ | 3 | 0.584°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 1°22′ | 1 | 0.224°/d | detriment |  |
-| ♄ Saturn | ♐ Sagittarius 27°08′ | 7 | R -0.074°/d |  |  |
-| ♅ Uranus | ♈ Aries 11°10′ | 11 | 0.023°/d |  |  |
-| ♆ Neptune | ♌ Leo 29°05′ | 3 | 0.020°/d |  |  |
-| ♇ Pluto | ♋ Cancer 17°23′ | 2 | 0.025°/d |  |  |
-| ☊ North Node | ♉ Taurus 19°22′ | 12 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 19°22′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 26°16′ | Taurus | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♏ Scorpio 10°26′ | Libra | 6 | 12.151°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 14°17′ | Taurus | 1 | R -0.240°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 11°09′ | Aries | 12 | 0.855°/d | domicile |  |
+| ♂ Mars | ♌ Leo 20°18′ | Leo | 3 | 0.584°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 1°22′ | Taurus | 1 | 0.224°/d | detriment |  |
+| ♄ Saturn | ♐ Sagittarius 27°08′ | Sagittarius | 7 | R -0.074°/d |  |  |
+| ♅ Uranus | ♈ Aries 11°10′ | Pisces | 11 | 0.023°/d |  |  |
+| ♆ Neptune | ♌ Leo 29°05′ | Leo | 3 | 0.020°/d |  |  |
+| ♇ Pluto | ♋ Cancer 17°23′ | Gemini | 2 | 0.025°/d |  |  |
+| ☊ North Node | ♉ Taurus 19°22′ | Aries | 12 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 19°22′ | Libra | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

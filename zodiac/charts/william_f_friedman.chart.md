@@ -7,20 +7,20 @@ Born 1891-09-24 (gregorian calendar), Kishinev, a birth under the residence laws
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 0°39′ | 1 | 0.980°/d | fall |  |
-| ☽ Moon | ♊ Gemini 18°58′ | 9 | 13.290°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 14°29′ | 12 | 0.261°/d | domicile, exaltation |  |
-| ♀ Venus | ♎ Libra 2°05′ | 1 | 1.247°/d | domicile |  |
-| ♂ Mars | ♍ Virgo 12°17′ | 12 | 0.634°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 10°47′ | 6 | R -0.117°/d | domicile |  |
-| ♄ Saturn | ♍ Virgo 21°52′ | 12 | 0.124°/d |  |  |
-| ♅ Uranus | ♎ Libra 29°39′ | 1 | 0.057°/d |  |  |
-| ♆ Neptune | ♊ Gemini 9°03′ | 9 | R -0.007°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 8°51′ | 9 | R -0.005°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 29°08′ | 8 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 29°08′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 0°39′ | Virgo | 1 | 0.980°/d | fall |  |
+| ☽ Moon | ♊ Gemini 18°58′ | Taurus | 9 | 13.290°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 14°29′ | Leo | 12 | 0.261°/d | domicile, exaltation |  |
+| ♀ Venus | ♎ Libra 2°05′ | Virgo | 1 | 1.247°/d | domicile |  |
+| ♂ Mars | ♍ Virgo 12°17′ | Leo | 12 | 0.634°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 10°47′ | Aquarius | 6 | R -0.117°/d | domicile |  |
+| ♄ Saturn | ♍ Virgo 21°52′ | Leo | 12 | 0.124°/d |  |  |
+| ♅ Uranus | ♎ Libra 29°39′ | Virgo | 1 | 0.057°/d |  |  |
+| ♆ Neptune | ♊ Gemini 9°03′ | Taurus | 9 | R -0.007°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 8°51′ | Taurus | 9 | R -0.005°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 29°08′ | Taurus | 8 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 29°08′ | Libra | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

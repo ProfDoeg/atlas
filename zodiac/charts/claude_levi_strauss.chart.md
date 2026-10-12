@@ -7,20 +7,20 @@ Born 1908-11-28 (gregorian calendar), Brussels, the birth of a French son in Bel
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 5°23′ | 1 | 1.013°/d |  |  |
-| ☽ Moon | ♑ Capricornus 27°16′ | 2 | 14.022°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♏ Scorpio 21°11′ | 12 | 1.522°/d |  |  |
-| ♀ Venus | ♎ Libra 29°28′ | 11 | 1.219°/d | domicile |  |
-| ♂ Mars | ♏ Scorpio 1°35′ | 12 | 0.653°/d | domicile |  |
-| ♃ Jupiter | ♍ Virgo 12°54′ | 10 | 0.097°/d | detriment |  |
-| ♄ Saturn | ♈ Aries 3°20′ | 5 | R -0.016°/d | fall |  |
-| ♅ Uranus | ♑ Capricornus 14°42′ | 2 | 0.049°/d |  |  |
-| ♆ Neptune | ♋ Cancer 16°47′ | 8 | R -0.020°/d |  |  |
-| ♇ Pluto | ♊ Gemini 25°14′ | 7 | R -0.018°/d |  |  |
-| ☊ North Node | ♊ Gemini 26°54′ | 7 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 26°54′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 5°23′ | Scorpius | 1 | 1.013°/d |  |  |
+| ☽ Moon | ♑ Capricornus 27°16′ | Sagittarius | 2 | 14.022°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♏ Scorpio 21°11′ | Libra | 12 | 1.522°/d |  |  |
+| ♀ Venus | ♎ Libra 29°28′ | Virgo | 11 | 1.219°/d | domicile |  |
+| ♂ Mars | ♏ Scorpio 1°35′ | Virgo | 12 | 0.653°/d | domicile |  |
+| ♃ Jupiter | ♍ Virgo 12°54′ | Leo | 10 | 0.097°/d | detriment |  |
+| ♄ Saturn | ♈ Aries 3°20′ | Pisces | 5 | R -0.016°/d | fall |  |
+| ♅ Uranus | ♑ Capricornus 14°42′ | Sagittarius | 2 | 0.049°/d |  |  |
+| ♆ Neptune | ♋ Cancer 16°47′ | Gemini | 8 | R -0.020°/d |  |  |
+| ♇ Pluto | ♊ Gemini 25°14′ | Taurus | 7 | R -0.018°/d |  |  |
+| ☊ North Node | ♊ Gemini 26°54′ | Taurus | 7 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 26°54′ | Sagittarius | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

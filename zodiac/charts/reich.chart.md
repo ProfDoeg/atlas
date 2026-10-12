@@ -7,20 +7,20 @@ Born 1897-03-24 (gregorian calendar), Dobrzanica (Dobrianychi), Galicia (lat 49.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 3°38′ | 1 | 0.990°/d | exaltation |  |
-| ☽ Moon | ♐ Sagittarius 14°08′ | 9 | 14.250°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 24°42′ | 12 | 1.871°/d | detriment, fall |  |
-| ♀ Venus | ♉ Taurus 13°10′ | 2 | 0.486°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 0°54′ | 4 | 0.467°/d | fall |  |
-| ♃ Jupiter | ♍ Virgo 1°51′ | 6 | R -0.096°/d | detriment |  |
-| ♄ Saturn | ♐ Sagittarius 0°38′ | 9 | R -0.024°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 28°42′ | 8 | R -0.018°/d |  |  |
-| ♆ Neptune | ♊ Gemini 17°42′ | 3 | 0.015°/d |  |  |
-| ♇ Pluto | ♊ Gemini 11°55′ | 3 | 0.010°/d |  |  |
-| ☊ North Node | ♒ Aquarius 12°48′ | 11 | mean node |  |  |
-| ☋ South Node | ♌ Leo 12°48′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 3°38′ | Pisces | 1 | 0.990°/d | exaltation |  |
+| ☽ Moon | ♐ Sagittarius 14°08′ | Ophiuchus | 9 | 14.250°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 24°42′ | Pisces | 12 | 1.871°/d | detriment, fall |  |
+| ♀ Venus | ♉ Taurus 13°10′ | Aries | 2 | 0.486°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 0°54′ | Gemini | 4 | 0.467°/d | fall |  |
+| ♃ Jupiter | ♍ Virgo 1°51′ | Leo | 6 | R -0.096°/d | detriment |  |
+| ♄ Saturn | ♐ Sagittarius 0°38′ | Libra | 9 | R -0.024°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 28°42′ | Libra | 8 | R -0.018°/d |  |  |
+| ♆ Neptune | ♊ Gemini 17°42′ | Taurus | 3 | 0.015°/d |  |  |
+| ♇ Pluto | ♊ Gemini 11°55′ | Taurus | 3 | 0.010°/d |  |  |
+| ☊ North Node | ♒ Aquarius 12°48′ | Capricornus | 11 | mean node |  |  |
+| ☋ South Node | ♌ Leo 12°48′ | Cancer | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

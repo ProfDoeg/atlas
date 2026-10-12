@@ -7,20 +7,20 @@ Born 1978-01-25 (gregorian calendar), Kryvyi Rih, the birth in the iron city (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 4°40′ | 1 | 1.017°/d | detriment |  |
-| ☽ Moon | ♌ Leo 12°07′ | 7 | 12.193°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 14°18′ | 12 | 1.398°/d |  |  |
-| ♀ Venus | ♒ Aquarius 5°20′ | 1 | 1.257°/d |  |  |
-| ♂ Mars | ♌ Leo 0°24′ | 7 | R -0.395°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 27°13′ | 5 | R -0.084°/d | detriment |  |
-| ♄ Saturn | ♌ Leo 28°58′ | 7 | R -0.070°/d | detriment |  |
-| ♅ Uranus | ♏ Scorpio 15°59′ | 10 | 0.023°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 17°33′ | 11 | 0.028°/d |  |  |
-| ♇ Pluto | ♎ Libra 16°45′ | 9 | R -0.004°/d (stationary) |  |  |
-| ☊ North Node | ♎ Libra 9°17′ | 9 | mean node |  |  |
-| ☋ South Node | ♈ Aries 9°17′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 4°40′ | Capricornus | 1 | 1.017°/d | detriment |  |
+| ☽ Moon | ♌ Leo 12°07′ | Cancer | 7 | 12.193°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 14°18′ | Sagittarius | 12 | 1.398°/d |  |  |
+| ♀ Venus | ♒ Aquarius 5°20′ | Capricornus | 1 | 1.257°/d |  |  |
+| ♂ Mars | ♌ Leo 0°24′ | Cancer | 7 | R -0.395°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 27°13′ | Taurus | 5 | R -0.084°/d | detriment |  |
+| ♄ Saturn | ♌ Leo 28°58′ | Leo | 7 | R -0.070°/d | detriment |  |
+| ♅ Uranus | ♏ Scorpio 15°59′ | Libra | 10 | 0.023°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 17°33′ | Ophiuchus | 11 | 0.028°/d |  |  |
+| ♇ Pluto | ♎ Libra 16°45′ | Virgo | 9 | R -0.004°/d (stationary) |  |  |
+| ☊ North Node | ♎ Libra 9°17′ | Virgo | 9 | mean node |  |  |
+| ☋ South Node | ♈ Aries 9°17′ | Pisces | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

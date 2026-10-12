@@ -7,20 +7,20 @@ Born 1883-12-09 (gregorian calendar), Mönchengladbach, birth in a gymnast's hou
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 16°37′ | 1 | 1.016°/d |  |  |
-| ☽ Moon | ♈ Aries 6°03′ | 5 | 14.138°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♐ Sagittarius 23°40′ | 1 | 1.568°/d | detriment |  |
-| ♀ Venus | ♑ Capricornus 6°24′ | 2 | 1.250°/d |  |  |
-| ♂ Mars | ♌ Leo 20°41′ | 9 | 0.168°/d |  |  |
-| ♃ Jupiter | ♌ Leo 4°00′ | 9 | R -0.058°/d |  |  |
-| ♄ Saturn | ♊ Gemini 5°42′ | 7 | R -0.080°/d |  |  |
-| ♅ Uranus | ♍ Virgo 27°39′ | 10 | 0.023°/d |  |  |
-| ♆ Neptune | ♉ Taurus 18°57′ | 6 | R -0.024°/d |  |  |
-| ♇ Pluto | ♉ Taurus 29°57′ | 6 | R -0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♎ Libra 29°50′ | 11 | mean node |  |  |
-| ☋ South Node | ♈ Aries 29°50′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 16°37′ | Ophiuchus | 1 | 1.016°/d |  |  |
+| ☽ Moon | ♈ Aries 6°03′ | Pisces | 5 | 14.138°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♐ Sagittarius 23°40′ | Ophiuchus | 1 | 1.568°/d | detriment |  |
+| ♀ Venus | ♑ Capricornus 6°24′ | Sagittarius | 2 | 1.250°/d |  |  |
+| ♂ Mars | ♌ Leo 20°41′ | Leo | 9 | 0.168°/d |  |  |
+| ♃ Jupiter | ♌ Leo 4°00′ | Cancer | 9 | R -0.058°/d |  |  |
+| ♄ Saturn | ♊ Gemini 5°42′ | Taurus | 7 | R -0.080°/d |  |  |
+| ♅ Uranus | ♍ Virgo 27°39′ | Virgo | 10 | 0.023°/d |  |  |
+| ♆ Neptune | ♉ Taurus 18°57′ | Aries | 6 | R -0.024°/d |  |  |
+| ♇ Pluto | ♉ Taurus 29°57′ | Taurus | 6 | R -0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♎ Libra 29°50′ | Virgo | 11 | mean node |  |  |
+| ☋ South Node | ♈ Aries 29°50′ | Aries | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

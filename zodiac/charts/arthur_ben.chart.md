@@ -7,20 +7,20 @@ Born 1947-08-28 (gregorian calendar), All Saints' Chapel, Sewanee: the birth on 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 3°52′ | 1 | 0.966°/d |  |  |
-| ☽ Moon | ♑ Capricornus 22°56′ | 5 | 11.859°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 2°45′ | 1 | 1.969°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 2°04′ | 1 | 1.239°/d | fall |  |
-| ♂ Mars | ♋ Cancer 9°09′ | 11 | 0.639°/d | fall |  |
-| ♃ Jupiter | ♏ Scorpio 20°23′ | 3 | 0.118°/d |  |  |
-| ♄ Saturn | ♌ Leo 15°17′ | 12 | 0.124°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 25°38′ | 10 | 0.030°/d |  |  |
-| ♆ Neptune | ♎ Libra 9°18′ | 2 | 0.032°/d |  |  |
-| ♇ Pluto | ♌ Leo 13°40′ | 12 | 0.028°/d |  |  |
-| ☊ North Node | ♉ Taurus 27°30′ | 9 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 27°30′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 3°52′ | Leo | 1 | 0.966°/d |  |  |
+| ☽ Moon | ♑ Capricornus 22°56′ | Sagittarius | 5 | 11.859°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 2°45′ | Leo | 1 | 1.969°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 2°04′ | Leo | 1 | 1.239°/d | fall |  |
+| ♂ Mars | ♋ Cancer 9°09′ | Gemini | 11 | 0.639°/d | fall |  |
+| ♃ Jupiter | ♏ Scorpio 20°23′ | Libra | 3 | 0.118°/d |  |  |
+| ♄ Saturn | ♌ Leo 15°17′ | Cancer | 12 | 0.124°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 25°38′ | Taurus | 10 | 0.030°/d |  |  |
+| ♆ Neptune | ♎ Libra 9°18′ | Virgo | 2 | 0.032°/d |  |  |
+| ♇ Pluto | ♌ Leo 13°40′ | Cancer | 12 | 0.028°/d |  |  |
+| ☊ North Node | ♉ Taurus 27°30′ | Taurus | 9 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 27°30′ | Libra | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

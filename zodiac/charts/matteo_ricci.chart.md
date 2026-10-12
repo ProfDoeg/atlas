@@ -8,20 +8,20 @@ Born 1552-10-06 (gregorian (proleptic) calendar), Macerata, the apothecary's son
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 12°34′ | 1 | 0.990°/d | fall |  |
-| ☽ Moon | ♑ Capricornus 22°40′ | 4 | 13.700°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 4°51′ | 2 | 1.312°/d |  |  |
-| ♀ Venus | ♎ Libra 10°31′ | 1 | 1.251°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 26°39′ | 10 | 0.538°/d | fall |  |
-| ♃ Jupiter | ♌ Leo 26°54′ | 11 | 0.182°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 27°53′ | 5 | R -0.042°/d | domicile |  |
-| ♅ Uranus | ♎ Libra 13°05′ | 1 | 0.063°/d |  |  |
-| ♆ Neptune | ♉ Taurus 12°32′ | 8 | R -0.024°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 28°52′ | 5 | R -0.014°/d |  |  |
-| ☊ North Node | ♌ Leo 15°07′ | 11 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 15°07′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 12°34′ | Virgo | 1 | 0.990°/d | fall |  |
+| ☽ Moon | ♑ Capricornus 22°40′ | Sagittarius | 4 | 13.700°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 4°51′ | Virgo | 2 | 1.312°/d |  |  |
+| ♀ Venus | ♎ Libra 10°31′ | Virgo | 1 | 1.251°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 26°39′ | Gemini | 10 | 0.538°/d | fall |  |
+| ♃ Jupiter | ♌ Leo 26°54′ | Leo | 11 | 0.182°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 27°53′ | Capricornus | 5 | R -0.042°/d | domicile |  |
+| ♅ Uranus | ♎ Libra 13°05′ | Virgo | 1 | 0.063°/d |  |  |
+| ♆ Neptune | ♉ Taurus 12°32′ | Aries | 8 | R -0.024°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 28°52′ | Aquarius | 5 | R -0.014°/d |  |  |
+| ☊ North Node | ♌ Leo 15°07′ | Cancer | 11 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 15°07′ | Capricornus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

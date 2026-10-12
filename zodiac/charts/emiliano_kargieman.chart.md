@@ -7,20 +7,20 @@ Born 1975-05-07 (gregorian calendar), Buenos Aires, the birth (lat -34.6037, lng
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 15°50′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♓ Pisces 26°59′ | 11 | 11.976°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♊ Gemini 4°16′ | 2 | 1.629°/d | domicile |  |
-| ♀ Venus | ♊ Gemini 26°47′ | 2 | 1.137°/d |  |  |
-| ♂ Mars | ♓ Pisces 19°10′ | 11 | 0.758°/d |  |  |
-| ♃ Jupiter | ♈ Aries 11°35′ | 12 | 0.220°/d |  |  |
-| ♄ Saturn | ♋ Cancer 14°31′ | 3 | 0.087°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 29°36′ | 6 | R -0.040°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 11°06′ | 8 | R -0.024°/d |  |  |
-| ♇ Pluto | ♎ Libra 6°58′ | 6 | R -0.020°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 1°55′ | 8 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 1°55′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 15°50′ | Aries | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♓ Pisces 26°59′ | Pisces | 11 | 11.976°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♊ Gemini 4°16′ | Taurus | 2 | 1.629°/d | domicile |  |
+| ♀ Venus | ♊ Gemini 26°47′ | Taurus | 2 | 1.137°/d |  |  |
+| ♂ Mars | ♓ Pisces 19°10′ | Aquarius | 11 | 0.758°/d |  |  |
+| ♃ Jupiter | ♈ Aries 11°35′ | Pisces | 12 | 0.220°/d |  |  |
+| ♄ Saturn | ♋ Cancer 14°31′ | Gemini | 3 | 0.087°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 29°36′ | Virgo | 6 | R -0.040°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 11°06′ | Ophiuchus | 8 | R -0.024°/d |  |  |
+| ♇ Pluto | ♎ Libra 6°58′ | Virgo | 6 | R -0.020°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 1°55′ | Scorpius | 8 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 1°55′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1738-03-19 (gregorian calendar), Surimana, the birth in the province of Can
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 28°13′ | 1 | 0.992°/d |  |  |
-| ☽ Moon | ♓ Pisces 12°05′ | 1 | 12.669°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 3°06′ | 1 | 1.379°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 23°47′ | 1 | 1.244°/d | exaltation |  |
-| ♂ Mars | ♒ Aquarius 9°04′ | 12 | 0.754°/d |  |  |
-| ♃ Jupiter | ♈ Aries 4°28′ | 2 | 0.241°/d |  |  |
-| ♄ Saturn | ♊ Gemini 19°50′ | 4 | 0.051°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 6°01′ | 11 | 0.019°/d |  |  |
-| ♆ Neptune | ♊ Gemini 28°11′ | 4 | 0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♏ Scorpio 3°11′ | 9 | R -0.022°/d | domicile (modern) |  |
-| ☊ North Node | ♌ Leo 28°19′ | 6 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 28°19′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 28°13′ | Pisces | 1 | 0.992°/d |  |  |
+| ☽ Moon | ♓ Pisces 12°05′ | Aquarius | 1 | 12.669°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 3°06′ | Aquarius | 1 | 1.379°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 23°47′ | Pisces | 1 | 1.244°/d | exaltation |  |
+| ♂ Mars | ♒ Aquarius 9°04′ | Capricornus | 12 | 0.754°/d |  |  |
+| ♃ Jupiter | ♈ Aries 4°28′ | Pisces | 2 | 0.241°/d |  |  |
+| ♄ Saturn | ♊ Gemini 19°50′ | Taurus | 4 | 0.051°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 6°01′ | Sagittarius | 11 | 0.019°/d |  |  |
+| ♆ Neptune | ♊ Gemini 28°11′ | Taurus | 4 | 0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♏ Scorpio 3°11′ | Virgo | 9 | R -0.022°/d | domicile (modern) |  |
+| ☊ North Node | ♌ Leo 28°19′ | Leo | 6 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 28°19′ | Aquarius | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

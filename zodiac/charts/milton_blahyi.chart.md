@@ -7,20 +7,20 @@ Born 1971-09-30 (gregorian calendar), Monrovia, birth of the Krahn child (lat 6.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 6°11′ | 1 | 0.983°/d | fall |  |
-| ☽ Moon | ♒ Aquarius 4°12′ | 5 | 13.773°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♍ Virgo 29°18′ | 12 | 1.821°/d | domicile, exaltation |  |
-| ♀ Venus | ♎ Libra 15°08′ | 1 | 1.245°/d | domicile |  |
-| ♂ Mars | ♒ Aquarius 14°33′ | 5 | 0.256°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 2°43′ | 3 | 0.167°/d | domicile |  |
-| ♄ Saturn | ♊ Gemini 6°23′ | 9 | R -0.020°/d |  |  |
-| ♅ Uranus | ♎ Libra 13°17′ | 1 | 0.063°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 0°58′ | 3 | 0.025°/d |  |  |
-| ♇ Pluto | ♍ Virgo 29°51′ | 12 | 0.037°/d |  |  |
-| ☊ North Node | ♒ Aquarius 11°33′ | 5 | mean node |  |  |
-| ☋ South Node | ♌ Leo 11°33′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 6°11′ | Virgo | 1 | 0.983°/d | fall |  |
+| ☽ Moon | ♒ Aquarius 4°12′ | Capricornus | 5 | 13.773°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♍ Virgo 29°18′ | Virgo | 12 | 1.821°/d | domicile, exaltation |  |
+| ♀ Venus | ♎ Libra 15°08′ | Virgo | 1 | 1.245°/d | domicile |  |
+| ♂ Mars | ♒ Aquarius 14°33′ | Capricornus | 5 | 0.256°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 2°43′ | Scorpius | 3 | 0.167°/d | domicile |  |
+| ♄ Saturn | ♊ Gemini 6°23′ | Taurus | 9 | R -0.020°/d |  |  |
+| ♅ Uranus | ♎ Libra 13°17′ | Virgo | 1 | 0.063°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 0°58′ | Libra | 3 | 0.025°/d |  |  |
+| ♇ Pluto | ♍ Virgo 29°51′ | Virgo | 12 | 0.037°/d |  |  |
+| ☊ North Node | ♒ Aquarius 11°33′ | Capricornus | 5 | mean node |  |  |
+| ☋ South Node | ♌ Leo 11°33′ | Cancer | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

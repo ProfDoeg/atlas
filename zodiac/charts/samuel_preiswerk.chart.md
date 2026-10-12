@@ -7,20 +7,20 @@ Born 1799-09-19 (gregorian calendar), Rümlingen, born in the parsonage (lat 47.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 26°01′ | 1 | 0.978°/d |  |  |
-| ☽ Moon | ♉ Taurus 19°36′ | 9 | 11.787°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 12°15′ | 1 | R -0.163°/d | domicile, exaltation |  |
-| ♀ Venus | ♏ Scorpio 0°38′ | 3 | 0.266°/d | detriment |  |
-| ♂ Mars | ♍ Virgo 24°50′ | 1 | 0.645°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 29°56′ | 10 | 0.095°/d | detriment |  |
-| ♄ Saturn | ♌ Leo 6°55′ | 12 | 0.099°/d | detriment |  |
-| ♅ Uranus | ♍ Virgo 22°41′ | 1 | 0.063°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 13°10′ | 3 | 0.028°/d |  |  |
-| ♇ Pluto | ♓ Pisces 1°34′ | 7 | R -0.019°/d |  |  |
-| ☊ North Node | ♉ Taurus 8°45′ | 9 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 8°45′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 26°01′ | Virgo | 1 | 0.978°/d |  |  |
+| ☽ Moon | ♉ Taurus 19°36′ | Aries | 9 | 11.787°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 12°15′ | Leo | 1 | R -0.163°/d | domicile, exaltation |  |
+| ♀ Venus | ♏ Scorpio 0°38′ | Virgo | 3 | 0.266°/d | detriment |  |
+| ♂ Mars | ♍ Virgo 24°50′ | Virgo | 1 | 0.645°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 29°56′ | Taurus | 10 | 0.095°/d | detriment |  |
+| ♄ Saturn | ♌ Leo 6°55′ | Cancer | 12 | 0.099°/d | detriment |  |
+| ♅ Uranus | ♍ Virgo 22°41′ | Leo | 1 | 0.063°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 13°10′ | Libra | 3 | 0.028°/d |  |  |
+| ♇ Pluto | ♓ Pisces 1°34′ | Aquarius | 7 | R -0.019°/d |  |  |
+| ☊ North Node | ♉ Taurus 8°45′ | Aries | 9 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 8°45′ | Libra | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

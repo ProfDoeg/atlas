@@ -7,20 +7,20 @@ Born 1905-09-30 (gregorian calendar), Lyon, birthplace, on the thirtieth of Sept
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 6°10′ | 1 | 0.983°/d | fall |  |
-| ☽ Moon | ♎ Libra 21°33′ | 1 | 15.191°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 26°28′ | 12 | 1.800°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 3°26′ | 12 | 1.208°/d | fall |  |
-| ♂ Mars | ♐ Sagittarius 24°28′ | 3 | 0.680°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 6°28′ | 9 | R -0.014°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 26°52′ | 5 | R -0.049°/d | domicile |  |
-| ♅ Uranus | ♑ Capricornus 0°21′ | 4 | 0.018°/d |  |  |
-| ♆ Neptune | ♋ Cancer 10°26′ | 10 | 0.008°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 22°47′ | 9 | R -0.003°/d (stationary) |  |  |
-| ☊ North Node | ♌ Leo 28°04′ | 11 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 28°04′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 6°10′ | Virgo | 1 | 0.983°/d | fall |  |
+| ☽ Moon | ♎ Libra 21°33′ | Virgo | 1 | 15.191°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 26°28′ | Virgo | 12 | 1.800°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 3°26′ | Leo | 12 | 1.208°/d | fall |  |
+| ♂ Mars | ♐ Sagittarius 24°28′ | Ophiuchus | 3 | 0.680°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 6°28′ | Taurus | 9 | R -0.014°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 26°52′ | Capricornus | 5 | R -0.049°/d | domicile |  |
+| ♅ Uranus | ♑ Capricornus 0°21′ | Sagittarius | 4 | 0.018°/d |  |  |
+| ♆ Neptune | ♋ Cancer 10°26′ | Gemini | 10 | 0.008°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 22°47′ | Taurus | 9 | R -0.003°/d (stationary) |  |  |
+| ☊ North Node | ♌ Leo 28°04′ | Leo | 11 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 28°04′ | Aquarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

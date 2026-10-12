@@ -7,20 +7,20 @@ Born 1927-03-06 (gregorian calendar), Aracataca, born in the house of Colonel M�
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 14°26′ | 1 | 1.001°/d |  |  |
-| ☽ Moon | ♈ Aries 15°38′ | 2 | 15.071°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 27°18′ | 1 | R -0.257°/d | detriment, fall |  |
-| ♀ Venus | ♈ Aries 9°13′ | 2 | 1.233°/d | detriment |  |
-| ♂ Mars | ♊ Gemini 6°18′ | 4 | 0.538°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 11°06′ | 1 | 0.241°/d | domicile |  |
-| ♄ Saturn | ♐ Sagittarius 7°29′ | 10 | 0.020°/d |  |  |
-| ♅ Uranus | ♓ Pisces 28°40′ | 1 | 0.056°/d |  |  |
-| ♆ Neptune | ♌ Leo 25°11′ | 6 | R -0.026°/d |  |  |
-| ♇ Pluto | ♋ Cancer 13°55′ | 5 | R -0.009°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 3°35′ | 5 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 3°35′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 14°26′ | Aquarius | 1 | 1.001°/d |  |  |
+| ☽ Moon | ♈ Aries 15°38′ | Pisces | 2 | 15.071°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 27°18′ | Pisces | 1 | R -0.257°/d | detriment, fall |  |
+| ♀ Venus | ♈ Aries 9°13′ | Pisces | 2 | 1.233°/d | detriment |  |
+| ♂ Mars | ♊ Gemini 6°18′ | Taurus | 4 | 0.538°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 11°06′ | Aquarius | 1 | 0.241°/d | domicile |  |
+| ♄ Saturn | ♐ Sagittarius 7°29′ | Scorpius | 10 | 0.020°/d |  |  |
+| ♅ Uranus | ♓ Pisces 28°40′ | Pisces | 1 | 0.056°/d |  |  |
+| ♆ Neptune | ♌ Leo 25°11′ | Leo | 6 | R -0.026°/d |  |  |
+| ♇ Pluto | ♋ Cancer 13°55′ | Gemini | 5 | R -0.009°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 3°35′ | Gemini | 5 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 3°35′ | Sagittarius | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

@@ -7,20 +7,20 @@ Born 1842-12-17 (gregorian calendar), Nordfjordeid, birth at the parsonage (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 24°42′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♊ Gemini 15°01′ | 7 | 13.280°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 18°16′ | 1 | 1.559°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 28°14′ | 1 | R -0.600°/d |  |  |
-| ♂ Mars | ♎ Libra 23°18′ | 11 | 0.590°/d | detriment |  |
-| ♃ Jupiter | ♑ Capricornus 25°40′ | 2 | 0.219°/d | fall |  |
-| ♄ Saturn | ♑ Capricornus 14°08′ | 2 | 0.114°/d | domicile |  |
-| ♅ Uranus | ♓ Pisces 24°36′ | 4 | 0.011°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 17°08′ | 3 | 0.026°/d |  |  |
-| ♇ Pluto | ♈ Aries 20°03′ | 5 | R -0.006°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 12°24′ | 2 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 12°24′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 24°42′ | Ophiuchus | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♊ Gemini 15°01′ | Taurus | 7 | 13.280°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 18°16′ | Ophiuchus | 1 | 1.559°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 28°14′ | Sagittarius | 1 | R -0.600°/d |  |  |
+| ♂ Mars | ♎ Libra 23°18′ | Virgo | 11 | 0.590°/d | detriment |  |
+| ♃ Jupiter | ♑ Capricornus 25°40′ | Sagittarius | 2 | 0.219°/d | fall |  |
+| ♄ Saturn | ♑ Capricornus 14°08′ | Sagittarius | 2 | 0.114°/d | domicile |  |
+| ♅ Uranus | ♓ Pisces 24°36′ | Pisces | 4 | 0.011°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 17°08′ | Capricornus | 3 | 0.026°/d |  |  |
+| ♇ Pluto | ♈ Aries 20°03′ | Pisces | 5 | R -0.006°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 12°24′ | Sagittarius | 2 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 12°24′ | Gemini | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

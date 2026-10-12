@@ -7,20 +7,20 @@ Born 1892-05-29 (gregorian calendar), Sala Capriasca, the birth above the lake (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 8°03′ | 1 | 0.959°/d |  |  |
-| ☽ Moon | ♋ Cancer 15°02′ | 2 | 13.872°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 15°55′ | 12 | 1.505°/d |  |  |
-| ♀ Venus | ♋ Cancer 19°21′ | 2 | 0.605°/d |  |  |
-| ♂ Mars | ♒ Aquarius 9°33′ | 9 | 0.372°/d |  |  |
-| ♃ Jupiter | ♈ Aries 16°34′ | 11 | 0.192°/d |  |  |
-| ♄ Saturn | ♍ Virgo 23°28′ | 4 | 0.006°/d (stationary) |  |  |
-| ♅ Uranus | ♏ Scorpio 2°28′ | 6 | R -0.032°/d |  |  |
-| ♆ Neptune | ♊ Gemini 8°45′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 8°22′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♉ Taurus 16°00′ | 12 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 16°00′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 8°03′ | Taurus | 1 | 0.959°/d |  |  |
+| ☽ Moon | ♋ Cancer 15°02′ | Gemini | 2 | 13.872°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 15°55′ | Aries | 12 | 1.505°/d |  |  |
+| ♀ Venus | ♋ Cancer 19°21′ | Gemini | 2 | 0.605°/d |  |  |
+| ♂ Mars | ♒ Aquarius 9°33′ | Capricornus | 9 | 0.372°/d |  |  |
+| ♃ Jupiter | ♈ Aries 16°34′ | Pisces | 11 | 0.192°/d |  |  |
+| ♄ Saturn | ♍ Virgo 23°28′ | Leo | 4 | 0.006°/d (stationary) |  |  |
+| ♅ Uranus | ♏ Scorpio 2°28′ | Virgo | 6 | R -0.032°/d |  |  |
+| ♆ Neptune | ♊ Gemini 8°45′ | Taurus | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 8°22′ | Taurus | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♉ Taurus 16°00′ | Aries | 12 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 16°00′ | Libra | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

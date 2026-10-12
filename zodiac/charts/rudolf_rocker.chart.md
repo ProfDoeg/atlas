@@ -7,20 +7,20 @@ Born 1873-03-25 (gregorian calendar), Mainz, the lithographer's son (lat 49.9929
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 4°26′ | 1 | 0.990°/d | exaltation |  |
-| ☽ Moon | ♒ Aquarius 15°05′ | 11 | 14.738°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 20°49′ | 1 | 0.269°/d |  |  |
-| ♀ Venus | ♉ Taurus 16°27′ | 2 | 0.625°/d | domicile |  |
-| ♂ Mars | ♏ Scorpio 15°14′ | 8 | R -0.038°/d | domicile |  |
-| ♃ Jupiter | ♌ Leo 22°15′ | 5 | R -0.071°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 0°36′ | 11 | 0.072°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 1°43′ | 5 | R -0.013°/d | detriment (modern) |  |
-| ♆ Neptune | ♈ Aries 25°11′ | 1 | 0.036°/d |  |  |
-| ♇ Pluto | ♉ Taurus 19°21′ | 2 | 0.017°/d | detriment (modern) |  |
-| ☊ North Node | ♉ Taurus 26°56′ | 2 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 26°56′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 4°26′ | Pisces | 1 | 0.990°/d | exaltation |  |
+| ☽ Moon | ♒ Aquarius 15°05′ | Capricornus | 11 | 14.738°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 20°49′ | Pisces | 1 | 0.269°/d |  |  |
+| ♀ Venus | ♉ Taurus 16°27′ | Aries | 2 | 0.625°/d | domicile |  |
+| ♂ Mars | ♏ Scorpio 15°14′ | Libra | 8 | R -0.038°/d | domicile |  |
+| ♃ Jupiter | ♌ Leo 22°15′ | Leo | 5 | R -0.071°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 0°36′ | Capricornus | 11 | 0.072°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 1°43′ | Cancer | 5 | R -0.013°/d | detriment (modern) |  |
+| ♆ Neptune | ♈ Aries 25°11′ | Pisces | 1 | 0.036°/d |  |  |
+| ♇ Pluto | ♉ Taurus 19°21′ | Aries | 2 | 0.017°/d | detriment (modern) |  |
+| ☊ North Node | ♉ Taurus 26°56′ | Taurus | 2 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 26°56′ | Libra | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

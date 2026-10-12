@@ -7,20 +7,20 @@ Born 1861-05-07 (gregorian calendar), Jorasanko Thakur Bari, Calcutta: the young
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 16°23′ | 1 | 0.967°/d |  |  |
-| ☽ Moon | ♈ Aries 13°57′ | 12 | 11.852°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 0°00′ | 1 | 1.829°/d |  |  |
-| ♀ Venus | ♉ Taurus 15°09′ | 1 | 1.232°/d | domicile |  |
-| ♂ Mars | ♊ Gemini 22°09′ | 2 | 0.651°/d |  |  |
-| ♃ Jupiter | ♌ Leo 17°51′ | 4 | 0.071°/d |  |  |
-| ♄ Saturn | ♍ Virgo 2°46′ | 5 | 0.004°/d (stationary) |  |  |
-| ♅ Uranus | ♊ Gemini 10°35′ | 2 | 0.055°/d |  |  |
-| ♆ Neptune | ♈ Aries 0°43′ | 12 | 0.029°/d |  |  |
-| ♇ Pluto | ♉ Taurus 9°09′ | 1 | 0.023°/d | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 16°46′ | 9 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 16°46′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 16°23′ | Aries | 1 | 0.967°/d |  |  |
+| ☽ Moon | ♈ Aries 13°57′ | Pisces | 12 | 11.852°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 0°00′ | Aries | 1 | 1.829°/d |  |  |
+| ♀ Venus | ♉ Taurus 15°09′ | Aries | 1 | 1.232°/d | domicile |  |
+| ♂ Mars | ♊ Gemini 22°09′ | Taurus | 2 | 0.651°/d |  |  |
+| ♃ Jupiter | ♌ Leo 17°51′ | Cancer | 4 | 0.071°/d |  |  |
+| ♄ Saturn | ♍ Virgo 2°46′ | Leo | 5 | 0.004°/d (stationary) |  |  |
+| ♅ Uranus | ♊ Gemini 10°35′ | Taurus | 2 | 0.055°/d |  |  |
+| ♆ Neptune | ♈ Aries 0°43′ | Pisces | 12 | 0.029°/d |  |  |
+| ♇ Pluto | ♉ Taurus 9°09′ | Aries | 1 | 0.023°/d | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 16°46′ | Sagittarius | 9 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 16°46′ | Gemini | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

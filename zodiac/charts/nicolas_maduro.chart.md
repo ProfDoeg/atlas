@@ -7,20 +7,20 @@ Born 1962-11-23 (gregorian calendar), El Valle, Caracas: the birth in the parish
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 0°13′ | 1 | 1.011°/d |  |  |
-| ☽ Moon | ♎ Libra 12°51′ | 11 | 11.860°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 28°52′ | 12 | 1.583°/d |  |  |
-| ♀ Venus | ♏ Scorpio 14°27′ | 12 | R -0.416°/d | detriment |  |
-| ♂ Mars | ♌ Leo 18°42′ | 9 | 0.332°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 3°48′ | 4 | 0.081°/d | domicile |  |
-| ♄ Saturn | ♒ Aquarius 6°19′ | 3 | 0.070°/d | domicile |  |
-| ♅ Uranus | ♍ Virgo 5°00′ | 10 | 0.017°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 13°54′ | 12 | 0.036°/d |  |  |
-| ♇ Pluto | ♍ Virgo 12°05′ | 10 | 0.011°/d |  |  |
-| ☊ North Node | ♌ Leo 2°45′ | 9 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 2°45′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 0°13′ | Libra | 1 | 1.011°/d |  |  |
+| ☽ Moon | ♎ Libra 12°51′ | Virgo | 11 | 11.860°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 28°52′ | Libra | 12 | 1.583°/d |  |  |
+| ♀ Venus | ♏ Scorpio 14°27′ | Libra | 12 | R -0.416°/d | detriment |  |
+| ♂ Mars | ♌ Leo 18°42′ | Leo | 9 | 0.332°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 3°48′ | Aquarius | 4 | 0.081°/d | domicile |  |
+| ♄ Saturn | ♒ Aquarius 6°19′ | Capricornus | 3 | 0.070°/d | domicile |  |
+| ♅ Uranus | ♍ Virgo 5°00′ | Leo | 10 | 0.017°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 13°54′ | Libra | 12 | 0.036°/d |  |  |
+| ♇ Pluto | ♍ Virgo 12°05′ | Leo | 10 | 0.011°/d |  |  |
+| ☊ North Node | ♌ Leo 2°45′ | Cancer | 9 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 2°45′ | Capricornus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

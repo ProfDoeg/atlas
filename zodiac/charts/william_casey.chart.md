@@ -7,20 +7,20 @@ Born 1913-03-13 (gregorian calendar), Elmhurst, Queens, the birth the record bar
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 21°50′ | 1 | 0.997°/d |  |  |
-| ☽ Moon | ♉ Taurus 17°17′ | 3 | 12.579°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 9°50′ | 2 | 0.762°/d |  |  |
-| ♀ Venus | ♉ Taurus 4°30′ | 3 | 0.657°/d | domicile |  |
-| ♂ Mars | ♒ Aquarius 16°40′ | 12 | 0.772°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 13°35′ | 11 | 0.146°/d | fall |  |
-| ♄ Saturn | ♉ Taurus 28°53′ | 3 | 0.075°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 6°08′ | 12 | 0.045°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 23°25′ | 5 | R -0.012°/d |  |  |
-| ♇ Pluto | ♊ Gemini 28°03′ | 4 | 0.000°/d (stationary) |  |  |
-| ☊ North Node | ♈ Aries 3°58′ | 2 | mean node |  |  |
-| ☋ South Node | ♎ Libra 3°58′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 21°50′ | Pisces | 1 | 0.997°/d |  |  |
+| ☽ Moon | ♉ Taurus 17°17′ | Aries | 3 | 12.579°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 9°50′ | Pisces | 2 | 0.762°/d |  |  |
+| ♀ Venus | ♉ Taurus 4°30′ | Aries | 3 | 0.657°/d | domicile |  |
+| ♂ Mars | ♒ Aquarius 16°40′ | Capricornus | 12 | 0.772°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 13°35′ | Sagittarius | 11 | 0.146°/d | fall |  |
+| ♄ Saturn | ♉ Taurus 28°53′ | Taurus | 3 | 0.075°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 6°08′ | Capricornus | 12 | 0.045°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 23°25′ | Gemini | 5 | R -0.012°/d |  |  |
+| ♇ Pluto | ♊ Gemini 28°03′ | Taurus | 4 | 0.000°/d (stationary) |  |  |
+| ☊ North Node | ♈ Aries 3°58′ | Pisces | 2 | mean node |  |  |
+| ☋ South Node | ♎ Libra 3°58′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

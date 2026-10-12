@@ -7,20 +7,20 @@ Born 1874-05-17 (gregorian calendar), Tours, birth in a physician's house (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 25°54′ | 1 | 0.963°/d |  |  |
-| ☽ Moon | ♊ Gemini 10°29′ | 2 | 14.427°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 16°36′ | 1 | 2.055°/d |  |  |
-| ♀ Venus | ♊ Gemini 16°47′ | 2 | 1.220°/d |  |  |
-| ♂ Mars | ♊ Gemini 10°00′ | 2 | 0.687°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 21°45′ | 5 | R -0.006°/d (stationary) | detriment |  |
-| ♄ Saturn | ♒ Aquarius 13°56′ | 10 | 0.012°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 6°46′ | 4 | 0.029°/d | detriment (modern) |  |
-| ♆ Neptune | ♈ Aries 29°17′ | 12 | 0.035°/d |  |  |
-| ♇ Pluto | ♉ Taurus 21°22′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♉ Taurus 4°48′ | 1 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 4°48′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 25°54′ | Taurus | 1 | 0.963°/d |  |  |
+| ☽ Moon | ♊ Gemini 10°29′ | Taurus | 2 | 14.427°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 16°36′ | Aries | 1 | 2.055°/d |  |  |
+| ♀ Venus | ♊ Gemini 16°47′ | Taurus | 2 | 1.220°/d |  |  |
+| ♂ Mars | ♊ Gemini 10°00′ | Taurus | 2 | 0.687°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 21°45′ | Leo | 5 | R -0.006°/d (stationary) | detriment |  |
+| ♄ Saturn | ♒ Aquarius 13°56′ | Capricornus | 10 | 0.012°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 6°46′ | Cancer | 4 | 0.029°/d | detriment (modern) |  |
+| ♆ Neptune | ♈ Aries 29°17′ | Aries | 12 | 0.035°/d |  |  |
+| ♇ Pluto | ♉ Taurus 21°22′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♉ Taurus 4°48′ | Aries | 1 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 4°48′ | Virgo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

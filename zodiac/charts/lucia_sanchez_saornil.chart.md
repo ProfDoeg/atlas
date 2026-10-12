@@ -7,20 +7,20 @@ Born 1895-12-13 (gregorian calendar), Peñuelas, Madrid, the birth on Calle del 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 20°46′ | 1 | 1.017°/d |  |  |
-| ☽ Moon | ♏ Scorpio 9°07′ | 12 | 14.008°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 16°29′ | 1 | 1.566°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 4°32′ | 12 | 1.090°/d | detriment |  |
-| ♂ Mars | ♐ Sagittarius 0°35′ | 1 | 0.704°/d |  |  |
-| ♃ Jupiter | ♌ Leo 8°36′ | 9 | R -0.056°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 14°43′ | 12 | 0.105°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 21°55′ | 12 | 0.057°/d |  |  |
-| ♆ Neptune | ♊ Gemini 16°33′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 11°37′ | 7 | R -0.019°/d |  |  |
-| ☊ North Node | ♓ Pisces 7°32′ | 4 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 7°32′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 20°46′ | Ophiuchus | 1 | 1.017°/d |  |  |
+| ☽ Moon | ♏ Scorpio 9°07′ | Libra | 12 | 14.008°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 16°29′ | Ophiuchus | 1 | 1.566°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 4°32′ | Virgo | 12 | 1.090°/d | detriment |  |
+| ♂ Mars | ♐ Sagittarius 0°35′ | Libra | 1 | 0.704°/d |  |  |
+| ♃ Jupiter | ♌ Leo 8°36′ | Cancer | 9 | R -0.056°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 14°43′ | Libra | 12 | 0.105°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 21°55′ | Libra | 12 | 0.057°/d |  |  |
+| ♆ Neptune | ♊ Gemini 16°33′ | Taurus | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 11°37′ | Taurus | 7 | R -0.019°/d |  |  |
+| ☊ North Node | ♓ Pisces 7°32′ | Aquarius | 4 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 7°32′ | Leo | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

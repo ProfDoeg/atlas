@@ -7,20 +7,20 @@ Born 1926-08-13 (gregorian calendar), Finca Manacas, Birán: the birth of a cook
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 19°30′ | 1 | 0.960°/d | domicile |  |
-| ☽ Moon | ♎ Libra 7°44′ | 3 | 11.945°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 10°37′ | 1 | R -0.503°/d |  |  |
-| ♀ Venus | ♋ Cancer 23°43′ | 12 | 1.210°/d |  |  |
-| ♂ Mars | ♉ Taurus 6°05′ | 10 | 0.492°/d | detriment |  |
-| ♃ Jupiter | ♒ Aquarius 22°45′ | 7 | R -0.131°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 19°43′ | 4 | 0.032°/d |  |  |
-| ♅ Uranus | ♓ Pisces 29°00′ | 8 | R -0.028°/d |  |  |
-| ♆ Neptune | ♌ Leo 24°24′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♋ Cancer 15°12′ | 12 | 0.022°/d |  |  |
-| ☊ North Node | ♋ Cancer 14°27′ | 12 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 14°27′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 19°30′ | Leo | 1 | 0.960°/d | domicile |  |
+| ☽ Moon | ♎ Libra 7°44′ | Virgo | 3 | 11.945°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 10°37′ | Cancer | 1 | R -0.503°/d |  |  |
+| ♀ Venus | ♋ Cancer 23°43′ | Gemini | 12 | 1.210°/d |  |  |
+| ♂ Mars | ♉ Taurus 6°05′ | Aries | 10 | 0.492°/d | detriment |  |
+| ♃ Jupiter | ♒ Aquarius 22°45′ | Capricornus | 7 | R -0.131°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 19°43′ | Libra | 4 | 0.032°/d |  |  |
+| ♅ Uranus | ♓ Pisces 29°00′ | Pisces | 8 | R -0.028°/d |  |  |
+| ♆ Neptune | ♌ Leo 24°24′ | Leo | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♋ Cancer 15°12′ | Gemini | 12 | 0.022°/d |  |  |
+| ☊ North Node | ♋ Cancer 14°27′ | Gemini | 12 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 14°27′ | Sagittarius | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

@@ -7,20 +7,20 @@ Born 1539-04-12 (julian calendar), Cusco, the birth in the house on Calle Garcil
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 0°48′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♒ Aquarius 5°03′ | 10 | 12.656°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♈ Aries 8°14′ | 12 | 1.562°/d |  |  |
-| ♀ Venus | ♓ Pisces 22°57′ | 11 | 0.410°/d | exaltation |  |
-| ♂ Mars | ♈ Aries 24°25′ | 12 | 0.748°/d | domicile |  |
-| ♃ Jupiter | ♊ Gemini 22°59′ | 2 | 0.178°/d | detriment |  |
-| ♄ Saturn | ♍ Virgo 26°43′ | 5 | R -0.057°/d |  |  |
-| ♅ Uranus | ♌ Leo 6°41′ | 4 | 0.006°/d (stationary) | detriment (modern) |  |
-| ♆ Neptune | ♈ Aries 12°05′ | 12 | 0.036°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 12°23′ | 10 | 0.010°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 5°26′ | 1 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 5°26′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 0°48′ | Aries | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♒ Aquarius 5°03′ | Capricornus | 10 | 12.656°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♈ Aries 8°14′ | Pisces | 12 | 1.562°/d |  |  |
+| ♀ Venus | ♓ Pisces 22°57′ | Pisces | 11 | 0.410°/d | exaltation |  |
+| ♂ Mars | ♈ Aries 24°25′ | Pisces | 12 | 0.748°/d | domicile |  |
+| ♃ Jupiter | ♊ Gemini 22°59′ | Taurus | 2 | 0.178°/d | detriment |  |
+| ♄ Saturn | ♍ Virgo 26°43′ | Virgo | 5 | R -0.057°/d |  |  |
+| ♅ Uranus | ♌ Leo 6°41′ | Cancer | 4 | 0.006°/d (stationary) | detriment (modern) |  |
+| ♆ Neptune | ♈ Aries 12°05′ | Pisces | 12 | 0.036°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 12°23′ | Capricornus | 10 | 0.010°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 5°26′ | Aries | 1 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 5°26′ | Virgo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1799-05-20 (gregorian calendar), Tours: the birth on the street later calle
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 28°55′ | 1 | 0.961°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 8°13′ | 8 | 14.671°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 11°53′ | 1 | R -0.032°/d |  |  |
-| ♀ Venus | ♋ Cancer 2°34′ | 3 | 1.187°/d |  |  |
-| ♂ Mars | ♋ Cancer 7°39′ | 3 | 0.629°/d | fall |  |
-| ♃ Jupiter | ♊ Gemini 6°28′ | 2 | 0.232°/d | detriment |  |
-| ♄ Saturn | ♋ Cancer 22°28′ | 3 | 0.094°/d | detriment |  |
-| ♅ Uranus | ♍ Virgo 17°55′ | 5 | R -0.005°/d (stationary) |  |  |
-| ♆ Neptune | ♏ Scorpio 13°19′ | 7 | R -0.026°/d |  |  |
-| ♇ Pluto | ♓ Pisces 3°10′ | 11 | 0.006°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 15°13′ | 1 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 15°13′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 28°55′ | Taurus | 1 | 0.961°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 8°13′ | Ophiuchus | 8 | 14.671°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 11°53′ | Aries | 1 | R -0.032°/d |  |  |
+| ♀ Venus | ♋ Cancer 2°34′ | Gemini | 3 | 1.187°/d |  |  |
+| ♂ Mars | ♋ Cancer 7°39′ | Gemini | 3 | 0.629°/d | fall |  |
+| ♃ Jupiter | ♊ Gemini 6°28′ | Taurus | 2 | 0.232°/d | detriment |  |
+| ♄ Saturn | ♋ Cancer 22°28′ | Gemini | 3 | 0.094°/d | detriment |  |
+| ♅ Uranus | ♍ Virgo 17°55′ | Leo | 5 | R -0.005°/d (stationary) |  |  |
+| ♆ Neptune | ♏ Scorpio 13°19′ | Libra | 7 | R -0.026°/d |  |  |
+| ♇ Pluto | ♓ Pisces 3°10′ | Aquarius | 11 | 0.006°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 15°13′ | Aries | 1 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 15°13′ | Libra | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

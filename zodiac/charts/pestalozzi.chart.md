@@ -7,20 +7,20 @@ Born 1746-01-12 (gregorian calendar), Zurich, Oberer Hirschengraben, the birth h
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 21°46′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♍ Virgo 18°30′ | 9 | 14.225°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 2°42′ | 2 | R -0.724°/d |  |  |
-| ♀ Venus | ♑ Capricornus 2°00′ | 1 | 1.252°/d |  |  |
-| ♂ Mars | ♒ Aquarius 23°01′ | 2 | 0.787°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 6°46′ | 12 | 0.188°/d | domicile |  |
-| ♄ Saturn | ♎ Libra 14°09′ | 10 | 0.020°/d | exaltation |  |
-| ♅ Uranus | ♒ Aquarius 4°37′ | 2 | 0.058°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 17°19′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♏ Scorpio 23°49′ | 11 | 0.025°/d | domicile (modern) |  |
-| ☊ North Node | ♓ Pisces 27°05′ | 3 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 27°05′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 21°46′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♍ Virgo 18°30′ | Leo | 9 | 14.225°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 2°42′ | Capricornus | 2 | R -0.724°/d |  |  |
+| ♀ Venus | ♑ Capricornus 2°00′ | Sagittarius | 1 | 1.252°/d |  |  |
+| ♂ Mars | ♒ Aquarius 23°01′ | Capricornus | 2 | 0.787°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 6°46′ | Scorpius | 12 | 0.188°/d | domicile |  |
+| ♄ Saturn | ♎ Libra 14°09′ | Virgo | 10 | 0.020°/d | exaltation |  |
+| ♅ Uranus | ♒ Aquarius 4°37′ | Capricornus | 2 | 0.058°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 17°19′ | Gemini | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♏ Scorpio 23°49′ | Libra | 11 | 0.025°/d | domicile (modern) |  |
+| ☊ North Node | ♓ Pisces 27°05′ | Pisces | 3 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 27°05′ | Virgo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

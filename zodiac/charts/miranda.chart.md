@@ -7,20 +7,20 @@ Born 1750-03-28 (gregorian calendar), Caracas, Casa Natal, esquina de Padre Sier
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 7°12′ | 1 | 0.987°/d | exaltation |  |
-| ☽ Moon | ♐ Sagittarius 1°56′ | 9 | 12.286°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♓ Pisces 9°26′ | 12 | 0.971°/d | detriment, fall |  |
-| ♀ Venus | ♈ Aries 11°14′ | 1 | R -0.620°/d | detriment |  |
-| ♂ Mars | ♉ Taurus 21°10′ | 2 | 0.678°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 10°39′ | 1 | 0.242°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 1°33′ | 9 | R -0.028°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 23°59′ | 11 | 0.046°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 24°57′ | 4 | R -0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♐ Sagittarius 4°16′ | 9 | R -0.011°/d |  |  |
-| ☊ North Node | ♑ Capricornus 5°44′ | 10 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 5°44′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 7°12′ | Pisces | 1 | 0.987°/d | exaltation |  |
+| ☽ Moon | ♐ Sagittarius 1°56′ | Scorpius | 9 | 12.286°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♓ Pisces 9°26′ | Aquarius | 12 | 0.971°/d | detriment, fall |  |
+| ♀ Venus | ♈ Aries 11°14′ | Pisces | 1 | R -0.620°/d | detriment |  |
+| ♂ Mars | ♉ Taurus 21°10′ | Aries | 2 | 0.678°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 10°39′ | Pisces | 1 | 0.242°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 1°33′ | Scorpius | 9 | R -0.028°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 23°59′ | Capricornus | 11 | 0.046°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 24°57′ | Gemini | 4 | R -0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♐ Sagittarius 4°16′ | Scorpius | 9 | R -0.011°/d |  |  |
+| ☊ North Node | ♑ Capricornus 5°44′ | Sagittarius | 10 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 5°44′ | Gemini | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

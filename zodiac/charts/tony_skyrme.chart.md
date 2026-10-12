@@ -7,20 +7,20 @@ Born 1922-12-05 (gregorian calendar), Lewisham, birth in a bank clerk's house (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 12°05′ | 1 | 1.015°/d |  |  |
-| ☽ Moon | ♊ Gemini 18°18′ | 7 | 12.923°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 11°05′ | 1 | 1.571°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 26°52′ | 12 | R -0.427°/d | detriment |  |
-| ♂ Mars | ♒ Aquarius 25°12′ | 3 | 0.730°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 8°14′ | 12 | 0.199°/d |  |  |
-| ♄ Saturn | ♎ Libra 17°36′ | 11 | 0.088°/d | exaltation |  |
-| ♅ Uranus | ♓ Pisces 9°54′ | 4 | 0.013°/d |  |  |
-| ♆ Neptune | ♌ Leo 18°12′ | 9 | R -0.008°/d (stationary) |  |  |
-| ♇ Pluto | ♋ Cancer 10°44′ | 8 | R -0.018°/d |  |  |
-| ☊ North Node | ♍ Virgo 25°46′ | 10 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 25°46′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 12°05′ | Ophiuchus | 1 | 1.015°/d |  |  |
+| ☽ Moon | ♊ Gemini 18°18′ | Taurus | 7 | 12.923°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 11°05′ | Ophiuchus | 1 | 1.571°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 26°52′ | Libra | 12 | R -0.427°/d | detriment |  |
+| ♂ Mars | ♒ Aquarius 25°12′ | Capricornus | 3 | 0.730°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 8°14′ | Libra | 12 | 0.199°/d |  |  |
+| ♄ Saturn | ♎ Libra 17°36′ | Virgo | 11 | 0.088°/d | exaltation |  |
+| ♅ Uranus | ♓ Pisces 9°54′ | Aquarius | 4 | 0.013°/d |  |  |
+| ♆ Neptune | ♌ Leo 18°12′ | Cancer | 9 | R -0.008°/d (stationary) |  |  |
+| ♇ Pluto | ♋ Cancer 10°44′ | Gemini | 8 | R -0.018°/d |  |  |
+| ☊ North Node | ♍ Virgo 25°46′ | Virgo | 10 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 25°46′ | Pisces | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

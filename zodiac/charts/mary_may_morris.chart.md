@@ -7,20 +7,20 @@ Born 1862-03-25 (gregorian calendar), Red House, Bexleyheath, the birth on the A
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 4°06′ | 1 | 0.990°/d | exaltation |  |
-| ☽ Moon | ♒ Aquarius 0°35′ | 11 | 13.433°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♓ Pisces 6°21′ | 12 | 0.941°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 0°06′ | 12 | 0.232°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 22°58′ | 10 | 0.688°/d | exaltation |  |
-| ♃ Jupiter | ♍ Virgo 21°00′ | 6 | R -0.124°/d | detriment |  |
-| ♄ Saturn | ♍ Virgo 18°14′ | 6 | R -0.075°/d |  |  |
-| ♅ Uranus | ♊ Gemini 12°49′ | 3 | 0.029°/d |  |  |
-| ♆ Neptune | ♈ Aries 1°23′ | 1 | 0.038°/d |  |  |
-| ♇ Pluto | ♉ Taurus 9°09′ | 2 | 0.019°/d | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 29°43′ | 9 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 29°43′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 4°06′ | Pisces | 1 | 0.990°/d | exaltation |  |
+| ☽ Moon | ♒ Aquarius 0°35′ | Capricornus | 11 | 13.433°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♓ Pisces 6°21′ | Aquarius | 12 | 0.941°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 0°06′ | Aquarius | 12 | 0.232°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 22°58′ | Sagittarius | 10 | 0.688°/d | exaltation |  |
+| ♃ Jupiter | ♍ Virgo 21°00′ | Leo | 6 | R -0.124°/d | detriment |  |
+| ♄ Saturn | ♍ Virgo 18°14′ | Leo | 6 | R -0.075°/d |  |  |
+| ♅ Uranus | ♊ Gemini 12°49′ | Taurus | 3 | 0.029°/d |  |  |
+| ♆ Neptune | ♈ Aries 1°23′ | Pisces | 1 | 0.038°/d |  |  |
+| ♇ Pluto | ♉ Taurus 9°09′ | Aries | 2 | 0.019°/d | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 29°43′ | Sagittarius | 9 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 29°43′ | Taurus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

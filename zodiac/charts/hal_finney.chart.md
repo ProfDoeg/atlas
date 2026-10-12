@@ -7,20 +7,20 @@ Born 1956-05-04 (gregorian calendar), Coalinga, born in the oil town (lat 36.139
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 13°30′ | 1 | 0.969°/d |  |  |
-| ☽ Moon | ♒ Aquarius 23°15′ | 10 | 12.163°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♊ Gemini 4°14′ | 2 | 0.882°/d | domicile |  |
-| ♀ Venus | ♊ Gemini 27°05′ | 2 | 0.745°/d |  |  |
-| ♂ Mars | ♒ Aquarius 12°00′ | 10 | 0.621°/d |  |  |
-| ♃ Jupiter | ♌ Leo 21°51′ | 4 | 0.050°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 0°50′ | 8 | R -0.069°/d |  |  |
-| ♅ Uranus | ♋ Cancer 28°28′ | 3 | 0.025°/d |  |  |
-| ♆ Neptune | ♎ Libra 28°43′ | 6 | R -0.026°/d |  |  |
-| ♇ Pluto | ♌ Leo 26°08′ | 4 | R -0.002°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 9°32′ | 8 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 9°32′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 13°30′ | Aries | 1 | 0.969°/d |  |  |
+| ☽ Moon | ♒ Aquarius 23°15′ | Capricornus | 10 | 12.163°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♊ Gemini 4°14′ | Taurus | 2 | 0.882°/d | domicile |  |
+| ♀ Venus | ♊ Gemini 27°05′ | Taurus | 2 | 0.745°/d |  |  |
+| ♂ Mars | ♒ Aquarius 12°00′ | Capricornus | 10 | 0.621°/d |  |  |
+| ♃ Jupiter | ♌ Leo 21°51′ | Leo | 4 | 0.050°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 0°50′ | Libra | 8 | R -0.069°/d |  |  |
+| ♅ Uranus | ♋ Cancer 28°28′ | Cancer | 3 | 0.025°/d |  |  |
+| ♆ Neptune | ♎ Libra 28°43′ | Virgo | 6 | R -0.026°/d |  |  |
+| ♇ Pluto | ♌ Leo 26°08′ | Leo | 4 | R -0.002°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 9°32′ | Ophiuchus | 8 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 9°32′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

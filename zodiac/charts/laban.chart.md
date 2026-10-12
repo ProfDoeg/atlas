@@ -7,20 +7,20 @@ Born 1879-12-15 (gregorian calendar), Pozsony (Bratislava), the birth house belo
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 22°41′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♑ Capricornus 14°07′ | 2 | 14.714°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 12°29′ | 1 | R -0.963°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 6°14′ | 12 | 1.077°/d | detriment |  |
-| ♂ Mars | ♉ Taurus 13°00′ | 6 | R -0.018°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 6°29′ | 4 | 0.141°/d | domicile |  |
-| ♄ Saturn | ♈ Aries 8°38′ | 5 | 0.006°/d (stationary) | fall |  |
-| ♅ Uranus | ♍ Virgo 8°48′ | 10 | R -0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♉ Taurus 9°37′ | 6 | R -0.019°/d |  |  |
-| ♇ Pluto | ♉ Taurus 25°59′ | 6 | R -0.017°/d | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 16°53′ | 2 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 16°53′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 22°41′ | Ophiuchus | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♑ Capricornus 14°07′ | Sagittarius | 2 | 14.714°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 12°29′ | Ophiuchus | 1 | R -0.963°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 6°14′ | Virgo | 12 | 1.077°/d | detriment |  |
+| ♂ Mars | ♉ Taurus 13°00′ | Aries | 6 | R -0.018°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 6°29′ | Aquarius | 4 | 0.141°/d | domicile |  |
+| ♄ Saturn | ♈ Aries 8°38′ | Pisces | 5 | 0.006°/d (stationary) | fall |  |
+| ♅ Uranus | ♍ Virgo 8°48′ | Leo | 10 | R -0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♉ Taurus 9°37′ | Aries | 6 | R -0.019°/d |  |  |
+| ♇ Pluto | ♉ Taurus 25°59′ | Taurus | 6 | R -0.017°/d | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 16°53′ | Sagittarius | 2 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 16°53′ | Gemini | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

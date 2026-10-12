@@ -7,20 +7,20 @@ Born 1875-03-08 (gregorian calendar), Czernowitz, the birth on the edge of the e
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 17°03′ | 1 | 0.999°/d |  |  |
-| ☽ Moon | ♓ Pisces 19°05′ | 1 | 14.402°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 5°05′ | 1 | R -0.749°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 1°10′ | 12 | 1.090°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 12°23′ | 10 | 0.494°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 0°57′ | 9 | R -0.063°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 19°58′ | 12 | 0.111°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 11°42′ | 6 | R -0.033°/d | detriment (modern) |  |
-| ♆ Neptune | ♈ Aries 28°57′ | 2 | 0.030°/d |  |  |
-| ♇ Pluto | ♉ Taurus 20°58′ | 3 | 0.011°/d | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 19°11′ | 2 | mean node |  |  |
-| ☋ South Node | ♎ Libra 19°11′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 17°03′ | Aquarius | 1 | 0.999°/d |  |  |
+| ☽ Moon | ♓ Pisces 19°05′ | Aquarius | 1 | 14.402°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 5°05′ | Aquarius | 1 | R -0.749°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 1°10′ | Capricornus | 12 | 1.090°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 12°23′ | Ophiuchus | 10 | 0.494°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 0°57′ | Virgo | 9 | R -0.063°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 19°58′ | Capricornus | 12 | 0.111°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 11°42′ | Cancer | 6 | R -0.033°/d | detriment (modern) |  |
+| ♆ Neptune | ♈ Aries 28°57′ | Pisces | 2 | 0.030°/d |  |  |
+| ♇ Pluto | ♉ Taurus 20°58′ | Aries | 3 | 0.011°/d | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 19°11′ | Pisces | 2 | mean node |  |  |
+| ☋ South Node | ♎ Libra 19°11′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

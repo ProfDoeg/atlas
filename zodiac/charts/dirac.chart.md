@@ -7,20 +7,20 @@ Born 1902-08-08 (gregorian calendar), Monk Road, Bishopston, the birth of a Swis
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 14°30′ | 1 | 0.959°/d | domicile |  |
-| ☽ Moon | ♎ Libra 8°03′ | 3 | 12.962°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 10°32′ | 1 | 2.071°/d |  |  |
-| ♀ Venus | ♋ Cancer 15°48′ | 12 | 1.202°/d |  |  |
-| ♂ Mars | ♋ Cancer 12°10′ | 12 | 0.658°/d | fall |  |
-| ♃ Jupiter | ♒ Aquarius 12°00′ | 7 | R -0.130°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 22°53′ | 6 | R -0.066°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 17°18′ | 5 | R -0.016°/d |  |  |
-| ♆ Neptune | ♋ Cancer 2°49′ | 12 | 0.029°/d |  |  |
-| ♇ Pluto | ♊ Gemini 19°25′ | 11 | 0.015°/d |  |  |
-| ☊ North Node | ♎ Libra 28°54′ | 3 | mean node |  |  |
-| ☋ South Node | ♈ Aries 28°54′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 14°30′ | Cancer | 1 | 0.959°/d | domicile |  |
+| ☽ Moon | ♎ Libra 8°03′ | Virgo | 3 | 12.962°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 10°32′ | Cancer | 1 | 2.071°/d |  |  |
+| ♀ Venus | ♋ Cancer 15°48′ | Gemini | 12 | 1.202°/d |  |  |
+| ♂ Mars | ♋ Cancer 12°10′ | Gemini | 12 | 0.658°/d | fall |  |
+| ♃ Jupiter | ♒ Aquarius 12°00′ | Capricornus | 7 | R -0.130°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 22°53′ | Sagittarius | 6 | R -0.066°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 17°18′ | Ophiuchus | 5 | R -0.016°/d |  |  |
+| ♆ Neptune | ♋ Cancer 2°49′ | Gemini | 12 | 0.029°/d |  |  |
+| ♇ Pluto | ♊ Gemini 19°25′ | Taurus | 11 | 0.015°/d |  |  |
+| ☊ North Node | ♎ Libra 28°54′ | Virgo | 3 | mean node |  |  |
+| ☋ South Node | ♈ Aries 28°54′ | Pisces | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

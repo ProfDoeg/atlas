@@ -7,20 +7,20 @@ Born 1900-03-23 (gregorian calendar), Frankfurt am Main, born into an Orthodox h
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 1°55′ | 1 | 0.991°/d | exaltation |  |
-| ☽ Moon | ♐ Sagittarius 16°56′ | 9 | 12.922°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 5°49′ | 1 | R -0.790°/d |  |  |
-| ♀ Venus | ♉ Taurus 14°09′ | 2 | 1.140°/d | domicile |  |
-| ♂ Mars | ♓ Pisces 17°22′ | 12 | 0.784°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 10°51′ | 9 | 0.015°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 4°35′ | 10 | 0.036°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 12°21′ | 9 | R -0.005°/d (stationary) |  |  |
-| ♆ Neptune | ♊ Gemini 24°20′ | 3 | 0.010°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 14°50′ | 3 | 0.009°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 14°52′ | 9 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 14°52′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 1°55′ | Pisces | 1 | 0.991°/d | exaltation |  |
+| ☽ Moon | ♐ Sagittarius 16°56′ | Ophiuchus | 9 | 12.922°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 5°49′ | Pisces | 1 | R -0.790°/d |  |  |
+| ♀ Venus | ♉ Taurus 14°09′ | Aries | 2 | 1.140°/d | domicile |  |
+| ♂ Mars | ♓ Pisces 17°22′ | Aquarius | 12 | 0.784°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 10°51′ | Ophiuchus | 9 | 0.015°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 4°35′ | Sagittarius | 10 | 0.036°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 12°21′ | Ophiuchus | 9 | R -0.005°/d (stationary) |  |  |
+| ♆ Neptune | ♊ Gemini 24°20′ | Taurus | 3 | 0.010°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 14°50′ | Taurus | 3 | 0.009°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 14°52′ | Ophiuchus | 9 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 14°52′ | Taurus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

@@ -7,20 +7,20 @@ Born 1891-01-22 (gregorian calendar), Ales, the fourth child (lat 39.7670, lng 8
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 1°44′ | 1 | 1.017°/d | detriment |  |
-| ☽ Moon | ♊ Gemini 28°05′ | 5 | 12.365°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♑ Capricornus 15°04′ | 12 | R -0.450°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 17°18′ | 11 | 0.781°/d |  |  |
-| ♂ Mars | ♓ Pisces 26°50′ | 2 | 0.742°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 19°20′ | 1 | 0.234°/d |  |  |
-| ♄ Saturn | ♍ Virgo 16°44′ | 8 | R -0.044°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 1°06′ | 10 | 0.012°/d |  |  |
-| ♆ Neptune | ♊ Gemini 4°10′ | 5 | R -0.012°/d |  |  |
-| ♇ Pluto | ♊ Gemini 6°05′ | 5 | R -0.010°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 12°06′ | 5 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 12°06′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 1°44′ | Capricornus | 1 | 1.017°/d | detriment |  |
+| ☽ Moon | ♊ Gemini 28°05′ | Taurus | 5 | 12.365°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♑ Capricornus 15°04′ | Sagittarius | 12 | R -0.450°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 17°18′ | Ophiuchus | 11 | 0.781°/d |  |  |
+| ♂ Mars | ♓ Pisces 26°50′ | Pisces | 2 | 0.742°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 19°20′ | Capricornus | 1 | 0.234°/d |  |  |
+| ♄ Saturn | ♍ Virgo 16°44′ | Leo | 8 | R -0.044°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 1°06′ | Virgo | 10 | 0.012°/d |  |  |
+| ♆ Neptune | ♊ Gemini 4°10′ | Taurus | 5 | R -0.012°/d |  |  |
+| ♇ Pluto | ♊ Gemini 6°05′ | Taurus | 5 | R -0.010°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 12°06′ | Taurus | 5 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 12°06′ | Ophiuchus | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

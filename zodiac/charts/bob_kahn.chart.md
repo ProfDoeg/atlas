@@ -7,20 +7,20 @@ Born 1938-12-23 (gregorian calendar), Brooklyn, the birth (lat 40.6782, lng -73.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 0°30′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♑ Capricornus 14°09′ | 1 | 11.933°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 13°39′ | 12 | R -0.246°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 22°21′ | 11 | 0.432°/d | detriment |  |
-| ♂ Mars | ♏ Scorpio 6°53′ | 11 | 0.624°/d | domicile |  |
-| ♃ Jupiter | ♒ Aquarius 28°53′ | 2 | 0.178°/d |  |  |
-| ♄ Saturn | ♈ Aries 10°56′ | 4 | 0.016°/d | fall |  |
-| ♅ Uranus | ♉ Taurus 14°20′ | 5 | R -0.025°/d |  |  |
-| ♆ Neptune | ♍ Virgo 23°25′ | 9 | 0.002°/d (stationary) | detriment (modern) |  |
-| ♇ Pluto | ♌ Leo 1°03′ | 8 | R -0.019°/d |  |  |
-| ☊ North Node | ♏ Scorpio 15°21′ | 11 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 15°21′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 0°30′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♑ Capricornus 14°09′ | Sagittarius | 1 | 11.933°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 13°39′ | Ophiuchus | 12 | R -0.246°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 22°21′ | Libra | 11 | 0.432°/d | detriment |  |
+| ♂ Mars | ♏ Scorpio 6°53′ | Virgo | 11 | 0.624°/d | domicile |  |
+| ♃ Jupiter | ♒ Aquarius 28°53′ | Aquarius | 2 | 0.178°/d |  |  |
+| ♄ Saturn | ♈ Aries 10°56′ | Pisces | 4 | 0.016°/d | fall |  |
+| ♅ Uranus | ♉ Taurus 14°20′ | Aries | 5 | R -0.025°/d |  |  |
+| ♆ Neptune | ♍ Virgo 23°25′ | Leo | 9 | 0.002°/d (stationary) | detriment (modern) |  |
+| ♇ Pluto | ♌ Leo 1°03′ | Cancer | 8 | R -0.019°/d |  |  |
+| ☊ North Node | ♏ Scorpio 15°21′ | Libra | 11 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 15°21′ | Aries | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

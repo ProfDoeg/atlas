@@ -7,20 +7,20 @@ Born 1814-03-09 (gregorian calendar), Moryntsi, the birth in bondage (lat 49.251
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 17°50′ | 1 | 0.999°/d |  |  |
-| ☽ Moon | ♎ Libra 20°56′ | 8 | 12.882°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 3°41′ | 2 | 1.644°/d |  |  |
-| ♀ Venus | ♓ Pisces 23°29′ | 1 | R -0.606°/d | exaltation |  |
-| ♂ Mars | ♉ Taurus 15°15′ | 3 | 0.663°/d | detriment |  |
-| ♃ Jupiter | ♍ Virgo 3°29′ | 7 | R -0.124°/d | detriment |  |
-| ♄ Saturn | ♑ Capricornus 27°26′ | 11 | 0.089°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 2°18′ | 10 | R -0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♐ Sagittarius 17°44′ | 10 | 0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♓ Pisces 20°09′ | 1 | 0.026°/d |  |  |
-| ☊ North Node | ♋ Cancer 28°57′ | 5 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 28°57′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 17°50′ | Aquarius | 1 | 0.999°/d |  |  |
+| ☽ Moon | ♎ Libra 20°56′ | Virgo | 8 | 12.882°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 3°41′ | Pisces | 2 | 1.644°/d |  |  |
+| ♀ Venus | ♓ Pisces 23°29′ | Pisces | 1 | R -0.606°/d | exaltation |  |
+| ♂ Mars | ♉ Taurus 15°15′ | Aries | 3 | 0.663°/d | detriment |  |
+| ♃ Jupiter | ♍ Virgo 3°29′ | Leo | 7 | R -0.124°/d | detriment |  |
+| ♄ Saturn | ♑ Capricornus 27°26′ | Sagittarius | 11 | 0.089°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 2°18′ | Scorpius | 10 | R -0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♐ Sagittarius 17°44′ | Ophiuchus | 10 | 0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♓ Pisces 20°09′ | Aquarius | 1 | 0.026°/d |  |  |
+| ☊ North Node | ♋ Cancer 28°57′ | Cancer | 5 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 28°57′ | Sagittarius | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

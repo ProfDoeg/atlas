@@ -7,20 +7,20 @@ Born 1900-07-10 (gregorian calendar), Berdychiv, born in the Kiev Governorate (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 17°16′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 14°36′ | 6 | 13.238°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 12°26′ | 2 | 0.633°/d |  |  |
-| ♀ Venus | ♋ Cancer 14°49′ | 1 | R -0.621°/d |  |  |
-| ♂ Mars | ♊ Gemini 8°53′ | 12 | 0.698°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 1°35′ | 6 | R -0.057°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 0°31′ | 7 | R -0.069°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 8°55′ | 6 | R -0.029°/d |  |  |
-| ♆ Neptune | ♊ Gemini 27°33′ | 12 | 0.035°/d |  |  |
-| ♇ Pluto | ♊ Gemini 16°56′ | 12 | 0.020°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 9°06′ | 6 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 9°06′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 17°16′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 14°36′ | Ophiuchus | 6 | 13.238°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 12°26′ | Cancer | 2 | 0.633°/d |  |  |
+| ♀ Venus | ♋ Cancer 14°49′ | Gemini | 1 | R -0.621°/d |  |  |
+| ♂ Mars | ♊ Gemini 8°53′ | Taurus | 12 | 0.698°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 1°35′ | Scorpius | 6 | R -0.057°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 0°31′ | Sagittarius | 7 | R -0.069°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 8°55′ | Ophiuchus | 6 | R -0.029°/d |  |  |
+| ♆ Neptune | ♊ Gemini 27°33′ | Taurus | 12 | 0.035°/d |  |  |
+| ♇ Pluto | ♊ Gemini 16°56′ | Taurus | 12 | 0.020°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 9°06′ | Ophiuchus | 6 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 9°06′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

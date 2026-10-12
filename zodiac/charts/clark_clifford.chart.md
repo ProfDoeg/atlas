@@ -7,20 +7,20 @@ Born 1906-12-25 (gregorian calendar), Fort Scott, the auditor's son (lat 37.8306
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 2°18′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♈ Aries 29°22′ | 4 | 12.150°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♐ Sagittarius 11°44′ | 12 | 1.282°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 29°49′ | 11 | 0.170°/d | detriment |  |
-| ♂ Mars | ♏ Scorpio 4°36′ | 11 | 0.611°/d | domicile |  |
-| ♃ Jupiter | ♋ Cancer 6°30′ | 7 | R -0.135°/d | exaltation |  |
-| ♄ Saturn | ♓ Pisces 9°43′ | 3 | 0.070°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 8°12′ | 1 | 0.060°/d |  |  |
-| ♆ Neptune | ♋ Cancer 11°33′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 22°36′ | 6 | R -0.019°/d |  |  |
-| ☊ North Node | ♌ Leo 4°11′ | 8 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 4°11′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 2°18′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♈ Aries 29°22′ | Aries | 4 | 12.150°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♐ Sagittarius 11°44′ | Ophiuchus | 12 | 1.282°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 29°49′ | Libra | 11 | 0.170°/d | detriment |  |
+| ♂ Mars | ♏ Scorpio 4°36′ | Virgo | 11 | 0.611°/d | domicile |  |
+| ♃ Jupiter | ♋ Cancer 6°30′ | Gemini | 7 | R -0.135°/d | exaltation |  |
+| ♄ Saturn | ♓ Pisces 9°43′ | Aquarius | 3 | 0.070°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 8°12′ | Sagittarius | 1 | 0.060°/d |  |  |
+| ♆ Neptune | ♋ Cancer 11°33′ | Gemini | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 22°36′ | Taurus | 6 | R -0.019°/d |  |  |
+| ☊ North Node | ♌ Leo 4°11′ | Cancer | 8 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 4°11′ | Capricornus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

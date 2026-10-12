@@ -7,20 +7,20 @@ Born 1811-11-19 (gregorian calendar), Solesmes, the town of the North (lat 50.19
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 25°48′ | 1 | 1.010°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 29°58′ | 2 | 13.393°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♏ Scorpio 25°48′ | 1 | 1.583°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 5°21′ | 2 | 1.254°/d |  |  |
-| ♂ Mars | ♒ Aquarius 7°15′ | 4 | 0.739°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 5°17′ | 9 | R -0.080°/d | exaltation |  |
-| ♄ Saturn | ♐ Sagittarius 25°02′ | 2 | 0.108°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 19°24′ | 1 | 0.062°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 10°23′ | 2 | 0.037°/d |  |  |
-| ♇ Pluto | ♓ Pisces 16°13′ | 5 | R -0.005°/d (stationary) |  |  |
-| ☊ North Node | ♍ Virgo 13°29′ | 11 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 13°29′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 25°48′ | Libra | 1 | 1.010°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 29°58′ | Sagittarius | 2 | 13.393°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♏ Scorpio 25°48′ | Libra | 1 | 1.583°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 5°21′ | Scorpius | 2 | 1.254°/d |  |  |
+| ♂ Mars | ♒ Aquarius 7°15′ | Capricornus | 4 | 0.739°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 5°17′ | Gemini | 9 | R -0.080°/d | exaltation |  |
+| ♄ Saturn | ♐ Sagittarius 25°02′ | Ophiuchus | 2 | 0.108°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 19°24′ | Libra | 1 | 0.062°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 10°23′ | Ophiuchus | 2 | 0.037°/d |  |  |
+| ♇ Pluto | ♓ Pisces 16°13′ | Aquarius | 5 | R -0.005°/d (stationary) |  |  |
+| ☊ North Node | ♍ Virgo 13°29′ | Leo | 11 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 13°29′ | Aquarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

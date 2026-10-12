@@ -7,20 +7,20 @@ Born 1848-09-22 (gregorian calendar), Paris, the old eleventh arrondissement: th
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 29°06′ | 1 | 0.980°/d |  |  |
-| ☽ Moon | ♋ Cancer 25°33′ | 11 | 13.385°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♎ Libra 14°22′ | 2 | 1.568°/d |  |  |
-| ♀ Venus | ♎ Libra 15°40′ | 2 | 1.239°/d | domicile |  |
-| ♂ Mars | ♎ Libra 7°10′ | 2 | 0.654°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 14°19′ | 12 | 0.185°/d |  |  |
-| ♄ Saturn | ♓ Pisces 21°11′ | 7 | R -0.076°/d |  |  |
-| ♅ Uranus | ♈ Aries 21°13′ | 8 | R -0.037°/d |  |  |
-| ♆ Neptune | ♓ Pisces 0°25′ | 7 | R -0.023°/d | domicile (modern) |  |
-| ♇ Pluto | ♈ Aries 27°26′ | 8 | R -0.016°/d |  |  |
-| ☊ North Node | ♍ Virgo 20°53′ | 1 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 20°53′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 29°06′ | Virgo | 1 | 0.980°/d |  |  |
+| ☽ Moon | ♋ Cancer 25°33′ | Gemini | 11 | 13.385°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♎ Libra 14°22′ | Virgo | 2 | 1.568°/d |  |  |
+| ♀ Venus | ♎ Libra 15°40′ | Virgo | 2 | 1.239°/d | domicile |  |
+| ♂ Mars | ♎ Libra 7°10′ | Virgo | 2 | 0.654°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 14°19′ | Cancer | 12 | 0.185°/d |  |  |
+| ♄ Saturn | ♓ Pisces 21°11′ | Aquarius | 7 | R -0.076°/d |  |  |
+| ♅ Uranus | ♈ Aries 21°13′ | Pisces | 8 | R -0.037°/d |  |  |
+| ♆ Neptune | ♓ Pisces 0°25′ | Aquarius | 7 | R -0.023°/d | domicile (modern) |  |
+| ♇ Pluto | ♈ Aries 27°26′ | Pisces | 8 | R -0.016°/d |  |  |
+| ☊ North Node | ♍ Virgo 20°53′ | Leo | 1 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 20°53′ | Aquarius | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

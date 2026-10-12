@@ -7,20 +7,20 @@ Born 1895-10-17 (gregorian calendar), Oak Park, Illinois: the only child (lat 41
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 23°23′ | 1 | 0.993°/d | fall |  |
-| ☽ Moon | ♎ Libra 5°56′ | 1 | 14.911°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♏ Scorpio 10°37′ | 2 | R -0.372°/d |  |  |
-| ♀ Venus | ♍ Virgo 18°44′ | 12 | 0.243°/d | fall |  |
-| ♂ Mars | ♎ Libra 21°33′ | 1 | 0.666°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 6°39′ | 11 | 0.117°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 8°06′ | 2 | 0.117°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 18°27′ | 2 | 0.058°/d |  |  |
-| ♆ Neptune | ♊ Gemini 17°54′ | 9 | R -0.014°/d |  |  |
-| ♇ Pluto | ♊ Gemini 12°35′ | 9 | R -0.012°/d |  |  |
-| ☊ North Node | ♓ Pisces 10°33′ | 6 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 10°33′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 23°23′ | Virgo | 1 | 0.993°/d | fall |  |
+| ☽ Moon | ♎ Libra 5°56′ | Virgo | 1 | 14.911°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♏ Scorpio 10°37′ | Libra | 2 | R -0.372°/d |  |  |
+| ♀ Venus | ♍ Virgo 18°44′ | Leo | 12 | 0.243°/d | fall |  |
+| ♂ Mars | ♎ Libra 21°33′ | Virgo | 1 | 0.666°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 6°39′ | Cancer | 11 | 0.117°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 8°06′ | Libra | 2 | 0.117°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 18°27′ | Libra | 2 | 0.058°/d |  |  |
+| ♆ Neptune | ♊ Gemini 17°54′ | Taurus | 9 | R -0.014°/d |  |  |
+| ♇ Pluto | ♊ Gemini 12°35′ | Taurus | 9 | R -0.012°/d |  |  |
+| ☊ North Node | ♓ Pisces 10°33′ | Aquarius | 6 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 10°33′ | Leo | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

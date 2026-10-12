@@ -7,20 +7,20 @@ Born 1857-03-07 (gregorian calendar), San Francisco, the birth on the far shore 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 16°25′ | 1 | 1.000°/d |  |  |
-| ☽ Moon | ♌ Leo 3°48′ | 6 | 12.974°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♒ Aquarius 21°04′ | 12 | 1.319°/d |  |  |
-| ♀ Venus | ♉ Taurus 2°37′ | 3 | 0.944°/d | domicile |  |
-| ♂ Mars | ♈ Aries 9°41′ | 2 | 0.760°/d | domicile |  |
-| ♃ Jupiter | ♈ Aries 13°38′ | 2 | 0.228°/d |  |  |
-| ♄ Saturn | ♋ Cancer 7°24′ | 5 | R -0.004°/d (stationary) | detriment |  |
-| ♅ Uranus | ♉ Taurus 21°42′ | 3 | 0.031°/d |  |  |
-| ♆ Neptune | ♓ Pisces 19°57′ | 1 | 0.038°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 4°08′ | 3 | 0.016°/d | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 7°21′ | 2 | mean node |  |  |
-| ☋ South Node | ♎ Libra 7°21′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 16°25′ | Aquarius | 1 | 1.000°/d |  |  |
+| ☽ Moon | ♌ Leo 3°48′ | Cancer | 6 | 12.974°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♒ Aquarius 21°04′ | Capricornus | 12 | 1.319°/d |  |  |
+| ♀ Venus | ♉ Taurus 2°37′ | Aries | 3 | 0.944°/d | domicile |  |
+| ♂ Mars | ♈ Aries 9°41′ | Pisces | 2 | 0.760°/d | domicile |  |
+| ♃ Jupiter | ♈ Aries 13°38′ | Pisces | 2 | 0.228°/d |  |  |
+| ♄ Saturn | ♋ Cancer 7°24′ | Gemini | 5 | R -0.004°/d (stationary) | detriment |  |
+| ♅ Uranus | ♉ Taurus 21°42′ | Aries | 3 | 0.031°/d |  |  |
+| ♆ Neptune | ♓ Pisces 19°57′ | Aquarius | 1 | 0.038°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 4°08′ | Aries | 3 | 0.016°/d | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 7°21′ | Pisces | 2 | mean node |  |  |
+| ☋ South Node | ♎ Libra 7°21′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

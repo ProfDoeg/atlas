@@ -7,20 +7,20 @@ Born 1967-08-05 (gregorian calendar), Stanford Hospital, Palo Alto: the birth (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 11°55′ | 1 | 0.958°/d | domicile |  |
-| ☽ Moon | ♋ Cancer 27°28′ | 12 | 13.702°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♋ Cancer 23°46′ | 12 | 1.448°/d |  |  |
-| ♀ Venus | ♍ Virgo 13°40′ | 2 | 0.133°/d | fall |  |
-| ♂ Mars | ♏ Scorpio 8°13′ | 4 | 0.545°/d | domicile |  |
-| ♃ Jupiter | ♌ Leo 14°43′ | 1 | 0.220°/d |  |  |
-| ♄ Saturn | ♈ Aries 12°14′ | 9 | R -0.019°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 22°02′ | 2 | 0.052°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 21°38′ | 4 | 0.001°/d (stationary) |  |  |
-| ♇ Pluto | ♍ Virgo 19°08′ | 2 | 0.030°/d |  |  |
-| ☊ North Node | ♉ Taurus 1°53′ | 10 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 1°53′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 11°55′ | Cancer | 1 | 0.958°/d | domicile |  |
+| ☽ Moon | ♋ Cancer 27°28′ | Gemini | 12 | 13.702°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♋ Cancer 23°46′ | Gemini | 12 | 1.448°/d |  |  |
+| ♀ Venus | ♍ Virgo 13°40′ | Leo | 2 | 0.133°/d | fall |  |
+| ♂ Mars | ♏ Scorpio 8°13′ | Libra | 4 | 0.545°/d | domicile |  |
+| ♃ Jupiter | ♌ Leo 14°43′ | Cancer | 1 | 0.220°/d |  |  |
+| ♄ Saturn | ♈ Aries 12°14′ | Pisces | 9 | R -0.019°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 22°02′ | Leo | 2 | 0.052°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 21°38′ | Libra | 4 | 0.001°/d (stationary) |  |  |
+| ♇ Pluto | ♍ Virgo 19°08′ | Leo | 2 | 0.030°/d |  |  |
+| ☊ North Node | ♉ Taurus 1°53′ | Aries | 10 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 1°53′ | Virgo | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

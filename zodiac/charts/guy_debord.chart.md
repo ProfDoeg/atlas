@@ -7,20 +7,20 @@ Born 1931-12-28 (gregorian calendar), Paris, 20th arrondissement: birth of Guy-E
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 5°18′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♌ Leo 12°56′ | 8 | 13.725°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 21°14′ | 12 | R -0.627°/d | detriment |  |
-| ♀ Venus | ♒ Aquarius 2°43′ | 2 | 1.241°/d |  |  |
-| ♂ Mars | ♑ Capricornus 13°40′ | 1 | 0.771°/d | exaltation |  |
-| ♃ Jupiter | ♌ Leo 22°03′ | 8 | R -0.059°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 23°05′ | 1 | 0.115°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 15°33′ | 4 | 0.002°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 7°59′ | 9 | R -0.009°/d (stationary) | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 21°26′ | 7 | R -0.021°/d |  |  |
-| ☊ North Node | ♈ Aries 0°30′ | 4 | mean node |  |  |
-| ☋ South Node | ♎ Libra 0°30′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 5°18′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♌ Leo 12°56′ | Cancer | 8 | 13.725°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 21°14′ | Ophiuchus | 12 | R -0.627°/d | detriment |  |
+| ♀ Venus | ♒ Aquarius 2°43′ | Capricornus | 2 | 1.241°/d |  |  |
+| ♂ Mars | ♑ Capricornus 13°40′ | Sagittarius | 1 | 0.771°/d | exaltation |  |
+| ♃ Jupiter | ♌ Leo 22°03′ | Leo | 8 | R -0.059°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 23°05′ | Sagittarius | 1 | 0.115°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 15°33′ | Pisces | 4 | 0.002°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 7°59′ | Leo | 9 | R -0.009°/d (stationary) | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 21°26′ | Gemini | 7 | R -0.021°/d |  |  |
+| ☊ North Node | ♈ Aries 0°30′ | Pisces | 4 | mean node |  |  |
+| ☋ South Node | ♎ Libra 0°30′ | Virgo | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

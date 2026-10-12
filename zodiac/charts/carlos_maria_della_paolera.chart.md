@@ -7,20 +7,20 @@ Born 1890-09-07 (gregorian calendar), Buenos Aires, the builder's house (lat -34
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 14°18′ | 1 | 0.971°/d |  |  |
-| ☽ Moon | ♊ Gemini 23°58′ | 10 | 12.180°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♎ Libra 10°59′ | 2 | 0.794°/d |  |  |
-| ♀ Venus | ♎ Libra 29°55′ | 2 | 1.064°/d | domicile |  |
-| ♂ Mars | ♐ Sagittarius 19°53′ | 4 | 0.571°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 3°09′ | 6 | R -0.068°/d |  |  |
-| ♄ Saturn | ♍ Virgo 8°19′ | 1 | 0.126°/d |  |  |
-| ♅ Uranus | ♎ Libra 24°18′ | 2 | 0.052°/d |  |  |
-| ♆ Neptune | ♊ Gemini 6°51′ | 10 | 0.001°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 7°56′ | 10 | 0.000°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 19°22′ | 10 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 19°22′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 14°18′ | Leo | 1 | 0.971°/d |  |  |
+| ☽ Moon | ♊ Gemini 23°58′ | Taurus | 10 | 12.180°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♎ Libra 10°59′ | Virgo | 2 | 0.794°/d |  |  |
+| ♀ Venus | ♎ Libra 29°55′ | Virgo | 2 | 1.064°/d | domicile |  |
+| ♂ Mars | ♐ Sagittarius 19°53′ | Ophiuchus | 4 | 0.571°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 3°09′ | Capricornus | 6 | R -0.068°/d |  |  |
+| ♄ Saturn | ♍ Virgo 8°19′ | Leo | 1 | 0.126°/d |  |  |
+| ♅ Uranus | ♎ Libra 24°18′ | Virgo | 2 | 0.052°/d |  |  |
+| ♆ Neptune | ♊ Gemini 6°51′ | Taurus | 10 | 0.001°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 7°56′ | Taurus | 10 | 0.000°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 19°22′ | Taurus | 10 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 19°22′ | Ophiuchus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

@@ -7,20 +7,20 @@ Born 1734-05-23 (gregorian calendar), Iznang, birth on the Untersee shore (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 1°31′ | 1 | 0.960°/d |  |  |
-| ☽ Moon | ♑ Capricornus 27°59′ | 8 | 12.076°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♉ Taurus 6°44′ | 12 | 1.137°/d |  |  |
-| ♀ Venus | ♈ Aries 17°52′ | 11 | 0.735°/d | detriment |  |
-| ♂ Mars | ♒ Aquarius 1°29′ | 9 | 0.346°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 6°23′ | 7 | R -0.126°/d | domicile |  |
-| ♄ Saturn | ♉ Taurus 7°07′ | 12 | 0.121°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 17°37′ | 7 | R -0.039°/d |  |  |
-| ♆ Neptune | ♊ Gemini 20°56′ | 1 | 0.036°/d |  |  |
-| ♇ Pluto | ♎ Libra 20°51′ | 5 | R -0.019°/d |  |  |
-| ☊ North Node | ♏ Scorpio 12°14′ | 6 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 12°14′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 1°31′ | Taurus | 1 | 0.960°/d |  |  |
+| ☽ Moon | ♑ Capricornus 27°59′ | Sagittarius | 8 | 12.076°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♉ Taurus 6°44′ | Aries | 12 | 1.137°/d |  |  |
+| ♀ Venus | ♈ Aries 17°52′ | Pisces | 11 | 0.735°/d | detriment |  |
+| ♂ Mars | ♒ Aquarius 1°29′ | Capricornus | 9 | 0.346°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 6°23′ | Scorpius | 7 | R -0.126°/d | domicile |  |
+| ♄ Saturn | ♉ Taurus 7°07′ | Aries | 12 | 0.121°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 17°37′ | Ophiuchus | 7 | R -0.039°/d |  |  |
+| ♆ Neptune | ♊ Gemini 20°56′ | Taurus | 1 | 0.036°/d |  |  |
+| ♇ Pluto | ♎ Libra 20°51′ | Virgo | 5 | R -0.019°/d |  |  |
+| ☊ North Node | ♏ Scorpio 12°14′ | Libra | 6 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 12°14′ | Aries | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

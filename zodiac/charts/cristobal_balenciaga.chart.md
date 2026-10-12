@@ -7,20 +7,20 @@ Born 1895-01-21 (gregorian calendar), Getaria, birth on the fishing coast (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 0°45′ | 1 | 1.018°/d | detriment |  |
-| ☽ Moon | ♐ Sagittarius 6°38′ | 11 | 12.422°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♒ Aquarius 7°58′ | 1 | 1.721°/d |  |  |
-| ♀ Venus | ♒ Aquarius 13°02′ | 1 | 1.254°/d |  |  |
-| ♂ Mars | ♉ Taurus 8°58′ | 4 | 0.477°/d | detriment |  |
-| ♃ Jupiter | ♊ Gemini 27°41′ | 5 | R -0.095°/d | detriment |  |
-| ♄ Saturn | ♏ Scorpio 6°49′ | 10 | 0.043°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 19°17′ | 10 | 0.029°/d |  |  |
-| ♆ Neptune | ♊ Gemini 13°18′ | 5 | R -0.017°/d |  |  |
-| ♇ Pluto | ♊ Gemini 10°00′ | 5 | R -0.011°/d |  |  |
-| ☊ North Node | ♓ Pisces 24°47′ | 2 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 24°47′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 0°45′ | Capricornus | 1 | 1.018°/d | detriment |  |
+| ☽ Moon | ♐ Sagittarius 6°38′ | Scorpius | 11 | 12.422°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♒ Aquarius 7°58′ | Capricornus | 1 | 1.721°/d |  |  |
+| ♀ Venus | ♒ Aquarius 13°02′ | Capricornus | 1 | 1.254°/d |  |  |
+| ♂ Mars | ♉ Taurus 8°58′ | Aries | 4 | 0.477°/d | detriment |  |
+| ♃ Jupiter | ♊ Gemini 27°41′ | Taurus | 5 | R -0.095°/d | detriment |  |
+| ♄ Saturn | ♏ Scorpio 6°49′ | Virgo | 10 | 0.043°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 19°17′ | Libra | 10 | 0.029°/d |  |  |
+| ♆ Neptune | ♊ Gemini 13°18′ | Taurus | 5 | R -0.017°/d |  |  |
+| ♇ Pluto | ♊ Gemini 10°00′ | Taurus | 5 | R -0.011°/d |  |  |
+| ☊ North Node | ♓ Pisces 24°47′ | Pisces | 2 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 24°47′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

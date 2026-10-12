@@ -7,20 +7,20 @@ Born 1849-04-19 (gregorian calendar), West Bloomfield, the surveyor's son (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 28°49′ | 1 | 0.976°/d | exaltation |  |
-| ☽ Moon | ♓ Pisces 6°14′ | 12 | 13.267°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♈ Aries 13°25′ | 1 | 1.820°/d |  |  |
-| ♀ Venus | ♉ Taurus 29°58′ | 2 | 0.092°/d | domicile |  |
-| ♂ Mars | ♓ Pisces 7°47′ | 12 | 0.765°/d |  |  |
-| ♃ Jupiter | ♌ Leo 12°42′ | 5 | 0.033°/d |  |  |
-| ♄ Saturn | ♈ Aries 1°45′ | 1 | 0.116°/d | fall |  |
-| ♅ Uranus | ♈ Aries 22°43′ | 1 | 0.057°/d |  |  |
-| ♆ Neptune | ♓ Pisces 4°10′ | 12 | 0.025°/d | domicile (modern) |  |
-| ♇ Pluto | ♈ Aries 27°27′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♍ Virgo 9°49′ | 6 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 9°49′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 28°49′ | Pisces | 1 | 0.976°/d | exaltation |  |
+| ☽ Moon | ♓ Pisces 6°14′ | Aquarius | 12 | 13.267°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♈ Aries 13°25′ | Pisces | 1 | 1.820°/d |  |  |
+| ♀ Venus | ♉ Taurus 29°58′ | Taurus | 2 | 0.092°/d | domicile |  |
+| ♂ Mars | ♓ Pisces 7°47′ | Aquarius | 12 | 0.765°/d |  |  |
+| ♃ Jupiter | ♌ Leo 12°42′ | Cancer | 5 | 0.033°/d |  |  |
+| ♄ Saturn | ♈ Aries 1°45′ | Pisces | 1 | 0.116°/d | fall |  |
+| ♅ Uranus | ♈ Aries 22°43′ | Pisces | 1 | 0.057°/d |  |  |
+| ♆ Neptune | ♓ Pisces 4°10′ | Aquarius | 12 | 0.025°/d | domicile (modern) |  |
+| ♇ Pluto | ♈ Aries 27°27′ | Pisces | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♍ Virgo 9°49′ | Leo | 6 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 9°49′ | Aquarius | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

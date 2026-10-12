@@ -7,20 +7,20 @@ Born 1829-06-08 (gregorian calendar), Southampton, the second son (lat 50.9097, 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 16°53′ | 1 | 0.956°/d |  |  |
-| ☽ Moon | ♌ Leo 29°56′ | 3 | 11.892°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♋ Cancer 10°59′ | 2 | 1.002°/d |  |  |
-| ♀ Venus | ♊ Gemini 21°48′ | 1 | 1.228°/d |  |  |
-| ♂ Mars | ♋ Cancer 9°42′ | 2 | 0.646°/d | fall |  |
-| ♃ Jupiter | ♐ Sagittarius 9°38′ | 7 | R -0.126°/d | domicile |  |
-| ♄ Saturn | ♌ Leo 1°32′ | 3 | 0.104°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 6°09′ | 9 | R -0.021°/d | domicile (modern) |  |
-| ♆ Neptune | ♑ Capricornus 20°02′ | 8 | R -0.021°/d |  |  |
-| ♇ Pluto | ♈ Aries 8°26′ | 11 | 0.011°/d |  |  |
-| ☊ North Node | ♎ Libra 3°59′ | 5 | mean node |  |  |
-| ☋ South Node | ♈ Aries 3°59′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 16°53′ | Taurus | 1 | 0.956°/d |  |  |
+| ☽ Moon | ♌ Leo 29°56′ | Leo | 3 | 11.892°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♋ Cancer 10°59′ | Gemini | 2 | 1.002°/d |  |  |
+| ♀ Venus | ♊ Gemini 21°48′ | Taurus | 1 | 1.228°/d |  |  |
+| ♂ Mars | ♋ Cancer 9°42′ | Gemini | 2 | 0.646°/d | fall |  |
+| ♃ Jupiter | ♐ Sagittarius 9°38′ | Ophiuchus | 7 | R -0.126°/d | domicile |  |
+| ♄ Saturn | ♌ Leo 1°32′ | Cancer | 3 | 0.104°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 6°09′ | Capricornus | 9 | R -0.021°/d | domicile (modern) |  |
+| ♆ Neptune | ♑ Capricornus 20°02′ | Sagittarius | 8 | R -0.021°/d |  |  |
+| ♇ Pluto | ♈ Aries 8°26′ | Pisces | 11 | 0.011°/d |  |  |
+| ☊ North Node | ♎ Libra 3°59′ | Virgo | 5 | mean node |  |  |
+| ☋ South Node | ♈ Aries 3°59′ | Pisces | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

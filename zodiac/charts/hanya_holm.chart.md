@@ -7,20 +7,20 @@ Born 1893-03-03 (gregorian calendar), Worms on the Rhine, the birth of Johanna E
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 12°41′ | 1 | 1.002°/d |  |  |
-| ☽ Moon | ♍ Virgo 16°38′ | 7 | 12.942°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 25°01′ | 1 | 1.842°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 27°20′ | 12 | 1.245°/d |  |  |
-| ♂ Mars | ♉ Taurus 13°01′ | 3 | 0.661°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 25°04′ | 2 | 0.208°/d |  |  |
-| ♄ Saturn | ♎ Libra 11°33′ | 8 | R -0.063°/d | exaltation |  |
-| ♅ Uranus | ♏ Scorpio 10°23′ | 9 | R -0.016°/d |  |  |
-| ♆ Neptune | ♊ Gemini 8°35′ | 4 | 0.008°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 7°54′ | 4 | 0.004°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 1°17′ | 3 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 1°17′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 12°41′ | Aquarius | 1 | 1.002°/d |  |  |
+| ☽ Moon | ♍ Virgo 16°38′ | Leo | 7 | 12.942°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 25°01′ | Pisces | 1 | 1.842°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 27°20′ | Capricornus | 12 | 1.245°/d |  |  |
+| ♂ Mars | ♉ Taurus 13°01′ | Aries | 3 | 0.661°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 25°04′ | Pisces | 2 | 0.208°/d |  |  |
+| ♄ Saturn | ♎ Libra 11°33′ | Virgo | 8 | R -0.063°/d | exaltation |  |
+| ♅ Uranus | ♏ Scorpio 10°23′ | Libra | 9 | R -0.016°/d |  |  |
+| ♆ Neptune | ♊ Gemini 8°35′ | Taurus | 4 | 0.008°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 7°54′ | Taurus | 4 | 0.004°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 1°17′ | Aries | 3 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 1°17′ | Virgo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

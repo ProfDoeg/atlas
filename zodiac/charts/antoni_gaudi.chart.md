@@ -7,20 +7,20 @@ Born 1852-06-25 (gregorian calendar), Reus, the coppersmith's fifth child (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 3°32′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♎ Libra 5°18′ | 4 | 14.212°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♊ Gemini 28°29′ | 12 | 2.166°/d | domicile |  |
-| ♀ Venus | ♌ Leo 6°25′ | 2 | 0.180°/d |  |  |
-| ♂ Mars | ♍ Virgo 7°17′ | 3 | 0.565°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 13°40′ | 5 | R -0.046°/d |  |  |
-| ♄ Saturn | ♉ Taurus 14°24′ | 11 | 0.099°/d |  |  |
-| ♅ Uranus | ♉ Taurus 7°36′ | 11 | 0.037°/d |  |  |
-| ♆ Neptune | ♓ Pisces 11°27′ | 9 | R -0.006°/d (stationary) | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 1°36′ | 11 | 0.012°/d | detriment (modern) |  |
-| ☊ North Node | ♋ Cancer 8°13′ | 1 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 8°13′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 3°32′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♎ Libra 5°18′ | Virgo | 4 | 14.212°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♊ Gemini 28°29′ | Taurus | 12 | 2.166°/d | domicile |  |
+| ♀ Venus | ♌ Leo 6°25′ | Cancer | 2 | 0.180°/d |  |  |
+| ♂ Mars | ♍ Virgo 7°17′ | Leo | 3 | 0.565°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 13°40′ | Libra | 5 | R -0.046°/d |  |  |
+| ♄ Saturn | ♉ Taurus 14°24′ | Aries | 11 | 0.099°/d |  |  |
+| ♅ Uranus | ♉ Taurus 7°36′ | Aries | 11 | 0.037°/d |  |  |
+| ♆ Neptune | ♓ Pisces 11°27′ | Aquarius | 9 | R -0.006°/d (stationary) | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 1°36′ | Aries | 11 | 0.012°/d | detriment (modern) |  |
+| ☊ North Node | ♋ Cancer 8°13′ | Gemini | 1 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 8°13′ | Sagittarius | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

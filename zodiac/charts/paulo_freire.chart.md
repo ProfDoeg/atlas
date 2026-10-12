@@ -7,20 +7,20 @@ Born 1921-09-19 (gregorian calendar), Recife: the birth on the nineteenth of Sep
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 25°30′ | 1 | 0.977°/d |  |  |
-| ☽ Moon | ♈ Aries 14°34′ | 8 | 12.362°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 15°25′ | 2 | 1.470°/d |  |  |
-| ♀ Venus | ♌ Leo 21°23′ | 12 | 1.197°/d |  |  |
-| ♂ Mars | ♌ Leo 29°42′ | 12 | 0.630°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 28°27′ | 1 | 0.216°/d | detriment |  |
-| ♄ Saturn | ♍ Virgo 27°48′ | 1 | 0.124°/d |  |  |
-| ♅ Uranus | ♓ Pisces 7°03′ | 7 | R -0.037°/d |  |  |
-| ♆ Neptune | ♌ Leo 15°04′ | 12 | 0.030°/d |  |  |
-| ♇ Pluto | ♋ Cancer 10°00′ | 11 | 0.008°/d (stationary) |  |  |
-| ☊ North Node | ♎ Libra 19°11′ | 2 | mean node |  |  |
-| ☋ South Node | ♈ Aries 19°11′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 25°30′ | Virgo | 1 | 0.977°/d |  |  |
+| ☽ Moon | ♈ Aries 14°34′ | Pisces | 8 | 12.362°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 15°25′ | Virgo | 2 | 1.470°/d |  |  |
+| ♀ Venus | ♌ Leo 21°23′ | Leo | 12 | 1.197°/d |  |  |
+| ♂ Mars | ♌ Leo 29°42′ | Leo | 12 | 0.630°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 28°27′ | Virgo | 1 | 0.216°/d | detriment |  |
+| ♄ Saturn | ♍ Virgo 27°48′ | Virgo | 1 | 0.124°/d |  |  |
+| ♅ Uranus | ♓ Pisces 7°03′ | Aquarius | 7 | R -0.037°/d |  |  |
+| ♆ Neptune | ♌ Leo 15°04′ | Cancer | 12 | 0.030°/d |  |  |
+| ♇ Pluto | ♋ Cancer 10°00′ | Gemini | 11 | 0.008°/d (stationary) |  |  |
+| ☊ North Node | ♎ Libra 19°11′ | Virgo | 2 | mean node |  |  |
+| ☋ South Node | ♈ Aries 19°11′ | Pisces | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

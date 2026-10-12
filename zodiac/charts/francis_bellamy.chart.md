@@ -7,20 +7,20 @@ Born 1855-05-18 (gregorian calendar), Mount Morris, birth in the manse (lat 42.7
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 26°28′ | 1 | 0.962°/d |  |  |
-| ☽ Moon | ♊ Gemini 19°22′ | 2 | 12.714°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 1°56′ | 2 | 2.168°/d | domicile |  |
-| ♀ Venus | ♋ Cancer 3°00′ | 3 | 1.173°/d |  |  |
-| ♂ Mars | ♉ Taurus 17°49′ | 1 | 0.726°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 0°42′ | 11 | 0.104°/d | domicile |  |
-| ♄ Saturn | ♊ Gemini 16°25′ | 2 | 0.125°/d |  |  |
-| ♅ Uranus | ♉ Taurus 17°23′ | 1 | 0.057°/d |  |  |
-| ♆ Neptune | ♓ Pisces 17°52′ | 11 | 0.018°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 3°47′ | 1 | 0.021°/d | detriment (modern) |  |
-| ☊ North Node | ♉ Taurus 12°15′ | 1 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 12°15′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 26°28′ | Taurus | 1 | 0.962°/d |  |  |
+| ☽ Moon | ♊ Gemini 19°22′ | Taurus | 2 | 12.714°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 1°56′ | Taurus | 2 | 2.168°/d | domicile |  |
+| ♀ Venus | ♋ Cancer 3°00′ | Gemini | 3 | 1.173°/d |  |  |
+| ♂ Mars | ♉ Taurus 17°49′ | Aries | 1 | 0.726°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 0°42′ | Aquarius | 11 | 0.104°/d | domicile |  |
+| ♄ Saturn | ♊ Gemini 16°25′ | Taurus | 2 | 0.125°/d |  |  |
+| ♅ Uranus | ♉ Taurus 17°23′ | Aries | 1 | 0.057°/d |  |  |
+| ♆ Neptune | ♓ Pisces 17°52′ | Aquarius | 11 | 0.018°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 3°47′ | Aries | 1 | 0.021°/d | detriment (modern) |  |
+| ☊ North Node | ♉ Taurus 12°15′ | Aries | 1 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 12°15′ | Libra | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1870-04-22 (gregorian calendar), Simbirsk, the birth house on Streletskaya 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 1°40′ | 1 | 0.974°/d |  |  |
-| ☽ Moon | ♑ Capricornus 23°25′ | 9 | 13.131°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♉ Taurus 11°05′ | 1 | 2.069°/d |  |  |
-| ♀ Venus | ♓ Pisces 16°14′ | 11 | 0.861°/d | exaltation |  |
-| ♂ Mars | ♈ Aries 23°01′ | 12 | 0.757°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 26°05′ | 1 | 0.225°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 28°08′ | 8 | R -0.024°/d |  |  |
-| ♅ Uranus | ♋ Cancer 18°08′ | 3 | 0.024°/d |  |  |
-| ♆ Neptune | ♈ Aries 19°43′ | 12 | 0.037°/d |  |  |
-| ♇ Pluto | ♉ Taurus 17°08′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♋ Cancer 23°30′ | 3 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 23°30′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 1°40′ | Aries | 1 | 0.974°/d |  |  |
+| ☽ Moon | ♑ Capricornus 23°25′ | Sagittarius | 9 | 13.131°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♉ Taurus 11°05′ | Aries | 1 | 2.069°/d |  |  |
+| ♀ Venus | ♓ Pisces 16°14′ | Aquarius | 11 | 0.861°/d | exaltation |  |
+| ♂ Mars | ♈ Aries 23°01′ | Pisces | 12 | 0.757°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 26°05′ | Taurus | 1 | 0.225°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 28°08′ | Sagittarius | 8 | R -0.024°/d |  |  |
+| ♅ Uranus | ♋ Cancer 18°08′ | Gemini | 3 | 0.024°/d |  |  |
+| ♆ Neptune | ♈ Aries 19°43′ | Pisces | 12 | 0.037°/d |  |  |
+| ♇ Pluto | ♉ Taurus 17°08′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♋ Cancer 23°30′ | Gemini | 3 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 23°30′ | Sagittarius | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

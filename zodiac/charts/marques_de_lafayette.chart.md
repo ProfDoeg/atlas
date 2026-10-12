@@ -7,20 +7,20 @@ Born 1757-09-06 (gregorian calendar), Château de Chavaniac, Auvergne: birth in 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 13°30′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♊ Gemini 20°21′ | 10 | 12.139°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 2°00′ | 2 | 1.543°/d |  |  |
-| ♀ Venus | ♎ Libra 7°32′ | 2 | 1.226°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 9°36′ | 11 | 0.612°/d | fall |  |
-| ♃ Jupiter | ♏ Scorpio 14°03′ | 3 | 0.156°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 16°38′ | 6 | R -0.062°/d | domicile |  |
-| ♅ Uranus | ♓ Pisces 21°42′ | 7 | R -0.040°/d |  |  |
-| ♆ Neptune | ♌ Leo 14°06′ | 12 | 0.033°/d |  |  |
-| ♇ Pluto | ♐ Sagittarius 18°12′ | 4 | 0.004°/d (stationary) |  |  |
-| ☊ North Node | ♌ Leo 11°45′ | 12 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 11°45′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 13°30′ | Leo | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♊ Gemini 20°21′ | Taurus | 10 | 12.139°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 2°00′ | Virgo | 2 | 1.543°/d |  |  |
+| ♀ Venus | ♎ Libra 7°32′ | Virgo | 2 | 1.226°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 9°36′ | Gemini | 11 | 0.612°/d | fall |  |
+| ♃ Jupiter | ♏ Scorpio 14°03′ | Libra | 3 | 0.156°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 16°38′ | Capricornus | 6 | R -0.062°/d | domicile |  |
+| ♅ Uranus | ♓ Pisces 21°42′ | Pisces | 7 | R -0.040°/d |  |  |
+| ♆ Neptune | ♌ Leo 14°06′ | Cancer | 12 | 0.033°/d |  |  |
+| ♇ Pluto | ♐ Sagittarius 18°12′ | Ophiuchus | 4 | 0.004°/d (stationary) |  |  |
+| ☊ North Node | ♌ Leo 11°45′ | Cancer | 12 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 11°45′ | Capricornus | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

@@ -7,20 +7,20 @@ Born 1830-03-05 (gregorian calendar), Beaune, the wine agent's only son (lat 47.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 13°58′ | 1 | 1.001°/d |  |  |
-| ☽ Moon | ♋ Cancer 22°23′ | 5 | 12.731°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 17°10′ | 12 | 0.718°/d |  |  |
-| ♀ Venus | ♓ Pisces 18°20′ | 1 | R -0.615°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 4°52′ | 11 | 0.668°/d | exaltation |  |
-| ♃ Jupiter | ♑ Capricornus 12°25′ | 11 | 0.162°/d | fall |  |
-| ♄ Saturn | ♌ Leo 12°40′ | 6 | R -0.063°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 8°34′ | 12 | 0.050°/d | domicile (modern) |  |
-| ♆ Neptune | ♑ Capricornus 22°05′ | 11 | 0.026°/d |  |  |
-| ♇ Pluto | ♈ Aries 7°30′ | 2 | 0.023°/d |  |  |
-| ☊ North Node | ♍ Virgo 19°42′ | 7 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 19°42′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 13°58′ | Aquarius | 1 | 1.001°/d |  |  |
+| ☽ Moon | ♋ Cancer 22°23′ | Gemini | 5 | 12.731°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 17°10′ | Capricornus | 12 | 0.718°/d |  |  |
+| ♀ Venus | ♓ Pisces 18°20′ | Aquarius | 1 | R -0.615°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 4°52′ | Sagittarius | 11 | 0.668°/d | exaltation |  |
+| ♃ Jupiter | ♑ Capricornus 12°25′ | Sagittarius | 11 | 0.162°/d | fall |  |
+| ♄ Saturn | ♌ Leo 12°40′ | Cancer | 6 | R -0.063°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 8°34′ | Capricornus | 12 | 0.050°/d | domicile (modern) |  |
+| ♆ Neptune | ♑ Capricornus 22°05′ | Sagittarius | 11 | 0.026°/d |  |  |
+| ♇ Pluto | ♈ Aries 7°30′ | Pisces | 2 | 0.023°/d |  |  |
+| ☊ North Node | ♍ Virgo 19°42′ | Leo | 7 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 19°42′ | Aquarius | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

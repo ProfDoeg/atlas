@@ -7,20 +7,20 @@ Born 1941-02-07 (gregorian calendar), Brooklyn, birth to two immigrations (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 17°51′ | 1 | 1.013°/d | detriment |  |
-| ☽ Moon | ♊ Gemini 15°47′ | 5 | 12.470°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 5°12′ | 2 | 1.393°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 0°07′ | 1 | 1.249°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 22°29′ | 11 | 0.683°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 8°09′ | 4 | 0.119°/d |  |  |
-| ♄ Saturn | ♉ Taurus 8°21′ | 4 | 0.052°/d |  |  |
-| ♅ Uranus | ♉ Taurus 22°15′ | 4 | 0.007°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 27°23′ | 8 | R -0.020°/d | detriment (modern) |  |
-| ♇ Pluto | ♌ Leo 2°55′ | 7 | R -0.022°/d |  |  |
-| ☊ North Node | ♎ Libra 4°13′ | 9 | mean node |  |  |
-| ☋ South Node | ♈ Aries 4°13′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 17°51′ | Capricornus | 1 | 1.013°/d | detriment |  |
+| ☽ Moon | ♊ Gemini 15°47′ | Taurus | 5 | 12.470°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 5°12′ | Aquarius | 2 | 1.393°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 0°07′ | Capricornus | 1 | 1.249°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 22°29′ | Ophiuchus | 11 | 0.683°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 8°09′ | Aries | 4 | 0.119°/d |  |  |
+| ♄ Saturn | ♉ Taurus 8°21′ | Aries | 4 | 0.052°/d |  |  |
+| ♅ Uranus | ♉ Taurus 22°15′ | Aries | 4 | 0.007°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 27°23′ | Virgo | 8 | R -0.020°/d | detriment (modern) |  |
+| ♇ Pluto | ♌ Leo 2°55′ | Cancer | 7 | R -0.022°/d |  |  |
+| ☊ North Node | ♎ Libra 4°13′ | Virgo | 9 | mean node |  |  |
+| ☋ South Node | ♈ Aries 4°13′ | Pisces | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

@@ -7,20 +7,20 @@ Born 1896-09-04 (gregorian calendar), Marseille, 4 rue du Jardin-des-Plantes (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 11°56′ | 1 | 0.970°/d |  |  |
-| ☽ Moon | ♋ Cancer 24°13′ | 11 | 13.605°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♎ Libra 6°57′ | 2 | 1.284°/d |  |  |
-| ♀ Venus | ♍ Virgo 27°24′ | 1 | 1.236°/d | fall |  |
-| ♂ Mars | ♊ Gemini 10°42′ | 10 | 0.529°/d |  |  |
-| ♃ Jupiter | ♌ Leo 24°58′ | 12 | 0.214°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 14°28′ | 3 | 0.074°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 20°52′ | 3 | 0.031°/d |  |  |
-| ♆ Neptune | ♊ Gemini 20°14′ | 10 | 0.010°/d |  |  |
-| ♇ Pluto | ♊ Gemini 13°45′ | 10 | 0.003°/d (stationary) |  |  |
-| ☊ North Node | ♒ Aquarius 23°27′ | 6 | mean node |  |  |
-| ☋ South Node | ♌ Leo 23°27′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 11°56′ | Leo | 1 | 0.970°/d |  |  |
+| ☽ Moon | ♋ Cancer 24°13′ | Gemini | 11 | 13.605°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♎ Libra 6°57′ | Virgo | 2 | 1.284°/d |  |  |
+| ♀ Venus | ♍ Virgo 27°24′ | Virgo | 1 | 1.236°/d | fall |  |
+| ♂ Mars | ♊ Gemini 10°42′ | Taurus | 10 | 0.529°/d |  |  |
+| ♃ Jupiter | ♌ Leo 24°58′ | Leo | 12 | 0.214°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 14°28′ | Libra | 3 | 0.074°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 20°52′ | Libra | 3 | 0.031°/d |  |  |
+| ♆ Neptune | ♊ Gemini 20°14′ | Taurus | 10 | 0.010°/d |  |  |
+| ♇ Pluto | ♊ Gemini 13°45′ | Taurus | 10 | 0.003°/d (stationary) |  |  |
+| ☊ North Node | ♒ Aquarius 23°27′ | Capricornus | 6 | mean node |  |  |
+| ☋ South Node | ♌ Leo 23°27′ | Leo | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

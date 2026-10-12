@@ -7,20 +7,20 @@ Born 1930-04-07 (gregorian calendar), Santiago de Cuba: born in the lawyer's hou
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 16°28′ | 1 | 0.983°/d | exaltation |  |
-| ☽ Moon | ♋ Cancer 23°23′ | 4 | 14.228°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♈ Aries 22°23′ | 1 | 2.077°/d |  |  |
-| ♀ Venus | ♉ Taurus 1°06′ | 2 | 1.235°/d | domicile |  |
-| ♂ Mars | ♓ Pisces 16°13′ | 12 | 0.780°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 12°50′ | 3 | 0.173°/d | detriment |  |
-| ♄ Saturn | ♑ Capricornus 11°31′ | 10 | 0.023°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 11°45′ | 1 | 0.057°/d |  |  |
-| ♆ Neptune | ♍ Virgo 1°13′ | 6 | R -0.018°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 17°29′ | 4 | 0.003°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 3°51′ | 2 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 3°51′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 16°28′ | Pisces | 1 | 0.983°/d | exaltation |  |
+| ☽ Moon | ♋ Cancer 23°23′ | Gemini | 4 | 14.228°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♈ Aries 22°23′ | Pisces | 1 | 2.077°/d |  |  |
+| ♀ Venus | ♉ Taurus 1°06′ | Aries | 2 | 1.235°/d | domicile |  |
+| ♂ Mars | ♓ Pisces 16°13′ | Aquarius | 12 | 0.780°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 12°50′ | Taurus | 3 | 0.173°/d | detriment |  |
+| ♄ Saturn | ♑ Capricornus 11°31′ | Sagittarius | 10 | 0.023°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 11°45′ | Pisces | 1 | 0.057°/d |  |  |
+| ♆ Neptune | ♍ Virgo 1°13′ | Leo | 6 | R -0.018°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 17°29′ | Gemini | 4 | 0.003°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 3°51′ | Aries | 2 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 3°51′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

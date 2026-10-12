@@ -7,20 +7,20 @@ Born 1890-12-05 (gregorian calendar), Vienna, Schenkenstrasse 6: the birth (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 12°51′ | 1 | 1.015°/d |  |  |
-| ☽ Moon | ♍ Virgo 17°39′ | 10 | 11.981°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 22°42′ | 1 | 1.551°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 11°34′ | 1 | R -0.606°/d |  |  |
-| ♂ Mars | ♒ Aquarius 20°59′ | 3 | 0.745°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 9°08′ | 3 | 0.181°/d |  |  |
-| ♄ Saturn | ♍ Virgo 16°50′ | 10 | 0.041°/d |  |  |
-| ♅ Uranus | ♎ Libra 29°32′ | 11 | 0.050°/d |  |  |
-| ♆ Neptune | ♊ Gemini 5°13′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 6°49′ | 7 | R -0.019°/d |  |  |
-| ☊ North Node | ♊ Gemini 14°39′ | 7 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 14°39′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 12°51′ | Ophiuchus | 1 | 1.015°/d |  |  |
+| ☽ Moon | ♍ Virgo 17°39′ | Leo | 10 | 11.981°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 22°42′ | Ophiuchus | 1 | 1.551°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 11°34′ | Ophiuchus | 1 | R -0.606°/d |  |  |
+| ♂ Mars | ♒ Aquarius 20°59′ | Capricornus | 3 | 0.745°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 9°08′ | Capricornus | 3 | 0.181°/d |  |  |
+| ♄ Saturn | ♍ Virgo 16°50′ | Leo | 10 | 0.041°/d |  |  |
+| ♅ Uranus | ♎ Libra 29°32′ | Virgo | 11 | 0.050°/d |  |  |
+| ♆ Neptune | ♊ Gemini 5°13′ | Taurus | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 6°49′ | Taurus | 7 | R -0.019°/d |  |  |
+| ☊ North Node | ♊ Gemini 14°39′ | Taurus | 7 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 14°39′ | Ophiuchus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

@@ -7,20 +7,20 @@ Born 1875-08-13 (gregorian calendar), Kronstadt, birth under the Burzenland moun
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 19°48′ | 1 | 0.961°/d | domicile |  |
-| ☽ Moon | ♑ Capricornus 2°07′ | 6 | 12.193°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♌ Leo 10°07′ | 1 | 1.991°/d |  |  |
-| ♀ Venus | ♌ Leo 8°38′ | 1 | 1.232°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 23°38′ | 5 | 0.240°/d |  |  |
-| ♃ Jupiter | ♎ Libra 25°52′ | 3 | 0.141°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 22°34′ | 7 | R -0.075°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 15°43′ | 1 | 0.062°/d | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 3°04′ | 10 | R -0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 23°40′ | 10 | 0.004°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 10°49′ | 9 | mean node |  |  |
-| ☋ South Node | ♎ Libra 10°49′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 19°48′ | Leo | 1 | 0.961°/d | domicile |  |
+| ☽ Moon | ♑ Capricornus 2°07′ | Sagittarius | 6 | 12.193°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♌ Leo 10°07′ | Cancer | 1 | 1.991°/d |  |  |
+| ♀ Venus | ♌ Leo 8°38′ | Cancer | 1 | 1.232°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 23°38′ | Ophiuchus | 5 | 0.240°/d |  |  |
+| ♃ Jupiter | ♎ Libra 25°52′ | Virgo | 3 | 0.141°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 22°34′ | Capricornus | 7 | R -0.075°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 15°43′ | Cancer | 1 | 0.062°/d | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 3°04′ | Aries | 10 | R -0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 23°40′ | Taurus | 10 | 0.004°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 10°49′ | Pisces | 9 | mean node |  |  |
+| ☋ South Node | ♎ Libra 10°49′ | Virgo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

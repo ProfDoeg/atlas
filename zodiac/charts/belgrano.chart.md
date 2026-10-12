@@ -7,20 +7,20 @@ Born 1770-06-03 (gregorian calendar), Buenos Aires, casa natal, calle Santo Domi
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 12°21′ | 1 | 0.957°/d |  |  |
-| ☽ Moon | ♎ Libra 11°05′ | 5 | 12.942°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 6°07′ | 2 | 1.040°/d |  |  |
-| ♀ Venus | ♋ Cancer 0°13′ | 2 | 1.222°/d |  |  |
-| ♂ Mars | ♈ Aries 10°48′ | 11 | 0.741°/d | domicile |  |
-| ♃ Jupiter | ♐ Sagittarius 20°27′ | 7 | R -0.125°/d | domicile |  |
-| ♄ Saturn | ♋ Cancer 29°15′ | 2 | 0.102°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 13°21′ | 12 | 0.052°/d |  |  |
-| ♆ Neptune | ♍ Virgo 9°08′ | 4 | 0.007°/d (stationary) | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 17°13′ | 8 | R -0.019°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 5°22′ | 7 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 5°22′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 12°21′ | Taurus | 1 | 0.957°/d |  |  |
+| ☽ Moon | ♎ Libra 11°05′ | Virgo | 5 | 12.942°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 6°07′ | Gemini | 2 | 1.040°/d |  |  |
+| ♀ Venus | ♋ Cancer 0°13′ | Taurus | 2 | 1.222°/d |  |  |
+| ♂ Mars | ♈ Aries 10°48′ | Pisces | 11 | 0.741°/d | domicile |  |
+| ♃ Jupiter | ♐ Sagittarius 20°27′ | Ophiuchus | 7 | R -0.125°/d | domicile |  |
+| ♄ Saturn | ♋ Cancer 29°15′ | Cancer | 2 | 0.102°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 13°21′ | Aries | 12 | 0.052°/d |  |  |
+| ♆ Neptune | ♍ Virgo 9°08′ | Leo | 4 | 0.007°/d (stationary) | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 17°13′ | Sagittarius | 8 | R -0.019°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 5°22′ | Scorpius | 7 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 5°22′ | Taurus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

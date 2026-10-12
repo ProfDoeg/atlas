@@ -7,20 +7,20 @@ Born 1895-02-14 (gregorian calendar), Zuffenhausen, born in the manufacturer's h
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 25°05′ | 1 | 1.010°/d | detriment |  |
-| ☽ Moon | ♎ Libra 23°43′ | 9 | 13.872°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♓ Pisces 11°58′ | 2 | 0.382°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 13°02′ | 2 | 1.246°/d | exaltation |  |
-| ♂ Mars | ♉ Taurus 21°14′ | 4 | 0.539°/d | detriment |  |
-| ♃ Jupiter | ♊ Gemini 26°16′ | 5 | R -0.020°/d | detriment |  |
-| ♄ Saturn | ♏ Scorpio 7°21′ | 10 | 0.002°/d (stationary) |  |  |
-| ♅ Uranus | ♏ Scorpio 19°44′ | 10 | 0.008°/d (stationary) |  |  |
-| ♆ Neptune | ♊ Gemini 13°02′ | 5 | R -0.005°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 9°50′ | 5 | R -0.003°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 23°31′ | 2 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 23°31′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 25°05′ | Capricornus | 1 | 1.010°/d | detriment |  |
+| ☽ Moon | ♎ Libra 23°43′ | Virgo | 9 | 13.872°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♓ Pisces 11°58′ | Aquarius | 2 | 0.382°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 13°02′ | Aquarius | 2 | 1.246°/d | exaltation |  |
+| ♂ Mars | ♉ Taurus 21°14′ | Aries | 4 | 0.539°/d | detriment |  |
+| ♃ Jupiter | ♊ Gemini 26°16′ | Taurus | 5 | R -0.020°/d | detriment |  |
+| ♄ Saturn | ♏ Scorpio 7°21′ | Virgo | 10 | 0.002°/d (stationary) |  |  |
+| ♅ Uranus | ♏ Scorpio 19°44′ | Libra | 10 | 0.008°/d (stationary) |  |  |
+| ♆ Neptune | ♊ Gemini 13°02′ | Taurus | 5 | R -0.005°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 9°50′ | Taurus | 5 | R -0.003°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 23°31′ | Pisces | 2 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 23°31′ | Leo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

@@ -7,20 +7,20 @@ Born 1932-10-11 (gregorian calendar), Bilbao, Abando: the lawyer's son (lat 43.2
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 17°28′ | 1 | 0.989°/d | fall |  |
-| ☽ Moon | ♓ Pisces 7°37′ | 6 | 12.489°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 25°45′ | 1 | 1.623°/d |  |  |
-| ♀ Venus | ♍ Virgo 4°14′ | 12 | 1.132°/d | fall |  |
-| ♂ Mars | ♌ Leo 11°54′ | 11 | 0.573°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 12°50′ | 12 | 0.196°/d | detriment |  |
-| ♄ Saturn | ♑ Capricornus 27°55′ | 4 | 0.014°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 21°40′ | 7 | R -0.041°/d |  |  |
-| ♆ Neptune | ♍ Virgo 9°14′ | 12 | 0.031°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 23°27′ | 10 | 0.006°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 15°15′ | 6 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 15°15′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 17°28′ | Virgo | 1 | 0.989°/d | fall |  |
+| ☽ Moon | ♓ Pisces 7°37′ | Aquarius | 6 | 12.489°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 25°45′ | Virgo | 1 | 1.623°/d |  |  |
+| ♀ Venus | ♍ Virgo 4°14′ | Leo | 12 | 1.132°/d | fall |  |
+| ♂ Mars | ♌ Leo 11°54′ | Cancer | 11 | 0.573°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 12°50′ | Leo | 12 | 0.196°/d | detriment |  |
+| ♄ Saturn | ♑ Capricornus 27°55′ | Sagittarius | 4 | 0.014°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 21°40′ | Pisces | 7 | R -0.041°/d |  |  |
+| ♆ Neptune | ♍ Virgo 9°14′ | Leo | 12 | 0.031°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 23°27′ | Gemini | 10 | 0.006°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 15°15′ | Aquarius | 6 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 15°15′ | Leo | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

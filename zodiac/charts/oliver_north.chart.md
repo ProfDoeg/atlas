@@ -7,20 +7,20 @@ Born 1943-10-07 (gregorian calendar), San Antonio, the birth on the seventh of O
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 12°52′ | 1 | 0.987°/d | fall |  |
-| ☽ Moon | ♑ Capricornus 14°56′ | 4 | 13.989°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 25°35′ | 12 | 0.545°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 6°03′ | 12 | 0.343°/d | fall |  |
-| ♂ Mars | ♊ Gemini 19°13′ | 9 | 0.266°/d |  |  |
-| ♃ Jupiter | ♌ Leo 20°31′ | 11 | 0.171°/d |  |  |
-| ♄ Saturn | ♊ Gemini 26°29′ | 9 | 0.005°/d (stationary) |  |  |
-| ♅ Uranus | ♊ Gemini 8°41′ | 9 | R -0.018°/d |  |  |
-| ♆ Neptune | ♎ Libra 2°19′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♌ Leo 8°32′ | 11 | 0.015°/d |  |  |
-| ☊ North Node | ♌ Leo 12°45′ | 11 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 12°45′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 12°52′ | Virgo | 1 | 0.987°/d | fall |  |
+| ☽ Moon | ♑ Capricornus 14°56′ | Sagittarius | 4 | 13.989°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 25°35′ | Virgo | 12 | 0.545°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 6°03′ | Leo | 12 | 0.343°/d | fall |  |
+| ♂ Mars | ♊ Gemini 19°13′ | Taurus | 9 | 0.266°/d |  |  |
+| ♃ Jupiter | ♌ Leo 20°31′ | Leo | 11 | 0.171°/d |  |  |
+| ♄ Saturn | ♊ Gemini 26°29′ | Taurus | 9 | 0.005°/d (stationary) |  |  |
+| ♅ Uranus | ♊ Gemini 8°41′ | Taurus | 9 | R -0.018°/d |  |  |
+| ♆ Neptune | ♎ Libra 2°19′ | Virgo | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♌ Leo 8°32′ | Cancer | 11 | 0.015°/d |  |  |
+| ☊ North Node | ♌ Leo 12°45′ | Cancer | 11 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 12°45′ | Capricornus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

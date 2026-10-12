@@ -7,20 +7,20 @@ Born 1880-10-17 (gregorian calendar), Odessa, birth on the Black Sea coast (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 24°00′ | 1 | 0.994°/d | fall |  |
-| ☽ Moon | ♈ Aries 9°46′ | 7 | 13.145°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 12°47′ | 2 | 1.425°/d |  |  |
-| ♀ Venus | ♏ Scorpio 19°12′ | 2 | 1.234°/d | detriment |  |
-| ♂ Mars | ♎ Libra 26°49′ | 1 | 0.674°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 13°23′ | 7 | R -0.130°/d |  |  |
-| ♄ Saturn | ♈ Aries 25°18′ | 7 | R -0.080°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 11°52′ | 12 | 0.050°/d |  |  |
-| ♆ Neptune | ♉ Taurus 13°26′ | 8 | R -0.026°/d |  |  |
-| ♇ Pluto | ♉ Taurus 27°59′ | 8 | R -0.015°/d | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 0°38′ | 4 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 0°38′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 24°00′ | Virgo | 1 | 0.994°/d | fall |  |
+| ☽ Moon | ♈ Aries 9°46′ | Pisces | 7 | 13.145°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 12°47′ | Libra | 2 | 1.425°/d |  |  |
+| ♀ Venus | ♏ Scorpio 19°12′ | Libra | 2 | 1.234°/d | detriment |  |
+| ♂ Mars | ♎ Libra 26°49′ | Virgo | 1 | 0.674°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 13°23′ | Pisces | 7 | R -0.130°/d |  |  |
+| ♄ Saturn | ♈ Aries 25°18′ | Pisces | 7 | R -0.080°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 11°52′ | Leo | 12 | 0.050°/d |  |  |
+| ♆ Neptune | ♉ Taurus 13°26′ | Aries | 8 | R -0.026°/d |  |  |
+| ♇ Pluto | ♉ Taurus 27°59′ | Taurus | 8 | R -0.015°/d | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 0°38′ | Sagittarius | 4 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 0°38′ | Gemini | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

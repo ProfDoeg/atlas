@@ -7,20 +7,20 @@ Born 1856-12-19 (gregorian calendar), Poznan, birth in the provisions merchant's
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 27°21′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♍ Virgo 24°17′ | 10 | 11.959°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♑ Capricornus 2°19′ | 2 | 1.593°/d |  |  |
-| ♀ Venus | ♒ Aquarius 4°43′ | 3 | 1.214°/d |  |  |
-| ♂ Mars | ♒ Aquarius 9°03′ | 3 | 0.782°/d |  |  |
-| ♃ Jupiter | ♈ Aries 0°18′ | 5 | 0.083°/d |  |  |
-| ♄ Saturn | ♋ Cancer 11°57′ | 8 | R -0.079°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 21°47′ | 6 | R -0.032°/d |  |  |
-| ♆ Neptune | ♓ Pisces 17°44′ | 4 | 0.012°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 3°52′ | 6 | R -0.010°/d | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 11°29′ | 5 | mean node |  |  |
-| ☋ South Node | ♎ Libra 11°29′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 27°21′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♍ Virgo 24°17′ | Virgo | 10 | 11.959°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♑ Capricornus 2°19′ | Sagittarius | 2 | 1.593°/d |  |  |
+| ♀ Venus | ♒ Aquarius 4°43′ | Capricornus | 3 | 1.214°/d |  |  |
+| ♂ Mars | ♒ Aquarius 9°03′ | Capricornus | 3 | 0.782°/d |  |  |
+| ♃ Jupiter | ♈ Aries 0°18′ | Pisces | 5 | 0.083°/d |  |  |
+| ♄ Saturn | ♋ Cancer 11°57′ | Gemini | 8 | R -0.079°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 21°47′ | Aries | 6 | R -0.032°/d |  |  |
+| ♆ Neptune | ♓ Pisces 17°44′ | Aquarius | 4 | 0.012°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 3°52′ | Aries | 6 | R -0.010°/d | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 11°29′ | Pisces | 5 | mean node |  |  |
+| ☋ South Node | ♎ Libra 11°29′ | Virgo | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

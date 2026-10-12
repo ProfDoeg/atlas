@@ -7,20 +7,20 @@ Born 1797-08-30 (gregorian calendar), Somers Town, the birth and the death eleve
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 7°02′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 16°03′ | 4 | 12.235°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 27°17′ | 1 | 1.515°/d | domicile, exaltation |  |
-| ♀ Venus | ♎ Libra 2°10′ | 2 | 1.223°/d | domicile |  |
-| ♂ Mars | ♍ Virgo 0°26′ | 1 | 0.636°/d |  |  |
-| ♃ Jupiter | ♈ Aries 19°05′ | 8 | R -0.069°/d |  |  |
-| ♄ Saturn | ♋ Cancer 9°37′ | 11 | 0.089°/d | detriment |  |
-| ♅ Uranus | ♍ Virgo 12°30′ | 1 | 0.063°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 8°27′ | 3 | 0.021°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 29°13′ | 6 | R -0.021°/d |  |  |
-| ☊ North Node | ♊ Gemini 18°28′ | 10 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 18°28′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 7°02′ | Leo | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 16°03′ | Ophiuchus | 4 | 12.235°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 27°17′ | Virgo | 1 | 1.515°/d | domicile, exaltation |  |
+| ♀ Venus | ♎ Libra 2°10′ | Virgo | 2 | 1.223°/d | domicile |  |
+| ♂ Mars | ♍ Virgo 0°26′ | Leo | 1 | 0.636°/d |  |  |
+| ♃ Jupiter | ♈ Aries 19°05′ | Pisces | 8 | R -0.069°/d |  |  |
+| ♄ Saturn | ♋ Cancer 9°37′ | Gemini | 11 | 0.089°/d | detriment |  |
+| ♅ Uranus | ♍ Virgo 12°30′ | Leo | 1 | 0.063°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 8°27′ | Libra | 3 | 0.021°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 29°13′ | Aquarius | 6 | R -0.021°/d |  |  |
+| ☊ North Node | ♊ Gemini 18°28′ | Taurus | 10 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 18°28′ | Ophiuchus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

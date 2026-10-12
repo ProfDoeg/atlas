@@ -7,20 +7,20 @@ Born 1908-01-09 (gregorian calendar), Boulevard du Montparnasse, the birth of a 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 17°21′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♓ Pisces 27°27′ | 3 | 13.947°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♑ Capricornus 14°00′ | 1 | 1.610°/d |  |  |
-| ♀ Venus | ♒ Aquarius 15°42′ | 2 | 1.239°/d |  |  |
-| ♂ Mars | ♓ Pisces 28°26′ | 3 | 0.703°/d |  |  |
-| ♃ Jupiter | ♌ Leo 11°16′ | 8 | R -0.113°/d |  |  |
-| ♄ Saturn | ♓ Pisces 22°18′ | 3 | 0.074°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 13°04′ | 1 | 0.060°/d |  |  |
-| ♆ Neptune | ♋ Cancer 13°26′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 23°23′ | 6 | R -0.018°/d |  |  |
-| ☊ North Node | ♋ Cancer 14°03′ | 7 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 14°03′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 17°21′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♓ Pisces 27°27′ | Pisces | 3 | 13.947°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♑ Capricornus 14°00′ | Sagittarius | 1 | 1.610°/d |  |  |
+| ♀ Venus | ♒ Aquarius 15°42′ | Capricornus | 2 | 1.239°/d |  |  |
+| ♂ Mars | ♓ Pisces 28°26′ | Pisces | 3 | 0.703°/d |  |  |
+| ♃ Jupiter | ♌ Leo 11°16′ | Cancer | 8 | R -0.113°/d |  |  |
+| ♄ Saturn | ♓ Pisces 22°18′ | Pisces | 3 | 0.074°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 13°04′ | Sagittarius | 1 | 0.060°/d |  |  |
+| ♆ Neptune | ♋ Cancer 13°26′ | Gemini | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 23°23′ | Taurus | 6 | R -0.018°/d |  |  |
+| ☊ North Node | ♋ Cancer 14°03′ | Gemini | 7 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 14°03′ | Sagittarius | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

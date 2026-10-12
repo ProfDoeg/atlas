@@ -7,20 +7,20 @@ Born 1873-09-08 (gregorian calendar), Laval: born on the Mayenne (lat 48.0682, l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 15°23′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♈ Aries 1°23′ | 8 | 15.180°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♍ Virgo 0°43′ | 1 | 1.697°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 6°15′ | 12 | 1.162°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 5°35′ | 4 | 0.640°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 12°46′ | 1 | 0.217°/d | detriment |  |
-| ♄ Saturn | ♑ Capricornus 26°10′ | 5 | R -0.035°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 8°26′ | 12 | 0.052°/d | detriment (modern) |  |
-| ♆ Neptune | ♈ Aries 28°12′ | 8 | R -0.019°/d |  |  |
-| ♇ Pluto | ♉ Taurus 21°45′ | 9 | R -0.006°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♉ Taurus 18°06′ | 9 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 18°06′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 15°23′ | Leo | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♈ Aries 1°23′ | Pisces | 8 | 15.180°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♍ Virgo 0°43′ | Leo | 1 | 1.697°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 6°15′ | Cancer | 12 | 1.162°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 5°35′ | Scorpius | 4 | 0.640°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 12°46′ | Leo | 1 | 0.217°/d | detriment |  |
+| ♄ Saturn | ♑ Capricornus 26°10′ | Sagittarius | 5 | R -0.035°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 8°26′ | Cancer | 12 | 0.052°/d | detriment (modern) |  |
+| ♆ Neptune | ♈ Aries 28°12′ | Pisces | 8 | R -0.019°/d |  |  |
+| ♇ Pluto | ♉ Taurus 21°45′ | Aries | 9 | R -0.006°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♉ Taurus 18°06′ | Aries | 9 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 18°06′ | Libra | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

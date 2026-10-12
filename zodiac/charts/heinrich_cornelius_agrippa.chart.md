@@ -7,20 +7,20 @@ Born 1486-09-14 (julian calendar), Cologne, birth in the colony of Agrippina (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 29°43′ | 1 | 0.984°/d |  |  |
-| ☽ Moon | ♈ Aries 1°14′ | 8 | 13.837°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♎ Libra 14°04′ | 2 | 1.565°/d |  |  |
-| ♀ Venus | ♌ Leo 16°17′ | 12 | 1.121°/d |  |  |
-| ♂ Mars | ♊ Gemini 20°16′ | 10 | 0.418°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 3°25′ | 5 | 0.075°/d | fall |  |
-| ♄ Saturn | ♐ Sagittarius 6°43′ | 4 | 0.067°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 29°07′ | 4 | 0.013°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 13°55′ | 4 | 0.015°/d |  |  |
-| ♇ Pluto | ♎ Libra 18°25′ | 2 | 0.038°/d |  |  |
-| ☊ North Node | ♓ Pisces 2°19′ | 7 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 2°19′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 29°43′ | Virgo | 1 | 0.984°/d |  |  |
+| ☽ Moon | ♈ Aries 1°14′ | Pisces | 8 | 13.837°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♎ Libra 14°04′ | Virgo | 2 | 1.565°/d |  |  |
+| ♀ Venus | ♌ Leo 16°17′ | Cancer | 12 | 1.121°/d |  |  |
+| ♂ Mars | ♊ Gemini 20°16′ | Taurus | 10 | 0.418°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 3°25′ | Sagittarius | 5 | 0.075°/d | fall |  |
+| ♄ Saturn | ♐ Sagittarius 6°43′ | Scorpius | 4 | 0.067°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 29°07′ | Sagittarius | 4 | 0.013°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 13°55′ | Ophiuchus | 4 | 0.015°/d |  |  |
+| ♇ Pluto | ♎ Libra 18°25′ | Virgo | 2 | 0.038°/d |  |  |
+| ☊ North Node | ♓ Pisces 2°19′ | Aquarius | 7 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 2°19′ | Leo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

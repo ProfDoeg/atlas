@@ -7,20 +7,20 @@ Born 1918-08-26 (gregorian calendar), White Sulphur Springs, the youngest of fou
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 1°57′ | 1 | 0.965°/d |  |  |
-| ☽ Moon | ♈ Aries 24°46′ | 8 | 14.649°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♍ Virgo 14°46′ | 1 | R -0.631°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 8°52′ | 12 | 1.220°/d |  |  |
-| ♂ Mars | ♏ Scorpio 5°34′ | 3 | 0.640°/d | domicile |  |
-| ♃ Jupiter | ♋ Cancer 8°55′ | 11 | 0.177°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 20°02′ | 12 | 0.126°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 25°32′ | 6 | R -0.040°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 7°51′ | 12 | 0.035°/d |  |  |
-| ♇ Pluto | ♋ Cancer 6°21′ | 11 | 0.015°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 18°29′ | 4 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 18°29′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 1°57′ | Leo | 1 | 0.965°/d |  |  |
+| ☽ Moon | ♈ Aries 24°46′ | Pisces | 8 | 14.649°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♍ Virgo 14°46′ | Leo | 1 | R -0.631°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 8°52′ | Cancer | 12 | 1.220°/d |  |  |
+| ♂ Mars | ♏ Scorpio 5°34′ | Virgo | 3 | 0.640°/d | domicile |  |
+| ♃ Jupiter | ♋ Cancer 8°55′ | Gemini | 11 | 0.177°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 20°02′ | Leo | 12 | 0.126°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 25°32′ | Capricornus | 6 | R -0.040°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 7°51′ | Cancer | 12 | 0.035°/d |  |  |
+| ♇ Pluto | ♋ Cancer 6°21′ | Gemini | 11 | 0.015°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 18°29′ | Ophiuchus | 4 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 18°29′ | Taurus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

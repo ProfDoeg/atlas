@@ -7,20 +7,20 @@ Born 1630-06-21 (gregorian calendar), Frankfurt am Main, the Judengasse, house o
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 29°22′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♏ Scorpio 13°53′ | 6 | 13.765°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 19°26′ | 2 | 1.672°/d |  |  |
-| ♀ Venus | ♉ Taurus 15°59′ | 12 | 0.719°/d | domicile |  |
-| ♂ Mars | ♌ Leo 26°00′ | 3 | 0.581°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 12°41′ | 10 | 0.036°/d | domicile |  |
-| ♄ Saturn | ♎ Libra 28°35′ | 5 | R -0.018°/d | exaltation |  |
-| ♅ Uranus | ♍ Virgo 11°28′ | 4 | 0.029°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 0°57′ | 6 | R -0.011°/d |  |  |
-| ♇ Pluto | ♉ Taurus 22°18′ | 12 | 0.019°/d | detriment (modern) |  |
-| ☊ North Node | ♊ Gemini 12°10′ | 1 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 12°10′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 29°22′ | Taurus | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♏ Scorpio 13°53′ | Libra | 6 | 13.765°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 19°26′ | Gemini | 2 | 1.672°/d |  |  |
+| ♀ Venus | ♉ Taurus 15°59′ | Aries | 12 | 0.719°/d | domicile |  |
+| ♂ Mars | ♌ Leo 26°00′ | Leo | 3 | 0.581°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 12°41′ | Aquarius | 10 | 0.036°/d | domicile |  |
+| ♄ Saturn | ♎ Libra 28°35′ | Virgo | 5 | R -0.018°/d | exaltation |  |
+| ♅ Uranus | ♍ Virgo 11°28′ | Leo | 4 | 0.029°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 0°57′ | Virgo | 6 | R -0.011°/d |  |  |
+| ♇ Pluto | ♉ Taurus 22°18′ | Aries | 12 | 0.019°/d | detriment (modern) |  |
+| ☊ North Node | ♊ Gemini 12°10′ | Taurus | 1 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 12°10′ | Ophiuchus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

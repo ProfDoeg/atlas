@@ -7,20 +7,20 @@ Born 1815-12-10 (gregorian calendar), Piccadilly Terrace, the birth (lat 51.5040
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 17°08′ | 1 | 1.017°/d |  |  |
-| ☽ Moon | ♓ Pisces 29°07′ | 4 | 12.035°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♏ Scorpio 29°46′ | 12 | 1.428°/d |  |  |
-| ♀ Venus | ♏ Scorpio 1°04′ | 12 | 0.895°/d | detriment |  |
-| ♂ Mars | ♈ Aries 20°15′ | 5 | 0.251°/d | domicile |  |
-| ♃ Jupiter | ♏ Scorpio 2°08′ | 12 | 0.183°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 8°13′ | 3 | 0.089°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 7°39′ | 1 | 0.061°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 19°34′ | 1 | 0.038°/d |  |  |
-| ♇ Pluto | ♓ Pisces 20°56′ | 4 | 0.002°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 25°00′ | 7 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 25°00′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 17°08′ | Ophiuchus | 1 | 1.017°/d |  |  |
+| ☽ Moon | ♓ Pisces 29°07′ | Pisces | 4 | 12.035°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♏ Scorpio 29°46′ | Libra | 12 | 1.428°/d |  |  |
+| ♀ Venus | ♏ Scorpio 1°04′ | Virgo | 12 | 0.895°/d | detriment |  |
+| ♂ Mars | ♈ Aries 20°15′ | Pisces | 5 | 0.251°/d | domicile |  |
+| ♃ Jupiter | ♏ Scorpio 2°08′ | Virgo | 12 | 0.183°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 8°13′ | Capricornus | 3 | 0.089°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 7°39′ | Scorpius | 1 | 0.061°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 19°34′ | Ophiuchus | 1 | 0.038°/d |  |  |
+| ♇ Pluto | ♓ Pisces 20°56′ | Aquarius | 4 | 0.002°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 25°00′ | Taurus | 7 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 25°00′ | Ophiuchus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

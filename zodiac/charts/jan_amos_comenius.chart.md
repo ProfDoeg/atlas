@@ -7,20 +7,20 @@ Born 1592-03-28 (gregorian calendar), Nivnice, the mill and the disputed birth (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 7°29′ | 1 | 0.985°/d | exaltation |  |
-| ☽ Moon | ♎ Libra 8°04′ | 7 | 12.326°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 9°47′ | 12 | 0.915°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 22°54′ | 11 | 1.115°/d |  |  |
-| ♂ Mars | ♉ Taurus 19°12′ | 2 | 0.680°/d | detriment |  |
-| ♃ Jupiter | ♐ Sagittarius 19°11′ | 9 | 0.026°/d | domicile |  |
-| ♄ Saturn | ♋ Cancer 6°29′ | 4 | 0.037°/d | detriment |  |
-| ♅ Uranus | ♓ Pisces 29°33′ | 12 | 0.057°/d |  |  |
-| ♆ Neptune | ♌ Leo 7°44′ | 5 | R -0.011°/d |  |  |
-| ♇ Pluto | ♈ Aries 14°39′ | 1 | 0.024°/d |  |  |
-| ☊ North Node | ♋ Cancer 1°37′ | 4 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 1°37′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 7°29′ | Pisces | 1 | 0.985°/d | exaltation |  |
+| ☽ Moon | ♎ Libra 8°04′ | Virgo | 7 | 12.326°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 9°47′ | Aquarius | 12 | 0.915°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 22°54′ | Capricornus | 11 | 1.115°/d |  |  |
+| ♂ Mars | ♉ Taurus 19°12′ | Aries | 2 | 0.680°/d | detriment |  |
+| ♃ Jupiter | ♐ Sagittarius 19°11′ | Ophiuchus | 9 | 0.026°/d | domicile |  |
+| ♄ Saturn | ♋ Cancer 6°29′ | Gemini | 4 | 0.037°/d | detriment |  |
+| ♅ Uranus | ♓ Pisces 29°33′ | Pisces | 12 | 0.057°/d |  |  |
+| ♆ Neptune | ♌ Leo 7°44′ | Cancer | 5 | R -0.011°/d |  |  |
+| ♇ Pluto | ♈ Aries 14°39′ | Pisces | 1 | 0.024°/d |  |  |
+| ☊ North Node | ♋ Cancer 1°37′ | Gemini | 4 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 1°37′ | Sagittarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

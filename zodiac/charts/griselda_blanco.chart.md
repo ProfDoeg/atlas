@@ -7,20 +7,20 @@ Born 1943-02-15 (gregorian calendar), Cartagena de Indias, the disputed birth (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 25°27′ | 1 | 1.010°/d | detriment |  |
-| ☽ Moon | ♊ Gemini 28°19′ | 5 | 11.857°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♑ Capricornus 29°20′ | 12 | 0.833°/d |  |  |
-| ♀ Venus | ♓ Pisces 17°00′ | 2 | 1.243°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 14°03′ | 12 | 0.736°/d | exaltation |  |
-| ♃ Jupiter | ♋ Cancer 16°12′ | 6 | R -0.079°/d | exaltation |  |
-| ♄ Saturn | ♊ Gemini 5°27′ | 5 | 0.017°/d |  |  |
-| ♅ Uranus | ♊ Gemini 0°38′ | 5 | 0.006°/d (stationary) |  |  |
-| ♆ Neptune | ♎ Libra 1°41′ | 9 | R -0.021°/d |  |  |
-| ♇ Pluto | ♌ Leo 5°44′ | 7 | R -0.021°/d |  |  |
-| ☊ North Node | ♌ Leo 25°08′ | 7 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 25°08′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 25°27′ | Capricornus | 1 | 1.010°/d | detriment |  |
+| ☽ Moon | ♊ Gemini 28°19′ | Taurus | 5 | 11.857°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♑ Capricornus 29°20′ | Sagittarius | 12 | 0.833°/d |  |  |
+| ♀ Venus | ♓ Pisces 17°00′ | Aquarius | 2 | 1.243°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 14°03′ | Sagittarius | 12 | 0.736°/d | exaltation |  |
+| ♃ Jupiter | ♋ Cancer 16°12′ | Gemini | 6 | R -0.079°/d | exaltation |  |
+| ♄ Saturn | ♊ Gemini 5°27′ | Taurus | 5 | 0.017°/d |  |  |
+| ♅ Uranus | ♊ Gemini 0°38′ | Taurus | 5 | 0.006°/d (stationary) |  |  |
+| ♆ Neptune | ♎ Libra 1°41′ | Virgo | 9 | R -0.021°/d |  |  |
+| ♇ Pluto | ♌ Leo 5°44′ | Cancer | 7 | R -0.021°/d |  |  |
+| ☊ North Node | ♌ Leo 25°08′ | Leo | 7 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 25°08′ | Capricornus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

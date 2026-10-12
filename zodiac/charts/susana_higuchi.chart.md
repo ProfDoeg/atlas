@@ -7,20 +7,20 @@ Born 1950-04-26 (gregorian calendar), Lima, the fourth child of Tomas Higuchi (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 5°12′ | 1 | 0.973°/d |  |  |
-| ☽ Moon | ♌ Leo 11°53′ | 4 | 13.107°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 24°51′ | 1 | 0.705°/d |  |  |
-| ♀ Venus | ♓ Pisces 19°30′ | 11 | 1.055°/d | exaltation |  |
-| ♂ Mars | ♍ Virgo 22°22′ | 5 | R -0.099°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 1°55′ | 11 | 0.166°/d | domicile |  |
-| ♄ Saturn | ♍ Virgo 13°00′ | 5 | R -0.033°/d |  |  |
-| ♅ Uranus | ♋ Cancer 1°53′ | 3 | 0.039°/d |  |  |
-| ♆ Neptune | ♎ Libra 15°32′ | 6 | R -0.025°/d |  |  |
-| ♇ Pluto | ♌ Leo 15°49′ | 4 | R -0.001°/d (stationary) |  |  |
-| ☊ North Node | ♈ Aries 6°01′ | 12 | mean node |  |  |
-| ☋ South Node | ♎ Libra 6°01′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 5°12′ | Aries | 1 | 0.973°/d |  |  |
+| ☽ Moon | ♌ Leo 11°53′ | Cancer | 4 | 13.107°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 24°51′ | Taurus | 1 | 0.705°/d |  |  |
+| ♀ Venus | ♓ Pisces 19°30′ | Aquarius | 11 | 1.055°/d | exaltation |  |
+| ♂ Mars | ♍ Virgo 22°22′ | Leo | 5 | R -0.099°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 1°55′ | Aquarius | 11 | 0.166°/d | domicile |  |
+| ♄ Saturn | ♍ Virgo 13°00′ | Leo | 5 | R -0.033°/d |  |  |
+| ♅ Uranus | ♋ Cancer 1°53′ | Gemini | 3 | 0.039°/d |  |  |
+| ♆ Neptune | ♎ Libra 15°32′ | Virgo | 6 | R -0.025°/d |  |  |
+| ♇ Pluto | ♌ Leo 15°49′ | Cancer | 4 | R -0.001°/d (stationary) |  |  |
+| ☊ North Node | ♈ Aries 6°01′ | Pisces | 12 | mean node |  |  |
+| ☋ South Node | ♎ Libra 6°01′ | Virgo | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

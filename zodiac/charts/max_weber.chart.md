@@ -7,20 +7,20 @@ Born 1864-04-21 (gregorian calendar), Erfurt, the birth on the Karthäuser Mühl
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 1°08′ | 1 | 0.975°/d |  |  |
-| ☽ Moon | ♎ Libra 18°44′ | 6 | 12.590°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 18°28′ | 1 | 1.665°/d |  |  |
-| ♀ Venus | ♈ Aries 7°38′ | 12 | 1.222°/d | detriment |  |
-| ♂ Mars | ♓ Pisces 2°26′ | 11 | 0.753°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 25°23′ | 7 | R -0.105°/d |  |  |
-| ♄ Saturn | ♎ Libra 13°30′ | 6 | R -0.072°/d | exaltation |  |
-| ♅ Uranus | ♊ Gemini 22°11′ | 2 | 0.042°/d |  |  |
-| ♆ Neptune | ♈ Aries 6°43′ | 12 | 0.035°/d |  |  |
-| ♇ Pluto | ♉ Taurus 11°35′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♏ Scorpio 19°34′ | 7 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 19°34′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 1°08′ | Aries | 1 | 0.975°/d |  |  |
+| ☽ Moon | ♎ Libra 18°44′ | Virgo | 6 | 12.590°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 18°28′ | Aries | 1 | 1.665°/d |  |  |
+| ♀ Venus | ♈ Aries 7°38′ | Pisces | 12 | 1.222°/d | detriment |  |
+| ♂ Mars | ♓ Pisces 2°26′ | Aquarius | 11 | 0.753°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 25°23′ | Libra | 7 | R -0.105°/d |  |  |
+| ♄ Saturn | ♎ Libra 13°30′ | Virgo | 6 | R -0.072°/d | exaltation |  |
+| ♅ Uranus | ♊ Gemini 22°11′ | Taurus | 2 | 0.042°/d |  |  |
+| ♆ Neptune | ♈ Aries 6°43′ | Pisces | 12 | 0.035°/d |  |  |
+| ♇ Pluto | ♉ Taurus 11°35′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♏ Scorpio 19°34′ | Libra | 7 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 19°34′ | Aries | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1852-12-25 (gregorian calendar), Château-du-Loir, the Christmas birth (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 3°26′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♊ Gemini 15°59′ | 6 | 12.151°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 23°41′ | 12 | R -1.022°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 29°40′ | 11 | 1.230°/d | detriment |  |
-| ♂ Mars | ♑ Capricornus 11°17′ | 1 | 0.770°/d | exaltation |  |
-| ♃ Jupiter | ♐ Sagittarius 10°23′ | 12 | 0.215°/d | domicile |  |
-| ♄ Saturn | ♉ Taurus 11°22′ | 5 | R -0.033°/d |  |  |
-| ♅ Uranus | ♉ Taurus 4°45′ | 5 | R -0.016°/d |  |  |
-| ♆ Neptune | ♓ Pisces 9°02′ | 3 | 0.020°/d | domicile (modern) |  |
-| ♇ Pluto | ♈ Aries 29°55′ | 4 | R -0.007°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 28°32′ | 6 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 28°32′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 3°26′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♊ Gemini 15°59′ | Taurus | 6 | 12.151°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 23°41′ | Ophiuchus | 12 | R -1.022°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 29°40′ | Libra | 11 | 1.230°/d | detriment |  |
+| ♂ Mars | ♑ Capricornus 11°17′ | Sagittarius | 1 | 0.770°/d | exaltation |  |
+| ♃ Jupiter | ♐ Sagittarius 10°23′ | Ophiuchus | 12 | 0.215°/d | domicile |  |
+| ♄ Saturn | ♉ Taurus 11°22′ | Aries | 5 | R -0.033°/d |  |  |
+| ♅ Uranus | ♉ Taurus 4°45′ | Aries | 5 | R -0.016°/d |  |  |
+| ♆ Neptune | ♓ Pisces 9°02′ | Aquarius | 3 | 0.020°/d | domicile (modern) |  |
+| ♇ Pluto | ♈ Aries 29°55′ | Aries | 4 | R -0.007°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 28°32′ | Taurus | 6 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 28°32′ | Sagittarius | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

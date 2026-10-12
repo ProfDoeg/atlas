@@ -7,20 +7,20 @@ Born 1851-08-13 (gregorian calendar), Alzey, the corner house of Schlossgasse an
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 19°37′ | 1 | 0.961°/d | domicile |  |
-| ☽ Moon | ♓ Pisces 1°37′ | 8 | 11.886°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♍ Virgo 13°29′ | 2 | 1.422°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 6°37′ | 1 | 1.230°/d |  |  |
-| ♂ Mars | ♊ Gemini 18°58′ | 11 | 0.654°/d |  |  |
-| ♃ Jupiter | ♎ Libra 18°32′ | 3 | 0.156°/d |  |  |
-| ♄ Saturn | ♉ Taurus 4°18′ | 10 | 0.007°/d (stationary) |  |  |
-| ♅ Uranus | ♉ Taurus 4°30′ | 10 | R -0.002°/d (stationary) |  |  |
-| ♆ Neptune | ♓ Pisces 8°21′ | 8 | R -0.026°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 0°51′ | 10 | R -0.004°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♋ Cancer 25°01′ | 12 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 25°01′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 19°37′ | Leo | 1 | 0.961°/d | domicile |  |
+| ☽ Moon | ♓ Pisces 1°37′ | Aquarius | 8 | 11.886°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♍ Virgo 13°29′ | Leo | 2 | 1.422°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 6°37′ | Cancer | 1 | 1.230°/d |  |  |
+| ♂ Mars | ♊ Gemini 18°58′ | Taurus | 11 | 0.654°/d |  |  |
+| ♃ Jupiter | ♎ Libra 18°32′ | Virgo | 3 | 0.156°/d |  |  |
+| ♄ Saturn | ♉ Taurus 4°18′ | Aries | 10 | 0.007°/d (stationary) |  |  |
+| ♅ Uranus | ♉ Taurus 4°30′ | Aries | 10 | R -0.002°/d (stationary) |  |  |
+| ♆ Neptune | ♓ Pisces 8°21′ | Aquarius | 8 | R -0.026°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 0°51′ | Aries | 10 | R -0.004°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♋ Cancer 25°01′ | Gemini | 12 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 25°01′ | Sagittarius | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

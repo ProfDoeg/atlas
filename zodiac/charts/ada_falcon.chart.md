@@ -7,20 +7,20 @@ Born 1905-08-17 (gregorian calendar), Ituzaingó, the birth on the flat land (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 23°25′ | 1 | 0.962°/d | domicile |  |
-| ☽ Moon | ♓ Pisces 14°37′ | 8 | 12.217°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 14°02′ | 2 | R -0.060°/d | domicile, exaltation |  |
-| ♀ Venus | ♋ Cancer 11°52′ | 12 | 1.127°/d |  |  |
-| ♂ Mars | ♏ Scorpio 27°21′ | 4 | 0.534°/d | domicile |  |
-| ♃ Jupiter | ♊ Gemini 4°00′ | 11 | 0.119°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 29°51′ | 7 | R -0.075°/d | domicile |  |
-| ♅ Uranus | ♑ Capricornus 0°24′ | 6 | R -0.019°/d |  |  |
-| ♆ Neptune | ♋ Cancer 9°35′ | 12 | 0.029°/d |  |  |
-| ♇ Pluto | ♊ Gemini 22°32′ | 11 | 0.013°/d |  |  |
-| ☊ North Node | ♍ Virgo 0°23′ | 2 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 0°23′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 23°25′ | Leo | 1 | 0.962°/d | domicile |  |
+| ☽ Moon | ♓ Pisces 14°37′ | Aquarius | 8 | 12.217°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 14°02′ | Leo | 2 | R -0.060°/d | domicile, exaltation |  |
+| ♀ Venus | ♋ Cancer 11°52′ | Gemini | 12 | 1.127°/d |  |  |
+| ♂ Mars | ♏ Scorpio 27°21′ | Libra | 4 | 0.534°/d | domicile |  |
+| ♃ Jupiter | ♊ Gemini 4°00′ | Taurus | 11 | 0.119°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 29°51′ | Aquarius | 7 | R -0.075°/d | domicile |  |
+| ♅ Uranus | ♑ Capricornus 0°24′ | Sagittarius | 6 | R -0.019°/d |  |  |
+| ♆ Neptune | ♋ Cancer 9°35′ | Gemini | 12 | 0.029°/d |  |  |
+| ♇ Pluto | ♊ Gemini 22°32′ | Taurus | 11 | 0.013°/d |  |  |
+| ☊ North Node | ♍ Virgo 0°23′ | Leo | 2 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 0°23′ | Aquarius | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

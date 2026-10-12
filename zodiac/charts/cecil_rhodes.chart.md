@@ -7,20 +7,20 @@ Born 1853-07-05 (gregorian calendar), Bishop's Stortford, the fifth son of the v
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 12°50′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♊ Gemini 26°39′ | 12 | 11.964°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♌ Leo 4°13′ | 2 | 1.604°/d |  |  |
-| ♀ Venus | ♋ Cancer 26°58′ | 1 | 1.226°/d |  |  |
-| ♂ Mars | ♊ Gemini 7°58′ | 12 | 0.699°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 16°40′ | 6 | R -0.103°/d | domicile |  |
-| ♄ Saturn | ♉ Taurus 27°48′ | 11 | 0.104°/d |  |  |
-| ♅ Uranus | ♉ Taurus 11°53′ | 11 | 0.034°/d |  |  |
-| ♆ Neptune | ♓ Pisces 13°37′ | 9 | R -0.010°/d (stationary) | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 2°40′ | 11 | 0.010°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♊ Gemini 18°22′ | 12 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 18°22′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 12°50′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♊ Gemini 26°39′ | Taurus | 12 | 11.964°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♌ Leo 4°13′ | Cancer | 2 | 1.604°/d |  |  |
+| ♀ Venus | ♋ Cancer 26°58′ | Gemini | 1 | 1.226°/d |  |  |
+| ♂ Mars | ♊ Gemini 7°58′ | Taurus | 12 | 0.699°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 16°40′ | Ophiuchus | 6 | R -0.103°/d | domicile |  |
+| ♄ Saturn | ♉ Taurus 27°48′ | Taurus | 11 | 0.104°/d |  |  |
+| ♅ Uranus | ♉ Taurus 11°53′ | Aries | 11 | 0.034°/d |  |  |
+| ♆ Neptune | ♓ Pisces 13°37′ | Aquarius | 9 | R -0.010°/d (stationary) | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 2°40′ | Aries | 11 | 0.010°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♊ Gemini 18°22′ | Taurus | 12 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 18°22′ | Ophiuchus | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

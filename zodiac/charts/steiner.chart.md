@@ -7,20 +7,20 @@ Born 1861-02-25 (gregorian calendar), Donji Kraljevec on the Mur, the stationmas
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 6°25′ | 1 | 1.005°/d |  |  |
-| ☽ Moon | ♍ Virgo 3°40′ | 7 | 14.876°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♓ Pisces 24°06′ | 1 | 1.304°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 17°13′ | 12 | 1.244°/d |  |  |
-| ♂ Mars | ♉ Taurus 4°57′ | 3 | 0.678°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 20°11′ | 6 | R -0.123°/d |  |  |
-| ♄ Saturn | ♍ Virgo 6°13′ | 7 | R -0.080°/d |  |  |
-| ♅ Uranus | ♊ Gemini 8°03′ | 4 | 0.009°/d (stationary) |  |  |
-| ♆ Neptune | ♓ Pisces 28°12′ | 1 | 0.036°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 7°46′ | 3 | 0.012°/d | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 20°31′ | 11 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 20°31′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 6°25′ | Aquarius | 1 | 1.005°/d |  |  |
+| ☽ Moon | ♍ Virgo 3°40′ | Leo | 7 | 14.876°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♓ Pisces 24°06′ | Pisces | 1 | 1.304°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 17°13′ | Capricornus | 12 | 1.244°/d |  |  |
+| ♂ Mars | ♉ Taurus 4°57′ | Aries | 3 | 0.678°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 20°11′ | Leo | 6 | R -0.123°/d |  |  |
+| ♄ Saturn | ♍ Virgo 6°13′ | Leo | 7 | R -0.080°/d |  |  |
+| ♅ Uranus | ♊ Gemini 8°03′ | Taurus | 4 | 0.009°/d (stationary) |  |  |
+| ♆ Neptune | ♓ Pisces 28°12′ | Pisces | 1 | 0.036°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 7°46′ | Aries | 3 | 0.012°/d | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 20°31′ | Sagittarius | 11 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 20°31′ | Gemini | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

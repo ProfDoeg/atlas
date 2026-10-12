@@ -7,20 +7,20 @@ Born 1887-10-06 (gregorian calendar), La Chaux-de-Fonds, the birth on the Rue de
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 12°26′ | 1 | 0.987°/d | fall |  |
-| ☽ Moon | ♉ Taurus 24°22′ | 8 | 12.025°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♎ Libra 29°52′ | 1 | 1.483°/d |  |  |
-| ♀ Venus | ♍ Virgo 21°12′ | 12 | R -0.279°/d | fall |  |
-| ♂ Mars | ♌ Leo 24°53′ | 11 | 0.608°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 9°04′ | 2 | 0.207°/d |  |  |
-| ♄ Saturn | ♌ Leo 4°56′ | 11 | 0.074°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 12°39′ | 1 | 0.063°/d |  |  |
-| ♆ Neptune | ♉ Taurus 29°48′ | 8 | R -0.017°/d |  |  |
-| ♇ Pluto | ♊ Gemini 4°53′ | 9 | R -0.011°/d |  |  |
-| ☊ North Node | ♌ Leo 15°52′ | 11 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 15°52′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 12°26′ | Virgo | 1 | 0.987°/d | fall |  |
+| ☽ Moon | ♉ Taurus 24°22′ | Taurus | 8 | 12.025°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♎ Libra 29°52′ | Virgo | 1 | 1.483°/d |  |  |
+| ♀ Venus | ♍ Virgo 21°12′ | Leo | 12 | R -0.279°/d | fall |  |
+| ♂ Mars | ♌ Leo 24°53′ | Leo | 11 | 0.608°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 9°04′ | Libra | 2 | 0.207°/d |  |  |
+| ♄ Saturn | ♌ Leo 4°56′ | Cancer | 11 | 0.074°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 12°39′ | Virgo | 1 | 0.063°/d |  |  |
+| ♆ Neptune | ♉ Taurus 29°48′ | Taurus | 8 | R -0.017°/d |  |  |
+| ♇ Pluto | ♊ Gemini 4°53′ | Taurus | 9 | R -0.011°/d |  |  |
+| ☊ North Node | ♌ Leo 15°52′ | Cancer | 11 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 15°52′ | Capricornus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

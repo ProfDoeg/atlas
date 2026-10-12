@@ -7,20 +7,20 @@ Born 1863-07-13 (gregorian calendar), Calcutta, birth in the mill manager's hous
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 20°04′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♊ Gemini 17°54′ | 12 | 11.902°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 0°14′ | 1 | 1.371°/d |  |  |
-| ♀ Venus | ♍ Virgo 5°27′ | 3 | 1.006°/d | fall |  |
-| ♂ Mars | ♌ Leo 16°57′ | 2 | 0.624°/d |  |  |
-| ♃ Jupiter | ♎ Libra 18°34′ | 4 | 0.081°/d |  |  |
-| ♄ Saturn | ♎ Libra 0°14′ | 4 | 0.066°/d | exaltation |  |
-| ♅ Uranus | ♊ Gemini 22°35′ | 12 | 0.054°/d |  |  |
-| ♆ Neptune | ♈ Aries 6°05′ | 10 | R -0.002°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 12°12′ | 11 | 0.010°/d | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 4°33′ | 6 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 4°33′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 20°04′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♊ Gemini 17°54′ | Taurus | 12 | 11.902°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 0°14′ | Taurus | 1 | 1.371°/d |  |  |
+| ♀ Venus | ♍ Virgo 5°27′ | Leo | 3 | 1.006°/d | fall |  |
+| ♂ Mars | ♌ Leo 16°57′ | Cancer | 2 | 0.624°/d |  |  |
+| ♃ Jupiter | ♎ Libra 18°34′ | Virgo | 4 | 0.081°/d |  |  |
+| ♄ Saturn | ♎ Libra 0°14′ | Virgo | 4 | 0.066°/d | exaltation |  |
+| ♅ Uranus | ♊ Gemini 22°35′ | Taurus | 12 | 0.054°/d |  |  |
+| ♆ Neptune | ♈ Aries 6°05′ | Pisces | 10 | R -0.002°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 12°12′ | Aries | 11 | 0.010°/d | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 4°33′ | Scorpius | 6 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 4°33′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

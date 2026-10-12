@@ -7,20 +7,20 @@ Born 1920-05-08 (gregorian calendar), Patti, the wreath-maker's first son (lat 3
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 17°06′ | 1 | 0.967°/d |  |  |
-| ☽ Moon | ♑ Capricornus 11°01′ | 9 | 11.862°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 28°16′ | 12 | 1.736°/d |  |  |
-| ♀ Venus | ♉ Taurus 1°48′ | 1 | 1.226°/d | domicile |  |
-| ♂ Mars | ♎ Libra 25°02′ | 6 | R -0.303°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 9°49′ | 4 | 0.098°/d |  |  |
-| ♄ Saturn | ♍ Virgo 4°56′ | 5 | 0.002°/d (stationary) |  |  |
-| ♅ Uranus | ♓ Pisces 5°19′ | 11 | 0.026°/d |  |  |
-| ♆ Neptune | ♌ Leo 8°54′ | 4 | 0.010°/d |  |  |
-| ♇ Pluto | ♋ Cancer 6°09′ | 3 | 0.017°/d |  |  |
-| ☊ North Node | ♏ Scorpio 15°36′ | 7 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 15°36′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 17°06′ | Aries | 1 | 0.967°/d |  |  |
+| ☽ Moon | ♑ Capricornus 11°01′ | Sagittarius | 9 | 11.862°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 28°16′ | Pisces | 12 | 1.736°/d |  |  |
+| ♀ Venus | ♉ Taurus 1°48′ | Aries | 1 | 1.226°/d | domicile |  |
+| ♂ Mars | ♎ Libra 25°02′ | Virgo | 6 | R -0.303°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 9°49′ | Cancer | 4 | 0.098°/d |  |  |
+| ♄ Saturn | ♍ Virgo 4°56′ | Leo | 5 | 0.002°/d (stationary) |  |  |
+| ♅ Uranus | ♓ Pisces 5°19′ | Aquarius | 11 | 0.026°/d |  |  |
+| ♆ Neptune | ♌ Leo 8°54′ | Cancer | 4 | 0.010°/d |  |  |
+| ♇ Pluto | ♋ Cancer 6°09′ | Gemini | 3 | 0.017°/d |  |  |
+| ☊ North Node | ♏ Scorpio 15°36′ | Libra | 7 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 15°36′ | Aries | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

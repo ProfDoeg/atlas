@@ -7,20 +7,20 @@ Born 1797-12-27 (gregorian calendar), Quito, the illegitimate daughter of the me
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 5°50′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♈ Aries 11°59′ | 4 | 12.292°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 18°11′ | 1 | 1.599°/d |  |  |
-| ♀ Venus | ♒ Aquarius 22°51′ | 2 | 1.064°/d |  |  |
-| ♂ Mars | ♏ Scorpio 16°50′ | 11 | 0.649°/d | domicile |  |
-| ♃ Jupiter | ♈ Aries 10°45′ | 4 | 0.075°/d |  |  |
-| ♄ Saturn | ♋ Cancer 9°00′ | 7 | R -0.083°/d | detriment |  |
-| ♅ Uranus | ♍ Virgo 17°16′ | 9 | R -0.005°/d (stationary) |  |  |
-| ♆ Neptune | ♏ Scorpio 12°19′ | 11 | 0.025°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 28°43′ | 2 | 0.019°/d |  |  |
-| ☊ North Node | ♊ Gemini 12°10′ | 6 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 12°10′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 5°50′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♈ Aries 11°59′ | Pisces | 4 | 12.292°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 18°11′ | Sagittarius | 1 | 1.599°/d |  |  |
+| ♀ Venus | ♒ Aquarius 22°51′ | Capricornus | 2 | 1.064°/d |  |  |
+| ♂ Mars | ♏ Scorpio 16°50′ | Libra | 11 | 0.649°/d | domicile |  |
+| ♃ Jupiter | ♈ Aries 10°45′ | Pisces | 4 | 0.075°/d |  |  |
+| ♄ Saturn | ♋ Cancer 9°00′ | Gemini | 7 | R -0.083°/d | detriment |  |
+| ♅ Uranus | ♍ Virgo 17°16′ | Leo | 9 | R -0.005°/d (stationary) |  |  |
+| ♆ Neptune | ♏ Scorpio 12°19′ | Libra | 11 | 0.025°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 28°43′ | Aquarius | 2 | 0.019°/d |  |  |
+| ☊ North Node | ♊ Gemini 12°10′ | Taurus | 6 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 12°10′ | Ophiuchus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

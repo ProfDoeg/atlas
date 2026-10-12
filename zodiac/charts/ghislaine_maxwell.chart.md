@@ -7,20 +7,20 @@ Born 1961-12-25 (gregorian calendar), Maisons-Laffitte, the ninth child born on 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 2°58′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♌ Leo 6°53′ | 8 | 12.097°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♑ Capricornus 7°55′ | 1 | 1.604°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 24°59′ | 12 | 1.258°/d |  |  |
-| ♂ Mars | ♑ Capricornus 0°12′ | 1 | 0.752°/d | exaltation |  |
-| ♃ Jupiter | ♒ Aquarius 8°55′ | 2 | 0.215°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 28°52′ | 1 | 0.111°/d | domicile |  |
-| ♅ Uranus | ♍ Virgo 0°13′ | 9 | R -0.017°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 12°50′ | 11 | 0.026°/d |  |  |
-| ♇ Pluto | ♍ Virgo 10°08′ | 9 | R -0.007°/d (stationary) |  |  |
-| ☊ North Node | ♌ Leo 20°23′ | 8 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 20°23′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 2°58′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♌ Leo 6°53′ | Cancer | 8 | 12.097°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♑ Capricornus 7°55′ | Sagittarius | 1 | 1.604°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 24°59′ | Ophiuchus | 12 | 1.258°/d |  |  |
+| ♂ Mars | ♑ Capricornus 0°12′ | Sagittarius | 1 | 0.752°/d | exaltation |  |
+| ♃ Jupiter | ♒ Aquarius 8°55′ | Capricornus | 2 | 0.215°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 28°52′ | Sagittarius | 1 | 0.111°/d | domicile |  |
+| ♅ Uranus | ♍ Virgo 0°13′ | Leo | 9 | R -0.017°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 12°50′ | Libra | 11 | 0.026°/d |  |  |
+| ♇ Pluto | ♍ Virgo 10°08′ | Leo | 9 | R -0.007°/d (stationary) |  |  |
+| ☊ North Node | ♌ Leo 20°23′ | Leo | 8 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 20°23′ | Capricornus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

@@ -7,20 +7,20 @@ Born 1853-08-06 (gregorian calendar), Königsberg, birth in the garrison city (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 13°24′ | 1 | 0.959°/d | domicile |  |
-| ☽ Moon | ♌ Leo 25°18′ | 1 | 13.056°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♍ Virgo 2°29′ | 2 | R -0.154°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 6°08′ | 2 | 1.221°/d | fall |  |
-| ♂ Mars | ♊ Gemini 29°48′ | 11 | 0.664°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 14°39′ | 5 | R -0.017°/d | domicile |  |
-| ♄ Saturn | ♊ Gemini 0°33′ | 11 | 0.066°/d |  |  |
-| ♅ Uranus | ♉ Taurus 12°37′ | 10 | 0.010°/d |  |  |
-| ♆ Neptune | ♓ Pisces 13°04′ | 8 | R -0.023°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 2°48′ | 10 | R -0.001°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♊ Gemini 16°40′ | 11 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 16°40′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 13°24′ | Cancer | 1 | 0.959°/d | domicile |  |
+| ☽ Moon | ♌ Leo 25°18′ | Leo | 1 | 13.056°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♍ Virgo 2°29′ | Leo | 2 | R -0.154°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 6°08′ | Leo | 2 | 1.221°/d | fall |  |
+| ♂ Mars | ♊ Gemini 29°48′ | Taurus | 11 | 0.664°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 14°39′ | Ophiuchus | 5 | R -0.017°/d | domicile |  |
+| ♄ Saturn | ♊ Gemini 0°33′ | Taurus | 11 | 0.066°/d |  |  |
+| ♅ Uranus | ♉ Taurus 12°37′ | Aries | 10 | 0.010°/d |  |  |
+| ♆ Neptune | ♓ Pisces 13°04′ | Aquarius | 8 | R -0.023°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 2°48′ | Aries | 10 | R -0.001°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♊ Gemini 16°40′ | Taurus | 11 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 16°40′ | Ophiuchus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

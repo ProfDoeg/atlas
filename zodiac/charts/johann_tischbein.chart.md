@@ -7,20 +7,20 @@ Born 1751-02-15 (gregorian calendar), Haina (Kloster), the carpenter's son (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 26°02′ | 1 | 1.009°/d | detriment |  |
-| ☽ Moon | ♎ Libra 18°47′ | 9 | 12.002°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 20°28′ | 1 | R -1.092°/d |  |  |
-| ♀ Venus | ♓ Pisces 3°27′ | 2 | 1.251°/d | exaltation |  |
-| ♂ Mars | ♐ Sagittarius 21°45′ | 11 | 0.664°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 0°35′ | 4 | 0.162°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 12°09′ | 11 | 0.057°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 25°33′ | 1 | 0.058°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 27°50′ | 6 | R -0.024°/d |  |  |
-| ♇ Pluto | ♐ Sagittarius 6°40′ | 11 | 0.013°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 18°35′ | 11 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 18°35′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 26°02′ | Capricornus | 1 | 1.009°/d | detriment |  |
+| ☽ Moon | ♎ Libra 18°47′ | Virgo | 9 | 12.002°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 20°28′ | Capricornus | 1 | R -1.092°/d |  |  |
+| ♀ Venus | ♓ Pisces 3°27′ | Aquarius | 2 | 1.251°/d | exaltation |  |
+| ♂ Mars | ♐ Sagittarius 21°45′ | Ophiuchus | 11 | 0.664°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 0°35′ | Aries | 4 | 0.162°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 12°09′ | Ophiuchus | 11 | 0.057°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 25°33′ | Capricornus | 1 | 0.058°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 27°50′ | Gemini | 6 | R -0.024°/d |  |  |
+| ♇ Pluto | ♐ Sagittarius 6°40′ | Scorpius | 11 | 0.013°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 18°35′ | Ophiuchus | 11 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 18°35′ | Taurus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

@@ -7,20 +7,20 @@ Born 1778-08-11 (gregorian calendar), Lanz, the parsonage in the Prignitz (lat 5
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 18°19′ | 1 | 0.961°/d | domicile |  |
-| ☽ Moon | ♓ Pisces 20°06′ | 8 | 13.290°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 4°44′ | 2 | 1.700°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 24°07′ | 2 | 1.185°/d | fall |  |
-| ♂ Mars | ♋ Cancer 28°32′ | 12 | 0.645°/d | fall |  |
-| ♃ Jupiter | ♍ Virgo 3°12′ | 2 | 0.213°/d | detriment |  |
-| ♄ Saturn | ♏ Scorpio 9°18′ | 4 | 0.047°/d |  |  |
-| ♅ Uranus | ♊ Gemini 18°44′ | 11 | 0.036°/d |  |  |
-| ♆ Neptune | ♍ Virgo 27°39′ | 2 | 0.030°/d | detriment (modern) |  |
-| ♇ Pluto | ♒ Aquarius 0°16′ | 7 | R -0.022°/d |  |  |
-| ☊ North Node | ♊ Gemini 26°59′ | 11 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 26°59′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 18°19′ | Leo | 1 | 0.961°/d | domicile |  |
+| ☽ Moon | ♓ Pisces 20°06′ | Aquarius | 8 | 13.290°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 4°44′ | Leo | 2 | 1.700°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 24°07′ | Leo | 2 | 1.185°/d | fall |  |
+| ♂ Mars | ♋ Cancer 28°32′ | Cancer | 12 | 0.645°/d | fall |  |
+| ♃ Jupiter | ♍ Virgo 3°12′ | Leo | 2 | 0.213°/d | detriment |  |
+| ♄ Saturn | ♏ Scorpio 9°18′ | Libra | 4 | 0.047°/d |  |  |
+| ♅ Uranus | ♊ Gemini 18°44′ | Taurus | 11 | 0.036°/d |  |  |
+| ♆ Neptune | ♍ Virgo 27°39′ | Virgo | 2 | 0.030°/d | detriment (modern) |  |
+| ♇ Pluto | ♒ Aquarius 0°16′ | Capricornus | 7 | R -0.022°/d |  |  |
+| ☊ North Node | ♊ Gemini 26°59′ | Taurus | 11 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 26°59′ | Sagittarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

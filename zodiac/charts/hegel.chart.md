@@ -7,20 +7,20 @@ Born 1770-08-27 (gregorian calendar), Stuttgart, birth in the Eberhardstraße (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 3°40′ | 1 | 0.967°/d |  |  |
-| ☽ Moon | ♏ Scorpio 21°09′ | 3 | 12.498°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 13°03′ | 1 | 1.795°/d | domicile, exaltation |  |
-| ♀ Venus | ♎ Libra 12°26′ | 2 | 1.173°/d | domicile |  |
-| ♂ Mars | ♊ Gemini 8°09′ | 10 | 0.571°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 14°55′ | 4 | 0.048°/d | domicile |  |
-| ♄ Saturn | ♌ Leo 9°38′ | 12 | 0.122°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 15°40′ | 9 | R -0.005°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 11°18′ | 1 | 0.037°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 15°23′ | 5 | R -0.014°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 0°52′ | 4 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 0°52′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 3°40′ | Leo | 1 | 0.967°/d |  |  |
+| ☽ Moon | ♏ Scorpio 21°09′ | Libra | 3 | 12.498°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 13°03′ | Leo | 1 | 1.795°/d | domicile, exaltation |  |
+| ♀ Venus | ♎ Libra 12°26′ | Virgo | 2 | 1.173°/d | domicile |  |
+| ♂ Mars | ♊ Gemini 8°09′ | Taurus | 10 | 0.571°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 14°55′ | Ophiuchus | 4 | 0.048°/d | domicile |  |
+| ♄ Saturn | ♌ Leo 9°38′ | Cancer | 12 | 0.122°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 15°40′ | Aries | 9 | R -0.005°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 11°18′ | Leo | 1 | 0.037°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 15°23′ | Sagittarius | 5 | R -0.014°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 0°52′ | Libra | 4 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 0°52′ | Taurus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

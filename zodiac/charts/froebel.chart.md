@@ -7,20 +7,20 @@ Born 1782-04-21 (gregorian calendar), Oberweissbach, the parsonage of the Thurin
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 0°59′ | 1 | 0.974°/d |  |  |
-| ☽ Moon | ♌ Leo 2°30′ | 4 | 12.812°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♈ Aries 4°48′ | 12 | 1.295°/d |  |  |
-| ♀ Venus | ♓ Pisces 24°20′ | 11 | 0.352°/d | exaltation |  |
-| ♂ Mars | ♊ Gemini 10°42′ | 2 | 0.658°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 28°57′ | 8 | R -0.018°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 0°59′ | 9 | R -0.018°/d | domicile |  |
-| ♅ Uranus | ♊ Gemini 29°35′ | 2 | 0.037°/d |  |  |
-| ♆ Neptune | ♎ Libra 6°05′ | 6 | R -0.024°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 8°24′ | 10 | 0.008°/d (stationary) |  |  |
-| ☊ North Node | ♈ Aries 15°32′ | 12 | mean node |  |  |
-| ☋ South Node | ♎ Libra 15°32′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 0°59′ | Aries | 1 | 0.974°/d |  |  |
+| ☽ Moon | ♌ Leo 2°30′ | Cancer | 4 | 12.812°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♈ Aries 4°48′ | Pisces | 12 | 1.295°/d |  |  |
+| ♀ Venus | ♓ Pisces 24°20′ | Pisces | 11 | 0.352°/d | exaltation |  |
+| ♂ Mars | ♊ Gemini 10°42′ | Taurus | 2 | 0.658°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 28°57′ | Sagittarius | 8 | R -0.018°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 0°59′ | Sagittarius | 9 | R -0.018°/d | domicile |  |
+| ♅ Uranus | ♊ Gemini 29°35′ | Taurus | 2 | 0.037°/d |  |  |
+| ♆ Neptune | ♎ Libra 6°05′ | Virgo | 6 | R -0.024°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 8°24′ | Capricornus | 10 | 0.008°/d (stationary) |  |  |
+| ☊ North Node | ♈ Aries 15°32′ | Pisces | 12 | mean node |  |  |
+| ☋ South Node | ♎ Libra 15°32′ | Virgo | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1806-06-12 (gregorian calendar), Mühlhausen, baptized at Divi Blasii (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 20°17′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♈ Aries 19°43′ | 11 | 12.975°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 2°03′ | 1 | 1.732°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 5°29′ | 12 | 1.058°/d | domicile |  |
-| ♂ Mars | ♉ Taurus 23°33′ | 12 | 0.719°/d | detriment |  |
-| ♃ Jupiter | ♑ Capricornus 5°12′ | 8 | R -0.119°/d | fall |  |
-| ♄ Saturn | ♎ Libra 21°46′ | 5 | R -0.022°/d | exaltation |  |
-| ♅ Uranus | ♎ Libra 21°24′ | 5 | R -0.015°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 28°23′ | 6 | R -0.025°/d |  |  |
-| ♇ Pluto | ♓ Pisces 12°14′ | 10 | 0.000°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 28°39′ | 7 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 28°39′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 20°17′ | Taurus | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♈ Aries 19°43′ | Pisces | 11 | 12.975°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 2°03′ | Taurus | 1 | 1.732°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 5°29′ | Aries | 12 | 1.058°/d | domicile |  |
+| ♂ Mars | ♉ Taurus 23°33′ | Taurus | 12 | 0.719°/d | detriment |  |
+| ♃ Jupiter | ♑ Capricornus 5°12′ | Sagittarius | 8 | R -0.119°/d | fall |  |
+| ♄ Saturn | ♎ Libra 21°46′ | Virgo | 5 | R -0.022°/d | exaltation |  |
+| ♅ Uranus | ♎ Libra 21°24′ | Virgo | 5 | R -0.015°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 28°23′ | Libra | 6 | R -0.025°/d |  |  |
+| ♇ Pluto | ♓ Pisces 12°14′ | Aquarius | 10 | 0.000°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 28°39′ | Sagittarius | 7 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 28°39′ | Taurus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

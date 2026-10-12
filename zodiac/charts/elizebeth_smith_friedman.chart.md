@@ -7,20 +7,20 @@ Born 1892-08-26 (gregorian calendar), Huntington, Indiana: the ninth surviving c
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 3°11′ | 1 | 0.966°/d |  |  |
-| ☽ Moon | ♎ Libra 13°32′ | 2 | 11.986°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 3°26′ | 1 | R -0.913°/d | domicile, exaltation |  |
-| ♀ Venus | ♋ Cancer 19°52′ | 11 | 0.702°/d |  |  |
-| ♂ Mars | ♒ Aquarius 7°33′ | 6 | R -0.115°/d |  |  |
-| ♃ Jupiter | ♈ Aries 24°42′ | 8 | R -0.040°/d |  |  |
-| ♄ Saturn | ♍ Virgo 29°40′ | 1 | 0.115°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 2°43′ | 3 | 0.039°/d |  |  |
-| ♆ Neptune | ♊ Gemini 11°15′ | 10 | 0.010°/d |  |  |
-| ♇ Pluto | ♊ Gemini 9°50′ | 10 | 0.005°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 11°17′ | 9 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 11°17′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 3°11′ | Leo | 1 | 0.966°/d |  |  |
+| ☽ Moon | ♎ Libra 13°32′ | Virgo | 2 | 11.986°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 3°26′ | Leo | 1 | R -0.913°/d | domicile, exaltation |  |
+| ♀ Venus | ♋ Cancer 19°52′ | Gemini | 11 | 0.702°/d |  |  |
+| ♂ Mars | ♒ Aquarius 7°33′ | Capricornus | 6 | R -0.115°/d |  |  |
+| ♃ Jupiter | ♈ Aries 24°42′ | Pisces | 8 | R -0.040°/d |  |  |
+| ♄ Saturn | ♍ Virgo 29°40′ | Virgo | 1 | 0.115°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 2°43′ | Virgo | 3 | 0.039°/d |  |  |
+| ♆ Neptune | ♊ Gemini 11°15′ | Taurus | 10 | 0.010°/d |  |  |
+| ♇ Pluto | ♊ Gemini 9°50′ | Taurus | 10 | 0.005°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 11°17′ | Aries | 9 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 11°17′ | Libra | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

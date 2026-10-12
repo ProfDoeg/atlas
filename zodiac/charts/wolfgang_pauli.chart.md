@@ -7,20 +7,20 @@ Born 1900-04-25 (gregorian calendar), Vienna, the christening cup of Ernst Mach 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 4°20′ | 1 | 0.973°/d |  |  |
-| ☽ Moon | ♓ Pisces 6°03′ | 11 | 14.573°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♈ Aries 7°20′ | 12 | 1.114°/d |  |  |
-| ♀ Venus | ♊ Gemini 19°46′ | 2 | 0.999°/d |  |  |
-| ♂ Mars | ♈ Aries 13°01′ | 12 | 0.768°/d | domicile |  |
-| ♃ Jupiter | ♐ Sagittarius 9°41′ | 8 | R -0.082°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 4°53′ | 9 | R -0.018°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 11°45′ | 8 | R -0.030°/d |  |  |
-| ♆ Neptune | ♊ Gemini 24°56′ | 2 | 0.026°/d |  |  |
-| ♇ Pluto | ♊ Gemini 15°17′ | 2 | 0.018°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 13°07′ | 8 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 13°07′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 4°20′ | Aries | 1 | 0.973°/d |  |  |
+| ☽ Moon | ♓ Pisces 6°03′ | Aquarius | 11 | 14.573°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♈ Aries 7°20′ | Pisces | 12 | 1.114°/d |  |  |
+| ♀ Venus | ♊ Gemini 19°46′ | Taurus | 2 | 0.999°/d |  |  |
+| ♂ Mars | ♈ Aries 13°01′ | Pisces | 12 | 0.768°/d | domicile |  |
+| ♃ Jupiter | ♐ Sagittarius 9°41′ | Ophiuchus | 8 | R -0.082°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 4°53′ | Sagittarius | 9 | R -0.018°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 11°45′ | Ophiuchus | 8 | R -0.030°/d |  |  |
+| ♆ Neptune | ♊ Gemini 24°56′ | Taurus | 2 | 0.026°/d |  |  |
+| ♇ Pluto | ♊ Gemini 15°17′ | Taurus | 2 | 0.018°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 13°07′ | Ophiuchus | 8 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 13°07′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

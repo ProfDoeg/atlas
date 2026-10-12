@@ -7,20 +7,20 @@ Born 1913-11-07 (gregorian calendar), Dréan, the birth at Mondovi (lat 36.6833,
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 13°59′ | 1 | 1.004°/d |  |  |
-| ☽ Moon | ♒ Aquarius 27°30′ | 4 | 11.918°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♐ Sagittarius 6°41′ | 2 | 0.680°/d | detriment |  |
-| ♀ Venus | ♎ Libra 20°46′ | 12 | 1.245°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 22°05′ | 9 | 0.236°/d | fall |  |
-| ♃ Jupiter | ♑ Capricornus 13°47′ | 3 | 0.169°/d | fall |  |
-| ♄ Saturn | ♊ Gemini 17°01′ | 8 | R -0.062°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 3°53′ | 4 | 0.020°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 28°18′ | 9 | R -0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♋ Cancer 0°57′ | 9 | R -0.013°/d |  |  |
-| ☊ North Node | ♓ Pisces 21°19′ | 5 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 21°19′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 13°59′ | Libra | 1 | 1.004°/d |  |  |
+| ☽ Moon | ♒ Aquarius 27°30′ | Capricornus | 4 | 11.918°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♐ Sagittarius 6°41′ | Scorpius | 2 | 0.680°/d | detriment |  |
+| ♀ Venus | ♎ Libra 20°46′ | Virgo | 12 | 1.245°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 22°05′ | Gemini | 9 | 0.236°/d | fall |  |
+| ♃ Jupiter | ♑ Capricornus 13°47′ | Sagittarius | 3 | 0.169°/d | fall |  |
+| ♄ Saturn | ♊ Gemini 17°01′ | Taurus | 8 | R -0.062°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 3°53′ | Capricornus | 4 | 0.020°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 28°18′ | Gemini | 9 | R -0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♋ Cancer 0°57′ | Gemini | 9 | R -0.013°/d |  |  |
+| ☊ North Node | ♓ Pisces 21°19′ | Aquarius | 5 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 21°19′ | Leo | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

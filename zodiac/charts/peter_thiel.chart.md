@@ -7,20 +7,20 @@ Born 1967-10-11 (gregorian calendar), Frankfurt am Main, born in the Federal Rep
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 17°00′ | 1 | 0.989°/d | fall |  |
-| ☽ Moon | ♑ Capricornus 23°03′ | 4 | 13.191°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♏ Scorpio 12°07′ | 2 | 0.890°/d |  |  |
-| ♀ Venus | ♍ Virgo 4°47′ | 12 | 0.626°/d | fall |  |
-| ♂ Mars | ♐ Sagittarius 21°15′ | 3 | 0.715°/d |  |  |
-| ♃ Jupiter | ♌ Leo 28°34′ | 11 | 0.177°/d |  |  |
-| ♄ Saturn | ♈ Aries 8°15′ | 7 | R -0.077°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 26°04′ | 12 | 0.060°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 22°49′ | 2 | 0.032°/d |  |  |
-| ♇ Pluto | ♍ Virgo 21°28′ | 12 | 0.034°/d |  |  |
-| ☊ North Node | ♈ Aries 28°20′ | 7 | mean node |  |  |
-| ☋ South Node | ♎ Libra 28°20′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 17°00′ | Virgo | 1 | 0.989°/d | fall |  |
+| ☽ Moon | ♑ Capricornus 23°03′ | Sagittarius | 4 | 13.191°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♏ Scorpio 12°07′ | Libra | 2 | 0.890°/d |  |  |
+| ♀ Venus | ♍ Virgo 4°47′ | Leo | 12 | 0.626°/d | fall |  |
+| ♂ Mars | ♐ Sagittarius 21°15′ | Ophiuchus | 3 | 0.715°/d |  |  |
+| ♃ Jupiter | ♌ Leo 28°34′ | Leo | 11 | 0.177°/d |  |  |
+| ♄ Saturn | ♈ Aries 8°15′ | Pisces | 7 | R -0.077°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 26°04′ | Virgo | 12 | 0.060°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 22°49′ | Libra | 2 | 0.032°/d |  |  |
+| ♇ Pluto | ♍ Virgo 21°28′ | Leo | 12 | 0.034°/d |  |  |
+| ☊ North Node | ♈ Aries 28°20′ | Pisces | 7 | mean node |  |  |
+| ☋ South Node | ♎ Libra 28°20′ | Virgo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

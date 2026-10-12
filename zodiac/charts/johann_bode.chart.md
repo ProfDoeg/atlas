@@ -7,20 +7,20 @@ Born 1747-01-19 (gregorian calendar), Hamburg, birth in the merchant Altstadt (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 28°38′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♉ Taurus 3°09′ | 5 | 11.890°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♑ Capricornus 4°33′ | 1 | 0.720°/d |  |  |
-| ♀ Venus | ♑ Capricornus 25°23′ | 1 | R -0.606°/d |  |  |
-| ♂ Mars | ♎ Libra 29°38′ | 10 | 0.467°/d | detriment |  |
-| ♃ Jupiter | ♑ Capricornus 3°36′ | 1 | 0.219°/d | fall |  |
-| ♄ Saturn | ♎ Libra 26°16′ | 10 | 0.029°/d | exaltation |  |
-| ♅ Uranus | ♒ Aquarius 8°50′ | 2 | 0.058°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 19°25′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♏ Scorpio 26°27′ | 11 | 0.023°/d | domicile (modern) |  |
-| ☊ North Node | ♓ Pisces 7°23′ | 3 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 7°23′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 28°38′ | Sagittarius | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♉ Taurus 3°09′ | Aries | 5 | 11.890°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♑ Capricornus 4°33′ | Sagittarius | 1 | 0.720°/d |  |  |
+| ♀ Venus | ♑ Capricornus 25°23′ | Sagittarius | 1 | R -0.606°/d |  |  |
+| ♂ Mars | ♎ Libra 29°38′ | Virgo | 10 | 0.467°/d | detriment |  |
+| ♃ Jupiter | ♑ Capricornus 3°36′ | Sagittarius | 1 | 0.219°/d | fall |  |
+| ♄ Saturn | ♎ Libra 26°16′ | Virgo | 10 | 0.029°/d | exaltation |  |
+| ♅ Uranus | ♒ Aquarius 8°50′ | Capricornus | 2 | 0.058°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 19°25′ | Gemini | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♏ Scorpio 26°27′ | Libra | 11 | 0.023°/d | domicile (modern) |  |
+| ☊ North Node | ♓ Pisces 7°23′ | Aquarius | 3 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 7°23′ | Leo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

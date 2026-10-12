@@ -7,20 +7,20 @@ Born 1892-01-03 (gregorian calendar), Bloemfontein, the birthplace on the high v
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 12°08′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♒ Aquarius 18°50′ | 2 | 14.111°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 0°48′ | 1 | R -0.910°/d |  |  |
-| ♀ Venus | ♒ Aquarius 8°14′ | 2 | 1.243°/d |  |  |
-| ♂ Mars | ♏ Scorpio 16°17′ | 11 | 0.631°/d | domicile |  |
-| ♃ Jupiter | ♓ Pisces 13°51′ | 3 | 0.172°/d | domicile |  |
-| ♄ Saturn | ♎ Libra 0°14′ | 10 | 0.012°/d | exaltation |  |
-| ♅ Uranus | ♏ Scorpio 5°14′ | 11 | 0.033°/d |  |  |
-| ♆ Neptune | ♊ Gemini 6°47′ | 6 | R -0.022°/d |  |  |
-| ♇ Pluto | ♊ Gemini 7°18′ | 6 | R -0.015°/d |  |  |
-| ☊ North Node | ♉ Taurus 23°47′ | 5 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 23°47′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 12°08′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♒ Aquarius 18°50′ | Capricornus | 2 | 14.111°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 0°48′ | Sagittarius | 1 | R -0.910°/d |  |  |
+| ♀ Venus | ♒ Aquarius 8°14′ | Capricornus | 2 | 1.243°/d |  |  |
+| ♂ Mars | ♏ Scorpio 16°17′ | Libra | 11 | 0.631°/d | domicile |  |
+| ♃ Jupiter | ♓ Pisces 13°51′ | Aquarius | 3 | 0.172°/d | domicile |  |
+| ♄ Saturn | ♎ Libra 0°14′ | Virgo | 10 | 0.012°/d | exaltation |  |
+| ♅ Uranus | ♏ Scorpio 5°14′ | Virgo | 11 | 0.033°/d |  |  |
+| ♆ Neptune | ♊ Gemini 6°47′ | Taurus | 6 | R -0.022°/d |  |  |
+| ♇ Pluto | ♊ Gemini 7°18′ | Taurus | 6 | R -0.015°/d |  |  |
+| ☊ North Node | ♉ Taurus 23°47′ | Taurus | 5 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 23°47′ | Libra | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

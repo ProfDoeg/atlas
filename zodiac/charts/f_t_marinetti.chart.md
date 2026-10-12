@@ -7,20 +7,20 @@ Born 1876-12-22 (gregorian calendar), Alexandria, birth in the Italian colony (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 0°33′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♓ Pisces 8°21′ | 3 | 11.969°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 10°26′ | 1 | 1.596°/d |  |  |
-| ♀ Venus | ♏ Scorpio 27°46′ | 11 | 1.233°/d | detriment |  |
-| ♂ Mars | ♏ Scorpio 14°35′ | 11 | 0.650°/d | domicile |  |
-| ♃ Jupiter | ♐ Sagittarius 16°49′ | 12 | 0.223°/d | domicile |  |
-| ♄ Saturn | ♓ Pisces 2°56′ | 3 | 0.077°/d |  |  |
-| ♅ Uranus | ♌ Leo 24°18′ | 8 | R -0.020°/d | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 2°38′ | 5 | R -0.012°/d |  |  |
-| ♇ Pluto | ♉ Taurus 23°00′ | 5 | R -0.014°/d | detriment (modern) |  |
-| ☊ North Node | ♓ Pisces 14°30′ | 3 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 14°30′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 0°33′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♓ Pisces 8°21′ | Aquarius | 3 | 11.969°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 10°26′ | Sagittarius | 1 | 1.596°/d |  |  |
+| ♀ Venus | ♏ Scorpio 27°46′ | Libra | 11 | 1.233°/d | detriment |  |
+| ♂ Mars | ♏ Scorpio 14°35′ | Libra | 11 | 0.650°/d | domicile |  |
+| ♃ Jupiter | ♐ Sagittarius 16°49′ | Ophiuchus | 12 | 0.223°/d | domicile |  |
+| ♄ Saturn | ♓ Pisces 2°56′ | Aquarius | 3 | 0.077°/d |  |  |
+| ♅ Uranus | ♌ Leo 24°18′ | Leo | 8 | R -0.020°/d | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 2°38′ | Aries | 5 | R -0.012°/d |  |  |
+| ♇ Pluto | ♉ Taurus 23°00′ | Aries | 5 | R -0.014°/d | detriment (modern) |  |
+| ☊ North Node | ♓ Pisces 14°30′ | Aquarius | 3 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 14°30′ | Leo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

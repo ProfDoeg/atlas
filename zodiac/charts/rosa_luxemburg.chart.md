@@ -7,20 +7,20 @@ Born 1871-03-05 (gregorian calendar), Zamość, the house on Ulica Staszica (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 14°01′ | 1 | 1.001°/d |  |  |
-| ☽ Moon | ♌ Leo 16°55′ | 6 | 13.185°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 25°06′ | 12 | 1.569°/d |  |  |
-| ♀ Venus | ♈ Aries 4°40′ | 2 | 1.238°/d | detriment |  |
-| ♂ Mars | ♎ Libra 4°31′ | 8 | R -0.298°/d | detriment |  |
-| ♃ Jupiter | ♊ Gemini 17°19′ | 4 | 0.073°/d | detriment |  |
-| ♄ Saturn | ♑ Capricornus 8°01′ | 11 | 0.069°/d | domicile |  |
-| ♅ Uranus | ♋ Cancer 22°41′ | 5 | R -0.022°/d |  |  |
-| ♆ Neptune | ♈ Aries 20°08′ | 2 | 0.032°/d |  |  |
-| ♇ Pluto | ♉ Taurus 17°12′ | 3 | 0.012°/d | detriment (modern) |  |
-| ☊ North Node | ♋ Cancer 6°42′ | 5 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 6°42′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 14°01′ | Aquarius | 1 | 1.001°/d |  |  |
+| ☽ Moon | ♌ Leo 16°55′ | Cancer | 6 | 13.185°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 25°06′ | Capricornus | 12 | 1.569°/d |  |  |
+| ♀ Venus | ♈ Aries 4°40′ | Pisces | 2 | 1.238°/d | detriment |  |
+| ♂ Mars | ♎ Libra 4°31′ | Virgo | 8 | R -0.298°/d | detriment |  |
+| ♃ Jupiter | ♊ Gemini 17°19′ | Taurus | 4 | 0.073°/d | detriment |  |
+| ♄ Saturn | ♑ Capricornus 8°01′ | Sagittarius | 11 | 0.069°/d | domicile |  |
+| ♅ Uranus | ♋ Cancer 22°41′ | Gemini | 5 | R -0.022°/d |  |  |
+| ♆ Neptune | ♈ Aries 20°08′ | Pisces | 2 | 0.032°/d |  |  |
+| ♇ Pluto | ♉ Taurus 17°12′ | Aries | 3 | 0.012°/d | detriment (modern) |  |
+| ☊ North Node | ♋ Cancer 6°42′ | Gemini | 5 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 6°42′ | Sagittarius | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

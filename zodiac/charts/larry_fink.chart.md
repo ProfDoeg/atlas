@@ -7,20 +7,20 @@ Born 1952-11-02 (gregorian calendar), Los Angeles, born on the second of Novembe
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 9°31′ | 1 | 1.001°/d |  |  |
-| ☽ Moon | ♉ Taurus 9°58′ | 7 | 13.950°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 1°00′ | 2 | 1.288°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 13°11′ | 2 | 1.219°/d |  |  |
-| ♂ Mars | ♑ Capricornus 15°06′ | 3 | 0.741°/d | exaltation |  |
-| ♃ Jupiter | ♉ Taurus 16°45′ | 7 | R -0.134°/d |  |  |
-| ♄ Saturn | ♎ Libra 20°42′ | 12 | 0.118°/d | exaltation |  |
-| ♅ Uranus | ♋ Cancer 18°27′ | 9 | R -0.008°/d (stationary) |  |  |
-| ♆ Neptune | ♎ Libra 22°12′ | 12 | 0.036°/d |  |  |
-| ♇ Pluto | ♌ Leo 23°12′ | 10 | 0.011°/d |  |  |
-| ☊ North Node | ♒ Aquarius 17°15′ | 4 | mean node |  |  |
-| ☋ South Node | ♌ Leo 17°15′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 9°31′ | Libra | 1 | 1.001°/d |  |  |
+| ☽ Moon | ♉ Taurus 9°58′ | Aries | 7 | 13.950°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 1°00′ | Libra | 2 | 1.288°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 13°11′ | Ophiuchus | 2 | 1.219°/d |  |  |
+| ♂ Mars | ♑ Capricornus 15°06′ | Sagittarius | 3 | 0.741°/d | exaltation |  |
+| ♃ Jupiter | ♉ Taurus 16°45′ | Aries | 7 | R -0.134°/d |  |  |
+| ♄ Saturn | ♎ Libra 20°42′ | Virgo | 12 | 0.118°/d | exaltation |  |
+| ♅ Uranus | ♋ Cancer 18°27′ | Gemini | 9 | R -0.008°/d (stationary) |  |  |
+| ♆ Neptune | ♎ Libra 22°12′ | Virgo | 12 | 0.036°/d |  |  |
+| ♇ Pluto | ♌ Leo 23°12′ | Leo | 10 | 0.011°/d |  |  |
+| ☊ North Node | ♒ Aquarius 17°15′ | Capricornus | 4 | mean node |  |  |
+| ☋ South Node | ♌ Leo 17°15′ | Cancer | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

@@ -7,20 +7,20 @@ Born 1389-04-10 (julian calendar), Florence, the twin who lives (lat 43.7754, ln
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 28°11′ | 1 | 0.972°/d | exaltation |  |
-| ☽ Moon | ♎ Libra 15°08′ | 7 | 12.502°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 22°39′ | 1 | 2.072°/d |  |  |
-| ♀ Venus | ♓ Pisces 19°29′ | 12 | 1.173°/d | exaltation |  |
-| ♂ Mars | ♊ Gemini 17°34′ | 3 | 0.624°/d |  |  |
-| ♃ Jupiter | ♎ Libra 29°28′ | 7 | R -0.128°/d |  |  |
-| ♄ Saturn | ♌ Leo 18°55′ | 5 | R -0.004°/d (stationary) | detriment |  |
-| ♅ Uranus | ♏ Scorpio 2°18′ | 8 | R -0.042°/d |  |  |
-| ♆ Neptune | ♉ Taurus 11°42′ | 2 | 0.037°/d |  |  |
-| ♇ Pluto | ♉ Taurus 23°49′ | 2 | 0.021°/d | detriment (modern) |  |
-| ☊ North Node | ♉ Taurus 26°45′ | 2 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 26°45′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 28°11′ | Pisces | 1 | 0.972°/d | exaltation |  |
+| ☽ Moon | ♎ Libra 15°08′ | Virgo | 7 | 12.502°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 22°39′ | Pisces | 1 | 2.072°/d |  |  |
+| ♀ Venus | ♓ Pisces 19°29′ | Aquarius | 12 | 1.173°/d | exaltation |  |
+| ♂ Mars | ♊ Gemini 17°34′ | Taurus | 3 | 0.624°/d |  |  |
+| ♃ Jupiter | ♎ Libra 29°28′ | Virgo | 7 | R -0.128°/d |  |  |
+| ♄ Saturn | ♌ Leo 18°55′ | Leo | 5 | R -0.004°/d (stationary) | detriment |  |
+| ♅ Uranus | ♏ Scorpio 2°18′ | Virgo | 8 | R -0.042°/d |  |  |
+| ♆ Neptune | ♉ Taurus 11°42′ | Aries | 2 | 0.037°/d |  |  |
+| ♇ Pluto | ♉ Taurus 23°49′ | Taurus | 2 | 0.021°/d | detriment (modern) |  |
+| ☊ North Node | ♉ Taurus 26°45′ | Taurus | 2 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 26°45′ | Libra | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

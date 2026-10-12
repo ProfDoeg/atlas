@@ -7,20 +7,20 @@ Born 1882-03-23 (gregorian calendar), Erlangen, Hauptstraße 23 (lat 49.5968, ln
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 2°17′ | 1 | 0.991°/d | exaltation |  |
-| ☽ Moon | ♉ Taurus 19°30′ | 2 | 13.770°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 4°36′ | 12 | 1.069°/d | detriment, fall |  |
-| ♀ Venus | ♈ Aries 9°43′ | 1 | 1.242°/d | detriment |  |
-| ♂ Mars | ♋ Cancer 8°07′ | 4 | 0.395°/d | fall |  |
-| ♃ Jupiter | ♉ Taurus 23°52′ | 2 | 0.187°/d |  |  |
-| ♄ Saturn | ♉ Taurus 10°02′ | 2 | 0.111°/d |  |  |
-| ♅ Uranus | ♍ Virgo 15°38′ | 6 | R -0.041°/d |  |  |
-| ♆ Neptune | ♉ Taurus 14°42′ | 2 | 0.029°/d |  |  |
-| ♇ Pluto | ♉ Taurus 27°40′ | 2 | 0.014°/d | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 2°59′ | 9 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 2°59′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 2°17′ | Pisces | 1 | 0.991°/d | exaltation |  |
+| ☽ Moon | ♉ Taurus 19°30′ | Aries | 2 | 13.770°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 4°36′ | Aquarius | 12 | 1.069°/d | detriment, fall |  |
+| ♀ Venus | ♈ Aries 9°43′ | Pisces | 1 | 1.242°/d | detriment |  |
+| ♂ Mars | ♋ Cancer 8°07′ | Gemini | 4 | 0.395°/d | fall |  |
+| ♃ Jupiter | ♉ Taurus 23°52′ | Taurus | 2 | 0.187°/d |  |  |
+| ♄ Saturn | ♉ Taurus 10°02′ | Aries | 2 | 0.111°/d |  |  |
+| ♅ Uranus | ♍ Virgo 15°38′ | Leo | 6 | R -0.041°/d |  |  |
+| ♆ Neptune | ♉ Taurus 14°42′ | Aries | 2 | 0.029°/d |  |  |
+| ♇ Pluto | ♉ Taurus 27°40′ | Taurus | 2 | 0.014°/d | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 2°59′ | Scorpius | 9 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 2°59′ | Taurus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

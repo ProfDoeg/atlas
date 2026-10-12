@@ -7,20 +7,20 @@ Born 1867-06-08 (gregorian calendar), Richland Center, the birth on the Pine Riv
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 16°42′ | 1 | 0.956°/d |  |  |
-| ☽ Moon | ♍ Virgo 0°44′ | 4 | 13.746°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♊ Gemini 25°27′ | 1 | 2.102°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 17°47′ | 12 | 1.199°/d | domicile |  |
-| ♂ Mars | ♌ Leo 21°57′ | 3 | 0.553°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 7°08′ | 10 | 0.060°/d | domicile |  |
-| ♄ Saturn | ♏ Scorpio 18°48′ | 6 | R -0.061°/d |  |  |
-| ♅ Uranus | ♋ Cancer 7°11′ | 2 | 0.057°/d |  |  |
-| ♆ Neptune | ♈ Aries 14°38′ | 11 | 0.021°/d |  |  |
-| ♇ Pluto | ♉ Taurus 15°23′ | 12 | 0.020°/d | detriment (modern) |  |
-| ☊ North Node | ♍ Virgo 19°03′ | 4 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 19°03′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 16°42′ | Taurus | 1 | 0.956°/d |  |  |
+| ☽ Moon | ♍ Virgo 0°44′ | Leo | 4 | 13.746°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♊ Gemini 25°27′ | Taurus | 1 | 2.102°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 17°47′ | Aries | 12 | 1.199°/d | domicile |  |
+| ♂ Mars | ♌ Leo 21°57′ | Leo | 3 | 0.553°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 7°08′ | Aquarius | 10 | 0.060°/d | domicile |  |
+| ♄ Saturn | ♏ Scorpio 18°48′ | Libra | 6 | R -0.061°/d |  |  |
+| ♅ Uranus | ♋ Cancer 7°11′ | Gemini | 2 | 0.057°/d |  |  |
+| ♆ Neptune | ♈ Aries 14°38′ | Pisces | 11 | 0.021°/d |  |  |
+| ♇ Pluto | ♉ Taurus 15°23′ | Aries | 12 | 0.020°/d | detriment (modern) |  |
+| ☊ North Node | ♍ Virgo 19°03′ | Leo | 4 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 19°03′ | Aquarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

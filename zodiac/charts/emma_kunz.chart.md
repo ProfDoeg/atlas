@@ -7,20 +7,20 @@ Born 1892-05-23 (gregorian calendar), Brittnau: the weaver's daughter, tenth of 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 2°18′ | 1 | 0.961°/d |  |  |
-| ☽ Moon | ♈ Aries 17°15′ | 11 | 14.715°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 7°40′ | 12 | 1.241°/d |  |  |
-| ♀ Venus | ♋ Cancer 15°23′ | 2 | 0.716°/d |  |  |
-| ♂ Mars | ♒ Aquarius 7°12′ | 9 | 0.409°/d |  |  |
-| ♃ Jupiter | ♈ Aries 15°24′ | 11 | 0.201°/d |  |  |
-| ♄ Saturn | ♍ Virgo 23°28′ | 4 | R -0.004°/d (stationary) |  |  |
-| ♅ Uranus | ♏ Scorpio 2°40′ | 6 | R -0.035°/d |  |  |
-| ♆ Neptune | ♊ Gemini 8°32′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 8°14′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♉ Taurus 16°19′ | 12 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 16°19′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 2°18′ | Taurus | 1 | 0.961°/d |  |  |
+| ☽ Moon | ♈ Aries 17°15′ | Pisces | 11 | 14.715°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 7°40′ | Aries | 12 | 1.241°/d |  |  |
+| ♀ Venus | ♋ Cancer 15°23′ | Gemini | 2 | 0.716°/d |  |  |
+| ♂ Mars | ♒ Aquarius 7°12′ | Capricornus | 9 | 0.409°/d |  |  |
+| ♃ Jupiter | ♈ Aries 15°24′ | Pisces | 11 | 0.201°/d |  |  |
+| ♄ Saturn | ♍ Virgo 23°28′ | Leo | 4 | R -0.004°/d (stationary) |  |  |
+| ♅ Uranus | ♏ Scorpio 2°40′ | Virgo | 6 | R -0.035°/d |  |  |
+| ♆ Neptune | ♊ Gemini 8°32′ | Taurus | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 8°14′ | Taurus | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♉ Taurus 16°19′ | Aries | 12 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 16°19′ | Libra | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

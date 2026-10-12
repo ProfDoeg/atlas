@@ -7,20 +7,20 @@ Born 1846-08-21 (gregorian calendar), Port-Vendres, birth in the garrison port (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 27°31′ | 1 | 0.964°/d | domicile |  |
-| ☽ Moon | ♌ Leo 16°53′ | 1 | 11.860°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 6°31′ | 2 | R -0.775°/d | domicile, exaltation |  |
-| ♀ Venus | ♋ Cancer 28°18′ | 12 | 1.204°/d |  |  |
-| ♂ Mars | ♍ Virgo 4°15′ | 2 | 0.636°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 13°27′ | 11 | 0.132°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 27°17′ | 7 | R -0.075°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 13°58′ | 9 | R -0.024°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 26°42′ | 7 | R -0.027°/d |  |  |
-| ♇ Pluto | ♈ Aries 25°52′ | 9 | R -0.009°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 1°17′ | 4 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 1°17′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 27°31′ | Leo | 1 | 0.964°/d | domicile |  |
+| ☽ Moon | ♌ Leo 16°53′ | Cancer | 1 | 11.860°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 6°31′ | Leo | 2 | R -0.775°/d | domicile, exaltation |  |
+| ♀ Venus | ♋ Cancer 28°18′ | Cancer | 12 | 1.204°/d |  |  |
+| ♂ Mars | ♍ Virgo 4°15′ | Leo | 2 | 0.636°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 13°27′ | Taurus | 11 | 0.132°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 27°17′ | Capricornus | 7 | R -0.075°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 13°58′ | Pisces | 9 | R -0.024°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 26°42′ | Capricornus | 7 | R -0.027°/d |  |  |
+| ♇ Pluto | ♈ Aries 25°52′ | Pisces | 9 | R -0.009°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 1°17′ | Virgo | 4 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 1°17′ | Aries | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

@@ -7,20 +7,20 @@ Born 1919-10-26 (gregorian calendar), Tehran, the birth of a soldier's son (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 1°31′ | 1 | 0.997°/d |  |  |
-| ☽ Moon | ♏ Scorpio 24°50′ | 1 | 11.802°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♏ Scorpio 19°10′ | 1 | 1.441°/d |  |  |
-| ♀ Venus | ♍ Virgo 18°54′ | 11 | 0.651°/d | fall |  |
-| ♂ Mars | ♍ Virgo 9°32′ | 11 | 0.595°/d |  |  |
-| ♃ Jupiter | ♌ Leo 15°38′ | 10 | 0.118°/d |  |  |
-| ♄ Saturn | ♍ Virgo 8°53′ | 11 | 0.093°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 27°55′ | 4 | R -0.011°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 11°30′ | 10 | 0.011°/d |  |  |
-| ♇ Pluto | ♋ Cancer 7°45′ | 9 | R -0.006°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 25°56′ | 1 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 25°56′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 1°31′ | Virgo | 1 | 0.997°/d |  |  |
+| ☽ Moon | ♏ Scorpio 24°50′ | Libra | 1 | 11.802°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♏ Scorpio 19°10′ | Libra | 1 | 1.441°/d |  |  |
+| ♀ Venus | ♍ Virgo 18°54′ | Leo | 11 | 0.651°/d | fall |  |
+| ♂ Mars | ♍ Virgo 9°32′ | Leo | 11 | 0.595°/d |  |  |
+| ♃ Jupiter | ♌ Leo 15°38′ | Cancer | 10 | 0.118°/d |  |  |
+| ♄ Saturn | ♍ Virgo 8°53′ | Leo | 11 | 0.093°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 27°55′ | Aquarius | 4 | R -0.011°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 11°30′ | Cancer | 10 | 0.011°/d |  |  |
+| ♇ Pluto | ♋ Cancer 7°45′ | Gemini | 9 | R -0.006°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 25°56′ | Libra | 1 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 25°56′ | Taurus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

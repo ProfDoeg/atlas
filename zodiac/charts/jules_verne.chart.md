@@ -7,20 +7,20 @@ Born 1828-02-08 (gregorian calendar), Île Feydeau, the house on the made ground
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 18°16′ | 1 | 1.012°/d | detriment |  |
-| ☽ Moon | ♏ Scorpio 7°52′ | 10 | 13.246°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 21°50′ | 1 | 1.803°/d |  |  |
-| ♀ Venus | ♓ Pisces 17°45′ | 2 | 1.231°/d | exaltation |  |
-| ♂ Mars | ♐ Sagittarius 0°15′ | 11 | 0.574°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 13°46′ | 10 | 0.065°/d |  |  |
-| ♄ Saturn | ♋ Cancer 14°34′ | 6 | R -0.061°/d | detriment |  |
-| ♅ Uranus | ♑ Capricornus 29°28′ | 12 | 0.057°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 17°03′ | 12 | 0.034°/d |  |  |
-| ♇ Pluto | ♈ Aries 4°53′ | 3 | 0.018°/d |  |  |
-| ☊ North Node | ♎ Libra 29°44′ | 9 | mean node |  |  |
-| ☋ South Node | ♈ Aries 29°44′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 18°16′ | Capricornus | 1 | 1.012°/d | detriment |  |
+| ☽ Moon | ♏ Scorpio 7°52′ | Libra | 10 | 13.246°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 21°50′ | Capricornus | 1 | 1.803°/d |  |  |
+| ♀ Venus | ♓ Pisces 17°45′ | Aquarius | 2 | 1.231°/d | exaltation |  |
+| ♂ Mars | ♐ Sagittarius 0°15′ | Libra | 11 | 0.574°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 13°46′ | Libra | 10 | 0.065°/d |  |  |
+| ♄ Saturn | ♋ Cancer 14°34′ | Gemini | 6 | R -0.061°/d | detriment |  |
+| ♅ Uranus | ♑ Capricornus 29°28′ | Sagittarius | 12 | 0.057°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 17°03′ | Sagittarius | 12 | 0.034°/d |  |  |
+| ♇ Pluto | ♈ Aries 4°53′ | Pisces | 3 | 0.018°/d |  |  |
+| ☊ North Node | ♎ Libra 29°44′ | Virgo | 9 | mean node |  |  |
+| ☋ South Node | ♈ Aries 29°44′ | Aries | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

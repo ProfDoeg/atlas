@@ -7,20 +7,20 @@ Born 1455-01-29 (julian calendar), Pforzheim, the ninth hour after noon (lat 48.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 17°47′ | 1 | 1.010°/d | detriment |  |
-| ☽ Moon | ♊ Gemini 22°01′ | 5 | 12.121°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 25°06′ | 1 | R -0.869°/d |  |  |
-| ♀ Venus | ♒ Aquarius 0°59′ | 1 | 1.248°/d |  |  |
-| ♂ Mars | ♊ Gemini 7°07′ | 5 | 0.301°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 12°21′ | 4 | 0.104°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 23°24′ | 10 | 0.041°/d |  |  |
-| ♅ Uranus | ♌ Leo 7°17′ | 7 | R -0.043°/d | detriment (modern) |  |
-| ♆ Neptune | ♎ Libra 8°46′ | 9 | R -0.015°/d |  |  |
-| ♇ Pluto | ♌ Leo 11°06′ | 7 | R -0.024°/d |  |  |
-| ☊ North Node | ♏ Scorpio 13°59′ | 10 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 13°59′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 17°47′ | Capricornus | 1 | 1.010°/d | detriment |  |
+| ☽ Moon | ♊ Gemini 22°01′ | Taurus | 5 | 12.121°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 25°06′ | Capricornus | 1 | R -0.869°/d |  |  |
+| ♀ Venus | ♒ Aquarius 0°59′ | Capricornus | 1 | 1.248°/d |  |  |
+| ♂ Mars | ♊ Gemini 7°07′ | Taurus | 5 | 0.301°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 12°21′ | Aries | 4 | 0.104°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 23°24′ | Libra | 10 | 0.041°/d |  |  |
+| ♅ Uranus | ♌ Leo 7°17′ | Cancer | 7 | R -0.043°/d | detriment (modern) |  |
+| ♆ Neptune | ♎ Libra 8°46′ | Virgo | 9 | R -0.015°/d |  |  |
+| ♇ Pluto | ♌ Leo 11°06′ | Cancer | 7 | R -0.024°/d |  |  |
+| ☊ North Node | ♏ Scorpio 13°59′ | Libra | 10 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 13°59′ | Aries | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

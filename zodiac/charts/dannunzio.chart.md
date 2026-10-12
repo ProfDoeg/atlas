@@ -7,20 +7,20 @@ Born 1863-03-12 (gregorian calendar), Pescara, the birth house on Corso Manthon�
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 20°57′ | 1 | 0.997°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 10°40′ | 10 | 13.958°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 23°48′ | 12 | 1.141°/d |  |  |
-| ♀ Venus | ♈ Aries 12°40′ | 2 | 1.235°/d | detriment |  |
-| ♂ Mars | ♊ Gemini 1°32′ | 4 | 0.597°/d |  |  |
-| ♃ Jupiter | ♎ Libra 26°02′ | 8 | R -0.085°/d |  |  |
-| ♄ Saturn | ♎ Libra 3°07′ | 8 | R -0.076°/d | exaltation |  |
-| ♅ Uranus | ♊ Gemini 16°45′ | 4 | 0.015°/d |  |  |
-| ♆ Neptune | ♈ Aries 3°03′ | 2 | 0.037°/d |  |  |
-| ♇ Pluto | ♉ Taurus 9°51′ | 3 | 0.016°/d | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 11°04′ | 10 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 11°04′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 20°57′ | Aquarius | 1 | 0.997°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 10°40′ | Ophiuchus | 10 | 13.958°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 23°48′ | Capricornus | 12 | 1.141°/d |  |  |
+| ♀ Venus | ♈ Aries 12°40′ | Pisces | 2 | 1.235°/d | detriment |  |
+| ♂ Mars | ♊ Gemini 1°32′ | Taurus | 4 | 0.597°/d |  |  |
+| ♃ Jupiter | ♎ Libra 26°02′ | Virgo | 8 | R -0.085°/d |  |  |
+| ♄ Saturn | ♎ Libra 3°07′ | Virgo | 8 | R -0.076°/d | exaltation |  |
+| ♅ Uranus | ♊ Gemini 16°45′ | Taurus | 4 | 0.015°/d |  |  |
+| ♆ Neptune | ♈ Aries 3°03′ | Pisces | 2 | 0.037°/d |  |  |
+| ♇ Pluto | ♉ Taurus 9°51′ | Aries | 3 | 0.016°/d | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 11°04′ | Ophiuchus | 10 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 11°04′ | Taurus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

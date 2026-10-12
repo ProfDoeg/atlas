@@ -7,20 +7,20 @@ Born 1929-01-16 (gregorian calendar), Jaffna, the lawyer's son (lat 9.6615, lng 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 25°24′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♓ Pisces 22°51′ | 3 | 13.044°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 12°09′ | 2 | 1.491°/d |  |  |
-| ♀ Venus | ♓ Pisces 10°51′ | 3 | 1.125°/d | exaltation |  |
-| ♂ Mars | ♊ Gemini 21°50′ | 6 | R -0.153°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 1°22′ | 5 | 0.070°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 25°16′ | 12 | 0.107°/d |  |  |
-| ♅ Uranus | ♈ Aries 4°05′ | 4 | 0.028°/d |  |  |
-| ♆ Neptune | ♍ Virgo 0°59′ | 9 | R -0.022°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 17°11′ | 7 | R -0.021°/d |  |  |
-| ☊ North Node | ♉ Taurus 27°28′ | 5 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 27°28′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 25°24′ | Sagittarius | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♓ Pisces 22°51′ | Pisces | 3 | 13.044°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 12°09′ | Capricornus | 2 | 1.491°/d |  |  |
+| ♀ Venus | ♓ Pisces 10°51′ | Aquarius | 3 | 1.125°/d | exaltation |  |
+| ♂ Mars | ♊ Gemini 21°50′ | Taurus | 6 | R -0.153°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 1°22′ | Aries | 5 | 0.070°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 25°16′ | Ophiuchus | 12 | 0.107°/d |  |  |
+| ♅ Uranus | ♈ Aries 4°05′ | Pisces | 4 | 0.028°/d |  |  |
+| ♆ Neptune | ♍ Virgo 0°59′ | Leo | 9 | R -0.022°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 17°11′ | Gemini | 7 | R -0.021°/d |  |  |
+| ☊ North Node | ♉ Taurus 27°28′ | Taurus | 5 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 27°28′ | Libra | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

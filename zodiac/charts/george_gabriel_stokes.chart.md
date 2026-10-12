@@ -7,20 +7,20 @@ Born 1819-08-13 (gregorian calendar), Skreen, the rector's youngest son (lat 54.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 19°22′ | 1 | 0.961°/d | domicile |  |
-| ☽ Moon | ♉ Taurus 22°08′ | 10 | 12.611°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 16°36′ | 2 | 0.845°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 3°56′ | 1 | 1.228°/d |  |  |
-| ♂ Mars | ♊ Gemini 15°01′ | 11 | 0.651°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 11°28′ | 7 | R -0.128°/d |  |  |
-| ♄ Saturn | ♓ Pisces 29°41′ | 8 | R -0.049°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 20°32′ | 5 | R -0.014°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 26°05′ | 5 | R -0.013°/d |  |  |
-| ♇ Pluto | ♓ Pisces 27°17′ | 8 | R -0.015°/d |  |  |
-| ☊ North Node | ♈ Aries 13°56′ | 9 | mean node |  |  |
-| ☋ South Node | ♎ Libra 13°56′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 19°22′ | Leo | 1 | 0.961°/d | domicile |  |
+| ☽ Moon | ♉ Taurus 22°08′ | Aries | 10 | 12.611°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 16°36′ | Leo | 2 | 0.845°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 3°56′ | Cancer | 1 | 1.228°/d |  |  |
+| ♂ Mars | ♊ Gemini 15°01′ | Taurus | 11 | 0.651°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 11°28′ | Capricornus | 7 | R -0.128°/d |  |  |
+| ♄ Saturn | ♓ Pisces 29°41′ | Pisces | 8 | R -0.049°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 20°32′ | Ophiuchus | 5 | R -0.014°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 26°05′ | Ophiuchus | 5 | R -0.013°/d |  |  |
+| ♇ Pluto | ♓ Pisces 27°17′ | Pisces | 8 | R -0.015°/d |  |  |
+| ☊ North Node | ♈ Aries 13°56′ | Pisces | 9 | mean node |  |  |
+| ☋ South Node | ♎ Libra 13°56′ | Virgo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

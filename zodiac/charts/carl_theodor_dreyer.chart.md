@@ -7,20 +7,20 @@ Born 1889-02-03 (gregorian calendar), Vor Frue parish, Copenhagen: the birth tha
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 14°25′ | 1 | 1.014°/d | detriment |  |
-| ☽ Moon | ♓ Pisces 18°05′ | 2 | 13.409°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 1°59′ | 2 | 0.536°/d | detriment, fall |  |
-| ♀ Venus | ♈ Aries 0°20′ | 3 | 1.094°/d | detriment |  |
-| ♂ Mars | ♓ Pisces 18°59′ | 2 | 0.773°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 29°30′ | 11 | 0.192°/d | domicile |  |
-| ♄ Saturn | ♌ Leo 17°12′ | 7 | R -0.082°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 21°44′ | 9 | R -0.008°/d (stationary) |  |  |
-| ♆ Neptune | ♉ Taurus 29°32′ | 4 | R -0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 4°04′ | 5 | R -0.005°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 20°07′ | 6 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 20°07′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 14°25′ | Capricornus | 1 | 1.014°/d | detriment |  |
+| ☽ Moon | ♓ Pisces 18°05′ | Aquarius | 2 | 13.409°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 1°59′ | Aquarius | 2 | 0.536°/d | detriment, fall |  |
+| ♀ Venus | ♈ Aries 0°20′ | Pisces | 3 | 1.094°/d | detriment |  |
+| ♂ Mars | ♓ Pisces 18°59′ | Aquarius | 2 | 0.773°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 29°30′ | Sagittarius | 11 | 0.192°/d | domicile |  |
+| ♄ Saturn | ♌ Leo 17°12′ | Cancer | 7 | R -0.082°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 21°44′ | Virgo | 9 | R -0.008°/d (stationary) |  |  |
+| ♆ Neptune | ♉ Taurus 29°32′ | Taurus | 4 | R -0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 4°04′ | Taurus | 5 | R -0.005°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 20°07′ | Gemini | 6 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 20°07′ | Sagittarius | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

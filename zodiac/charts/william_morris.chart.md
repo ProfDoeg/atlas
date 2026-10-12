@@ -7,20 +7,20 @@ Born 1834-03-24 (gregorian calendar), Elm House, Walthamstow, the birth (lat 51.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 2°54′ | 1 | 0.990°/d | exaltation |  |
-| ☽ Moon | ♍ Virgo 14°49′ | 6 | 15.251°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 11°06′ | 1 | R -0.574°/d |  |  |
-| ♀ Venus | ♈ Aries 6°54′ | 1 | 1.243°/d | detriment |  |
-| ♂ Mars | ♒ Aquarius 24°16′ | 11 | 0.773°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 7°40′ | 2 | 0.217°/d |  |  |
-| ♄ Saturn | ♎ Libra 7°53′ | 7 | R -0.077°/d | exaltation |  |
-| ♅ Uranus | ♒ Aquarius 24°50′ | 11 | 0.048°/d | domicile (modern) |  |
-| ♆ Neptune | ♒ Aquarius 1°07′ | 11 | 0.022°/d |  |  |
-| ♇ Pluto | ♈ Aries 12°04′ | 1 | 0.024°/d |  |  |
-| ☊ North Node | ♋ Cancer 1°19′ | 4 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 1°19′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 2°54′ | Pisces | 1 | 0.990°/d | exaltation |  |
+| ☽ Moon | ♍ Virgo 14°49′ | Leo | 6 | 15.251°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 11°06′ | Pisces | 1 | R -0.574°/d |  |  |
+| ♀ Venus | ♈ Aries 6°54′ | Pisces | 1 | 1.243°/d | detriment |  |
+| ♂ Mars | ♒ Aquarius 24°16′ | Capricornus | 11 | 0.773°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 7°40′ | Aries | 2 | 0.217°/d |  |  |
+| ♄ Saturn | ♎ Libra 7°53′ | Virgo | 7 | R -0.077°/d | exaltation |  |
+| ♅ Uranus | ♒ Aquarius 24°50′ | Capricornus | 11 | 0.048°/d | domicile (modern) |  |
+| ♆ Neptune | ♒ Aquarius 1°07′ | Capricornus | 11 | 0.022°/d |  |  |
+| ♇ Pluto | ♈ Aries 12°04′ | Pisces | 1 | 0.024°/d |  |  |
+| ☊ North Node | ♋ Cancer 1°19′ | Gemini | 4 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 1°19′ | Sagittarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

@@ -7,20 +7,20 @@ Born 1937-09-08 (gregorian calendar), Dayton, the birth (lat 39.7589, lng -84.19
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 14°55′ | 1 | 0.971°/d |  |  |
-| ☽ Moon | ♎ Libra 21°15′ | 2 | 12.445°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 27°11′ | 1 | R -0.717°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 9°26′ | 12 | 1.186°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 15°47′ | 4 | 0.596°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 17°37′ | 5 | R -0.019°/d | fall |  |
-| ♄ Saturn | ♈ Aries 2°37′ | 8 | R -0.072°/d | fall |  |
-| ♅ Uranus | ♉ Taurus 13°39′ | 9 | R -0.016°/d |  |  |
-| ♆ Neptune | ♍ Virgo 18°38′ | 1 | 0.037°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 29°35′ | 11 | 0.021°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 10°18′ | 4 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 10°18′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 14°55′ | Leo | 1 | 0.971°/d |  |  |
+| ☽ Moon | ♎ Libra 21°15′ | Virgo | 2 | 12.445°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 27°11′ | Virgo | 1 | R -0.717°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 9°26′ | Cancer | 12 | 1.186°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 15°47′ | Ophiuchus | 4 | 0.596°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 17°37′ | Sagittarius | 5 | R -0.019°/d | fall |  |
+| ♄ Saturn | ♈ Aries 2°37′ | Pisces | 8 | R -0.072°/d | fall |  |
+| ♅ Uranus | ♉ Taurus 13°39′ | Aries | 9 | R -0.016°/d |  |  |
+| ♆ Neptune | ♍ Virgo 18°38′ | Leo | 1 | 0.037°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 29°35′ | Cancer | 11 | 0.021°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 10°18′ | Ophiuchus | 4 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 10°18′ | Taurus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

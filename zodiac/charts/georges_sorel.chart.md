@@ -7,20 +7,20 @@ Born 1847-11-02 (gregorian calendar), Cherbourg, born to a merchant of oils and 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 8°58′ | 1 | 1.002°/d |  |  |
-| ☽ Moon | ♍ Virgo 2°23′ | 11 | 11.988°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♐ Sagittarius 1°44′ | 2 | 1.159°/d | detriment |  |
-| ♀ Venus | ♎ Libra 3°06′ | 12 | 0.304°/d | domicile |  |
-| ♂ Mars | ♉ Taurus 6°45′ | 7 | R -0.342°/d | detriment |  |
-| ♃ Jupiter | ♋ Cancer 20°31′ | 9 | 0.020°/d | exaltation |  |
-| ♄ Saturn | ♓ Pisces 6°07′ | 5 | R -0.014°/d |  |  |
-| ♅ Uranus | ♈ Aries 15°29′ | 6 | R -0.036°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 27°34′ | 4 | R -0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♈ Aries 25°42′ | 6 | R -0.018°/d |  |  |
-| ☊ North Node | ♎ Libra 8°05′ | 12 | mean node |  |  |
-| ☋ South Node | ♈ Aries 8°05′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 8°58′ | Libra | 1 | 1.002°/d |  |  |
+| ☽ Moon | ♍ Virgo 2°23′ | Leo | 11 | 11.988°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♐ Sagittarius 1°44′ | Scorpius | 2 | 1.159°/d | detriment |  |
+| ♀ Venus | ♎ Libra 3°06′ | Virgo | 12 | 0.304°/d | domicile |  |
+| ♂ Mars | ♉ Taurus 6°45′ | Aries | 7 | R -0.342°/d | detriment |  |
+| ♃ Jupiter | ♋ Cancer 20°31′ | Gemini | 9 | 0.020°/d | exaltation |  |
+| ♄ Saturn | ♓ Pisces 6°07′ | Aquarius | 5 | R -0.014°/d |  |  |
+| ♅ Uranus | ♈ Aries 15°29′ | Pisces | 6 | R -0.036°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 27°34′ | Capricornus | 4 | R -0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♈ Aries 25°42′ | Pisces | 6 | R -0.018°/d |  |  |
+| ☊ North Node | ♎ Libra 8°05′ | Virgo | 12 | mean node |  |  |
+| ☋ South Node | ♈ Aries 8°05′ | Pisces | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

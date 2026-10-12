@@ -7,20 +7,20 @@ Born 1767-05-18 (gregorian calendar), Valenciennes, the birthplace in French Hai
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 26°44′ | 1 | 0.962°/d |  |  |
-| ☽ Moon | ♑ Capricornus 18°40′ | 9 | 13.815°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 1°26′ | 1 | 0.977°/d |  |  |
-| ♀ Venus | ♊ Gemini 27°49′ | 2 | 1.197°/d |  |  |
-| ♂ Mars | ♋ Cancer 3°10′ | 3 | 0.636°/d | fall |  |
-| ♃ Jupiter | ♍ Virgo 13°03′ | 5 | 0.024°/d | detriment |  |
-| ♄ Saturn | ♊ Gemini 19°55′ | 2 | 0.124°/d |  |  |
-| ♅ Uranus | ♉ Taurus 0°53′ | 1 | 0.053°/d |  |  |
-| ♆ Neptune | ♍ Virgo 2°30′ | 5 | 0.002°/d (stationary) | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 11°39′ | 9 | R -0.016°/d |  |  |
-| ☊ North Node | ♒ Aquarius 4°15′ | 10 | mean node |  |  |
-| ☋ South Node | ♌ Leo 4°15′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 26°44′ | Taurus | 1 | 0.962°/d |  |  |
+| ☽ Moon | ♑ Capricornus 18°40′ | Sagittarius | 9 | 13.815°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 1°26′ | Aries | 1 | 0.977°/d |  |  |
+| ♀ Venus | ♊ Gemini 27°49′ | Taurus | 2 | 1.197°/d |  |  |
+| ♂ Mars | ♋ Cancer 3°10′ | Gemini | 3 | 0.636°/d | fall |  |
+| ♃ Jupiter | ♍ Virgo 13°03′ | Leo | 5 | 0.024°/d | detriment |  |
+| ♄ Saturn | ♊ Gemini 19°55′ | Taurus | 2 | 0.124°/d |  |  |
+| ♅ Uranus | ♉ Taurus 0°53′ | Aries | 1 | 0.053°/d |  |  |
+| ♆ Neptune | ♍ Virgo 2°30′ | Leo | 5 | 0.002°/d (stationary) | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 11°39′ | Sagittarius | 9 | R -0.016°/d |  |  |
+| ☊ North Node | ♒ Aquarius 4°15′ | Capricornus | 10 | mean node |  |  |
+| ☋ South Node | ♌ Leo 4°15′ | Cancer | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1875-06-28 (gregorian calendar), Beauvais, the birth in the rue de la Madel
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 5°51′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♈ Aries 23°51′ | 10 | 14.144°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♋ Cancer 19°03′ | 1 | R -0.309°/d |  |  |
-| ♀ Venus | ♊ Gemini 12°30′ | 12 | 1.209°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 26°09′ | 6 | R -0.303°/d |  |  |
-| ♃ Jupiter | ♎ Libra 21°49′ | 4 | 0.027°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 25°20′ | 8 | R -0.035°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 13°00′ | 2 | 0.052°/d | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 2°39′ | 11 | 0.021°/d |  |  |
-| ♇ Pluto | ♉ Taurus 23°09′ | 11 | 0.017°/d | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 13°15′ | 10 | mean node |  |  |
-| ☋ South Node | ♎ Libra 13°15′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 5°51′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♈ Aries 23°51′ | Pisces | 10 | 14.144°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♋ Cancer 19°03′ | Gemini | 1 | R -0.309°/d |  |  |
+| ♀ Venus | ♊ Gemini 12°30′ | Taurus | 12 | 1.209°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 26°09′ | Ophiuchus | 6 | R -0.303°/d |  |  |
+| ♃ Jupiter | ♎ Libra 21°49′ | Virgo | 4 | 0.027°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 25°20′ | Capricornus | 8 | R -0.035°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 13°00′ | Cancer | 2 | 0.052°/d | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 2°39′ | Aries | 11 | 0.021°/d |  |  |
+| ♇ Pluto | ♉ Taurus 23°09′ | Aries | 11 | 0.017°/d | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 13°15′ | Pisces | 10 | mean node |  |  |
+| ☋ South Node | ♎ Libra 13°15′ | Virgo | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

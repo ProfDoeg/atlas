@@ -7,20 +7,20 @@ Born 1888-09-04 (gregorian calendar), Stuttgart, the birth in the Kingdom of Wue
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 11°52′ | 1 | 0.970°/d |  |  |
-| ☽ Moon | ♌ Leo 13°47′ | 12 | 13.283°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 21°41′ | 1 | 1.754°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 26°44′ | 1 | 1.236°/d | fall |  |
-| ♂ Mars | ♏ Scorpio 25°32′ | 3 | 0.647°/d | domicile |  |
-| ♃ Jupiter | ♏ Scorpio 29°10′ | 3 | 0.117°/d |  |  |
-| ♄ Saturn | ♌ Leo 14°18′ | 12 | 0.119°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 15°13′ | 2 | 0.055°/d |  |  |
-| ♆ Neptune | ♊ Gemini 2°21′ | 10 | 0.000°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 6°00′ | 10 | 0.000°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 28°10′ | 11 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 28°10′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 11°52′ | Leo | 1 | 0.970°/d |  |  |
+| ☽ Moon | ♌ Leo 13°47′ | Cancer | 12 | 13.283°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 21°41′ | Leo | 1 | 1.754°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 26°44′ | Virgo | 1 | 1.236°/d | fall |  |
+| ♂ Mars | ♏ Scorpio 25°32′ | Libra | 3 | 0.647°/d | domicile |  |
+| ♃ Jupiter | ♏ Scorpio 29°10′ | Libra | 3 | 0.117°/d |  |  |
+| ♄ Saturn | ♌ Leo 14°18′ | Cancer | 12 | 0.119°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 15°13′ | Virgo | 2 | 0.055°/d |  |  |
+| ♆ Neptune | ♊ Gemini 2°21′ | Taurus | 10 | 0.000°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 6°00′ | Taurus | 10 | 0.000°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 28°10′ | Gemini | 11 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 28°10′ | Sagittarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

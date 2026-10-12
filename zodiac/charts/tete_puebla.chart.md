@@ -7,20 +7,20 @@ Born 1940-12-09 (gregorian calendar), Yara: born on the ninth of December (lat 2
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 16°47′ | 1 | 1.016°/d |  |  |
-| ☽ Moon | ♈ Aries 12°04′ | 5 | 11.779°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 29°15′ | 12 | 1.420°/d |  |  |
-| ♀ Venus | ♏ Scorpio 15°22′ | 12 | 1.236°/d | detriment |  |
-| ♂ Mars | ♏ Scorpio 12°05′ | 12 | 0.664°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 6°39′ | 6 | R -0.074°/d |  |  |
-| ♄ Saturn | ♉ Taurus 8°28′ | 6 | R -0.054°/d |  |  |
-| ♅ Uranus | ♉ Taurus 23°18′ | 6 | R -0.037°/d |  |  |
-| ♆ Neptune | ♍ Virgo 27°40′ | 10 | 0.012°/d | detriment (modern) |  |
-| ♇ Pluto | ♌ Leo 4°09′ | 9 | R -0.014°/d |  |  |
-| ☊ North Node | ♎ Libra 7°23′ | 11 | mean node |  |  |
-| ☋ South Node | ♈ Aries 7°23′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 16°47′ | Ophiuchus | 1 | 1.016°/d |  |  |
+| ☽ Moon | ♈ Aries 12°04′ | Pisces | 5 | 11.779°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 29°15′ | Libra | 12 | 1.420°/d |  |  |
+| ♀ Venus | ♏ Scorpio 15°22′ | Libra | 12 | 1.236°/d | detriment |  |
+| ♂ Mars | ♏ Scorpio 12°05′ | Libra | 12 | 0.664°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 6°39′ | Aries | 6 | R -0.074°/d |  |  |
+| ♄ Saturn | ♉ Taurus 8°28′ | Aries | 6 | R -0.054°/d |  |  |
+| ♅ Uranus | ♉ Taurus 23°18′ | Aries | 6 | R -0.037°/d |  |  |
+| ♆ Neptune | ♍ Virgo 27°40′ | Virgo | 10 | 0.012°/d | detriment (modern) |  |
+| ♇ Pluto | ♌ Leo 4°09′ | Cancer | 9 | R -0.014°/d |  |  |
+| ☊ North Node | ♎ Libra 7°23′ | Virgo | 11 | mean node |  |  |
+| ☋ South Node | ♈ Aries 7°23′ | Pisces | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

@@ -7,20 +7,20 @@ Born 1905-12-02 (gregorian calendar), Villa Crespo, the third son of a shoemaker
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 9°10′ | 1 | 1.014°/d |  |  |
-| ☽ Moon | ♒ Aquarius 18°38′ | 3 | 12.907°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 29°53′ | 1 | 0.611°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 21°21′ | 12 | 1.254°/d | detriment |  |
-| ♂ Mars | ♒ Aquarius 10°27′ | 3 | 0.761°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 0°22′ | 7 | R -0.133°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 26°55′ | 3 | 0.053°/d | domicile |  |
-| ♅ Uranus | ♑ Capricornus 2°52′ | 2 | 0.056°/d |  |  |
-| ♆ Neptune | ♋ Cancer 9°52′ | 8 | R -0.024°/d |  |  |
-| ♇ Pluto | ♊ Gemini 22°00′ | 7 | R -0.019°/d |  |  |
-| ☊ North Node | ♌ Leo 24°43′ | 9 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 24°43′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 9°10′ | Ophiuchus | 1 | 1.014°/d |  |  |
+| ☽ Moon | ♒ Aquarius 18°38′ | Capricornus | 3 | 12.907°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 29°53′ | Sagittarius | 1 | 0.611°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 21°21′ | Libra | 12 | 1.254°/d | detriment |  |
+| ♂ Mars | ♒ Aquarius 10°27′ | Capricornus | 3 | 0.761°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 0°22′ | Taurus | 7 | R -0.133°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 26°55′ | Capricornus | 3 | 0.053°/d | domicile |  |
+| ♅ Uranus | ♑ Capricornus 2°52′ | Sagittarius | 2 | 0.056°/d |  |  |
+| ♆ Neptune | ♋ Cancer 9°52′ | Gemini | 8 | R -0.024°/d |  |  |
+| ♇ Pluto | ♊ Gemini 22°00′ | Taurus | 7 | R -0.019°/d |  |  |
+| ☊ North Node | ♌ Leo 24°43′ | Leo | 9 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 24°43′ | Capricornus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

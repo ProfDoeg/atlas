@@ -7,20 +7,20 @@ Born 1772-05-02 (gregorian calendar), Schloss Oberwiederstedt (Wiederstedt, Mans
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 12°04′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♉ Taurus 1°58′ | 1 | 12.053°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♊ Gemini 2°03′ | 2 | 0.630°/d | domicile |  |
-| ♀ Venus | ♊ Gemini 24°35′ | 2 | 1.113°/d |  |  |
-| ♂ Mars | ♈ Aries 4°35′ | 12 | 0.767°/d | domicile |  |
-| ♃ Jupiter | ♒ Aquarius 28°56′ | 10 | 0.141°/d |  |  |
-| ♄ Saturn | ♌ Leo 23°04′ | 4 | 0.014°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 19°23′ | 1 | 0.058°/d |  |  |
-| ♆ Neptune | ♍ Virgo 13°35′ | 5 | R -0.011°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 21°22′ | 9 | R -0.005°/d (stationary) |  |  |
-| ☊ North Node | ♎ Libra 28°21′ | 6 | mean node |  |  |
-| ☋ South Node | ♈ Aries 28°21′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 12°04′ | Aries | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♉ Taurus 1°58′ | Aries | 1 | 12.053°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♊ Gemini 2°03′ | Taurus | 2 | 0.630°/d | domicile |  |
+| ♀ Venus | ♊ Gemini 24°35′ | Taurus | 2 | 1.113°/d |  |  |
+| ♂ Mars | ♈ Aries 4°35′ | Pisces | 12 | 0.767°/d | domicile |  |
+| ♃ Jupiter | ♒ Aquarius 28°56′ | Aquarius | 10 | 0.141°/d |  |  |
+| ♄ Saturn | ♌ Leo 23°04′ | Leo | 4 | 0.014°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 19°23′ | Aries | 1 | 0.058°/d |  |  |
+| ♆ Neptune | ♍ Virgo 13°35′ | Leo | 5 | R -0.011°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 21°22′ | Sagittarius | 9 | R -0.005°/d (stationary) |  |  |
+| ☊ North Node | ♎ Libra 28°21′ | Virgo | 6 | mean node |  |  |
+| ☋ South Node | ♈ Aries 28°21′ | Pisces | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

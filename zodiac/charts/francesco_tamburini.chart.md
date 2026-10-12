@@ -7,20 +7,20 @@ Born 1846-01-29 (gregorian calendar), Ascoli Piceno: the birth the register does
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 8°46′ | 1 | 1.015°/d | detriment |  |
-| ☽ Moon | ♓ Pisces 1°40′ | 2 | 15.055°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♑ Capricornus 16°30′ | 12 | 1.339°/d |  |  |
-| ♀ Venus | ♓ Pisces 17°23′ | 2 | 0.427°/d | exaltation |  |
-| ♂ Mars | ♈ Aries 23°58′ | 3 | 0.644°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 2°43′ | 4 | 0.108°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 19°47′ | 1 | 0.119°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 7°16′ | 3 | 0.036°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 24°58′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♈ Aries 23°05′ | 3 | 0.008°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 12°05′ | 10 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 12°05′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 8°46′ | Capricornus | 1 | 1.015°/d | detriment |  |
+| ☽ Moon | ♓ Pisces 1°40′ | Aquarius | 2 | 15.055°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♑ Capricornus 16°30′ | Sagittarius | 12 | 1.339°/d |  |  |
+| ♀ Venus | ♓ Pisces 17°23′ | Aquarius | 2 | 0.427°/d | exaltation |  |
+| ♂ Mars | ♈ Aries 23°58′ | Pisces | 3 | 0.644°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 2°43′ | Aries | 4 | 0.108°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 19°47′ | Capricornus | 1 | 0.119°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 7°16′ | Pisces | 3 | 0.036°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 24°58′ | Capricornus | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♈ Aries 23°05′ | Pisces | 3 | 0.008°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 12°05′ | Libra | 10 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 12°05′ | Aries | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

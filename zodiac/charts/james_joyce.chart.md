@@ -7,20 +7,20 @@ Born 1882-02-02 (gregorian calendar), 41 Brighton Square, Rathgar: the birth (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 13°06′ | 1 | 1.014°/d | detriment |  |
-| ☽ Moon | ♋ Cancer 29°28′ | 6 | 11.956°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♓ Pisces 0°07′ | 2 | 1.454°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 8°29′ | 1 | 1.255°/d |  |  |
-| ♂ Mars | ♊ Gemini 26°57′ | 5 | R -0.009°/d (stationary) |  |  |
-| ♃ Jupiter | ♉ Taurus 17°08′ | 4 | 0.075°/d |  |  |
-| ♄ Saturn | ♉ Taurus 5°57′ | 4 | 0.048°/d |  |  |
-| ♅ Uranus | ♍ Virgo 17°39′ | 8 | R -0.033°/d |  |  |
-| ♆ Neptune | ♉ Taurus 13°48′ | 4 | 0.005°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 27°23′ | 4 | R -0.003°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 5°35′ | 11 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 5°35′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 13°06′ | Capricornus | 1 | 1.014°/d | detriment |  |
+| ☽ Moon | ♋ Cancer 29°28′ | Cancer | 6 | 11.956°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♓ Pisces 0°07′ | Aquarius | 2 | 1.454°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 8°29′ | Capricornus | 1 | 1.255°/d |  |  |
+| ♂ Mars | ♊ Gemini 26°57′ | Taurus | 5 | R -0.009°/d (stationary) |  |  |
+| ♃ Jupiter | ♉ Taurus 17°08′ | Aries | 4 | 0.075°/d |  |  |
+| ♄ Saturn | ♉ Taurus 5°57′ | Aries | 4 | 0.048°/d |  |  |
+| ♅ Uranus | ♍ Virgo 17°39′ | Leo | 8 | R -0.033°/d |  |  |
+| ♆ Neptune | ♉ Taurus 13°48′ | Aries | 4 | 0.005°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 27°23′ | Taurus | 4 | R -0.003°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 5°35′ | Scorpius | 11 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 5°35′ | Taurus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

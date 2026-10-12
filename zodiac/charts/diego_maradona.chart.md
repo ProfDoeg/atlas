@@ -7,20 +7,20 @@ Born 1960-10-30 (gregorian calendar), Lanús, birth at the Policlínico Evita (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 6°35′ | 1 | 1.000°/d |  |  |
-| ☽ Moon | ♓ Pisces 11°13′ | 5 | 13.696°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 23°36′ | 1 | R -0.354°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 10°07′ | 2 | 1.219°/d |  |  |
-| ♂ Mars | ♋ Cancer 15°41′ | 9 | 0.258°/d | fall |  |
-| ♃ Jupiter | ♑ Capricornus 0°41′ | 3 | 0.178°/d | fall |  |
-| ♄ Saturn | ♑ Capricornus 13°22′ | 3 | 0.068°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 25°11′ | 10 | 0.029°/d | detriment (modern) |  |
-| ♆ Neptune | ♏ Scorpio 8°50′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♍ Virgo 7°45′ | 11 | 0.020°/d |  |  |
-| ☊ North Node | ♍ Virgo 12°41′ | 11 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 12°41′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 6°35′ | Virgo | 1 | 1.000°/d |  |  |
+| ☽ Moon | ♓ Pisces 11°13′ | Aquarius | 5 | 13.696°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 23°36′ | Libra | 1 | R -0.354°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 10°07′ | Ophiuchus | 2 | 1.219°/d |  |  |
+| ♂ Mars | ♋ Cancer 15°41′ | Gemini | 9 | 0.258°/d | fall |  |
+| ♃ Jupiter | ♑ Capricornus 0°41′ | Sagittarius | 3 | 0.178°/d | fall |  |
+| ♄ Saturn | ♑ Capricornus 13°22′ | Sagittarius | 3 | 0.068°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 25°11′ | Leo | 10 | 0.029°/d | detriment (modern) |  |
+| ♆ Neptune | ♏ Scorpio 8°50′ | Libra | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♍ Virgo 7°45′ | Leo | 11 | 0.020°/d |  |  |
+| ☊ North Node | ♍ Virgo 12°41′ | Leo | 11 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 12°41′ | Aquarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

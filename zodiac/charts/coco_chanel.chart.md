@@ -7,20 +7,20 @@ Born 1883-08-19 (gregorian calendar), Saumur, birth in the charity hospital (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 25°38′ | 1 | 0.963°/d | domicile |  |
-| ☽ Moon | ♓ Pisces 1°50′ | 8 | 14.420°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♍ Virgo 13°50′ | 2 | 1.626°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 16°43′ | 1 | 1.235°/d |  |  |
-| ♂ Mars | ♊ Gemini 26°41′ | 11 | 0.647°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 22°54′ | 12 | 0.205°/d | exaltation |  |
-| ♄ Saturn | ♊ Gemini 8°58′ | 11 | 0.059°/d |  |  |
-| ♅ Uranus | ♍ Virgo 21°47′ | 2 | 0.058°/d |  |  |
-| ♆ Neptune | ♉ Taurus 21°05′ | 10 | 0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 1°13′ | 11 | 0.004°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 5°46′ | 4 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 5°46′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 25°38′ | Leo | 1 | 0.963°/d | domicile |  |
+| ☽ Moon | ♓ Pisces 1°50′ | Aquarius | 8 | 14.420°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♍ Virgo 13°50′ | Leo | 2 | 1.626°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 16°43′ | Cancer | 1 | 1.235°/d |  |  |
+| ♂ Mars | ♊ Gemini 26°41′ | Taurus | 11 | 0.647°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 22°54′ | Gemini | 12 | 0.205°/d | exaltation |  |
+| ♄ Saturn | ♊ Gemini 8°58′ | Taurus | 11 | 0.059°/d |  |  |
+| ♅ Uranus | ♍ Virgo 21°47′ | Leo | 2 | 0.058°/d |  |  |
+| ♆ Neptune | ♉ Taurus 21°05′ | Aries | 10 | 0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 1°13′ | Taurus | 11 | 0.004°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 5°46′ | Virgo | 4 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 5°46′ | Aries | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

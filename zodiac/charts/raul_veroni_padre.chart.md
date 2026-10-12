@@ -7,20 +7,20 @@ Born 1913-08-08 (gregorian calendar), Milan, born on the eighth of August (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 14°50′ | 1 | 0.959°/d | domicile |  |
-| ☽ Moon | ♎ Libra 29°47′ | 3 | 14.028°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♌ Leo 8°56′ | 1 | R -0.635°/d |  |  |
-| ♀ Venus | ♋ Cancer 2°14′ | 12 | 1.108°/d |  |  |
-| ♂ Mars | ♊ Gemini 6°22′ | 11 | 0.657°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 9°08′ | 6 | R -0.082°/d | fall |  |
-| ♄ Saturn | ♊ Gemini 15°43′ | 11 | 0.087°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 5°13′ | 7 | R -0.039°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 26°32′ | 12 | 0.036°/d |  |  |
-| ♇ Pluto | ♋ Cancer 0°39′ | 12 | 0.018°/d |  |  |
-| ☊ North Node | ♓ Pisces 26°08′ | 8 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 26°08′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 14°50′ | Cancer | 1 | 0.959°/d | domicile |  |
+| ☽ Moon | ♎ Libra 29°47′ | Virgo | 3 | 14.028°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♌ Leo 8°56′ | Cancer | 1 | R -0.635°/d |  |  |
+| ♀ Venus | ♋ Cancer 2°14′ | Gemini | 12 | 1.108°/d |  |  |
+| ♂ Mars | ♊ Gemini 6°22′ | Taurus | 11 | 0.657°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 9°08′ | Sagittarius | 6 | R -0.082°/d | fall |  |
+| ♄ Saturn | ♊ Gemini 15°43′ | Taurus | 11 | 0.087°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 5°13′ | Capricornus | 7 | R -0.039°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 26°32′ | Gemini | 12 | 0.036°/d |  |  |
+| ♇ Pluto | ♋ Cancer 0°39′ | Gemini | 12 | 0.018°/d |  |  |
+| ☊ North Node | ♓ Pisces 26°08′ | Pisces | 8 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 26°08′ | Virgo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

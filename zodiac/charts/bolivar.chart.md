@@ -7,20 +7,20 @@ Born 1783-07-24 (gregorian calendar), Caracas, Casa Natal, parish of San Jacinto
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 0°52′ | 1 | 0.956°/d | domicile |  |
-| ☽ Moon | ♊ Gemini 2°28′ | 11 | 11.974°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♋ Cancer 11°20′ | 12 | 0.819°/d |  |  |
-| ♀ Venus | ♍ Virgo 15°36′ | 2 | 1.063°/d | fall |  |
-| ♂ Mars | ♈ Aries 6°27′ | 9 | 0.413°/d | domicile |  |
-| ♃ Jupiter | ♑ Capricornus 27°03′ | 6 | R -0.129°/d | fall |  |
-| ♄ Saturn | ♑ Capricornus 7°29′ | 6 | R -0.064°/d | domicile |  |
-| ♅ Uranus | ♋ Cancer 8°53′ | 12 | 0.057°/d |  |  |
-| ♆ Neptune | ♎ Libra 7°50′ | 3 | 0.018°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 9°03′ | 7 | R -0.023°/d |  |  |
-| ☊ North Node | ♓ Pisces 21°14′ | 8 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 21°14′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 0°52′ | Cancer | 1 | 0.956°/d | domicile |  |
+| ☽ Moon | ♊ Gemini 2°28′ | Taurus | 11 | 11.974°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♋ Cancer 11°20′ | Gemini | 12 | 0.819°/d |  |  |
+| ♀ Venus | ♍ Virgo 15°36′ | Leo | 2 | 1.063°/d | fall |  |
+| ♂ Mars | ♈ Aries 6°27′ | Pisces | 9 | 0.413°/d | domicile |  |
+| ♃ Jupiter | ♑ Capricornus 27°03′ | Sagittarius | 6 | R -0.129°/d | fall |  |
+| ♄ Saturn | ♑ Capricornus 7°29′ | Sagittarius | 6 | R -0.064°/d | domicile |  |
+| ♅ Uranus | ♋ Cancer 8°53′ | Gemini | 12 | 0.057°/d |  |  |
+| ♆ Neptune | ♎ Libra 7°50′ | Virgo | 3 | 0.018°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 9°03′ | Capricornus | 7 | R -0.023°/d |  |  |
+| ☊ North Node | ♓ Pisces 21°14′ | Aquarius | 8 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 21°14′ | Leo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

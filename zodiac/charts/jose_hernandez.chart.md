@@ -7,20 +7,20 @@ Born 1834-11-10 (gregorian calendar), Chacra de Perdriel, birth in the Pueyrred�
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 17°10′ | 1 | 1.006°/d |  |  |
-| ☽ Moon | ♓ Pisces 6°45′ | 5 | 12.145°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♐ Sagittarius 8°36′ | 2 | 0.427°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 29°30′ | 2 | 0.643°/d |  |  |
-| ♂ Mars | ♋ Cancer 20°18′ | 9 | 0.172°/d | fall |  |
-| ♃ Jupiter | ♊ Gemini 9°03′ | 8 | R -0.118°/d | detriment |  |
-| ♄ Saturn | ♎ Libra 17°51′ | 12 | 0.112°/d | exaltation |  |
-| ♅ Uranus | ♒ Aquarius 22°45′ | 4 | 0.007°/d (stationary) | domicile (modern) |  |
-| ♆ Neptune | ♑ Capricornus 29°03′ | 3 | 0.017°/d |  |  |
-| ♇ Pluto | ♈ Aries 12°12′ | 6 | R -0.015°/d |  |  |
-| ☊ North Node | ♊ Gemini 19°05′ | 8 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 19°05′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 17°10′ | Libra | 1 | 1.006°/d |  |  |
+| ☽ Moon | ♓ Pisces 6°45′ | Aquarius | 5 | 12.145°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♐ Sagittarius 8°36′ | Ophiuchus | 2 | 0.427°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 29°30′ | Sagittarius | 2 | 0.643°/d |  |  |
+| ♂ Mars | ♋ Cancer 20°18′ | Gemini | 9 | 0.172°/d | fall |  |
+| ♃ Jupiter | ♊ Gemini 9°03′ | Taurus | 8 | R -0.118°/d | detriment |  |
+| ♄ Saturn | ♎ Libra 17°51′ | Virgo | 12 | 0.112°/d | exaltation |  |
+| ♅ Uranus | ♒ Aquarius 22°45′ | Capricornus | 4 | 0.007°/d (stationary) | domicile (modern) |  |
+| ♆ Neptune | ♑ Capricornus 29°03′ | Sagittarius | 3 | 0.017°/d |  |  |
+| ♇ Pluto | ♈ Aries 12°12′ | Pisces | 6 | R -0.015°/d |  |  |
+| ☊ North Node | ♊ Gemini 19°05′ | Taurus | 8 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 19°05′ | Ophiuchus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

@@ -7,20 +7,20 @@ Born 1845-03-25 (gregorian calendar), Rome, birth in a carbonaro's house (lat 41
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 4°14′ | 1 | 0.990°/d | exaltation |  |
-| ☽ Moon | ♎ Libra 19°02′ | 7 | 13.948°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 6°28′ | 1 | 2.031°/d |  |  |
-| ♀ Venus | ♓ Pisces 20°39′ | 12 | 1.240°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 10°02′ | 10 | 0.614°/d | exaltation |  |
-| ♃ Jupiter | ♈ Aries 13°51′ | 1 | 0.240°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 15°34′ | 11 | 0.092°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 6°13′ | 1 | 0.057°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 24°50′ | 11 | 0.031°/d |  |  |
-| ♇ Pluto | ♈ Aries 23°01′ | 1 | 0.022°/d |  |  |
-| ☊ North Node | ♏ Scorpio 28°30′ | 8 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 28°30′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 4°14′ | Pisces | 1 | 0.990°/d | exaltation |  |
+| ☽ Moon | ♎ Libra 19°02′ | Virgo | 7 | 13.948°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 6°28′ | Pisces | 1 | 2.031°/d |  |  |
+| ♀ Venus | ♓ Pisces 20°39′ | Aquarius | 12 | 1.240°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 10°02′ | Sagittarius | 10 | 0.614°/d | exaltation |  |
+| ♃ Jupiter | ♈ Aries 13°51′ | Pisces | 1 | 0.240°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 15°34′ | Capricornus | 11 | 0.092°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 6°13′ | Pisces | 1 | 0.057°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 24°50′ | Capricornus | 11 | 0.031°/d |  |  |
+| ♇ Pluto | ♈ Aries 23°01′ | Pisces | 1 | 0.022°/d |  |  |
+| ☊ North Node | ♏ Scorpio 28°30′ | Libra | 8 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 28°30′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

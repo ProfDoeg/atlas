@@ -7,20 +7,20 @@ Born 1923-04-28 (gregorian calendar), Buenos Aires, the sculptor is born (lat -3
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 6°42′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♍ Virgo 25°48′ | 5 | 14.731°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♉ Taurus 25°25′ | 1 | 1.538°/d |  |  |
-| ♀ Venus | ♈ Aries 1°43′ | 12 | 1.193°/d | detriment |  |
-| ♂ Mars | ♊ Gemini 8°04′ | 2 | 0.676°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 14°58′ | 7 | R -0.125°/d |  |  |
-| ♄ Saturn | ♎ Libra 15°22′ | 6 | R -0.069°/d | exaltation |  |
-| ♅ Uranus | ♓ Pisces 16°28′ | 11 | 0.041°/d |  |  |
-| ♆ Neptune | ♌ Leo 15°27′ | 4 | 0.001°/d (stationary) |  |  |
-| ♇ Pluto | ♋ Cancer 9°21′ | 3 | 0.013°/d |  |  |
-| ☊ North Node | ♍ Virgo 18°09′ | 5 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 18°09′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 6°42′ | Aries | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♍ Virgo 25°48′ | Virgo | 5 | 14.731°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♉ Taurus 25°25′ | Taurus | 1 | 1.538°/d |  |  |
+| ♀ Venus | ♈ Aries 1°43′ | Pisces | 12 | 1.193°/d | detriment |  |
+| ♂ Mars | ♊ Gemini 8°04′ | Taurus | 2 | 0.676°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 14°58′ | Libra | 7 | R -0.125°/d |  |  |
+| ♄ Saturn | ♎ Libra 15°22′ | Virgo | 6 | R -0.069°/d | exaltation |  |
+| ♅ Uranus | ♓ Pisces 16°28′ | Aquarius | 11 | 0.041°/d |  |  |
+| ♆ Neptune | ♌ Leo 15°27′ | Cancer | 4 | 0.001°/d (stationary) |  |  |
+| ♇ Pluto | ♋ Cancer 9°21′ | Gemini | 3 | 0.013°/d |  |  |
+| ☊ North Node | ♍ Virgo 18°09′ | Leo | 5 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 18°09′ | Aquarius | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

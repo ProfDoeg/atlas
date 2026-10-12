@@ -7,20 +7,20 @@ Born 1900-06-29 (gregorian calendar), Lyon, rue du Peyrat, the birth (lat 45.756
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 6°46′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♋ Cancer 29°50′ | 1 | 12.606°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♌ Leo 2°02′ | 2 | 1.223°/d |  |  |
-| ♀ Venus | ♋ Cancer 21°09′ | 1 | R -0.459°/d |  |  |
-| ♂ Mars | ♊ Gemini 1°09′ | 12 | 0.709°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 2°22′ | 6 | R -0.086°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 1°18′ | 7 | R -0.073°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 9°16′ | 6 | R -0.035°/d |  |  |
-| ♆ Neptune | ♊ Gemini 27°09′ | 12 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 16°42′ | 12 | 0.022°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 9°41′ | 6 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 9°41′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 6°46′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♋ Cancer 29°50′ | Cancer | 1 | 12.606°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♌ Leo 2°02′ | Cancer | 2 | 1.223°/d |  |  |
+| ♀ Venus | ♋ Cancer 21°09′ | Gemini | 1 | R -0.459°/d |  |  |
+| ♂ Mars | ♊ Gemini 1°09′ | Taurus | 12 | 0.709°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 2°22′ | Scorpius | 6 | R -0.086°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 1°18′ | Sagittarius | 7 | R -0.073°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 9°16′ | Ophiuchus | 6 | R -0.035°/d |  |  |
+| ♆ Neptune | ♊ Gemini 27°09′ | Taurus | 12 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 16°42′ | Taurus | 12 | 0.022°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 9°41′ | Ophiuchus | 6 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 9°41′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

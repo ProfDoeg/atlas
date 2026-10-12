@@ -7,20 +7,20 @@ Born 1707-04-15 (gregorian calendar), Basel, birth in the pastor's house (lat 47
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 24°18′ | 1 | 0.977°/d | exaltation |  |
-| ☽ Moon | ♎ Libra 1°17′ | 7 | 12.252°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♉ Taurus 14°03′ | 2 | 0.960°/d |  |  |
-| ♀ Venus | ♓ Pisces 8°05′ | 12 | 1.012°/d | exaltation |  |
-| ♂ Mars | ♋ Cancer 4°49′ | 4 | 0.549°/d | fall |  |
-| ♃ Jupiter | ♌ Leo 21°03′ | 5 | R -0.009°/d (stationary) |  |  |
-| ♄ Saturn | ♊ Gemini 1°50′ | 3 | 0.113°/d |  |  |
-| ♅ Uranus | ♌ Leo 8°47′ | 5 | R -0.002°/d (stationary) | detriment (modern) |  |
-| ♆ Neptune | ♈ Aries 21°04′ | 1 | 0.038°/d |  |  |
-| ♇ Pluto | ♌ Leo 20°46′ | 5 | R -0.008°/d (stationary) |  |  |
-| ☊ North Node | ♈ Aries 26°29′ | 1 | mean node |  |  |
-| ☋ South Node | ♎ Libra 26°29′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 24°18′ | Pisces | 1 | 0.977°/d | exaltation |  |
+| ☽ Moon | ♎ Libra 1°17′ | Virgo | 7 | 12.252°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♉ Taurus 14°03′ | Aries | 2 | 0.960°/d |  |  |
+| ♀ Venus | ♓ Pisces 8°05′ | Aquarius | 12 | 1.012°/d | exaltation |  |
+| ♂ Mars | ♋ Cancer 4°49′ | Gemini | 4 | 0.549°/d | fall |  |
+| ♃ Jupiter | ♌ Leo 21°03′ | Leo | 5 | R -0.009°/d (stationary) |  |  |
+| ♄ Saturn | ♊ Gemini 1°50′ | Taurus | 3 | 0.113°/d |  |  |
+| ♅ Uranus | ♌ Leo 8°47′ | Cancer | 5 | R -0.002°/d (stationary) | detriment (modern) |  |
+| ♆ Neptune | ♈ Aries 21°04′ | Pisces | 1 | 0.038°/d |  |  |
+| ♇ Pluto | ♌ Leo 20°46′ | Leo | 5 | R -0.008°/d (stationary) |  |  |
+| ☊ North Node | ♈ Aries 26°29′ | Pisces | 1 | mean node |  |  |
+| ☋ South Node | ♎ Libra 26°29′ | Virgo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

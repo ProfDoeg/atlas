@@ -7,20 +7,20 @@ Born 1951-07-31 (gregorian calendar), Manhattan, the birth (lat 40.7831, lng -73
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 7°00′ | 1 | 0.956°/d | domicile |  |
-| ☽ Moon | ♋ Cancer 4°36′ | 12 | 11.866°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♍ Virgo 3°59′ | 2 | 1.116°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 15°13′ | 2 | 0.437°/d | fall |  |
-| ♂ Mars | ♋ Cancer 17°59′ | 12 | 0.657°/d | fall |  |
-| ♃ Jupiter | ♈ Aries 14°10′ | 9 | 0.014°/d |  |  |
-| ♄ Saturn | ♍ Virgo 28°46′ | 2 | 0.092°/d |  |  |
-| ♅ Uranus | ♋ Cancer 11°20′ | 12 | 0.056°/d |  |  |
-| ♆ Neptune | ♎ Libra 17°06′ | 3 | 0.017°/d |  |  |
-| ♇ Pluto | ♌ Leo 19°09′ | 1 | 0.030°/d |  |  |
-| ☊ North Node | ♓ Pisces 11°37′ | 8 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 11°37′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 7°00′ | Cancer | 1 | 0.956°/d | domicile |  |
+| ☽ Moon | ♋ Cancer 4°36′ | Gemini | 12 | 11.866°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♍ Virgo 3°59′ | Leo | 2 | 1.116°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 15°13′ | Leo | 2 | 0.437°/d | fall |  |
+| ♂ Mars | ♋ Cancer 17°59′ | Gemini | 12 | 0.657°/d | fall |  |
+| ♃ Jupiter | ♈ Aries 14°10′ | Pisces | 9 | 0.014°/d |  |  |
+| ♄ Saturn | ♍ Virgo 28°46′ | Virgo | 2 | 0.092°/d |  |  |
+| ♅ Uranus | ♋ Cancer 11°20′ | Gemini | 12 | 0.056°/d |  |  |
+| ♆ Neptune | ♎ Libra 17°06′ | Virgo | 3 | 0.017°/d |  |  |
+| ♇ Pluto | ♌ Leo 19°09′ | Leo | 1 | 0.030°/d |  |  |
+| ☊ North Node | ♓ Pisces 11°37′ | Aquarius | 8 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 11°37′ | Leo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

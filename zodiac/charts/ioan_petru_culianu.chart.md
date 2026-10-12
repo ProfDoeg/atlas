@@ -7,20 +7,20 @@ Born 1950-01-05 (gregorian calendar), Iasi, birth in the Bogdan house (lat 47.17
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 14°06′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♋ Cancer 22°16′ | 7 | 13.224°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 2°55′ | 2 | 0.621°/d |  |  |
-| ♀ Venus | ♒ Aquarius 18°08′ | 2 | 0.218°/d |  |  |
-| ♂ Mars | ♎ Libra 3°38′ | 10 | 0.345°/d | detriment |  |
-| ♃ Jupiter | ♒ Aquarius 7°28′ | 2 | 0.228°/d |  |  |
-| ♄ Saturn | ♍ Virgo 19°30′ | 9 | R -0.011°/d |  |  |
-| ♅ Uranus | ♋ Cancer 2°30′ | 7 | R -0.042°/d |  |  |
-| ♆ Neptune | ♎ Libra 17°22′ | 10 | 0.008°/d (stationary) |  |  |
-| ♇ Pluto | ♌ Leo 17°46′ | 8 | R -0.019°/d |  |  |
-| ☊ North Node | ♈ Aries 11°54′ | 4 | mean node |  |  |
-| ☋ South Node | ♎ Libra 11°54′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 14°06′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♋ Cancer 22°16′ | Gemini | 7 | 13.224°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 2°55′ | Capricornus | 2 | 0.621°/d |  |  |
+| ♀ Venus | ♒ Aquarius 18°08′ | Capricornus | 2 | 0.218°/d |  |  |
+| ♂ Mars | ♎ Libra 3°38′ | Virgo | 10 | 0.345°/d | detriment |  |
+| ♃ Jupiter | ♒ Aquarius 7°28′ | Capricornus | 2 | 0.228°/d |  |  |
+| ♄ Saturn | ♍ Virgo 19°30′ | Leo | 9 | R -0.011°/d |  |  |
+| ♅ Uranus | ♋ Cancer 2°30′ | Gemini | 7 | R -0.042°/d |  |  |
+| ♆ Neptune | ♎ Libra 17°22′ | Virgo | 10 | 0.008°/d (stationary) |  |  |
+| ♇ Pluto | ♌ Leo 17°46′ | Cancer | 8 | R -0.019°/d |  |  |
+| ☊ North Node | ♈ Aries 11°54′ | Pisces | 4 | mean node |  |  |
+| ☋ South Node | ♎ Libra 11°54′ | Virgo | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

@@ -7,20 +7,20 @@ Born 1736-01-25 (gregorian calendar), Turin, born in the Kingdom of Sardinia (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 4°24′ | 1 | 1.016°/d | detriment |  |
-| ☽ Moon | ♊ Gemini 20°23′ | 5 | 14.254°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 29°42′ | 12 | 1.666°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 17°47′ | 11 | 1.065°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 13°43′ | 11 | 0.685°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 27°06′ | 12 | 0.235°/d | fall |  |
-| ♄ Saturn | ♉ Taurus 20°53′ | 4 | 0.005°/d (stationary) |  |  |
-| ♅ Uranus | ♐ Sagittarius 25°49′ | 11 | 0.051°/d |  |  |
-| ♆ Neptune | ♊ Gemini 24°06′ | 5 | R -0.020°/d |  |  |
-| ♇ Pluto | ♎ Libra 28°27′ | 9 | 0.004°/d (stationary) |  |  |
-| ☊ North Node | ♎ Libra 9°50′ | 9 | mean node |  |  |
-| ☋ South Node | ♈ Aries 9°50′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 4°24′ | Capricornus | 1 | 1.016°/d | detriment |  |
+| ☽ Moon | ♊ Gemini 20°23′ | Taurus | 5 | 14.254°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 29°42′ | Sagittarius | 12 | 1.666°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 17°47′ | Ophiuchus | 11 | 1.065°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 13°43′ | Ophiuchus | 11 | 0.685°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 27°06′ | Sagittarius | 12 | 0.235°/d | fall |  |
+| ♄ Saturn | ♉ Taurus 20°53′ | Aries | 4 | 0.005°/d (stationary) |  |  |
+| ♅ Uranus | ♐ Sagittarius 25°49′ | Ophiuchus | 11 | 0.051°/d |  |  |
+| ♆ Neptune | ♊ Gemini 24°06′ | Taurus | 5 | R -0.020°/d |  |  |
+| ♇ Pluto | ♎ Libra 28°27′ | Virgo | 9 | 0.004°/d (stationary) |  |  |
+| ☊ North Node | ♎ Libra 9°50′ | Virgo | 9 | mean node |  |  |
+| ☋ South Node | ♈ Aries 9°50′ | Pisces | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

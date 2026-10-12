@@ -7,20 +7,20 @@ Born 1859-05-19 (gregorian calendar), Carcassonne, birth under the double walls 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 27°28′ | 1 | 0.962°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 22°05′ | 8 | 12.332°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 2°16′ | 1 | 0.894°/d |  |  |
-| ♀ Venus | ♈ Aries 23°19′ | 12 | 1.188°/d | detriment |  |
-| ♂ Mars | ♊ Gemini 16°19′ | 2 | 0.675°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 25°08′ | 2 | 0.215°/d | detriment |  |
-| ♄ Saturn | ♌ Leo 7°03′ | 4 | 0.070°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 3°12′ | 2 | 0.058°/d |  |  |
-| ♆ Neptune | ♓ Pisces 26°39′ | 11 | 0.022°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 7°33′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 24°50′ | 10 | mean node |  |  |
-| ☋ South Node | ♌ Leo 24°50′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 27°28′ | Taurus | 1 | 0.962°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 22°05′ | Ophiuchus | 8 | 12.332°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 2°16′ | Aries | 1 | 0.894°/d |  |  |
+| ♀ Venus | ♈ Aries 23°19′ | Pisces | 12 | 1.188°/d | detriment |  |
+| ♂ Mars | ♊ Gemini 16°19′ | Taurus | 2 | 0.675°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 25°08′ | Taurus | 2 | 0.215°/d | detriment |  |
+| ♄ Saturn | ♌ Leo 7°03′ | Cancer | 4 | 0.070°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 3°12′ | Taurus | 2 | 0.058°/d |  |  |
+| ♆ Neptune | ♓ Pisces 26°39′ | Pisces | 11 | 0.022°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 7°33′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 24°50′ | Capricornus | 10 | mean node |  |  |
+| ☋ South Node | ♌ Leo 24°50′ | Leo | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

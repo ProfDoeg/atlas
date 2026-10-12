@@ -7,20 +7,20 @@ Born -0106-01-03 (julian calendar), Arpinum, the villa on the Fibrenus (lat 41.6
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 10°09′ | 1 | 1.015°/d |  |  |
-| ☽ Moon | ♌ Leo 8°10′ | 8 | 15.032°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 5°56′ | 1 | 1.690°/d |  |  |
-| ♀ Venus | ♑ Capricornus 17°00′ | 1 | 1.253°/d |  |  |
-| ♂ Mars | ♑ Capricornus 1°30′ | 1 | 0.783°/d | exaltation |  |
-| ♃ Jupiter | ♎ Libra 28°41′ | 10 | 0.132°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 11°46′ | 11 | 0.079°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 1°08′ | 1 | 0.058°/d |  |  |
-| ♆ Neptune | ♓ Pisces 23°21′ | 3 | 0.015°/d | domicile (modern) |  |
-| ♇ Pluto | ♈ Aries 23°13′ | 4 | R -0.002°/d (stationary) |  |  |
-| ☊ North Node | ♍ Virgo 8°43′ | 9 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 8°43′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 10°09′ | Sagittarius | 1 | 1.015°/d |  |  |
+| ☽ Moon | ♌ Leo 8°10′ | Cancer | 8 | 15.032°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 5°56′ | Sagittarius | 1 | 1.690°/d |  |  |
+| ♀ Venus | ♑ Capricornus 17°00′ | Sagittarius | 1 | 1.253°/d |  |  |
+| ♂ Mars | ♑ Capricornus 1°30′ | Sagittarius | 1 | 0.783°/d | exaltation |  |
+| ♃ Jupiter | ♎ Libra 28°41′ | Virgo | 10 | 0.132°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 11°46′ | Libra | 11 | 0.079°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 1°08′ | Sagittarius | 1 | 0.058°/d |  |  |
+| ♆ Neptune | ♓ Pisces 23°21′ | Pisces | 3 | 0.015°/d | domicile (modern) |  |
+| ♇ Pluto | ♈ Aries 23°13′ | Pisces | 4 | R -0.002°/d (stationary) |  |  |
+| ☊ North Node | ♍ Virgo 8°43′ | Leo | 9 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 8°43′ | Aquarius | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

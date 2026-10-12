@@ -7,20 +7,20 @@ Born 1749-08-28 (gregorian calendar), Frankfurt am Main, the house on the Große
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 4°43′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♓ Pisces 4°35′ | 7 | 15.290°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♌ Leo 25°02′ | 12 | 1.929°/d |  |  |
-| ♀ Venus | ♍ Virgo 25°50′ | 1 | 1.229°/d | fall |  |
-| ♂ Mars | ♑ Capricornus 3°23′ | 5 | 0.344°/d | exaltation |  |
-| ♃ Jupiter | ♓ Pisces 26°13′ | 7 | R -0.115°/d | domicile |  |
-| ♄ Saturn | ♏ Scorpio 14°55′ | 3 | 0.063°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 18°56′ | 6 | R -0.038°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 26°40′ | 11 | 0.031°/d |  |  |
-| ♇ Pluto | ♏ Scorpio 29°14′ | 3 | 0.010°/d | domicile (modern) |  |
-| ☊ North Node | ♑ Capricornus 16°58′ | 5 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 16°58′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 4°43′ | Leo | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♓ Pisces 4°35′ | Aquarius | 7 | 15.290°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♌ Leo 25°02′ | Leo | 12 | 1.929°/d |  |  |
+| ♀ Venus | ♍ Virgo 25°50′ | Virgo | 1 | 1.229°/d | fall |  |
+| ♂ Mars | ♑ Capricornus 3°23′ | Sagittarius | 5 | 0.344°/d | exaltation |  |
+| ♃ Jupiter | ♓ Pisces 26°13′ | Pisces | 7 | R -0.115°/d | domicile |  |
+| ♄ Saturn | ♏ Scorpio 14°55′ | Libra | 3 | 0.063°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 18°56′ | Capricornus | 6 | R -0.038°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 26°40′ | Gemini | 11 | 0.031°/d |  |  |
+| ♇ Pluto | ♏ Scorpio 29°14′ | Libra | 3 | 0.010°/d | domicile (modern) |  |
+| ☊ North Node | ♑ Capricornus 16°58′ | Sagittarius | 5 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 16°58′ | Gemini | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

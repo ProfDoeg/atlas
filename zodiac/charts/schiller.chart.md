@@ -7,20 +7,20 @@ Born 1759-11-10 (gregorian calendar), Marbach am Neckar, the tailor's house, Nik
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 17°21′ | 1 | 1.007°/d |  |  |
-| ☽ Moon | ♋ Cancer 27°47′ | 9 | 13.303°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♏ Scorpio 20°07′ | 1 | 1.583°/d |  |  |
-| ♀ Venus | ♎ Libra 29°45′ | 12 | R -0.373°/d | domicile |  |
-| ♂ Mars | ♍ Virgo 1°31′ | 11 | 0.515°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 18°26′ | 3 | 0.167°/d | fall |  |
-| ♄ Saturn | ♓ Pisces 9°16′ | 5 | R -0.005°/d (stationary) |  |  |
-| ♅ Uranus | ♓ Pisces 27°41′ | 5 | R -0.022°/d |  |  |
-| ♆ Neptune | ♌ Leo 19°50′ | 10 | 0.007°/d (stationary) |  |  |
-| ♇ Pluto | ♐ Sagittarius 23°48′ | 2 | 0.031°/d |  |  |
-| ☊ North Node | ♊ Gemini 29°39′ | 8 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 29°39′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 17°21′ | Libra | 1 | 1.007°/d |  |  |
+| ☽ Moon | ♋ Cancer 27°47′ | Gemini | 9 | 13.303°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♏ Scorpio 20°07′ | Libra | 1 | 1.583°/d |  |  |
+| ♀ Venus | ♎ Libra 29°45′ | Virgo | 12 | R -0.373°/d | domicile |  |
+| ♂ Mars | ♍ Virgo 1°31′ | Leo | 11 | 0.515°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 18°26′ | Sagittarius | 3 | 0.167°/d | fall |  |
+| ♄ Saturn | ♓ Pisces 9°16′ | Aquarius | 5 | R -0.005°/d (stationary) |  |  |
+| ♅ Uranus | ♓ Pisces 27°41′ | Pisces | 5 | R -0.022°/d |  |  |
+| ♆ Neptune | ♌ Leo 19°50′ | Leo | 10 | 0.007°/d (stationary) |  |  |
+| ♇ Pluto | ♐ Sagittarius 23°48′ | Ophiuchus | 2 | 0.031°/d |  |  |
+| ☊ North Node | ♊ Gemini 29°39′ | Taurus | 8 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 29°39′ | Sagittarius | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

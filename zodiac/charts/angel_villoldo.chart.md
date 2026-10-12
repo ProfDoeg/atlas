@@ -7,20 +7,20 @@ Born 1861-02-16 (gregorian calendar), Barracas, the birth on the south side (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 27°22′ | 1 | 1.009°/d | detriment |  |
-| ☽ Moon | ♉ Taurus 5°10′ | 4 | 11.896°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♓ Pisces 9°38′ | 2 | 1.791°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 6°01′ | 1 | 1.244°/d |  |  |
-| ♂ Mars | ♈ Aries 28°50′ | 3 | 0.681°/d | domicile |  |
-| ♃ Jupiter | ♌ Leo 21°19′ | 7 | R -0.131°/d |  |  |
-| ♄ Saturn | ♍ Virgo 6°56′ | 8 | R -0.079°/d |  |  |
-| ♅ Uranus | ♊ Gemini 8°00′ | 5 | 0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♓ Pisces 27°53′ | 2 | 0.034°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 7°40′ | 4 | 0.009°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 21°00′ | 12 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 21°00′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 27°22′ | Capricornus | 1 | 1.009°/d | detriment |  |
+| ☽ Moon | ♉ Taurus 5°10′ | Aries | 4 | 11.896°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♓ Pisces 9°38′ | Aquarius | 2 | 1.791°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 6°01′ | Capricornus | 1 | 1.244°/d |  |  |
+| ♂ Mars | ♈ Aries 28°50′ | Pisces | 3 | 0.681°/d | domicile |  |
+| ♃ Jupiter | ♌ Leo 21°19′ | Leo | 7 | R -0.131°/d |  |  |
+| ♄ Saturn | ♍ Virgo 6°56′ | Leo | 8 | R -0.079°/d |  |  |
+| ♅ Uranus | ♊ Gemini 8°00′ | Taurus | 5 | 0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♓ Pisces 27°53′ | Pisces | 2 | 0.034°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 7°40′ | Aries | 4 | 0.009°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 21°00′ | Sagittarius | 12 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 21°00′ | Gemini | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

@@ -7,20 +7,20 @@ Born 1874-02-15 (gregorian calendar), Kilkea House, County Kildare: the birth (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 26°12′ | 1 | 1.009°/d | detriment |  |
-| ☽ Moon | ♒ Aquarius 1°20′ | 1 | 14.484°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♓ Pisces 5°17′ | 2 | 1.841°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 24°07′ | 1 | 1.253°/d |  |  |
-| ♂ Mars | ♈ Aries 4°20′ | 3 | 0.755°/d | domicile |  |
-| ♃ Jupiter | ♎ Libra 0°20′ | 9 | R -0.089°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 7°16′ | 1 | 0.115°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 7°37′ | 7 | R -0.041°/d | detriment (modern) |  |
-| ♆ Neptune | ♈ Aries 26°13′ | 3 | 0.022°/d |  |  |
-| ♇ Pluto | ♉ Taurus 19°52′ | 4 | 0.005°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♉ Taurus 9°37′ | 4 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 9°37′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 26°12′ | Capricornus | 1 | 1.009°/d | detriment |  |
+| ☽ Moon | ♒ Aquarius 1°20′ | Capricornus | 1 | 14.484°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♓ Pisces 5°17′ | Aquarius | 2 | 1.841°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 24°07′ | Capricornus | 1 | 1.253°/d |  |  |
+| ♂ Mars | ♈ Aries 4°20′ | Pisces | 3 | 0.755°/d | domicile |  |
+| ♃ Jupiter | ♎ Libra 0°20′ | Virgo | 9 | R -0.089°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 7°16′ | Capricornus | 1 | 0.115°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 7°37′ | Cancer | 7 | R -0.041°/d | detriment (modern) |  |
+| ♆ Neptune | ♈ Aries 26°13′ | Pisces | 3 | 0.022°/d |  |  |
+| ♇ Pluto | ♉ Taurus 19°52′ | Aries | 4 | 0.005°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♉ Taurus 9°37′ | Aries | 4 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 9°37′ | Libra | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

@@ -7,20 +7,20 @@ Born 1923-06-10 (gregorian calendar), Solotvyno, the salt village (lat 47.9578, 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 18°06′ | 1 | 0.956°/d |  |  |
-| ☽ Moon | ♈ Aries 27°34′ | 11 | 11.826°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♊ Gemini 2°18′ | 1 | R -0.028°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 23°22′ | 12 | 1.208°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 6°38′ | 2 | 0.654°/d | fall |  |
-| ♃ Jupiter | ♏ Scorpio 10°05′ | 6 | R -0.078°/d |  |  |
-| ♄ Saturn | ♎ Libra 13°30′ | 5 | R -0.012°/d | exaltation |  |
-| ♅ Uranus | ♓ Pisces 17°37′ | 10 | 0.011°/d |  |  |
-| ♆ Neptune | ♌ Leo 15°58′ | 3 | 0.023°/d |  |  |
-| ♇ Pluto | ♋ Cancer 10°11′ | 2 | 0.024°/d |  |  |
-| ☊ North Node | ♍ Virgo 15°52′ | 4 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 15°52′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 18°06′ | Taurus | 1 | 0.956°/d |  |  |
+| ☽ Moon | ♈ Aries 27°34′ | Pisces | 11 | 11.826°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♊ Gemini 2°18′ | Taurus | 1 | R -0.028°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 23°22′ | Aries | 12 | 1.208°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 6°38′ | Gemini | 2 | 0.654°/d | fall |  |
+| ♃ Jupiter | ♏ Scorpio 10°05′ | Libra | 6 | R -0.078°/d |  |  |
+| ♄ Saturn | ♎ Libra 13°30′ | Virgo | 5 | R -0.012°/d | exaltation |  |
+| ♅ Uranus | ♓ Pisces 17°37′ | Aquarius | 10 | 0.011°/d |  |  |
+| ♆ Neptune | ♌ Leo 15°58′ | Cancer | 3 | 0.023°/d |  |  |
+| ♇ Pluto | ♋ Cancer 10°11′ | Gemini | 2 | 0.024°/d |  |  |
+| ☊ North Node | ♍ Virgo 15°52′ | Leo | 4 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 15°52′ | Aquarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

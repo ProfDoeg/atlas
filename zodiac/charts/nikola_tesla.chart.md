@@ -7,20 +7,20 @@ Born 1856-07-10 (gregorian calendar), Smiljan, the birth at midnight (lat 44.559
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 17°52′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♎ Libra 14°31′ | 4 | 11.818°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 28°09′ | 12 | 0.599°/d | domicile |  |
-| ♀ Venus | ♋ Cancer 14°54′ | 1 | 1.229°/d |  |  |
-| ♂ Mars | ♎ Libra 18°57′ | 4 | 0.476°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 8°35′ | 10 | 0.061°/d |  |  |
-| ♄ Saturn | ♋ Cancer 5°40′ | 1 | 0.129°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 24°02′ | 11 | 0.039°/d |  |  |
-| ♆ Neptune | ♓ Pisces 20°20′ | 9 | R -0.009°/d (stationary) | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 5°35′ | 11 | 0.009°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 20°04′ | 10 | mean node |  |  |
-| ☋ South Node | ♎ Libra 20°04′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 17°52′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♎ Libra 14°31′ | Virgo | 4 | 11.818°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 28°09′ | Taurus | 12 | 0.599°/d | domicile |  |
+| ♀ Venus | ♋ Cancer 14°54′ | Gemini | 1 | 1.229°/d |  |  |
+| ♂ Mars | ♎ Libra 18°57′ | Virgo | 4 | 0.476°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 8°35′ | Pisces | 10 | 0.061°/d |  |  |
+| ♄ Saturn | ♋ Cancer 5°40′ | Gemini | 1 | 0.129°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 24°02′ | Taurus | 11 | 0.039°/d |  |  |
+| ♆ Neptune | ♓ Pisces 20°20′ | Aquarius | 9 | R -0.009°/d (stationary) | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 5°35′ | Aries | 11 | 0.009°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 20°04′ | Pisces | 10 | mean node |  |  |
+| ☋ South Node | ♎ Libra 20°04′ | Virgo | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

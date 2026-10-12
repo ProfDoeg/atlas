@@ -7,20 +7,20 @@ Born 0354-11-13 (julian calendar), Thagaste, the birth in a councillor's small h
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 21°27′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♓ Pisces 27°58′ | 5 | 13.185°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♏ Scorpio 18°36′ | 1 | R -1.347°/d |  |  |
-| ♀ Venus | ♎ Libra 9°35′ | 12 | 1.185°/d | domicile |  |
-| ♂ Mars | ♌ Leo 17°00′ | 10 | 0.391°/d |  |  |
-| ♃ Jupiter | ♌ Leo 17°55′ | 10 | 0.065°/d |  |  |
-| ♄ Saturn | ♊ Gemini 29°50′ | 8 | R -0.055°/d |  |  |
-| ♅ Uranus | ♊ Gemini 19°06′ | 8 | R -0.037°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 14°26′ | 3 | 0.026°/d |  |  |
-| ♇ Pluto | ♓ Pisces 26°53′ | 5 | R -0.010°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 24°03′ | 2 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 24°03′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 21°27′ | Libra | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♓ Pisces 27°58′ | Pisces | 5 | 13.185°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♏ Scorpio 18°36′ | Libra | 1 | R -1.347°/d |  |  |
+| ♀ Venus | ♎ Libra 9°35′ | Virgo | 12 | 1.185°/d | domicile |  |
+| ♂ Mars | ♌ Leo 17°00′ | Cancer | 10 | 0.391°/d |  |  |
+| ♃ Jupiter | ♌ Leo 17°55′ | Cancer | 10 | 0.065°/d |  |  |
+| ♄ Saturn | ♊ Gemini 29°50′ | Taurus | 8 | R -0.055°/d |  |  |
+| ♅ Uranus | ♊ Gemini 19°06′ | Taurus | 8 | R -0.037°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 14°26′ | Sagittarius | 3 | 0.026°/d |  |  |
+| ♇ Pluto | ♓ Pisces 26°53′ | Pisces | 5 | R -0.010°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 24°03′ | Ophiuchus | 2 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 24°03′ | Taurus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

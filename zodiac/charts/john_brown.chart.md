@@ -7,20 +7,20 @@ Born 1800-05-09 (gregorian calendar), Torrington, birth on the road that will ta
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 18°05′ | 1 | 0.966°/d |  |  |
-| ☽ Moon | ♏ Scorpio 17°38′ | 7 | 15.191°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 23°55′ | 12 | 0.556°/d |  |  |
-| ♀ Venus | ♈ Aries 24°27′ | 12 | 1.216°/d | detriment |  |
-| ♂ Mars | ♓ Pisces 6°29′ | 11 | 0.728°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 0°46′ | 3 | 0.194°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 4°28′ | 4 | 0.059°/d | detriment |  |
-| ♅ Uranus | ♍ Virgo 22°54′ | 5 | R -0.019°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 15°51′ | 7 | R -0.027°/d |  |  |
-| ♇ Pluto | ♓ Pisces 4°24′ | 11 | 0.011°/d |  |  |
-| ☊ North Node | ♈ Aries 26°28′ | 12 | mean node |  |  |
-| ☋ South Node | ♎ Libra 26°28′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 18°05′ | Aries | 1 | 0.966°/d |  |  |
+| ☽ Moon | ♏ Scorpio 17°38′ | Libra | 7 | 15.191°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 23°55′ | Pisces | 12 | 0.556°/d |  |  |
+| ♀ Venus | ♈ Aries 24°27′ | Pisces | 12 | 1.216°/d | detriment |  |
+| ♂ Mars | ♓ Pisces 6°29′ | Aquarius | 11 | 0.728°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 0°46′ | Gemini | 3 | 0.194°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 4°28′ | Cancer | 4 | 0.059°/d | detriment |  |
+| ♅ Uranus | ♍ Virgo 22°54′ | Leo | 5 | R -0.019°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 15°51′ | Libra | 7 | R -0.027°/d |  |  |
+| ♇ Pluto | ♓ Pisces 4°24′ | Aquarius | 11 | 0.011°/d |  |  |
+| ☊ North Node | ♈ Aries 26°28′ | Pisces | 12 | mean node |  |  |
+| ☋ South Node | ♎ Libra 26°28′ | Virgo | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

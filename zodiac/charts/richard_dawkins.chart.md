@@ -7,20 +7,20 @@ Born 1941-03-26 (gregorian calendar), Nairobi, born in the war year (lat -1.2921
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 4°57′ | 1 | 0.990°/d | exaltation |  |
-| ☽ Moon | ♓ Pisces 14°34′ | 12 | 12.172°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 7°11′ | 12 | 1.014°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 28°43′ | 12 | 1.243°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 24°49′ | 10 | 0.691°/d | exaltation |  |
-| ♃ Jupiter | ♉ Taurus 16°05′ | 2 | 0.207°/d |  |  |
-| ♄ Saturn | ♉ Taurus 12°22′ | 2 | 0.112°/d |  |  |
-| ♅ Uranus | ♉ Taurus 23°29′ | 2 | 0.043°/d |  |  |
-| ♆ Neptune | ♍ Virgo 26°11′ | 6 | R -0.027°/d | detriment (modern) |  |
-| ♇ Pluto | ♌ Leo 2°10′ | 5 | R -0.008°/d (stationary) |  |  |
-| ☊ North Node | ♎ Libra 1°43′ | 7 | mean node |  |  |
-| ☋ South Node | ♈ Aries 1°43′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 4°57′ | Pisces | 1 | 0.990°/d | exaltation |  |
+| ☽ Moon | ♓ Pisces 14°34′ | Aquarius | 12 | 12.172°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 7°11′ | Aquarius | 12 | 1.014°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 28°43′ | Pisces | 12 | 1.243°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 24°49′ | Sagittarius | 10 | 0.691°/d | exaltation |  |
+| ♃ Jupiter | ♉ Taurus 16°05′ | Aries | 2 | 0.207°/d |  |  |
+| ♄ Saturn | ♉ Taurus 12°22′ | Aries | 2 | 0.112°/d |  |  |
+| ♅ Uranus | ♉ Taurus 23°29′ | Aries | 2 | 0.043°/d |  |  |
+| ♆ Neptune | ♍ Virgo 26°11′ | Virgo | 6 | R -0.027°/d | detriment (modern) |  |
+| ♇ Pluto | ♌ Leo 2°10′ | Cancer | 5 | R -0.008°/d (stationary) |  |  |
+| ☊ North Node | ♎ Libra 1°43′ | Virgo | 7 | mean node |  |  |
+| ☋ South Node | ♈ Aries 1°43′ | Pisces | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

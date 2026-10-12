@@ -7,20 +7,20 @@ Born 1883-01-01 (gregorian calendar), Proskurov, the birth in the Pale (lat 49.4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 10°17′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♎ Libra 4°30′ | 10 | 11.827°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♑ Capricornus 18°58′ | 1 | 1.633°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 7°22′ | 12 | 0.191°/d |  |  |
-| ♂ Mars | ♑ Capricornus 4°38′ | 1 | 0.757°/d | exaltation |  |
-| ♃ Jupiter | ♊ Gemini 24°32′ | 6 | R -0.126°/d | detriment |  |
-| ♄ Saturn | ♉ Taurus 19°25′ | 5 | R -0.035°/d |  |  |
-| ♅ Uranus | ♍ Virgo 23°09′ | 9 | R -0.003°/d (stationary) |  |  |
-| ♆ Neptune | ♉ Taurus 16°12′ | 5 | R -0.014°/d |  |  |
-| ♇ Pluto | ♉ Taurus 28°37′ | 5 | R -0.013°/d | detriment (modern) |  |
-| ☊ North Node | ♏ Scorpio 17°57′ | 11 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 17°57′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 10°17′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♎ Libra 4°30′ | Virgo | 10 | 11.827°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♑ Capricornus 18°58′ | Sagittarius | 1 | 1.633°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 7°22′ | Scorpius | 12 | 0.191°/d |  |  |
+| ♂ Mars | ♑ Capricornus 4°38′ | Sagittarius | 1 | 0.757°/d | exaltation |  |
+| ♃ Jupiter | ♊ Gemini 24°32′ | Taurus | 6 | R -0.126°/d | detriment |  |
+| ♄ Saturn | ♉ Taurus 19°25′ | Aries | 5 | R -0.035°/d |  |  |
+| ♅ Uranus | ♍ Virgo 23°09′ | Leo | 9 | R -0.003°/d (stationary) |  |  |
+| ♆ Neptune | ♉ Taurus 16°12′ | Aries | 5 | R -0.014°/d |  |  |
+| ♇ Pluto | ♉ Taurus 28°37′ | Taurus | 5 | R -0.013°/d | detriment (modern) |  |
+| ☊ North Node | ♏ Scorpio 17°57′ | Libra | 11 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 17°57′ | Aries | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

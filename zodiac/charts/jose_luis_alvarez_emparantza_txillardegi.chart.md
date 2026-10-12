@@ -7,20 +7,20 @@ Born 1929-09-27 (gregorian calendar), Antigua, Donostia, birth in the Gutenfelde
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 3°24′ | 1 | 0.981°/d | fall |  |
-| ☽ Moon | ♋ Cancer 15°27′ | 10 | 14.238°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 23°16′ | 1 | R -0.143°/d |  |  |
-| ♀ Venus | ♍ Virgo 1°37′ | 12 | 1.210°/d | fall |  |
-| ♂ Mars | ♎ Libra 23°36′ | 1 | 0.669°/d | detriment |  |
-| ♃ Jupiter | ♊ Gemini 16°25′ | 9 | 0.028°/d | detriment |  |
-| ♄ Saturn | ♐ Sagittarius 24°26′ | 3 | 0.046°/d |  |  |
-| ♅ Uranus | ♈ Aries 9°45′ | 7 | R -0.040°/d |  |  |
-| ♆ Neptune | ♍ Virgo 2°24′ | 12 | 0.033°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 19°34′ | 10 | 0.010°/d (stationary) |  |  |
-| ☊ North Node | ♉ Taurus 14°01′ | 8 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 14°01′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 3°24′ | Virgo | 1 | 0.981°/d | fall |  |
+| ☽ Moon | ♋ Cancer 15°27′ | Gemini | 10 | 14.238°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 23°16′ | Virgo | 1 | R -0.143°/d |  |  |
+| ♀ Venus | ♍ Virgo 1°37′ | Leo | 12 | 1.210°/d | fall |  |
+| ♂ Mars | ♎ Libra 23°36′ | Virgo | 1 | 0.669°/d | detriment |  |
+| ♃ Jupiter | ♊ Gemini 16°25′ | Taurus | 9 | 0.028°/d | detriment |  |
+| ♄ Saturn | ♐ Sagittarius 24°26′ | Ophiuchus | 3 | 0.046°/d |  |  |
+| ♅ Uranus | ♈ Aries 9°45′ | Pisces | 7 | R -0.040°/d |  |  |
+| ♆ Neptune | ♍ Virgo 2°24′ | Leo | 12 | 0.033°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 19°34′ | Gemini | 10 | 0.010°/d (stationary) |  |  |
+| ☊ North Node | ♉ Taurus 14°01′ | Aries | 8 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 14°01′ | Libra | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

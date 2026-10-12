@@ -7,20 +7,20 @@ Born 1769-08-15 (gregorian calendar), Ajaccio, birth in the Casa Bonaparte (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 22°20′ | 1 | 0.962°/d | domicile |  |
-| ☽ Moon | ♑ Capricornus 23°16′ | 6 | 12.391°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♌ Leo 5°27′ | 1 | 1.551°/d |  |  |
-| ♀ Venus | ♋ Cancer 6°36′ | 12 | 0.970°/d |  |  |
-| ♂ Mars | ♍ Virgo 11°46′ | 2 | 0.635°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 15°02′ | 4 | 0.100°/d |  |  |
-| ♄ Saturn | ♋ Cancer 25°59′ | 12 | 0.121°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 11°33′ | 10 | 0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 8°46′ | 2 | 0.036°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 13°38′ | 6 | R -0.018°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 20°49′ | 5 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 20°49′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 22°20′ | Leo | 1 | 0.962°/d | domicile |  |
+| ☽ Moon | ♑ Capricornus 23°16′ | Sagittarius | 6 | 12.391°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♌ Leo 5°27′ | Cancer | 1 | 1.551°/d |  |  |
+| ♀ Venus | ♋ Cancer 6°36′ | Gemini | 12 | 0.970°/d |  |  |
+| ♂ Mars | ♍ Virgo 11°46′ | Leo | 2 | 0.635°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 15°02′ | Libra | 4 | 0.100°/d |  |  |
+| ♄ Saturn | ♋ Cancer 25°59′ | Gemini | 12 | 0.121°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 11°33′ | Aries | 10 | 0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 8°46′ | Leo | 2 | 0.036°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 13°38′ | Sagittarius | 6 | R -0.018°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 20°49′ | Ophiuchus | 5 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 20°49′ | Taurus | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

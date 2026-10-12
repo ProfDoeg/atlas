@@ -7,20 +7,20 @@ Born 1629-04-14 (gregorian calendar), The Hague, birth in the house on the Plein
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 24°11′ | 1 | 0.976°/d | exaltation |  |
-| ☽ Moon | ♑ Capricornus 6°54′ | 10 | 11.949°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♈ Aries 27°55′ | 1 | R -0.635°/d |  |  |
-| ♀ Venus | ♈ Aries 0°04′ | 1 | 1.222°/d | detriment |  |
-| ♂ Mars | ♓ Pisces 11°49′ | 12 | 0.772°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 4°32′ | 11 | 0.120°/d |  |  |
-| ♄ Saturn | ♎ Libra 19°32′ | 7 | R -0.076°/d | exaltation |  |
-| ♅ Uranus | ♍ Virgo 6°34′ | 6 | R -0.025°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 0°13′ | 8 | R -0.027°/d |  |  |
-| ♇ Pluto | ♉ Taurus 19°55′ | 2 | 0.021°/d | detriment (modern) |  |
-| ☊ North Node | ♋ Cancer 5°06′ | 4 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 5°06′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 24°11′ | Pisces | 1 | 0.976°/d | exaltation |  |
+| ☽ Moon | ♑ Capricornus 6°54′ | Sagittarius | 10 | 11.949°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♈ Aries 27°55′ | Pisces | 1 | R -0.635°/d |  |  |
+| ♀ Venus | ♈ Aries 0°04′ | Pisces | 1 | 1.222°/d | detriment |  |
+| ♂ Mars | ♓ Pisces 11°49′ | Aquarius | 12 | 0.772°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 4°32′ | Capricornus | 11 | 0.120°/d |  |  |
+| ♄ Saturn | ♎ Libra 19°32′ | Virgo | 7 | R -0.076°/d | exaltation |  |
+| ♅ Uranus | ♍ Virgo 6°34′ | Leo | 6 | R -0.025°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 0°13′ | Virgo | 8 | R -0.027°/d |  |  |
+| ♇ Pluto | ♉ Taurus 19°55′ | Aries | 2 | 0.021°/d | detriment (modern) |  |
+| ☊ North Node | ♋ Cancer 5°06′ | Gemini | 4 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 5°06′ | Sagittarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

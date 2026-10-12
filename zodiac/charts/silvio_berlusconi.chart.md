@@ -7,20 +7,20 @@ Born 1936-09-29 (gregorian calendar), Milan, birth to a clerk of the Banca Rasin
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 5°40′ | 1 | 0.983°/d | fall |  |
-| ☽ Moon | ♓ Pisces 9°19′ | 6 | 14.716°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 9°55′ | 1 | R -1.109°/d |  |  |
-| ♀ Venus | ♏ Scorpio 0°17′ | 2 | 1.230°/d | detriment |  |
-| ♂ Mars | ♍ Virgo 1°29′ | 12 | 0.623°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 18°00′ | 3 | 0.134°/d | domicile |  |
-| ♄ Saturn | ♓ Pisces 17°28′ | 6 | R -0.071°/d |  |  |
-| ♅ Uranus | ♉ Taurus 8°55′ | 8 | R -0.032°/d |  |  |
-| ♆ Neptune | ♍ Virgo 17°18′ | 12 | 0.036°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 28°36′ | 10 | 0.013°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 28°31′ | 3 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 28°31′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 5°40′ | Virgo | 1 | 0.983°/d | fall |  |
+| ☽ Moon | ♓ Pisces 9°19′ | Aquarius | 6 | 14.716°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 9°55′ | Virgo | 1 | R -1.109°/d |  |  |
+| ♀ Venus | ♏ Scorpio 0°17′ | Virgo | 2 | 1.230°/d | detriment |  |
+| ♂ Mars | ♍ Virgo 1°29′ | Leo | 12 | 0.623°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 18°00′ | Ophiuchus | 3 | 0.134°/d | domicile |  |
+| ♄ Saturn | ♓ Pisces 17°28′ | Aquarius | 6 | R -0.071°/d |  |  |
+| ♅ Uranus | ♉ Taurus 8°55′ | Aries | 8 | R -0.032°/d |  |  |
+| ♆ Neptune | ♍ Virgo 17°18′ | Leo | 12 | 0.036°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 28°36′ | Cancer | 10 | 0.013°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 28°31′ | Sagittarius | 3 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 28°31′ | Taurus | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

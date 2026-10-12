@@ -7,20 +7,20 @@ Born 1775-01-27 (gregorian calendar), Leonberg, the deacon's house below the Sch
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 6°59′ | 1 | 1.016°/d | detriment |  |
-| ☽ Moon | ♐ Sagittarius 4°57′ | 11 | 14.262°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♑ Capricornus 27°52′ | 12 | 1.622°/d |  |  |
-| ♀ Venus | ♒ Aquarius 11°40′ | 1 | 1.255°/d |  |  |
-| ♂ Mars | ♍ Virgo 13°42′ | 8 | R -0.157°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 7°16′ | 4 | 0.088°/d |  |  |
-| ♄ Saturn | ♎ Libra 8°52′ | 9 | R -0.017°/d | exaltation |  |
-| ♅ Uranus | ♉ Taurus 28°25′ | 4 | R -0.008°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 22°31′ | 8 | R -0.018°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 25°01′ | 12 | 0.032°/d |  |  |
-| ☊ North Node | ♍ Virgo 5°24′ | 8 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 5°24′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 6°59′ | Capricornus | 1 | 1.016°/d | detriment |  |
+| ☽ Moon | ♐ Sagittarius 4°57′ | Scorpius | 11 | 14.262°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♑ Capricornus 27°52′ | Sagittarius | 12 | 1.622°/d |  |  |
+| ♀ Venus | ♒ Aquarius 11°40′ | Capricornus | 1 | 1.255°/d |  |  |
+| ♂ Mars | ♍ Virgo 13°42′ | Leo | 8 | R -0.157°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 7°16′ | Aries | 4 | 0.088°/d |  |  |
+| ♄ Saturn | ♎ Libra 8°52′ | Virgo | 9 | R -0.017°/d | exaltation |  |
+| ♅ Uranus | ♉ Taurus 28°25′ | Taurus | 4 | R -0.008°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 22°31′ | Leo | 8 | R -0.018°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 25°01′ | Sagittarius | 12 | 0.032°/d |  |  |
+| ☊ North Node | ♍ Virgo 5°24′ | Leo | 8 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 5°24′ | Aquarius | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

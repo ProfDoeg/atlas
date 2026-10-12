@@ -7,20 +7,20 @@ Born 1875-07-26 (gregorian calendar), Kesswil, the parsonage on Lake Constance (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 2°34′ | 1 | 0.956°/d | domicile |  |
-| ☽ Moon | ♉ Taurus 4°23′ | 10 | 14.044°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♋ Cancer 13°08′ | 12 | 0.773°/d |  |  |
-| ♀ Venus | ♋ Cancer 16°33′ | 12 | 1.223°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 21°20′ | 5 | 0.006°/d (stationary) |  |  |
-| ♃ Jupiter | ♎ Libra 23°40′ | 3 | 0.102°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 23°52′ | 7 | R -0.067°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 14°36′ | 1 | 0.061°/d | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 3°02′ | 10 | 0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 23°32′ | 10 | 0.010°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 11°46′ | 9 | mean node |  |  |
-| ☋ South Node | ♎ Libra 11°46′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 2°34′ | Cancer | 1 | 0.956°/d | domicile |  |
+| ☽ Moon | ♉ Taurus 4°23′ | Aries | 10 | 14.044°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♋ Cancer 13°08′ | Gemini | 12 | 0.773°/d |  |  |
+| ♀ Venus | ♋ Cancer 16°33′ | Gemini | 12 | 1.223°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 21°20′ | Ophiuchus | 5 | 0.006°/d (stationary) |  |  |
+| ♃ Jupiter | ♎ Libra 23°40′ | Virgo | 3 | 0.102°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 23°52′ | Capricornus | 7 | R -0.067°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 14°36′ | Cancer | 1 | 0.061°/d | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 3°02′ | Aries | 10 | 0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 23°32′ | Taurus | 10 | 0.010°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 11°46′ | Pisces | 9 | mean node |  |  |
+| ☋ South Node | ♎ Libra 11°46′ | Virgo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

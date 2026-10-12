@@ -7,20 +7,20 @@ Born 1840-11-12 (gregorian calendar), Rue de l'Arbalète, the birth (lat 48.8412
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 19°43′ | 1 | 1.007°/d |  |  |
-| ☽ Moon | ♊ Gemini 21°21′ | 8 | 14.988°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 12°14′ | 2 | 1.030°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 18°08′ | 2 | 1.235°/d |  |  |
-| ♂ Mars | ♍ Virgo 18°59′ | 11 | 0.573°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 27°22′ | 1 | 0.222°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 20°11′ | 2 | 0.107°/d |  |  |
-| ♅ Uranus | ♓ Pisces 16°41′ | 5 | R -0.011°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 12°09′ | 4 | 0.011°/d |  |  |
-| ♇ Pluto | ♈ Aries 18°25′ | 6 | R -0.016°/d |  |  |
-| ☊ North Node | ♒ Aquarius 22°54′ | 4 | mean node |  |  |
-| ☋ South Node | ♌ Leo 22°54′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 19°43′ | Libra | 1 | 1.007°/d |  |  |
+| ☽ Moon | ♊ Gemini 21°21′ | Taurus | 8 | 14.988°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 12°14′ | Ophiuchus | 2 | 1.030°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 18°08′ | Ophiuchus | 2 | 1.235°/d |  |  |
+| ♂ Mars | ♍ Virgo 18°59′ | Leo | 11 | 0.573°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 27°22′ | Libra | 1 | 0.222°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 20°11′ | Ophiuchus | 2 | 0.107°/d |  |  |
+| ♅ Uranus | ♓ Pisces 16°41′ | Aquarius | 5 | R -0.011°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 12°09′ | Capricornus | 4 | 0.011°/d |  |  |
+| ♇ Pluto | ♈ Aries 18°25′ | Pisces | 6 | R -0.016°/d |  |  |
+| ☊ North Node | ♒ Aquarius 22°54′ | Capricornus | 4 | mean node |  |  |
+| ☋ South Node | ♌ Leo 22°54′ | Leo | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

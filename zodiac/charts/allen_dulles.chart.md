@@ -7,20 +7,20 @@ Born 1893-04-07 (gregorian calendar), Watertown, birth in the manse (lat 43.9756
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 17°25′ | 1 | 0.982°/d | exaltation |  |
-| ☽ Moon | ♐ Sagittarius 19°57′ | 9 | 11.864°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 7°04′ | 1 | R -0.637°/d |  |  |
-| ♀ Venus | ♈ Aries 10°48′ | 1 | 1.239°/d | detriment |  |
-| ♂ Mars | ♊ Gemini 6°01′ | 3 | 0.652°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 2°54′ | 2 | 0.235°/d |  |  |
-| ♄ Saturn | ♎ Libra 8°58′ | 7 | R -0.077°/d | exaltation |  |
-| ♅ Uranus | ♏ Scorpio 9°23′ | 8 | R -0.038°/d |  |  |
-| ♆ Neptune | ♊ Gemini 9°11′ | 3 | 0.026°/d |  |  |
-| ♇ Pluto | ♊ Gemini 8°15′ | 3 | 0.015°/d |  |  |
-| ☊ North Node | ♈ Aries 29°25′ | 1 | mean node |  |  |
-| ☋ South Node | ♎ Libra 29°25′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 17°25′ | Pisces | 1 | 0.982°/d | exaltation |  |
+| ☽ Moon | ♐ Sagittarius 19°57′ | Ophiuchus | 9 | 11.864°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 7°04′ | Pisces | 1 | R -0.637°/d |  |  |
+| ♀ Venus | ♈ Aries 10°48′ | Pisces | 1 | 1.239°/d | detriment |  |
+| ♂ Mars | ♊ Gemini 6°01′ | Taurus | 3 | 0.652°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 2°54′ | Aries | 2 | 0.235°/d |  |  |
+| ♄ Saturn | ♎ Libra 8°58′ | Virgo | 7 | R -0.077°/d | exaltation |  |
+| ♅ Uranus | ♏ Scorpio 9°23′ | Libra | 8 | R -0.038°/d |  |  |
+| ♆ Neptune | ♊ Gemini 9°11′ | Taurus | 3 | 0.026°/d |  |  |
+| ♇ Pluto | ♊ Gemini 8°15′ | Taurus | 3 | 0.015°/d |  |  |
+| ☊ North Node | ♈ Aries 29°25′ | Aries | 1 | mean node |  |  |
+| ☋ South Node | ♎ Libra 29°25′ | Virgo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

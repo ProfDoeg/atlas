@@ -7,20 +7,20 @@ Born 1883-07-29 (gregorian calendar), Dovia di Predappio, the house by the forge
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 5°30′ | 1 | 0.956°/d | domicile |  |
-| ☽ Moon | ♊ Gemini 1°32′ | 11 | 13.956°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♌ Leo 4°24′ | 1 | 2.099°/d |  |  |
-| ♀ Venus | ♋ Cancer 20°53′ | 12 | 1.225°/d |  |  |
-| ♂ Mars | ♊ Gemini 12°45′ | 11 | 0.679°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 18°25′ | 12 | 0.220°/d | exaltation |  |
-| ♄ Saturn | ♊ Gemini 7°24′ | 11 | 0.088°/d |  |  |
-| ♅ Uranus | ♍ Virgo 20°39′ | 2 | 0.049°/d |  |  |
-| ♆ Neptune | ♉ Taurus 20°54′ | 10 | 0.014°/d |  |  |
-| ♇ Pluto | ♊ Gemini 1°03′ | 11 | 0.011°/d |  |  |
-| ☊ North Node | ♏ Scorpio 6°53′ | 4 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 6°53′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 5°30′ | Cancer | 1 | 0.956°/d | domicile |  |
+| ☽ Moon | ♊ Gemini 1°32′ | Taurus | 11 | 13.956°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♌ Leo 4°24′ | Cancer | 1 | 2.099°/d |  |  |
+| ♀ Venus | ♋ Cancer 20°53′ | Gemini | 12 | 1.225°/d |  |  |
+| ♂ Mars | ♊ Gemini 12°45′ | Taurus | 11 | 0.679°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 18°25′ | Gemini | 12 | 0.220°/d | exaltation |  |
+| ♄ Saturn | ♊ Gemini 7°24′ | Taurus | 11 | 0.088°/d |  |  |
+| ♅ Uranus | ♍ Virgo 20°39′ | Leo | 2 | 0.049°/d |  |  |
+| ♆ Neptune | ♉ Taurus 20°54′ | Aries | 10 | 0.014°/d |  |  |
+| ♇ Pluto | ♊ Gemini 1°03′ | Taurus | 11 | 0.011°/d |  |  |
+| ☊ North Node | ♏ Scorpio 6°53′ | Virgo | 4 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 6°53′ | Aries | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

@@ -7,20 +7,20 @@ Born 1877-02-17 (gregorian calendar), Geneva, rue de la Pepiniere: the birth in 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 28°29′ | 1 | 1.008°/d | detriment |  |
-| ☽ Moon | ♈ Aries 8°41′ | 3 | 12.379°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 2°12′ | 1 | 0.802°/d |  |  |
-| ♀ Venus | ♒ Aquarius 8°34′ | 1 | 1.245°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 21°47′ | 11 | 0.653°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 28°11′ | 11 | 0.162°/d | domicile |  |
-| ♄ Saturn | ♓ Pisces 8°53′ | 2 | 0.121°/d |  |  |
-| ♅ Uranus | ♌ Leo 22°14′ | 7 | R -0.043°/d | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 2°52′ | 4 | 0.020°/d |  |  |
-| ♇ Pluto | ♉ Taurus 22°41′ | 4 | 0.004°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♓ Pisces 11°29′ | 2 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 11°29′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 28°29′ | Aquarius | 1 | 1.008°/d | detriment |  |
+| ☽ Moon | ♈ Aries 8°41′ | Pisces | 3 | 12.379°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 2°12′ | Capricornus | 1 | 0.802°/d |  |  |
+| ♀ Venus | ♒ Aquarius 8°34′ | Capricornus | 1 | 1.245°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 21°47′ | Ophiuchus | 11 | 0.653°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 28°11′ | Sagittarius | 11 | 0.162°/d | domicile |  |
+| ♄ Saturn | ♓ Pisces 8°53′ | Aquarius | 2 | 0.121°/d |  |  |
+| ♅ Uranus | ♌ Leo 22°14′ | Leo | 7 | R -0.043°/d | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 2°52′ | Aries | 4 | 0.020°/d |  |  |
+| ♇ Pluto | ♉ Taurus 22°41′ | Aries | 4 | 0.004°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♓ Pisces 11°29′ | Aquarius | 2 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 11°29′ | Leo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

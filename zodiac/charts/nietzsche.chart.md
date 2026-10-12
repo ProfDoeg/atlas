@@ -7,20 +7,20 @@ Born 1844-10-15 (gregorian calendar), Röcken, the parsonage, the pastor's son (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 21°45′ | 1 | 0.993°/d | fall |  |
-| ☽ Moon | ♐ Sagittarius 3°25′ | 3 | 14.697°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♎ Libra 3°44′ | 1 | 1.100°/d |  |  |
-| ♀ Venus | ♍ Virgo 5°58′ | 12 | 1.061°/d | fall |  |
-| ♂ Mars | ♍ Virgo 27°41′ | 12 | 0.637°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 26°01′ | 6 | R -0.107°/d | domicile |  |
-| ♄ Saturn | ♒ Aquarius 0°37′ | 5 | 0.017°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 3°42′ | 7 | R -0.038°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 20°59′ | 5 | R -0.010°/d (stationary) |  |  |
-| ♇ Pluto | ♈ Aries 23°00′ | 7 | R -0.019°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 7°01′ | 3 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 7°01′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 21°45′ | Virgo | 1 | 0.993°/d | fall |  |
+| ☽ Moon | ♐ Sagittarius 3°25′ | Scorpius | 3 | 14.697°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♎ Libra 3°44′ | Virgo | 1 | 1.100°/d |  |  |
+| ♀ Venus | ♍ Virgo 5°58′ | Leo | 12 | 1.061°/d | fall |  |
+| ♂ Mars | ♍ Virgo 27°41′ | Virgo | 12 | 0.637°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 26°01′ | Pisces | 6 | R -0.107°/d | domicile |  |
+| ♄ Saturn | ♒ Aquarius 0°37′ | Capricornus | 5 | 0.017°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 3°42′ | Pisces | 7 | R -0.038°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 20°59′ | Capricornus | 5 | R -0.010°/d (stationary) |  |  |
+| ♇ Pluto | ♈ Aries 23°00′ | Pisces | 7 | R -0.019°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 7°01′ | Scorpius | 3 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 7°01′ | Taurus | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

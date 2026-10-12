@@ -7,20 +7,20 @@ Born 1945-10-02 (gregorian calendar), New York City, the birth (lat 40.8448, lng
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 8°26′ | 1 | 0.984°/d | fall |  |
-| ☽ Moon | ♌ Leo 20°51′ | 11 | 12.580°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 8°06′ | 1 | 1.770°/d |  |  |
-| ♀ Venus | ♍ Virgo 8°55′ | 12 | 1.220°/d | fall |  |
-| ♂ Mars | ♋ Cancer 13°25′ | 10 | 0.514°/d | fall |  |
-| ♃ Jupiter | ♎ Libra 7°59′ | 1 | 0.216°/d |  |  |
-| ♄ Saturn | ♋ Cancer 23°42′ | 10 | 0.062°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 17°26′ | 9 | R -0.008°/d (stationary) |  |  |
-| ♆ Neptune | ♎ Libra 6°21′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♌ Leo 11°28′ | 11 | 0.018°/d |  |  |
-| ☊ North Node | ♋ Cancer 4°18′ | 10 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 4°18′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 8°26′ | Virgo | 1 | 0.984°/d | fall |  |
+| ☽ Moon | ♌ Leo 20°51′ | Leo | 11 | 12.580°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 8°06′ | Virgo | 1 | 1.770°/d |  |  |
+| ♀ Venus | ♍ Virgo 8°55′ | Leo | 12 | 1.220°/d | fall |  |
+| ♂ Mars | ♋ Cancer 13°25′ | Gemini | 10 | 0.514°/d | fall |  |
+| ♃ Jupiter | ♎ Libra 7°59′ | Virgo | 1 | 0.216°/d |  |  |
+| ♄ Saturn | ♋ Cancer 23°42′ | Gemini | 10 | 0.062°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 17°26′ | Taurus | 9 | R -0.008°/d (stationary) |  |  |
+| ♆ Neptune | ♎ Libra 6°21′ | Virgo | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♌ Leo 11°28′ | Cancer | 11 | 0.018°/d |  |  |
+| ☊ North Node | ♋ Cancer 4°18′ | Gemini | 10 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 4°18′ | Sagittarius | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

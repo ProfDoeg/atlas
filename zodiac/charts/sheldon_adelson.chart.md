@@ -7,20 +7,20 @@ Born 1933-08-04 (gregorian calendar), Dorchester, Boston, the one room (lat 42.2
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 11°10′ | 1 | 0.958°/d | domicile |  |
-| ☽ Moon | ♑ Capricornus 16°14′ | 6 | 14.800°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 3°48′ | 1 | R -0.550°/d |  |  |
-| ♀ Venus | ♍ Virgo 8°52′ | 2 | 1.211°/d | fall |  |
-| ♂ Mars | ♎ Libra 16°05′ | 3 | 0.604°/d | detriment |  |
-| ♃ Jupiter | ♍ Virgo 22°25′ | 2 | 0.186°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 12°51′ | 7 | R -0.075°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 27°32′ | 9 | R -0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 8°56′ | 2 | 0.034°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 23°32′ | 12 | 0.026°/d |  |  |
-| ☊ North Node | ♒ Aquarius 29°31′ | 7 | mean node |  |  |
-| ☋ South Node | ♌ Leo 29°31′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 11°10′ | Cancer | 1 | 0.958°/d | domicile |  |
+| ☽ Moon | ♑ Capricornus 16°14′ | Sagittarius | 6 | 14.800°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 3°48′ | Cancer | 1 | R -0.550°/d |  |  |
+| ♀ Venus | ♍ Virgo 8°52′ | Leo | 2 | 1.211°/d | fall |  |
+| ♂ Mars | ♎ Libra 16°05′ | Virgo | 3 | 0.604°/d | detriment |  |
+| ♃ Jupiter | ♍ Virgo 22°25′ | Leo | 2 | 0.186°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 12°51′ | Capricornus | 7 | R -0.075°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 27°32′ | Pisces | 9 | R -0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 8°56′ | Leo | 2 | 0.034°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 23°32′ | Gemini | 12 | 0.026°/d |  |  |
+| ☊ North Node | ♒ Aquarius 29°31′ | Aquarius | 7 | mean node |  |  |
+| ☋ South Node | ♌ Leo 29°31′ | Leo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

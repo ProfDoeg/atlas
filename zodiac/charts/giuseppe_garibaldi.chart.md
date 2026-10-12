@@ -7,20 +7,20 @@ Born 1807-07-04 (gregorian calendar), Nice, birth in the old port quarter (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 11°02′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♊ Gemini 19°58′ | 12 | 13.509°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 1°53′ | 2 | 1.632°/d |  |  |
-| ♀ Venus | ♌ Leo 23°49′ | 2 | 1.107°/d |  |  |
-| ♂ Mars | ♍ Virgo 29°22′ | 3 | 0.528°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 10°41′ | 8 | R -0.096°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 3°38′ | 5 | R -0.007°/d (stationary) |  |  |
-| ♅ Uranus | ♎ Libra 25°59′ | 4 | R -0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♐ Sagittarius 0°08′ | 6 | R -0.019°/d |  |  |
-| ♇ Pluto | ♓ Pisces 13°24′ | 9 | R -0.008°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 8°09′ | 6 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 8°09′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 11°02′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♊ Gemini 19°58′ | Taurus | 12 | 13.509°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 1°53′ | Cancer | 2 | 1.632°/d |  |  |
+| ♀ Venus | ♌ Leo 23°49′ | Leo | 2 | 1.107°/d |  |  |
+| ♂ Mars | ♍ Virgo 29°22′ | Virgo | 3 | 0.528°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 10°41′ | Capricornus | 8 | R -0.096°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 3°38′ | Virgo | 5 | R -0.007°/d (stationary) |  |  |
+| ♅ Uranus | ♎ Libra 25°59′ | Virgo | 4 | R -0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♐ Sagittarius 0°08′ | Libra | 6 | R -0.019°/d |  |  |
+| ♇ Pluto | ♓ Pisces 13°24′ | Aquarius | 9 | R -0.008°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 8°09′ | Ophiuchus | 6 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 8°09′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

@@ -7,20 +7,20 @@ Born 1849-04-25 (gregorian calendar), Jägerhofstraße 11, Düsseldorf, the birt
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 4°40′ | 1 | 0.973°/d |  |  |
-| ☽ Moon | ♊ Gemini 2°45′ | 2 | 15.015°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♈ Aries 24°49′ | 12 | 1.983°/d |  |  |
-| ♀ Venus | ♉ Taurus 29°49′ | 1 | R -0.147°/d | domicile |  |
-| ♂ Mars | ♓ Pisces 12°22′ | 11 | 0.763°/d |  |  |
-| ♃ Jupiter | ♌ Leo 12°57′ | 4 | 0.051°/d |  |  |
-| ♄ Saturn | ♈ Aries 2°26′ | 12 | 0.112°/d | fall |  |
-| ♅ Uranus | ♈ Aries 23°04′ | 12 | 0.056°/d |  |  |
-| ♆ Neptune | ♓ Pisces 4°18′ | 11 | 0.022°/d | domicile (modern) |  |
-| ♇ Pluto | ♈ Aries 27°35′ | 12 | 0.023°/d |  |  |
-| ☊ North Node | ♍ Virgo 9°30′ | 5 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 9°30′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 4°40′ | Aries | 1 | 0.973°/d |  |  |
+| ☽ Moon | ♊ Gemini 2°45′ | Taurus | 2 | 15.015°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♈ Aries 24°49′ | Pisces | 12 | 1.983°/d |  |  |
+| ♀ Venus | ♉ Taurus 29°49′ | Taurus | 1 | R -0.147°/d | domicile |  |
+| ♂ Mars | ♓ Pisces 12°22′ | Aquarius | 11 | 0.763°/d |  |  |
+| ♃ Jupiter | ♌ Leo 12°57′ | Cancer | 4 | 0.051°/d |  |  |
+| ♄ Saturn | ♈ Aries 2°26′ | Pisces | 12 | 0.112°/d | fall |  |
+| ♅ Uranus | ♈ Aries 23°04′ | Pisces | 12 | 0.056°/d |  |  |
+| ♆ Neptune | ♓ Pisces 4°18′ | Aquarius | 11 | 0.022°/d | domicile (modern) |  |
+| ♇ Pluto | ♈ Aries 27°35′ | Pisces | 12 | 0.023°/d |  |  |
+| ☊ North Node | ♍ Virgo 9°30′ | Leo | 5 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 9°30′ | Aquarius | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

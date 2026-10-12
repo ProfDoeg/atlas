@@ -7,20 +7,20 @@ Born 1835-11-25 (gregorian calendar), Dunfermline, birth over the hand loom (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 2°03′ | 1 | 1.012°/d |  |  |
-| ☽ Moon | ♒ Aquarius 5°01′ | 3 | 14.018°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♏ Scorpio 12°13′ | 12 | 1.042°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 14°53′ | 1 | 1.253°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 8°58′ | 1 | 0.732°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 15°05′ | 8 | R -0.070°/d | exaltation |  |
-| ♄ Saturn | ♏ Scorpio 0°19′ | 12 | 0.109°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 26°52′ | 3 | 0.016°/d | domicile (modern) |  |
-| ♆ Neptune | ♒ Aquarius 1°30′ | 3 | 0.023°/d |  |  |
-| ♇ Pluto | ♈ Aries 13°03′ | 5 | R -0.012°/d |  |  |
-| ☊ North Node | ♉ Taurus 28°58′ | 6 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 28°58′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 2°03′ | Scorpius | 1 | 1.012°/d |  |  |
+| ☽ Moon | ♒ Aquarius 5°01′ | Capricornus | 3 | 14.018°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♏ Scorpio 12°13′ | Libra | 12 | 1.042°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 14°53′ | Ophiuchus | 1 | 1.253°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 8°58′ | Ophiuchus | 1 | 0.732°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 15°05′ | Gemini | 8 | R -0.070°/d | exaltation |  |
+| ♄ Saturn | ♏ Scorpio 0°19′ | Virgo | 12 | 0.109°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 26°52′ | Capricornus | 3 | 0.016°/d | domicile (modern) |  |
+| ♆ Neptune | ♒ Aquarius 1°30′ | Capricornus | 3 | 0.023°/d |  |  |
+| ♇ Pluto | ♈ Aries 13°03′ | Pisces | 5 | R -0.012°/d |  |  |
+| ☊ North Node | ♉ Taurus 28°58′ | Taurus | 6 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 28°58′ | Libra | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

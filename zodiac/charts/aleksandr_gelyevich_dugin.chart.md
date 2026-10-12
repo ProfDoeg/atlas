@@ -7,20 +7,20 @@ Born 1962-01-07 (gregorian calendar), Moscow, born to an officer of military int
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 16°13′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♑ Capricornus 22°40′ | 1 | 14.634°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 29°00′ | 1 | 1.620°/d |  |  |
-| ♀ Venus | ♑ Capricornus 11°20′ | 1 | 1.258°/d |  |  |
-| ♂ Mars | ♑ Capricornus 10°02′ | 1 | 0.761°/d | exaltation |  |
-| ♃ Jupiter | ♒ Aquarius 11°48′ | 2 | 0.227°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 0°21′ | 2 | 0.117°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 29°56′ | 8 | R -0.028°/d | detriment (modern) |  |
-| ♆ Neptune | ♏ Scorpio 13°08′ | 11 | 0.021°/d |  |  |
-| ♇ Pluto | ♍ Virgo 10°01′ | 9 | R -0.013°/d |  |  |
-| ☊ North Node | ♌ Leo 19°42′ | 8 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 19°42′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 16°13′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♑ Capricornus 22°40′ | Sagittarius | 1 | 14.634°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 29°00′ | Sagittarius | 1 | 1.620°/d |  |  |
+| ♀ Venus | ♑ Capricornus 11°20′ | Sagittarius | 1 | 1.258°/d |  |  |
+| ♂ Mars | ♑ Capricornus 10°02′ | Sagittarius | 1 | 0.761°/d | exaltation |  |
+| ♃ Jupiter | ♒ Aquarius 11°48′ | Capricornus | 2 | 0.227°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 0°21′ | Capricornus | 2 | 0.117°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 29°56′ | Leo | 8 | R -0.028°/d | detriment (modern) |  |
+| ♆ Neptune | ♏ Scorpio 13°08′ | Libra | 11 | 0.021°/d |  |  |
+| ♇ Pluto | ♍ Virgo 10°01′ | Leo | 9 | R -0.013°/d |  |  |
+| ☊ North Node | ♌ Leo 19°42′ | Leo | 8 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 19°42′ | Capricornus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

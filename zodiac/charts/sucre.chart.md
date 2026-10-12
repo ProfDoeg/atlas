@@ -7,20 +7,20 @@ Born 1795-02-03 (gregorian calendar), Cumaná, birth into the house of Sucre y A
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 14°14′ | 1 | 1.014°/d | detriment |  |
-| ☽ Moon | ♌ Leo 1°51′ | 7 | 13.113°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♒ Aquarius 13°19′ | 1 | 1.747°/d |  |  |
-| ♀ Venus | ♑ Capricornus 6°39′ | 12 | 0.408°/d |  |  |
-| ♂ Mars | ♓ Pisces 24°18′ | 2 | 0.762°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 21°53′ | 12 | 0.225°/d | fall |  |
-| ♄ Saturn | ♉ Taurus 22°56′ | 4 | 0.019°/d |  |  |
-| ♅ Uranus | ♍ Virgo 1°36′ | 8 | R -0.041°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 6°25′ | 10 | 0.002°/d (stationary) |  |  |
-| ♇ Pluto | ♒ Aquarius 25°36′ | 1 | 0.028°/d |  |  |
-| ☊ North Node | ♌ Leo 8°12′ | 7 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 8°12′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 14°14′ | Capricornus | 1 | 1.014°/d | detriment |  |
+| ☽ Moon | ♌ Leo 1°51′ | Cancer | 7 | 13.113°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♒ Aquarius 13°19′ | Capricornus | 1 | 1.747°/d |  |  |
+| ♀ Venus | ♑ Capricornus 6°39′ | Sagittarius | 12 | 0.408°/d |  |  |
+| ♂ Mars | ♓ Pisces 24°18′ | Pisces | 2 | 0.762°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 21°53′ | Sagittarius | 12 | 0.225°/d | fall |  |
+| ♄ Saturn | ♉ Taurus 22°56′ | Aries | 4 | 0.019°/d |  |  |
+| ♅ Uranus | ♍ Virgo 1°36′ | Leo | 8 | R -0.041°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 6°25′ | Virgo | 10 | 0.002°/d (stationary) |  |  |
+| ♇ Pluto | ♒ Aquarius 25°36′ | Capricornus | 1 | 0.028°/d |  |  |
+| ☊ North Node | ♌ Leo 8°12′ | Cancer | 7 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 8°12′ | Capricornus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

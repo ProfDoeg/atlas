@@ -7,20 +7,20 @@ Born 1835-11-30 (gregorian calendar), Florida, Missouri: the comet's fortnight (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 7°07′ | 1 | 1.014°/d |  |  |
-| ☽ Moon | ♈ Aries 10°06′ | 5 | 12.226°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 18°12′ | 12 | 1.313°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 21°09′ | 1 | 1.253°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 12°38′ | 1 | 0.736°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 14°42′ | 8 | R -0.085°/d | exaltation |  |
-| ♄ Saturn | ♏ Scorpio 0°51′ | 12 | 0.105°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 26°58′ | 3 | 0.020°/d | domicile (modern) |  |
-| ♆ Neptune | ♒ Aquarius 1°37′ | 3 | 0.025°/d |  |  |
-| ♇ Pluto | ♈ Aries 13°00′ | 5 | R -0.010°/d |  |  |
-| ☊ North Node | ♉ Taurus 28°42′ | 6 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 28°42′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 7°07′ | Scorpius | 1 | 1.014°/d |  |  |
+| ☽ Moon | ♈ Aries 10°06′ | Pisces | 5 | 12.226°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 18°12′ | Libra | 12 | 1.313°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 21°09′ | Ophiuchus | 1 | 1.253°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 12°38′ | Ophiuchus | 1 | 0.736°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 14°42′ | Gemini | 8 | R -0.085°/d | exaltation |  |
+| ♄ Saturn | ♏ Scorpio 0°51′ | Virgo | 12 | 0.105°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 26°58′ | Capricornus | 3 | 0.020°/d | domicile (modern) |  |
+| ♆ Neptune | ♒ Aquarius 1°37′ | Capricornus | 3 | 0.025°/d |  |  |
+| ♇ Pluto | ♈ Aries 13°00′ | Pisces | 5 | R -0.010°/d |  |  |
+| ☊ North Node | ♉ Taurus 28°42′ | Taurus | 6 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 28°42′ | Libra | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

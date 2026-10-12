@@ -7,20 +7,20 @@ Born 1948-07-22 (gregorian calendar), Santiago de Chile, the birth (lat -33.4370
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 29°05′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♒ Aquarius 9°01′ | 8 | 12.007°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 9°50′ | 1 | 1.377°/d |  |  |
-| ♀ Venus | ♊ Gemini 25°16′ | 12 | 0.211°/d |  |  |
-| ♂ Mars | ♎ Libra 2°47′ | 4 | 0.588°/d | detriment |  |
-| ♃ Jupiter | ♐ Sagittarius 20°07′ | 6 | R -0.074°/d | domicile |  |
-| ♄ Saturn | ♌ Leo 22°39′ | 2 | 0.121°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 28°17′ | 12 | 0.053°/d |  |  |
-| ♆ Neptune | ♎ Libra 10°32′ | 4 | 0.016°/d |  |  |
-| ♇ Pluto | ♌ Leo 14°08′ | 2 | 0.029°/d |  |  |
-| ☊ North Node | ♉ Taurus 10°04′ | 11 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 10°04′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 29°05′ | Cancer | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♒ Aquarius 9°01′ | Capricornus | 8 | 12.007°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 9°50′ | Gemini | 1 | 1.377°/d |  |  |
+| ♀ Venus | ♊ Gemini 25°16′ | Taurus | 12 | 0.211°/d |  |  |
+| ♂ Mars | ♎ Libra 2°47′ | Virgo | 4 | 0.588°/d | detriment |  |
+| ♃ Jupiter | ♐ Sagittarius 20°07′ | Ophiuchus | 6 | R -0.074°/d | domicile |  |
+| ♄ Saturn | ♌ Leo 22°39′ | Leo | 2 | 0.121°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 28°17′ | Taurus | 12 | 0.053°/d |  |  |
+| ♆ Neptune | ♎ Libra 10°32′ | Virgo | 4 | 0.016°/d |  |  |
+| ♇ Pluto | ♌ Leo 14°08′ | Cancer | 2 | 0.029°/d |  |  |
+| ☊ North Node | ♉ Taurus 10°04′ | Aries | 11 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 10°04′ | Libra | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

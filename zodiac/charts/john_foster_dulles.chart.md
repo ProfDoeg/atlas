@@ -7,20 +7,20 @@ Born 1888-02-25 (gregorian calendar), Washington, birth into the office (lat 38.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 5°52′ | 1 | 1.005°/d |  |  |
-| ☽ Moon | ♌ Leo 3°15′ | 6 | 13.572°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♓ Pisces 19°14′ | 1 | R -0.224°/d | detriment, fall |  |
-| ♀ Venus | ♒ Aquarius 1°07′ | 12 | 1.216°/d |  |  |
-| ♂ Mars | ♎ Libra 29°47′ | 8 | 0.097°/d | detriment |  |
-| ♃ Jupiter | ♐ Sagittarius 5°22′ | 10 | 0.079°/d | domicile |  |
-| ♄ Saturn | ♌ Leo 0°44′ | 6 | R -0.059°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 16°30′ | 8 | R -0.029°/d |  |  |
-| ♆ Neptune | ♉ Taurus 27°23′ | 3 | 0.011°/d |  |  |
-| ♇ Pluto | ♊ Gemini 3°05′ | 4 | 0.003°/d (stationary) |  |  |
-| ☊ North Node | ♌ Leo 8°20′ | 6 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 8°20′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 5°52′ | Aquarius | 1 | 1.005°/d |  |  |
+| ☽ Moon | ♌ Leo 3°15′ | Cancer | 6 | 13.572°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♓ Pisces 19°14′ | Aquarius | 1 | R -0.224°/d | detriment, fall |  |
+| ♀ Venus | ♒ Aquarius 1°07′ | Capricornus | 12 | 1.216°/d |  |  |
+| ♂ Mars | ♎ Libra 29°47′ | Virgo | 8 | 0.097°/d | detriment |  |
+| ♃ Jupiter | ♐ Sagittarius 5°22′ | Scorpius | 10 | 0.079°/d | domicile |  |
+| ♄ Saturn | ♌ Leo 0°44′ | Cancer | 6 | R -0.059°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 16°30′ | Virgo | 8 | R -0.029°/d |  |  |
+| ♆ Neptune | ♉ Taurus 27°23′ | Taurus | 3 | 0.011°/d |  |  |
+| ♇ Pluto | ♊ Gemini 3°05′ | Taurus | 4 | 0.003°/d (stationary) |  |  |
+| ☊ North Node | ♌ Leo 8°20′ | Cancer | 6 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 8°20′ | Capricornus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

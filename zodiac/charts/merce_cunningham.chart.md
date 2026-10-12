@@ -7,20 +7,20 @@ Born 1919-04-16 (gregorian calendar), Centralia, the birth in the lumber town (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 24°58′ | 1 | 0.978°/d | exaltation |  |
-| ☽ Moon | ♏ Scorpio 2°01′ | 8 | 11.843°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♈ Aries 12°07′ | 1 | R -0.488°/d |  |  |
-| ♀ Venus | ♉ Taurus 28°28′ | 2 | 1.196°/d | domicile |  |
-| ♂ Mars | ♉ Taurus 0°35′ | 2 | 0.745°/d | detriment |  |
-| ♃ Jupiter | ♋ Cancer 8°46′ | 4 | 0.127°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 21°32′ | 5 | R -0.014°/d | detriment |  |
-| ♅ Uranus | ♓ Pisces 0°43′ | 12 | 0.039°/d |  |  |
-| ♆ Neptune | ♌ Leo 6°36′ | 5 | R -0.001°/d (stationary) |  |  |
-| ♇ Pluto | ♋ Cancer 4°43′ | 4 | 0.010°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 6°09′ | 9 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 6°09′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 24°58′ | Pisces | 1 | 0.978°/d | exaltation |  |
+| ☽ Moon | ♏ Scorpio 2°01′ | Virgo | 8 | 11.843°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♈ Aries 12°07′ | Pisces | 1 | R -0.488°/d |  |  |
+| ♀ Venus | ♉ Taurus 28°28′ | Taurus | 2 | 1.196°/d | domicile |  |
+| ♂ Mars | ♉ Taurus 0°35′ | Aries | 2 | 0.745°/d | detriment |  |
+| ♃ Jupiter | ♋ Cancer 8°46′ | Gemini | 4 | 0.127°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 21°32′ | Leo | 5 | R -0.014°/d | detriment |  |
+| ♅ Uranus | ♓ Pisces 0°43′ | Aquarius | 12 | 0.039°/d |  |  |
+| ♆ Neptune | ♌ Leo 6°36′ | Cancer | 5 | R -0.001°/d (stationary) |  |  |
+| ♇ Pluto | ♋ Cancer 4°43′ | Gemini | 4 | 0.010°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 6°09′ | Scorpius | 9 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 6°09′ | Taurus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

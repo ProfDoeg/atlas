@@ -7,20 +7,20 @@ Born 1925-01-18 (gregorian calendar), Paris, 17th arrondissement: the birth (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 27°24′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♎ Libra 27°38′ | 10 | 13.525°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♑ Capricornus 3°22′ | 1 | 1.013°/d |  |  |
-| ♀ Venus | ♑ Capricornus 3°50′ | 1 | 1.248°/d |  |  |
-| ♂ Mars | ♈ Aries 18°15′ | 4 | 0.633°/d | domicile |  |
-| ♃ Jupiter | ♑ Capricornus 7°02′ | 1 | 0.223°/d | fall |  |
-| ♄ Saturn | ♏ Scorpio 13°18′ | 11 | 0.058°/d |  |  |
-| ♅ Uranus | ♓ Pisces 18°50′ | 3 | 0.040°/d |  |  |
-| ♆ Neptune | ♌ Leo 21°55′ | 8 | R -0.025°/d |  |  |
-| ♇ Pluto | ♋ Cancer 12°13′ | 7 | R -0.020°/d |  |  |
-| ☊ North Node | ♌ Leo 14°44′ | 8 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 14°44′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 27°24′ | Sagittarius | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♎ Libra 27°38′ | Virgo | 10 | 13.525°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♑ Capricornus 3°22′ | Sagittarius | 1 | 1.013°/d |  |  |
+| ♀ Venus | ♑ Capricornus 3°50′ | Sagittarius | 1 | 1.248°/d |  |  |
+| ♂ Mars | ♈ Aries 18°15′ | Pisces | 4 | 0.633°/d | domicile |  |
+| ♃ Jupiter | ♑ Capricornus 7°02′ | Sagittarius | 1 | 0.223°/d | fall |  |
+| ♄ Saturn | ♏ Scorpio 13°18′ | Libra | 11 | 0.058°/d |  |  |
+| ♅ Uranus | ♓ Pisces 18°50′ | Aquarius | 3 | 0.040°/d |  |  |
+| ♆ Neptune | ♌ Leo 21°55′ | Leo | 8 | R -0.025°/d |  |  |
+| ♇ Pluto | ♋ Cancer 12°13′ | Gemini | 7 | R -0.020°/d |  |  |
+| ☊ North Node | ♌ Leo 14°44′ | Cancer | 8 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 14°44′ | Capricornus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

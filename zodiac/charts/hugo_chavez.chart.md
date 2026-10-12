@@ -7,20 +7,20 @@ Born 1954-07-28 (gregorian calendar), Sabaneta, the three-room house of Rosa In�
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 4°24′ | 1 | 0.956°/d | domicile |  |
-| ☽ Moon | ♋ Cancer 10°00′ | 12 | 13.798°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 14°41′ | 12 | 1.008°/d |  |  |
-| ♀ Venus | ♍ Virgo 16°40′ | 2 | 1.124°/d | fall |  |
-| ♂ Mars | ♐ Sagittarius 25°32′ | 5 | R -0.021°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 14°28′ | 12 | 0.219°/d | exaltation |  |
-| ♄ Saturn | ♏ Scorpio 3°09′ | 4 | 0.034°/d |  |  |
-| ♅ Uranus | ♋ Cancer 23°59′ | 12 | 0.060°/d |  |  |
-| ♆ Neptune | ♎ Libra 23°30′ | 3 | 0.012°/d |  |  |
-| ♇ Pluto | ♌ Leo 24°04′ | 1 | 0.030°/d |  |  |
-| ☊ North Node | ♑ Capricornus 13°44′ | 6 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 13°44′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 4°24′ | Cancer | 1 | 0.956°/d | domicile |  |
+| ☽ Moon | ♋ Cancer 10°00′ | Gemini | 12 | 13.798°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 14°41′ | Gemini | 12 | 1.008°/d |  |  |
+| ♀ Venus | ♍ Virgo 16°40′ | Leo | 2 | 1.124°/d | fall |  |
+| ♂ Mars | ♐ Sagittarius 25°32′ | Ophiuchus | 5 | R -0.021°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 14°28′ | Gemini | 12 | 0.219°/d | exaltation |  |
+| ♄ Saturn | ♏ Scorpio 3°09′ | Virgo | 4 | 0.034°/d |  |  |
+| ♅ Uranus | ♋ Cancer 23°59′ | Gemini | 12 | 0.060°/d |  |  |
+| ♆ Neptune | ♎ Libra 23°30′ | Virgo | 3 | 0.012°/d |  |  |
+| ♇ Pluto | ♌ Leo 24°04′ | Leo | 1 | 0.030°/d |  |  |
+| ☊ North Node | ♑ Capricornus 13°44′ | Sagittarius | 6 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 13°44′ | Gemini | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

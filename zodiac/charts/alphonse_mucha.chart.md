@@ -7,20 +7,20 @@ Born 1860-07-24 (gregorian calendar), Ivancice, the court usher's son (lat 49.10
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 1°15′ | 1 | 0.955°/d | domicile |  |
-| ☽ Moon | ♎ Libra 14°58′ | 3 | 14.277°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 24°29′ | 1 | 0.274°/d |  |  |
-| ♀ Venus | ♋ Cancer 23°30′ | 12 | R -0.578°/d |  |  |
-| ♂ Mars | ♑ Capricornus 23°14′ | 6 | R -0.270°/d | exaltation |  |
-| ♃ Jupiter | ♌ Leo 5°16′ | 1 | 0.221°/d |  |  |
-| ♄ Saturn | ♌ Leo 25°57′ | 1 | 0.120°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 10°49′ | 11 | 0.042°/d |  |  |
-| ♆ Neptune | ♓ Pisces 29°14′ | 8 | R -0.011°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 9°28′ | 10 | 0.005°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 1°57′ | 7 | mean node |  |  |
-| ☋ South Node | ♌ Leo 1°57′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 1°15′ | Cancer | 1 | 0.955°/d | domicile |  |
+| ☽ Moon | ♎ Libra 14°58′ | Virgo | 3 | 14.277°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 24°29′ | Leo | 1 | 0.274°/d |  |  |
+| ♀ Venus | ♋ Cancer 23°30′ | Gemini | 12 | R -0.578°/d |  |  |
+| ♂ Mars | ♑ Capricornus 23°14′ | Sagittarius | 6 | R -0.270°/d | exaltation |  |
+| ♃ Jupiter | ♌ Leo 5°16′ | Cancer | 1 | 0.221°/d |  |  |
+| ♄ Saturn | ♌ Leo 25°57′ | Leo | 1 | 0.120°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 10°49′ | Taurus | 11 | 0.042°/d |  |  |
+| ♆ Neptune | ♓ Pisces 29°14′ | Pisces | 8 | R -0.011°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 9°28′ | Aries | 10 | 0.005°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 1°57′ | Capricornus | 7 | mean node |  |  |
+| ☋ South Node | ♌ Leo 1°57′ | Cancer | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

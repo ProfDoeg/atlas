@@ -7,20 +7,20 @@ Born 1969-12-28 (gregorian calendar), Helsinki, birth in the year of Unix (lat 6
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 6°05′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♌ Leo 22°27′ | 8 | 11.801°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 25°47′ | 1 | 1.021°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 29°26′ | 12 | 1.258°/d |  |  |
-| ♂ Mars | ♓ Pisces 9°15′ | 3 | 0.746°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 1°45′ | 11 | 0.145°/d |  |  |
-| ♄ Saturn | ♉ Taurus 2°00′ | 5 | R -0.013°/d |  |  |
-| ♅ Uranus | ♎ Libra 8°29′ | 10 | 0.015°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 29°49′ | 11 | 0.032°/d |  |  |
-| ♇ Pluto | ♍ Virgo 27°27′ | 9 | 0.001°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 15°30′ | 3 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 15°30′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 6°05′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♌ Leo 22°27′ | Leo | 8 | 11.801°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 25°47′ | Sagittarius | 1 | 1.021°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 29°26′ | Sagittarius | 12 | 1.258°/d |  |  |
+| ♂ Mars | ♓ Pisces 9°15′ | Aquarius | 3 | 0.746°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 1°45′ | Virgo | 11 | 0.145°/d |  |  |
+| ♄ Saturn | ♉ Taurus 2°00′ | Aries | 5 | R -0.013°/d |  |  |
+| ♅ Uranus | ♎ Libra 8°29′ | Virgo | 10 | 0.015°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 29°49′ | Libra | 11 | 0.032°/d |  |  |
+| ♇ Pluto | ♍ Virgo 27°27′ | Virgo | 9 | 0.001°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 15°30′ | Aquarius | 3 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 15°30′ | Leo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

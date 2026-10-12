@@ -7,20 +7,20 @@ Born 1165-07-27 (julian calendar), Murcia, birth in the house of Ali ibn Muhamma
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 9°51′ | 1 | 0.961°/d | domicile |  |
-| ☽ Moon | ♓ Pisces 5°35′ | 8 | 15.160°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♌ Leo 2°00′ | 1 | 2.020°/d |  |  |
-| ♀ Venus | ♋ Cancer 11°10′ | 12 | 1.204°/d |  |  |
-| ♂ Mars | ♌ Leo 4°39′ | 1 | 0.638°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 4°03′ | 5 | 0.006°/d (stationary) | domicile |  |
-| ♄ Saturn | ♑ Capricornus 5°46′ | 6 | R -0.054°/d | domicile |  |
-| ♅ Uranus | ♒ Aquarius 28°47′ | 7 | R -0.037°/d | domicile (modern) |  |
-| ♆ Neptune | ♐ Sagittarius 27°59′ | 5 | R -0.018°/d |  |  |
-| ♇ Pluto | ♊ Gemini 15°32′ | 11 | 0.015°/d |  |  |
-| ☊ North Node | ♊ Gemini 3°34′ | 11 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 3°34′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 9°51′ | Cancer | 1 | 0.961°/d | domicile |  |
+| ☽ Moon | ♓ Pisces 5°35′ | Aquarius | 8 | 15.160°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♌ Leo 2°00′ | Cancer | 1 | 2.020°/d |  |  |
+| ♀ Venus | ♋ Cancer 11°10′ | Gemini | 12 | 1.204°/d |  |  |
+| ♂ Mars | ♌ Leo 4°39′ | Cancer | 1 | 0.638°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 4°03′ | Scorpius | 5 | 0.006°/d (stationary) | domicile |  |
+| ♄ Saturn | ♑ Capricornus 5°46′ | Sagittarius | 6 | R -0.054°/d | domicile |  |
+| ♅ Uranus | ♒ Aquarius 28°47′ | Aquarius | 7 | R -0.037°/d | domicile (modern) |  |
+| ♆ Neptune | ♐ Sagittarius 27°59′ | Sagittarius | 5 | R -0.018°/d |  |  |
+| ♇ Pluto | ♊ Gemini 15°32′ | Taurus | 11 | 0.015°/d |  |  |
+| ☊ North Node | ♊ Gemini 3°34′ | Taurus | 11 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 3°34′ | Scorpius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

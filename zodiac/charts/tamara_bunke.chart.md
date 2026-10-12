@@ -7,20 +7,20 @@ Born 1937-11-19 (gregorian calendar), Buenos Aires, a daughter registered in Onc
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 26°15′ | 1 | 1.009°/d |  |  |
-| ☽ Moon | ♊ Gemini 5°35′ | 8 | 15.171°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♐ Sagittarius 7°57′ | 2 | 1.519°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 7°44′ | 1 | 1.252°/d | detriment |  |
-| ♂ Mars | ♒ Aquarius 5°20′ | 4 | 0.744°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 23°53′ | 3 | 0.175°/d | fall |  |
-| ♄ Saturn | ♓ Pisces 28°07′ | 5 | R -0.022°/d |  |  |
-| ♅ Uranus | ♉ Taurus 11°12′ | 7 | R -0.039°/d |  |  |
-| ♆ Neptune | ♍ Virgo 20°53′ | 11 | 0.019°/d | detriment (modern) |  |
-| ♇ Pluto | ♌ Leo 0°06′ | 10 | R -0.008°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 6°29′ | 2 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 6°29′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 26°15′ | Libra | 1 | 1.009°/d |  |  |
+| ☽ Moon | ♊ Gemini 5°35′ | Taurus | 8 | 15.171°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♐ Sagittarius 7°57′ | Ophiuchus | 2 | 1.519°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 7°44′ | Virgo | 1 | 1.252°/d | detriment |  |
+| ♂ Mars | ♒ Aquarius 5°20′ | Capricornus | 4 | 0.744°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 23°53′ | Sagittarius | 3 | 0.175°/d | fall |  |
+| ♄ Saturn | ♓ Pisces 28°07′ | Pisces | 5 | R -0.022°/d |  |  |
+| ♅ Uranus | ♉ Taurus 11°12′ | Aries | 7 | R -0.039°/d |  |  |
+| ♆ Neptune | ♍ Virgo 20°53′ | Leo | 11 | 0.019°/d | detriment (modern) |  |
+| ♇ Pluto | ♌ Leo 0°06′ | Cancer | 10 | R -0.008°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 6°29′ | Scorpius | 2 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 6°29′ | Taurus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

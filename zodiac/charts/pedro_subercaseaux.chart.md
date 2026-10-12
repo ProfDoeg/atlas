@@ -7,20 +7,20 @@ Born 1880-12-10 (gregorian calendar), Rome, birth in his father's household (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 18°22′ | 1 | 1.017°/d |  |  |
-| ☽ Moon | ♈ Aries 3°20′ | 5 | 13.052°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♏ Scorpio 27°26′ | 12 | 0.871°/d |  |  |
-| ♀ Venus | ♑ Capricornus 25°28′ | 2 | 1.215°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 4°17′ | 1 | 0.714°/d |  |  |
-| ♃ Jupiter | ♈ Aries 9°48′ | 5 | 0.019°/d |  |  |
-| ♄ Saturn | ♈ Aries 22°00′ | 5 | R -0.026°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 13°33′ | 10 | 0.008°/d (stationary) |  |  |
-| ♆ Neptune | ♉ Taurus 12°00′ | 6 | R -0.021°/d |  |  |
-| ♇ Pluto | ♉ Taurus 27°01′ | 6 | R -0.017°/d | detriment (modern) |  |
-| ☊ North Node | ♐ Sagittarius 27°46′ | 1 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 27°46′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 18°22′ | Ophiuchus | 1 | 1.017°/d |  |  |
+| ☽ Moon | ♈ Aries 3°20′ | Pisces | 5 | 13.052°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♏ Scorpio 27°26′ | Libra | 12 | 0.871°/d |  |  |
+| ♀ Venus | ♑ Capricornus 25°28′ | Sagittarius | 2 | 1.215°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 4°17′ | Scorpius | 1 | 0.714°/d |  |  |
+| ♃ Jupiter | ♈ Aries 9°48′ | Pisces | 5 | 0.019°/d |  |  |
+| ♄ Saturn | ♈ Aries 22°00′ | Pisces | 5 | R -0.026°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 13°33′ | Leo | 10 | 0.008°/d (stationary) |  |  |
+| ♆ Neptune | ♉ Taurus 12°00′ | Aries | 6 | R -0.021°/d |  |  |
+| ♇ Pluto | ♉ Taurus 27°01′ | Taurus | 6 | R -0.017°/d | detriment (modern) |  |
+| ☊ North Node | ♐ Sagittarius 27°46′ | Sagittarius | 1 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 27°46′ | Taurus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

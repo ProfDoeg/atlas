@@ -7,20 +7,20 @@ Born 1890-08-31 (gregorian calendar), Hamburg, born on the last day of August (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 7°31′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♓ Pisces 18°58′ | 7 | 15.044°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 4°16′ | 2 | 1.107°/d |  |  |
-| ♀ Venus | ♎ Libra 22°23′ | 2 | 1.088°/d | domicile |  |
-| ♂ Mars | ♐ Sagittarius 16°00′ | 4 | 0.537°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 3°42′ | 6 | R -0.087°/d |  |  |
-| ♄ Saturn | ♍ Virgo 7°26′ | 1 | 0.126°/d |  |  |
-| ♅ Uranus | ♎ Libra 23°57′ | 2 | 0.048°/d |  |  |
-| ♆ Neptune | ♊ Gemini 6°49′ | 10 | 0.005°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 7°55′ | 10 | 0.003°/d (stationary) |  |  |
-| ☊ North Node | ♊ Gemini 19°44′ | 10 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 19°44′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 7°31′ | Leo | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♓ Pisces 18°58′ | Aquarius | 7 | 15.044°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 4°16′ | Virgo | 2 | 1.107°/d |  |  |
+| ♀ Venus | ♎ Libra 22°23′ | Virgo | 2 | 1.088°/d | domicile |  |
+| ♂ Mars | ♐ Sagittarius 16°00′ | Ophiuchus | 4 | 0.537°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 3°42′ | Capricornus | 6 | R -0.087°/d |  |  |
+| ♄ Saturn | ♍ Virgo 7°26′ | Leo | 1 | 0.126°/d |  |  |
+| ♅ Uranus | ♎ Libra 23°57′ | Virgo | 2 | 0.048°/d |  |  |
+| ♆ Neptune | ♊ Gemini 6°49′ | Taurus | 10 | 0.005°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 7°55′ | Taurus | 10 | 0.003°/d (stationary) |  |  |
+| ☊ North Node | ♊ Gemini 19°44′ | Taurus | 10 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 19°44′ | Ophiuchus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

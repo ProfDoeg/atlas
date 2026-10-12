@@ -7,20 +7,20 @@ Born 1900-05-17 (gregorian calendar), Khomein, the birth in the cleric's house (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 25°37′ | 1 | 0.963°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 23°45′ | 8 | 13.195°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♉ Taurus 10°45′ | 1 | 1.893°/d |  |  |
-| ♀ Venus | ♋ Cancer 9°42′ | 3 | 0.787°/d |  |  |
-| ♂ Mars | ♈ Aries 29°43′ | 12 | 0.751°/d | domicile |  |
-| ♃ Jupiter | ♐ Sagittarius 7°22′ | 8 | R -0.122°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 4°08′ | 9 | R -0.049°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 10°58′ | 8 | R -0.039°/d |  |  |
-| ♆ Neptune | ♊ Gemini 25°35′ | 2 | 0.033°/d |  |  |
-| ♇ Pluto | ♊ Gemini 15°43′ | 2 | 0.022°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 11°57′ | 8 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 11°57′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 25°37′ | Taurus | 1 | 0.963°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 23°45′ | Ophiuchus | 8 | 13.195°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♉ Taurus 10°45′ | Aries | 1 | 1.893°/d |  |  |
+| ♀ Venus | ♋ Cancer 9°42′ | Gemini | 3 | 0.787°/d |  |  |
+| ♂ Mars | ♈ Aries 29°43′ | Aries | 12 | 0.751°/d | domicile |  |
+| ♃ Jupiter | ♐ Sagittarius 7°22′ | Scorpius | 8 | R -0.122°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 4°08′ | Sagittarius | 9 | R -0.049°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 10°58′ | Ophiuchus | 8 | R -0.039°/d |  |  |
+| ♆ Neptune | ♊ Gemini 25°35′ | Taurus | 2 | 0.033°/d |  |  |
+| ♇ Pluto | ♊ Gemini 15°43′ | Taurus | 2 | 0.022°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 11°57′ | Ophiuchus | 8 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 11°57′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

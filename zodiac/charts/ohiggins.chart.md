@@ -7,20 +7,20 @@ Born 1778-08-20 (gregorian calendar), Chillán Viejo, the birth house under the 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 26°58′ | 1 | 0.964°/d | domicile |  |
-| ☽ Moon | ♋ Cancer 26°01′ | 12 | 14.350°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♍ Virgo 19°03′ | 2 | 1.482°/d | domicile, exaltation |  |
-| ♀ Venus | ♎ Libra 4°45′ | 3 | 1.177°/d | domicile |  |
-| ♂ Mars | ♌ Leo 4°19′ | 1 | 0.641°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 5°08′ | 2 | 0.216°/d | detriment |  |
-| ♄ Saturn | ♏ Scorpio 9°47′ | 4 | 0.060°/d |  |  |
-| ♅ Uranus | ♊ Gemini 19°02′ | 11 | 0.030°/d |  |  |
-| ♆ Neptune | ♍ Virgo 27°56′ | 2 | 0.033°/d | detriment (modern) |  |
-| ♇ Pluto | ♒ Aquarius 0°04′ | 7 | R -0.020°/d |  |  |
-| ☊ North Node | ♊ Gemini 26°30′ | 11 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 26°30′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 26°58′ | Leo | 1 | 0.964°/d | domicile |  |
+| ☽ Moon | ♋ Cancer 26°01′ | Gemini | 12 | 14.350°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♍ Virgo 19°03′ | Leo | 2 | 1.482°/d | domicile, exaltation |  |
+| ♀ Venus | ♎ Libra 4°45′ | Virgo | 3 | 1.177°/d | domicile |  |
+| ♂ Mars | ♌ Leo 4°19′ | Cancer | 1 | 0.641°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 5°08′ | Leo | 2 | 0.216°/d | detriment |  |
+| ♄ Saturn | ♏ Scorpio 9°47′ | Libra | 4 | 0.060°/d |  |  |
+| ♅ Uranus | ♊ Gemini 19°02′ | Taurus | 11 | 0.030°/d |  |  |
+| ♆ Neptune | ♍ Virgo 27°56′ | Virgo | 2 | 0.033°/d | detriment (modern) |  |
+| ♇ Pluto | ♒ Aquarius 0°04′ | Capricornus | 7 | R -0.020°/d |  |  |
+| ☊ North Node | ♊ Gemini 26°30′ | Taurus | 11 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 26°30′ | Ophiuchus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

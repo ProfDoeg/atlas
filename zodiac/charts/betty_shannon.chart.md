@@ -7,20 +7,20 @@ Born 1922-04-14 (gregorian calendar), Manhattan, the birth on the fourteenth of 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 23°16′ | 1 | 0.979°/d | exaltation |  |
-| ☽ Moon | ♏ Scorpio 22°09′ | 8 | 14.137°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 11°59′ | 1 | 1.904°/d |  |  |
-| ♀ Venus | ♉ Taurus 9°04′ | 2 | 1.232°/d | domicile |  |
-| ♂ Mars | ♐ Sagittarius 21°59′ | 9 | 0.252°/d |  |  |
-| ♃ Jupiter | ♎ Libra 12°43′ | 7 | R -0.125°/d |  |  |
-| ♄ Saturn | ♎ Libra 2°55′ | 7 | R -0.071°/d | exaltation |  |
-| ♅ Uranus | ♓ Pisces 12°04′ | 12 | 0.046°/d |  |  |
-| ♆ Neptune | ♌ Leo 13°16′ | 5 | R -0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♋ Cancer 8°04′ | 4 | 0.009°/d (stationary) |  |  |
-| ☊ North Node | ♎ Libra 8°13′ | 7 | mean node |  |  |
-| ☋ South Node | ♈ Aries 8°13′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 23°16′ | Pisces | 1 | 0.979°/d | exaltation |  |
+| ☽ Moon | ♏ Scorpio 22°09′ | Libra | 8 | 14.137°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 11°59′ | Pisces | 1 | 1.904°/d |  |  |
+| ♀ Venus | ♉ Taurus 9°04′ | Aries | 2 | 1.232°/d | domicile |  |
+| ♂ Mars | ♐ Sagittarius 21°59′ | Ophiuchus | 9 | 0.252°/d |  |  |
+| ♃ Jupiter | ♎ Libra 12°43′ | Virgo | 7 | R -0.125°/d |  |  |
+| ♄ Saturn | ♎ Libra 2°55′ | Virgo | 7 | R -0.071°/d | exaltation |  |
+| ♅ Uranus | ♓ Pisces 12°04′ | Aquarius | 12 | 0.046°/d |  |  |
+| ♆ Neptune | ♌ Leo 13°16′ | Cancer | 5 | R -0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♋ Cancer 8°04′ | Gemini | 4 | 0.009°/d (stationary) |  |  |
+| ☊ North Node | ♎ Libra 8°13′ | Virgo | 7 | mean node |  |  |
+| ☋ South Node | ♈ Aries 8°13′ | Pisces | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

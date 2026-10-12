@@ -7,20 +7,20 @@ Born 1902-07-04 (gregorian calendar), Grodno, the name he sheds (lat 53.6884, ln
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 11°05′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♊ Gemini 19°12′ | 12 | 15.102°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 27°15′ | 12 | R -0.102°/d | domicile |  |
-| ♀ Venus | ♊ Gemini 4°21′ | 12 | 1.165°/d |  |  |
-| ♂ Mars | ♊ Gemini 18°35′ | 12 | 0.689°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 16°02′ | 8 | R -0.084°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 25°24′ | 7 | R -0.070°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 18°16′ | 6 | R -0.037°/d |  |  |
-| ♆ Neptune | ♋ Cancer 1°37′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 18°46′ | 12 | 0.022°/d |  |  |
-| ☊ North Node | ♏ Scorpio 0°45′ | 5 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 0°45′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 11°05′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♊ Gemini 19°12′ | Taurus | 12 | 15.102°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 27°15′ | Taurus | 12 | R -0.102°/d | domicile |  |
+| ♀ Venus | ♊ Gemini 4°21′ | Taurus | 12 | 1.165°/d |  |  |
+| ♂ Mars | ♊ Gemini 18°35′ | Taurus | 12 | 0.689°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 16°02′ | Capricornus | 8 | R -0.084°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 25°24′ | Sagittarius | 7 | R -0.070°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 18°16′ | Ophiuchus | 6 | R -0.037°/d |  |  |
+| ♆ Neptune | ♋ Cancer 1°37′ | Gemini | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 18°46′ | Taurus | 12 | 0.022°/d |  |  |
+| ☊ North Node | ♏ Scorpio 0°45′ | Virgo | 5 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 0°45′ | Aries | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

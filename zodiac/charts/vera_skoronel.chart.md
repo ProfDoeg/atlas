@@ -7,20 +7,20 @@ Born 1906-05-28 (gregorian calendar), Zurich, birth of Vera Lämmel (lat 47.3769
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 5°46′ | 1 | 0.959°/d |  |  |
-| ☽ Moon | ♋ Cancer 27°19′ | 2 | 12.294°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♉ Taurus 22°05′ | 12 | 1.946°/d |  |  |
-| ♀ Venus | ♋ Cancer 1°31′ | 2 | 1.211°/d |  |  |
-| ♂ Mars | ♊ Gemini 20°04′ | 1 | 0.675°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 15°40′ | 1 | 0.230°/d | detriment |  |
-| ♄ Saturn | ♓ Pisces 14°11′ | 10 | 0.047°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 7°39′ | 8 | R -0.032°/d |  |  |
-| ♆ Neptune | ♋ Cancer 8°55′ | 2 | 0.032°/d |  |  |
-| ♇ Pluto | ♊ Gemini 21°52′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♌ Leo 15°21′ | 3 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 15°21′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 5°46′ | Taurus | 1 | 0.959°/d |  |  |
+| ☽ Moon | ♋ Cancer 27°19′ | Gemini | 2 | 12.294°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♉ Taurus 22°05′ | Aries | 12 | 1.946°/d |  |  |
+| ♀ Venus | ♋ Cancer 1°31′ | Gemini | 2 | 1.211°/d |  |  |
+| ♂ Mars | ♊ Gemini 20°04′ | Taurus | 1 | 0.675°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 15°40′ | Taurus | 1 | 0.230°/d | detriment |  |
+| ♄ Saturn | ♓ Pisces 14°11′ | Aquarius | 10 | 0.047°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 7°39′ | Sagittarius | 8 | R -0.032°/d |  |  |
+| ♆ Neptune | ♋ Cancer 8°55′ | Gemini | 2 | 0.032°/d |  |  |
+| ♇ Pluto | ♊ Gemini 21°52′ | Taurus | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♌ Leo 15°21′ | Cancer | 3 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 15°21′ | Capricornus | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

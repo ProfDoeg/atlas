@@ -7,20 +7,20 @@ Born 1956-01-31 (gregorian calendar), The Hague, the last day of January (lat 52
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 10°06′ | 1 | 1.016°/d | detriment |  |
-| ☽ Moon | ♍ Virgo 26°01′ | 8 | 13.863°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♒ Aquarius 2°27′ | 1 | R -1.112°/d |  |  |
-| ♀ Venus | ♓ Pisces 16°21′ | 2 | 1.213°/d | exaltation |  |
-| ♂ Mars | ♐ Sagittarius 11°05′ | 11 | 0.656°/d |  |  |
-| ♃ Jupiter | ♌ Leo 28°33′ | 7 | R -0.120°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 1°31′ | 11 | 0.066°/d |  |  |
-| ♅ Uranus | ♋ Cancer 29°45′ | 6 | R -0.043°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 0°29′ | 10 | 0.001°/d (stationary) |  |  |
-| ♇ Pluto | ♌ Leo 27°50′ | 7 | R -0.024°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 14°30′ | 11 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 14°30′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 10°06′ | Capricornus | 1 | 1.016°/d | detriment |  |
+| ☽ Moon | ♍ Virgo 26°01′ | Virgo | 8 | 13.863°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♒ Aquarius 2°27′ | Capricornus | 1 | R -1.112°/d |  |  |
+| ♀ Venus | ♓ Pisces 16°21′ | Aquarius | 2 | 1.213°/d | exaltation |  |
+| ♂ Mars | ♐ Sagittarius 11°05′ | Ophiuchus | 11 | 0.656°/d |  |  |
+| ♃ Jupiter | ♌ Leo 28°33′ | Leo | 7 | R -0.120°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 1°31′ | Scorpius | 11 | 0.066°/d |  |  |
+| ♅ Uranus | ♋ Cancer 29°45′ | Cancer | 6 | R -0.043°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 0°29′ | Virgo | 10 | 0.001°/d (stationary) |  |  |
+| ♇ Pluto | ♌ Leo 27°50′ | Leo | 7 | R -0.024°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 14°30′ | Ophiuchus | 11 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 14°30′ | Taurus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

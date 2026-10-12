@@ -7,20 +7,20 @@ Born 1712-06-28 (gregorian calendar), Geneva, Grand-Rue: the watchmaker's son is
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 6°13′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♉ Taurus 1°14′ | 11 | 12.241°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♊ Gemini 15°07′ | 12 | 0.765°/d | domicile |  |
-| ♀ Venus | ♊ Gemini 19°19′ | 12 | 1.219°/d |  |  |
-| ♂ Mars | ♊ Gemini 9°57′ | 12 | 0.695°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 5°37′ | 8 | R -0.096°/d |  |  |
-| ♄ Saturn | ♌ Leo 12°36′ | 2 | 0.112°/d | detriment |  |
-| ♅ Uranus | ♍ Virgo 3°31′ | 3 | 0.040°/d |  |  |
-| ♆ Neptune | ♉ Taurus 4°19′ | 11 | 0.021°/d |  |  |
-| ♇ Pluto | ♍ Virgo 0°31′ | 3 | 0.022°/d |  |  |
-| ☊ North Node | ♑ Capricornus 15°49′ | 7 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 15°49′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 6°13′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♉ Taurus 1°14′ | Aries | 11 | 12.241°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♊ Gemini 15°07′ | Taurus | 12 | 0.765°/d | domicile |  |
+| ♀ Venus | ♊ Gemini 19°19′ | Taurus | 12 | 1.219°/d |  |  |
+| ♂ Mars | ♊ Gemini 9°57′ | Taurus | 12 | 0.695°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 5°37′ | Capricornus | 8 | R -0.096°/d |  |  |
+| ♄ Saturn | ♌ Leo 12°36′ | Cancer | 2 | 0.112°/d | detriment |  |
+| ♅ Uranus | ♍ Virgo 3°31′ | Leo | 3 | 0.040°/d |  |  |
+| ♆ Neptune | ♉ Taurus 4°19′ | Aries | 11 | 0.021°/d |  |  |
+| ♇ Pluto | ♍ Virgo 0°31′ | Leo | 3 | 0.022°/d |  |  |
+| ☊ North Node | ♑ Capricornus 15°49′ | Sagittarius | 7 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 15°49′ | Gemini | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

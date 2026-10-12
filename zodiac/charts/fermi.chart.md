@@ -7,20 +7,20 @@ Born 1901-09-29 (gregorian calendar), Via Gaeta 19, Rome: the birth (lat 41.9036
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 5°09′ | 1 | 0.983°/d | fall |  |
-| ☽ Moon | ♈ Aries 15°48′ | 7 | 14.927°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 27°03′ | 1 | 1.370°/d |  |  |
-| ♀ Venus | ♏ Scorpio 13°43′ | 2 | 1.186°/d | detriment |  |
-| ♂ Mars | ♏ Scorpio 19°03′ | 2 | 0.695°/d | domicile |  |
-| ♃ Jupiter | ♑ Capricornus 4°32′ | 4 | 0.088°/d | fall |  |
-| ♄ Saturn | ♑ Capricornus 9°52′ | 4 | 0.024°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 13°21′ | 3 | 0.031°/d |  |  |
-| ♆ Neptune | ♋ Cancer 1°32′ | 10 | 0.004°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 18°43′ | 9 | R -0.004°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 15°29′ | 2 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 15°29′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 5°09′ | Virgo | 1 | 0.983°/d | fall |  |
+| ☽ Moon | ♈ Aries 15°48′ | Pisces | 7 | 14.927°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 27°03′ | Virgo | 1 | 1.370°/d |  |  |
+| ♀ Venus | ♏ Scorpio 13°43′ | Libra | 2 | 1.186°/d | detriment |  |
+| ♂ Mars | ♏ Scorpio 19°03′ | Libra | 2 | 0.695°/d | domicile |  |
+| ♃ Jupiter | ♑ Capricornus 4°32′ | Sagittarius | 4 | 0.088°/d | fall |  |
+| ♄ Saturn | ♑ Capricornus 9°52′ | Sagittarius | 4 | 0.024°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 13°21′ | Ophiuchus | 3 | 0.031°/d |  |  |
+| ♆ Neptune | ♋ Cancer 1°32′ | Gemini | 10 | 0.004°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 18°43′ | Taurus | 9 | R -0.004°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 15°29′ | Libra | 2 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 15°29′ | Aries | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

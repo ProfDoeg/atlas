@@ -7,20 +7,20 @@ Born 1915-06-12 (gregorian calendar), 10 West 54th Street, the birth of the fift
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 19°57′ | 1 | 0.956°/d |  |  |
-| ☽ Moon | ♊ Gemini 11°19′ | 1 | 11.880°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 9°06′ | 2 | 0.184°/d |  |  |
-| ♀ Venus | ♉ Taurus 25°09′ | 12 | 1.208°/d | domicile |  |
-| ♂ Mars | ♉ Taurus 12°30′ | 12 | 0.734°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 26°19′ | 10 | 0.112°/d | domicile |  |
-| ♄ Saturn | ♋ Cancer 3°50′ | 2 | 0.128°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 15°32′ | 9 | R -0.017°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 28°47′ | 2 | 0.030°/d |  |  |
-| ♇ Pluto | ♋ Cancer 1°28′ | 2 | 0.024°/d |  |  |
-| ☊ North Node | ♒ Aquarius 20°30′ | 9 | mean node |  |  |
-| ☋ South Node | ♌ Leo 20°30′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 19°57′ | Taurus | 1 | 0.956°/d |  |  |
+| ☽ Moon | ♊ Gemini 11°19′ | Taurus | 1 | 11.880°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 9°06′ | Gemini | 2 | 0.184°/d |  |  |
+| ♀ Venus | ♉ Taurus 25°09′ | Taurus | 12 | 1.208°/d | domicile |  |
+| ♂ Mars | ♉ Taurus 12°30′ | Aries | 12 | 0.734°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 26°19′ | Pisces | 10 | 0.112°/d | domicile |  |
+| ♄ Saturn | ♋ Cancer 3°50′ | Gemini | 2 | 0.128°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 15°32′ | Capricornus | 9 | R -0.017°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 28°47′ | Cancer | 2 | 0.030°/d |  |  |
+| ♇ Pluto | ♋ Cancer 1°28′ | Gemini | 2 | 0.024°/d |  |  |
+| ☊ North Node | ♒ Aquarius 20°30′ | Capricornus | 9 | mean node |  |  |
+| ☋ South Node | ♌ Leo 20°30′ | Leo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

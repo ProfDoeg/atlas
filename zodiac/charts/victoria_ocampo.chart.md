@@ -7,20 +7,20 @@ Born 1890-04-07 (gregorian calendar), Buenos Aires, birth into the Ocampo-Aguirr
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 17°08′ | 1 | 0.983°/d | exaltation |  |
-| ☽ Moon | ♏ Scorpio 6°57′ | 8 | 13.473°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♈ Aries 14°38′ | 1 | 2.042°/d |  |  |
-| ♀ Venus | ♈ Aries 28°59′ | 1 | 1.236°/d | detriment |  |
-| ♂ Mars | ♐ Sagittarius 11°40′ | 9 | 0.180°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 7°58′ | 11 | 0.148°/d |  |  |
-| ♄ Saturn | ♌ Leo 27°33′ | 5 | R -0.037°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 24°46′ | 7 | R -0.042°/d |  |  |
-| ♆ Neptune | ♊ Gemini 2°37′ | 3 | 0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 5°24′ | 3 | 0.016°/d |  |  |
-| ☊ North Node | ♊ Gemini 27°28′ | 3 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 27°28′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 17°08′ | Pisces | 1 | 0.983°/d | exaltation |  |
+| ☽ Moon | ♏ Scorpio 6°57′ | Virgo | 8 | 13.473°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♈ Aries 14°38′ | Pisces | 1 | 2.042°/d |  |  |
+| ♀ Venus | ♈ Aries 28°59′ | Pisces | 1 | 1.236°/d | detriment |  |
+| ♂ Mars | ♐ Sagittarius 11°40′ | Ophiuchus | 9 | 0.180°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 7°58′ | Capricornus | 11 | 0.148°/d |  |  |
+| ♄ Saturn | ♌ Leo 27°33′ | Leo | 5 | R -0.037°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 24°46′ | Virgo | 7 | R -0.042°/d |  |  |
+| ♆ Neptune | ♊ Gemini 2°37′ | Taurus | 3 | 0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 5°24′ | Taurus | 3 | 0.016°/d |  |  |
+| ☊ North Node | ♊ Gemini 27°28′ | Taurus | 3 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 27°28′ | Sagittarius | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

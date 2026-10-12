@@ -7,20 +7,20 @@ Born 1952-07-06 (gregorian calendar), Tel Aviv, birth in a four-year-old state (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 13°52′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 22°34′ | 6 | 14.720°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 8°19′ | 2 | 1.385°/d |  |  |
-| ♀ Venus | ♋ Cancer 16°55′ | 1 | 1.230°/d |  |  |
-| ♂ Mars | ♏ Scorpio 5°11′ | 5 | 0.294°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 14°39′ | 11 | 0.174°/d |  |  |
-| ♄ Saturn | ♎ Libra 8°52′ | 4 | 0.042°/d | exaltation |  |
-| ♅ Uranus | ♋ Cancer 14°09′ | 1 | 0.060°/d |  |  |
-| ♆ Neptune | ♎ Libra 19°01′ | 4 | 0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♌ Leo 20°05′ | 2 | 0.026°/d |  |  |
-| ☊ North Node | ♒ Aquarius 23°33′ | 8 | mean node |  |  |
-| ☋ South Node | ♌ Leo 23°33′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 13°52′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 22°34′ | Ophiuchus | 6 | 14.720°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 8°19′ | Cancer | 2 | 1.385°/d |  |  |
+| ♀ Venus | ♋ Cancer 16°55′ | Gemini | 1 | 1.230°/d |  |  |
+| ♂ Mars | ♏ Scorpio 5°11′ | Virgo | 5 | 0.294°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 14°39′ | Aries | 11 | 0.174°/d |  |  |
+| ♄ Saturn | ♎ Libra 8°52′ | Virgo | 4 | 0.042°/d | exaltation |  |
+| ♅ Uranus | ♋ Cancer 14°09′ | Gemini | 1 | 0.060°/d |  |  |
+| ♆ Neptune | ♎ Libra 19°01′ | Virgo | 4 | 0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♌ Leo 20°05′ | Leo | 2 | 0.026°/d |  |  |
+| ☊ North Node | ♒ Aquarius 23°33′ | Capricornus | 8 | mean node |  |  |
+| ☋ South Node | ♌ Leo 23°33′ | Leo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

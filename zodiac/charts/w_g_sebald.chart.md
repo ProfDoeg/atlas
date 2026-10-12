@@ -7,20 +7,20 @@ Born 1944-05-18 (gregorian calendar), Wertach im Allgäu, the birth in the fathe
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 26°56′ | 1 | 0.963°/d |  |  |
-| ☽ Moon | ♈ Aries 0°34′ | 12 | 14.349°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♉ Taurus 6°58′ | 1 | 0.166°/d |  |  |
-| ♀ Venus | ♉ Taurus 16°05′ | 1 | 1.227°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 27°23′ | 3 | 0.571°/d | fall |  |
-| ♃ Jupiter | ♌ Leo 18°50′ | 4 | 0.099°/d |  |  |
-| ♄ Saturn | ♊ Gemini 25°40′ | 2 | 0.120°/d |  |  |
-| ♅ Uranus | ♊ Gemini 8°14′ | 2 | 0.058°/d |  |  |
-| ♆ Neptune | ♎ Libra 1°44′ | 6 | R -0.013°/d |  |  |
-| ♇ Pluto | ♌ Leo 6°38′ | 4 | 0.013°/d |  |  |
-| ☊ North Node | ♌ Leo 0°53′ | 4 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 0°53′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 26°56′ | Taurus | 1 | 0.963°/d |  |  |
+| ☽ Moon | ♈ Aries 0°34′ | Pisces | 12 | 14.349°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♉ Taurus 6°58′ | Aries | 1 | 0.166°/d |  |  |
+| ♀ Venus | ♉ Taurus 16°05′ | Aries | 1 | 1.227°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 27°23′ | Gemini | 3 | 0.571°/d | fall |  |
+| ♃ Jupiter | ♌ Leo 18°50′ | Leo | 4 | 0.099°/d |  |  |
+| ♄ Saturn | ♊ Gemini 25°40′ | Taurus | 2 | 0.120°/d |  |  |
+| ♅ Uranus | ♊ Gemini 8°14′ | Taurus | 2 | 0.058°/d |  |  |
+| ♆ Neptune | ♎ Libra 1°44′ | Virgo | 6 | R -0.013°/d |  |  |
+| ♇ Pluto | ♌ Leo 6°38′ | Cancer | 4 | 0.013°/d |  |  |
+| ☊ North Node | ♌ Leo 0°53′ | Cancer | 4 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 0°53′ | Capricornus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

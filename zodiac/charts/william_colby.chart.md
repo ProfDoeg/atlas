@@ -7,20 +7,20 @@ Born 1920-01-04 (gregorian calendar), St. Paul, Minnesota, the birth between two
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 12°20′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♊ Gemini 16°01′ | 6 | 14.994°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 23°54′ | 12 | 1.414°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 29°33′ | 11 | 1.176°/d | detriment |  |
-| ♂ Mars | ♎ Libra 17°58′ | 10 | 0.480°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 16°43′ | 8 | R -0.091°/d |  |  |
-| ♄ Saturn | ♍ Virgo 11°41′ | 9 | R -0.021°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 29°11′ | 2 | 0.044°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 10°57′ | 8 | R -0.024°/d |  |  |
-| ♇ Pluto | ♋ Cancer 6°38′ | 7 | R -0.020°/d |  |  |
-| ☊ North Node | ♏ Scorpio 22°13′ | 11 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 22°13′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 12°20′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♊ Gemini 16°01′ | Taurus | 6 | 14.994°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 23°54′ | Ophiuchus | 12 | 1.414°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 29°33′ | Libra | 11 | 1.176°/d | detriment |  |
+| ♂ Mars | ♎ Libra 17°58′ | Virgo | 10 | 0.480°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 16°43′ | Cancer | 8 | R -0.091°/d |  |  |
+| ♄ Saturn | ♍ Virgo 11°41′ | Leo | 9 | R -0.021°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 29°11′ | Aquarius | 2 | 0.044°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 10°57′ | Cancer | 8 | R -0.024°/d |  |  |
+| ♇ Pluto | ♋ Cancer 6°38′ | Gemini | 7 | R -0.020°/d |  |  |
+| ☊ North Node | ♏ Scorpio 22°13′ | Libra | 11 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 22°13′ | Aries | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

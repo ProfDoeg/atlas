@@ -7,20 +7,20 @@ Born 1967-10-02 (gregorian calendar), New York City, the birth (lat 40.7128, lng
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 8°07′ | 1 | 0.984°/d | fall |  |
-| ☽ Moon | ♍ Virgo 12°19′ | 12 | 14.671°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 2°25′ | 2 | 1.225°/d |  |  |
-| ♀ Venus | ♍ Virgo 0°06′ | 12 | 0.403°/d | fall |  |
-| ♂ Mars | ♐ Sagittarius 14°52′ | 3 | 0.700°/d |  |  |
-| ♃ Jupiter | ♌ Leo 26°55′ | 11 | 0.189°/d |  |  |
-| ♄ Saturn | ♈ Aries 8°57′ | 7 | R -0.079°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 25°31′ | 12 | 0.062°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 22°33′ | 2 | 0.029°/d |  |  |
-| ♇ Pluto | ♍ Virgo 21°10′ | 12 | 0.035°/d |  |  |
-| ☊ North Node | ♈ Aries 28°49′ | 7 | mean node |  |  |
-| ☋ South Node | ♎ Libra 28°49′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 8°07′ | Virgo | 1 | 0.984°/d | fall |  |
+| ☽ Moon | ♍ Virgo 12°19′ | Leo | 12 | 14.671°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 2°25′ | Virgo | 2 | 1.225°/d |  |  |
+| ♀ Venus | ♍ Virgo 0°06′ | Leo | 12 | 0.403°/d | fall |  |
+| ♂ Mars | ♐ Sagittarius 14°52′ | Ophiuchus | 3 | 0.700°/d |  |  |
+| ♃ Jupiter | ♌ Leo 26°55′ | Leo | 11 | 0.189°/d |  |  |
+| ♄ Saturn | ♈ Aries 8°57′ | Pisces | 7 | R -0.079°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 25°31′ | Virgo | 12 | 0.062°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 22°33′ | Libra | 2 | 0.029°/d |  |  |
+| ♇ Pluto | ♍ Virgo 21°10′ | Leo | 12 | 0.035°/d |  |  |
+| ☊ North Node | ♈ Aries 28°49′ | Pisces | 7 | mean node |  |  |
+| ☋ South Node | ♎ Libra 28°49′ | Virgo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

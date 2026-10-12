@@ -7,20 +7,20 @@ Born 1791-09-22 (gregorian calendar), Newington Butts, the smith's third child (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 28°54′ | 1 | 0.980°/d |  |  |
-| ☽ Moon | ♋ Cancer 15°56′ | 11 | 12.222°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 20°11′ | 2 | 0.009°/d (stationary) |  |  |
-| ♀ Venus | ♏ Scorpio 3°07′ | 3 | 0.249°/d | detriment |  |
-| ♂ Mars | ♌ Leo 7°10′ | 12 | 0.610°/d |  |  |
-| ♃ Jupiter | ♎ Libra 9°04′ | 2 | 0.215°/d |  |  |
-| ♄ Saturn | ♈ Aries 16°43′ | 8 | R -0.073°/d | fall |  |
-| ♅ Uranus | ♌ Leo 17°00′ | 12 | 0.050°/d | detriment (modern) |  |
-| ♆ Neptune | ♎ Libra 26°24′ | 2 | 0.034°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 20°12′ | 6 | R -0.016°/d |  |  |
-| ☊ North Node | ♎ Libra 13°20′ | 2 | mean node |  |  |
-| ☋ South Node | ♈ Aries 13°20′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 28°54′ | Virgo | 1 | 0.980°/d |  |  |
+| ☽ Moon | ♋ Cancer 15°56′ | Gemini | 11 | 12.222°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 20°11′ | Virgo | 2 | 0.009°/d (stationary) |  |  |
+| ♀ Venus | ♏ Scorpio 3°07′ | Virgo | 3 | 0.249°/d | detriment |  |
+| ♂ Mars | ♌ Leo 7°10′ | Cancer | 12 | 0.610°/d |  |  |
+| ♃ Jupiter | ♎ Libra 9°04′ | Virgo | 2 | 0.215°/d |  |  |
+| ♄ Saturn | ♈ Aries 16°43′ | Pisces | 8 | R -0.073°/d | fall |  |
+| ♅ Uranus | ♌ Leo 17°00′ | Cancer | 12 | 0.050°/d | detriment (modern) |  |
+| ♆ Neptune | ♎ Libra 26°24′ | Virgo | 2 | 0.034°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 20°12′ | Capricornus | 6 | R -0.016°/d |  |  |
+| ☊ North Node | ♎ Libra 13°20′ | Virgo | 2 | mean node |  |  |
+| ☋ South Node | ♈ Aries 13°20′ | Pisces | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

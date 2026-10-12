@@ -7,20 +7,20 @@ Born 1743-02-28 (gregorian calendar), Saint-Just-en-Chaussée, birth in a weaver
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 9°03′ | 1 | 1.002°/d |  |  |
-| ☽ Moon | ♈ Aries 23°48′ | 2 | 13.912°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♓ Pisces 23°14′ | 1 | R -0.092°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 19°01′ | 1 | 1.247°/d | exaltation |  |
-| ♂ Mars | ♌ Leo 22°47′ | 6 | R -0.350°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 9°19′ | 7 | R -0.131°/d | detriment |  |
-| ♄ Saturn | ♍ Virgo 1°44′ | 7 | R -0.080°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 25°35′ | 11 | 0.047°/d |  |  |
-| ♆ Neptune | ♋ Cancer 9°27′ | 5 | R -0.011°/d |  |  |
-| ♇ Pluto | ♏ Scorpio 16°40′ | 9 | R -0.006°/d (stationary) | domicile (modern) |  |
-| ☊ North Node | ♉ Taurus 22°37′ | 3 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 22°37′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 9°03′ | Aquarius | 1 | 1.002°/d |  |  |
+| ☽ Moon | ♈ Aries 23°48′ | Pisces | 2 | 13.912°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♓ Pisces 23°14′ | Pisces | 1 | R -0.092°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 19°01′ | Aquarius | 1 | 1.247°/d | exaltation |  |
+| ♂ Mars | ♌ Leo 22°47′ | Leo | 6 | R -0.350°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 9°19′ | Leo | 7 | R -0.131°/d | detriment |  |
+| ♄ Saturn | ♍ Virgo 1°44′ | Leo | 7 | R -0.080°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 25°35′ | Sagittarius | 11 | 0.047°/d |  |  |
+| ♆ Neptune | ♋ Cancer 9°27′ | Gemini | 5 | R -0.011°/d |  |  |
+| ♇ Pluto | ♏ Scorpio 16°40′ | Libra | 9 | R -0.006°/d (stationary) | domicile (modern) |  |
+| ☊ North Node | ♉ Taurus 22°37′ | Aries | 3 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 22°37′ | Libra | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

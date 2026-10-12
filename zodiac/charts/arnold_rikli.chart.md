@@ -7,20 +7,20 @@ Born 1823-02-13 (gregorian calendar), Wangen an der Aare, the fourth of ten chil
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 23°33′ | 1 | 1.010°/d | detriment |  |
-| ☽ Moon | ♓ Pisces 15°15′ | 2 | 12.891°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 5°23′ | 2 | R -0.464°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 5°47′ | 2 | 1.250°/d | exaltation |  |
-| ♂ Mars | ♓ Pisces 2°19′ | 2 | 0.790°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 27°24′ | 4 | 0.074°/d |  |  |
-| ♄ Saturn | ♉ Taurus 4°31′ | 4 | 0.068°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 9°59′ | 12 | 0.047°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 6°36′ | 12 | 0.028°/d |  |  |
-| ♇ Pluto | ♓ Pisces 29°37′ | 2 | 0.021°/d |  |  |
-| ☊ North Node | ♒ Aquarius 6°09′ | 1 | mean node |  |  |
-| ☋ South Node | ♌ Leo 6°09′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 23°33′ | Capricornus | 1 | 1.010°/d | detriment |  |
+| ☽ Moon | ♓ Pisces 15°15′ | Aquarius | 2 | 12.891°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 5°23′ | Aquarius | 2 | R -0.464°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 5°47′ | Aquarius | 2 | 1.250°/d | exaltation |  |
+| ♂ Mars | ♓ Pisces 2°19′ | Aquarius | 2 | 0.790°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 27°24′ | Taurus | 4 | 0.074°/d |  |  |
+| ♄ Saturn | ♉ Taurus 4°31′ | Aries | 4 | 0.068°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 9°59′ | Sagittarius | 12 | 0.047°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 6°36′ | Sagittarius | 12 | 0.028°/d |  |  |
+| ♇ Pluto | ♓ Pisces 29°37′ | Pisces | 2 | 0.021°/d |  |  |
+| ☊ North Node | ♒ Aquarius 6°09′ | Capricornus | 1 | mean node |  |  |
+| ☋ South Node | ♌ Leo 6°09′ | Cancer | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

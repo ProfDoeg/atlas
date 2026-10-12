@@ -7,20 +7,20 @@ Born 1945-12-31 (gregorian calendar), San Francisco, the birth on the last day o
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 8°58′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♏ Scorpio 29°44′ | 11 | 11.900°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♐ Sagittarius 17°17′ | 12 | 1.208°/d | detriment |  |
-| ♀ Venus | ♑ Capricornus 1°10′ | 1 | 1.258°/d |  |  |
-| ♂ Mars | ♋ Cancer 28°35′ | 7 | R -0.338°/d | fall |  |
-| ♃ Jupiter | ♎ Libra 24°42′ | 10 | 0.120°/d |  |  |
-| ♄ Saturn | ♋ Cancer 22°22′ | 7 | R -0.079°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 14°29′ | 6 | R -0.037°/d |  |  |
-| ♆ Neptune | ♎ Libra 8°41′ | 10 | 0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♌ Leo 11°21′ | 8 | R -0.019°/d |  |  |
-| ☊ North Node | ♊ Gemini 29°32′ | 6 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 29°32′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 8°58′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♏ Scorpio 29°44′ | Libra | 11 | 11.900°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♐ Sagittarius 17°17′ | Ophiuchus | 12 | 1.208°/d | detriment |  |
+| ♀ Venus | ♑ Capricornus 1°10′ | Sagittarius | 1 | 1.258°/d |  |  |
+| ♂ Mars | ♋ Cancer 28°35′ | Cancer | 7 | R -0.338°/d | fall |  |
+| ♃ Jupiter | ♎ Libra 24°42′ | Virgo | 10 | 0.120°/d |  |  |
+| ♄ Saturn | ♋ Cancer 22°22′ | Gemini | 7 | R -0.079°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 14°29′ | Taurus | 6 | R -0.037°/d |  |  |
+| ♆ Neptune | ♎ Libra 8°41′ | Virgo | 10 | 0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♌ Leo 11°21′ | Cancer | 8 | R -0.019°/d |  |  |
+| ☊ North Node | ♊ Gemini 29°32′ | Taurus | 6 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 29°32′ | Sagittarius | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

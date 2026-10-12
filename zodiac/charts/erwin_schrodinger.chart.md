@@ -7,20 +7,20 @@ Born 1887-08-12 (gregorian calendar), Vienna, born in Erdberg (lat 48.1935, lng 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 18°57′ | 1 | 0.960°/d | domicile |  |
-| ☽ Moon | ♉ Taurus 19°07′ | 10 | 12.158°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 1°40′ | 1 | 0.401°/d |  |  |
-| ♀ Venus | ♍ Virgo 29°57′ | 2 | 0.584°/d | fall |  |
-| ♂ Mars | ♋ Cancer 20°14′ | 12 | 0.651°/d | fall |  |
-| ♃ Jupiter | ♎ Libra 29°28′ | 3 | 0.130°/d |  |  |
-| ♄ Saturn | ♋ Cancer 29°12′ | 12 | 0.125°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 9°30′ | 3 | 0.045°/d |  |  |
-| ♆ Neptune | ♉ Taurus 29°58′ | 10 | 0.012°/d |  |  |
-| ♇ Pluto | ♊ Gemini 4°57′ | 11 | 0.008°/d (stationary) |  |  |
-| ☊ North Node | ♌ Leo 18°46′ | 1 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 18°46′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 18°57′ | Leo | 1 | 0.960°/d | domicile |  |
+| ☽ Moon | ♉ Taurus 19°07′ | Aries | 10 | 12.158°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 1°40′ | Cancer | 1 | 0.401°/d |  |  |
+| ♀ Venus | ♍ Virgo 29°57′ | Virgo | 2 | 0.584°/d | fall |  |
+| ♂ Mars | ♋ Cancer 20°14′ | Gemini | 12 | 0.651°/d | fall |  |
+| ♃ Jupiter | ♎ Libra 29°28′ | Virgo | 3 | 0.130°/d |  |  |
+| ♄ Saturn | ♋ Cancer 29°12′ | Cancer | 12 | 0.125°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 9°30′ | Virgo | 3 | 0.045°/d |  |  |
+| ♆ Neptune | ♉ Taurus 29°58′ | Taurus | 10 | 0.012°/d |  |  |
+| ♇ Pluto | ♊ Gemini 4°57′ | Taurus | 11 | 0.008°/d (stationary) |  |  |
+| ☊ North Node | ♌ Leo 18°46′ | Leo | 1 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 18°46′ | Capricornus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

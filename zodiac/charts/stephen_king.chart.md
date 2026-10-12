@@ -7,20 +7,20 @@ Born 1947-09-21 (gregorian calendar), Portland, birth at Maine General (lat 43.6
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 27°11′ | 1 | 0.978°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 13°28′ | 4 | 12.191°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 14°42′ | 2 | 1.530°/d |  |  |
-| ♀ Venus | ♎ Libra 1°53′ | 2 | 1.245°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 24°02′ | 11 | 0.600°/d | fall |  |
-| ♃ Jupiter | ♏ Scorpio 23°49′ | 3 | 0.165°/d |  |  |
-| ♄ Saturn | ♌ Leo 18°07′ | 12 | 0.110°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 26°07′ | 10 | 0.010°/d |  |  |
-| ♆ Neptune | ♎ Libra 10°08′ | 2 | 0.036°/d |  |  |
-| ♇ Pluto | ♌ Leo 14°17′ | 12 | 0.023°/d |  |  |
-| ☊ North Node | ♉ Taurus 26°13′ | 9 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 26°13′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 27°11′ | Virgo | 1 | 0.978°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 13°28′ | Ophiuchus | 4 | 12.191°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 14°42′ | Virgo | 2 | 1.530°/d |  |  |
+| ♀ Venus | ♎ Libra 1°53′ | Virgo | 2 | 1.245°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 24°02′ | Gemini | 11 | 0.600°/d | fall |  |
+| ♃ Jupiter | ♏ Scorpio 23°49′ | Libra | 3 | 0.165°/d |  |  |
+| ♄ Saturn | ♌ Leo 18°07′ | Cancer | 12 | 0.110°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 26°07′ | Taurus | 10 | 0.010°/d |  |  |
+| ♆ Neptune | ♎ Libra 10°08′ | Virgo | 2 | 0.036°/d |  |  |
+| ♇ Pluto | ♌ Leo 14°17′ | Cancer | 12 | 0.023°/d |  |  |
+| ☊ North Node | ♉ Taurus 26°13′ | Taurus | 9 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 26°13′ | Libra | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

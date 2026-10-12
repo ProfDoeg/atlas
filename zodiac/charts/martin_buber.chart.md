@@ -7,20 +7,20 @@ Born 1878-02-08 (gregorian calendar), Vienna, Franz-Josefs-Kai 45: the birth (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 19°09′ | 1 | 1.012°/d | detriment |  |
-| ☽ Moon | ♈ Aries 20°26′ | 3 | 11.979°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 24°07′ | 12 | 1.185°/d |  |  |
-| ♀ Venus | ♓ Pisces 9°22′ | 2 | R -0.317°/d | exaltation |  |
-| ♂ Mars | ♉ Taurus 5°03′ | 4 | 0.622°/d | detriment |  |
-| ♃ Jupiter | ♑ Capricornus 22°56′ | 12 | 0.221°/d | fall |  |
-| ♄ Saturn | ♓ Pisces 18°40′ | 2 | 0.113°/d |  |  |
-| ♅ Uranus | ♌ Leo 27°35′ | 7 | R -0.043°/d | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 4°56′ | 4 | 0.014°/d |  |  |
-| ♇ Pluto | ♉ Taurus 23°36′ | 4 | 0.001°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 22°38′ | 1 | mean node |  |  |
-| ☋ South Node | ♌ Leo 22°38′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 19°09′ | Capricornus | 1 | 1.012°/d | detriment |  |
+| ☽ Moon | ♈ Aries 20°26′ | Pisces | 3 | 11.979°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 24°07′ | Sagittarius | 12 | 1.185°/d |  |  |
+| ♀ Venus | ♓ Pisces 9°22′ | Aquarius | 2 | R -0.317°/d | exaltation |  |
+| ♂ Mars | ♉ Taurus 5°03′ | Aries | 4 | 0.622°/d | detriment |  |
+| ♃ Jupiter | ♑ Capricornus 22°56′ | Sagittarius | 12 | 0.221°/d | fall |  |
+| ♄ Saturn | ♓ Pisces 18°40′ | Aquarius | 2 | 0.113°/d |  |  |
+| ♅ Uranus | ♌ Leo 27°35′ | Leo | 7 | R -0.043°/d | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 4°56′ | Aries | 4 | 0.014°/d |  |  |
+| ♇ Pluto | ♉ Taurus 23°36′ | Taurus | 4 | 0.001°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 22°38′ | Capricornus | 1 | mean node |  |  |
+| ☋ South Node | ♌ Leo 22°38′ | Leo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

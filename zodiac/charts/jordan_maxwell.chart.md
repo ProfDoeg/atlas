@@ -7,20 +7,20 @@ Born 1940-12-28 (gregorian calendar), Pensacola, the birth on the Gulf coast (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 6°08′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 24°42′ | 12 | 14.198°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♐ Sagittarius 27°50′ | 12 | 1.554°/d | detriment |  |
-| ♀ Venus | ♐ Sagittarius 8°57′ | 12 | 1.245°/d |  |  |
-| ♂ Mars | ♏ Scorpio 24°45′ | 11 | 0.670°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 5°49′ | 5 | R -0.011°/d |  |  |
-| ♄ Saturn | ♉ Taurus 7°43′ | 5 | R -0.023°/d |  |  |
-| ♅ Uranus | ♉ Taurus 22°41′ | 5 | R -0.027°/d |  |  |
-| ♆ Neptune | ♍ Virgo 27°47′ | 9 | 0.001°/d (stationary) | detriment (modern) |  |
-| ♇ Pluto | ♌ Leo 3°49′ | 8 | R -0.020°/d |  |  |
-| ☊ North Node | ♎ Libra 6°23′ | 10 | mean node |  |  |
-| ☋ South Node | ♈ Aries 6°23′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 6°08′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 24°42′ | Ophiuchus | 12 | 14.198°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♐ Sagittarius 27°50′ | Sagittarius | 12 | 1.554°/d | detriment |  |
+| ♀ Venus | ♐ Sagittarius 8°57′ | Ophiuchus | 12 | 1.245°/d |  |  |
+| ♂ Mars | ♏ Scorpio 24°45′ | Libra | 11 | 0.670°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 5°49′ | Aries | 5 | R -0.011°/d |  |  |
+| ♄ Saturn | ♉ Taurus 7°43′ | Aries | 5 | R -0.023°/d |  |  |
+| ♅ Uranus | ♉ Taurus 22°41′ | Aries | 5 | R -0.027°/d |  |  |
+| ♆ Neptune | ♍ Virgo 27°47′ | Virgo | 9 | 0.001°/d (stationary) | detriment (modern) |  |
+| ♇ Pluto | ♌ Leo 3°49′ | Cancer | 8 | R -0.020°/d |  |  |
+| ☊ North Node | ♎ Libra 6°23′ | Virgo | 10 | mean node |  |  |
+| ☋ South Node | ♈ Aries 6°23′ | Pisces | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

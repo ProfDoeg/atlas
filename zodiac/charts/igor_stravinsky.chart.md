@@ -7,20 +7,20 @@ Born 1882-06-17 (gregorian calendar), Oranienbaum: birth on the Gulf of Finland 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 25°40′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♋ Cancer 10°15′ | 2 | 12.706°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 11°16′ | 2 | R -0.119°/d |  |  |
-| ♀ Venus | ♋ Cancer 24°58′ | 2 | 1.202°/d |  |  |
-| ♂ Mars | ♌ Leo 21°56′ | 3 | 0.579°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 12°55′ | 1 | 0.230°/d | detriment |  |
-| ♄ Saturn | ♉ Taurus 20°38′ | 12 | 0.114°/d |  |  |
-| ♅ Uranus | ♍ Virgo 14°31′ | 4 | 0.023°/d |  |  |
-| ♆ Neptune | ♉ Taurus 17°43′ | 12 | 0.031°/d |  |  |
-| ♇ Pluto | ♉ Taurus 29°26′ | 12 | 0.021°/d | detriment (modern) |  |
-| ☊ North Node | ♏ Scorpio 28°26′ | 6 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 28°26′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 25°40′ | Taurus | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♋ Cancer 10°15′ | Gemini | 2 | 12.706°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 11°16′ | Gemini | 2 | R -0.119°/d |  |  |
+| ♀ Venus | ♋ Cancer 24°58′ | Gemini | 2 | 1.202°/d |  |  |
+| ♂ Mars | ♌ Leo 21°56′ | Leo | 3 | 0.579°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 12°55′ | Taurus | 1 | 0.230°/d | detriment |  |
+| ♄ Saturn | ♉ Taurus 20°38′ | Aries | 12 | 0.114°/d |  |  |
+| ♅ Uranus | ♍ Virgo 14°31′ | Leo | 4 | 0.023°/d |  |  |
+| ♆ Neptune | ♉ Taurus 17°43′ | Aries | 12 | 0.031°/d |  |  |
+| ♇ Pluto | ♉ Taurus 29°26′ | Taurus | 12 | 0.021°/d | detriment (modern) |  |
+| ☊ North Node | ♏ Scorpio 28°26′ | Libra | 6 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 28°26′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

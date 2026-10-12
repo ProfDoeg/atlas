@@ -7,20 +7,20 @@ Born 1668-06-23 (gregorian calendar), Via San Biagio dei Librai, the room above 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 2°03′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 11°30′ | 6 | 15.035°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 0°25′ | 1 | 2.184°/d |  |  |
-| ♀ Venus | ♌ Leo 17°09′ | 2 | 1.020°/d |  |  |
-| ♂ Mars | ♏ Scorpio 0°04′ | 5 | 0.205°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 28°48′ | 11 | 0.215°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 12°37′ | 8 | R -0.047°/d | domicile |  |
-| ♅ Uranus | ♓ Pisces 2°18′ | 9 | R -0.013°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 25°48′ | 7 | R -0.024°/d |  |  |
-| ♇ Pluto | ♊ Gemini 29°21′ | 12 | 0.024°/d |  |  |
-| ☊ North Node | ♉ Taurus 27°03′ | 11 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 27°03′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 2°03′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 11°30′ | Ophiuchus | 6 | 15.035°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 0°25′ | Gemini | 1 | 2.184°/d |  |  |
+| ♀ Venus | ♌ Leo 17°09′ | Cancer | 2 | 1.020°/d |  |  |
+| ♂ Mars | ♏ Scorpio 0°04′ | Virgo | 5 | 0.205°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 28°48′ | Taurus | 11 | 0.215°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 12°37′ | Capricornus | 8 | R -0.047°/d | domicile |  |
+| ♅ Uranus | ♓ Pisces 2°18′ | Aquarius | 9 | R -0.013°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 25°48′ | Sagittarius | 7 | R -0.024°/d |  |  |
+| ♇ Pluto | ♊ Gemini 29°21′ | Taurus | 12 | 0.024°/d |  |  |
+| ☊ North Node | ♉ Taurus 27°03′ | Taurus | 11 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 27°03′ | Libra | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

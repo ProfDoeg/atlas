@@ -7,20 +7,20 @@ Born 1877-05-26 (gregorian calendar), San Francisco, the birth on Taylor Street 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 4°49′ | 1 | 0.960°/d |  |  |
-| ☽ Moon | ♏ Scorpio 20°39′ | 6 | 13.185°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 6°03′ | 1 | R -0.559°/d | domicile |  |
-| ♀ Venus | ♊ Gemini 9°53′ | 1 | 1.229°/d |  |  |
-| ♂ Mars | ♒ Aquarius 23°21′ | 9 | 0.563°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 1°47′ | 8 | R -0.100°/d | fall |  |
-| ♄ Saturn | ♓ Pisces 18°57′ | 10 | 0.057°/d |  |  |
-| ♅ Uranus | ♌ Leo 20°45′ | 3 | 0.025°/d | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 6°07′ | 12 | 0.034°/d |  |  |
-| ♇ Pluto | ♉ Taurus 24°21′ | 12 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♓ Pisces 6°17′ | 10 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 6°17′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 4°49′ | Taurus | 1 | 0.960°/d |  |  |
+| ☽ Moon | ♏ Scorpio 20°39′ | Libra | 6 | 13.185°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 6°03′ | Taurus | 1 | R -0.559°/d | domicile |  |
+| ♀ Venus | ♊ Gemini 9°53′ | Taurus | 1 | 1.229°/d |  |  |
+| ♂ Mars | ♒ Aquarius 23°21′ | Capricornus | 9 | 0.563°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 1°47′ | Sagittarius | 8 | R -0.100°/d | fall |  |
+| ♄ Saturn | ♓ Pisces 18°57′ | Aquarius | 10 | 0.057°/d |  |  |
+| ♅ Uranus | ♌ Leo 20°45′ | Leo | 3 | 0.025°/d | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 6°07′ | Aries | 12 | 0.034°/d |  |  |
+| ♇ Pluto | ♉ Taurus 24°21′ | Taurus | 12 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♓ Pisces 6°17′ | Aquarius | 10 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 6°17′ | Leo | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

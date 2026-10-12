@@ -7,20 +7,20 @@ Born 1889-04-13 (gregorian calendar), Worthington, birth on the railroad line (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 23°16′ | 1 | 0.979°/d | exaltation |  |
-| ☽ Moon | ♍ Virgo 14°48′ | 6 | 13.502°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 10°28′ | 1 | 1.870°/d |  |  |
-| ♀ Venus | ♉ Taurus 18°56′ | 2 | R -0.131°/d | domicile |  |
-| ♂ Mars | ♉ Taurus 10°48′ | 2 | 0.725°/d | detriment |  |
-| ♃ Jupiter | ♑ Capricornus 8°08′ | 10 | 0.037°/d | fall |  |
-| ♄ Saturn | ♌ Leo 13°31′ | 5 | R -0.003°/d (stationary) | detriment |  |
-| ♅ Uranus | ♎ Libra 19°34′ | 7 | R -0.043°/d |  |  |
-| ♆ Neptune | ♊ Gemini 0°37′ | 3 | 0.031°/d |  |  |
-| ♇ Pluto | ♊ Gemini 4°34′ | 3 | 0.018°/d |  |  |
-| ☊ North Node | ♋ Cancer 16°28′ | 4 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 16°28′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 23°16′ | Pisces | 1 | 0.979°/d | exaltation |  |
+| ☽ Moon | ♍ Virgo 14°48′ | Leo | 6 | 13.502°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 10°28′ | Pisces | 1 | 1.870°/d |  |  |
+| ♀ Venus | ♉ Taurus 18°56′ | Aries | 2 | R -0.131°/d | domicile |  |
+| ♂ Mars | ♉ Taurus 10°48′ | Aries | 2 | 0.725°/d | detriment |  |
+| ♃ Jupiter | ♑ Capricornus 8°08′ | Sagittarius | 10 | 0.037°/d | fall |  |
+| ♄ Saturn | ♌ Leo 13°31′ | Cancer | 5 | R -0.003°/d (stationary) | detriment |  |
+| ♅ Uranus | ♎ Libra 19°34′ | Virgo | 7 | R -0.043°/d |  |  |
+| ♆ Neptune | ♊ Gemini 0°37′ | Taurus | 3 | 0.031°/d |  |  |
+| ♇ Pluto | ♊ Gemini 4°34′ | Taurus | 3 | 0.018°/d |  |  |
+| ☊ North Node | ♋ Cancer 16°28′ | Gemini | 4 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 16°28′ | Sagittarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

@@ -7,20 +7,20 @@ Born 1859-10-18 (gregorian calendar), Paris, rue Lamartine, the birth (lat 48.87
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 24°06′ | 1 | 0.994°/d | fall |  |
-| ☽ Moon | ♋ Cancer 8°04′ | 10 | 13.835°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 28°49′ | 1 | 1.637°/d |  |  |
-| ♀ Venus | ♎ Libra 29°20′ | 1 | 1.251°/d | domicile |  |
-| ♂ Mars | ♍ Virgo 24°28′ | 12 | 0.631°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 24°14′ | 10 | 0.080°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 23°56′ | 11 | 0.084°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 7°16′ | 9 | R -0.027°/d |  |  |
-| ♆ Neptune | ♓ Pisces 24°57′ | 6 | R -0.023°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 7°49′ | 8 | R -0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 16°47′ | 5 | mean node |  |  |
-| ☋ South Node | ♌ Leo 16°47′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 24°06′ | Virgo | 1 | 0.994°/d | fall |  |
+| ☽ Moon | ♋ Cancer 8°04′ | Gemini | 10 | 13.835°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 28°49′ | Virgo | 1 | 1.637°/d |  |  |
+| ♀ Venus | ♎ Libra 29°20′ | Virgo | 1 | 1.251°/d | domicile |  |
+| ♂ Mars | ♍ Virgo 24°28′ | Virgo | 12 | 0.631°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 24°14′ | Gemini | 10 | 0.080°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 23°56′ | Leo | 11 | 0.084°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 7°16′ | Taurus | 9 | R -0.027°/d |  |  |
+| ♆ Neptune | ♓ Pisces 24°57′ | Pisces | 6 | R -0.023°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 7°49′ | Aries | 8 | R -0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 16°47′ | Capricornus | 5 | mean node |  |  |
+| ☋ South Node | ♌ Leo 16°47′ | Cancer | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

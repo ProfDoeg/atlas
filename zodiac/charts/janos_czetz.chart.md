@@ -7,20 +7,20 @@ Born 1822-06-08 (gregorian calendar), Gidófalva, the birth in Háromszék (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 16°35′ | 1 | 0.956°/d |  |  |
-| ☽ Moon | ♑ Capricornus 21°30′ | 8 | 12.208°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 9°16′ | 2 | 1.417°/d |  |  |
-| ♀ Venus | ♉ Taurus 1°50′ | 12 | 1.062°/d | domicile |  |
-| ♂ Mars | ♍ Virgo 9°54′ | 4 | 0.477°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 21°21′ | 12 | 0.225°/d |  |  |
-| ♄ Saturn | ♉ Taurus 5°31′ | 12 | 0.107°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 6°06′ | 8 | R -0.037°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 4°20′ | 8 | R -0.025°/d |  |  |
-| ♇ Pluto | ♈ Aries 0°54′ | 11 | 0.009°/d (stationary) |  |  |
-| ☊ North Node | ♒ Aquarius 19°24′ | 9 | mean node |  |  |
-| ☋ South Node | ♌ Leo 19°24′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 16°35′ | Taurus | 1 | 0.956°/d |  |  |
+| ☽ Moon | ♑ Capricornus 21°30′ | Sagittarius | 8 | 12.208°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 9°16′ | Gemini | 2 | 1.417°/d |  |  |
+| ♀ Venus | ♉ Taurus 1°50′ | Aries | 12 | 1.062°/d | domicile |  |
+| ♂ Mars | ♍ Virgo 9°54′ | Leo | 4 | 0.477°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 21°21′ | Aries | 12 | 0.225°/d |  |  |
+| ♄ Saturn | ♉ Taurus 5°31′ | Aries | 12 | 0.107°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 6°06′ | Sagittarius | 8 | R -0.037°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 4°20′ | Sagittarius | 8 | R -0.025°/d |  |  |
+| ♇ Pluto | ♈ Aries 0°54′ | Pisces | 11 | 0.009°/d (stationary) |  |  |
+| ☊ North Node | ♒ Aquarius 19°24′ | Capricornus | 9 | mean node |  |  |
+| ☋ South Node | ♌ Leo 19°24′ | Leo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

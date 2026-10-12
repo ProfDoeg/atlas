@@ -7,20 +7,20 @@ Born 1903-12-28 (gregorian calendar), Budapest, birth in the Lipotvaros (lat 47.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 5°05′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♈ Aries 15°15′ | 4 | 12.450°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 23°51′ | 1 | 1.314°/d |  |  |
-| ♀ Venus | ♏ Scorpio 20°34′ | 11 | 1.149°/d | detriment |  |
-| ♂ Mars | ♒ Aquarius 12°12′ | 2 | 0.785°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 17°08′ | 3 | 0.146°/d | domicile |  |
-| ♄ Saturn | ♒ Aquarius 7°28′ | 2 | 0.107°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 26°17′ | 12 | 0.060°/d |  |  |
-| ♆ Neptune | ♋ Cancer 4°35′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 19°26′ | 6 | R -0.019°/d |  |  |
-| ☊ North Node | ♎ Libra 2°03′ | 10 | mean node |  |  |
-| ☋ South Node | ♈ Aries 2°03′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 5°05′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♈ Aries 15°15′ | Pisces | 4 | 12.450°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 23°51′ | Sagittarius | 1 | 1.314°/d |  |  |
+| ♀ Venus | ♏ Scorpio 20°34′ | Libra | 11 | 1.149°/d | detriment |  |
+| ♂ Mars | ♒ Aquarius 12°12′ | Capricornus | 2 | 0.785°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 17°08′ | Aquarius | 3 | 0.146°/d | domicile |  |
+| ♄ Saturn | ♒ Aquarius 7°28′ | Capricornus | 2 | 0.107°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 26°17′ | Ophiuchus | 12 | 0.060°/d |  |  |
+| ♆ Neptune | ♋ Cancer 4°35′ | Gemini | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 19°26′ | Taurus | 6 | R -0.019°/d |  |  |
+| ☊ North Node | ♎ Libra 2°03′ | Virgo | 10 | mean node |  |  |
+| ☋ South Node | ♈ Aries 2°03′ | Pisces | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

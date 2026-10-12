@@ -7,20 +7,20 @@ Born 1892-01-11 (gregorian calendar), Berlin, birth in the merchant's house (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 20°17′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♊ Gemini 11°15′ | 6 | 13.699°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 28°42′ | 12 | 0.320°/d | detriment |  |
-| ♀ Venus | ♒ Aquarius 18°10′ | 2 | 1.240°/d |  |  |
-| ♂ Mars | ♏ Scorpio 21°19′ | 11 | 0.629°/d | domicile |  |
-| ♃ Jupiter | ♓ Pisces 15°17′ | 3 | 0.187°/d | domicile |  |
-| ♄ Saturn | ♎ Libra 0°17′ | 10 | R -0.002°/d (stationary) | exaltation |  |
-| ♅ Uranus | ♏ Scorpio 5°29′ | 11 | 0.027°/d |  |  |
-| ♆ Neptune | ♊ Gemini 6°38′ | 6 | R -0.019°/d |  |  |
-| ♇ Pluto | ♊ Gemini 7°11′ | 6 | R -0.013°/d |  |  |
-| ☊ North Node | ♉ Taurus 23°21′ | 5 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 23°21′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 20°17′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♊ Gemini 11°15′ | Taurus | 6 | 13.699°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 28°42′ | Sagittarius | 12 | 0.320°/d | detriment |  |
+| ♀ Venus | ♒ Aquarius 18°10′ | Capricornus | 2 | 1.240°/d |  |  |
+| ♂ Mars | ♏ Scorpio 21°19′ | Libra | 11 | 0.629°/d | domicile |  |
+| ♃ Jupiter | ♓ Pisces 15°17′ | Aquarius | 3 | 0.187°/d | domicile |  |
+| ♄ Saturn | ♎ Libra 0°17′ | Virgo | 10 | R -0.002°/d (stationary) | exaltation |  |
+| ♅ Uranus | ♏ Scorpio 5°29′ | Virgo | 11 | 0.027°/d |  |  |
+| ♆ Neptune | ♊ Gemini 6°38′ | Taurus | 6 | R -0.019°/d |  |  |
+| ♇ Pluto | ♊ Gemini 7°11′ | Taurus | 6 | R -0.013°/d |  |  |
+| ☊ North Node | ♉ Taurus 23°21′ | Aries | 5 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 23°21′ | Libra | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

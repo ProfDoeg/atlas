@@ -7,20 +7,20 @@ Born 1916-07-31 (gregorian calendar), Khutor Kulikovsky, born under two calendar
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 7°26′ | 1 | 0.957°/d | domicile |  |
-| ☽ Moon | ♌ Leo 17°21′ | 1 | 11.941°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 10°19′ | 1 | 2.054°/d |  |  |
-| ♀ Venus | ♋ Cancer 3°47′ | 12 | 0.202°/d |  |  |
-| ♂ Mars | ♎ Libra 4°41′ | 3 | 0.608°/d | detriment |  |
-| ♃ Jupiter | ♉ Taurus 4°22′ | 10 | 0.080°/d |  |  |
-| ♄ Saturn | ♋ Cancer 22°33′ | 12 | 0.127°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 18°12′ | 7 | R -0.039°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 2°40′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♋ Cancer 3°42′ | 12 | 0.021°/d |  |  |
-| ☊ North Node | ♑ Capricornus 28°31′ | 6 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 28°31′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 7°26′ | Cancer | 1 | 0.957°/d | domicile |  |
+| ☽ Moon | ♌ Leo 17°21′ | Cancer | 1 | 11.941°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 10°19′ | Cancer | 1 | 2.054°/d |  |  |
+| ♀ Venus | ♋ Cancer 3°47′ | Gemini | 12 | 0.202°/d |  |  |
+| ♂ Mars | ♎ Libra 4°41′ | Virgo | 3 | 0.608°/d | detriment |  |
+| ♃ Jupiter | ♉ Taurus 4°22′ | Aries | 10 | 0.080°/d |  |  |
+| ♄ Saturn | ♋ Cancer 22°33′ | Gemini | 12 | 0.127°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 18°12′ | Capricornus | 7 | R -0.039°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 2°40′ | Cancer | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♋ Cancer 3°42′ | Gemini | 12 | 0.021°/d |  |  |
+| ☊ North Node | ♑ Capricornus 28°31′ | Sagittarius | 6 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 28°31′ | Cancer | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

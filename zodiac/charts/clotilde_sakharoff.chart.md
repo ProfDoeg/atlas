@@ -7,20 +7,20 @@ Born 1892-11-05 (gregorian calendar), Berlin, birth of Clotilde von der Planitz 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 13°04′ | 1 | 1.004°/d |  |  |
-| ☽ Moon | ♉ Taurus 17°55′ | 7 | 15.237°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 29°20′ | 1 | 1.458°/d |  |  |
-| ♀ Venus | ♎ Libra 1°59′ | 12 | 1.177°/d | domicile |  |
-| ♂ Mars | ♒ Aquarius 27°33′ | 4 | 0.546°/d |  |  |
-| ♃ Jupiter | ♈ Aries 16°58′ | 6 | R -0.107°/d |  |  |
-| ♄ Saturn | ♎ Libra 8°10′ | 12 | 0.109°/d | exaltation |  |
-| ♅ Uranus | ♏ Scorpio 6°39′ | 1 | 0.062°/d |  |  |
-| ♆ Neptune | ♊ Gemini 10°39′ | 8 | R -0.024°/d |  |  |
-| ♇ Pluto | ♊ Gemini 9°20′ | 8 | R -0.017°/d |  |  |
-| ☊ North Node | ♉ Taurus 7°31′ | 7 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 7°31′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 13°04′ | Libra | 1 | 1.004°/d |  |  |
+| ☽ Moon | ♉ Taurus 17°55′ | Aries | 7 | 15.237°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 29°20′ | Libra | 1 | 1.458°/d |  |  |
+| ♀ Venus | ♎ Libra 1°59′ | Virgo | 12 | 1.177°/d | domicile |  |
+| ♂ Mars | ♒ Aquarius 27°33′ | Capricornus | 4 | 0.546°/d |  |  |
+| ♃ Jupiter | ♈ Aries 16°58′ | Pisces | 6 | R -0.107°/d |  |  |
+| ♄ Saturn | ♎ Libra 8°10′ | Virgo | 12 | 0.109°/d | exaltation |  |
+| ♅ Uranus | ♏ Scorpio 6°39′ | Virgo | 1 | 0.062°/d |  |  |
+| ♆ Neptune | ♊ Gemini 10°39′ | Taurus | 8 | R -0.024°/d |  |  |
+| ♇ Pluto | ♊ Gemini 9°20′ | Taurus | 8 | R -0.017°/d |  |  |
+| ☊ North Node | ♉ Taurus 7°31′ | Aries | 7 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 7°31′ | Virgo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

@@ -7,20 +7,20 @@ Born 1777-04-30 (gregorian calendar), Brunswick, the house on the Wendengraben (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 9°56′ | 1 | 0.969°/d |  |  |
-| ☽ Moon | ♒ Aquarius 1°07′ | 10 | 13.070°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♉ Taurus 13°18′ | 1 | 2.162°/d |  |  |
-| ♀ Venus | ♊ Gemini 17°17′ | 2 | 0.387°/d |  |  |
-| ♂ Mars | ♎ Libra 0°47′ | 6 | R -0.141°/d | detriment |  |
-| ♃ Jupiter | ♋ Cancer 18°50′ | 3 | 0.137°/d | exaltation |  |
-| ♄ Saturn | ♎ Libra 29°21′ | 6 | R -0.074°/d | exaltation |  |
-| ♅ Uranus | ♊ Gemini 9°11′ | 2 | 0.053°/d |  |  |
-| ♆ Neptune | ♍ Virgo 24°44′ | 5 | R -0.018°/d | detriment (modern) |  |
-| ♇ Pluto | ♒ Aquarius 0°13′ | 10 | 0.000°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 21°45′ | 3 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 21°45′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 9°56′ | Aries | 1 | 0.969°/d |  |  |
+| ☽ Moon | ♒ Aquarius 1°07′ | Capricornus | 10 | 13.070°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♉ Taurus 13°18′ | Aries | 1 | 2.162°/d |  |  |
+| ♀ Venus | ♊ Gemini 17°17′ | Taurus | 2 | 0.387°/d |  |  |
+| ♂ Mars | ♎ Libra 0°47′ | Virgo | 6 | R -0.141°/d | detriment |  |
+| ♃ Jupiter | ♋ Cancer 18°50′ | Gemini | 3 | 0.137°/d | exaltation |  |
+| ♄ Saturn | ♎ Libra 29°21′ | Virgo | 6 | R -0.074°/d | exaltation |  |
+| ♅ Uranus | ♊ Gemini 9°11′ | Taurus | 2 | 0.053°/d |  |  |
+| ♆ Neptune | ♍ Virgo 24°44′ | Virgo | 5 | R -0.018°/d | detriment (modern) |  |
+| ♇ Pluto | ♒ Aquarius 0°13′ | Capricornus | 10 | 0.000°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 21°45′ | Gemini | 3 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 21°45′ | Sagittarius | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

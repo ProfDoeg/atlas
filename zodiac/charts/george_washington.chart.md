@@ -7,20 +7,20 @@ Born 1732-02-22 (gregorian calendar), Pope's Creek, the birth on the tobacco pla
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 2°42′ | 1 | 1.006°/d |  |  |
-| ☽ Moon | ♑ Capricornus 8°04′ | 11 | 13.934°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 6°03′ | 12 | 0.797°/d |  |  |
-| ♀ Venus | ♓ Pisces 28°39′ | 1 | 1.234°/d | exaltation |  |
-| ♂ Mars | ♏ Scorpio 22°57′ | 9 | 0.422°/d | domicile |  |
-| ♃ Jupiter | ♎ Libra 8°42′ | 8 | R -0.084°/d |  |  |
-| ♄ Saturn | ♈ Aries 2°40′ | 2 | 0.115°/d | fall |  |
-| ♅ Uranus | ♐ Sagittarius 9°57′ | 10 | 0.019°/d |  |  |
-| ♆ Neptune | ♊ Gemini 14°42′ | 4 | R -0.001°/d (stationary) |  |  |
-| ♇ Pluto | ♎ Libra 17°49′ | 8 | R -0.018°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 25°43′ | 10 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 25°43′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 2°42′ | Aquarius | 1 | 1.006°/d |  |  |
+| ☽ Moon | ♑ Capricornus 8°04′ | Sagittarius | 11 | 13.934°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 6°03′ | Capricornus | 12 | 0.797°/d |  |  |
+| ♀ Venus | ♓ Pisces 28°39′ | Pisces | 1 | 1.234°/d | exaltation |  |
+| ♂ Mars | ♏ Scorpio 22°57′ | Libra | 9 | 0.422°/d | domicile |  |
+| ♃ Jupiter | ♎ Libra 8°42′ | Virgo | 8 | R -0.084°/d |  |  |
+| ♄ Saturn | ♈ Aries 2°40′ | Pisces | 2 | 0.115°/d | fall |  |
+| ♅ Uranus | ♐ Sagittarius 9°57′ | Ophiuchus | 10 | 0.019°/d |  |  |
+| ♆ Neptune | ♊ Gemini 14°42′ | Taurus | 4 | R -0.001°/d (stationary) |  |  |
+| ♇ Pluto | ♎ Libra 17°49′ | Virgo | 8 | R -0.018°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 25°43′ | Ophiuchus | 10 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 25°43′ | Taurus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

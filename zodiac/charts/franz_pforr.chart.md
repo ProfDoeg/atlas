@@ -7,20 +7,20 @@ Born 1788-04-05 (gregorian calendar), Frankfurt am Main, the birth in the old to
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 15°52′ | 1 | 0.982°/d | exaltation |  |
-| ☽ Moon | ♓ Pisces 26°47′ | 12 | 13.005°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♈ Aries 0°01′ | 1 | R -0.371°/d |  |  |
-| ♀ Venus | ♉ Taurus 24°40′ | 2 | 1.168°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 19°48′ | 4 | 0.398°/d | fall |  |
-| ♃ Jupiter | ♊ Gemini 21°00′ | 3 | 0.152°/d | detriment |  |
-| ♄ Saturn | ♓ Pisces 6°25′ | 12 | 0.103°/d |  |  |
-| ♅ Uranus | ♋ Cancer 25°54′ | 4 | 0.002°/d (stationary) |  |  |
-| ♆ Neptune | ♎ Libra 19°55′ | 7 | R -0.027°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 17°21′ | 11 | 0.018°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 20°19′ | 9 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 20°19′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 15°52′ | Pisces | 1 | 0.982°/d | exaltation |  |
+| ☽ Moon | ♓ Pisces 26°47′ | Pisces | 12 | 13.005°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♈ Aries 0°01′ | Pisces | 1 | R -0.371°/d |  |  |
+| ♀ Venus | ♉ Taurus 24°40′ | Taurus | 2 | 1.168°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 19°48′ | Gemini | 4 | 0.398°/d | fall |  |
+| ♃ Jupiter | ♊ Gemini 21°00′ | Taurus | 3 | 0.152°/d | detriment |  |
+| ♄ Saturn | ♓ Pisces 6°25′ | Aquarius | 12 | 0.103°/d |  |  |
+| ♅ Uranus | ♋ Cancer 25°54′ | Gemini | 4 | 0.002°/d (stationary) |  |  |
+| ♆ Neptune | ♎ Libra 19°55′ | Virgo | 7 | R -0.027°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 17°21′ | Capricornus | 11 | 0.018°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 20°19′ | Ophiuchus | 9 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 20°19′ | Taurus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

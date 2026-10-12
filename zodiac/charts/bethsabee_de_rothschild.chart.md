@@ -7,20 +7,20 @@ Born 1914-09-23 (gregorian calendar), London, the birth in the seventh week of t
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 29°07′ | 1 | 0.979°/d |  |  |
-| ☽ Moon | ♏ Scorpio 12°30′ | 3 | 14.834°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 16°39′ | 2 | 1.522°/d |  |  |
-| ♀ Venus | ♏ Scorpio 15°23′ | 3 | 0.939°/d | detriment |  |
-| ♂ Mars | ♎ Libra 25°40′ | 2 | 0.670°/d | detriment |  |
-| ♃ Jupiter | ♒ Aquarius 12°51′ | 6 | R -0.053°/d |  |  |
-| ♄ Saturn | ♋ Cancer 1°57′ | 11 | 0.041°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 7°59′ | 6 | R -0.020°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 0°03′ | 12 | 0.022°/d |  |  |
-| ♇ Pluto | ♋ Cancer 2°15′ | 11 | 0.004°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 4°22′ | 7 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 4°22′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 29°07′ | Virgo | 1 | 0.979°/d |  |  |
+| ☽ Moon | ♏ Scorpio 12°30′ | Libra | 3 | 14.834°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 16°39′ | Virgo | 2 | 1.522°/d |  |  |
+| ♀ Venus | ♏ Scorpio 15°23′ | Libra | 3 | 0.939°/d | detriment |  |
+| ♂ Mars | ♎ Libra 25°40′ | Virgo | 2 | 0.670°/d | detriment |  |
+| ♃ Jupiter | ♒ Aquarius 12°51′ | Capricornus | 6 | R -0.053°/d |  |  |
+| ♄ Saturn | ♋ Cancer 1°57′ | Gemini | 11 | 0.041°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 7°59′ | Capricornus | 6 | R -0.020°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 0°03′ | Cancer | 12 | 0.022°/d |  |  |
+| ♇ Pluto | ♋ Cancer 2°15′ | Gemini | 11 | 0.004°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 4°22′ | Aquarius | 7 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 4°22′ | Leo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

@@ -7,20 +7,20 @@ Born 1904-03-06 (gregorian calendar), Bilbao, the birth on Calle de la Cruz (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 15°01′ | 1 | 1.001°/d |  |  |
-| ☽ Moon | ♏ Scorpio 7°55′ | 9 | 13.851°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 27°50′ | 12 | 1.615°/d |  |  |
-| ♀ Venus | ♒ Aquarius 13°17′ | 12 | 1.223°/d |  |  |
-| ♂ Mars | ♈ Aries 6°03′ | 2 | 0.766°/d | domicile |  |
-| ♃ Jupiter | ♈ Aries 1°08′ | 2 | 0.238°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 15°28′ | 12 | 0.109°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 29°30′ | 10 | 0.025°/d |  |  |
-| ♆ Neptune | ♋ Cancer 3°13′ | 5 | R -0.005°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 18°43′ | 4 | 0.001°/d (stationary) |  |  |
-| ☊ North Node | ♍ Virgo 28°24′ | 7 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 28°24′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 15°01′ | Aquarius | 1 | 1.001°/d |  |  |
+| ☽ Moon | ♏ Scorpio 7°55′ | Libra | 9 | 13.851°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 27°50′ | Capricornus | 12 | 1.615°/d |  |  |
+| ♀ Venus | ♒ Aquarius 13°17′ | Capricornus | 12 | 1.223°/d |  |  |
+| ♂ Mars | ♈ Aries 6°03′ | Pisces | 2 | 0.766°/d | domicile |  |
+| ♃ Jupiter | ♈ Aries 1°08′ | Pisces | 2 | 0.238°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 15°28′ | Capricornus | 12 | 0.109°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 29°30′ | Sagittarius | 10 | 0.025°/d |  |  |
+| ♆ Neptune | ♋ Cancer 3°13′ | Gemini | 5 | R -0.005°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 18°43′ | Taurus | 4 | 0.001°/d (stationary) |  |  |
+| ☊ North Node | ♍ Virgo 28°24′ | Virgo | 7 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 28°24′ | Pisces | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

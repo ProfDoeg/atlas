@@ -7,20 +7,20 @@ Born 1918-05-11 (gregorian calendar), New York City, the birth of a physicist hi
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 19°30′ | 1 | 0.966°/d |  |  |
-| ☽ Moon | ♉ Taurus 25°43′ | 1 | 14.508°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♉ Taurus 0°25′ | 1 | 0.045°/d |  |  |
-| ♀ Venus | ♈ Aries 4°24′ | 12 | 1.071°/d | detriment |  |
-| ♂ Mars | ♍ Virgo 15°12′ | 5 | 0.172°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 15°40′ | 2 | 0.219°/d | detriment |  |
-| ♄ Saturn | ♌ Leo 8°36′ | 4 | 0.054°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 27°34′ | 10 | 0.018°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 4°34′ | 4 | 0.014°/d |  |  |
-| ♇ Pluto | ♋ Cancer 4°00′ | 3 | 0.018°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 24°09′ | 8 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 24°09′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 19°30′ | Aries | 1 | 0.966°/d |  |  |
+| ☽ Moon | ♉ Taurus 25°43′ | Taurus | 1 | 14.508°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♉ Taurus 0°25′ | Aries | 1 | 0.045°/d |  |  |
+| ♀ Venus | ♈ Aries 4°24′ | Pisces | 12 | 1.071°/d | detriment |  |
+| ♂ Mars | ♍ Virgo 15°12′ | Leo | 5 | 0.172°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 15°40′ | Taurus | 2 | 0.219°/d | detriment |  |
+| ♄ Saturn | ♌ Leo 8°36′ | Cancer | 4 | 0.054°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 27°34′ | Capricornus | 10 | 0.018°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 4°34′ | Cancer | 4 | 0.014°/d |  |  |
+| ♇ Pluto | ♋ Cancer 4°00′ | Gemini | 3 | 0.018°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 24°09′ | Ophiuchus | 8 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 24°09′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

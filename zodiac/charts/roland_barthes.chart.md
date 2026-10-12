@@ -7,20 +7,20 @@ Born 1915-11-12 (gregorian calendar), Cherbourg, the birth in the naval port (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 18°31′ | 1 | 1.006°/d |  |  |
-| ☽ Moon | ♑ Capricornus 23°17′ | 3 | 14.250°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♏ Scorpio 0°33′ | 1 | 1.333°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 4°04′ | 2 | 1.249°/d |  |  |
-| ♂ Mars | ♌ Leo 17°27′ | 10 | 0.427°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 18°36′ | 5 | R -0.010°/d (stationary) | domicile |  |
-| ♄ Saturn | ♋ Cancer 16°27′ | 9 | R -0.024°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 11°57′ | 4 | 0.017°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 2°44′ | 10 | R -0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♋ Cancer 3°05′ | 9 | R -0.013°/d |  |  |
-| ☊ North Node | ♒ Aquarius 12°24′ | 4 | mean node |  |  |
-| ☋ South Node | ♌ Leo 12°24′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 18°31′ | Libra | 1 | 1.006°/d |  |  |
+| ☽ Moon | ♑ Capricornus 23°17′ | Sagittarius | 3 | 14.250°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♏ Scorpio 0°33′ | Virgo | 1 | 1.333°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 4°04′ | Scorpius | 2 | 1.249°/d |  |  |
+| ♂ Mars | ♌ Leo 17°27′ | Cancer | 10 | 0.427°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 18°36′ | Aquarius | 5 | R -0.010°/d (stationary) | domicile |  |
+| ♄ Saturn | ♋ Cancer 16°27′ | Gemini | 9 | R -0.024°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 11°57′ | Capricornus | 4 | 0.017°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 2°44′ | Cancer | 10 | R -0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♋ Cancer 3°05′ | Gemini | 9 | R -0.013°/d |  |  |
+| ☊ North Node | ♒ Aquarius 12°24′ | Capricornus | 4 | mean node |  |  |
+| ☋ South Node | ♌ Leo 12°24′ | Cancer | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

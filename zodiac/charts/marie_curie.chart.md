@@ -7,20 +7,20 @@ Born 1867-11-07 (gregorian calendar), Freta Street, the fifth child (lat 52.2515
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 14°08′ | 1 | 1.004°/d |  |  |
-| ☽ Moon | ♓ Pisces 10°55′ | 5 | 12.511°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 6°24′ | 2 | 0.568°/d | detriment |  |
-| ♀ Venus | ♏ Scorpio 25°02′ | 1 | 1.252°/d | detriment |  |
-| ♂ Mars | ♏ Scorpio 29°18′ | 1 | 0.719°/d | domicile |  |
-| ♃ Jupiter | ♒ Aquarius 28°10′ | 4 | 0.046°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 25°07′ | 1 | 0.117°/d |  |  |
-| ♅ Uranus | ♋ Cancer 12°41′ | 9 | R -0.016°/d |  |  |
-| ♆ Neptune | ♈ Aries 12°51′ | 6 | R -0.023°/d |  |  |
-| ♇ Pluto | ♉ Taurus 15°10′ | 7 | R -0.019°/d | detriment (modern) |  |
-| ☊ North Node | ♍ Virgo 11°00′ | 11 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 11°00′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 14°08′ | Libra | 1 | 1.004°/d |  |  |
+| ☽ Moon | ♓ Pisces 10°55′ | Aquarius | 5 | 12.511°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 6°24′ | Scorpius | 2 | 0.568°/d | detriment |  |
+| ♀ Venus | ♏ Scorpio 25°02′ | Libra | 1 | 1.252°/d | detriment |  |
+| ♂ Mars | ♏ Scorpio 29°18′ | Libra | 1 | 0.719°/d | domicile |  |
+| ♃ Jupiter | ♒ Aquarius 28°10′ | Aquarius | 4 | 0.046°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 25°07′ | Libra | 1 | 0.117°/d |  |  |
+| ♅ Uranus | ♋ Cancer 12°41′ | Gemini | 9 | R -0.016°/d |  |  |
+| ♆ Neptune | ♈ Aries 12°51′ | Pisces | 6 | R -0.023°/d |  |  |
+| ♇ Pluto | ♉ Taurus 15°10′ | Aries | 7 | R -0.019°/d | detriment (modern) |  |
+| ☊ North Node | ♍ Virgo 11°00′ | Leo | 11 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 11°00′ | Aquarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

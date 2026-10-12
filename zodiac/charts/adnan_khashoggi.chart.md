@@ -7,20 +7,20 @@ Born 1935-07-25 (gregorian calendar), Mecca, birth in the royal physician's hous
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 1°08′ | 1 | 0.955°/d | domicile |  |
-| ☽ Moon | ♉ Taurus 28°31′ | 10 | 13.192°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♋ Cancer 14°37′ | 12 | 1.710°/d |  |  |
-| ♀ Venus | ♍ Virgo 13°36′ | 2 | 0.671°/d | fall |  |
-| ♂ Mars | ♎ Libra 27°28′ | 3 | 0.524°/d | detriment |  |
-| ♃ Jupiter | ♏ Scorpio 13°37′ | 4 | 0.040°/d |  |  |
-| ♄ Saturn | ♓ Pisces 8°58′ | 8 | R -0.051°/d |  |  |
-| ♅ Uranus | ♉ Taurus 5°30′ | 10 | 0.014°/d |  |  |
-| ♆ Neptune | ♍ Virgo 12°51′ | 2 | 0.029°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 25°49′ | 12 | 0.027°/d |  |  |
-| ☊ North Node | ♑ Capricornus 21°24′ | 6 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 21°24′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 1°08′ | Cancer | 1 | 0.955°/d | domicile |  |
+| ☽ Moon | ♉ Taurus 28°31′ | Taurus | 10 | 13.192°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♋ Cancer 14°37′ | Gemini | 12 | 1.710°/d |  |  |
+| ♀ Venus | ♍ Virgo 13°36′ | Leo | 2 | 0.671°/d | fall |  |
+| ♂ Mars | ♎ Libra 27°28′ | Virgo | 3 | 0.524°/d | detriment |  |
+| ♃ Jupiter | ♏ Scorpio 13°37′ | Libra | 4 | 0.040°/d |  |  |
+| ♄ Saturn | ♓ Pisces 8°58′ | Aquarius | 8 | R -0.051°/d |  |  |
+| ♅ Uranus | ♉ Taurus 5°30′ | Aries | 10 | 0.014°/d |  |  |
+| ♆ Neptune | ♍ Virgo 12°51′ | Leo | 2 | 0.029°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 25°49′ | Gemini | 12 | 0.027°/d |  |  |
+| ☊ North Node | ♑ Capricornus 21°24′ | Sagittarius | 6 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 21°24′ | Gemini | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

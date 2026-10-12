@@ -7,20 +7,20 @@ Born 1992-03-05 (gregorian calendar), Stanford, born to two law professors (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 14°41′ | 1 | 1.002°/d |  |  |
-| ☽ Moon | ♓ Pisces 19°39′ | 1 | 12.280°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 1°40′ | 2 | 1.477°/d |  |  |
-| ♀ Venus | ♒ Aquarius 18°54′ | 12 | 1.235°/d |  |  |
-| ♂ Mars | ♒ Aquarius 12°09′ | 12 | 0.771°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 8°57′ | 7 | R -0.130°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 13°07′ | 12 | 0.108°/d | domicile |  |
-| ♅ Uranus | ♑ Capricornus 17°04′ | 11 | 0.038°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 18°23′ | 11 | 0.024°/d |  |  |
-| ♇ Pluto | ♏ Scorpio 22°59′ | 9 | R -0.005°/d (stationary) | domicile (modern) |  |
-| ☊ North Node | ♑ Capricornus 6°25′ | 11 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 6°25′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 14°41′ | Aquarius | 1 | 1.002°/d |  |  |
+| ☽ Moon | ♓ Pisces 19°39′ | Aquarius | 1 | 12.280°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 1°40′ | Pisces | 2 | 1.477°/d |  |  |
+| ♀ Venus | ♒ Aquarius 18°54′ | Capricornus | 12 | 1.235°/d |  |  |
+| ♂ Mars | ♒ Aquarius 12°09′ | Capricornus | 12 | 0.771°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 8°57′ | Leo | 7 | R -0.130°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 13°07′ | Capricornus | 12 | 0.108°/d | domicile |  |
+| ♅ Uranus | ♑ Capricornus 17°04′ | Sagittarius | 11 | 0.038°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 18°23′ | Sagittarius | 11 | 0.024°/d |  |  |
+| ♇ Pluto | ♏ Scorpio 22°59′ | Libra | 9 | R -0.005°/d (stationary) | domicile (modern) |  |
+| ☊ North Node | ♑ Capricornus 6°25′ | Sagittarius | 11 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 6°25′ | Gemini | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

@@ -7,20 +7,20 @@ Born 1905-06-21 (gregorian calendar), Paris, 13 rue Mignard: the fatherless star
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 28°57′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♒ Aquarius 15°55′ | 9 | 12.742°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 24°45′ | 1 | 2.178°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 14°21′ | 12 | 0.808°/d | domicile |  |
-| ♂ Mars | ♏ Scorpio 8°22′ | 6 | 0.050°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 24°06′ | 12 | 0.215°/d |  |  |
-| ♄ Saturn | ♓ Pisces 2°42′ | 10 | R -0.012°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 2°19′ | 8 | R -0.041°/d |  |  |
-| ♆ Neptune | ♋ Cancer 7°36′ | 2 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 21°26′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♍ Virgo 3°24′ | 4 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 3°24′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 28°57′ | Taurus | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♒ Aquarius 15°55′ | Capricornus | 9 | 12.742°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 24°45′ | Taurus | 1 | 2.178°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 14°21′ | Aries | 12 | 0.808°/d | domicile |  |
+| ♂ Mars | ♏ Scorpio 8°22′ | Libra | 6 | 0.050°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 24°06′ | Taurus | 12 | 0.215°/d |  |  |
+| ♄ Saturn | ♓ Pisces 2°42′ | Aquarius | 10 | R -0.012°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 2°19′ | Sagittarius | 8 | R -0.041°/d |  |  |
+| ♆ Neptune | ♋ Cancer 7°36′ | Gemini | 2 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 21°26′ | Taurus | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♍ Virgo 3°24′ | Leo | 4 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 3°24′ | Aquarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

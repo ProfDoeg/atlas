@@ -7,20 +7,20 @@ Born 1885-06-19 (gregorian calendar), Berlin, the birth into poverty (lat 52.520
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 27°50′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♍ Virgo 20°40′ | 4 | 13.508°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 17°31′ | 1 | 2.065°/d | domicile |  |
-| ♀ Venus | ♋ Cancer 10°02′ | 2 | 1.226°/d |  |  |
-| ♂ Mars | ♊ Gemini 0°10′ | 1 | 0.712°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 0°29′ | 4 | 0.147°/d | detriment |  |
-| ♄ Saturn | ♊ Gemini 27°45′ | 1 | 0.130°/d |  |  |
-| ♅ Uranus | ♍ Virgo 28°39′ | 4 | 0.012°/d |  |  |
-| ♆ Neptune | ♉ Taurus 24°20′ | 12 | 0.032°/d |  |  |
-| ♇ Pluto | ♊ Gemini 2°16′ | 1 | 0.021°/d |  |  |
-| ☊ North Node | ♎ Libra 0°17′ | 5 | mean node |  |  |
-| ☋ South Node | ♈ Aries 0°17′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 27°50′ | Taurus | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♍ Virgo 20°40′ | Leo | 4 | 13.508°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 17°31′ | Taurus | 1 | 2.065°/d | domicile |  |
+| ♀ Venus | ♋ Cancer 10°02′ | Gemini | 2 | 1.226°/d |  |  |
+| ♂ Mars | ♊ Gemini 0°10′ | Taurus | 1 | 0.712°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 0°29′ | Leo | 4 | 0.147°/d | detriment |  |
+| ♄ Saturn | ♊ Gemini 27°45′ | Taurus | 1 | 0.130°/d |  |  |
+| ♅ Uranus | ♍ Virgo 28°39′ | Virgo | 4 | 0.012°/d |  |  |
+| ♆ Neptune | ♉ Taurus 24°20′ | Taurus | 12 | 0.032°/d |  |  |
+| ♇ Pluto | ♊ Gemini 2°16′ | Taurus | 1 | 0.021°/d |  |  |
+| ☊ North Node | ♎ Libra 0°17′ | Virgo | 5 | mean node |  |  |
+| ☋ South Node | ♈ Aries 0°17′ | Pisces | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

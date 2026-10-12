@@ -7,20 +7,20 @@ Born 1878-02-16 (gregorian calendar), 28 Belgrave Road, Pimlico: the birth (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 27°14′ | 1 | 1.009°/d | detriment |  |
-| ☽ Moon | ♌ Leo 6°35′ | 7 | 14.865°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♒ Aquarius 4°27′ | 1 | 1.384°/d |  |  |
-| ♀ Venus | ♓ Pisces 5°42′ | 2 | R -0.572°/d | exaltation |  |
-| ♂ Mars | ♉ Taurus 10°03′ | 4 | 0.626°/d | detriment |  |
-| ♃ Jupiter | ♑ Capricornus 24°41′ | 12 | 0.215°/d | fall |  |
-| ♄ Saturn | ♓ Pisces 19°36′ | 2 | 0.118°/d |  |  |
-| ♅ Uranus | ♌ Leo 27°14′ | 7 | R -0.044°/d | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 5°04′ | 4 | 0.018°/d |  |  |
-| ♇ Pluto | ♉ Taurus 23°37′ | 4 | 0.004°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 22°12′ | 1 | mean node |  |  |
-| ☋ South Node | ♌ Leo 22°12′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 27°14′ | Capricornus | 1 | 1.009°/d | detriment |  |
+| ☽ Moon | ♌ Leo 6°35′ | Cancer | 7 | 14.865°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♒ Aquarius 4°27′ | Capricornus | 1 | 1.384°/d |  |  |
+| ♀ Venus | ♓ Pisces 5°42′ | Aquarius | 2 | R -0.572°/d | exaltation |  |
+| ♂ Mars | ♉ Taurus 10°03′ | Aries | 4 | 0.626°/d | detriment |  |
+| ♃ Jupiter | ♑ Capricornus 24°41′ | Sagittarius | 12 | 0.215°/d | fall |  |
+| ♄ Saturn | ♓ Pisces 19°36′ | Aquarius | 2 | 0.118°/d |  |  |
+| ♅ Uranus | ♌ Leo 27°14′ | Leo | 7 | R -0.044°/d | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 5°04′ | Aries | 4 | 0.018°/d |  |  |
+| ♇ Pluto | ♉ Taurus 23°37′ | Taurus | 4 | 0.004°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 22°12′ | Capricornus | 1 | mean node |  |  |
+| ☋ South Node | ♌ Leo 22°12′ | Leo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

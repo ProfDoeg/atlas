@@ -7,20 +7,20 @@ Born 1964-03-05 (gregorian calendar), Paris, the birth (lat 48.8566, lng 2.3522,
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 14°28′ | 1 | 1.002°/d |  |  |
-| ☽ Moon | ♏ Scorpio 29°08′ | 9 | 11.854°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♓ Pisces 7°10′ | 1 | 1.801°/d | detriment, fall |  |
-| ♀ Venus | ♈ Aries 27°08′ | 2 | 1.146°/d | detriment |  |
-| ♂ Mars | ♓ Pisces 10°49′ | 1 | 0.788°/d |  |  |
-| ♃ Jupiter | ♈ Aries 21°09′ | 2 | 0.217°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 27°45′ | 12 | 0.117°/d | domicile |  |
-| ♅ Uranus | ♍ Virgo 7°35′ | 7 | R -0.043°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 17°49′ | 9 | R -0.009°/d (stationary) |  |  |
-| ♇ Pluto | ♍ Virgo 12°57′ | 7 | R -0.026°/d |  |  |
-| ☊ North Node | ♋ Cancer 7°58′ | 5 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 7°58′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 14°28′ | Aquarius | 1 | 1.002°/d |  |  |
+| ☽ Moon | ♏ Scorpio 29°08′ | Libra | 9 | 11.854°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♓ Pisces 7°10′ | Aquarius | 1 | 1.801°/d | detriment, fall |  |
+| ♀ Venus | ♈ Aries 27°08′ | Pisces | 2 | 1.146°/d | detriment |  |
+| ♂ Mars | ♓ Pisces 10°49′ | Aquarius | 1 | 0.788°/d |  |  |
+| ♃ Jupiter | ♈ Aries 21°09′ | Pisces | 2 | 0.217°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 27°45′ | Capricornus | 12 | 0.117°/d | domicile |  |
+| ♅ Uranus | ♍ Virgo 7°35′ | Leo | 7 | R -0.043°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 17°49′ | Libra | 9 | R -0.009°/d (stationary) |  |  |
+| ♇ Pluto | ♍ Virgo 12°57′ | Leo | 7 | R -0.026°/d |  |  |
+| ☊ North Node | ♋ Cancer 7°58′ | Gemini | 5 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 7°58′ | Sagittarius | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

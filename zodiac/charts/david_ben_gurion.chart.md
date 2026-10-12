@@ -7,20 +7,20 @@ Born 1886-10-16 (gregorian calendar), Płońsk, birth in the Grün house (lat 52
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 22°34′ | 1 | 0.993°/d | fall |  |
-| ☽ Moon | ♉ Taurus 25°37′ | 8 | 12.845°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♏ Scorpio 4°35′ | 2 | 1.553°/d |  |  |
-| ♀ Venus | ♎ Libra 10°30′ | 1 | 1.250°/d | domicile |  |
-| ♂ Mars | ♐ Sagittarius 7°25′ | 3 | 0.723°/d |  |  |
-| ♃ Jupiter | ♎ Libra 17°43′ | 1 | 0.217°/d |  |  |
-| ♄ Saturn | ♋ Cancer 22°13′ | 10 | 0.035°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 8°50′ | 1 | 0.062°/d |  |  |
-| ♆ Neptune | ♉ Taurus 27°18′ | 8 | R -0.022°/d |  |  |
-| ♇ Pluto | ♊ Gemini 3°47′ | 9 | R -0.014°/d |  |  |
-| ☊ North Node | ♍ Virgo 4°40′ | 12 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 4°40′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 22°34′ | Virgo | 1 | 0.993°/d | fall |  |
+| ☽ Moon | ♉ Taurus 25°37′ | Taurus | 8 | 12.845°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♏ Scorpio 4°35′ | Virgo | 2 | 1.553°/d |  |  |
+| ♀ Venus | ♎ Libra 10°30′ | Virgo | 1 | 1.250°/d | domicile |  |
+| ♂ Mars | ♐ Sagittarius 7°25′ | Scorpius | 3 | 0.723°/d |  |  |
+| ♃ Jupiter | ♎ Libra 17°43′ | Virgo | 1 | 0.217°/d |  |  |
+| ♄ Saturn | ♋ Cancer 22°13′ | Gemini | 10 | 0.035°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 8°50′ | Virgo | 1 | 0.062°/d |  |  |
+| ♆ Neptune | ♉ Taurus 27°18′ | Taurus | 8 | R -0.022°/d |  |  |
+| ♇ Pluto | ♊ Gemini 3°47′ | Taurus | 9 | R -0.014°/d |  |  |
+| ☊ North Node | ♍ Virgo 4°40′ | Leo | 12 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 4°40′ | Aquarius | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

@@ -7,20 +7,20 @@ Born 1944-02-16 (gregorian calendar), Brooklyn, born in the winter of 1944 (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 26°13′ | 1 | 1.010°/d | detriment |  |
-| ☽ Moon | ♏ Scorpio 10°41′ | 10 | 12.557°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 4°47′ | 1 | 1.430°/d |  |  |
-| ♀ Venus | ♑ Capricornus 23°02′ | 12 | 1.224°/d |  |  |
-| ♂ Mars | ♊ Gemini 11°59′ | 5 | 0.344°/d |  |  |
-| ♃ Jupiter | ♌ Leo 21°31′ | 7 | R -0.132°/d |  |  |
-| ♄ Saturn | ♊ Gemini 19°33′ | 5 | R -0.008°/d (stationary) |  |  |
-| ♅ Uranus | ♊ Gemini 4°52′ | 5 | 0.003°/d (stationary) |  |  |
-| ♆ Neptune | ♎ Libra 3°54′ | 9 | R -0.021°/d |  |  |
-| ♇ Pluto | ♌ Leo 7°13′ | 7 | R -0.022°/d |  |  |
-| ☊ North Node | ♌ Leo 5°45′ | 7 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 5°45′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 26°13′ | Capricornus | 1 | 1.010°/d | detriment |  |
+| ☽ Moon | ♏ Scorpio 10°41′ | Libra | 10 | 12.557°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 4°47′ | Capricornus | 1 | 1.430°/d |  |  |
+| ♀ Venus | ♑ Capricornus 23°02′ | Sagittarius | 12 | 1.224°/d |  |  |
+| ♂ Mars | ♊ Gemini 11°59′ | Taurus | 5 | 0.344°/d |  |  |
+| ♃ Jupiter | ♌ Leo 21°31′ | Leo | 7 | R -0.132°/d |  |  |
+| ♄ Saturn | ♊ Gemini 19°33′ | Taurus | 5 | R -0.008°/d (stationary) |  |  |
+| ♅ Uranus | ♊ Gemini 4°52′ | Taurus | 5 | 0.003°/d (stationary) |  |  |
+| ♆ Neptune | ♎ Libra 3°54′ | Virgo | 9 | R -0.021°/d |  |  |
+| ♇ Pluto | ♌ Leo 7°13′ | Cancer | 7 | R -0.022°/d |  |  |
+| ☊ North Node | ♌ Leo 5°45′ | Cancer | 7 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 5°45′ | Capricornus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

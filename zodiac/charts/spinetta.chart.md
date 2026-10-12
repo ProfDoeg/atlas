@@ -7,20 +7,20 @@ Born 1950-01-23 (gregorian calendar), Buenos Aires, the house at Arribeños 2853
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 2°26′ | 1 | 1.017°/d | detriment |  |
-| ☽ Moon | ♓ Pisces 27°40′ | 2 | 12.143°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♑ Capricornus 20°49′ | 12 | R -0.900°/d |  |  |
-| ♀ Venus | ♒ Aquarius 15°37′ | 1 | R -0.487°/d |  |  |
-| ♂ Mars | ♎ Libra 8°44′ | 9 | 0.214°/d | detriment |  |
-| ♃ Jupiter | ♒ Aquarius 11°40′ | 1 | 0.237°/d |  |  |
-| ♄ Saturn | ♍ Virgo 19°01′ | 8 | R -0.042°/d |  |  |
-| ♅ Uranus | ♋ Cancer 1°47′ | 6 | R -0.035°/d |  |  |
-| ♆ Neptune | ♎ Libra 17°25′ | 9 | R -0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♌ Leo 17°23′ | 7 | R -0.023°/d |  |  |
-| ☊ North Node | ♈ Aries 10°57′ | 3 | mean node |  |  |
-| ☋ South Node | ♎ Libra 10°57′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 2°26′ | Capricornus | 1 | 1.017°/d | detriment |  |
+| ☽ Moon | ♓ Pisces 27°40′ | Pisces | 2 | 12.143°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♑ Capricornus 20°49′ | Sagittarius | 12 | R -0.900°/d |  |  |
+| ♀ Venus | ♒ Aquarius 15°37′ | Capricornus | 1 | R -0.487°/d |  |  |
+| ♂ Mars | ♎ Libra 8°44′ | Virgo | 9 | 0.214°/d | detriment |  |
+| ♃ Jupiter | ♒ Aquarius 11°40′ | Capricornus | 1 | 0.237°/d |  |  |
+| ♄ Saturn | ♍ Virgo 19°01′ | Leo | 8 | R -0.042°/d |  |  |
+| ♅ Uranus | ♋ Cancer 1°47′ | Gemini | 6 | R -0.035°/d |  |  |
+| ♆ Neptune | ♎ Libra 17°25′ | Virgo | 9 | R -0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♌ Leo 17°23′ | Cancer | 7 | R -0.023°/d |  |  |
+| ☊ North Node | ♈ Aries 10°57′ | Pisces | 3 | mean node |  |  |
+| ☋ South Node | ♎ Libra 10°57′ | Virgo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

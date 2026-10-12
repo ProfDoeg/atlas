@@ -7,20 +7,20 @@ Born 1860-05-02 (gregorian calendar), Pest, birth on Dohany utca (lat 47.4958, l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 11°47′ | 1 | 0.969°/d |  |  |
-| ☽ Moon | ♍ Virgo 27°01′ | 5 | 14.595°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♈ Aries 15°10′ | 12 | 1.027°/d |  |  |
-| ♀ Venus | ♊ Gemini 26°59′ | 2 | 1.017°/d |  |  |
-| ♂ Mars | ♑ Capricornus 19°25′ | 9 | 0.411°/d | exaltation |  |
-| ♃ Jupiter | ♋ Cancer 19°10′ | 3 | 0.141°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 19°23′ | 4 | 0.021°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 6°17′ | 2 | 0.055°/d |  |  |
-| ♆ Neptune | ♓ Pisces 28°24′ | 11 | 0.029°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 8°07′ | 1 | 0.023°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 6°21′ | 10 | mean node |  |  |
-| ☋ South Node | ♌ Leo 6°21′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 11°47′ | Aries | 1 | 0.969°/d |  |  |
+| ☽ Moon | ♍ Virgo 27°01′ | Virgo | 5 | 14.595°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♈ Aries 15°10′ | Pisces | 12 | 1.027°/d |  |  |
+| ♀ Venus | ♊ Gemini 26°59′ | Taurus | 2 | 1.017°/d |  |  |
+| ♂ Mars | ♑ Capricornus 19°25′ | Sagittarius | 9 | 0.411°/d | exaltation |  |
+| ♃ Jupiter | ♋ Cancer 19°10′ | Gemini | 3 | 0.141°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 19°23′ | Leo | 4 | 0.021°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 6°17′ | Taurus | 2 | 0.055°/d |  |  |
+| ♆ Neptune | ♓ Pisces 28°24′ | Pisces | 11 | 0.029°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 8°07′ | Aries | 1 | 0.023°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 6°21′ | Capricornus | 10 | mean node |  |  |
+| ☋ South Node | ♌ Leo 6°21′ | Cancer | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

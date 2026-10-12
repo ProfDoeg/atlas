@@ -7,20 +7,20 @@ Born 1827-04-02 (gregorian calendar), Wood Street, Cheapside: the warehouse mana
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 11°30′ | 1 | 0.985°/d | exaltation |  |
-| ☽ Moon | ♊ Gemini 13°09′ | 3 | 11.818°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 17°57′ | 1 | R -0.620°/d |  |  |
-| ♀ Venus | ♒ Aquarius 26°52′ | 11 | 1.114°/d |  |  |
-| ♂ Mars | ♉ Taurus 10°16′ | 2 | 0.715°/d | detriment |  |
-| ♃ Jupiter | ♎ Libra 9°18′ | 7 | R -0.129°/d |  |  |
-| ♄ Saturn | ♋ Cancer 0°07′ | 4 | 0.056°/d | detriment |  |
-| ♅ Uranus | ♑ Capricornus 27°51′ | 10 | 0.026°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 16°07′ | 10 | 0.009°/d (stationary) |  |  |
-| ♇ Pluto | ♈ Aries 5°02′ | 1 | 0.025°/d |  |  |
-| ☊ North Node | ♏ Scorpio 16°15′ | 8 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 16°15′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 11°30′ | Pisces | 1 | 0.985°/d | exaltation |  |
+| ☽ Moon | ♊ Gemini 13°09′ | Taurus | 3 | 11.818°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 17°57′ | Pisces | 1 | R -0.620°/d |  |  |
+| ♀ Venus | ♒ Aquarius 26°52′ | Capricornus | 11 | 1.114°/d |  |  |
+| ♂ Mars | ♉ Taurus 10°16′ | Aries | 2 | 0.715°/d | detriment |  |
+| ♃ Jupiter | ♎ Libra 9°18′ | Virgo | 7 | R -0.129°/d |  |  |
+| ♄ Saturn | ♋ Cancer 0°07′ | Taurus | 4 | 0.056°/d | detriment |  |
+| ♅ Uranus | ♑ Capricornus 27°51′ | Sagittarius | 10 | 0.026°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 16°07′ | Sagittarius | 10 | 0.009°/d (stationary) |  |  |
+| ♇ Pluto | ♈ Aries 5°02′ | Pisces | 1 | 0.025°/d |  |  |
+| ☊ North Node | ♏ Scorpio 16°15′ | Libra | 8 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 16°15′ | Aries | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

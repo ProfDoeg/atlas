@@ -7,20 +7,20 @@ Born 1493-06-10 (julian calendar), Augsburg, Fuggerhäuser: the third son (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 27°34′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♉ Taurus 5°59′ | 12 | 13.939°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♋ Cancer 22°33′ | 2 | 0.792°/d |  |  |
-| ♀ Venus | ♊ Gemini 10°38′ | 1 | 1.218°/d |  |  |
-| ♂ Mars | ♎ Libra 6°18′ | 5 | 0.397°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 11°10′ | 3 | 0.185°/d |  |  |
-| ♄ Saturn | ♓ Pisces 2°26′ | 10 | R -0.011°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 1°23′ | 9 | R -0.031°/d | domicile (modern) |  |
-| ♆ Neptune | ♑ Capricornus 0°28′ | 8 | R -0.027°/d |  |  |
-| ♇ Pluto | ♏ Scorpio 4°52′ | 6 | R -0.014°/d | domicile (modern) |  |
-| ☊ North Node | ♎ Libra 22°00′ | 5 | mean node |  |  |
-| ☋ South Node | ♈ Aries 22°00′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 27°34′ | Taurus | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♉ Taurus 5°59′ | Aries | 12 | 13.939°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♋ Cancer 22°33′ | Gemini | 2 | 0.792°/d |  |  |
+| ♀ Venus | ♊ Gemini 10°38′ | Taurus | 1 | 1.218°/d |  |  |
+| ♂ Mars | ♎ Libra 6°18′ | Virgo | 5 | 0.397°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 11°10′ | Cancer | 3 | 0.185°/d |  |  |
+| ♄ Saturn | ♓ Pisces 2°26′ | Aquarius | 10 | R -0.011°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 1°23′ | Capricornus | 9 | R -0.031°/d | domicile (modern) |  |
+| ♆ Neptune | ♑ Capricornus 0°28′ | Sagittarius | 8 | R -0.027°/d |  |  |
+| ♇ Pluto | ♏ Scorpio 4°52′ | Virgo | 6 | R -0.014°/d | domicile (modern) |  |
+| ☊ North Node | ♎ Libra 22°00′ | Virgo | 5 | mean node |  |  |
+| ☋ South Node | ♈ Aries 22°00′ | Pisces | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

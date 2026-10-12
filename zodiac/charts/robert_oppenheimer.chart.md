@@ -7,20 +7,20 @@ Born 1904-04-22 (gregorian calendar), Riverside Drive: the house of paintings (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 1°26′ | 1 | 0.975°/d |  |  |
-| ☽ Moon | ♋ Cancer 15°48′ | 3 | 13.838°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 21°27′ | 1 | 0.955°/d |  |  |
-| ♀ Venus | ♈ Aries 10°52′ | 12 | 1.226°/d | detriment |  |
-| ♂ Mars | ♉ Taurus 11°13′ | 1 | 0.729°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 12°26′ | 12 | 0.235°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 19°37′ | 10 | 0.062°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 29°44′ | 8 | R -0.015°/d |  |  |
-| ♆ Neptune | ♋ Cancer 3°36′ | 3 | 0.021°/d |  |  |
-| ♇ Pluto | ♊ Gemini 19°10′ | 2 | 0.017°/d |  |  |
-| ☊ North Node | ♍ Virgo 25°55′ | 5 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 25°55′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 1°26′ | Aries | 1 | 0.975°/d |  |  |
+| ☽ Moon | ♋ Cancer 15°48′ | Gemini | 3 | 13.838°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 21°27′ | Aries | 1 | 0.955°/d |  |  |
+| ♀ Venus | ♈ Aries 10°52′ | Pisces | 12 | 1.226°/d | detriment |  |
+| ♂ Mars | ♉ Taurus 11°13′ | Aries | 1 | 0.729°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 12°26′ | Pisces | 12 | 0.235°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 19°37′ | Capricornus | 10 | 0.062°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 29°44′ | Sagittarius | 8 | R -0.015°/d |  |  |
+| ♆ Neptune | ♋ Cancer 3°36′ | Gemini | 3 | 0.021°/d |  |  |
+| ♇ Pluto | ♊ Gemini 19°10′ | Taurus | 2 | 0.017°/d |  |  |
+| ☊ North Node | ♍ Virgo 25°55′ | Virgo | 5 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 25°55′ | Pisces | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

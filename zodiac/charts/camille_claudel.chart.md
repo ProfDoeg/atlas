@@ -7,20 +7,20 @@ Born 1864-12-08 (gregorian calendar), Fere-en-Tardenois, birth in the registrar'
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 16°13′ | 1 | 1.016°/d |  |  |
-| ☽ Moon | ♈ Aries 8°19′ | 5 | 14.105°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 1°11′ | 2 | 1.506°/d |  |  |
-| ♀ Venus | ♑ Capricornus 21°53′ | 2 | 1.221°/d |  |  |
-| ♂ Mars | ♊ Gemini 6°52′ | 7 | R -0.350°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 10°09′ | 1 | 0.225°/d | domicile |  |
-| ♄ Saturn | ♎ Libra 27°12′ | 11 | 0.093°/d | exaltation |  |
-| ♅ Uranus | ♊ Gemini 27°53′ | 7 | R -0.042°/d |  |  |
-| ♆ Neptune | ♈ Aries 5°33′ | 5 | R -0.005°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 11°43′ | 6 | R -0.015°/d | detriment (modern) |  |
-| ☊ North Node | ♏ Scorpio 7°20′ | 12 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 7°20′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 16°13′ | Ophiuchus | 1 | 1.016°/d |  |  |
+| ☽ Moon | ♈ Aries 8°19′ | Pisces | 5 | 14.105°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 1°11′ | Sagittarius | 2 | 1.506°/d |  |  |
+| ♀ Venus | ♑ Capricornus 21°53′ | Sagittarius | 2 | 1.221°/d |  |  |
+| ♂ Mars | ♊ Gemini 6°52′ | Taurus | 7 | R -0.350°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 10°09′ | Ophiuchus | 1 | 0.225°/d | domicile |  |
+| ♄ Saturn | ♎ Libra 27°12′ | Virgo | 11 | 0.093°/d | exaltation |  |
+| ♅ Uranus | ♊ Gemini 27°53′ | Taurus | 7 | R -0.042°/d |  |  |
+| ♆ Neptune | ♈ Aries 5°33′ | Pisces | 5 | R -0.005°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 11°43′ | Aries | 6 | R -0.015°/d | detriment (modern) |  |
+| ☊ North Node | ♏ Scorpio 7°20′ | Virgo | 12 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 7°20′ | Aries | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

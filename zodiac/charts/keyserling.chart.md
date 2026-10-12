@@ -7,20 +7,20 @@ Born 1880-07-20 (gregorian calendar), Könno (Kõnnu) manor, Livonia, the birth 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 27°36′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♑ Capricornus 1°20′ | 7 | 14.938°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♌ Leo 19°53′ | 2 | 0.200°/d |  |  |
-| ♀ Venus | ♋ Cancer 29°15′ | 1 | 1.232°/d |  |  |
-| ♂ Mars | ♌ Leo 29°22′ | 2 | 0.621°/d |  |  |
-| ♃ Jupiter | ♈ Aries 19°04′ | 10 | 0.063°/d |  |  |
-| ♄ Saturn | ♈ Aries 28°17′ | 10 | 0.036°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 6°38′ | 3 | 0.052°/d |  |  |
-| ♆ Neptune | ♉ Taurus 14°07′ | 11 | 0.015°/d |  |  |
-| ♇ Pluto | ♉ Taurus 28°09′ | 11 | 0.013°/d | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 5°20′ | 7 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 5°20′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 27°36′ | Gemini | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♑ Capricornus 1°20′ | Sagittarius | 7 | 14.938°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♌ Leo 19°53′ | Leo | 2 | 0.200°/d |  |  |
+| ♀ Venus | ♋ Cancer 29°15′ | Cancer | 1 | 1.232°/d |  |  |
+| ♂ Mars | ♌ Leo 29°22′ | Leo | 2 | 0.621°/d |  |  |
+| ♃ Jupiter | ♈ Aries 19°04′ | Pisces | 10 | 0.063°/d |  |  |
+| ♄ Saturn | ♈ Aries 28°17′ | Pisces | 10 | 0.036°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 6°38′ | Leo | 3 | 0.052°/d |  |  |
+| ♆ Neptune | ♉ Taurus 14°07′ | Aries | 11 | 0.015°/d |  |  |
+| ♇ Pluto | ♉ Taurus 28°09′ | Taurus | 11 | 0.013°/d | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 5°20′ | Sagittarius | 7 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 5°20′ | Gemini | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

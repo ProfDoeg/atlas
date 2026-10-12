@@ -7,20 +7,20 @@ Born 1976-02-24 (gregorian calendar), Kiryat Ata, the youngest of three (lat 32.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 4°31′ | 1 | 1.006°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 25°07′ | 10 | 13.229°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♒ Aquarius 9°17′ | 12 | 1.263°/d |  |  |
-| ♀ Venus | ♒ Aquarius 5°18′ | 12 | 1.232°/d |  |  |
-| ♂ Mars | ♊ Gemini 20°54′ | 4 | 0.324°/d |  |  |
-| ♃ Jupiter | ♈ Aries 23°14′ | 2 | 0.197°/d |  |  |
-| ♄ Saturn | ♋ Cancer 27°04′ | 5 | R -0.056°/d | detriment |  |
-| ♅ Uranus | ♏ Scorpio 6°54′ | 9 | R -0.012°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 13°53′ | 10 | 0.012°/d |  |  |
-| ♇ Pluto | ♎ Libra 11°19′ | 8 | R -0.021°/d |  |  |
-| ☊ North Node | ♏ Scorpio 16°24′ | 9 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 16°24′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 4°31′ | Aquarius | 1 | 1.006°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 25°07′ | Ophiuchus | 10 | 13.229°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♒ Aquarius 9°17′ | Capricornus | 12 | 1.263°/d |  |  |
+| ♀ Venus | ♒ Aquarius 5°18′ | Capricornus | 12 | 1.232°/d |  |  |
+| ♂ Mars | ♊ Gemini 20°54′ | Taurus | 4 | 0.324°/d |  |  |
+| ♃ Jupiter | ♈ Aries 23°14′ | Pisces | 2 | 0.197°/d |  |  |
+| ♄ Saturn | ♋ Cancer 27°04′ | Gemini | 5 | R -0.056°/d | detriment |  |
+| ♅ Uranus | ♏ Scorpio 6°54′ | Virgo | 9 | R -0.012°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 13°53′ | Ophiuchus | 10 | 0.012°/d |  |  |
+| ♇ Pluto | ♎ Libra 11°19′ | Virgo | 8 | R -0.021°/d |  |  |
+| ☊ North Node | ♏ Scorpio 16°24′ | Libra | 9 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 16°24′ | Aries | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

@@ -7,20 +7,20 @@ Born 1935-01-19 (gregorian calendar), Castellammare di Stabia, born to the Lampe
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 27°59′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♋ Cancer 20°49′ | 7 | 11.972°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 10°01′ | 2 | 1.677°/d |  |  |
-| ♀ Venus | ♒ Aquarius 12°37′ | 2 | 1.253°/d |  |  |
-| ♂ Mars | ♎ Libra 16°48′ | 10 | 0.350°/d | detriment |  |
-| ♃ Jupiter | ♏ Scorpio 19°34′ | 11 | 0.137°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 26°36′ | 2 | 0.111°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 27°41′ | 4 | 0.011°/d |  |  |
-| ♆ Neptune | ♍ Virgo 14°22′ | 9 | R -0.017°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 24°56′ | 7 | R -0.022°/d |  |  |
-| ☊ North Node | ♒ Aquarius 1°18′ | 2 | mean node |  |  |
-| ☋ South Node | ♌ Leo 1°18′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 27°59′ | Sagittarius | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♋ Cancer 20°49′ | Gemini | 7 | 11.972°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 10°01′ | Capricornus | 2 | 1.677°/d |  |  |
+| ♀ Venus | ♒ Aquarius 12°37′ | Capricornus | 2 | 1.253°/d |  |  |
+| ♂ Mars | ♎ Libra 16°48′ | Virgo | 10 | 0.350°/d | detriment |  |
+| ♃ Jupiter | ♏ Scorpio 19°34′ | Libra | 11 | 0.137°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 26°36′ | Capricornus | 2 | 0.111°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 27°41′ | Pisces | 4 | 0.011°/d |  |  |
+| ♆ Neptune | ♍ Virgo 14°22′ | Leo | 9 | R -0.017°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 24°56′ | Gemini | 7 | R -0.022°/d |  |  |
+| ☊ North Node | ♒ Aquarius 1°18′ | Capricornus | 2 | mean node |  |  |
+| ☋ South Node | ♌ Leo 1°18′ | Cancer | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

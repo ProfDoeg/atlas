@@ -7,20 +7,20 @@ Born 1878-10-30 (gregorian calendar), Frankfurt am Main, birth in a house of acc
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 6°27′ | 1 | 1.000°/d |  |  |
-| ☽ Moon | ♑ Capricornus 1°28′ | 3 | 13.698°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♏ Scorpio 9°43′ | 1 | 1.611°/d |  |  |
-| ♀ Venus | ♎ Libra 27°21′ | 12 | 1.254°/d | domicile |  |
-| ♂ Mars | ♎ Libra 22°32′ | 12 | 0.662°/d | detriment |  |
-| ♃ Jupiter | ♑ Capricornus 29°33′ | 3 | 0.111°/d | fall |  |
-| ♄ Saturn | ♓ Pisces 26°33′ | 5 | R -0.050°/d |  |  |
-| ♅ Uranus | ♍ Virgo 3°17′ | 11 | 0.036°/d |  |  |
-| ♆ Neptune | ♉ Taurus 8°27′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♉ Taurus 25°52′ | 7 | R -0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 8°39′ | 4 | mean node |  |  |
-| ☋ South Node | ♌ Leo 8°39′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 6°27′ | Virgo | 1 | 1.000°/d |  |  |
+| ☽ Moon | ♑ Capricornus 1°28′ | Sagittarius | 3 | 13.698°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♏ Scorpio 9°43′ | Libra | 1 | 1.611°/d |  |  |
+| ♀ Venus | ♎ Libra 27°21′ | Virgo | 12 | 1.254°/d | domicile |  |
+| ♂ Mars | ♎ Libra 22°32′ | Virgo | 12 | 0.662°/d | detriment |  |
+| ♃ Jupiter | ♑ Capricornus 29°33′ | Sagittarius | 3 | 0.111°/d | fall |  |
+| ♄ Saturn | ♓ Pisces 26°33′ | Pisces | 5 | R -0.050°/d |  |  |
+| ♅ Uranus | ♍ Virgo 3°17′ | Leo | 11 | 0.036°/d |  |  |
+| ♆ Neptune | ♉ Taurus 8°27′ | Aries | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♉ Taurus 25°52′ | Taurus | 7 | R -0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 8°39′ | Capricornus | 4 | mean node |  |  |
+| ☋ South Node | ♌ Leo 8°39′ | Cancer | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

@@ -7,20 +7,20 @@ Born 1938-07-28 (gregorian calendar), Lima, a birth on a disputed day (lat -12.0
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 4°16′ | 1 | 0.956°/d | domicile |  |
-| ☽ Moon | ♌ Leo 16°08′ | 1 | 15.050°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 1°12′ | 2 | 1.117°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 15°47′ | 2 | 1.134°/d | fall |  |
-| ♂ Mars | ♌ Leo 3°16′ | 1 | 0.644°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 0°23′ | 8 | R -0.104°/d | domicile |  |
-| ♄ Saturn | ♈ Aries 17°41′ | 9 | 0.004°/d (stationary) | fall |  |
-| ♅ Uranus | ♉ Taurus 17°37′ | 10 | 0.022°/d |  |  |
-| ♆ Neptune | ♍ Virgo 19°19′ | 2 | 0.028°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 29°52′ | 12 | 0.028°/d |  |  |
-| ☊ North Node | ♏ Scorpio 23°12′ | 4 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 23°12′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 4°16′ | Cancer | 1 | 0.956°/d | domicile |  |
+| ☽ Moon | ♌ Leo 16°08′ | Cancer | 1 | 15.050°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 1°12′ | Leo | 2 | 1.117°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 15°47′ | Leo | 2 | 1.134°/d | fall |  |
+| ♂ Mars | ♌ Leo 3°16′ | Cancer | 1 | 0.644°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 0°23′ | Aquarius | 8 | R -0.104°/d | domicile |  |
+| ♄ Saturn | ♈ Aries 17°41′ | Pisces | 9 | 0.004°/d (stationary) | fall |  |
+| ♅ Uranus | ♉ Taurus 17°37′ | Aries | 10 | 0.022°/d |  |  |
+| ♆ Neptune | ♍ Virgo 19°19′ | Leo | 2 | 0.028°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 29°52′ | Cancer | 12 | 0.028°/d |  |  |
+| ☊ North Node | ♏ Scorpio 23°12′ | Libra | 4 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 23°12′ | Aries | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

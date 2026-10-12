@@ -7,20 +7,20 @@ Born 1762-05-19 (gregorian calendar), Rammenau, the ribbon-weaver's cottage in L
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 27°54′ | 1 | 0.961°/d |  |  |
-| ☽ Moon | ♈ Aries 0°47′ | 12 | 12.377°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♉ Taurus 18°45′ | 1 | 2.066°/d |  |  |
-| ♀ Venus | ♊ Gemini 11°11′ | 2 | 1.226°/d |  |  |
-| ♂ Mars | ♎ Libra 15°16′ | 6 | R -0.087°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 26°56′ | 12 | 0.223°/d |  |  |
-| ♄ Saturn | ♈ Aries 19°43′ | 12 | 0.108°/d | fall |  |
-| ♅ Uranus | ♈ Aries 11°50′ | 12 | 0.043°/d |  |  |
-| ♆ Neptune | ♌ Leo 21°34′ | 4 | 0.009°/d (stationary) |  |  |
-| ♇ Pluto | ♑ Capricornus 1°16′ | 9 | R -0.020°/d |  |  |
-| ☊ North Node | ♉ Taurus 10°53′ | 1 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 10°53′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 27°54′ | Taurus | 1 | 0.961°/d |  |  |
+| ☽ Moon | ♈ Aries 0°47′ | Pisces | 12 | 12.377°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♉ Taurus 18°45′ | Aries | 1 | 2.066°/d |  |  |
+| ♀ Venus | ♊ Gemini 11°11′ | Taurus | 2 | 1.226°/d |  |  |
+| ♂ Mars | ♎ Libra 15°16′ | Virgo | 6 | R -0.087°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 26°56′ | Pisces | 12 | 0.223°/d |  |  |
+| ♄ Saturn | ♈ Aries 19°43′ | Pisces | 12 | 0.108°/d | fall |  |
+| ♅ Uranus | ♈ Aries 11°50′ | Pisces | 12 | 0.043°/d |  |  |
+| ♆ Neptune | ♌ Leo 21°34′ | Leo | 4 | 0.009°/d (stationary) |  |  |
+| ♇ Pluto | ♑ Capricornus 1°16′ | Sagittarius | 9 | R -0.020°/d |  |  |
+| ☊ North Node | ♉ Taurus 10°53′ | Aries | 1 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 10°53′ | Libra | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

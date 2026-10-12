@@ -7,20 +7,20 @@ Born 1915-11-25 (gregorian calendar), Valparaíso, the birth on the hill (lat -3
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 1°38′ | 1 | 1.012°/d |  |  |
-| ☽ Moon | ♋ Cancer 7°06′ | 8 | 11.808°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 20°00′ | 12 | 1.565°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 20°18′ | 1 | 1.249°/d |  |  |
-| ♂ Mars | ♌ Leo 22°32′ | 9 | 0.353°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 18°46′ | 4 | 0.035°/d | domicile |  |
-| ♄ Saturn | ♋ Cancer 16°00′ | 8 | R -0.046°/d | detriment |  |
-| ♅ Uranus | ♒ Aquarius 12°15′ | 3 | 0.028°/d | domicile (modern) |  |
-| ♆ Neptune | ♌ Leo 2°39′ | 9 | R -0.011°/d |  |  |
-| ♇ Pluto | ♋ Cancer 2°53′ | 8 | R -0.017°/d |  |  |
-| ☊ North Node | ♒ Aquarius 11°42′ | 3 | mean node |  |  |
-| ☋ South Node | ♌ Leo 11°42′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 1°38′ | Scorpius | 1 | 1.012°/d |  |  |
+| ☽ Moon | ♋ Cancer 7°06′ | Gemini | 8 | 11.808°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 20°00′ | Libra | 12 | 1.565°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 20°18′ | Ophiuchus | 1 | 1.249°/d |  |  |
+| ♂ Mars | ♌ Leo 22°32′ | Leo | 9 | 0.353°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 18°46′ | Aquarius | 4 | 0.035°/d | domicile |  |
+| ♄ Saturn | ♋ Cancer 16°00′ | Gemini | 8 | R -0.046°/d | detriment |  |
+| ♅ Uranus | ♒ Aquarius 12°15′ | Capricornus | 3 | 0.028°/d | domicile (modern) |  |
+| ♆ Neptune | ♌ Leo 2°39′ | Cancer | 9 | R -0.011°/d |  |  |
+| ♇ Pluto | ♋ Cancer 2°53′ | Gemini | 8 | R -0.017°/d |  |  |
+| ☊ North Node | ♒ Aquarius 11°42′ | Capricornus | 3 | mean node |  |  |
+| ☋ South Node | ♌ Leo 11°42′ | Cancer | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

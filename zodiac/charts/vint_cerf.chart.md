@@ -7,20 +7,20 @@ Born 1943-06-23 (gregorian calendar), New Haven, the birth (lat 41.3083, lng -72
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 0°41′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♓ Pisces 6°48′ | 9 | 14.242°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♊ Gemini 8°32′ | 12 | 1.230°/d | domicile |  |
-| ♀ Venus | ♌ Leo 15°59′ | 2 | 0.990°/d |  |  |
-| ♂ Mars | ♈ Aries 19°26′ | 10 | 0.716°/d | domicile |  |
-| ♃ Jupiter | ♋ Cancer 28°20′ | 1 | 0.208°/d | exaltation |  |
-| ♄ Saturn | ♊ Gemini 17°51′ | 12 | 0.128°/d |  |  |
-| ♅ Uranus | ♊ Gemini 6°15′ | 12 | 0.054°/d |  |  |
-| ♆ Neptune | ♍ Virgo 29°25′ | 3 | 0.006°/d (stationary) | detriment (modern) |  |
-| ♇ Pluto | ♌ Leo 5°51′ | 2 | 0.024°/d |  |  |
-| ☊ North Node | ♌ Leo 18°21′ | 2 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 18°21′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 0°41′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♓ Pisces 6°48′ | Aquarius | 9 | 14.242°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♊ Gemini 8°32′ | Taurus | 12 | 1.230°/d | domicile |  |
+| ♀ Venus | ♌ Leo 15°59′ | Cancer | 2 | 0.990°/d |  |  |
+| ♂ Mars | ♈ Aries 19°26′ | Pisces | 10 | 0.716°/d | domicile |  |
+| ♃ Jupiter | ♋ Cancer 28°20′ | Cancer | 1 | 0.208°/d | exaltation |  |
+| ♄ Saturn | ♊ Gemini 17°51′ | Taurus | 12 | 0.128°/d |  |  |
+| ♅ Uranus | ♊ Gemini 6°15′ | Taurus | 12 | 0.054°/d |  |  |
+| ♆ Neptune | ♍ Virgo 29°25′ | Virgo | 3 | 0.006°/d (stationary) | detriment (modern) |  |
+| ♇ Pluto | ♌ Leo 5°51′ | Cancer | 2 | 0.024°/d |  |  |
+| ☊ North Node | ♌ Leo 18°21′ | Leo | 2 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 18°21′ | Capricornus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

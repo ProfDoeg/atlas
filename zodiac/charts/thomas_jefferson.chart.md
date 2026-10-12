@@ -7,20 +7,20 @@ Born 1743-04-13 (gregorian calendar), Shadwell, the birth on the Rivanna (lat 38
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 22°38′ | 1 | 0.978°/d | exaltation |  |
-| ☽ Moon | ♐ Sagittarius 7°16′ | 9 | 11.876°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 26°14′ | 12 | 1.295°/d | detriment, fall |  |
-| ♀ Venus | ♉ Taurus 13°28′ | 2 | 1.226°/d | domicile |  |
-| ♂ Mars | ♌ Leo 18°39′ | 5 | 0.163°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 4°45′ | 6 | R -0.055°/d | detriment |  |
-| ♄ Saturn | ♌ Leo 29°05′ | 5 | R -0.031°/d | detriment |  |
-| ♅ Uranus | ♑ Capricornus 27°00′ | 10 | 0.016°/d |  |  |
-| ♆ Neptune | ♋ Cancer 9°29′ | 4 | 0.013°/d |  |  |
-| ♇ Pluto | ♏ Scorpio 15°56′ | 8 | R -0.025°/d | domicile (modern) |  |
-| ☊ North Node | ♉ Taurus 20°18′ | 2 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 20°18′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 22°38′ | Pisces | 1 | 0.978°/d | exaltation |  |
+| ☽ Moon | ♐ Sagittarius 7°16′ | Scorpius | 9 | 11.876°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 26°14′ | Pisces | 12 | 1.295°/d | detriment, fall |  |
+| ♀ Venus | ♉ Taurus 13°28′ | Aries | 2 | 1.226°/d | domicile |  |
+| ♂ Mars | ♌ Leo 18°39′ | Leo | 5 | 0.163°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 4°45′ | Leo | 6 | R -0.055°/d | detriment |  |
+| ♄ Saturn | ♌ Leo 29°05′ | Leo | 5 | R -0.031°/d | detriment |  |
+| ♅ Uranus | ♑ Capricornus 27°00′ | Sagittarius | 10 | 0.016°/d |  |  |
+| ♆ Neptune | ♋ Cancer 9°29′ | Gemini | 4 | 0.013°/d |  |  |
+| ♇ Pluto | ♏ Scorpio 15°56′ | Libra | 8 | R -0.025°/d | domicile (modern) |  |
+| ☊ North Node | ♉ Taurus 20°18′ | Aries | 2 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 20°18′ | Libra | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

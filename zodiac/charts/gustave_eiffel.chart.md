@@ -7,20 +7,20 @@ Born 1832-12-15 (gregorian calendar), Dijon, the birth on the Cote-d'Or (lat 47.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 23°06′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♍ Virgo 29°13′ | 10 | 13.672°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♑ Capricornus 10°56′ | 2 | 0.110°/d |  |  |
-| ♀ Venus | ♑ Capricornus 28°07′ | 2 | 1.223°/d |  |  |
-| ♂ Mars | ♉ Taurus 21°32′ | 6 | R -0.135°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 20°24′ | 4 | 0.101°/d | domicile |  |
-| ♄ Saturn | ♍ Virgo 27°42′ | 10 | 0.042°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 15°47′ | 3 | 0.040°/d | domicile (modern) |  |
-| ♆ Neptune | ♑ Capricornus 25°40′ | 2 | 0.033°/d |  |  |
-| ♇ Pluto | ♈ Aries 9°44′ | 5 | R -0.003°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 25°54′ | 8 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 25°54′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 23°06′ | Ophiuchus | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♍ Virgo 29°13′ | Virgo | 10 | 13.672°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♑ Capricornus 10°56′ | Sagittarius | 2 | 0.110°/d |  |  |
+| ♀ Venus | ♑ Capricornus 28°07′ | Sagittarius | 2 | 1.223°/d |  |  |
+| ♂ Mars | ♉ Taurus 21°32′ | Aries | 6 | R -0.135°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 20°24′ | Aquarius | 4 | 0.101°/d | domicile |  |
+| ♄ Saturn | ♍ Virgo 27°42′ | Virgo | 10 | 0.042°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 15°47′ | Capricornus | 3 | 0.040°/d | domicile (modern) |  |
+| ♆ Neptune | ♑ Capricornus 25°40′ | Sagittarius | 2 | 0.033°/d |  |  |
+| ♇ Pluto | ♈ Aries 9°44′ | Pisces | 5 | R -0.003°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 25°54′ | Gemini | 8 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 25°54′ | Sagittarius | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

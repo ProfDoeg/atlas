@@ -7,20 +7,20 @@ Born 1839-07-08 (gregorian calendar), Richford, the farm on Michigan Hill (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 15°06′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♊ Gemini 5°40′ | 12 | 14.456°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♋ Cancer 27°07′ | 1 | 1.952°/d |  |  |
-| ♀ Venus | ♌ Leo 29°34′ | 2 | 1.063°/d |  |  |
-| ♂ Mars | ♎ Libra 5°37′ | 4 | 0.525°/d | detriment |  |
-| ♃ Jupiter | ♎ Libra 10°17′ | 4 | 0.090°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 4°24′ | 6 | R -0.047°/d |  |  |
-| ♅ Uranus | ♓ Pisces 16°27′ | 9 | R -0.013°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 11°55′ | 8 | R -0.024°/d |  |  |
-| ♇ Pluto | ♈ Aries 18°57′ | 10 | 0.004°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 19°01′ | 9 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 19°01′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 15°06′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♊ Gemini 5°40′ | Taurus | 12 | 14.456°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♋ Cancer 27°07′ | Gemini | 1 | 1.952°/d |  |  |
+| ♀ Venus | ♌ Leo 29°34′ | Leo | 2 | 1.063°/d |  |  |
+| ♂ Mars | ♎ Libra 5°37′ | Virgo | 4 | 0.525°/d | detriment |  |
+| ♃ Jupiter | ♎ Libra 10°17′ | Virgo | 4 | 0.090°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 4°24′ | Scorpius | 6 | R -0.047°/d |  |  |
+| ♅ Uranus | ♓ Pisces 16°27′ | Aquarius | 9 | R -0.013°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 11°55′ | Capricornus | 8 | R -0.024°/d |  |  |
+| ♇ Pluto | ♈ Aries 18°57′ | Pisces | 10 | 0.004°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 19°01′ | Aquarius | 9 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 19°01′ | Leo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

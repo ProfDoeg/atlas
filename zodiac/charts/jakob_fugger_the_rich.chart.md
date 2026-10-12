@@ -7,20 +7,20 @@ Born 1459-03-06 (julian calendar), Augsburg, the tenth of eleven children (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 23°52′ | 1 | 0.992°/d |  |  |
-| ☽ Moon | ♈ Aries 8°24′ | 2 | 14.873°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 10°48′ | 2 | 0.386°/d |  |  |
-| ♀ Venus | ♈ Aries 28°26′ | 2 | 0.238°/d | detriment |  |
-| ♂ Mars | ♌ Leo 14°40′ | 6 | R -0.140°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 25°26′ | 7 | R -0.129°/d | detriment |  |
-| ♄ Saturn | ♑ Capricornus 8°16′ | 11 | 0.055°/d | domicile |  |
-| ♅ Uranus | ♌ Leo 25°32′ | 6 | R -0.037°/d | detriment (modern) |  |
-| ♆ Neptune | ♎ Libra 16°56′ | 8 | R -0.025°/d |  |  |
-| ♇ Pluto | ♌ Leo 17°20′ | 6 | R -0.019°/d |  |  |
-| ☊ North Node | ♌ Leo 24°43′ | 6 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 24°43′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 23°52′ | Pisces | 1 | 0.992°/d |  |  |
+| ☽ Moon | ♈ Aries 8°24′ | Pisces | 2 | 14.873°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 10°48′ | Pisces | 2 | 0.386°/d |  |  |
+| ♀ Venus | ♈ Aries 28°26′ | Pisces | 2 | 0.238°/d | detriment |  |
+| ♂ Mars | ♌ Leo 14°40′ | Cancer | 6 | R -0.140°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 25°26′ | Virgo | 7 | R -0.129°/d | detriment |  |
+| ♄ Saturn | ♑ Capricornus 8°16′ | Sagittarius | 11 | 0.055°/d | domicile |  |
+| ♅ Uranus | ♌ Leo 25°32′ | Leo | 6 | R -0.037°/d | detriment (modern) |  |
+| ♆ Neptune | ♎ Libra 16°56′ | Virgo | 8 | R -0.025°/d |  |  |
+| ♇ Pluto | ♌ Leo 17°20′ | Cancer | 6 | R -0.019°/d |  |  |
+| ☊ North Node | ♌ Leo 24°43′ | Leo | 6 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 24°43′ | Capricornus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

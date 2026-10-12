@@ -7,20 +7,20 @@ Born 1848-07-25 (gregorian calendar), Whittingehame House, the eldest son (lat 5
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 2°07′ | 1 | 0.956°/d | domicile |  |
-| ☽ Moon | ♉ Taurus 22°18′ | 10 | 14.272°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 23°46′ | 12 | R -0.470°/d |  |  |
-| ♀ Venus | ♌ Leo 2°41′ | 1 | 1.233°/d |  |  |
-| ♂ Mars | ♌ Leo 29°29′ | 1 | 0.625°/d |  |  |
-| ♃ Jupiter | ♌ Leo 1°57′ | 1 | 0.222°/d |  |  |
-| ♄ Saturn | ♓ Pisces 24°53′ | 8 | R -0.031°/d |  |  |
-| ♅ Uranus | ♈ Aries 22°22′ | 9 | 0.002°/d (stationary) |  |  |
-| ♆ Neptune | ♓ Pisces 1°56′ | 8 | R -0.023°/d | domicile (modern) |  |
-| ♇ Pluto | ♈ Aries 27°57′ | 9 | 0.001°/d (stationary) |  |  |
-| ☊ North Node | ♍ Virgo 24°00′ | 2 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 24°00′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 2°07′ | Cancer | 1 | 0.956°/d | domicile |  |
+| ☽ Moon | ♉ Taurus 22°18′ | Aries | 10 | 14.272°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 23°46′ | Gemini | 12 | R -0.470°/d |  |  |
+| ♀ Venus | ♌ Leo 2°41′ | Cancer | 1 | 1.233°/d |  |  |
+| ♂ Mars | ♌ Leo 29°29′ | Leo | 1 | 0.625°/d |  |  |
+| ♃ Jupiter | ♌ Leo 1°57′ | Cancer | 1 | 0.222°/d |  |  |
+| ♄ Saturn | ♓ Pisces 24°53′ | Pisces | 8 | R -0.031°/d |  |  |
+| ♅ Uranus | ♈ Aries 22°22′ | Pisces | 9 | 0.002°/d (stationary) |  |  |
+| ♆ Neptune | ♓ Pisces 1°56′ | Aquarius | 8 | R -0.023°/d | domicile (modern) |  |
+| ♇ Pluto | ♈ Aries 27°57′ | Pisces | 9 | 0.001°/d (stationary) |  |  |
+| ☊ North Node | ♍ Virgo 24°00′ | Leo | 2 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 24°00′ | Pisces | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

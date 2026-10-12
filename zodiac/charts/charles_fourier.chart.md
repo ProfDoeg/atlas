@@ -7,20 +7,20 @@ Born 1772-04-07 (gregorian calendar), Besancon, born above the drapery (lat 47.2
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 17°42′ | 1 | 0.981°/d | exaltation |  |
-| ☽ Moon | ♉ Taurus 29°27′ | 2 | 12.336°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♈ Aries 23°57′ | 1 | 2.087°/d |  |  |
-| ♀ Venus | ♉ Taurus 25°58′ | 2 | 1.171°/d | domicile |  |
-| ♂ Mars | ♓ Pisces 15°14′ | 12 | 0.778°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 24°48′ | 11 | 0.187°/d |  |  |
-| ♄ Saturn | ♌ Leo 23°16′ | 5 | R -0.030°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 18°00′ | 2 | 0.052°/d |  |  |
-| ♆ Neptune | ♍ Virgo 14°01′ | 6 | R -0.022°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 21°20′ | 10 | 0.007°/d (stationary) |  |  |
-| ☊ North Node | ♎ Libra 29°40′ | 7 | mean node |  |  |
-| ☋ South Node | ♈ Aries 29°40′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 17°42′ | Pisces | 1 | 0.981°/d | exaltation |  |
+| ☽ Moon | ♉ Taurus 29°27′ | Taurus | 2 | 12.336°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♈ Aries 23°57′ | Pisces | 1 | 2.087°/d |  |  |
+| ♀ Venus | ♉ Taurus 25°58′ | Taurus | 2 | 1.171°/d | domicile |  |
+| ♂ Mars | ♓ Pisces 15°14′ | Aquarius | 12 | 0.778°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 24°48′ | Capricornus | 11 | 0.187°/d |  |  |
+| ♄ Saturn | ♌ Leo 23°16′ | Leo | 5 | R -0.030°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 18°00′ | Aries | 2 | 0.052°/d |  |  |
+| ♆ Neptune | ♍ Virgo 14°01′ | Leo | 6 | R -0.022°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 21°20′ | Sagittarius | 10 | 0.007°/d (stationary) |  |  |
+| ☊ North Node | ♎ Libra 29°40′ | Virgo | 7 | mean node |  |  |
+| ☋ South Node | ♈ Aries 29°40′ | Aries | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

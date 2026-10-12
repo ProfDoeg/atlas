@@ -7,20 +7,20 @@ Born 1877-07-02 (gregorian calendar), Calw, the birth on the Marktplatz (lat 48.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 10°10′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♓ Pisces 19°16′ | 9 | 11.905°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 21°28′ | 12 | 1.615°/d | domicile |  |
-| ♀ Venus | ♋ Cancer 25°17′ | 1 | 1.225°/d |  |  |
-| ♂ Mars | ♓ Pisces 11°25′ | 9 | 0.384°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 27°18′ | 6 | R -0.122°/d | domicile |  |
-| ♄ Saturn | ♓ Pisces 19°59′ | 9 | R -0.002°/d (stationary) |  |  |
-| ♅ Uranus | ♌ Leo 22°10′ | 2 | 0.050°/d | detriment (modern) |  |
-| ♆ Neptune | ♉ Taurus 7°09′ | 11 | 0.021°/d |  |  |
-| ♇ Pluto | ♉ Taurus 25°05′ | 11 | 0.017°/d | detriment (modern) |  |
-| ☊ North Node | ♓ Pisces 4°20′ | 9 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 4°20′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 10°10′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♓ Pisces 19°16′ | Aquarius | 9 | 11.905°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 21°28′ | Taurus | 12 | 1.615°/d | domicile |  |
+| ♀ Venus | ♋ Cancer 25°17′ | Gemini | 1 | 1.225°/d |  |  |
+| ♂ Mars | ♓ Pisces 11°25′ | Aquarius | 9 | 0.384°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 27°18′ | Sagittarius | 6 | R -0.122°/d | domicile |  |
+| ♄ Saturn | ♓ Pisces 19°59′ | Aquarius | 9 | R -0.002°/d (stationary) |  |  |
+| ♅ Uranus | ♌ Leo 22°10′ | Leo | 2 | 0.050°/d | detriment (modern) |  |
+| ♆ Neptune | ♉ Taurus 7°09′ | Aries | 11 | 0.021°/d |  |  |
+| ♇ Pluto | ♉ Taurus 25°05′ | Taurus | 11 | 0.017°/d | detriment (modern) |  |
+| ☊ North Node | ♓ Pisces 4°20′ | Aquarius | 9 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 4°20′ | Leo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

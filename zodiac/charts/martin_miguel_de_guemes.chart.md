@@ -7,20 +7,20 @@ Born 1785-02-08 (gregorian calendar), Salta, the birth under the Cerro San Berna
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 19°43′ | 1 | 1.011°/d | detriment |  |
-| ☽ Moon | ♑ Capricornus 28°20′ | 12 | 14.800°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♑ Capricornus 26°23′ | 12 | 0.280°/d |  |  |
-| ♀ Venus | ♈ Aries 2°06′ | 3 | 1.163°/d | detriment |  |
-| ♂ Mars | ♑ Capricornus 7°47′ | 12 | 0.731°/d | exaltation |  |
-| ♃ Jupiter | ♓ Pisces 13°21′ | 2 | 0.232°/d | domicile |  |
-| ♄ Saturn | ♑ Capricornus 28°51′ | 12 | 0.114°/d | domicile |  |
-| ♅ Uranus | ♋ Cancer 12°50′ | 6 | R -0.032°/d |  |  |
-| ♆ Neptune | ♎ Libra 14°29′ | 9 | R -0.013°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 11°28′ | 1 | 0.030°/d |  |  |
-| ☊ North Node | ♒ Aquarius 21°19′ | 1 | mean node |  |  |
-| ☋ South Node | ♌ Leo 21°19′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 19°43′ | Capricornus | 1 | 1.011°/d | detriment |  |
+| ☽ Moon | ♑ Capricornus 28°20′ | Sagittarius | 12 | 14.800°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♑ Capricornus 26°23′ | Sagittarius | 12 | 0.280°/d |  |  |
+| ♀ Venus | ♈ Aries 2°06′ | Pisces | 3 | 1.163°/d | detriment |  |
+| ♂ Mars | ♑ Capricornus 7°47′ | Sagittarius | 12 | 0.731°/d | exaltation |  |
+| ♃ Jupiter | ♓ Pisces 13°21′ | Aquarius | 2 | 0.232°/d | domicile |  |
+| ♄ Saturn | ♑ Capricornus 28°51′ | Sagittarius | 12 | 0.114°/d | domicile |  |
+| ♅ Uranus | ♋ Cancer 12°50′ | Gemini | 6 | R -0.032°/d |  |  |
+| ♆ Neptune | ♎ Libra 14°29′ | Virgo | 9 | R -0.013°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 11°28′ | Capricornus | 1 | 0.030°/d |  |  |
+| ☊ North Node | ♒ Aquarius 21°19′ | Capricornus | 1 | mean node |  |  |
+| ☋ South Node | ♌ Leo 21°19′ | Leo | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

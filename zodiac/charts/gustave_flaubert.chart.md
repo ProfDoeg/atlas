@@ -7,20 +7,20 @@ Born 1821-12-12 (gregorian calendar), Hotel-Dieu de Rouen, the birth in the surg
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 19°43′ | 1 | 1.017°/d |  |  |
-| ☽ Moon | ♋ Cancer 27°51′ | 8 | 13.857°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♏ Scorpio 29°10′ | 12 | 1.196°/d |  |  |
-| ♀ Venus | ♒ Aquarius 6°11′ | 3 | 1.103°/d |  |  |
-| ♂ Mars | ♍ Virgo 5°02′ | 10 | 0.294°/d |  |  |
-| ♃ Jupiter | ♈ Aries 20°24′ | 5 | R -0.013°/d |  |  |
-| ♄ Saturn | ♈ Aries 19°47′ | 5 | R -0.020°/d | fall |  |
-| ♅ Uranus | ♑ Capricornus 2°25′ | 2 | 0.059°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 2°17′ | 2 | 0.037°/d |  |  |
-| ♇ Pluto | ♓ Pisces 27°48′ | 4 | R -0.000°/d (stationary) |  |  |
-| ☊ North Node | ♒ Aquarius 28°49′ | 3 | mean node |  |  |
-| ☋ South Node | ♌ Leo 28°49′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 19°43′ | Ophiuchus | 1 | 1.017°/d |  |  |
+| ☽ Moon | ♋ Cancer 27°51′ | Gemini | 8 | 13.857°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♏ Scorpio 29°10′ | Libra | 12 | 1.196°/d |  |  |
+| ♀ Venus | ♒ Aquarius 6°11′ | Capricornus | 3 | 1.103°/d |  |  |
+| ♂ Mars | ♍ Virgo 5°02′ | Leo | 10 | 0.294°/d |  |  |
+| ♃ Jupiter | ♈ Aries 20°24′ | Pisces | 5 | R -0.013°/d |  |  |
+| ♄ Saturn | ♈ Aries 19°47′ | Pisces | 5 | R -0.020°/d | fall |  |
+| ♅ Uranus | ♑ Capricornus 2°25′ | Sagittarius | 2 | 0.059°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 2°17′ | Sagittarius | 2 | 0.037°/d |  |  |
+| ♇ Pluto | ♓ Pisces 27°48′ | Pisces | 4 | R -0.000°/d (stationary) |  |  |
+| ☊ North Node | ♒ Aquarius 28°49′ | Aquarius | 3 | mean node |  |  |
+| ☋ South Node | ♌ Leo 28°49′ | Leo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

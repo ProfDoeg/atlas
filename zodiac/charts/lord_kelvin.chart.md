@@ -7,20 +7,20 @@ Born 1824-06-26 (gregorian calendar), Belfast, birth in College Square East (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 4°15′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♊ Gemini 20°54′ | 12 | 14.331°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 12°43′ | 12 | 0.804°/d | domicile |  |
-| ♀ Venus | ♊ Gemini 25°00′ | 12 | 1.225°/d |  |  |
-| ♂ Mars | ♎ Libra 7°31′ | 4 | 0.439°/d | detriment |  |
-| ♃ Jupiter | ♋ Cancer 18°19′ | 1 | 0.221°/d | exaltation |  |
-| ♄ Saturn | ♊ Gemini 2°03′ | 12 | 0.117°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 14°11′ | 7 | R -0.040°/d |  |  |
-| ♆ Neptune | ♑ Capricornus 8°20′ | 7 | R -0.027°/d |  |  |
-| ♇ Pluto | ♈ Aries 3°12′ | 10 | 0.003°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 9°44′ | 7 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 9°44′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 4°15′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♊ Gemini 20°54′ | Taurus | 12 | 14.331°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 12°43′ | Taurus | 12 | 0.804°/d | domicile |  |
+| ♀ Venus | ♊ Gemini 25°00′ | Taurus | 12 | 1.225°/d |  |  |
+| ♂ Mars | ♎ Libra 7°31′ | Virgo | 4 | 0.439°/d | detriment |  |
+| ♃ Jupiter | ♋ Cancer 18°19′ | Gemini | 1 | 0.221°/d | exaltation |  |
+| ♄ Saturn | ♊ Gemini 2°03′ | Taurus | 12 | 0.117°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 14°11′ | Sagittarius | 7 | R -0.040°/d |  |  |
+| ♆ Neptune | ♑ Capricornus 8°20′ | Sagittarius | 7 | R -0.027°/d |  |  |
+| ♇ Pluto | ♈ Aries 3°12′ | Pisces | 10 | 0.003°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 9°44′ | Sagittarius | 7 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 9°44′ | Gemini | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

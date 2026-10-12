@@ -7,20 +7,20 @@ Born 1955-10-28 (gregorian calendar), Laurelhurst, the third William Henry Gates
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 3°48′ | 1 | 0.998°/d |  |  |
-| ☽ Moon | ♓ Pisces 21°02′ | 5 | 13.500°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 15°28′ | 12 | 0.835°/d |  |  |
-| ♀ Venus | ♏ Scorpio 18°41′ | 1 | 1.247°/d | detriment |  |
-| ♂ Mars | ♎ Libra 9°19′ | 12 | 0.642°/d | detriment |  |
-| ♃ Jupiter | ♌ Leo 27°34′ | 10 | 0.141°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 21°33′ | 1 | 0.115°/d |  |  |
-| ♅ Uranus | ♌ Leo 2°10′ | 10 | 0.010°/d | detriment (modern) |  |
-| ♆ Neptune | ♎ Libra 28°16′ | 12 | 0.037°/d |  |  |
-| ♇ Pluto | ♌ Leo 28°22′ | 10 | 0.016°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 19°32′ | 2 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 19°32′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 3°48′ | Virgo | 1 | 0.998°/d |  |  |
+| ☽ Moon | ♓ Pisces 21°02′ | Aquarius | 5 | 13.500°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 15°28′ | Virgo | 12 | 0.835°/d |  |  |
+| ♀ Venus | ♏ Scorpio 18°41′ | Libra | 1 | 1.247°/d | detriment |  |
+| ♂ Mars | ♎ Libra 9°19′ | Virgo | 12 | 0.642°/d | detriment |  |
+| ♃ Jupiter | ♌ Leo 27°34′ | Leo | 10 | 0.141°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 21°33′ | Libra | 1 | 0.115°/d |  |  |
+| ♅ Uranus | ♌ Leo 2°10′ | Cancer | 10 | 0.010°/d | detriment (modern) |  |
+| ♆ Neptune | ♎ Libra 28°16′ | Virgo | 12 | 0.037°/d |  |  |
+| ♇ Pluto | ♌ Leo 28°22′ | Leo | 10 | 0.016°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 19°32′ | Ophiuchus | 2 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 19°32′ | Taurus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

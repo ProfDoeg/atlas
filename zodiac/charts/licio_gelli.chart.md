@@ -7,20 +7,20 @@ Born 1919-04-21 (gregorian calendar), Pistoia, birth under the Duomo (lat 43.933
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 29°51′ | 1 | 0.976°/d | exaltation |  |
-| ☽ Moon | ♑ Capricornus 1°24′ | 10 | 12.139°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♈ Aries 10°41′ | 1 | R -0.078°/d |  |  |
-| ♀ Venus | ♊ Gemini 4°26′ | 3 | 1.190°/d |  |  |
-| ♂ Mars | ♉ Taurus 4°18′ | 2 | 0.741°/d | detriment |  |
-| ♃ Jupiter | ♋ Cancer 9°25′ | 4 | 0.138°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 21°29′ | 5 | R -0.005°/d (stationary) | detriment |  |
-| ♅ Uranus | ♓ Pisces 0°54′ | 12 | 0.036°/d |  |  |
-| ♆ Neptune | ♌ Leo 6°36′ | 5 | 0.002°/d (stationary) |  |  |
-| ♇ Pluto | ♋ Cancer 4°47′ | 4 | 0.012°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 5°53′ | 9 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 5°53′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 29°51′ | Aries | 1 | 0.976°/d | exaltation |  |
+| ☽ Moon | ♑ Capricornus 1°24′ | Sagittarius | 10 | 12.139°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♈ Aries 10°41′ | Pisces | 1 | R -0.078°/d |  |  |
+| ♀ Venus | ♊ Gemini 4°26′ | Taurus | 3 | 1.190°/d |  |  |
+| ♂ Mars | ♉ Taurus 4°18′ | Aries | 2 | 0.741°/d | detriment |  |
+| ♃ Jupiter | ♋ Cancer 9°25′ | Gemini | 4 | 0.138°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 21°29′ | Leo | 5 | R -0.005°/d (stationary) | detriment |  |
+| ♅ Uranus | ♓ Pisces 0°54′ | Aquarius | 12 | 0.036°/d |  |  |
+| ♆ Neptune | ♌ Leo 6°36′ | Cancer | 5 | 0.002°/d (stationary) |  |  |
+| ♇ Pluto | ♋ Cancer 4°47′ | Gemini | 4 | 0.012°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 5°53′ | Scorpius | 9 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 5°53′ | Taurus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

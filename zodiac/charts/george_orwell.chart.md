@@ -7,20 +7,20 @@ Born 1903-06-25 (gregorian calendar), Motihari, the birth in the opium district 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 2°16′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♊ Gemini 28°36′ | 12 | 15.119°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♊ Gemini 10°50′ | 12 | 0.705°/d | domicile |  |
-| ♀ Venus | ♌ Leo 17°02′ | 2 | 1.042°/d |  |  |
-| ♂ Mars | ♎ Libra 8°19′ | 4 | 0.413°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 22°41′ | 9 | 0.060°/d | domicile |  |
-| ♄ Saturn | ♒ Aquarius 8°13′ | 8 | R -0.052°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 23°10′ | 6 | R -0.040°/d |  |  |
-| ♆ Neptune | ♋ Cancer 3°26′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 19°32′ | 12 | 0.023°/d |  |  |
-| ☊ North Node | ♎ Libra 11°54′ | 4 | mean node |  |  |
-| ☋ South Node | ♈ Aries 11°54′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 2°16′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♊ Gemini 28°36′ | Taurus | 12 | 15.119°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♊ Gemini 10°50′ | Taurus | 12 | 0.705°/d | domicile |  |
+| ♀ Venus | ♌ Leo 17°02′ | Cancer | 2 | 1.042°/d |  |  |
+| ♂ Mars | ♎ Libra 8°19′ | Virgo | 4 | 0.413°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 22°41′ | Pisces | 9 | 0.060°/d | domicile |  |
+| ♄ Saturn | ♒ Aquarius 8°13′ | Capricornus | 8 | R -0.052°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 23°10′ | Ophiuchus | 6 | R -0.040°/d |  |  |
+| ♆ Neptune | ♋ Cancer 3°26′ | Gemini | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 19°32′ | Taurus | 12 | 0.023°/d |  |  |
+| ☊ North Node | ♎ Libra 11°54′ | Virgo | 4 | mean node |  |  |
+| ☋ South Node | ♈ Aries 11°54′ | Pisces | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

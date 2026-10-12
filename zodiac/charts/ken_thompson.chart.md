@@ -7,20 +7,20 @@ Born 1943-02-04 (gregorian calendar), New Orleans, birth on the fourth of Februa
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 14°19′ | 1 | 1.014°/d | detriment |  |
-| ☽ Moon | ♒ Aquarius 0°31′ | 1 | 15.115°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♑ Capricornus 25°06′ | 12 | R -0.212°/d |  |  |
-| ♀ Venus | ♓ Pisces 3°18′ | 2 | 1.248°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 5°59′ | 12 | 0.730°/d | exaltation |  |
-| ♃ Jupiter | ♋ Cancer 17°13′ | 6 | R -0.107°/d | exaltation |  |
-| ♄ Saturn | ♊ Gemini 5°23′ | 5 | R -0.004°/d (stationary) |  |  |
-| ♅ Uranus | ♊ Gemini 0°38′ | 5 | R -0.004°/d (stationary) |  |  |
-| ♆ Neptune | ♎ Libra 1°54′ | 9 | R -0.017°/d |  |  |
-| ♇ Pluto | ♌ Leo 5°58′ | 7 | R -0.023°/d |  |  |
-| ☊ North Node | ♌ Leo 25°43′ | 7 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 25°43′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 14°19′ | Capricornus | 1 | 1.014°/d | detriment |  |
+| ☽ Moon | ♒ Aquarius 0°31′ | Capricornus | 1 | 15.115°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♑ Capricornus 25°06′ | Sagittarius | 12 | R -0.212°/d |  |  |
+| ♀ Venus | ♓ Pisces 3°18′ | Aquarius | 2 | 1.248°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 5°59′ | Sagittarius | 12 | 0.730°/d | exaltation |  |
+| ♃ Jupiter | ♋ Cancer 17°13′ | Gemini | 6 | R -0.107°/d | exaltation |  |
+| ♄ Saturn | ♊ Gemini 5°23′ | Taurus | 5 | R -0.004°/d (stationary) |  |  |
+| ♅ Uranus | ♊ Gemini 0°38′ | Taurus | 5 | R -0.004°/d (stationary) |  |  |
+| ♆ Neptune | ♎ Libra 1°54′ | Virgo | 9 | R -0.017°/d |  |  |
+| ♇ Pluto | ♌ Leo 5°58′ | Cancer | 7 | R -0.023°/d |  |  |
+| ☊ North Node | ♌ Leo 25°43′ | Leo | 7 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 25°43′ | Capricornus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

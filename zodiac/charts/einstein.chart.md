@@ -7,20 +7,20 @@ Born 1879-03-14 (gregorian calendar), Ulm, the house on the Bahnhofstraße (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 23°04′ | 1 | 0.996°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 8°12′ | 10 | 14.091°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 2°16′ | 2 | 1.957°/d |  |  |
-| ♀ Venus | ♈ Aries 16°26′ | 2 | 1.232°/d | detriment |  |
-| ♂ Mars | ♑ Capricornus 26°36′ | 11 | 0.728°/d | exaltation |  |
-| ♃ Jupiter | ♒ Aquarius 27°31′ | 12 | 0.228°/d |  |  |
-| ♄ Saturn | ♈ Aries 3°50′ | 2 | 0.124°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 1°06′ | 7 | R -0.040°/d |  |  |
-| ♆ Neptune | ♉ Taurus 7°52′ | 3 | 0.029°/d |  |  |
-| ♇ Pluto | ♉ Taurus 24°45′ | 3 | 0.012°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 1°30′ | 12 | mean node |  |  |
-| ☋ South Node | ♌ Leo 1°30′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 23°04′ | Pisces | 1 | 0.996°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 8°12′ | Ophiuchus | 10 | 14.091°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 2°16′ | Pisces | 2 | 1.957°/d |  |  |
+| ♀ Venus | ♈ Aries 16°26′ | Pisces | 2 | 1.232°/d | detriment |  |
+| ♂ Mars | ♑ Capricornus 26°36′ | Sagittarius | 11 | 0.728°/d | exaltation |  |
+| ♃ Jupiter | ♒ Aquarius 27°31′ | Capricornus | 12 | 0.228°/d |  |  |
+| ♄ Saturn | ♈ Aries 3°50′ | Pisces | 2 | 0.124°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 1°06′ | Leo | 7 | R -0.040°/d |  |  |
+| ♆ Neptune | ♉ Taurus 7°52′ | Aries | 3 | 0.029°/d |  |  |
+| ♇ Pluto | ♉ Taurus 24°45′ | Taurus | 3 | 0.012°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 1°30′ | Capricornus | 12 | mean node |  |  |
+| ☋ South Node | ♌ Leo 1°30′ | Cancer | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

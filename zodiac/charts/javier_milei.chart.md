@@ -7,20 +7,20 @@ Born 1970-10-22 (gregorian calendar), Palermo, the birth (lat -34.5875, lng -58.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 28°11′ | 1 | 0.995°/d | fall |  |
-| ☽ Moon | ♋ Cancer 26°53′ | 10 | 12.086°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♎ Libra 24°31′ | 1 | 1.699°/d |  |  |
-| ♀ Venus | ♏ Scorpio 25°10′ | 2 | R -0.052°/d | detriment |  |
-| ♂ Mars | ♎ Libra 0°59′ | 1 | 0.635°/d | detriment |  |
-| ♃ Jupiter | ♏ Scorpio 12°27′ | 2 | 0.216°/d |  |  |
-| ♄ Saturn | ♉ Taurus 20°41′ | 8 | R -0.072°/d |  |  |
-| ♅ Uranus | ♎ Libra 10°13′ | 1 | 0.061°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 29°30′ | 2 | 0.033°/d |  |  |
-| ♇ Pluto | ♍ Virgo 28°25′ | 12 | 0.033°/d |  |  |
-| ☊ North Node | ♒ Aquarius 29°43′ | 5 | mean node |  |  |
-| ☋ South Node | ♌ Leo 29°43′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 28°11′ | Virgo | 1 | 0.995°/d | fall |  |
+| ☽ Moon | ♋ Cancer 26°53′ | Gemini | 10 | 12.086°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♎ Libra 24°31′ | Virgo | 1 | 1.699°/d |  |  |
+| ♀ Venus | ♏ Scorpio 25°10′ | Libra | 2 | R -0.052°/d | detriment |  |
+| ♂ Mars | ♎ Libra 0°59′ | Virgo | 1 | 0.635°/d | detriment |  |
+| ♃ Jupiter | ♏ Scorpio 12°27′ | Libra | 2 | 0.216°/d |  |  |
+| ♄ Saturn | ♉ Taurus 20°41′ | Aries | 8 | R -0.072°/d |  |  |
+| ♅ Uranus | ♎ Libra 10°13′ | Virgo | 1 | 0.061°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 29°30′ | Libra | 2 | 0.033°/d |  |  |
+| ♇ Pluto | ♍ Virgo 28°25′ | Virgo | 12 | 0.033°/d |  |  |
+| ☊ North Node | ♒ Aquarius 29°43′ | Aquarius | 5 | mean node |  |  |
+| ☋ South Node | ♌ Leo 29°43′ | Leo | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

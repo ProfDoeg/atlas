@@ -7,20 +7,20 @@ Born 1887-08-17 (gregorian calendar), St Ann's Bay, the birth on Market Street (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 23°45′ | 1 | 0.962°/d | domicile |  |
-| ☽ Moon | ♋ Cancer 23°53′ | 12 | 13.917°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♌ Leo 5°08′ | 1 | 0.978°/d |  |  |
-| ♀ Venus | ♎ Libra 2°35′ | 3 | 0.468°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 23°28′ | 12 | 0.647°/d | fall |  |
-| ♃ Jupiter | ♏ Scorpio 0°08′ | 4 | 0.140°/d |  |  |
-| ♄ Saturn | ♋ Cancer 29°50′ | 12 | 0.122°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 9°44′ | 3 | 0.048°/d |  |  |
-| ♆ Neptune | ♊ Gemini 0°01′ | 11 | 0.009°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 4°59′ | 11 | 0.006°/d (stationary) |  |  |
-| ☊ North Node | ♌ Leo 18°30′ | 1 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 18°30′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 23°45′ | Leo | 1 | 0.962°/d | domicile |  |
+| ☽ Moon | ♋ Cancer 23°53′ | Gemini | 12 | 13.917°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♌ Leo 5°08′ | Cancer | 1 | 0.978°/d |  |  |
+| ♀ Venus | ♎ Libra 2°35′ | Virgo | 3 | 0.468°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 23°28′ | Gemini | 12 | 0.647°/d | fall |  |
+| ♃ Jupiter | ♏ Scorpio 0°08′ | Virgo | 4 | 0.140°/d |  |  |
+| ♄ Saturn | ♋ Cancer 29°50′ | Cancer | 12 | 0.122°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 9°44′ | Virgo | 3 | 0.048°/d |  |  |
+| ♆ Neptune | ♊ Gemini 0°01′ | Taurus | 11 | 0.009°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 4°59′ | Taurus | 11 | 0.006°/d (stationary) |  |  |
+| ☊ North Node | ♌ Leo 18°30′ | Leo | 1 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 18°30′ | Capricornus | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

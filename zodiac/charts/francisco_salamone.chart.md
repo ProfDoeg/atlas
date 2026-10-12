@@ -7,20 +7,20 @@ Born 1897-06-05 (gregorian calendar), Leonforte, born into the builder's house (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 14°33′ | 1 | 0.957°/d |  |  |
-| ☽ Moon | ♌ Leo 4°51′ | 3 | 12.543°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♉ Taurus 26°04′ | 12 | 0.165°/d |  |  |
-| ♀ Venus | ♉ Taurus 4°51′ | 12 | 0.505°/d | domicile |  |
-| ♂ Mars | ♌ Leo 10°01′ | 3 | 0.581°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 2°28′ | 4 | 0.109°/d | detriment |  |
-| ♄ Saturn | ♏ Scorpio 26°13′ | 6 | R -0.069°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 26°08′ | 6 | R -0.039°/d |  |  |
-| ♆ Neptune | ♊ Gemini 19°49′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 13°17′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♒ Aquarius 8°56′ | 9 | mean node |  |  |
-| ☋ South Node | ♌ Leo 8°56′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 14°33′ | Taurus | 1 | 0.957°/d |  |  |
+| ☽ Moon | ♌ Leo 4°51′ | Cancer | 3 | 12.543°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♉ Taurus 26°04′ | Taurus | 12 | 0.165°/d |  |  |
+| ♀ Venus | ♉ Taurus 4°51′ | Aries | 12 | 0.505°/d | domicile |  |
+| ♂ Mars | ♌ Leo 10°01′ | Cancer | 3 | 0.581°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 2°28′ | Leo | 4 | 0.109°/d | detriment |  |
+| ♄ Saturn | ♏ Scorpio 26°13′ | Libra | 6 | R -0.069°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 26°08′ | Libra | 6 | R -0.039°/d |  |  |
+| ♆ Neptune | ♊ Gemini 19°49′ | Taurus | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 13°17′ | Taurus | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♒ Aquarius 8°56′ | Capricornus | 9 | mean node |  |  |
+| ☋ South Node | ♌ Leo 8°56′ | Cancer | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

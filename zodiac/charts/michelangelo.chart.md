@@ -7,20 +7,20 @@ Born 1475-03-06 (julian calendar), Caprese, the podesta's second son (lat 43.641
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 23°59′ | 1 | 0.992°/d |  |  |
-| ☽ Moon | ♓ Pisces 2°08′ | 1 | 15.113°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♒ Aquarius 28°39′ | 12 | 1.364°/d |  |  |
-| ♀ Venus | ♈ Aries 24°41′ | 2 | 0.065°/d | detriment |  |
-| ♂ Mars | ♓ Pisces 18°43′ | 1 | 0.780°/d |  |  |
-| ♃ Jupiter | ♒ Aquarius 3°30′ | 12 | 0.190°/d |  |  |
-| ♄ Saturn | ♋ Cancer 17°01′ | 5 | R -0.008°/d (stationary) | detriment |  |
-| ♅ Uranus | ♏ Scorpio 14°07′ | 9 | R -0.022°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 22°24′ | 9 | R -0.011°/d |  |  |
-| ♇ Pluto | ♍ Virgo 20°41′ | 7 | R -0.027°/d |  |  |
-| ☊ North Node | ♎ Libra 15°15′ | 8 | mean node |  |  |
-| ☋ South Node | ♈ Aries 15°15′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 23°59′ | Pisces | 1 | 0.992°/d |  |  |
+| ☽ Moon | ♓ Pisces 2°08′ | Aquarius | 1 | 15.113°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♒ Aquarius 28°39′ | Aquarius | 12 | 1.364°/d |  |  |
+| ♀ Venus | ♈ Aries 24°41′ | Pisces | 2 | 0.065°/d | detriment |  |
+| ♂ Mars | ♓ Pisces 18°43′ | Aquarius | 1 | 0.780°/d |  |  |
+| ♃ Jupiter | ♒ Aquarius 3°30′ | Capricornus | 12 | 0.190°/d |  |  |
+| ♄ Saturn | ♋ Cancer 17°01′ | Gemini | 5 | R -0.008°/d (stationary) | detriment |  |
+| ♅ Uranus | ♏ Scorpio 14°07′ | Libra | 9 | R -0.022°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 22°24′ | Libra | 9 | R -0.011°/d |  |  |
+| ♇ Pluto | ♍ Virgo 20°41′ | Leo | 7 | R -0.027°/d |  |  |
+| ☊ North Node | ♎ Libra 15°15′ | Virgo | 8 | mean node |  |  |
+| ☋ South Node | ♈ Aries 15°15′ | Pisces | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

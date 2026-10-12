@@ -7,20 +7,20 @@ Born 1869-10-02 (gregorian calendar), Kirti Mandir, Porbandar: the birth (lat 21
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 8°50′ | 1 | 0.985°/d | fall |  |
-| ☽ Moon | ♌ Leo 18°26′ | 11 | 14.380°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 3°43′ | 2 | 0.626°/d |  |  |
-| ♀ Venus | ♏ Scorpio 16°19′ | 2 | 1.194°/d | detriment |  |
-| ♂ Mars | ♏ Scorpio 18°20′ | 2 | 0.698°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 20°21′ | 8 | R -0.072°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 12°11′ | 3 | 0.072°/d |  |  |
-| ♅ Uranus | ♋ Cancer 21°37′ | 10 | 0.023°/d |  |  |
-| ♆ Neptune | ♈ Aries 18°24′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♉ Taurus 17°41′ | 8 | R -0.014°/d | detriment (modern) |  |
-| ☊ North Node | ♌ Leo 4°11′ | 11 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 4°11′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 8°50′ | Virgo | 1 | 0.985°/d | fall |  |
+| ☽ Moon | ♌ Leo 18°26′ | Leo | 11 | 14.380°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 3°43′ | Virgo | 2 | 0.626°/d |  |  |
+| ♀ Venus | ♏ Scorpio 16°19′ | Libra | 2 | 1.194°/d | detriment |  |
+| ♂ Mars | ♏ Scorpio 18°20′ | Libra | 2 | 0.698°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 20°21′ | Aries | 8 | R -0.072°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 12°11′ | Ophiuchus | 3 | 0.072°/d |  |  |
+| ♅ Uranus | ♋ Cancer 21°37′ | Gemini | 10 | 0.023°/d |  |  |
+| ♆ Neptune | ♈ Aries 18°24′ | Pisces | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♉ Taurus 17°41′ | Aries | 8 | R -0.014°/d | detriment (modern) |  |
+| ☊ North Node | ♌ Leo 4°11′ | Cancer | 11 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 4°11′ | Capricornus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

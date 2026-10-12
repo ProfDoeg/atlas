@@ -7,20 +7,20 @@ Born 1904-01-22 (gregorian calendar), Saint Petersburg, the birth in the imperia
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 0°34′ | 1 | 1.018°/d | detriment |  |
-| ☽ Moon | ♓ Pisces 17°33′ | 2 | 11.831°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 20°31′ | 12 | R -1.006°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 19°56′ | 11 | 1.195°/d |  |  |
-| ♂ Mars | ♓ Pisces 1°50′ | 2 | 0.785°/d |  |  |
-| ♃ Jupiter | ♓ Pisces 21°26′ | 2 | 0.195°/d | domicile |  |
-| ♄ Saturn | ♒ Aquarius 10°19′ | 1 | 0.118°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 27°43′ | 11 | 0.053°/d |  |  |
-| ♆ Neptune | ♋ Cancer 3°55′ | 6 | R -0.025°/d |  |  |
-| ♇ Pluto | ♊ Gemini 19°02′ | 5 | R -0.014°/d |  |  |
-| ☊ North Node | ♎ Libra 0°44′ | 9 | mean node |  |  |
-| ☋ South Node | ♈ Aries 0°44′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 0°34′ | Capricornus | 1 | 1.018°/d | detriment |  |
+| ☽ Moon | ♓ Pisces 17°33′ | Aquarius | 2 | 11.831°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 20°31′ | Sagittarius | 12 | R -1.006°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 19°56′ | Ophiuchus | 11 | 1.195°/d |  |  |
+| ♂ Mars | ♓ Pisces 1°50′ | Aquarius | 2 | 0.785°/d |  |  |
+| ♃ Jupiter | ♓ Pisces 21°26′ | Aquarius | 2 | 0.195°/d | domicile |  |
+| ♄ Saturn | ♒ Aquarius 10°19′ | Capricornus | 1 | 0.118°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 27°43′ | Sagittarius | 11 | 0.053°/d |  |  |
+| ♆ Neptune | ♋ Cancer 3°55′ | Gemini | 6 | R -0.025°/d |  |  |
+| ♇ Pluto | ♊ Gemini 19°02′ | Taurus | 5 | R -0.014°/d |  |  |
+| ☊ North Node | ♎ Libra 0°44′ | Virgo | 9 | mean node |  |  |
+| ☋ South Node | ♈ Aries 0°44′ | Pisces | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

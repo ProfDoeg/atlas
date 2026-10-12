@@ -7,20 +7,20 @@ Born 1635-07-18 (gregorian calendar), All Saints', Freshwater, the curate's youn
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 24°55′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♍ Virgo 8°56′ | 3 | 12.164°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 15°36′ | 2 | 1.620°/d |  |  |
-| ♀ Venus | ♊ Gemini 20°26′ | 12 | 1.177°/d |  |  |
-| ♂ Mars | ♋ Cancer 5°43′ | 1 | 0.663°/d | fall |  |
-| ♃ Jupiter | ♌ Leo 10°23′ | 2 | 0.215°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 27°22′ | 6 | R -0.061°/d |  |  |
-| ♅ Uranus | ♎ Libra 5°26′ | 4 | 0.030°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 11°43′ | 5 | R -0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♉ Taurus 27°23′ | 11 | 0.013°/d | detriment (modern) |  |
-| ☊ North Node | ♓ Pisces 4°02′ | 9 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 4°02′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 24°55′ | Gemini | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♍ Virgo 8°56′ | Leo | 3 | 12.164°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 15°36′ | Cancer | 2 | 1.620°/d |  |  |
+| ♀ Venus | ♊ Gemini 20°26′ | Taurus | 12 | 1.177°/d |  |  |
+| ♂ Mars | ♋ Cancer 5°43′ | Gemini | 1 | 0.663°/d | fall |  |
+| ♃ Jupiter | ♌ Leo 10°23′ | Cancer | 2 | 0.215°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 27°22′ | Sagittarius | 6 | R -0.061°/d |  |  |
+| ♅ Uranus | ♎ Libra 5°26′ | Virgo | 4 | 0.030°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 11°43′ | Libra | 5 | R -0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♉ Taurus 27°23′ | Taurus | 11 | 0.013°/d | detriment (modern) |  |
+| ☊ North Node | ♓ Pisces 4°02′ | Aquarius | 9 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 4°02′ | Leo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

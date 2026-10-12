@@ -7,20 +7,20 @@ Born 1934-08-03 (gregorian calendar), Munhango, birth beside the Benguela line (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 9°58′ | 1 | 0.957°/d | domicile |  |
-| ☽ Moon | ♉ Taurus 18°37′ | 10 | 12.667°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 20°43′ | 12 | 1.134°/d |  |  |
-| ♀ Venus | ♋ Cancer 12°17′ | 12 | 1.203°/d |  |  |
-| ♂ Mars | ♋ Cancer 12°05′ | 12 | 0.661°/d | fall |  |
-| ♃ Jupiter | ♎ Libra 17°07′ | 3 | 0.137°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 25°37′ | 7 | R -0.071°/d | domicile |  |
-| ♅ Uranus | ♉ Taurus 1°34′ | 10 | 0.003°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 11°01′ | 2 | 0.033°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 24°47′ | 12 | 0.026°/d |  |  |
-| ☊ North Node | ♒ Aquarius 10°15′ | 7 | mean node |  |  |
-| ☋ South Node | ♌ Leo 10°15′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 9°58′ | Cancer | 1 | 0.957°/d | domicile |  |
+| ☽ Moon | ♉ Taurus 18°37′ | Aries | 10 | 12.667°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 20°43′ | Gemini | 12 | 1.134°/d |  |  |
+| ♀ Venus | ♋ Cancer 12°17′ | Gemini | 12 | 1.203°/d |  |  |
+| ♂ Mars | ♋ Cancer 12°05′ | Gemini | 12 | 0.661°/d | fall |  |
+| ♃ Jupiter | ♎ Libra 17°07′ | Virgo | 3 | 0.137°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 25°37′ | Capricornus | 7 | R -0.071°/d | domicile |  |
+| ♅ Uranus | ♉ Taurus 1°34′ | Aries | 10 | 0.003°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 11°01′ | Leo | 2 | 0.033°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 24°47′ | Gemini | 12 | 0.026°/d |  |  |
+| ☊ North Node | ♒ Aquarius 10°15′ | Capricornus | 7 | mean node |  |  |
+| ☋ South Node | ♌ Leo 10°15′ | Cancer | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

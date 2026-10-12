@@ -7,20 +7,20 @@ Born 1919-06-21 (gregorian calendar), Turin, the birth in the industrial capital
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 28°35′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♓ Pisces 25°36′ | 10 | 13.778°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
-| ☿ Mercury | ♋ Cancer 9°42′ | 2 | 2.023°/d |  |  |
-| ♀ Venus | ♌ Leo 13°22′ | 3 | 1.038°/d |  |  |
-| ♂ Mars | ♊ Gemini 17°55′ | 1 | 0.689°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 20°39′ | 2 | 0.215°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 24°16′ | 3 | 0.089°/d | detriment |  |
-| ♅ Uranus | ♓ Pisces 1°42′ | 10 | R -0.011°/d |  |  |
-| ♆ Neptune | ♌ Leo 7°39′ | 3 | 0.030°/d |  |  |
-| ♇ Pluto | ♋ Cancer 5°59′ | 2 | 0.025°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 2°39′ | 7 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 2°39′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 28°35′ | Taurus | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♓ Pisces 25°36′ | Pisces | 10 | 13.778°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Pisces or Aries) |
+| ☿ Mercury | ♋ Cancer 9°42′ | Gemini | 2 | 2.023°/d |  |  |
+| ♀ Venus | ♌ Leo 13°22′ | Cancer | 3 | 1.038°/d |  |  |
+| ♂ Mars | ♊ Gemini 17°55′ | Taurus | 1 | 0.689°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 20°39′ | Gemini | 2 | 0.215°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 24°16′ | Leo | 3 | 0.089°/d | detriment |  |
+| ♅ Uranus | ♓ Pisces 1°42′ | Aquarius | 10 | R -0.011°/d |  |  |
+| ♆ Neptune | ♌ Leo 7°39′ | Cancer | 3 | 0.030°/d |  |  |
+| ♇ Pluto | ♋ Cancer 5°59′ | Gemini | 2 | 0.025°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 2°39′ | Scorpius | 7 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 2°39′ | Taurus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

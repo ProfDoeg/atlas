@@ -7,20 +7,20 @@ Born 1894-11-26 (gregorian calendar), Columbia, Missouri, birth in a boarding ho
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 3°46′ | 1 | 1.012°/d |  |  |
-| ☽ Moon | ♏ Scorpio 17°33′ | 12 | 12.964°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 13°52′ | 12 | 0.858°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 2°38′ | 1 | 1.258°/d |  |  |
-| ♂ Mars | ♈ Aries 21°27′ | 5 | 0.059°/d | domicile |  |
-| ♃ Jupiter | ♋ Cancer 4°33′ | 8 | R -0.101°/d | exaltation |  |
-| ♄ Saturn | ♏ Scorpio 2°18′ | 12 | 0.109°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 16°37′ | 12 | 0.060°/d |  |  |
-| ♆ Neptune | ♊ Gemini 14°43′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♊ Gemini 10°56′ | 7 | R -0.019°/d |  |  |
-| ☊ North Node | ♓ Pisces 27°45′ | 4 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 27°45′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 3°46′ | Scorpius | 1 | 1.012°/d |  |  |
+| ☽ Moon | ♏ Scorpio 17°33′ | Libra | 12 | 12.964°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 13°52′ | Libra | 12 | 0.858°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 2°38′ | Scorpius | 1 | 1.258°/d |  |  |
+| ♂ Mars | ♈ Aries 21°27′ | Pisces | 5 | 0.059°/d | domicile |  |
+| ♃ Jupiter | ♋ Cancer 4°33′ | Gemini | 8 | R -0.101°/d | exaltation |  |
+| ♄ Saturn | ♏ Scorpio 2°18′ | Virgo | 12 | 0.109°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 16°37′ | Libra | 12 | 0.060°/d |  |  |
+| ♆ Neptune | ♊ Gemini 14°43′ | Taurus | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♊ Gemini 10°56′ | Taurus | 7 | R -0.019°/d |  |  |
+| ☊ North Node | ♓ Pisces 27°45′ | Pisces | 4 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 27°45′ | Virgo | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

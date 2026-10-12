@@ -7,20 +7,20 @@ Born 1157-09-08 (julian calendar), Oxford, Beaumont Palace (lat 51.7551, lng -1.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 21°32′ | 1 | 0.982°/d |  |  |
-| ☽ Moon | ♎ Libra 17°42′ | 2 | 11.777°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 0°28′ | 2 | 1.671°/d |  |  |
-| ♀ Venus | ♍ Virgo 3°06′ | 1 | 1.239°/d | fall |  |
-| ♂ Mars | ♋ Cancer 8°15′ | 11 | 0.564°/d | fall |  |
-| ♃ Jupiter | ♈ Aries 28°57′ | 8 | R -0.083°/d |  |  |
-| ♄ Saturn | ♎ Libra 9°30′ | 2 | 0.117°/d | exaltation |  |
-| ♅ Uranus | ♑ Capricornus 24°09′ | 5 | R -0.015°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 10°17′ | 4 | 0.013°/d |  |  |
-| ♇ Pluto | ♊ Gemini 7°41′ | 10 | R -0.003°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 6°01′ | 3 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 6°01′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 21°32′ | Leo | 1 | 0.982°/d |  |  |
+| ☽ Moon | ♎ Libra 17°42′ | Virgo | 2 | 11.777°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 0°28′ | Virgo | 2 | 1.671°/d |  |  |
+| ♀ Venus | ♍ Virgo 3°06′ | Leo | 1 | 1.239°/d | fall |  |
+| ♂ Mars | ♋ Cancer 8°15′ | Gemini | 11 | 0.564°/d | fall |  |
+| ♃ Jupiter | ♈ Aries 28°57′ | Pisces | 8 | R -0.083°/d |  |  |
+| ♄ Saturn | ♎ Libra 9°30′ | Virgo | 2 | 0.117°/d | exaltation |  |
+| ♅ Uranus | ♑ Capricornus 24°09′ | Sagittarius | 5 | R -0.015°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 10°17′ | Ophiuchus | 4 | 0.013°/d |  |  |
+| ♇ Pluto | ♊ Gemini 7°41′ | Taurus | 10 | R -0.003°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 6°01′ | Virgo | 3 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 6°01′ | Aries | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

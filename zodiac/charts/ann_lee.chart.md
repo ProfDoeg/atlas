@@ -7,20 +7,20 @@ Born 1736-02-29 (gregorian calendar), Manchester, birth on the leap day (lat 53.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 9°45′ | 1 | 1.002°/d |  |  |
-| ☽ Moon | ♎ Libra 13°23′ | 8 | 14.626°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 27°47′ | 1 | 0.865°/d | detriment, fall |  |
-| ♀ Venus | ♑ Capricornus 27°07′ | 11 | 1.164°/d |  |  |
-| ♂ Mars | ♑ Capricornus 7°53′ | 11 | 0.695°/d | exaltation |  |
-| ♃ Jupiter | ♒ Aquarius 5°03′ | 12 | 0.214°/d |  |  |
-| ♄ Saturn | ♉ Taurus 22°10′ | 3 | 0.067°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 27°12′ | 10 | 0.028°/d |  |  |
-| ♆ Neptune | ♊ Gemini 23°41′ | 4 | R -0.002°/d (stationary) |  |  |
-| ♇ Pluto | ♎ Libra 28°13′ | 8 | R -0.016°/d |  |  |
-| ☊ North Node | ♎ Libra 7°59′ | 8 | mean node |  |  |
-| ☋ South Node | ♈ Aries 7°59′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 9°45′ | Aquarius | 1 | 1.002°/d |  |  |
+| ☽ Moon | ♎ Libra 13°23′ | Virgo | 8 | 14.626°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 27°47′ | Pisces | 1 | 0.865°/d | detriment, fall |  |
+| ♀ Venus | ♑ Capricornus 27°07′ | Sagittarius | 11 | 1.164°/d |  |  |
+| ♂ Mars | ♑ Capricornus 7°53′ | Sagittarius | 11 | 0.695°/d | exaltation |  |
+| ♃ Jupiter | ♒ Aquarius 5°03′ | Capricornus | 12 | 0.214°/d |  |  |
+| ♄ Saturn | ♉ Taurus 22°10′ | Aries | 3 | 0.067°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 27°12′ | Sagittarius | 10 | 0.028°/d |  |  |
+| ♆ Neptune | ♊ Gemini 23°41′ | Taurus | 4 | R -0.002°/d (stationary) |  |  |
+| ♇ Pluto | ♎ Libra 28°13′ | Virgo | 8 | R -0.016°/d |  |  |
+| ☊ North Node | ♎ Libra 7°59′ | Virgo | 8 | mean node |  |  |
+| ☋ South Node | ♈ Aries 7°59′ | Pisces | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

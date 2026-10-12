@@ -7,20 +7,20 @@ Born 1964-04-05 (gregorian calendar), Seattle, the birth with no place recorded 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 15°15′ | 1 | 0.984°/d | exaltation |  |
-| ☽ Moon | ♑ Capricornus 12°36′ | 10 | 11.984°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 4°04′ | 2 | 1.236°/d |  |  |
-| ♀ Venus | ♊ Gemini 0°54′ | 3 | 1.015°/d |  |  |
-| ♂ Mars | ♈ Aries 5°05′ | 1 | 0.775°/d | domicile |  |
-| ♃ Jupiter | ♈ Aries 28°15′ | 1 | 0.238°/d |  |  |
-| ♄ Saturn | ♓ Pisces 1°08′ | 12 | 0.098°/d |  |  |
-| ♅ Uranus | ♍ Virgo 6°23′ | 6 | R -0.031°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 17°20′ | 8 | R -0.022°/d |  |  |
-| ♇ Pluto | ♍ Virgo 12°12′ | 6 | R -0.021°/d |  |  |
-| ☊ North Node | ♋ Cancer 6°20′ | 4 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 6°20′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 15°15′ | Pisces | 1 | 0.984°/d | exaltation |  |
+| ☽ Moon | ♑ Capricornus 12°36′ | Sagittarius | 10 | 11.984°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 4°04′ | Aries | 2 | 1.236°/d |  |  |
+| ♀ Venus | ♊ Gemini 0°54′ | Taurus | 3 | 1.015°/d |  |  |
+| ♂ Mars | ♈ Aries 5°05′ | Pisces | 1 | 0.775°/d | domicile |  |
+| ♃ Jupiter | ♈ Aries 28°15′ | Pisces | 1 | 0.238°/d |  |  |
+| ♄ Saturn | ♓ Pisces 1°08′ | Aquarius | 12 | 0.098°/d |  |  |
+| ♅ Uranus | ♍ Virgo 6°23′ | Leo | 6 | R -0.031°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 17°20′ | Libra | 8 | R -0.022°/d |  |  |
+| ♇ Pluto | ♍ Virgo 12°12′ | Leo | 6 | R -0.021°/d |  |  |
+| ☊ North Node | ♋ Cancer 6°20′ | Gemini | 4 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 6°20′ | Sagittarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

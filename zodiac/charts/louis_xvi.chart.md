@@ -7,20 +7,20 @@ Born 1754-08-23 (gregorian calendar), Palace of Versailles: the birth of the duc
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 29°41′ | 1 | 0.965°/d | domicile |  |
-| ☽ Moon | ♏ Scorpio 4°09′ | 4 | 14.254°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
-| ☿ Mercury | ♍ Virgo 0°28′ | 2 | R -0.909°/d | domicile, exaltation |  |
-| ♀ Venus | ♎ Libra 6°39′ | 3 | 1.183°/d | domicile |  |
-| ♂ Mars | ♍ Virgo 21°17′ | 2 | 0.640°/d |  |  |
-| ♃ Jupiter | ♌ Leo 28°54′ | 1 | 0.218°/d |  |  |
-| ♄ Saturn | ♑ Capricornus 10°58′ | 6 | R -0.035°/d | domicile |  |
-| ♅ Uranus | ♓ Pisces 9°53′ | 8 | R -0.039°/d |  |  |
-| ♆ Neptune | ♌ Leo 7°13′ | 1 | 0.035°/d |  |  |
-| ♇ Pluto | ♐ Sagittarius 11°15′ | 5 | 0.000°/d (stationary) |  |  |
-| ☊ North Node | ♎ Libra 10°32′ | 3 | mean node |  |  |
-| ☋ South Node | ♈ Aries 10°32′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 29°41′ | Leo | 1 | 0.965°/d | domicile |  |
+| ☽ Moon | ♏ Scorpio 4°09′ | Virgo | 4 | 14.254°/d | fall | within 7° of a sign boundary: the Moon's sign may differ (Libra or Scorpio) |
+| ☿ Mercury | ♍ Virgo 0°28′ | Leo | 2 | R -0.909°/d | domicile, exaltation |  |
+| ♀ Venus | ♎ Libra 6°39′ | Virgo | 3 | 1.183°/d | domicile |  |
+| ♂ Mars | ♍ Virgo 21°17′ | Leo | 2 | 0.640°/d |  |  |
+| ♃ Jupiter | ♌ Leo 28°54′ | Leo | 1 | 0.218°/d |  |  |
+| ♄ Saturn | ♑ Capricornus 10°58′ | Sagittarius | 6 | R -0.035°/d | domicile |  |
+| ♅ Uranus | ♓ Pisces 9°53′ | Aquarius | 8 | R -0.039°/d |  |  |
+| ♆ Neptune | ♌ Leo 7°13′ | Cancer | 1 | 0.035°/d |  |  |
+| ♇ Pluto | ♐ Sagittarius 11°15′ | Ophiuchus | 5 | 0.000°/d (stationary) |  |  |
+| ☊ North Node | ♎ Libra 10°32′ | Virgo | 3 | mean node |  |  |
+| ☋ South Node | ♈ Aries 10°32′ | Pisces | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

@@ -7,20 +7,20 @@ Born 1946-07-06 (gregorian calendar), New Haven, birth at Grace-New Haven (lat 4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 13°20′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♎ Libra 10°49′ | 4 | 12.431°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 9°24′ | 2 | 0.941°/d |  |  |
-| ♀ Venus | ♌ Leo 20°57′ | 2 | 1.166°/d |  |  |
-| ♂ Mars | ♍ Virgo 9°02′ | 3 | 0.587°/d |  |  |
-| ♃ Jupiter | ♎ Libra 18°07′ | 4 | 0.062°/d |  |  |
-| ♄ Saturn | ♋ Cancer 26°25′ | 1 | 0.127°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 19°08′ | 12 | 0.055°/d |  |  |
-| ♆ Neptune | ♎ Libra 6°01′ | 4 | 0.010°/d |  |  |
-| ♇ Pluto | ♌ Leo 10°37′ | 2 | 0.027°/d |  |  |
-| ☊ North Node | ♊ Gemini 19°38′ | 12 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 19°38′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 13°20′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♎ Libra 10°49′ | Virgo | 4 | 12.431°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 9°24′ | Cancer | 2 | 0.941°/d |  |  |
+| ♀ Venus | ♌ Leo 20°57′ | Leo | 2 | 1.166°/d |  |  |
+| ♂ Mars | ♍ Virgo 9°02′ | Leo | 3 | 0.587°/d |  |  |
+| ♃ Jupiter | ♎ Libra 18°07′ | Virgo | 4 | 0.062°/d |  |  |
+| ♄ Saturn | ♋ Cancer 26°25′ | Gemini | 1 | 0.127°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 19°08′ | Taurus | 12 | 0.055°/d |  |  |
+| ♆ Neptune | ♎ Libra 6°01′ | Virgo | 4 | 0.010°/d |  |  |
+| ♇ Pluto | ♌ Leo 10°37′ | Cancer | 2 | 0.027°/d |  |  |
+| ☊ North Node | ♊ Gemini 19°38′ | Taurus | 12 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 19°38′ | Ophiuchus | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

@@ -7,20 +7,20 @@ Born 1937-04-28 (gregorian calendar), Al-Awja, the birth in the mud-brick villag
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 7°18′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♐ Sagittarius 2°54′ | 8 | 11.794°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
-| ☿ Mercury | ♉ Taurus 24°11′ | 1 | 0.223°/d |  |  |
-| ♀ Venus | ♈ Aries 21°59′ | 12 | R -0.441°/d | detriment |  |
-| ♂ Mars | ♐ Sagittarius 4°22′ | 8 | R -0.169°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 26°54′ | 9 | 0.055°/d | fall |  |
-| ♄ Saturn | ♓ Pisces 29°59′ | 11 | 0.107°/d |  |  |
-| ♅ Uranus | ♉ Taurus 9°33′ | 1 | 0.058°/d |  |  |
-| ♆ Neptune | ♍ Virgo 16°29′ | 5 | R -0.015°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 26°36′ | 3 | 0.008°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 17°21′ | 8 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 17°21′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 7°18′ | Aries | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♐ Sagittarius 2°54′ | Scorpius | 8 | 11.794°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Scorpio or Sagittarius) |
+| ☿ Mercury | ♉ Taurus 24°11′ | Taurus | 1 | 0.223°/d |  |  |
+| ♀ Venus | ♈ Aries 21°59′ | Pisces | 12 | R -0.441°/d | detriment |  |
+| ♂ Mars | ♐ Sagittarius 4°22′ | Scorpius | 8 | R -0.169°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 26°54′ | Sagittarius | 9 | 0.055°/d | fall |  |
+| ♄ Saturn | ♓ Pisces 29°59′ | Pisces | 11 | 0.107°/d |  |  |
+| ♅ Uranus | ♉ Taurus 9°33′ | Aries | 1 | 0.058°/d |  |  |
+| ♆ Neptune | ♍ Virgo 16°29′ | Leo | 5 | R -0.015°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 26°36′ | Gemini | 3 | 0.008°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 17°21′ | Ophiuchus | 8 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 17°21′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1949-03-05 (gregorian calendar), Roubaix, birth in the wool city (lat 50.69
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 14°06′ | 1 | 1.002°/d |  |  |
-| ☽ Moon | ♉ Taurus 9°41′ | 3 | 11.999°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 17°34′ | 12 | 1.187°/d |  |  |
-| ♀ Venus | ♓ Pisces 3°15′ | 1 | 1.247°/d | exaltation |  |
-| ♂ Mars | ♓ Pisces 16°46′ | 1 | 0.786°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 24°09′ | 11 | 0.188°/d | fall |  |
-| ♄ Saturn | ♍ Virgo 1°57′ | 7 | R -0.078°/d |  |  |
-| ♅ Uranus | ♊ Gemini 26°30′ | 4 | R -0.000°/d (stationary) |  |  |
-| ♆ Neptune | ♎ Libra 14°39′ | 8 | R -0.023°/d |  |  |
-| ♇ Pluto | ♌ Leo 14°46′ | 6 | R -0.020°/d |  |  |
-| ☊ North Node | ♈ Aries 28°06′ | 2 | mean node |  |  |
-| ☋ South Node | ♎ Libra 28°06′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 14°06′ | Aquarius | 1 | 1.002°/d |  |  |
+| ☽ Moon | ♉ Taurus 9°41′ | Aries | 3 | 11.999°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 17°34′ | Capricornus | 12 | 1.187°/d |  |  |
+| ♀ Venus | ♓ Pisces 3°15′ | Aquarius | 1 | 1.247°/d | exaltation |  |
+| ♂ Mars | ♓ Pisces 16°46′ | Aquarius | 1 | 0.786°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 24°09′ | Sagittarius | 11 | 0.188°/d | fall |  |
+| ♄ Saturn | ♍ Virgo 1°57′ | Leo | 7 | R -0.078°/d |  |  |
+| ♅ Uranus | ♊ Gemini 26°30′ | Taurus | 4 | R -0.000°/d (stationary) |  |  |
+| ♆ Neptune | ♎ Libra 14°39′ | Virgo | 8 | R -0.023°/d |  |  |
+| ♇ Pluto | ♌ Leo 14°46′ | Cancer | 6 | R -0.020°/d |  |  |
+| ☊ North Node | ♈ Aries 28°06′ | Pisces | 2 | mean node |  |  |
+| ☋ South Node | ♎ Libra 28°06′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

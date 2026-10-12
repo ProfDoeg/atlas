@@ -7,20 +7,20 @@ Born 1931-02-25 (gregorian calendar), Heidelberg: born to a chemist in the last 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 5°26′ | 1 | 1.006°/d |  |  |
-| ☽ Moon | ♉ Taurus 27°15′ | 3 | 12.642°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
-| ☿ Mercury | ♒ Aquarius 20°26′ | 12 | 1.624°/d |  |  |
-| ♀ Venus | ♑ Capricornus 19°59′ | 11 | 1.114°/d |  |  |
-| ♂ Mars | ♋ Cancer 28°16′ | 5 | R -0.149°/d | fall |  |
-| ♃ Jupiter | ♋ Cancer 10°40′ | 5 | R -0.034°/d | exaltation |  |
-| ♄ Saturn | ♑ Capricornus 19°37′ | 11 | 0.094°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 13°16′ | 2 | 0.048°/d |  |  |
-| ♆ Neptune | ♍ Virgo 4°28′ | 7 | R -0.028°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 18°59′ | 5 | R -0.014°/d |  |  |
-| ☊ North Node | ♈ Aries 16°42′ | 2 | mean node |  |  |
-| ☋ South Node | ♎ Libra 16°42′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 5°26′ | Aquarius | 1 | 1.006°/d |  |  |
+| ☽ Moon | ♉ Taurus 27°15′ | Taurus | 3 | 12.642°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Taurus or Gemini) |
+| ☿ Mercury | ♒ Aquarius 20°26′ | Capricornus | 12 | 1.624°/d |  |  |
+| ♀ Venus | ♑ Capricornus 19°59′ | Sagittarius | 11 | 1.114°/d |  |  |
+| ♂ Mars | ♋ Cancer 28°16′ | Gemini | 5 | R -0.149°/d | fall |  |
+| ♃ Jupiter | ♋ Cancer 10°40′ | Gemini | 5 | R -0.034°/d | exaltation |  |
+| ♄ Saturn | ♑ Capricornus 19°37′ | Sagittarius | 11 | 0.094°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 13°16′ | Pisces | 2 | 0.048°/d |  |  |
+| ♆ Neptune | ♍ Virgo 4°28′ | Leo | 7 | R -0.028°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 18°59′ | Gemini | 5 | R -0.014°/d |  |  |
+| ☊ North Node | ♈ Aries 16°42′ | Pisces | 2 | mean node |  |  |
+| ☋ South Node | ♎ Libra 16°42′ | Virgo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

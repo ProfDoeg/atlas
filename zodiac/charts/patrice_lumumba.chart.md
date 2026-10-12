@@ -7,20 +7,20 @@ Born 1925-07-02 (gregorian calendar), Onalua, the birth in Tetela country (lat -
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 9°36′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♏ Scorpio 11°42′ | 5 | 13.919°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 23°01′ | 1 | 1.931°/d |  |  |
-| ♀ Venus | ♋ Cancer 28°03′ | 1 | 1.222°/d |  |  |
-| ♂ Mars | ♌ Leo 3°33′ | 2 | 0.631°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 18°45′ | 7 | R -0.125°/d | fall |  |
-| ♄ Saturn | ♏ Scorpio 7°44′ | 5 | R -0.016°/d |  |  |
-| ♅ Uranus | ♓ Pisces 25°37′ | 9 | R -0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♌ Leo 20°51′ | 2 | 0.029°/d |  |  |
-| ♇ Pluto | ♋ Cancer 13°01′ | 1 | 0.025°/d |  |  |
-| ☊ North Node | ♌ Leo 6°00′ | 2 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 6°00′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 9°36′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♏ Scorpio 11°42′ | Libra | 5 | 13.919°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 23°01′ | Gemini | 1 | 1.931°/d |  |  |
+| ♀ Venus | ♋ Cancer 28°03′ | Gemini | 1 | 1.222°/d |  |  |
+| ♂ Mars | ♌ Leo 3°33′ | Cancer | 2 | 0.631°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 18°45′ | Sagittarius | 7 | R -0.125°/d | fall |  |
+| ♄ Saturn | ♏ Scorpio 7°44′ | Virgo | 5 | R -0.016°/d |  |  |
+| ♅ Uranus | ♓ Pisces 25°37′ | Pisces | 9 | R -0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♌ Leo 20°51′ | Leo | 2 | 0.029°/d |  |  |
+| ♇ Pluto | ♋ Cancer 13°01′ | Gemini | 1 | 0.025°/d |  |  |
+| ☊ North Node | ♌ Leo 6°00′ | Cancer | 2 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 6°00′ | Capricornus | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

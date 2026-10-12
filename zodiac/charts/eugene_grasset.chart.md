@@ -7,20 +7,20 @@ Born 1845-05-25 (gregorian calendar), Lausanne, the birth in the woodcarver's ho
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 3°36′ | 1 | 0.960°/d |  |  |
-| ☽ Moon | ♑ Capricornus 20°18′ | 8 | 14.750°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 13°25′ | 12 | 0.247°/d |  |  |
-| ♀ Venus | ♊ Gemini 5°57′ | 1 | 1.230°/d |  |  |
-| ♂ Mars | ♒ Aquarius 14°32′ | 9 | 0.484°/d |  |  |
-| ♃ Jupiter | ♈ Aries 28°11′ | 11 | 0.217°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 18°48′ | 9 | 0.007°/d (stationary) | domicile |  |
-| ♅ Uranus | ♈ Aries 9°20′ | 11 | 0.038°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 25°54′ | 9 | 0.002°/d (stationary) |  |  |
-| ♇ Pluto | ♈ Aries 24°22′ | 11 | 0.019°/d |  |  |
-| ☊ North Node | ♏ Scorpio 25°16′ | 6 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 25°16′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 3°36′ | Taurus | 1 | 0.960°/d |  |  |
+| ☽ Moon | ♑ Capricornus 20°18′ | Sagittarius | 8 | 14.750°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 13°25′ | Aries | 12 | 0.247°/d |  |  |
+| ♀ Venus | ♊ Gemini 5°57′ | Taurus | 1 | 1.230°/d |  |  |
+| ♂ Mars | ♒ Aquarius 14°32′ | Capricornus | 9 | 0.484°/d |  |  |
+| ♃ Jupiter | ♈ Aries 28°11′ | Pisces | 11 | 0.217°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 18°48′ | Capricornus | 9 | 0.007°/d (stationary) | domicile |  |
+| ♅ Uranus | ♈ Aries 9°20′ | Pisces | 11 | 0.038°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 25°54′ | Capricornus | 9 | 0.002°/d (stationary) |  |  |
+| ♇ Pluto | ♈ Aries 24°22′ | Pisces | 11 | 0.019°/d |  |  |
+| ☊ North Node | ♏ Scorpio 25°16′ | Libra | 6 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 25°16′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

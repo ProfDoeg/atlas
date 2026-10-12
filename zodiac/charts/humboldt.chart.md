@@ -7,20 +7,20 @@ Born 1769-09-14 (gregorian calendar), Berlin, Schloss Tegel, birth of "the littl
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 21°23′ | 1 | 0.976°/d |  |  |
-| ☽ Moon | ♒ Aquarius 27°00′ | 6 | 13.213°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♎ Libra 0°59′ | 2 | 1.703°/d |  |  |
-| ♀ Venus | ♌ Leo 8°09′ | 12 | 1.115°/d |  |  |
-| ♂ Mars | ♎ Libra 1°03′ | 2 | 0.650°/d | detriment |  |
-| ♃ Jupiter | ♏ Scorpio 19°03′ | 3 | 0.163°/d |  |  |
-| ♄ Saturn | ♋ Cancer 29°16′ | 11 | 0.096°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 11°14′ | 9 | R -0.022°/d |  |  |
-| ♆ Neptune | ♍ Virgo 9°52′ | 1 | 0.036°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 13°17′ | 5 | R -0.005°/d (stationary) |  |  |
-| ☊ North Node | ♐ Sagittarius 19°14′ | 4 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 19°14′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 21°23′ | Leo | 1 | 0.976°/d |  |  |
+| ☽ Moon | ♒ Aquarius 27°00′ | Capricornus | 6 | 13.213°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♎ Libra 0°59′ | Virgo | 2 | 1.703°/d |  |  |
+| ♀ Venus | ♌ Leo 8°09′ | Cancer | 12 | 1.115°/d |  |  |
+| ♂ Mars | ♎ Libra 1°03′ | Virgo | 2 | 0.650°/d | detriment |  |
+| ♃ Jupiter | ♏ Scorpio 19°03′ | Libra | 3 | 0.163°/d |  |  |
+| ♄ Saturn | ♋ Cancer 29°16′ | Cancer | 11 | 0.096°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 11°14′ | Aries | 9 | R -0.022°/d |  |  |
+| ♆ Neptune | ♍ Virgo 9°52′ | Leo | 1 | 0.036°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 13°17′ | Sagittarius | 5 | R -0.005°/d (stationary) |  |  |
+| ☊ North Node | ♐ Sagittarius 19°14′ | Ophiuchus | 4 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 19°14′ | Taurus | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

@@ -7,20 +7,20 @@ Born 1821-08-30 (gregorian calendar), Laguna, birth above the lagoon (lat -28.48
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 6°15′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♎ Libra 2°42′ | 2 | 11.995°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♌ Leo 22°20′ | 12 | 1.775°/d |  |  |
-| ♀ Venus | ♎ Libra 2°52′ | 2 | 1.220°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 11°54′ | 11 | 0.633°/d | fall |  |
-| ♃ Jupiter | ♉ Taurus 0°11′ | 9 | R -0.032°/d |  |  |
-| ♄ Saturn | ♈ Aries 26°08′ | 8 | R -0.036°/d | fall |  |
-| ♅ Uranus | ♐ Sagittarius 29°05′ | 4 | R -0.007°/d (stationary) |  |  |
-| ♆ Neptune | ♑ Capricornus 0°19′ | 5 | R -0.007°/d (stationary) |  |  |
-| ♇ Pluto | ♓ Pisces 29°17′ | 7 | R -0.018°/d |  |  |
-| ☊ North Node | ♓ Pisces 4°20′ | 7 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 4°20′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 6°15′ | Leo | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♎ Libra 2°42′ | Virgo | 2 | 11.995°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♌ Leo 22°20′ | Leo | 12 | 1.775°/d |  |  |
+| ♀ Venus | ♎ Libra 2°52′ | Virgo | 2 | 1.220°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 11°54′ | Gemini | 11 | 0.633°/d | fall |  |
+| ♃ Jupiter | ♉ Taurus 0°11′ | Aries | 9 | R -0.032°/d |  |  |
+| ♄ Saturn | ♈ Aries 26°08′ | Pisces | 8 | R -0.036°/d | fall |  |
+| ♅ Uranus | ♐ Sagittarius 29°05′ | Sagittarius | 4 | R -0.007°/d (stationary) |  |  |
+| ♆ Neptune | ♑ Capricornus 0°19′ | Sagittarius | 5 | R -0.007°/d (stationary) |  |  |
+| ♇ Pluto | ♓ Pisces 29°17′ | Pisces | 7 | R -0.018°/d |  |  |
+| ☊ North Node | ♓ Pisces 4°20′ | Aquarius | 7 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 4°20′ | Leo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

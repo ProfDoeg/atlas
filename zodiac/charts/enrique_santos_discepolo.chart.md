@@ -7,20 +7,20 @@ Born 1901-03-27 (gregorian calendar), Balvanera, the birth in a house of musicia
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 5°38′ | 1 | 0.989°/d | exaltation |  |
-| ☽ Moon | ♋ Cancer 3°14′ | 4 | 13.447°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♓ Pisces 9°41′ | 12 | 0.508°/d | detriment, fall |  |
-| ♀ Venus | ♓ Pisces 26°36′ | 12 | 1.241°/d | exaltation |  |
-| ♂ Mars | ♌ Leo 23°28′ | 5 | R -0.106°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 11°13′ | 10 | 0.102°/d | fall |  |
-| ♄ Saturn | ♑ Capricornus 15°35′ | 10 | 0.048°/d | domicile |  |
-| ♅ Uranus | ♐ Sagittarius 16°46′ | 9 | R -0.004°/d (stationary) |  |  |
-| ♆ Neptune | ♊ Gemini 26°35′ | 3 | 0.011°/d |  |  |
-| ♇ Pluto | ♊ Gemini 15°51′ | 3 | 0.010°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 25°20′ | 8 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 25°20′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 5°38′ | Pisces | 1 | 0.989°/d | exaltation |  |
+| ☽ Moon | ♋ Cancer 3°14′ | Gemini | 4 | 13.447°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♓ Pisces 9°41′ | Aquarius | 12 | 0.508°/d | detriment, fall |  |
+| ♀ Venus | ♓ Pisces 26°36′ | Pisces | 12 | 1.241°/d | exaltation |  |
+| ♂ Mars | ♌ Leo 23°28′ | Leo | 5 | R -0.106°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 11°13′ | Sagittarius | 10 | 0.102°/d | fall |  |
+| ♄ Saturn | ♑ Capricornus 15°35′ | Sagittarius | 10 | 0.048°/d | domicile |  |
+| ♅ Uranus | ♐ Sagittarius 16°46′ | Ophiuchus | 9 | R -0.004°/d (stationary) |  |  |
+| ♆ Neptune | ♊ Gemini 26°35′ | Taurus | 3 | 0.011°/d |  |  |
+| ♇ Pluto | ♊ Gemini 15°51′ | Taurus | 3 | 0.010°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 25°20′ | Libra | 8 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 25°20′ | Taurus | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

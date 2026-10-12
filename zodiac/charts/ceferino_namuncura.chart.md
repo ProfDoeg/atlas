@@ -7,20 +7,20 @@ Born 1886-08-26 (gregorian calendar), Chimpay, the sixth child (lat -39.1667, ln
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 2°39′ | 1 | 0.966°/d |  |  |
-| ☽ Moon | ♋ Cancer 13°14′ | 11 | 14.410°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 18°12′ | 12 | R -0.025°/d |  |  |
-| ♀ Venus | ♌ Leo 7°31′ | 12 | 1.216°/d |  |  |
-| ♂ Mars | ♏ Scorpio 2°27′ | 3 | 0.645°/d | domicile |  |
-| ♃ Jupiter | ♎ Libra 6°59′ | 2 | 0.195°/d |  |  |
-| ♄ Saturn | ♋ Cancer 18°27′ | 11 | 0.106°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 5°42′ | 2 | 0.055°/d |  |  |
-| ♆ Neptune | ♉ Taurus 27°50′ | 9 | 0.003°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 4°05′ | 10 | 0.003°/d (stationary) |  |  |
-| ☊ North Node | ♍ Virgo 7°22′ | 1 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 7°22′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 2°39′ | Leo | 1 | 0.966°/d |  |  |
+| ☽ Moon | ♋ Cancer 13°14′ | Gemini | 11 | 14.410°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 18°12′ | Cancer | 12 | R -0.025°/d |  |  |
+| ♀ Venus | ♌ Leo 7°31′ | Cancer | 12 | 1.216°/d |  |  |
+| ♂ Mars | ♏ Scorpio 2°27′ | Virgo | 3 | 0.645°/d | domicile |  |
+| ♃ Jupiter | ♎ Libra 6°59′ | Virgo | 2 | 0.195°/d |  |  |
+| ♄ Saturn | ♋ Cancer 18°27′ | Gemini | 11 | 0.106°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 5°42′ | Virgo | 2 | 0.055°/d |  |  |
+| ♆ Neptune | ♉ Taurus 27°50′ | Taurus | 9 | 0.003°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 4°05′ | Taurus | 10 | 0.003°/d (stationary) |  |  |
+| ☊ North Node | ♍ Virgo 7°22′ | Leo | 1 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 7°22′ | Aquarius | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

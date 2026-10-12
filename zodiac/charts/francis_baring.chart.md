@@ -7,20 +7,20 @@ Born 1740-04-18 (gregorian calendar), Larkbeare near Exeter, the birth in the wo
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 28°13′ | 1 | 0.975°/d | exaltation |  |
-| ☽ Moon | ♑ Capricornus 11°11′ | 10 | 13.884°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♉ Taurus 16°07′ | 2 | 0.398°/d |  |  |
-| ♀ Venus | ♊ Gemini 6°42′ | 3 | 1.165°/d |  |  |
-| ♂ Mars | ♓ Pisces 19°49′ | 12 | 0.774°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 7°08′ | 3 | 0.205°/d | detriment |  |
-| ♄ Saturn | ♋ Cancer 18°18′ | 4 | 0.053°/d | detriment |  |
-| ♅ Uranus | ♑ Capricornus 14°40′ | 10 | 0.000°/d (stationary) |  |  |
-| ♆ Neptune | ♋ Cancer 2°59′ | 4 | 0.019°/d |  |  |
-| ♇ Pluto | ♏ Scorpio 7°47′ | 8 | R -0.028°/d | domicile (modern) |  |
-| ☊ North Node | ♋ Cancer 18°01′ | 4 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 18°01′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 28°13′ | Pisces | 1 | 0.975°/d | exaltation |  |
+| ☽ Moon | ♑ Capricornus 11°11′ | Sagittarius | 10 | 13.884°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♉ Taurus 16°07′ | Aries | 2 | 0.398°/d |  |  |
+| ♀ Venus | ♊ Gemini 6°42′ | Taurus | 3 | 1.165°/d |  |  |
+| ♂ Mars | ♓ Pisces 19°49′ | Aquarius | 12 | 0.774°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 7°08′ | Taurus | 3 | 0.205°/d | detriment |  |
+| ♄ Saturn | ♋ Cancer 18°18′ | Gemini | 4 | 0.053°/d | detriment |  |
+| ♅ Uranus | ♑ Capricornus 14°40′ | Sagittarius | 10 | 0.000°/d (stationary) |  |  |
+| ♆ Neptune | ♋ Cancer 2°59′ | Gemini | 4 | 0.019°/d |  |  |
+| ♇ Pluto | ♏ Scorpio 7°47′ | Virgo | 8 | R -0.028°/d | domicile (modern) |  |
+| ☊ North Node | ♋ Cancer 18°01′ | Gemini | 4 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 18°01′ | Sagittarius | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

@@ -7,20 +7,20 @@ Born 1899-05-08 (gregorian calendar), Vienna, birth in the Habsburg capital (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 17°10′ | 1 | 0.967°/d |  |  |
-| ☽ Moon | ♈ Aries 25°37′ | 12 | 13.602°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♈ Aries 21°14′ | 12 | 0.849°/d |  |  |
-| ♀ Venus | ♈ Aries 13°07′ | 12 | 1.192°/d | detriment |  |
-| ♂ Mars | ♌ Leo 9°43′ | 4 | 0.471°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 3°49′ | 7 | R -0.121°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 22°40′ | 8 | R -0.053°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 6°41′ | 8 | R -0.038°/d |  |  |
-| ♆ Neptune | ♊ Gemini 23°08′ | 2 | 0.031°/d |  |  |
-| ♇ Pluto | ♊ Gemini 14°34′ | 2 | 0.021°/d |  |  |
-| ☊ North Node | ♑ Capricornus 1°46′ | 9 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 1°46′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 17°10′ | Aries | 1 | 0.967°/d |  |  |
+| ☽ Moon | ♈ Aries 25°37′ | Pisces | 12 | 13.602°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♈ Aries 21°14′ | Pisces | 12 | 0.849°/d |  |  |
+| ♀ Venus | ♈ Aries 13°07′ | Pisces | 12 | 1.192°/d | detriment |  |
+| ♂ Mars | ♌ Leo 9°43′ | Cancer | 4 | 0.471°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 3°49′ | Virgo | 7 | R -0.121°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 22°40′ | Ophiuchus | 8 | R -0.053°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 6°41′ | Scorpius | 8 | R -0.038°/d |  |  |
+| ♆ Neptune | ♊ Gemini 23°08′ | Taurus | 2 | 0.031°/d |  |  |
+| ♇ Pluto | ♊ Gemini 14°34′ | Taurus | 2 | 0.021°/d |  |  |
+| ☊ North Node | ♑ Capricornus 1°46′ | Sagittarius | 9 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 1°46′ | Gemini | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

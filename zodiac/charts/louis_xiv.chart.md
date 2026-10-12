@@ -7,20 +7,20 @@ Born 1638-09-05 (gregorian calendar), Saint-Germain-en-Laye: the birth of the Di
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 12°20′ | 1 | 0.972°/d |  |  |
-| ☽ Moon | ♋ Cancer 28°50′ | 11 | 14.729°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♍ Virgo 23°12′ | 1 | 1.713°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 3°28′ | 12 | 1.165°/d |  |  |
-| ♂ Mars | ♐ Sagittarius 25°14′ | 4 | 0.523°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 2°39′ | 3 | 0.174°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 0°48′ | 6 | R -0.046°/d | domicile |  |
-| ♅ Uranus | ♎ Libra 21°07′ | 2 | 0.052°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 18°35′ | 3 | 0.019°/d |  |  |
-| ♇ Pluto | ♊ Gemini 0°31′ | 10 | R -0.002°/d (stationary) |  |  |
-| ☊ North Node | ♑ Capricornus 3°24′ | 5 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 3°24′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 12°20′ | Leo | 1 | 0.972°/d |  |  |
+| ☽ Moon | ♋ Cancer 28°50′ | Cancer | 11 | 14.729°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♍ Virgo 23°12′ | Leo | 1 | 1.713°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 3°28′ | Cancer | 12 | 1.165°/d |  |  |
+| ♂ Mars | ♐ Sagittarius 25°14′ | Ophiuchus | 4 | 0.523°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 2°39′ | Virgo | 3 | 0.174°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 0°48′ | Capricornus | 6 | R -0.046°/d | domicile |  |
+| ♅ Uranus | ♎ Libra 21°07′ | Virgo | 2 | 0.052°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 18°35′ | Libra | 3 | 0.019°/d |  |  |
+| ♇ Pluto | ♊ Gemini 0°31′ | Taurus | 10 | R -0.002°/d (stationary) |  |  |
+| ☊ North Node | ♑ Capricornus 3°24′ | Sagittarius | 5 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 3°24′ | Gemini | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

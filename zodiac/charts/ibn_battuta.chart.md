@@ -7,20 +7,20 @@ Born 1304-02-24 (julian calendar), Tangier, birth in a house of qadis (lat 35.75
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♓ Pisces 12°31′ | 1 | 0.997°/d |  |  |
-| ☽ Moon | ♎ Libra 9°33′ | 8 | 14.905°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 15°00′ | 12 | 1.024°/d |  |  |
-| ♀ Venus | ♈ Aries 0°17′ | 2 | R -0.390°/d | detriment |  |
-| ♂ Mars | ♓ Pisces 29°45′ | 1 | 0.763°/d |  |  |
-| ♃ Jupiter | ♌ Leo 27°08′ | 6 | R -0.122°/d |  |  |
-| ♄ Saturn | ♎ Libra 6°25′ | 8 | R -0.067°/d | exaltation |  |
-| ♅ Uranus | ♎ Libra 28°05′ | 8 | R -0.025°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 6°25′ | 9 | R -0.013°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 25°40′ | 12 | 0.027°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 23°13′ | 10 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 23°13′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♓ Pisces 12°31′ | Aquarius | 1 | 0.997°/d |  |  |
+| ☽ Moon | ♎ Libra 9°33′ | Virgo | 8 | 14.905°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 15°00′ | Capricornus | 12 | 1.024°/d |  |  |
+| ♀ Venus | ♈ Aries 0°17′ | Pisces | 2 | R -0.390°/d | detriment |  |
+| ♂ Mars | ♓ Pisces 29°45′ | Pisces | 1 | 0.763°/d |  |  |
+| ♃ Jupiter | ♌ Leo 27°08′ | Leo | 6 | R -0.122°/d |  |  |
+| ♄ Saturn | ♎ Libra 6°25′ | Virgo | 8 | R -0.067°/d | exaltation |  |
+| ♅ Uranus | ♎ Libra 28°05′ | Virgo | 8 | R -0.025°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 6°25′ | Virgo | 9 | R -0.013°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 25°40′ | Capricornus | 12 | 0.027°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 23°13′ | Ophiuchus | 10 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 23°13′ | Taurus | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Pisces))
 

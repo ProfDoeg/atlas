@@ -7,20 +7,20 @@ Born 1931-02-04 (gregorian calendar), La Rioja, the birth certificate (lat -29.4
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 14°13′ | 1 | 1.014°/d | detriment |  |
-| ☽ Moon | ♌ Leo 28°08′ | 7 | 15.189°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♑ Capricornus 20°04′ | 12 | 1.234°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 27°25′ | 11 | 1.025°/d |  |  |
-| ♂ Mars | ♌ Leo 4°03′ | 7 | R -0.377°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 12°04′ | 6 | R -0.097°/d | exaltation |  |
-| ♄ Saturn | ♑ Capricornus 17°28′ | 12 | 0.110°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 12°23′ | 3 | 0.036°/d |  |  |
-| ♆ Neptune | ♍ Virgo 5°02′ | 8 | R -0.026°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 19°20′ | 6 | R -0.019°/d |  |  |
-| ☊ North Node | ♈ Aries 17°49′ | 3 | mean node |  |  |
-| ☋ South Node | ♎ Libra 17°49′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 14°13′ | Capricornus | 1 | 1.014°/d | detriment |  |
+| ☽ Moon | ♌ Leo 28°08′ | Leo | 7 | 15.189°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♑ Capricornus 20°04′ | Sagittarius | 12 | 1.234°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 27°25′ | Sagittarius | 11 | 1.025°/d |  |  |
+| ♂ Mars | ♌ Leo 4°03′ | Cancer | 7 | R -0.377°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 12°04′ | Gemini | 6 | R -0.097°/d | exaltation |  |
+| ♄ Saturn | ♑ Capricornus 17°28′ | Sagittarius | 12 | 0.110°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 12°23′ | Pisces | 3 | 0.036°/d |  |  |
+| ♆ Neptune | ♍ Virgo 5°02′ | Leo | 8 | R -0.026°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 19°20′ | Gemini | 6 | R -0.019°/d |  |  |
+| ☊ North Node | ♈ Aries 17°49′ | Pisces | 3 | mean node |  |  |
+| ☋ South Node | ♎ Libra 17°49′ | Virgo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

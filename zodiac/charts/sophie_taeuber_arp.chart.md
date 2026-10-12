@@ -7,20 +7,20 @@ Born 1889-01-19 (gregorian calendar), Davos-Platz, born in the sanatorium valley
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 29°11′ | 1 | 1.018°/d |  |  |
-| ☽ Moon | ♌ Leo 19°27′ | 8 | 12.682°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 12°40′ | 2 | 1.655°/d |  |  |
-| ♀ Venus | ♓ Pisces 13°30′ | 3 | 1.147°/d | exaltation |  |
-| ♂ Mars | ♓ Pisces 7°20′ | 3 | 0.778°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 26°29′ | 12 | 0.209°/d | domicile |  |
-| ♄ Saturn | ♌ Leo 18°23′ | 8 | R -0.074°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 21°44′ | 10 | 0.006°/d (stationary) |  |  |
-| ♆ Neptune | ♉ Taurus 29°39′ | 5 | R -0.011°/d |  |  |
-| ♇ Pluto | ♊ Gemini 4°10′ | 6 | R -0.010°/d (stationary) |  |  |
-| ☊ North Node | ♋ Cancer 20°55′ | 7 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 20°55′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 29°11′ | Sagittarius | 1 | 1.018°/d |  |  |
+| ☽ Moon | ♌ Leo 19°27′ | Leo | 8 | 12.682°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 12°40′ | Capricornus | 2 | 1.655°/d |  |  |
+| ♀ Venus | ♓ Pisces 13°30′ | Aquarius | 3 | 1.147°/d | exaltation |  |
+| ♂ Mars | ♓ Pisces 7°20′ | Aquarius | 3 | 0.778°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 26°29′ | Ophiuchus | 12 | 0.209°/d | domicile |  |
+| ♄ Saturn | ♌ Leo 18°23′ | Leo | 8 | R -0.074°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 21°44′ | Virgo | 10 | 0.006°/d (stationary) |  |  |
+| ♆ Neptune | ♉ Taurus 29°39′ | Taurus | 5 | R -0.011°/d |  |  |
+| ♇ Pluto | ♊ Gemini 4°10′ | Taurus | 6 | R -0.010°/d (stationary) |  |  |
+| ☊ North Node | ♋ Cancer 20°55′ | Gemini | 7 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 20°55′ | Sagittarius | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

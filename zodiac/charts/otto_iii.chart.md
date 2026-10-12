@@ -7,20 +7,20 @@ Born 983-12-25 (julian calendar), Aachen: the coronation of the three-year-old k
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 8°33′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♌ Leo 9°56′ | 8 | 14.859°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 0°22′ | 1 | R -1.122°/d |  |  |
-| ♀ Venus | ♒ Aquarius 9°59′ | 2 | 1.232°/d |  |  |
-| ♂ Mars | ♑ Capricornus 4°22′ | 1 | 0.774°/d | exaltation |  |
-| ♃ Jupiter | ♍ Virgo 7°55′ | 9 | R -0.020°/d | detriment |  |
-| ♄ Saturn | ♏ Scorpio 16°54′ | 11 | 0.088°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 1°37′ | 1 | 0.059°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 21°44′ | 11 | 0.028°/d |  |  |
-| ♇ Pluto | ♍ Virgo 25°22′ | 9 | R -0.001°/d (stationary) |  |  |
-| ☊ North Node | ♓ Pisces 5°47′ | 3 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 5°47′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 8°33′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♌ Leo 9°56′ | Cancer | 8 | 14.859°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 0°22′ | Sagittarius | 1 | R -1.122°/d |  |  |
+| ♀ Venus | ♒ Aquarius 9°59′ | Capricornus | 2 | 1.232°/d |  |  |
+| ♂ Mars | ♑ Capricornus 4°22′ | Sagittarius | 1 | 0.774°/d | exaltation |  |
+| ♃ Jupiter | ♍ Virgo 7°55′ | Leo | 9 | R -0.020°/d | detriment |  |
+| ♄ Saturn | ♏ Scorpio 16°54′ | Libra | 11 | 0.088°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 1°37′ | Sagittarius | 1 | 0.059°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 21°44′ | Libra | 11 | 0.028°/d |  |  |
+| ♇ Pluto | ♍ Virgo 25°22′ | Virgo | 9 | R -0.001°/d (stationary) |  |  |
+| ☊ North Node | ♓ Pisces 5°47′ | Aquarius | 3 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 5°47′ | Leo | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

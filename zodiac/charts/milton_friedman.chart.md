@@ -7,20 +7,20 @@ Born 1912-07-31 (gregorian calendar), East New York, Brooklyn, the birth (lat 40
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 7°24′ | 1 | 0.957°/d | domicile |  |
-| ☽ Moon | ♒ Aquarius 27°12′ | 7 | 11.889°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♍ Virgo 3°40′ | 2 | 0.649°/d | domicile, exaltation |  |
-| ♀ Venus | ♌ Leo 14°18′ | 1 | 1.233°/d |  |  |
-| ♂ Mars | ♍ Virgo 8°37′ | 2 | 0.624°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 5°32′ | 5 | R -0.008°/d (stationary) | domicile |  |
-| ♄ Saturn | ♊ Gemini 2°12′ | 11 | 0.078°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 1°16′ | 7 | R -0.040°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 24°07′ | 12 | 0.036°/d |  |  |
-| ♇ Pluto | ♊ Gemini 29°27′ | 11 | 0.020°/d |  |  |
-| ☊ North Node | ♈ Aries 15°53′ | 9 | mean node |  |  |
-| ☋ South Node | ♎ Libra 15°53′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 7°24′ | Cancer | 1 | 0.957°/d | domicile |  |
+| ☽ Moon | ♒ Aquarius 27°12′ | Capricornus | 7 | 11.889°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♍ Virgo 3°40′ | Leo | 2 | 0.649°/d | domicile, exaltation |  |
+| ♀ Venus | ♌ Leo 14°18′ | Cancer | 1 | 1.233°/d |  |  |
+| ♂ Mars | ♍ Virgo 8°37′ | Leo | 2 | 0.624°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 5°32′ | Scorpius | 5 | R -0.008°/d (stationary) | domicile |  |
+| ♄ Saturn | ♊ Gemini 2°12′ | Taurus | 11 | 0.078°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 1°16′ | Capricornus | 7 | R -0.040°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 24°07′ | Gemini | 12 | 0.036°/d |  |  |
+| ♇ Pluto | ♊ Gemini 29°27′ | Taurus | 11 | 0.020°/d |  |  |
+| ☊ North Node | ♈ Aries 15°53′ | Pisces | 9 | mean node |  |  |
+| ☋ South Node | ♎ Libra 15°53′ | Virgo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

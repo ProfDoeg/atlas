@@ -7,20 +7,20 @@ Born 0076-01-24 (julian calendar), Rome: the birth of Publius Aelius Hadrianus (
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 2°26′ | 1 | 1.007°/d | detriment |  |
-| ☽ Moon | ♑ Capricornus 23°30′ | 12 | 15.133°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
-| ☿ Mercury | ♑ Capricornus 6°37′ | 12 | 1.182°/d |  |  |
-| ♀ Venus | ♓ Pisces 13°44′ | 2 | 1.169°/d | exaltation |  |
-| ♂ Mars | ♓ Pisces 19°02′ | 2 | 0.721°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 26°28′ | 12 | 0.239°/d | fall |  |
-| ♄ Saturn | ♐ Sagittarius 29°56′ | 11 | 0.106°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 23°29′ | 1 | 0.054°/d | domicile (modern) |  |
-| ♆ Neptune | ♉ Taurus 2°05′ | 4 | 0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♒ Aquarius 19°02′ | 1 | 0.026°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 16°41′ | 11 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 16°41′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 2°26′ | Capricornus | 1 | 1.007°/d | detriment |  |
+| ☽ Moon | ♑ Capricornus 23°30′ | Sagittarius | 12 | 15.133°/d | detriment | within 7° of a sign boundary: the Moon's sign may differ (Capricornus or Aquarius) |
+| ☿ Mercury | ♑ Capricornus 6°37′ | Sagittarius | 12 | 1.182°/d |  |  |
+| ♀ Venus | ♓ Pisces 13°44′ | Aquarius | 2 | 1.169°/d | exaltation |  |
+| ♂ Mars | ♓ Pisces 19°02′ | Aquarius | 2 | 0.721°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 26°28′ | Sagittarius | 12 | 0.239°/d | fall |  |
+| ♄ Saturn | ♐ Sagittarius 29°56′ | Sagittarius | 11 | 0.106°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 23°29′ | Capricornus | 1 | 0.054°/d | domicile (modern) |  |
+| ♆ Neptune | ♉ Taurus 2°05′ | Aries | 4 | 0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♒ Aquarius 19°02′ | Capricornus | 1 | 0.026°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 16°41′ | Ophiuchus | 11 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 16°41′ | Taurus | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

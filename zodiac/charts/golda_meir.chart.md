@@ -7,20 +7,20 @@ Born 1898-05-03 (gregorian calendar), Kyiv, born in the Pale (lat 50.4409, lng 3
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 12°34′ | 1 | 0.969°/d |  |  |
-| ☽ Moon | ♍ Virgo 28°51′ | 5 | 13.636°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♉ Taurus 10°03′ | 1 | R -0.634°/d |  |  |
-| ♀ Venus | ♊ Gemini 1°39′ | 2 | 1.224°/d |  |  |
-| ♂ Mars | ♈ Aries 3°12′ | 12 | 0.769°/d | domicile |  |
-| ♃ Jupiter | ♎ Libra 1°14′ | 6 | R -0.072°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 10°54′ | 8 | R -0.060°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 2°12′ | 8 | R -0.038°/d |  |  |
-| ♆ Neptune | ♊ Gemini 20°49′ | 2 | 0.031°/d |  |  |
-| ♇ Pluto | ♊ Gemini 13°30′ | 2 | 0.020°/d |  |  |
-| ☊ North Node | ♑ Capricornus 21°21′ | 9 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 21°21′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 12°34′ | Aries | 1 | 0.969°/d |  |  |
+| ☽ Moon | ♍ Virgo 28°51′ | Virgo | 5 | 13.636°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♉ Taurus 10°03′ | Aries | 1 | R -0.634°/d |  |  |
+| ♀ Venus | ♊ Gemini 1°39′ | Taurus | 2 | 1.224°/d |  |  |
+| ♂ Mars | ♈ Aries 3°12′ | Pisces | 12 | 0.769°/d | domicile |  |
+| ♃ Jupiter | ♎ Libra 1°14′ | Virgo | 6 | R -0.072°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 10°54′ | Ophiuchus | 8 | R -0.060°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 2°12′ | Scorpius | 8 | R -0.038°/d |  |  |
+| ♆ Neptune | ♊ Gemini 20°49′ | Taurus | 2 | 0.031°/d |  |  |
+| ♇ Pluto | ♊ Gemini 13°30′ | Taurus | 2 | 0.020°/d |  |  |
+| ☊ North Node | ♑ Capricornus 21°21′ | Sagittarius | 9 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 21°21′ | Gemini | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

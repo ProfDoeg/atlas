@@ -7,20 +7,20 @@ Born 1859-10-20 (gregorian calendar), Burlington, birth at 186 South Willard Str
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 26°05′ | 1 | 0.995°/d | fall |  |
-| ☽ Moon | ♌ Leo 6°02′ | 11 | 14.125°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♏ Scorpio 2°04′ | 2 | 1.616°/d |  |  |
-| ♀ Venus | ♏ Scorpio 1°50′ | 2 | 1.251°/d | detriment |  |
-| ♂ Mars | ♍ Virgo 25°44′ | 12 | 0.630°/d |  |  |
-| ♃ Jupiter | ♋ Cancer 24°23′ | 10 | 0.074°/d | exaltation |  |
-| ♄ Saturn | ♌ Leo 24°06′ | 11 | 0.081°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 7°13′ | 9 | R -0.029°/d |  |  |
-| ♆ Neptune | ♓ Pisces 24°54′ | 6 | R -0.023°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 7°46′ | 8 | R -0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 16°41′ | 5 | mean node |  |  |
-| ☋ South Node | ♌ Leo 16°41′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 26°05′ | Virgo | 1 | 0.995°/d | fall |  |
+| ☽ Moon | ♌ Leo 6°02′ | Cancer | 11 | 14.125°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♏ Scorpio 2°04′ | Virgo | 2 | 1.616°/d |  |  |
+| ♀ Venus | ♏ Scorpio 1°50′ | Virgo | 2 | 1.251°/d | detriment |  |
+| ♂ Mars | ♍ Virgo 25°44′ | Virgo | 12 | 0.630°/d |  |  |
+| ♃ Jupiter | ♋ Cancer 24°23′ | Gemini | 10 | 0.074°/d | exaltation |  |
+| ♄ Saturn | ♌ Leo 24°06′ | Leo | 11 | 0.081°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 7°13′ | Taurus | 9 | R -0.029°/d |  |  |
+| ♆ Neptune | ♓ Pisces 24°54′ | Pisces | 6 | R -0.023°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 7°46′ | Aries | 8 | R -0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 16°41′ | Capricornus | 5 | mean node |  |  |
+| ☋ South Node | ♌ Leo 16°41′ | Cancer | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

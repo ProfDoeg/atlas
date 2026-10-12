@@ -7,20 +7,20 @@ Born 1803-05-25 (gregorian calendar), 31 Baker Street, London: the birth (lat 51
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 2°47′ | 1 | 0.960°/d |  |  |
-| ☽ Moon | ♋ Cancer 24°07′ | 2 | 12.944°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♊ Gemini 23°47′ | 1 | 1.498°/d | domicile |  |
-| ♀ Venus | ♈ Aries 26°27′ | 11 | 1.176°/d | detriment |  |
-| ♂ Mars | ♌ Leo 7°13′ | 3 | 0.555°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 25°55′ | 4 | 0.003°/d (stationary) | detriment |  |
-| ♄ Saturn | ♍ Virgo 13°57′ | 4 | 0.014°/d |  |  |
-| ♅ Uranus | ♎ Libra 7°14′ | 5 | R -0.018°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 22°09′ | 6 | R -0.026°/d |  |  |
-| ♇ Pluto | ♓ Pisces 8°23′ | 10 | 0.006°/d (stationary) |  |  |
-| ☊ North Node | ♒ Aquarius 27°38′ | 9 | mean node |  |  |
-| ☋ South Node | ♌ Leo 27°38′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 2°47′ | Taurus | 1 | 0.960°/d |  |  |
+| ☽ Moon | ♋ Cancer 24°07′ | Gemini | 2 | 12.944°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♊ Gemini 23°47′ | Taurus | 1 | 1.498°/d | domicile |  |
+| ♀ Venus | ♈ Aries 26°27′ | Pisces | 11 | 1.176°/d | detriment |  |
+| ♂ Mars | ♌ Leo 7°13′ | Cancer | 3 | 0.555°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 25°55′ | Virgo | 4 | 0.003°/d (stationary) | detriment |  |
+| ♄ Saturn | ♍ Virgo 13°57′ | Leo | 4 | 0.014°/d |  |  |
+| ♅ Uranus | ♎ Libra 7°14′ | Virgo | 5 | R -0.018°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 22°09′ | Libra | 6 | R -0.026°/d |  |  |
+| ♇ Pluto | ♓ Pisces 8°23′ | Aquarius | 10 | 0.006°/d (stationary) |  |  |
+| ☊ North Node | ♒ Aquarius 27°38′ | Capricornus | 9 | mean node |  |  |
+| ☋ South Node | ♌ Leo 27°38′ | Leo | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

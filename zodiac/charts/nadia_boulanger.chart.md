@@ -7,20 +7,20 @@ Born 1887-09-16 (gregorian calendar), 30 rue La Bruyere, Paris: born into the tr
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♍ Virgo 22°48′ | 1 | 0.976°/d |  |  |
-| ☽ Moon | ♍ Virgo 0°38′ | 1 | 14.739°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♍ Virgo 27°18′ | 1 | 1.788°/d | domicile, exaltation |  |
-| ♀ Venus | ♎ Libra 1°40′ | 2 | R -0.549°/d | domicile |  |
-| ♂ Mars | ♌ Leo 12°33′ | 12 | 0.625°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 5°06′ | 3 | 0.187°/d |  |  |
-| ♄ Saturn | ♌ Leo 3°11′ | 12 | 0.099°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 11°24′ | 2 | 0.061°/d |  |  |
-| ♆ Neptune | ♊ Gemini 0°03′ | 10 | R -0.007°/d (stationary) |  |  |
-| ♇ Pluto | ♊ Gemini 5°02′ | 10 | R -0.004°/d (stationary) |  |  |
-| ☊ North Node | ♌ Leo 16°55′ | 12 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 16°55′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♍ Virgo 22°48′ | Leo | 1 | 0.976°/d |  |  |
+| ☽ Moon | ♍ Virgo 0°38′ | Leo | 1 | 14.739°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♍ Virgo 27°18′ | Virgo | 1 | 1.788°/d | domicile, exaltation |  |
+| ♀ Venus | ♎ Libra 1°40′ | Virgo | 2 | R -0.549°/d | domicile |  |
+| ♂ Mars | ♌ Leo 12°33′ | Cancer | 12 | 0.625°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 5°06′ | Virgo | 3 | 0.187°/d |  |  |
+| ♄ Saturn | ♌ Leo 3°11′ | Cancer | 12 | 0.099°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 11°24′ | Virgo | 2 | 0.061°/d |  |  |
+| ♆ Neptune | ♊ Gemini 0°03′ | Taurus | 10 | R -0.007°/d (stationary) |  |  |
+| ♇ Pluto | ♊ Gemini 5°02′ | Taurus | 10 | R -0.004°/d (stationary) |  |  |
+| ☊ North Node | ♌ Leo 16°55′ | Cancer | 12 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 16°55′ | Capricornus | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Virgo))
 

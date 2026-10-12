@@ -7,20 +7,20 @@ Born 1905-08-16 (gregorian calendar), Bydgoszcz, ul. Wileńska 6: the birth (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 22°27′ | 1 | 0.961°/d | domicile |  |
-| ☽ Moon | ♓ Pisces 2°18′ | 8 | 12.418°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
-| ☿ Mercury | ♍ Virgo 14°03′ | 2 | 0.032°/d | domicile, exaltation |  |
-| ♀ Venus | ♋ Cancer 10°44′ | 12 | 1.124°/d |  |  |
-| ♂ Mars | ♏ Scorpio 26°49′ | 4 | 0.529°/d | domicile |  |
-| ♃ Jupiter | ♊ Gemini 3°53′ | 11 | 0.121°/d | detriment |  |
-| ♄ Saturn | ♒ Aquarius 29°55′ | 7 | R -0.075°/d | domicile |  |
-| ♅ Uranus | ♑ Capricornus 0°25′ | 6 | R -0.020°/d |  |  |
-| ♆ Neptune | ♋ Cancer 9°34′ | 12 | 0.029°/d |  |  |
-| ♇ Pluto | ♊ Gemini 22°32′ | 11 | 0.013°/d |  |  |
-| ☊ North Node | ♍ Virgo 0°27′ | 2 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 0°27′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 22°27′ | Leo | 1 | 0.961°/d | domicile |  |
+| ☽ Moon | ♓ Pisces 2°18′ | Aquarius | 8 | 12.418°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Aquarius or Pisces) |
+| ☿ Mercury | ♍ Virgo 14°03′ | Leo | 2 | 0.032°/d | domicile, exaltation |  |
+| ♀ Venus | ♋ Cancer 10°44′ | Gemini | 12 | 1.124°/d |  |  |
+| ♂ Mars | ♏ Scorpio 26°49′ | Libra | 4 | 0.529°/d | domicile |  |
+| ♃ Jupiter | ♊ Gemini 3°53′ | Taurus | 11 | 0.121°/d | detriment |  |
+| ♄ Saturn | ♒ Aquarius 29°55′ | Aquarius | 7 | R -0.075°/d | domicile |  |
+| ♅ Uranus | ♑ Capricornus 0°25′ | Sagittarius | 6 | R -0.020°/d |  |  |
+| ♆ Neptune | ♋ Cancer 9°34′ | Gemini | 12 | 0.029°/d |  |  |
+| ♇ Pluto | ♊ Gemini 22°32′ | Taurus | 11 | 0.013°/d |  |  |
+| ☊ North Node | ♍ Virgo 0°27′ | Leo | 2 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 0°27′ | Aquarius | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

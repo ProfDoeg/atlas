@@ -7,20 +7,20 @@ Born 1890-06-23 (gregorian calendar), Buenos Aires, birth into an immigrant hous
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 1°27′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♍ Virgo 2°37′ | 3 | 11.917°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
-| ☿ Mercury | ♊ Gemini 9°25′ | 12 | 0.859°/d | domicile |  |
-| ♀ Venus | ♌ Leo 2°46′ | 2 | 1.196°/d |  |  |
-| ♂ Mars | ♏ Scorpio 28°52′ | 5 | R -0.160°/d | domicile |  |
-| ♃ Jupiter | ♒ Aquarius 11°25′ | 8 | R -0.070°/d |  |  |
-| ♄ Saturn | ♌ Leo 29°39′ | 2 | 0.086°/d | detriment |  |
-| ♅ Uranus | ♎ Libra 22°23′ | 4 | R -0.006°/d (stationary) |  |  |
-| ♆ Neptune | ♊ Gemini 5°19′ | 12 | 0.034°/d |  |  |
-| ♇ Pluto | ♊ Gemini 7°01′ | 12 | 0.021°/d |  |  |
-| ☊ North Node | ♊ Gemini 23°23′ | 12 | mean node |  |  |
-| ☋ South Node | ♐ Sagittarius 23°23′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 1°27′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♍ Virgo 2°37′ | Leo | 3 | 11.917°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Leo or Virgo) |
+| ☿ Mercury | ♊ Gemini 9°25′ | Taurus | 12 | 0.859°/d | domicile |  |
+| ♀ Venus | ♌ Leo 2°46′ | Cancer | 2 | 1.196°/d |  |  |
+| ♂ Mars | ♏ Scorpio 28°52′ | Libra | 5 | R -0.160°/d | domicile |  |
+| ♃ Jupiter | ♒ Aquarius 11°25′ | Capricornus | 8 | R -0.070°/d |  |  |
+| ♄ Saturn | ♌ Leo 29°39′ | Leo | 2 | 0.086°/d | detriment |  |
+| ♅ Uranus | ♎ Libra 22°23′ | Virgo | 4 | R -0.006°/d (stationary) |  |  |
+| ♆ Neptune | ♊ Gemini 5°19′ | Taurus | 12 | 0.034°/d |  |  |
+| ♇ Pluto | ♊ Gemini 7°01′ | Taurus | 12 | 0.021°/d |  |  |
+| ☊ North Node | ♊ Gemini 23°23′ | Taurus | 12 | mean node |  |  |
+| ☋ South Node | ♐ Sagittarius 23°23′ | Ophiuchus | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

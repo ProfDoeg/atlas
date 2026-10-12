@@ -7,20 +7,20 @@ Born 1789-10-25 (gregorian calendar), Reducción de Santo Ángel Guardián, Misi
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 2°02′ | 1 | 0.999°/d |  |  |
-| ☽ Moon | ♑ Capricornus 22°36′ | 3 | 12.493°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 22°23′ | 1 | 0.075°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 9°35′ | 2 | 1.203°/d |  |  |
-| ♂ Mars | ♌ Leo 11°01′ | 10 | 0.500°/d |  |  |
-| ♃ Jupiter | ♌ Leo 27°11′ | 10 | 0.144°/d |  |  |
-| ♄ Saturn | ♓ Pisces 16°58′ | 5 | R -0.042°/d |  |  |
-| ♅ Uranus | ♌ Leo 9°08′ | 10 | 0.018°/d | detriment (modern) |  |
-| ♆ Neptune | ♎ Libra 23°26′ | 12 | 0.037°/d |  |  |
-| ♇ Pluto | ♒ Aquarius 16°54′ | 4 | R -0.002°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 20°14′ | 1 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 20°14′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 2°02′ | Virgo | 1 | 0.999°/d |  |  |
+| ☽ Moon | ♑ Capricornus 22°36′ | Sagittarius | 3 | 12.493°/d | detriment | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 22°23′ | Libra | 1 | 0.075°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 9°35′ | Ophiuchus | 2 | 1.203°/d |  |  |
+| ♂ Mars | ♌ Leo 11°01′ | Cancer | 10 | 0.500°/d |  |  |
+| ♃ Jupiter | ♌ Leo 27°11′ | Leo | 10 | 0.144°/d |  |  |
+| ♄ Saturn | ♓ Pisces 16°58′ | Aquarius | 5 | R -0.042°/d |  |  |
+| ♅ Uranus | ♌ Leo 9°08′ | Cancer | 10 | 0.018°/d | detriment (modern) |  |
+| ♆ Neptune | ♎ Libra 23°26′ | Virgo | 12 | 0.037°/d |  |  |
+| ♇ Pluto | ♒ Aquarius 16°54′ | Capricornus | 4 | R -0.002°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 20°14′ | Libra | 1 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 20°14′ | Aries | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

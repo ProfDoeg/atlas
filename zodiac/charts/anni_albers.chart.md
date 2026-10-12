@@ -7,20 +7,20 @@ Born 1899-06-12 (gregorian calendar), Charlottenburg, Berlin: the birth into two
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 20°47′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♌ Leo 2°27′ | 3 | 11.870°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♊ Gemini 17°19′ | 1 | 2.186°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 25°05′ | 12 | 1.206°/d | domicile |  |
-| ♂ Mars | ♌ Leo 27°41′ | 3 | 0.548°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 0°41′ | 6 | R -0.046°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 20°20′ | 7 | R -0.074°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 5°15′ | 7 | R -0.039°/d |  |  |
-| ♆ Neptune | ♊ Gemini 24°22′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♊ Gemini 15°21′ | 1 | 0.023°/d |  |  |
-| ☊ North Node | ♐ Sagittarius 29°54′ | 7 | mean node |  |  |
-| ☋ South Node | ♊ Gemini 29°54′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 20°47′ | Taurus | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♌ Leo 2°27′ | Cancer | 3 | 11.870°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♊ Gemini 17°19′ | Taurus | 1 | 2.186°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 25°05′ | Taurus | 12 | 1.206°/d | domicile |  |
+| ♂ Mars | ♌ Leo 27°41′ | Leo | 3 | 0.548°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 0°41′ | Virgo | 6 | R -0.046°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 20°20′ | Ophiuchus | 7 | R -0.074°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 5°15′ | Scorpius | 7 | R -0.039°/d |  |  |
+| ♆ Neptune | ♊ Gemini 24°22′ | Taurus | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♊ Gemini 15°21′ | Taurus | 1 | 0.023°/d |  |  |
+| ☊ North Node | ♐ Sagittarius 29°54′ | Sagittarius | 7 | mean node |  |  |
+| ☋ South Node | ♊ Gemini 29°54′ | Taurus | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

@@ -7,20 +7,20 @@ Born 1840-05-07 (gregorian calendar), Votkinsk, the manager's house at the ironw
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 16°28′ | 1 | 0.967°/d |  |  |
-| ☽ Moon | ♋ Cancer 25°51′ | 3 | 14.049°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♈ Aries 20°12′ | 12 | 1.027°/d |  |  |
-| ♀ Venus | ♈ Aries 25°14′ | 12 | 1.220°/d | detriment |  |
-| ♂ Mars | ♉ Taurus 15°53′ | 1 | 0.726°/d | detriment |  |
-| ♃ Jupiter | ♏ Scorpio 13°37′ | 7 | R -0.127°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 20°36′ | 8 | R -0.054°/d |  |  |
-| ♅ Uranus | ♓ Pisces 19°35′ | 11 | 0.037°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 14°48′ | 10 | 0.005°/d (stationary) |  |  |
-| ♇ Pluto | ♈ Aries 19°07′ | 12 | 0.021°/d |  |  |
-| ☊ North Node | ♓ Pisces 2°55′ | 11 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 2°55′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 16°28′ | Aries | 1 | 0.967°/d |  |  |
+| ☽ Moon | ♋ Cancer 25°51′ | Gemini | 3 | 14.049°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♈ Aries 20°12′ | Pisces | 12 | 1.027°/d |  |  |
+| ♀ Venus | ♈ Aries 25°14′ | Pisces | 12 | 1.220°/d | detriment |  |
+| ♂ Mars | ♉ Taurus 15°53′ | Aries | 1 | 0.726°/d | detriment |  |
+| ♃ Jupiter | ♏ Scorpio 13°37′ | Libra | 7 | R -0.127°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 20°36′ | Ophiuchus | 8 | R -0.054°/d |  |  |
+| ♅ Uranus | ♓ Pisces 19°35′ | Aquarius | 11 | 0.037°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 14°48′ | Capricornus | 10 | 0.005°/d (stationary) |  |  |
+| ♇ Pluto | ♈ Aries 19°07′ | Pisces | 12 | 0.021°/d |  |  |
+| ☊ North Node | ♓ Pisces 2°55′ | Aquarius | 11 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 2°55′ | Leo | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

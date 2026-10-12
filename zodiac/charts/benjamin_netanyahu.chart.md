@@ -7,20 +7,20 @@ Born 1949-10-21 (gregorian calendar), Tel Aviv, the birth of the second son (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 27°16′ | 1 | 0.995°/d | fall |  |
-| ☽ Moon | ♎ Libra 14°36′ | 1 | 15.171°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 9°17′ | 1 | 1.171°/d |  |  |
-| ♀ Venus | ♐ Sagittarius 12°03′ | 3 | 1.129°/d |  |  |
-| ♂ Mars | ♌ Leo 26°32′ | 11 | 0.578°/d |  |  |
-| ♃ Jupiter | ♑ Capricornus 24°03′ | 4 | 0.099°/d | fall |  |
-| ♄ Saturn | ♍ Virgo 15°26′ | 12 | 0.105°/d |  |  |
-| ♅ Uranus | ♋ Cancer 4°57′ | 10 | R -0.009°/d (stationary) |  |  |
-| ♆ Neptune | ♎ Libra 15°27′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♌ Leo 18°02′ | 11 | 0.014°/d |  |  |
-| ☊ North Node | ♈ Aries 15°56′ | 7 | mean node |  |  |
-| ☋ South Node | ♎ Libra 15°56′ | 1 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 27°16′ | Virgo | 1 | 0.995°/d | fall |  |
+| ☽ Moon | ♎ Libra 14°36′ | Virgo | 1 | 15.171°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 9°17′ | Virgo | 1 | 1.171°/d |  |  |
+| ♀ Venus | ♐ Sagittarius 12°03′ | Ophiuchus | 3 | 1.129°/d |  |  |
+| ♂ Mars | ♌ Leo 26°32′ | Leo | 11 | 0.578°/d |  |  |
+| ♃ Jupiter | ♑ Capricornus 24°03′ | Sagittarius | 4 | 0.099°/d | fall |  |
+| ♄ Saturn | ♍ Virgo 15°26′ | Leo | 12 | 0.105°/d |  |  |
+| ♅ Uranus | ♋ Cancer 4°57′ | Gemini | 10 | R -0.009°/d (stationary) |  |  |
+| ♆ Neptune | ♎ Libra 15°27′ | Virgo | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♌ Leo 18°02′ | Cancer | 11 | 0.014°/d |  |  |
+| ☊ North Node | ♈ Aries 15°56′ | Pisces | 7 | mean node |  |  |
+| ☋ South Node | ♎ Libra 15°56′ | Virgo | 1 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

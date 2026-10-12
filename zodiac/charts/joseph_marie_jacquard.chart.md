@@ -7,20 +7,20 @@ Born 1752-07-07 (gregorian calendar), Lyon, the birth in the silk trade (lat 45.
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 15°07′ | 1 | 0.953°/d |  |  |
-| ☽ Moon | ♉ Taurus 14°44′ | 11 | 14.148°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 1°15′ | 1 | 1.917°/d |  |  |
-| ♀ Venus | ♋ Cancer 3°39′ | 1 | 1.225°/d |  |  |
-| ♂ Mars | ♌ Leo 9°52′ | 2 | 0.627°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 28°53′ | 12 | 0.224°/d | detriment |  |
-| ♄ Saturn | ♐ Sagittarius 19°30′ | 6 | R -0.062°/d |  |  |
-| ♅ Uranus | ♓ Pisces 3°11′ | 9 | R -0.022°/d |  |  |
-| ♆ Neptune | ♌ Leo 1°15′ | 2 | 0.036°/d |  |  |
-| ♇ Pluto | ♐ Sagittarius 6°55′ | 6 | R -0.020°/d |  |  |
-| ☊ North Node | ♏ Scorpio 21°41′ | 5 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 21°41′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 15°07′ | Gemini | 1 | 0.953°/d |  |  |
+| ☽ Moon | ♉ Taurus 14°44′ | Aries | 11 | 14.148°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 1°15′ | Gemini | 1 | 1.917°/d |  |  |
+| ♀ Venus | ♋ Cancer 3°39′ | Gemini | 1 | 1.225°/d |  |  |
+| ♂ Mars | ♌ Leo 9°52′ | Cancer | 2 | 0.627°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 28°53′ | Taurus | 12 | 0.224°/d | detriment |  |
+| ♄ Saturn | ♐ Sagittarius 19°30′ | Ophiuchus | 6 | R -0.062°/d |  |  |
+| ♅ Uranus | ♓ Pisces 3°11′ | Aquarius | 9 | R -0.022°/d |  |  |
+| ♆ Neptune | ♌ Leo 1°15′ | Cancer | 2 | 0.036°/d |  |  |
+| ♇ Pluto | ♐ Sagittarius 6°55′ | Scorpius | 6 | R -0.020°/d |  |  |
+| ☊ North Node | ♏ Scorpio 21°41′ | Libra | 5 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 21°41′ | Aries | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

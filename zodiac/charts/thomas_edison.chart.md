@@ -7,20 +7,20 @@ Born 1847-02-11 (gregorian calendar), Milan, Ohio, the house above the Huron (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 21°42′ | 1 | 1.011°/d | detriment |  |
-| ☽ Moon | ♐ Sagittarius 20°54′ | 11 | 13.597°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 17°24′ | 1 | 1.741°/d |  |  |
-| ♀ Venus | ♓ Pisces 5°18′ | 2 | 1.250°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 0°20′ | 12 | 0.705°/d | exaltation |  |
-| ♃ Jupiter | ♊ Gemini 6°46′ | 5 | 0.035°/d | detriment |  |
-| ♄ Saturn | ♓ Pisces 1°49′ | 2 | 0.120°/d |  |  |
-| ♅ Uranus | ♈ Aries 11°35′ | 3 | 0.041°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 27°35′ | 1 | 0.038°/d |  |  |
-| ♇ Pluto | ♈ Aries 24°11′ | 3 | 0.012°/d |  |  |
-| ☊ North Node | ♎ Libra 22°04′ | 9 | mean node |  |  |
-| ☋ South Node | ♈ Aries 22°04′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 21°42′ | Capricornus | 1 | 1.011°/d | detriment |  |
+| ☽ Moon | ♐ Sagittarius 20°54′ | Ophiuchus | 11 | 13.597°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 17°24′ | Capricornus | 1 | 1.741°/d |  |  |
+| ♀ Venus | ♓ Pisces 5°18′ | Aquarius | 2 | 1.250°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 0°20′ | Sagittarius | 12 | 0.705°/d | exaltation |  |
+| ♃ Jupiter | ♊ Gemini 6°46′ | Taurus | 5 | 0.035°/d | detriment |  |
+| ♄ Saturn | ♓ Pisces 1°49′ | Aquarius | 2 | 0.120°/d |  |  |
+| ♅ Uranus | ♈ Aries 11°35′ | Pisces | 3 | 0.041°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 27°35′ | Capricornus | 1 | 0.038°/d |  |  |
+| ♇ Pluto | ♈ Aries 24°11′ | Pisces | 3 | 0.012°/d |  |  |
+| ☊ North Node | ♎ Libra 22°04′ | Virgo | 9 | mean node |  |  |
+| ☋ South Node | ♈ Aries 22°04′ | Pisces | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

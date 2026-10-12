@@ -7,20 +7,20 @@ Born 1879-02-16 (gregorian calendar), Kronstadt, birth in the judge's house (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 26°59′ | 1 | 1.009°/d | detriment |  |
-| ☽ Moon | ♐ Sagittarius 25°13′ | 11 | 13.513°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
-| ☿ Mercury | ♒ Aquarius 14°29′ | 1 | 1.641°/d |  |  |
-| ♀ Venus | ♓ Pisces 14°12′ | 2 | 1.246°/d | exaltation |  |
-| ♂ Mars | ♑ Capricornus 7°47′ | 12 | 0.718°/d | exaltation |  |
-| ♃ Jupiter | ♒ Aquarius 21°25′ | 1 | 0.239°/d |  |  |
-| ♄ Saturn | ♈ Aries 0°45′ | 3 | 0.111°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 2°12′ | 8 | R -0.044°/d |  |  |
-| ♆ Neptune | ♉ Taurus 7°16′ | 4 | 0.017°/d |  |  |
-| ♇ Pluto | ♉ Taurus 24°33′ | 4 | 0.003°/d (stationary) | detriment (modern) |  |
-| ☊ North Node | ♒ Aquarius 2°53′ | 1 | mean node |  |  |
-| ☋ South Node | ♌ Leo 2°53′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 26°59′ | Capricornus | 1 | 1.009°/d | detriment |  |
+| ☽ Moon | ♐ Sagittarius 25°13′ | Ophiuchus | 11 | 13.513°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Sagittarius or Capricornus) |
+| ☿ Mercury | ♒ Aquarius 14°29′ | Capricornus | 1 | 1.641°/d |  |  |
+| ♀ Venus | ♓ Pisces 14°12′ | Aquarius | 2 | 1.246°/d | exaltation |  |
+| ♂ Mars | ♑ Capricornus 7°47′ | Sagittarius | 12 | 0.718°/d | exaltation |  |
+| ♃ Jupiter | ♒ Aquarius 21°25′ | Capricornus | 1 | 0.239°/d |  |  |
+| ♄ Saturn | ♈ Aries 0°45′ | Pisces | 3 | 0.111°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 2°12′ | Leo | 8 | R -0.044°/d |  |  |
+| ♆ Neptune | ♉ Taurus 7°16′ | Aries | 4 | 0.017°/d |  |  |
+| ♇ Pluto | ♉ Taurus 24°33′ | Taurus | 4 | 0.003°/d (stationary) | detriment (modern) |  |
+| ☊ North Node | ♒ Aquarius 2°53′ | Capricornus | 1 | mean node |  |  |
+| ☋ South Node | ♌ Leo 2°53′ | Cancer | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

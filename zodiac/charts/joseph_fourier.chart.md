@@ -7,20 +7,20 @@ Born 1768-03-21 (gregorian calendar), Auxerre, birth in the tailor's house (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 0°55′ | 1 | 0.991°/d | exaltation |  |
-| ☽ Moon | ♉ Taurus 4°08′ | 2 | 15.005°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
-| ☿ Mercury | ♈ Aries 16°04′ | 1 | 0.078°/d |  |  |
-| ♀ Venus | ♒ Aquarius 23°59′ | 11 | 1.198°/d |  |  |
-| ♂ Mars | ♑ Capricornus 27°01′ | 10 | 0.715°/d | exaltation |  |
-| ♃ Jupiter | ♎ Libra 20°06′ | 7 | R -0.115°/d |  |  |
-| ♄ Saturn | ♊ Gemini 27°40′ | 3 | 0.042°/d |  |  |
-| ♅ Uranus | ♉ Taurus 1°32′ | 2 | 0.051°/d |  |  |
-| ♆ Neptune | ♍ Virgo 5°26′ | 6 | R -0.025°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 13°44′ | 10 | 0.012°/d |  |  |
-| ☊ North Node | ♑ Capricornus 17°56′ | 10 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 17°56′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 0°55′ | Pisces | 1 | 0.991°/d | exaltation |  |
+| ☽ Moon | ♉ Taurus 4°08′ | Aries | 2 | 15.005°/d | exaltation | within 7° of a sign boundary: the Moon's sign may differ (Aries or Taurus) |
+| ☿ Mercury | ♈ Aries 16°04′ | Pisces | 1 | 0.078°/d |  |  |
+| ♀ Venus | ♒ Aquarius 23°59′ | Capricornus | 11 | 1.198°/d |  |  |
+| ♂ Mars | ♑ Capricornus 27°01′ | Sagittarius | 10 | 0.715°/d | exaltation |  |
+| ♃ Jupiter | ♎ Libra 20°06′ | Virgo | 7 | R -0.115°/d |  |  |
+| ♄ Saturn | ♊ Gemini 27°40′ | Taurus | 3 | 0.042°/d |  |  |
+| ♅ Uranus | ♉ Taurus 1°32′ | Aries | 2 | 0.051°/d |  |  |
+| ♆ Neptune | ♍ Virgo 5°26′ | Leo | 6 | R -0.025°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 13°44′ | Sagittarius | 10 | 0.012°/d |  |  |
+| ☊ North Node | ♑ Capricornus 17°56′ | Sagittarius | 10 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 17°56′ | Gemini | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

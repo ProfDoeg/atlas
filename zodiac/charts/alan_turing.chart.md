@@ -7,20 +7,20 @@ Born 1912-06-23 (gregorian calendar), Warrington Lodge, Maida Vale: the birth (l
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♋ Cancer 1°09′ | 1 | 0.954°/d |  |  |
-| ☽ Moon | ♎ Libra 15°20′ | 4 | 13.221°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♋ Cancer 7°50′ | 1 | 2.119°/d |  |  |
-| ♀ Venus | ♊ Gemini 27°33′ | 12 | 1.228°/d |  |  |
-| ♂ Mars | ♌ Leo 15°18′ | 2 | 0.603°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 7°53′ | 6 | R -0.108°/d | domicile |  |
-| ♄ Saturn | ♉ Taurus 28°26′ | 11 | 0.116°/d |  |  |
-| ♅ Uranus | ♒ Aquarius 2°42′ | 8 | R -0.032°/d | domicile (modern) |  |
-| ♆ Neptune | ♋ Cancer 22°43′ | 1 | 0.035°/d |  |  |
-| ♇ Pluto | ♊ Gemini 28°36′ | 12 | 0.024°/d |  |  |
-| ☊ North Node | ♈ Aries 17°54′ | 10 | mean node |  |  |
-| ☋ South Node | ♎ Libra 17°54′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♋ Cancer 1°09′ | Gemini | 1 | 0.954°/d |  |  |
+| ☽ Moon | ♎ Libra 15°20′ | Virgo | 4 | 13.221°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♋ Cancer 7°50′ | Gemini | 1 | 2.119°/d |  |  |
+| ♀ Venus | ♊ Gemini 27°33′ | Taurus | 12 | 1.228°/d |  |  |
+| ♂ Mars | ♌ Leo 15°18′ | Cancer | 2 | 0.603°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 7°53′ | Ophiuchus | 6 | R -0.108°/d | domicile |  |
+| ♄ Saturn | ♉ Taurus 28°26′ | Taurus | 11 | 0.116°/d |  |  |
+| ♅ Uranus | ♒ Aquarius 2°42′ | Capricornus | 8 | R -0.032°/d | domicile (modern) |  |
+| ♆ Neptune | ♋ Cancer 22°43′ | Gemini | 1 | 0.035°/d |  |  |
+| ♇ Pluto | ♊ Gemini 28°36′ | Taurus | 12 | 0.024°/d |  |  |
+| ☊ North Node | ♈ Aries 17°54′ | Pisces | 10 | mean node |  |  |
+| ☋ South Node | ♎ Libra 17°54′ | Virgo | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Cancer))
 

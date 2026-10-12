@@ -7,20 +7,20 @@ Born 1932-07-31 (gregorian calendar), Denver: the birth in the engineer's house 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 7°34′ | 1 | 0.957°/d | domicile |  |
-| ☽ Moon | ♋ Cancer 8°22′ | 12 | 12.754°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 1°20′ | 2 | 0.305°/d | domicile, exaltation |  |
-| ♀ Venus | ♋ Cancer 0°47′ | 12 | 0.350°/d |  |  |
-| ♂ Mars | ♊ Gemini 26°45′ | 11 | 0.672°/d |  |  |
-| ♃ Jupiter | ♌ Leo 27°33′ | 1 | 0.211°/d |  |  |
-| ♄ Saturn | ♒ Aquarius 0°40′ | 7 | R -0.073°/d | domicile |  |
-| ♅ Uranus | ♈ Aries 23°30′ | 9 | R -0.001°/d (stationary) |  |  |
-| ♆ Neptune | ♍ Virgo 6°41′ | 2 | 0.033°/d | detriment (modern) |  |
-| ♇ Pluto | ♋ Cancer 22°11′ | 12 | 0.026°/d |  |  |
-| ☊ North Node | ♓ Pisces 19°04′ | 8 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 19°04′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 7°34′ | Cancer | 1 | 0.957°/d | domicile |  |
+| ☽ Moon | ♋ Cancer 8°22′ | Gemini | 12 | 12.754°/d | domicile | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 1°20′ | Leo | 2 | 0.305°/d | domicile, exaltation |  |
+| ♀ Venus | ♋ Cancer 0°47′ | Gemini | 12 | 0.350°/d |  |  |
+| ♂ Mars | ♊ Gemini 26°45′ | Taurus | 11 | 0.672°/d |  |  |
+| ♃ Jupiter | ♌ Leo 27°33′ | Leo | 1 | 0.211°/d |  |  |
+| ♄ Saturn | ♒ Aquarius 0°40′ | Capricornus | 7 | R -0.073°/d | domicile |  |
+| ♅ Uranus | ♈ Aries 23°30′ | Pisces | 9 | R -0.001°/d (stationary) |  |  |
+| ♆ Neptune | ♍ Virgo 6°41′ | Leo | 2 | 0.033°/d | detriment (modern) |  |
+| ♇ Pluto | ♋ Cancer 22°11′ | Gemini | 12 | 0.026°/d |  |  |
+| ☊ North Node | ♓ Pisces 19°04′ | Aquarius | 8 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 19°04′ | Leo | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

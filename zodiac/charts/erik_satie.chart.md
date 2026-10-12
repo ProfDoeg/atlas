@@ -7,20 +7,20 @@ Born 1866-05-17 (gregorian calendar), Honfleur, birth on the boulevard Charles V
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 25°50′ | 1 | 0.963°/d |  |  |
-| ☽ Moon | ♊ Gemini 29°22′ | 2 | 14.748°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♉ Taurus 0°33′ | 1 | 1.203°/d |  |  |
-| ♀ Venus | ♊ Gemini 16°08′ | 2 | 1.220°/d |  |  |
-| ♂ Mars | ♈ Aries 9°54′ | 12 | 0.760°/d | domicile |  |
-| ♃ Jupiter | ♒ Aquarius 2°22′ | 10 | 0.012°/d |  |  |
-| ♄ Saturn | ♏ Scorpio 7°40′ | 7 | R -0.070°/d |  |  |
-| ♅ Uranus | ♋ Cancer 1°47′ | 3 | 0.051°/d |  |  |
-| ♆ Neptune | ♈ Aries 11°53′ | 12 | 0.029°/d |  |  |
-| ♇ Pluto | ♉ Taurus 14°00′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♎ Libra 9°32′ | 6 | mean node |  |  |
-| ☋ South Node | ♈ Aries 9°32′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 25°50′ | Taurus | 1 | 0.963°/d |  |  |
+| ☽ Moon | ♊ Gemini 29°22′ | Taurus | 2 | 14.748°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♉ Taurus 0°33′ | Aries | 1 | 1.203°/d |  |  |
+| ♀ Venus | ♊ Gemini 16°08′ | Taurus | 2 | 1.220°/d |  |  |
+| ♂ Mars | ♈ Aries 9°54′ | Pisces | 12 | 0.760°/d | domicile |  |
+| ♃ Jupiter | ♒ Aquarius 2°22′ | Capricornus | 10 | 0.012°/d |  |  |
+| ♄ Saturn | ♏ Scorpio 7°40′ | Virgo | 7 | R -0.070°/d |  |  |
+| ♅ Uranus | ♋ Cancer 1°47′ | Gemini | 3 | 0.051°/d |  |  |
+| ♆ Neptune | ♈ Aries 11°53′ | Pisces | 12 | 0.029°/d |  |  |
+| ♇ Pluto | ♉ Taurus 14°00′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♎ Libra 9°32′ | Virgo | 6 | mean node |  |  |
+| ☋ South Node | ♈ Aries 9°32′ | Pisces | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

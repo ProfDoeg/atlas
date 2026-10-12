@@ -7,20 +7,20 @@ Born 1811-05-15 (gregorian calendar), Remiremont, birth in the Vosges (lat 48.01
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 23°14′ | 1 | 0.963°/d |  |  |
-| ☽ Moon | ♒ Aquarius 16°26′ | 10 | 14.137°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 12°43′ | 2 | 0.425°/d | domicile |  |
-| ♀ Venus | ♈ Aries 15°16′ | 12 | 1.170°/d | detriment |  |
-| ♂ Mars | ♐ Sagittarius 5°58′ | 8 | R -0.289°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 8°56′ | 2 | 0.228°/d | detriment |  |
-| ♄ Saturn | ♐ Sagittarius 25°11′ | 8 | R -0.056°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 16°22′ | 7 | R -0.042°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 10°18′ | 8 | R -0.025°/d |  |  |
-| ♇ Pluto | ♓ Pisces 18°06′ | 11 | 0.013°/d |  |  |
-| ☊ North Node | ♍ Virgo 23°26′ | 5 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 23°26′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 23°14′ | Aries | 1 | 0.963°/d |  |  |
+| ☽ Moon | ♒ Aquarius 16°26′ | Capricornus | 10 | 14.137°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 12°43′ | Taurus | 2 | 0.425°/d | domicile |  |
+| ♀ Venus | ♈ Aries 15°16′ | Pisces | 12 | 1.170°/d | detriment |  |
+| ♂ Mars | ♐ Sagittarius 5°58′ | Scorpius | 8 | R -0.289°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 8°56′ | Taurus | 2 | 0.228°/d | detriment |  |
+| ♄ Saturn | ♐ Sagittarius 25°11′ | Ophiuchus | 8 | R -0.056°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 16°22′ | Libra | 7 | R -0.042°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 10°18′ | Ophiuchus | 8 | R -0.025°/d |  |  |
+| ♇ Pluto | ♓ Pisces 18°06′ | Aquarius | 11 | 0.013°/d |  |  |
+| ☊ North Node | ♍ Virgo 23°26′ | Leo | 5 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 23°26′ | Pisces | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

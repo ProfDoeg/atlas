@@ -7,20 +7,20 @@ Born 1857-10-02 (gregorian calendar), Brooklyn, the birth of Arthur Edward Waite
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 8°45′ | 1 | 0.985°/d | fall |  |
-| ☽ Moon | ♓ Pisces 16°45′ | 6 | 14.180°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♎ Libra 7°29′ | 1 | R -1.129°/d |  |  |
-| ♀ Venus | ♍ Virgo 3°30′ | 12 | 1.199°/d | fall |  |
-| ♂ Mars | ♍ Virgo 2°23′ | 12 | 0.621°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 14°47′ | 8 | R -0.087°/d |  |  |
-| ♄ Saturn | ♋ Cancer 27°07′ | 10 | 0.068°/d | detriment |  |
-| ♅ Uranus | ♉ Taurus 28°58′ | 8 | R -0.022°/d |  |  |
-| ♆ Neptune | ♓ Pisces 20°45′ | 6 | R -0.026°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 6°08′ | 8 | R -0.016°/d | detriment (modern) |  |
-| ☊ North Node | ♓ Pisces 26°17′ | 6 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 26°17′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 8°45′ | Virgo | 1 | 0.985°/d | fall |  |
+| ☽ Moon | ♓ Pisces 16°45′ | Aquarius | 6 | 14.180°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♎ Libra 7°29′ | Virgo | 1 | R -1.129°/d |  |  |
+| ♀ Venus | ♍ Virgo 3°30′ | Leo | 12 | 1.199°/d | fall |  |
+| ♂ Mars | ♍ Virgo 2°23′ | Leo | 12 | 0.621°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 14°47′ | Aries | 8 | R -0.087°/d |  |  |
+| ♄ Saturn | ♋ Cancer 27°07′ | Gemini | 10 | 0.068°/d | detriment |  |
+| ♅ Uranus | ♉ Taurus 28°58′ | Taurus | 8 | R -0.022°/d |  |  |
+| ♆ Neptune | ♓ Pisces 20°45′ | Aquarius | 6 | R -0.026°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 6°08′ | Aries | 8 | R -0.016°/d | detriment (modern) |  |
+| ☊ North Node | ♓ Pisces 26°17′ | Pisces | 6 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 26°17′ | Virgo | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

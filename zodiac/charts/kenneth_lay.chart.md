@@ -7,20 +7,20 @@ Born 1942-04-15 (gregorian calendar), Tyrone, Missouri: the second child (lat 37
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♈ Aries 24°24′ | 1 | 0.979°/d | exaltation |  |
-| ☽ Moon | ♈ Aries 17°27′ | 1 | 12.492°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♈ Aries 18°29′ | 1 | 2.017°/d |  |  |
-| ♀ Venus | ♓ Pisces 8°06′ | 12 | 0.986°/d | exaltation |  |
-| ♂ Mars | ♊ Gemini 23°09′ | 3 | 0.607°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 18°18′ | 3 | 0.177°/d | detriment |  |
-| ♄ Saturn | ♉ Taurus 26°52′ | 2 | 0.117°/d |  |  |
-| ♅ Uranus | ♉ Taurus 28°24′ | 2 | 0.051°/d |  |  |
-| ♆ Neptune | ♍ Virgo 27°55′ | 6 | R -0.024°/d | detriment (modern) |  |
-| ♇ Pluto | ♌ Leo 3°31′ | 5 | R -0.001°/d (stationary) |  |  |
-| ☊ North Node | ♍ Virgo 11°20′ | 6 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 11°20′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♈ Aries 24°24′ | Pisces | 1 | 0.979°/d | exaltation |  |
+| ☽ Moon | ♈ Aries 17°27′ | Pisces | 1 | 12.492°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♈ Aries 18°29′ | Pisces | 1 | 2.017°/d |  |  |
+| ♀ Venus | ♓ Pisces 8°06′ | Aquarius | 12 | 0.986°/d | exaltation |  |
+| ♂ Mars | ♊ Gemini 23°09′ | Taurus | 3 | 0.607°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 18°18′ | Taurus | 3 | 0.177°/d | detriment |  |
+| ♄ Saturn | ♉ Taurus 26°52′ | Taurus | 2 | 0.117°/d |  |  |
+| ♅ Uranus | ♉ Taurus 28°24′ | Taurus | 2 | 0.051°/d |  |  |
+| ♆ Neptune | ♍ Virgo 27°55′ | Virgo | 6 | R -0.024°/d | detriment (modern) |  |
+| ♇ Pluto | ♌ Leo 3°31′ | Cancer | 5 | R -0.001°/d (stationary) |  |  |
+| ☊ North Node | ♍ Virgo 11°20′ | Leo | 6 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 11°20′ | Aquarius | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aries))
 

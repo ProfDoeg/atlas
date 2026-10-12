@@ -7,20 +7,20 @@ Born 1882-06-16 (gregorian calendar), Ahmadabad-e Mosaddeq, birth on the family 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♊ Gemini 24°42′ | 1 | 0.955°/d |  |  |
-| ☽ Moon | ♊ Gemini 27°25′ | 1 | 12.948°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♋ Cancer 11°21′ | 2 | R -0.046°/d |  |  |
-| ♀ Venus | ♋ Cancer 23°46′ | 2 | 1.202°/d |  |  |
-| ♂ Mars | ♌ Leo 21°22′ | 3 | 0.578°/d |  |  |
-| ♃ Jupiter | ♊ Gemini 12°41′ | 1 | 0.230°/d | detriment |  |
-| ♄ Saturn | ♉ Taurus 20°32′ | 12 | 0.114°/d |  |  |
-| ♅ Uranus | ♍ Virgo 14°30′ | 4 | 0.022°/d |  |  |
-| ♆ Neptune | ♉ Taurus 17°41′ | 12 | 0.031°/d |  |  |
-| ♇ Pluto | ♉ Taurus 29°25′ | 12 | 0.021°/d | detriment (modern) |  |
-| ☊ North Node | ♏ Scorpio 28°29′ | 6 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 28°29′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♊ Gemini 24°42′ | Taurus | 1 | 0.955°/d |  |  |
+| ☽ Moon | ♊ Gemini 27°25′ | Taurus | 1 | 12.948°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♋ Cancer 11°21′ | Gemini | 2 | R -0.046°/d |  |  |
+| ♀ Venus | ♋ Cancer 23°46′ | Gemini | 2 | 1.202°/d |  |  |
+| ♂ Mars | ♌ Leo 21°22′ | Leo | 3 | 0.578°/d |  |  |
+| ♃ Jupiter | ♊ Gemini 12°41′ | Taurus | 1 | 0.230°/d | detriment |  |
+| ♄ Saturn | ♉ Taurus 20°32′ | Aries | 12 | 0.114°/d |  |  |
+| ♅ Uranus | ♍ Virgo 14°30′ | Leo | 4 | 0.022°/d |  |  |
+| ♆ Neptune | ♉ Taurus 17°41′ | Aries | 12 | 0.031°/d |  |  |
+| ♇ Pluto | ♉ Taurus 29°25′ | Taurus | 12 | 0.021°/d | detriment (modern) |  |
+| ☊ North Node | ♏ Scorpio 28°29′ | Libra | 6 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 28°29′ | Taurus | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Gemini))
 

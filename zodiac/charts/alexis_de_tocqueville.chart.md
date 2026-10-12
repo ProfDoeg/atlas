@@ -7,20 +7,20 @@ Born 1805-07-29 (gregorian calendar), Paris, birth into a house the guillotine h
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♌ Leo 5°21′ | 1 | 0.956°/d | domicile |  |
-| ☽ Moon | ♍ Virgo 12°31′ | 2 | 14.089°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♌ Leo 20°16′ | 1 | 1.796°/d |  |  |
-| ♀ Venus | ♌ Leo 22°23′ | 1 | 1.227°/d |  |  |
-| ♂ Mars | ♍ Virgo 29°01′ | 2 | 0.612°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 26°32′ | 4 | 0.014°/d |  |  |
-| ♄ Saturn | ♎ Libra 11°06′ | 3 | 0.072°/d | exaltation |  |
-| ♅ Uranus | ♎ Libra 17°03′ | 3 | 0.029°/d |  |  |
-| ♆ Neptune | ♏ Scorpio 25°25′ | 4 | R -0.005°/d (stationary) |  |  |
-| ♇ Pluto | ♓ Pisces 10°33′ | 8 | R -0.016°/d |  |  |
-| ☊ North Node | ♑ Capricornus 15°29′ | 6 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 15°29′ | 12 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♌ Leo 5°21′ | Cancer | 1 | 0.956°/d | domicile |  |
+| ☽ Moon | ♍ Virgo 12°31′ | Leo | 2 | 14.089°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♌ Leo 20°16′ | Leo | 1 | 1.796°/d |  |  |
+| ♀ Venus | ♌ Leo 22°23′ | Leo | 1 | 1.227°/d |  |  |
+| ♂ Mars | ♍ Virgo 29°01′ | Virgo | 2 | 0.612°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 26°32′ | Libra | 4 | 0.014°/d |  |  |
+| ♄ Saturn | ♎ Libra 11°06′ | Virgo | 3 | 0.072°/d | exaltation |  |
+| ♅ Uranus | ♎ Libra 17°03′ | Virgo | 3 | 0.029°/d |  |  |
+| ♆ Neptune | ♏ Scorpio 25°25′ | Libra | 4 | R -0.005°/d (stationary) |  |  |
+| ♇ Pluto | ♓ Pisces 10°33′ | Aquarius | 8 | R -0.016°/d |  |  |
+| ☊ North Node | ♑ Capricornus 15°29′ | Sagittarius | 6 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 15°29′ | Gemini | 12 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Leo))
 

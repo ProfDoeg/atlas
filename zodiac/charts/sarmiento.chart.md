@@ -7,20 +7,20 @@ Born 1811-02-15 (gregorian calendar), San Juan, the house on the calle del Norte
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 25°28′ | 1 | 1.009°/d | detriment |  |
-| ☽ Moon | ♏ Scorpio 7°27′ | 10 | 12.662°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 1°47′ | 1 | 0.293°/d |  |  |
-| ♀ Venus | ♑ Capricornus 11°21′ | 12 | 0.760°/d |  |  |
-| ♂ Mars | ♏ Scorpio 21°32′ | 10 | 0.463°/d | domicile |  |
-| ♃ Jupiter | ♉ Taurus 22°55′ | 4 | 0.095°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 24°23′ | 11 | 0.075°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 18°38′ | 10 | 0.007°/d (stationary) |  |  |
-| ♆ Neptune | ♐ Sagittarius 11°01′ | 11 | 0.015°/d |  |  |
-| ♇ Pluto | ♓ Pisces 16°05′ | 2 | 0.025°/d |  |  |
-| ☊ North Node | ♍ Virgo 28°09′ | 8 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 28°09′ | 2 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 25°28′ | Capricornus | 1 | 1.009°/d | detriment |  |
+| ☽ Moon | ♏ Scorpio 7°27′ | Virgo | 10 | 12.662°/d | fall | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 1°47′ | Capricornus | 1 | 0.293°/d |  |  |
+| ♀ Venus | ♑ Capricornus 11°21′ | Sagittarius | 12 | 0.760°/d |  |  |
+| ♂ Mars | ♏ Scorpio 21°32′ | Libra | 10 | 0.463°/d | domicile |  |
+| ♃ Jupiter | ♉ Taurus 22°55′ | Aries | 4 | 0.095°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 24°23′ | Ophiuchus | 11 | 0.075°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 18°38′ | Libra | 10 | 0.007°/d (stationary) |  |  |
+| ♆ Neptune | ♐ Sagittarius 11°01′ | Ophiuchus | 11 | 0.015°/d |  |  |
+| ♇ Pluto | ♓ Pisces 16°05′ | Aquarius | 2 | 0.025°/d |  |  |
+| ☊ North Node | ♍ Virgo 28°09′ | Virgo | 8 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 28°09′ | Pisces | 2 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

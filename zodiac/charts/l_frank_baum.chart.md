@@ -7,20 +7,20 @@ Born 1856-05-15 (gregorian calendar), Chittenango, the birth into oil and barrel
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 24°19′ | 1 | 0.963°/d |  |  |
-| ☽ Moon | ♍ Virgo 28°35′ | 5 | 11.811°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
-| ☿ Mercury | ♊ Gemini 13°09′ | 2 | 1.650°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 6°19′ | 1 | 1.222°/d | domicile |  |
-| ♂ Mars | ♎ Libra 3°02′ | 6 | 0.016°/d | detriment |  |
-| ♃ Jupiter | ♈ Aries 1°11′ | 12 | 0.189°/d |  |  |
-| ♄ Saturn | ♊ Gemini 28°35′ | 2 | 0.116°/d |  |  |
-| ♅ Uranus | ♉ Taurus 21°10′ | 1 | 0.058°/d |  |  |
-| ♆ Neptune | ♓ Pisces 20°01′ | 11 | 0.020°/d | domicile (modern) |  |
-| ♇ Pluto | ♉ Taurus 4°40′ | 1 | 0.022°/d | detriment (modern) |  |
-| ☊ North Node | ♈ Aries 23°02′ | 12 | mean node |  |  |
-| ☋ South Node | ♎ Libra 23°02′ | 6 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 24°19′ | Taurus | 1 | 0.963°/d |  |  |
+| ☽ Moon | ♍ Virgo 28°35′ | Virgo | 5 | 11.811°/d |  | within 7° of a sign boundary: the Moon's sign may differ (Virgo or Libra) |
+| ☿ Mercury | ♊ Gemini 13°09′ | Taurus | 2 | 1.650°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 6°19′ | Aries | 1 | 1.222°/d | domicile |  |
+| ♂ Mars | ♎ Libra 3°02′ | Virgo | 6 | 0.016°/d | detriment |  |
+| ♃ Jupiter | ♈ Aries 1°11′ | Pisces | 12 | 0.189°/d |  |  |
+| ♄ Saturn | ♊ Gemini 28°35′ | Taurus | 2 | 0.116°/d |  |  |
+| ♅ Uranus | ♉ Taurus 21°10′ | Aries | 1 | 0.058°/d |  |  |
+| ♆ Neptune | ♓ Pisces 20°01′ | Aquarius | 11 | 0.020°/d | domicile (modern) |  |
+| ♇ Pluto | ♉ Taurus 4°40′ | Aries | 1 | 0.022°/d | detriment (modern) |  |
+| ☊ North Node | ♈ Aries 23°02′ | Pisces | 12 | mean node |  |  |
+| ☋ South Node | ♎ Libra 23°02′ | Virgo | 6 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

@@ -7,20 +7,20 @@ Born 1809-01-04 (gregorian calendar), Coupvray, the birth house on the rue des B
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♑ Capricornus 13°18′ | 1 | 1.019°/d |  |  |
-| ☽ Moon | ♌ Leo 7°30′ | 8 | 12.839°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 4°01′ | 1 | 1.558°/d |  |  |
-| ♀ Venus | ♒ Aquarius 20°46′ | 2 | 1.213°/d |  |  |
-| ♂ Mars | ♎ Libra 12°29′ | 10 | 0.434°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 14°10′ | 3 | 0.174°/d | domicile |  |
-| ♄ Saturn | ♏ Scorpio 29°59′ | 11 | 0.097°/d |  |  |
-| ♅ Uranus | ♏ Scorpio 8°43′ | 11 | 0.035°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 5°47′ | 12 | 0.031°/d |  |  |
-| ♇ Pluto | ♓ Pisces 12°50′ | 3 | 0.015°/d |  |  |
-| ☊ North Node | ♏ Scorpio 9°02′ | 11 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 9°02′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♑ Capricornus 13°18′ | Sagittarius | 1 | 1.019°/d |  |  |
+| ☽ Moon | ♌ Leo 7°30′ | Cancer | 8 | 12.839°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 4°01′ | Sagittarius | 1 | 1.558°/d |  |  |
+| ♀ Venus | ♒ Aquarius 20°46′ | Capricornus | 2 | 1.213°/d |  |  |
+| ♂ Mars | ♎ Libra 12°29′ | Virgo | 10 | 0.434°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 14°10′ | Aquarius | 3 | 0.174°/d | domicile |  |
+| ♄ Saturn | ♏ Scorpio 29°59′ | Libra | 11 | 0.097°/d |  |  |
+| ♅ Uranus | ♏ Scorpio 8°43′ | Libra | 11 | 0.035°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 5°47′ | Scorpius | 12 | 0.031°/d |  |  |
+| ♇ Pluto | ♓ Pisces 12°50′ | Aquarius | 3 | 0.015°/d |  |  |
+| ☊ North Node | ♏ Scorpio 9°02′ | Libra | 11 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 9°02′ | Aries | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Capricornus))
 

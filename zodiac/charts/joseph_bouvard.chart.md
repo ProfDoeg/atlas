@@ -7,20 +7,20 @@ Born 1840-02-19 (gregorian calendar), Saint-Jean-de-Bournay, the plasterer's son
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 29°28′ | 1 | 1.008°/d | detriment |  |
-| ☽ Moon | ♍ Virgo 16°51′ | 8 | 13.024°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♒ Aquarius 25°04′ | 1 | 1.779°/d |  |  |
-| ♀ Venus | ♑ Capricornus 20°31′ | 12 | 1.199°/d |  |  |
-| ♂ Mars | ♓ Pisces 16°50′ | 2 | 0.782°/d |  |  |
-| ♃ Jupiter | ♏ Scorpio 18°29′ | 10 | 0.045°/d |  |  |
-| ♄ Saturn | ♐ Sagittarius 20°18′ | 11 | 0.064°/d |  |  |
-| ♅ Uranus | ♓ Pisces 15°33′ | 2 | 0.056°/d |  |  |
-| ♆ Neptune | ♒ Aquarius 12°56′ | 1 | 0.037°/d |  |  |
-| ♇ Pluto | ♈ Aries 17°24′ | 3 | 0.017°/d |  |  |
-| ☊ North Node | ♓ Pisces 7°03′ | 2 | mean node |  |  |
-| ☋ South Node | ♍ Virgo 7°03′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 29°28′ | Aquarius | 1 | 1.008°/d | detriment |  |
+| ☽ Moon | ♍ Virgo 16°51′ | Leo | 8 | 13.024°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♒ Aquarius 25°04′ | Capricornus | 1 | 1.779°/d |  |  |
+| ♀ Venus | ♑ Capricornus 20°31′ | Sagittarius | 12 | 1.199°/d |  |  |
+| ♂ Mars | ♓ Pisces 16°50′ | Aquarius | 2 | 0.782°/d |  |  |
+| ♃ Jupiter | ♏ Scorpio 18°29′ | Libra | 10 | 0.045°/d |  |  |
+| ♄ Saturn | ♐ Sagittarius 20°18′ | Ophiuchus | 11 | 0.064°/d |  |  |
+| ♅ Uranus | ♓ Pisces 15°33′ | Aquarius | 2 | 0.056°/d |  |  |
+| ♆ Neptune | ♒ Aquarius 12°56′ | Capricornus | 1 | 0.037°/d |  |  |
+| ♇ Pluto | ♈ Aries 17°24′ | Pisces | 3 | 0.017°/d |  |  |
+| ☊ North Node | ♓ Pisces 7°03′ | Aquarius | 2 | mean node |  |  |
+| ☋ South Node | ♍ Virgo 7°03′ | Leo | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

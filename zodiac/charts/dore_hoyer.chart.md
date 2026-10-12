@@ -7,20 +7,20 @@ Born 1911-12-12 (gregorian calendar), Dresden, born in a mason's household (lat 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 18°51′ | 1 | 1.017°/d |  |  |
-| ☽ Moon | ♍ Virgo 9°34′ | 10 | 13.719°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♑ Capricornus 9°02′ | 2 | 0.636°/d |  |  |
-| ♀ Venus | ♏ Scorpio 2°52′ | 12 | 1.102°/d | detriment |  |
-| ♂ Mars | ♉ Taurus 26°26′ | 6 | R -0.238°/d | detriment |  |
-| ♃ Jupiter | ♐ Sagittarius 0°19′ | 1 | 0.217°/d | domicile |  |
-| ♄ Saturn | ♉ Taurus 14°22′ | 6 | R -0.059°/d |  |  |
-| ♅ Uranus | ♑ Capricornus 27°13′ | 2 | 0.049°/d |  |  |
-| ♆ Neptune | ♋ Cancer 23°20′ | 8 | R -0.022°/d |  |  |
-| ♇ Pluto | ♊ Gemini 28°11′ | 7 | R -0.020°/d |  |  |
-| ☊ North Node | ♈ Aries 28°10′ | 5 | mean node |  |  |
-| ☋ South Node | ♎ Libra 28°10′ | 11 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 18°51′ | Ophiuchus | 1 | 1.017°/d |  |  |
+| ☽ Moon | ♍ Virgo 9°34′ | Leo | 10 | 13.719°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♑ Capricornus 9°02′ | Sagittarius | 2 | 0.636°/d |  |  |
+| ♀ Venus | ♏ Scorpio 2°52′ | Virgo | 12 | 1.102°/d | detriment |  |
+| ♂ Mars | ♉ Taurus 26°26′ | Taurus | 6 | R -0.238°/d | detriment |  |
+| ♃ Jupiter | ♐ Sagittarius 0°19′ | Libra | 1 | 0.217°/d | domicile |  |
+| ♄ Saturn | ♉ Taurus 14°22′ | Aries | 6 | R -0.059°/d |  |  |
+| ♅ Uranus | ♑ Capricornus 27°13′ | Sagittarius | 2 | 0.049°/d |  |  |
+| ♆ Neptune | ♋ Cancer 23°20′ | Gemini | 8 | R -0.022°/d |  |  |
+| ♇ Pluto | ♊ Gemini 28°11′ | Taurus | 7 | R -0.020°/d |  |  |
+| ☊ North Node | ♈ Aries 28°10′ | Pisces | 5 | mean node |  |  |
+| ☋ South Node | ♎ Libra 28°10′ | Virgo | 11 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

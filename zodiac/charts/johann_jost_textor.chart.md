@@ -7,20 +7,20 @@ Born 1739-09-29 (gregorian calendar), Frankfurt am Main, Friedberger Gasse, the 
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 5°22′ | 1 | 0.984°/d | fall |  |
-| ☽ Moon | ♌ Leo 20°39′ | 11 | 12.071°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♍ Virgo 26°14′ | 12 | R -0.724°/d | domicile, exaltation |  |
-| ♀ Venus | ♍ Virgo 26°35′ | 12 | 1.247°/d | fall |  |
-| ♂ Mars | ♎ Libra 20°01′ | 1 | 0.670°/d | detriment |  |
-| ♃ Jupiter | ♊ Gemini 6°33′ | 9 | R -0.011°/d | detriment |  |
-| ♄ Saturn | ♋ Cancer 23°07′ | 10 | 0.067°/d | detriment |  |
-| ♅ Uranus | ♑ Capricornus 6°33′ | 4 | 0.011°/d |  |  |
-| ♆ Neptune | ♋ Cancer 5°25′ | 10 | 0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♏ Scorpio 5°01′ | 2 | 0.036°/d | domicile (modern) |  |
-| ☊ North Node | ♋ Cancer 28°43′ | 10 | mean node |  |  |
-| ☋ South Node | ♑ Capricornus 28°43′ | 4 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 5°22′ | Virgo | 1 | 0.984°/d | fall |  |
+| ☽ Moon | ♌ Leo 20°39′ | Leo | 11 | 12.071°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♍ Virgo 26°14′ | Virgo | 12 | R -0.724°/d | domicile, exaltation |  |
+| ♀ Venus | ♍ Virgo 26°35′ | Virgo | 12 | 1.247°/d | fall |  |
+| ♂ Mars | ♎ Libra 20°01′ | Virgo | 1 | 0.670°/d | detriment |  |
+| ♃ Jupiter | ♊ Gemini 6°33′ | Taurus | 9 | R -0.011°/d | detriment |  |
+| ♄ Saturn | ♋ Cancer 23°07′ | Gemini | 10 | 0.067°/d | detriment |  |
+| ♅ Uranus | ♑ Capricornus 6°33′ | Sagittarius | 4 | 0.011°/d |  |  |
+| ♆ Neptune | ♋ Cancer 5°25′ | Gemini | 10 | 0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♏ Scorpio 5°01′ | Virgo | 2 | 0.036°/d | domicile (modern) |  |
+| ☊ North Node | ♋ Cancer 28°43′ | Cancer | 10 | mean node |  |  |
+| ☋ South Node | ♑ Capricornus 28°43′ | Sagittarius | 4 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 

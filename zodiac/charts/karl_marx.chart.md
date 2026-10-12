@@ -7,20 +7,20 @@ Born 1818-05-05 (gregorian calendar), Trier, the house in the Brückergasse (lat
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♉ Taurus 13°53′ | 1 | 0.968°/d |  |  |
-| ☽ Moon | ♉ Taurus 10°29′ | 1 | 11.994°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♊ Gemini 3°37′ | 2 | 0.567°/d | domicile |  |
-| ♀ Venus | ♉ Taurus 27°27′ | 1 | 1.229°/d | domicile |  |
-| ♂ Mars | ♋ Cancer 20°45′ | 3 | 0.552°/d | fall |  |
-| ♃ Jupiter | ♑ Capricornus 13°04′ | 9 | R -0.013°/d | fall |  |
-| ♄ Saturn | ♓ Pisces 15°31′ | 11 | 0.082°/d |  |  |
-| ♅ Uranus | ♐ Sagittarius 19°24′ | 8 | R -0.031°/d |  |  |
-| ♆ Neptune | ♐ Sagittarius 26°08′ | 8 | R -0.018°/d |  |  |
-| ♇ Pluto | ♓ Pisces 26°00′ | 11 | 0.018°/d |  |  |
-| ☊ North Node | ♉ Taurus 8°34′ | 1 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 8°34′ | 7 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♉ Taurus 13°53′ | Aries | 1 | 0.968°/d |  |  |
+| ☽ Moon | ♉ Taurus 10°29′ | Aries | 1 | 11.994°/d | exaltation | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♊ Gemini 3°37′ | Taurus | 2 | 0.567°/d | domicile |  |
+| ♀ Venus | ♉ Taurus 27°27′ | Taurus | 1 | 1.229°/d | domicile |  |
+| ♂ Mars | ♋ Cancer 20°45′ | Gemini | 3 | 0.552°/d | fall |  |
+| ♃ Jupiter | ♑ Capricornus 13°04′ | Sagittarius | 9 | R -0.013°/d | fall |  |
+| ♄ Saturn | ♓ Pisces 15°31′ | Aquarius | 11 | 0.082°/d |  |  |
+| ♅ Uranus | ♐ Sagittarius 19°24′ | Ophiuchus | 8 | R -0.031°/d |  |  |
+| ♆ Neptune | ♐ Sagittarius 26°08′ | Ophiuchus | 8 | R -0.018°/d |  |  |
+| ♇ Pluto | ♓ Pisces 26°00′ | Pisces | 11 | 0.018°/d |  |  |
+| ☊ North Node | ♉ Taurus 8°34′ | Aries | 1 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 8°34′ | Libra | 7 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Taurus))
 

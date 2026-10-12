@@ -7,20 +7,20 @@ Born 1879-11-07 (gregorian calendar), Yanovka, the birth on the grain estate (la
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 14°14′ | 1 | 1.004°/d |  |  |
-| ☽ Moon | ♌ Leo 11°19′ | 10 | 12.697°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♐ Sagittarius 2°28′ | 2 | 1.413°/d | detriment |  |
-| ♀ Venus | ♎ Libra 1°10′ | 12 | 0.679°/d | domicile |  |
-| ♂ Mars | ♉ Taurus 22°11′ | 7 | R -0.360°/d | detriment |  |
-| ♃ Jupiter | ♓ Pisces 3°08′ | 5 | 0.029°/d | domicile |  |
-| ♄ Saturn | ♈ Aries 9°41′ | 6 | R -0.057°/d | fall |  |
-| ♅ Uranus | ♍ Virgo 8°10′ | 11 | 0.034°/d |  |  |
-| ♆ Neptune | ♉ Taurus 10°33′ | 7 | R -0.028°/d |  |  |
-| ♇ Pluto | ♉ Taurus 26°41′ | 7 | R -0.018°/d | detriment (modern) |  |
-| ☊ North Node | ♑ Capricornus 18°54′ | 3 | mean node |  |  |
-| ☋ South Node | ♋ Cancer 18°54′ | 9 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 14°14′ | Libra | 1 | 1.004°/d |  |  |
+| ☽ Moon | ♌ Leo 11°19′ | Cancer | 10 | 12.697°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♐ Sagittarius 2°28′ | Scorpius | 2 | 1.413°/d | detriment |  |
+| ♀ Venus | ♎ Libra 1°10′ | Virgo | 12 | 0.679°/d | domicile |  |
+| ♂ Mars | ♉ Taurus 22°11′ | Aries | 7 | R -0.360°/d | detriment |  |
+| ♃ Jupiter | ♓ Pisces 3°08′ | Aquarius | 5 | 0.029°/d | domicile |  |
+| ♄ Saturn | ♈ Aries 9°41′ | Pisces | 6 | R -0.057°/d | fall |  |
+| ♅ Uranus | ♍ Virgo 8°10′ | Leo | 11 | 0.034°/d |  |  |
+| ♆ Neptune | ♉ Taurus 10°33′ | Aries | 7 | R -0.028°/d |  |  |
+| ♇ Pluto | ♉ Taurus 26°41′ | Taurus | 7 | R -0.018°/d | detriment (modern) |  |
+| ☊ North Node | ♑ Capricornus 18°54′ | Sagittarius | 3 | mean node |  |  |
+| ☋ South Node | ♋ Cancer 18°54′ | Gemini | 9 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

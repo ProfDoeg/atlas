@@ -7,20 +7,20 @@ Born 1774-10-27 (gregorian calendar), Mincing Lane, the second son (lat 51.5107,
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♏ Scorpio 3°40′ | 1 | 1.000°/d |  |  |
-| ☽ Moon | ♋ Cancer 26°54′ | 9 | 11.863°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
-| ☿ Mercury | ♏ Scorpio 19°47′ | 1 | 1.467°/d |  |  |
-| ♀ Venus | ♎ Libra 16°04′ | 12 | 1.249°/d | domicile |  |
-| ♂ Mars | ♌ Leo 18°17′ | 10 | 0.524°/d |  |  |
-| ♃ Jupiter | ♉ Taurus 11°59′ | 7 | R -0.134°/d |  |  |
-| ♄ Saturn | ♎ Libra 3°34′ | 12 | 0.113°/d | exaltation |  |
-| ♅ Uranus | ♊ Gemini 1°26′ | 8 | R -0.036°/d |  |  |
-| ♆ Neptune | ♍ Virgo 21°53′ | 11 | 0.029°/d | detriment (modern) |  |
-| ♇ Pluto | ♑ Capricornus 22°38′ | 3 | 0.011°/d |  |  |
-| ☊ North Node | ♍ Virgo 10°16′ | 11 | mean node |  |  |
-| ☋ South Node | ♓ Pisces 10°16′ | 5 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♏ Scorpio 3°40′ | Virgo | 1 | 1.000°/d |  |  |
+| ☽ Moon | ♋ Cancer 26°54′ | Gemini | 9 | 11.863°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Cancer or Leo) |
+| ☿ Mercury | ♏ Scorpio 19°47′ | Libra | 1 | 1.467°/d |  |  |
+| ♀ Venus | ♎ Libra 16°04′ | Virgo | 12 | 1.249°/d | domicile |  |
+| ♂ Mars | ♌ Leo 18°17′ | Leo | 10 | 0.524°/d |  |  |
+| ♃ Jupiter | ♉ Taurus 11°59′ | Aries | 7 | R -0.134°/d |  |  |
+| ♄ Saturn | ♎ Libra 3°34′ | Virgo | 12 | 0.113°/d | exaltation |  |
+| ♅ Uranus | ♊ Gemini 1°26′ | Taurus | 8 | R -0.036°/d |  |  |
+| ♆ Neptune | ♍ Virgo 21°53′ | Leo | 11 | 0.029°/d | detriment (modern) |  |
+| ♇ Pluto | ♑ Capricornus 22°38′ | Sagittarius | 3 | 0.011°/d |  |  |
+| ☊ North Node | ♍ Virgo 10°16′ | Leo | 11 | mean node |  |  |
+| ☋ South Node | ♓ Pisces 10°16′ | Aquarius | 5 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Scorpio))
 

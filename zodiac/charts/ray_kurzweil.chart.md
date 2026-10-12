@@ -7,20 +7,20 @@ Born 1948-02-12 (gregorian calendar), Queens, the birth (lat 40.7282, lng -73.79
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♒ Aquarius 22°12′ | 1 | 1.012°/d | detriment |  |
-| ☽ Moon | ♓ Pisces 12°38′ | 2 | 11.978°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♓ Pisces 6°27′ | 2 | R -0.155°/d | detriment, fall |  |
-| ♀ Venus | ♈ Aries 0°16′ | 3 | 1.199°/d | detriment |  |
-| ♂ Mars | ♍ Virgo 0°08′ | 8 | R -0.387°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 23°19′ | 11 | 0.164°/d | domicile |  |
-| ♄ Saturn | ♌ Leo 19°02′ | 7 | R -0.081°/d | detriment |  |
-| ♅ Uranus | ♊ Gemini 22°15′ | 5 | R -0.015°/d |  |  |
-| ♆ Neptune | ♎ Libra 12°51′ | 9 | R -0.015°/d |  |  |
-| ♇ Pluto | ♌ Leo 13°37′ | 7 | R -0.023°/d |  |  |
-| ☊ North Node | ♉ Taurus 18°36′ | 4 | mean node |  |  |
-| ☋ South Node | ♏ Scorpio 18°36′ | 10 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♒ Aquarius 22°12′ | Capricornus | 1 | 1.012°/d | detriment |  |
+| ☽ Moon | ♓ Pisces 12°38′ | Aquarius | 2 | 11.978°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♓ Pisces 6°27′ | Aquarius | 2 | R -0.155°/d | detriment, fall |  |
+| ♀ Venus | ♈ Aries 0°16′ | Pisces | 3 | 1.199°/d | detriment |  |
+| ♂ Mars | ♍ Virgo 0°08′ | Leo | 8 | R -0.387°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 23°19′ | Ophiuchus | 11 | 0.164°/d | domicile |  |
+| ♄ Saturn | ♌ Leo 19°02′ | Leo | 7 | R -0.081°/d | detriment |  |
+| ♅ Uranus | ♊ Gemini 22°15′ | Taurus | 5 | R -0.015°/d |  |  |
+| ♆ Neptune | ♎ Libra 12°51′ | Virgo | 9 | R -0.015°/d |  |  |
+| ♇ Pluto | ♌ Leo 13°37′ | Cancer | 7 | R -0.023°/d |  |  |
+| ☊ North Node | ♉ Taurus 18°36′ | Aries | 4 | mean node |  |  |
+| ☋ South Node | ♏ Scorpio 18°36′ | Libra | 10 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Aquarius))
 

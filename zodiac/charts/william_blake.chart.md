@@ -7,20 +7,20 @@ Born 1757-11-28 (gregorian calendar), Broad Street, Soho, the birth (lat 51.5136
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♐ Sagittarius 6°02′ | 1 | 1.014°/d |  |  |
-| ☽ Moon | ♋ Cancer 1°59′ | 8 | 12.312°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
-| ☿ Mercury | ♏ Scorpio 25°42′ | 12 | 1.559°/d |  |  |
-| ♀ Venus | ♑ Capricornus 18°06′ | 2 | 1.183°/d |  |  |
-| ♂ Mars | ♌ Leo 20°02′ | 9 | 0.282°/d |  |  |
-| ♃ Jupiter | ♐ Sagittarius 0°51′ | 1 | 0.223°/d | domicile |  |
-| ♄ Saturn | ♒ Aquarius 16°28′ | 3 | 0.064°/d | domicile |  |
-| ♅ Uranus | ♓ Pisces 19°27′ | 4 | R -0.000°/d (stationary) |  |  |
-| ♆ Neptune | ♌ Leo 15°25′ | 9 | R -0.006°/d (stationary) |  |  |
-| ♇ Pluto | ♐ Sagittarius 20°08′ | 1 | 0.037°/d |  |  |
-| ☊ North Node | ♌ Leo 7°22′ | 9 | mean node |  |  |
-| ☋ South Node | ♒ Aquarius 7°22′ | 3 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♐ Sagittarius 6°02′ | Scorpius | 1 | 1.014°/d |  |  |
+| ☽ Moon | ♋ Cancer 1°59′ | Gemini | 8 | 12.312°/d | domicile | within 7° of a sign boundary: the Moon's sign may differ (Gemini or Cancer) |
+| ☿ Mercury | ♏ Scorpio 25°42′ | Libra | 12 | 1.559°/d |  |  |
+| ♀ Venus | ♑ Capricornus 18°06′ | Sagittarius | 2 | 1.183°/d |  |  |
+| ♂ Mars | ♌ Leo 20°02′ | Leo | 9 | 0.282°/d |  |  |
+| ♃ Jupiter | ♐ Sagittarius 0°51′ | Libra | 1 | 0.223°/d | domicile |  |
+| ♄ Saturn | ♒ Aquarius 16°28′ | Capricornus | 3 | 0.064°/d | domicile |  |
+| ♅ Uranus | ♓ Pisces 19°27′ | Aquarius | 4 | R -0.000°/d (stationary) |  |  |
+| ♆ Neptune | ♌ Leo 15°25′ | Cancer | 9 | R -0.006°/d (stationary) |  |  |
+| ♇ Pluto | ♐ Sagittarius 20°08′ | Ophiuchus | 1 | 0.037°/d |  |  |
+| ☊ North Node | ♌ Leo 7°22′ | Cancer | 9 | mean node |  |  |
+| ☋ South Node | ♒ Aquarius 7°22′ | Capricornus | 3 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Sagittarius))
 

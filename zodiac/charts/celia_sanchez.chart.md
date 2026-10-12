@@ -7,20 +7,20 @@ Born 1920-10-16 (gregorian calendar), Manzanillo: entered in the register at Vic
 
 ## Bodies
 
-| body | position | house | motion | dignity | note |
-|---|---|---|---|---|---|
-| ☉ Sun | ♎ Libra 22°20′ | 1 | 0.992°/d | fall |  |
-| ☽ Moon | ♐ Sagittarius 8°23′ | 3 | 12.129°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
-| ☿ Mercury | ♏ Scorpio 14°43′ | 2 | 1.292°/d |  |  |
-| ♀ Venus | ♏ Scorpio 19°55′ | 2 | 1.229°/d | detriment |  |
-| ♂ Mars | ♐ Sagittarius 28°09′ | 3 | 0.723°/d |  |  |
-| ♃ Jupiter | ♍ Virgo 10°16′ | 12 | 0.186°/d | detriment |  |
-| ♄ Saturn | ♍ Virgo 19°44′ | 12 | 0.113°/d |  |  |
-| ♅ Uranus | ♓ Pisces 2°07′ | 6 | R -0.021°/d |  |  |
-| ♆ Neptune | ♌ Leo 13°33′ | 11 | 0.017°/d |  |  |
-| ♇ Pluto | ♋ Cancer 8°56′ | 10 | R -0.003°/d (stationary) |  |  |
-| ☊ North Node | ♏ Scorpio 7°05′ | 2 | mean node |  |  |
-| ☋ South Node | ♉ Taurus 7°05′ | 8 | mean node |  |  |
+| body | sign | really in | house | motion | dignity | note |
+|---|---|---|---|---|---|---|
+| ☉ Sun | ♎ Libra 22°20′ | Virgo | 1 | 0.992°/d | fall |  |
+| ☽ Moon | ♐ Sagittarius 8°23′ | Ophiuchus | 3 | 12.129°/d |  | ±7° (no birth time: the Moon moves ~13° a day) |
+| ☿ Mercury | ♏ Scorpio 14°43′ | Libra | 2 | 1.292°/d |  |  |
+| ♀ Venus | ♏ Scorpio 19°55′ | Libra | 2 | 1.229°/d | detriment |  |
+| ♂ Mars | ♐ Sagittarius 28°09′ | Sagittarius | 3 | 0.723°/d |  |  |
+| ♃ Jupiter | ♍ Virgo 10°16′ | Leo | 12 | 0.186°/d | detriment |  |
+| ♄ Saturn | ♍ Virgo 19°44′ | Leo | 12 | 0.113°/d |  |  |
+| ♅ Uranus | ♓ Pisces 2°07′ | Aquarius | 6 | R -0.021°/d |  |  |
+| ♆ Neptune | ♌ Leo 13°33′ | Cancer | 11 | 0.017°/d |  |  |
+| ♇ Pluto | ♋ Cancer 8°56′ | Gemini | 10 | R -0.003°/d (stationary) |  |  |
+| ☊ North Node | ♏ Scorpio 7°05′ | Virgo | 2 | mean node |  |  |
+| ☋ South Node | ♉ Taurus 7°05′ | Aries | 8 | mean node |  |  |
 
 ## Houses (solar whole-sign (first house = the Sun's sign, Libra))
 
