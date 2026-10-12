@@ -1,0 +1,2677 @@
+# Atlas-wide clusters
+
+2648 place+date points shared by 2+ subjects (1246 on a specific date, 1402 only sharing the Jan-1 year-only placeholder date).
+
+## Specific-date convergences, largest first (1246)
+
+Same rounded coordinate (0.1 deg) and the same explicit date, across the whole atlas, any year. A proxy, not a documented meeting -- verify before treating as a real crossing.
+
+- 1913-07-01 (46.2, 8.8), 9: Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger), Arnold Rikli, Elsa Gindler, Gustav Arthur "Gusto" Gräser, Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven), Karl Max Engelmann (Liga Pitagórica), Rudolf Laban, Suzanne Perrottet
+- 1893-05-01 (41.8, -87.6), 7: Auguste Rodin (François Auguste René Rodin), Eadweard Muybridge, Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy'), Nikola Tesla, Thathanka Iyotake (Sitting Bull), Hunkpapa Lakota, Thomas Alva Edison, Ángel della Valle
+- 1900-10-01 (48.1, 11.6), 7: Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger), Gustav Arthur "Gusto" Gräser, Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven), Karl Gräser (Carl Samuel Josef Gräser), Karl Max Engelmann (Liga Pitagórica), Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1927-10-24 (50.8, 4.4), 7: Albert Einstein, Erwin Rudolf Josef Alexander Schrödinger, Maria Salomea Skłodowska-Curie (Marie Curie), Niels Bohr (Niels Henrik David Bohr), Paul Adrien Maurice Dirac, Werner Heisenberg, Wolfgang Ernst Pauli
+- 1966-10-18 (39.3, -76.6), 7: Edward Witten, Gilles Louis Rene Deleuze, Jacques Derrida (born Jackie Elie Derrida), Jacques Marie Émile Lacan, Nick Land, René Noël Théophile Girard, Roland Gérard Barthes
+- 1900-12-01 (46.2, 8.8), 6: Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger), Gustav Arthur "Gusto" Gräser, Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven), Karl Gräser (Carl Samuel Josef Gräser), Karl Max Engelmann (Liga Pitagórica)
+- 1907-04-01 (46.2, 8.8), 6: Arnold Rikli, Henri Oedenkoven, Hermann Hesse, Ida Hofmann (Ida Hofmann-Oedenkoven), Karl Max Engelmann (Liga Pitagórica), Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1917-08-18 (46.2, 8.8), 6: Arnold Rikli, Karl Max Engelmann (Liga Pitagórica), Katja Wulff (Käthe Wulff), Mary Wigman (Karoline Sofie Marie Wiegmann), Rudolf Laban, Suzanne Perrottet
+- 1861-04-11 (51.5, -0.1), 6: Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Elizabeth (Bessie) Burden, Jane Morris (nee Burden), Sir Edward Coley Burne-Jones, 1st Baronet, William Holman Hunt, William Morris
+- 1933-08-07 (46.1, 8.8), 5: Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger), Arnold Rikli, Carl Gustav Jung, Karl Max Engelmann (Liga Pitagórica), Olga Fröbe-Kapteyn
+- 1900-06-01 (48.9, 2.3), 5: Auguste Rodin (François Auguste René Rodin), Isadora Duncan, Loïe Fuller (Marie Louise Fuller), Sarah Bernhardt (Henriette-Rosine Bernard), Étienne-Jules Marey
+- 1790-10-18 (48.5, 9.1), 5: Fred McFeely Rogers, Friedrich Wilhelm Joseph Schelling, Georg Wilhelm Friedrich Hegel, Immanuel Kant, Nick Land
+- 1841-11-15 (52.5, 13.4), 5: Alexander von Humboldt, Friedrich Wilhelm Joseph Schelling, Georg Wilhelm Friedrich Hegel, Mikhail Aleksandrovich Bakunin, Søren Aabye Kierkegaard
+- 1914-08-01 (46.2, 8.8), 5: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven), Katja Wulff (Käthe Wulff), Rudolf Laban, Suzanne Perrottet
+- 1913-05-29 (48.9, 2.3), 5: Igor Fyodorovich Stravinsky, Marcel Proust, Nicholas Konstantinovich Roerich (Nikolai Konstantinovich Rerikh), Sergei Pavlovich Diaghilev, Vaslav Nijinsky (Wacław Niżyński)
+- 1221-04-01 (36.2, 58.8), 4: Abu al-Qasim Abd al-Karim ibn Hawazin al-Qushayri, Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Farid al-Din Attar (Farid al-Din Muhammad ibn Ibrahim, 'Attar-e Nishaburi), Genghis Khan (Chinggis Khan / Temüjin)
+- 1948-07-01 (35.6, -82.3), 4: Anni Albers (Annelise Else Frieda Fleischmann), John Milton Cage Jr., Merce Cunningham (Mercier Philip Cunningham), R. Buckminster Fuller
+- 1929-10-01 (-34.6, -58.4), 4: Antoine de Saint-Exupéry, Carlos Gardel (Charles Romuald Gardes), Le Corbusier (Charles-Edouard Jeanneret-Gris), Max Glücksmann (Mordechai David Glücksmann)
+- 1989-12-20 (9.0, -79.5), 4: Arthur Ben, George Herbert Walker Bush, George Walker Bush, Manuel Antonio Noriega Moreno
+- 1912-05-29 (48.9, 2.3), 4: Achille-Claude Debussy, Auguste Rodin (François Auguste René Rodin), Sergei Pavlovich Diaghilev, Vaslav Nijinsky (Wacław Niżyński)
+- 1806-08-12 (-34.6, -58.4), 4: Juan Martín de Pueyrredón y O'Doggan, Manuel Belgrano, Martín Miguel de Güemes, María Remedios del Valle
+- 1813-10-01 (-19.0, -66.6), 4: José Antonio de la Sierra (José Antonio de Sierra), Juana Azurduy de Padilla, Manuel Belgrano, María Remedios del Valle
+- 1813-11-14 (-18.9, -66.1), 4: José Antonio de la Sierra (José Antonio de Sierra), Juana Azurduy de Padilla, Manuel Belgrano, María Remedios del Valle
+- 2012-04-23 (46.2, 6.1), 4: Linus Benedict Torvalds, Philip R. Zimmermann (Phil Zimmermann), Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1805-05-26 (45.5, 9.2), 4: Empress Joséphine (Marie-Josèphe-Rose Tascher de La Pagerie, vicomtesse de Beauharnais), Napoleon Bonaparte, Simón Bolívar, Simón Rodríguez (Samuel Robinson)
+- 1936-07-19 (41.4, 2.2), 4: José Buenaventura Durruti Dumange, Maria Tecla Artemisia Montessori, Mikhail Aleksandrovich Bakunin, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1875-07-26 (47.6, 9.3), 4: Carl Gustav Jung, Carl Gustav Jung the elder, Dr Carl Jung of Mainz, Samuel Preiswerk
+- 1848-09-01 (51.5, -0.1), 4: Christina Georgina Rossetti, Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Sir John Everett Millais, 1st Baronet, William Holman Hunt
+- 0303-02-23 (40.8, 29.9), 4: Constantine the Great (Flavius Valerius Constantinus), Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Cyriacus of Rome (Kyriakos, Ciriaco, Cyriakus, Cyriaque), deacon and martyr, Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis)
+- 1857-08-01 (51.8, -1.3), 4: Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Elizabeth (Bessie) Burden, Sir Edward Coley Burne-Jones, 1st Baronet, William Morris
+- 1976-11-01 (37.4, -122.2), 4: Bailey Whitfield Diffie, Martin Edward Hellman, Ralph Charles Merkle, Ronald Linn Rivest
+- 1886-10-28 (40.7, -74.0), 4: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Edward Bellamy, Francis Julius Bellamy, Frédéric Auguste Bartholdi
+- 1871-06-01 (51.7, -1.6), 4: Elizabeth (Bessie) Burden, Jane Morris (nee Burden), Mary "May" Morris, William Morris
+- 1896-10-03 (51.5, -0.2), 4: Elizabeth (Bessie) Burden, Jane Morris (nee Burden), Mary "May" Morris, William Morris
+- 1963-09-09 (40.7, -74.0), 4: Erik Satie (Eric Alfred Leslie Satie), John Milton Cage Jr., Merce Cunningham (Mercier Philip Cunningham), Viola Farber
+- 1945-07-16 (33.7, -106.5), 4: Enrico Fermi, J. Robert Oppenheimer, John von Neumann (Neumann János Lajos, margittai Neumann János), Richard Phillips Feynman
+- 2016-04-22 (40.7, -74.0), 4: Ghislaine Noelle Marion Maxwell, Mark Brodsky, Mark Stewart Cohen, Paul Elliott Singer
+- 1916-03-30 (47.4, 8.5), 4: James Augustine Aloysius Joyce, Katja Wulff (Käthe Wulff), Rudolf Laban, Suzanne Perrottet
+- 1795-01-20 (48.8, 2.4), 4: Jean-Baptiste Joseph Fourier, Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia), Pierre-Simon Laplace, marquis de Laplace, René Just Haüy
+- 1914-06-15 (46.2, 8.8), 4: Katja Wulff (Käthe Wulff), Mary Wigman (Karoline Sofie Marie Wiegmann), Rudolf Laban, Suzanne Perrottet
+- -0959-10-01 (31.8, 35.2), 3: Aaron the Levite (Aharon ben Amram), Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), King Solomon (Shelomoh · Sulayman)
+- 0622-06-15 (21.4, 39.8), 3: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr, Muhammad ibn Abdullah
+- 0625-03-23 (24.5, 39.6), 3: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr, Muhammad ibn Abdullah
+- 0627-03-01 (24.5, 39.6), 3: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr, Muhammad ibn Abdullah
+- 0632-06-01 (24.5, 39.6), 3: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr, Muhammad ibn Abdullah
+- 0632-06-08 (24.5, 39.6), 3: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr, Muhammad ibn Abdullah
+- 1244-11-29 (37.9, 32.5), 3: Abu Yazid Tayfur ibn Isa al-Bistami (Bayazid Bastami), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi), Shams al-Din Muhammad of Tabriz (Shams-e Tabrizi, Shams-e Parande)
+- 1978-02-01 (42.4, -71.1), 3: Adi Shamir, Leonard Max Adleman, Ronald Linn Rivest
+- -1184-06-01 (40.0, 26.2), 3: Aeneas (Aineías / Aeneas Anchisiades), Homer (Homeros; called Melesigenes in the ancient Life), Odysseus (Ulysses)
+- 1897-08-29 (47.6, 7.6), 3: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Samuel Preiswerk, Theodor Herzl (Binyamin Ze'ev Herzl)
+- 1898-08-28 (47.6, 7.6), 3: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Chaim Azriel Weizmann, Theodor Herzl (Binyamin Ze'ev Herzl)
+- 1901-12-26 (47.6, 7.6), 3: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Chaim Azriel Weizmann, Theodor Herzl (Binyamin Ze'ev Herzl)
+- 1917-11-02 (51.5, -0.1), 3: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Arthur James Balfour, 1st Earl of Balfour, Chaim Azriel Weizmann
+- 1804-06-01 (38.9, -77.0), 3: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt, Thomas Jefferson
+- 1429-03-04 (47.2, 0.7), 3: Abd al-Rahman ibn Abd Allah al-Ghafiqi, Catherine of Alexandria (Katherine of the Wheel), Joan of Arc (Jehanne la Pucelle)
+- 1990-07-28 (-12.0, -77.0), 3: Alberto Kenya Fujimori Inomoto, Keiko Sofia Fujimori Higuchi, Susana Shizuko Higuchi Miyagawa
+- 1778-06-28 (40.3, -74.3), 3: Alexander Hamilton, George Washington, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1934-11-01 (-34.6, -58.4), 3: Alfonsina Storni, Carlos María della Paolera, Enrique Santos Discépolo
+- 1919-01-18 (48.9, 2.3), 3: Allen Welsh Dulles, Edward Louis Bernays, John Foster Dulles
+- 1812-03-09 (-34.6, -58.4), 3: Carlos María de Alvear, José de San Martín, Lautaro (Leftraru)
+- 1812-10-08 (-34.6, -58.4), 3: Carlos María de Alvear, José de San Martín, Juan Martín de Pueyrredón y O'Doggan
+- 1825-10-26 (-19.6, -65.8), 3: Antonio José de Sucre, Carlos María de Alvear, Simón Bolívar
+- 1938-07-01 (19.4, -99.2), 3: André Breton, Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón), Lev Davidovich Bronstein (Leon Trotsky)
+- 1909-05-19 (48.9, 2.3), 3: Anna Matveyevna Pavlova, Sergei Pavlovich Diaghilev, Vaslav Nijinsky (Wacław Niżyński)
+- 1922-06-01 (51.0, 11.3), 3: Anni Albers (Annelise Else Frieda Fleischmann), Oskar Alfred Victor Schlemmer, Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1887-11-13 (51.5, -0.1), 3: Annie Besant (née Wood), Mary "May" Morris, William Morris
+- 1889-05-10 (51.5, -0.2), 3: Annie Besant (née Wood), Arthur Edward Waite, Helena Petrovna Blavatsky
+- 1903-08-01 (51.5, -0.1), 3: Aron Iosifovich Kremer, called Arkadi, Vladimir Ilyich Ulyanov (Lenin), Vladimir Medem (Vladimir Davidovich Medem, born Grinberg)
+- 1900-11-01 (46.2, 8.8), 3: Arnold Rikli, Karl Gräser (Carl Samuel Josef Gräser), Karl Max Engelmann (Liga Pitagórica)
+- 1926-03-01 (-34.6, -58.4), 3: Arshag Shorjian, Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo), Viktor Sulčič
+- 1893-06-01 (51.5, -0.1), 3: Arthur Edward Waite, Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1909-04-01 (51.5, -0.1), 3: Achille-Claude Debussy, Arthur Edward Waite, Pamela Colman Smith ("Pixie")
+- 1219-06-01 (36.2, 58.8), 3: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Farid al-Din Attar (Farid al-Din Muhammad ibn Ibrahim, 'Attar-e Nishaburi), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi)
+- 1973-09-11 (-33.4, -70.7), 3: Anthony Stafford Beer, Augusto Pinochet Ugarte, Salvador Guillermo Allende Gossens
+- 1979-02-11 (35.7, 51.4), 3: Mohammad Mosaddegh, Mohammad Reza Shah Pahlavi, Ruhollah Mostafavi Musavi Khomeini
+- 1219-10-01 (33.3, 44.4), 3: Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad), Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi)
+- 1807-07-05 (-34.6, -58.4), 3: Manuel Belgrano, Martín Miguel de Güemes, María Remedios del Valle
+- 1812-09-24 (-26.8, -65.2), 3: José Antonio de la Sierra (José Antonio de Sierra), Manuel Belgrano, María Remedios del Valle
+- 1813-02-20 (-24.7, -65.4), 3: José Antonio de la Sierra (José Antonio de Sierra), Manuel Belgrano, Martín Miguel de Güemes
+- 1816-07-09 (-26.8, -65.2), 3: Juan Martín de Pueyrredón y O'Doggan, Manuel Belgrano, Martín Miguel de Güemes
+- 1976-09-01 (42.4, -71.1), 3: Benjamin Netanyahu (Bibi), Edward Witten, Leonard Max Adleman
+- 1987-06-01 (48.9, 2.4), 3: Bernard Jean Étienne Arnault, Gilles Louis Rene Deleuze, Miller Smith Puckette
+- 1940-10-01 (40.7, -74.0), 3: Bethsabée (Batsheva) de Rothschild, David Rockefeller, Valeska Gert (Gertrud Valesca Samosch)
+- 1973-09-01 (42.4, -71.1), 3: George Walker Bush, Leon David Black, William Henry Gates III (Bill Gates)
+- 1804-12-02 (48.9, 2.3), 3: Empress Joséphine (Marie-Josèphe-Rose Tascher de La Pagerie, vicomtesse de Beauharnais), Napoleon Bonaparte, Simón Bolívar
+- 1822-07-26 (-2.2, -79.9), 3: José de San Martín, Manuela Sáenz de Vergara y Aizpuru, Simón Bolívar
+- 1919-06-01 (48.1, 11.6), 3: Edward Bulwer-Lytton, 1st Baron Lytton (Edward George Earle Lytton Bulwer), Maria Orsic, Pytheas de Massalia
+- 1948-04-09 (4.6, -74.1), 3: Camilo Torres Restrepo, Fidel Alejandro Castro Ruz, Gabriel José García Márquez
+- 1961-06-06 (47.3, 8.6), 3: Carl Gustav Jung, Dr Carl Jung of Mainz, Miguel Serrano
+- 1926-11-15 (48.9, 2.3), 3: Carl Theodor Dreyer, Charlotte Bara (Charlotte Bachrach, 'die gotische Tänzerin'), Renée Jeanne Falconetti
+- 1927-10-24 (48.8, 2.3), 3: Carl Theodor Dreyer, Lionel-Noël Royer, Renée Jeanne Falconetti
+- 1424-08-15 (48.4, 5.7), 3: Catherine of Alexandria (Katherine of the Wheel), Joan of Arc (Jehanne la Pucelle), Margarita / Marina / Pelagia, the Pearl of the Three Waters
+- 1959-01-08 (23.1, -82.4), 3: Celia Esther Sánchez Manduley, Fidel Alejandro Castro Ruz, Teté Puebla (Delsa Esther Puebla Viltres)
+- 1954-11-01 (40.9, 14.3), 3: Assunta "Pupetta" Maresca, Charles "Lucky" Luciano (Salvatore Lucania), Pasquale Simonetti ("Pascalone 'e Nola")
+- 1964-06-01 (-34.6, -58.4), 3: Charly García, Dalila Puzzovio, Raúl Veroni (Raoul Veroni), the elder
+- 1882-04-09 (51.4, 1.3), 3: Christina Georgina Rossetti, Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Jane Morris (nee Burden)
+- -0044-03-15 (41.9, 12.5), 3: Cleopatra VII Thea Philopator, Gaius Julius Caesar, Marcus Tullius Cicero
+- 1924-06-20 (48.9, 2.3), 3: Gabrielle Bonheur "Coco" Chanel, Pablo Ruiz Picasso, Sergei Pavlovich Diaghilev
+- 1477-02-01 (64.1, -21.9), 3: Christopher Columbus, Leif Erikson (Leifr Eiriksson, Leif the Lucky), San Brendan de Clonfert (Breanainn moccu Alti, Brendan the Navigator)
+- 1973-06-20 (-34.7, -58.6), 3: Cristina Elisabet Fernández de Kirchner, José López Rega (El Brujo), María Estela Martínez Cartas de Perón (Isabel Perón)
+- 2013-03-05 (10.5, -66.9), 3: Cristina Elisabet Fernández de Kirchner, Hugo Rafael Chávez Frías, Nicolás Maduro Moros
+- 2016-06-01 (37.8, -122.4), 3: Bailey Whitfield Diffie, Curtis Guy Yarvin (Mencius Moldbug), Martin Edward Hellman
+- 1857-10-01 (51.8, -1.3), 3: Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Elizabeth (Bessie) Burden, Jane Morris (nee Burden)
+- 1932-09-01 (42.4, -71.1), 3: David Rockefeller, Joseph Alois Schumpeter, William Seward Burroughs II
+- 2013-12-07 (-34.6, -58.4), 3: Diego Gutiérrez Zaldívar, Sergio Demian Lerner, Wenceslao "Wences" Casares
+- 1933-12-10 (59.3, 18.1), 3: Erwin Rudolf Josef Alexander Schrödinger, Paul Adrien Maurice Dirac, Werner Heisenberg
+- 1977-09-01 (37.4, -122.2), 3: Donald Ervin Knuth (Gao Dena), Friedrich August von Hayek, Milton Friedman
+- 1967-06-01 (48.9, 2.4), 3: Donna Jeanne Haraway, Michèle Bernstein, Pierre-Félix Guattari
+- 1934-07-01 (42.9, -73.2), 3: Doris Batcheller Humphrey, Hanya Holm (born Johanna Josepha Eckert), Martha Graham
+- 1939-07-01 (37.8, -122.2), 3: Doris Batcheller Humphrey, Martha Graham, Merce Cunningham (Mercier Philip Cunningham)
+- 1860-06-01 (51.5, 0.1), 3: Jane Morris (nee Burden), Sir Edward Coley Burne-Jones, 1st Baronet, William Morris
+- 1862-06-01 (51.5, -0.1), 3: Michael Faraday, Sir Edward Coley Burne-Jones, 1st Baronet, William Morris
+- 1911-10-30 (50.9, 4.4), 3: Albert Einstein, Jules Henri Poincaré, Maria Salomea Skłodowska-Curie (Marie Curie)
+- 1859-04-26 (51.8, -1.3), 3: Elizabeth (Bessie) Burden, Jane Morris (nee Burden), William Morris
+- 1862-03-25 (51.5, 0.1), 3: Elizabeth (Bessie) Burden, Jane Morris (nee Burden), Mary "May" Morris
+- 1865-11-01 (51.5, -0.1), 3: Elizabeth (Bessie) Burden, Jane Morris (nee Burden), Mary "May" Morris
+- 1881-06-01 (51.4, -0.2), 3: Elizabeth (Bessie) Burden, Mary "May" Morris, William Morris
+- 1891-01-12 (51.5, -0.2), 3: Elizabeth (Bessie) Burden, Mary "May" Morris, William Morris
+- 2000-09-01 (37.4, -122.2), 3: Elon Reeve Musk, Max Rafailovich Levchin, Peter Andreas Thiel
+- 1914-08-01 (48.9, 2.4), 3: Fritz Lang (Friedrich Christian Anton Lang), Émile Pouget, Étienne Bazeries
+- 2019-06-01 (-34.6, -58.4), 3: Emiliano Kargieman, Sergio Demian Lerner, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1935-06-01 (-34.6, -58.4), 3: Emir Emin Arslan (al-Amir Amin Majid Arslan), Enrique Santos Discépolo, Felix José Weil
+- 1882-07-26 (50.0, 11.6), 3: Engelbert Humperdinck, Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore), Wilhelm Richard Wagner
+- 1943-06-01 (-34.6, -58.4), 3: Enrique Santos Discépolo, Henryk Erlich (Hersh-Wolf Erlikh), Raúl Veroni (Raoul Veroni), the elder
+- 1917-05-18 (48.9, 2.3), 3: Erik Satie (Eric Alfred Leslie Satie), Pablo Ruiz Picasso, Sergei Pavlovich Diaghilev
+- 1789-07-14 (48.9, 2.4), 3: Jean-Baptiste Alliette, called Etteilla, Louis XVI, Louis-Auguste de France, duc de Berry, King of France and Navarre, then King of the French, then Louis Capet, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1974-11-17 (-34.5, -58.5), 3: Eva Duarte de Perón ("Evita"), José López Rega (El Brujo), María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1891-07-01 (42.0, -70.7), 3: Felix Adler, John Dewey, William James
+- 1972-03-01 (48.9, 2.3), 3: Gilles Louis Rene Deleuze, Nick Land, Pierre-Félix Guattari
+- 1951-11-14 (50.1, 8.7), 3: Felix José Weil, Max Horkheimer, Theodor W. Adorno (Theodor Ludwig Wiesengrund)
+- 1963-12-02 (38.9, -77.0), 3: Enrico Fermi, J. Robert Oppenheimer, John Fitzgerald Kennedy
+- 1796-06-01 (50.9, 11.6), 3: Christiane Wilhelmine Sophie von Kühn, Johann Gottlieb Fichte, Novalis (Friedrich von Hardenberg)
+- 1885-06-01 (-34.6, -58.4), 3: Francesco Tamburini, Torcuato Antonio de Alvear, Vittorio Meano (Victor Meano)
+- 1908-05-25 (-34.6, -58.4), 3: Francesco Tamburini, Jules Dormal Godet (Julio Dormal), Vittorio Meano (Victor Meano)
+- 1909-09-10 (42.3, -71.8), 3: Carl Gustav Jung, Sigmund Freud, William James
+- 1939-03-01 (48.9, 2.3), 3: Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón), José Antonio de Aguirre y Lecube, Pablo Ruiz Picasso
+- 1947-04-10 (46.5, 6.8), 3: Friedrich August von Hayek, Ludwig Heinrich Edler von Mises, Milton Friedman
+- 1884-06-01 (40.7, -74.0), 3: Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy'), Nikola Tesla, Thomas Alva Edison
+- 1901-09-01 (48.2, 16.4), 3: Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy'), Martin Mordechai Buber, Theodor Herzl (Binyamin Ze'ev Herzl)
+- 1928-06-12 (48.9, 2.3), 3: George Balanchine (Georgiy Melitonovich Balanchivadze), Igor Fyodorovich Stravinsky, Sergei Pavlovich Diaghilev
+- 1990-06-01 (40.8, -74.0), 3: George Balanchine (Georgiy Melitonovich Balanchivadze), Josefina Ayerza, Leon David Black
+- 1946-07-06 (41.3, -72.9), 3: George Herbert Walker Bush, George Walker Bush, Prescott Sheldon Bush
+- 1781-10-19 (37.2, -76.5), 3: Claude-Henri de Rouvroy, comte de Saint-Simon, George Washington, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 2021-12-29 (40.7, -74.0), 3: Ghislaine Noelle Marion Maxwell, Mark Stewart Cohen, Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 1446-07-28 (50.1, 11.1), 3: Saint Cyriacus of Rome (Kyriakos, Ciriaco, Cyriakus, Cyriaque), deacon and martyr, Saint Giles (Aegidius), San Cristobal (Christopher of Lycia, born Reprobus / Adokimos of the Marmaritae)
+- 1429-05-07 (47.9, 1.9), 3: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Joan of Arc (Jehanne la Pucelle), Saint Barbara of Heliopolis (Bárbara)
+- 1968-12-01 (48.8, 2.4), 3: Gilles Louis Rene Deleuze, Nick Land, Paul-Michel Foucault
+- 1972-07-01 (49.0, -1.3), 3: Gilles Louis Rene Deleuze, Jacques Derrida (born Jackie Elie Derrida), Nick Land
+- 1984-06-25 (48.8, 2.4), 3: Gilles Louis Rene Deleuze, Nick Land, Paul-Michel Foucault
+- 1221-05-30 (43.1, 12.6), 3: Francis of Assisi (Francesco di Pietro di Bernardone), Giovanni da Pian del Carpine (John of Plano Carpini), Saint Anthony of Padua (Fernando of Lisbon, Antonius Patavinus)
+- 1901-06-01 (46.2, 8.8), 3: Gustav Arthur "Gusto" Gräser, Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1977-10-01 (42.5, -76.5), 3: Martin Edward Hellman, Ralph Charles Merkle, Ronald Linn Rivest
+- 1899-08-01 (46.4, 14.1), 3: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven), Karl Gräser (Carl Samuel Josef Gräser)
+- 1906-04-19 (46.2, 8.8), 3: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven), Otto Gross
+- 1971-09-03 (40.5, -3.8), 3: José López Rega (El Brujo), Juan Domingo Perón, María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1974-07-01 (-34.5, -58.5), 3: José López Rega (El Brujo), Juan Domingo Perón, María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1937-07-19 (48.1, 11.6), 3: Johannes Itten, Oskar Alfred Victor Schlemmer, Paul Klee
+- 1799-07-01 (50.9, 11.6), 3: Christiane Wilhelmine Sophie von Kühn, Jacob Boehme (Jakob Böhme), the shoemaker of Görlitz, Novalis (Friedrich von Hardenberg)
+- 1896-10-06 (51.7, -1.6), 3: Jane Morris (nee Burden), Mary "May" Morris, William Morris
+- 1912-06-28 (51.1, 13.8), 3: Mary Wigman (Karoline Sofie Marie Wiegmann), Suzanne Perrottet, Émile Jaques-Dalcroze
+- 1913-01-15 (51.1, 13.8), 3: Mary Wigman (Karoline Sofie Marie Wiegmann), Suzanne Perrottet, Émile Jaques-Dalcroze
+- 1924-06-01 (-34.6, -58.4), 3: Jean-Claude Nicolas Forestier, Joaquín Trincado Mateo, Osvaldo Pedro Pugliese
+- 1223-12-24 (42.5, 12.8), 3: Francis of Assisi (Francesco di Pietro di Bernardone), Joffrey de Bourlémont (Jofridus, dominus de Borlenmont), Pierre Bourlémont (Pierre II, sire de Bourlémont)
+- 1508-04-01 (49.8, 10.0), 3: Johannes Trithemius (Johann von Heidenberg), abbot of Sponheim and of St James's at Würzburg, Paracelsus (Theophrastus Bombastus von Hohenheim), Salomon Trismosin
+- 1964-06-01 (48.9, 2.4), 3: John Milton Cage Jr., Merce Cunningham (Mercier Philip Cunningham), Viola Farber
+- 1882-11-19 (-34.9, -58.0), 3: José Rafael Hernández, Julio Argentino Roca, Pedro Simón del Corazón de Jesús Benoit
+- 1798-08-22 (30.0, 31.2), 3: Jean-Baptiste Joseph Fourier, Napoleon Bonaparte, Pierre-François-Xavier Bouchard
+- 1807-12-21 (48.9, 2.3), 3: Jean-Baptiste Joseph Fourier, Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia), Pierre-Simon Laplace, marquis de Laplace
+- 1817-02-12 (-33.0, -70.7), 3: Bernardo O'Higgins Riquelme, José de San Martín, Juan Martín de Pueyrredón y O'Doggan
+- 1917-04-14 (47.4, 8.5), 3: Katja Wulff (Käthe Wulff), Mary Wigman (Karoline Sofie Marie Wiegmann), Rudolf Laban
+- 1913-07-20 (46.2, 8.8), 3: Mary Wigman (Karoline Sofie Marie Wiegmann), Rudolf Laban, Suzanne Perrottet
+- 1915-02-01 (47.4, 8.6), 3: Mary Wigman (Karoline Sofie Marie Wiegmann), Rudolf Laban, Suzanne Perrottet
+- 1977-04-02 (42.4, -71.1), 3: Leonard Max Adleman, Philip R. Zimmermann (Phil Zimmermann), Ronald Linn Rivest
+- 2000-09-06 (42.5, -71.3), 3: Leonard Max Adleman, Philip R. Zimmermann (Phil Zimmermann), Ronald Linn Rivest
+- 1790-07-14 (48.9, 2.3), 3: Louis XVI, Louis-Auguste de France, duc de Berry, King of France and Navarre, then King of the French, then Louis Capet, Marie Adrienne Françoise de Noailles, Marquise de Lafayette, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1792-08-10 (48.9, 2.3), 3: Louis XVI, Louis-Auguste de France, duc de Berry, King of France and Navarre, then King of the French, then Louis Capet, Marie Adrienne Françoise de Noailles, Marquise de Lafayette, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1916-06-01 (34.1, -118.3), 3: Martha Graham, Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1824-06-01 (51.5, -0.1), 3: Mary Wollstonecraft Shelley (born Mary Wollstonecraft Godwin), Publius Vergilius Maro (Virgil), William Blake
+- 1998-12-01 (37.4, -122.1), 3: Max Rafailovich Levchin, Peter Andreas Thiel, Reid Garrett Hoffman
+- 1291-05-18 (32.9, 35.1), 3: Jacques de Molay, Rabban Bar Sauma, San Antonio Abad (Antony the Great, Antonios of Coma)
+- 2014-09-01 (40.7, -74.0), 3: Nicolás Maduro Moros, Sam Bankman-Fried (Samuel Benjamin Bankman-Fried), Yuval Noah Harari
+- 1943-12-30 (35.9, -106.3), 3: J. Robert Oppenheimer, Niels Bohr (Niels Henrik David Bohr), Richard Phillips Feynman
+- 0303-05-08 (41.0, 29.0), 3: Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Blaise of Sebastea (Blasius, Sveti Vlaho, San Biagio), Saint Cyriacus of Rome (Kyriakos, Ciriaco, Cyriakus, Cyriaque), deacon and martyr
+- 0303-03-18 (40.8, 29.9), 3: Pantaleon of Nicomedia (Pantoleon; Saint Panteleimon, the All-Merciful; San Pantaleone), Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis)
+- 0303-02-24 (40.8, 29.9), 3: Pantaleon of Nicomedia (Pantoleon; Saint Panteleimon, the All-Merciful; San Pantaleone), Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo), Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis)
+- 1921-11-01 (48.2, 16.4), 2: Aaron David Gordon (Aharon David Gordon), Friedrich August von Hayek
+- -1313-02-10 (30.8, 31.8), 2: Aaron the Levite (Aharon ben Amram), Moses
+- -1313-03-01 (30.6, 31.5), 2: Aaron the Levite (Aharon ben Amram), Moses
+- -1313-03-20 (30.7, 31.6), 2: Aaron the Levite (Aharon ben Amram), Moses
+- -1313-04-15 (30.8, 31.8), 2: Aaron the Levite (Aharon ben Amram), Moses
+- -1313-04-21 (29.9, 32.5), 2: Aaron the Levite (Aharon ben Amram), Moses
+- -1312-06-10 (29.0, 34.5), 2: Aaron the Levite (Aharon ben Amram), Moses
+- 1258-02-01 (33.3, 44.4), 2: Abd al-Qadir al-Jilani (Abdul Qadir Gilani), Ghawth al-A'zam, Afif al-Din Ali ibn Adlan al-Mawsili (Ibn Adlan)
+- 1808-09-06 (35.4, -0.2), 2: Abd al-Qadir al-Jilani (Abdul Qadir Gilani), Ghawth al-A'zam, Emir Abdelkader ibn Muhieddine (Abd al-Qadir al-Jaza'iri)
+- 1825-06-01 (21.4, 39.8), 2: Abd al-Qadir al-Jilani (Abdul Qadir Gilani), Ghawth al-A'zam, Emir Abdelkader ibn Muhieddine (Abd al-Qadir al-Jaza'iri)
+- 1826-05-01 (33.5, 36.3), 2: Abd al-Qadir al-Jilani (Abdul Qadir Gilani), Ghawth al-A'zam, Emir Abdelkader ibn Muhieddine (Abd al-Qadir al-Jaza'iri)
+- 1826-02-01 (33.3, 44.4), 2: Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad), Emir Abdelkader ibn Muhieddine (Abd al-Qadir al-Jaza'iri)
+- 1861-04-01 (38.9, -77.0), 2: Abraham Lincoln, Andrew Carnegie
+- 0621-02-01 (31.8, 35.2), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Muhammad ibn Abdullah
+- 0622-11-15 (24.5, 39.6), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr
+- 0624-03-13 (23.8, 38.8), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Muhammad ibn Abdullah
+- 0630-01-11 (21.4, 39.8), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Muhammad ibn Abdullah
+- 0632-06-09 (24.5, 39.6), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr
+- 0632-07-01 (24.5, 39.6), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr
+- 0634-08-23 (24.5, 39.6), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr
+- 1933-12-12 (53.6, 10.0), 2: Aby Moritz Warburg, Max Moritz Warburg
+- 1942-06-01 (-34.6, -58.4), 2: Ada Falcón (Aída Elsa Ada Falcone), Vito Dumas
+- 1833-06-05 (51.5, -0.2), 2: Augusta Ada King, Countess of Lovelace (Ada Byron), Charles Babbage
+- 1842-10-01 (46.2, 6.1), 2: Augusta Ada King, Countess of Lovelace (Ada Byron), Charles Babbage
+- 1843-09-01 (51.5, -0.1), 2: Augusta Ada King, Countess of Lovelace (Ada Byron), Charles John Huffam Dickens
+- 1851-08-12 (51.5, -0.1), 2: Augusta Ada King, Countess of Lovelace (Ada Byron), Charles Babbage
+- 1977-04-01 (42.4, -71.1), 2: Adi Shamir, Ronald Linn Rivest
+- 1977-08-01 (40.8, -74.0), 2: Adi Shamir, Ronald Linn Rivest
+- 2003-06-07 (32.7, -117.2), 2: Adi Shamir, Ronald Linn Rivest
+- 1940-01-15 (-36.0, -59.1), 2: Adolfo Bioy Casares, Silvina Ocampo
+- 1946-02-01 (-38.0, -57.6), 2: Adolfo Bioy Casares, Silvina Ocampo
+- 1985-06-01 (-34.6, -58.4), 2: Adolfo Bioy Casares, Charly García
+- 1999-03-08 (-34.6, -58.4), 2: Adolfo Bioy Casares, Indra Devi (Eugenia Vasilievna Peterson, Eugenie Strakaty)
+- -1182-06-10 (37.9, 11.5), 2: Aeneas (Aineías / Aeneas Anchisiades), Dido (Elissa of Tyre)
+- -1182-06-12 (36.8, 10.2), 2: Aeneas (Aineías / Aeneas Anchisiades), Dido (Elissa of Tyre)
+- -1182-06-13 (36.9, 10.3), 2: Aeneas (Aineías / Aeneas Anchisiades), Dido (Elissa of Tyre)
+- -1182-07-01 (36.8, 10.2), 2: Aeneas (Aineías / Aeneas Anchisiades), Dido (Elissa of Tyre)
+- -1182-11-01 (36.9, 10.3), 2: Aeneas (Aineías / Aeneas Anchisiades), Dido (Elissa of Tyre)
+- -1182-11-15 (36.9, 10.3), 2: Aeneas (Aineías / Aeneas Anchisiades), Dido (Elissa of Tyre)
+- -1181-07-11 (40.8, 14.1), 2: Aeneas (Aineías / Aeneas Anchisiades), Dido (Elissa of Tyre)
+- 1991-07-29 (40.7, -74.0), 2: Agha Hasan Abedi, Clark McAdams Clifford
+- 1992-10-01 (51.5, -0.1), 2: Agha Hasan Abedi, Roberto Calvi
+- 1998-10-10 (38.9, -77.1), 2: Agha Hasan Abedi, Clark McAdams Clifford
+- 1912-06-01 (51.5, -0.1), 2: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1917-06-01 (51.5, -0.1), 2: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Chaim Azriel Weizmann
+- 1799-03-01 (40.4, -3.7), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1799-06-05 (43.4, -8.4), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1799-07-16 (10.5, -64.2), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1799-11-21 (10.5, -66.9), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1800-01-02 (10.5, -66.8), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1800-03-19 (8.9, -67.4), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1800-05-10 (3.2, -65.5), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1801-03-30 (10.4, -75.5), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1801-07-06 (4.6, -74.1), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1802-01-06 (-0.2, -78.5), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1802-06-23 (-1.5, -78.8), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1804-03-07 (19.2, -96.1), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 1804-08-03 (44.8, -0.6), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Alexander von Humboldt
+- 0732-06-15 (44.8, -0.6), 2: Abd al-Rahman ibn Abd Allah al-Ghafiqi, Charles Martel
+- 1192-03-29 (32.9, 35.1), 2: Al-Malik al-Kamil (al-Malik al-Kamil Nasir al-Din Muhammad ibn al-Adil), Richard I of England, Cœur de Lion
+- 1219-09-08 (31.3, 31.7), 2: Al-Malik al-Kamil (al-Malik al-Kamil Nasir al-Din Muhammad ibn al-Adil), Francis of Assisi (Francesco di Pietro di Bernardone)
+- 1219-11-05 (31.4, 31.8), 2: Al-Malik al-Kamil (al-Malik al-Kamil Nasir al-Din Muhammad ibn al-Adil), Francis of Assisi (Francesco di Pietro di Bernardone)
+- 1229-03-18 (31.8, 35.2), 2: Al-Malik al-Kamil (al-Malik al-Kamil Nasir al-Din Muhammad ibn al-Adil), Joffrey de Bourlémont (Jofridus, dominus de Borlenmont)
+- 1949-10-01 (40.7, -74.4), 2: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Claude Elwood Shannon
+- 1946-05-01 (40.7, -74.0), 2: Albert Camus, Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo)
+- 1951-10-01 (48.9, 2.3), 2: Albert Camus, Guy-Ernest Debord
+- 1952-08-01 (48.9, 2.3), 2: Albert Camus, Jean-Paul Charles Aymard Sartre
+- 1953-05-20 (48.9, 2.4), 2: Albert Camus, Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo)
+- 1956-05-01 (48.9, 2.3), 2: Albert Camus, Guy-Ernest Debord
+- 1974-07-25 (-12.0, -77.0), 2: Alberto Kenya Fujimori Inomoto, Susana Shizuko Higuchi Miyagawa
+- 2000-09-14 (-12.1, -77.0), 2: Alberto Kenya Fujimori Inomoto, Susana Shizuko Higuchi Miyagawa
+- 2000-11-01 (-12.0, -77.0), 2: Alberto Kenya Fujimori Inomoto, Paul Elliott Singer
+- 2023-12-06 (-12.0, -76.9), 2: Alberto Kenya Fujimori Inomoto, Keiko Sofia Fujimori Higuchi
+- 2024-09-11 (-12.1, -77.0), 2: Alberto Kenya Fujimori Inomoto, Keiko Sofia Fujimori Higuchi
+- 1245-09-01 (48.8, 2.3), 2: Albertus Magnus (Albert of Lauingen, Albert the Great), Thomas Aquinas (Tommaso d'Aquino)
+- 1277-03-07 (48.8, 2.3), 2: Albertus Magnus (Albert of Lauingen, Albert the Great), Thomas Aquinas (Tommaso d'Aquino)
+- 1885-06-01 (48.9, 2.4), 2: Alejandro Christophersen, Joseph Alexandre Saint-Yves, Marquis d'Alveydre
+- 1892-06-01 (-34.6, -58.4), 2: Alejandro Christophersen, Ángel della Valle
+- 1906-06-01 (-34.6, -58.4), 2: Alejandro Christophersen, Virginio Colombo
+- 1992-06-01 (37.4, -122.2), 2: Alexander Caedmon Karp, Peter Andreas Thiel
+- 2002-06-01 (51.5, -0.1), 2: Alexander Caedmon Karp, David Nicolas Belle
+- 2003-05-06 (37.4, -122.2), 2: Alexander Caedmon Karp, Peter Andreas Thiel
+- 2020-09-30 (40.7, -74.0), 2: Alexander Caedmon Karp, Peter Andreas Thiel
+- -0338-08-02 (38.5, 22.8), 2: Alexander the Great (Alexandros III of Macedon), Diogenes of Sinope (Diogenes the Cynic, ho Kyon, 'the Dog')
+- -0336-11-01 (37.9, 22.9), 2: Alexander the Great (Alexandros III of Macedon), Diogenes of Sinope (Diogenes the Cynic, ho Kyon, 'the Dog')
+- -0335-09-01 (38.3, 23.3), 2: Alexander the Great (Alexandros III of Macedon), Pindar of Thebes (Pindaros)
+- 1804-04-01 (51.5, -0.1), 2: Alexander Baring, 1st Baron Ashburton, Sir Francis Baring, 1st Baronet
+- 1810-09-01 (51.5, -0.1), 2: Alexander Baring, 1st Baron Ashburton, Simón Bolívar
+- 1915-04-10 (40.9, -73.5), 2: Alexander Graham Bell, Prescott Sheldon Bush
+- 1776-08-27 (40.7, -74.0), 2: Alexander Hamilton, George Washington
+- 1776-12-25 (40.3, -74.9), 2: Alexander Hamilton, George Washington
+- 1776-12-26 (40.2, -74.8), 2: Alexander Hamilton, George Washington
+- 1777-01-03 (40.3, -74.7), 2: Alexander Hamilton, George Washington
+- 1777-12-01 (40.1, -75.5), 2: Alexander Hamilton, George Washington
+- 1781-10-14 (37.2, -76.5), 2: Alexander Hamilton, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1787-09-17 (39.9, -75.2), 2: Alexander Hamilton, Benjamin Franklin
+- 1790-12-01 (39.9, -75.2), 2: Alexander Hamilton, Thomas Jefferson
+- 1796-09-19 (40.0, -75.2), 2: Alexander Hamilton, George Washington
+- 1831-05-09 (48.9, 2.4), 2: Alexandre Dumas (Dumas père), Évariste Galois
+- 1850-06-12 (48.9, 2.4), 2: Alexandre Dumas (Dumas père), Jules Gabriel Verne
+- 1858-06-01 (59.9, 30.3), 2: Alexandre Dumas (Dumas père), Taras Hryhorovych Shevchenko
+- 1919-03-28 (-34.6, -58.4), 2: Alfonsina Storni, Emir Emin Arslan (al-Amir Amin Majid Arslan)
+- 1925-05-01 (-34.6, -58.4), 2: Alfonsina Storni, Emir Emin Arslan (al-Amir Amin Majid Arslan)
+- 1898-05-01 (48.9, 2.4), 2: Alfred Jarry, Oscar Fingal O'Fflahertie Wills Wilde
+- 1907-10-01 (48.9, 2.3), 2: Alfred Jarry, André Breton
+- 1893-04-07 (44.0, -75.9), 2: Allen Welsh Dulles, John Foster Dulles
+- 1938-09-01 (40.8, -74.0), 2: Allen Welsh Dulles, Murray Newton Rothbard
+- 1941-10-01 (40.8, -74.0), 2: Allen Welsh Dulles, Ludwig Heinrich Edler von Mises
+- 1945-07-01 (52.5, 13.4), 2: Allen Welsh Dulles, Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 1959-05-27 (38.9, -77.1), 2: Allen Welsh Dulles, John Foster Dulles
+- 1960-07-27 (38.9, -77.0), 2: Allen Welsh Dulles, Patrice Émery Lumumba
+- 1893-06-01 (48.8, 2.3), 2: Alphonse Mucha (Alfons Maria Mucha), Paul Berthon (Paul Louis Joseph Berthon)
+- 1894-12-26 (48.9, 2.4), 2: Alphonse Mucha (Alfons Maria Mucha), Sarah Bernhardt (Henriette-Rosine Bernard)
+- 1811-09-14 (36.5, -6.3), 2: Carlos María de Alvear, José de San Martín
+- 1822-07-01 (-34.6, -58.4), 2: Carlos María de Alvear, Torcuato Antonio de Alvear
+- 1852-11-03 (40.7, -74.0), 2: Carlos María de Alvear, Torcuato Antonio de Alvear
+- 1325-10-01 (28.6, 77.2), 2: Amir Khusrow Dehlavi (Abu'l Hasan Yamin ud-Din Khusrau), Nizam ad-Din Auliya (Sultan-ji, Mahbub-e-Ilahi)
+- 1919-03-01 (48.9, 2.4), 2: André Breton, Herbert Osborn Yardley
+- 1924-10-01 (48.9, 2.4), 2: André Breton, Satyendra Nath Bose
+- 1939-03-10 (48.9, 2.3), 2: André Breton, Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1941-04-01 (14.6, -61.0), 2: André Breton, Claude Lévi-Strauss
+- 1941-05-01 (18.5, -66.1), 2: André Breton, Claude Lévi-Strauss
+- 1942-06-01 (40.8, -74.0), 2: André Breton, John Milton Cage Jr.
+- 1960-09-06 (48.9, 2.4), 2: André Breton, Jean-Paul Charles Aymard Sartre
+- 1889-05-31 (40.3, -78.8), 2: Andrew Carnegie, Henry Clay Frick
+- 1891-05-05 (40.8, -74.0), 2: Andrew Carnegie, Pyotr Ilyich Tchaikovsky
+- 1892-07-06 (40.4, -79.9), 2: Andrew Carnegie, Henry Clay Frick
+- 1901-03-02 (40.7, -74.0), 2: Andrew Carnegie, John Pierpont Morgan
+- 1823-12-01 (38.9, -77.0), 2: Andrew Jackson, John Cleves Symmes Jr.
+- 1876-10-23 (-34.6, -58.4), 2: Jules Dormal Godet (Julio Dormal), Ángel della Valle
+- 1900-06-01 (-34.6, -58.4), 2: Vittorio Meano (Victor Meano), Ángel della Valle
+- 1907-06-01 (48.9, 2.4), 2: Isadora Duncan, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1839-07-22 (-28.5, -48.8), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Giuseppe Maria Garibaldi
+- 1840-01-12 (-27.3, -50.6), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Giuseppe Maria Garibaldi
+- 1840-09-16 (-31.1, -50.9), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Giuseppe Maria Garibaldi
+- 1842-03-26 (-34.9, -56.2), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Giuseppe Maria Garibaldi
+- 1849-07-02 (41.9, 12.5), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Giuseppe Maria Garibaldi
+- 1849-07-31 (43.9, 12.4), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Giuseppe Maria Garibaldi
+- 1849-08-04 (44.6, 12.2), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Giuseppe Maria Garibaldi
+- 1905-01-28 (59.9, 30.3), 2: Anna Matveyevna Pavlova, Isadora Duncan
+- 1914-08-01 (52.5, 13.4), 2: Anna Matveyevna Pavlova, Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 2018-10-20 (42.3, -71.1), 2: Anni Albers (Annelise Else Frieda Fleischmann), Cecilia Vicuña
+- 1891-05-08 (51.5, -0.2), 2: Annie Besant (née Wood), Helena Petrovna Blavatsky
+- 1909-04-01 (13.0, 80.3), 2: Annie Besant (née Wood), Jiddu Krishnamurti
+- 1929-08-03 (52.5, 6.4), 2: Annie Besant (née Wood), Jiddu Krishnamurti
+- 1781-06-01 (48.9, 2.3), 2: Antoine Court de Gébelin, Jean-Baptiste Alliette, called Etteilla
+- 1917-11-05 (46.2, 8.8), 2: Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger), James Augustine Aloysius Joyce
+- 1919-04-15 (46.2, 8.8), 2: Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger), Hermann Hesse
+- 1928-06-01 (46.2, 8.8), 2: Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger), Charlotte Bara (Charlotte Bachrach, 'die gotische Tänzerin')
+- 1525-12-30 (48.4, 10.9), 2: Anton Fugger, Reichsgraf, Regierer of the Fugger company, Jakob Fugger 'the Rich' (Jakob Fugger von der Lilie)
+- 1919-06-21 (45.1, 7.7), 2: Antonio Francesco Gramsci, Paolo Soleri
+- 0047-09-01 (37.9, 32.5), 2: Paul the Apostle (Saul of Tarsus, Sha'ul, Paulos), Saint Thecla of Iconium (Thekla, Santa Tecla), protomartyr and equal to the apostles
+- 0029-04-01 (32.9, 35.6), 2: Jesus of Nazareth (Yeshua, the Christ), Simon bar Jonah, called Cephas, the Apostle Peter
+- 0029-09-01 (33.2, 35.7), 2: Jesus of Nazareth (Yeshua, the Christ), Simon bar Jonah, called Cephas, the Apostle Peter
+- 0064-06-01 (41.9, 12.5), 2: Flavius Josephus (Yosef ben Mattityahu), Simon bar Jonah, called Cephas, the Apostle Peter
+- 0064-07-01 (41.9, 12.5), 2: Simon bar Jonah, called Cephas, the Apostle Peter, Simon of Gitta, called Simon Magus, the Power That Is Called Great
+- -0075-06-01 (37.1, 15.3), 2: Archimedes of Syracuse, Marcus Tullius Cicero
+- -0367-06-01 (38.0, 23.7), 2: Aristotle (Aristotélēs, son of Nicomachus), Plato (Aristocles, son of Ariston, called Plato for the breadth of his shoulders)
+- 1903-07-30 (50.9, 4.4), 2: Aron Iosifovich Kremer, called Arkadi, Lev Davidovich Bronstein (Leon Trotsky)
+- 1855-06-01 (46.4, 14.1), 2: Arnold Rikli, Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1926-06-01 (-34.6, -58.4), 2: Arshag Shorjian, Emir Emin Arslan (al-Amir Amin Majid Arslan)
+- 1998-06-01 (-34.6, -58.4), 2: Arshag Shorjian, Dalila Puzzovio
+- 2000-11-01 (-34.6, -58.4), 2: Arshag Shorjian, Charly García
+- 1901-05-01 (43.3, 5.4), 2: Antonin Artaud, Isabelle Wilhelmine Marie Eberhardt (Si Mahmoud Saadi)
+- 1938-04-01 (48.8, 2.3), 2: Antonin Artaud, Jacques Marie Émile Lacan
+- 1946-06-13 (48.9, 2.3), 2: Antonin Artaud, Pablo Ruiz Picasso
+- 0841-05-16 (46.2, 5.6), 2: Arthur of Lotharingia (Wolfram von Eschenbach's Artus, King of Bertane), Parzival (Parzival von Waleis, son of Gahmuret of Anjou and Herzeloyde of Waleis)
+- 0842-09-19 (47.5, 7.6), 2: Arthur of Lotharingia (Wolfram von Eschenbach's Artus, King of Bertane), Parzival (Parzival von Waleis, son of Gahmuret of Anjou and Herzeloyde of Waleis)
+- 0842-09-21 (47.5, 7.6), 2: Arthur of Lotharingia (Wolfram von Eschenbach's Artus, King of Bertane), Parzival (Parzival von Waleis, son of Gahmuret of Anjou and Herzeloyde of Waleis)
+- 0848-05-06 (47.7, 7.5), 2: Arthur of Lotharingia (Wolfram von Eschenbach's Artus, King of Bertane), Parzival (Parzival von Waleis, son of Gahmuret of Anjou and Herzeloyde of Waleis)
+- 0848-05-09 (47.7, 7.3), 2: Arthur of Lotharingia (Wolfram von Eschenbach's Artus, King of Bertane), Parzival (Parzival von Waleis, son of Gahmuret of Anjou and Herzeloyde of Waleis)
+- 0848-05-11 (47.7, 7.5), 2: Arthur of Lotharingia (Wolfram von Eschenbach's Artus, King of Bertane), Parzival (Parzival von Waleis, son of Gahmuret of Anjou and Herzeloyde of Waleis)
+- 0848-05-12 (47.7, 7.5), 2: Arthur of Lotharingia (Wolfram von Eschenbach's Artus, King of Bertane), Parzival (Parzival von Waleis, son of Gahmuret of Anjou and Herzeloyde of Waleis)
+- 1914-12-12 (51.5, -0.1), 2: Arthur James Balfour, 1st Earl of Balfour, Chaim Azriel Weizmann
+- 1925-04-01 (31.8, 35.2), 2: Arthur James Balfour, 1st Earl of Balfour, Chaim Azriel Weizmann
+- 1930-03-19 (51.3, -0.6), 2: Arthur James Balfour, 1st Earl of Balfour, Chaim Azriel Weizmann
+- 1989-09-01 (9.0, -79.5), 2: Arthur Ben, Manuel Antonio Noriega Moreno
+- 1928-06-01 (-34.6, -58.4), 2: Arthur Bispo do Rosário, Enrique Santos Discépolo
+- 1838-10-01 (52.2, 0.1), 2: Arthur Cayley, Sir George Gabriel Stokes, 1st Baronet
+- 1846-06-01 (51.5, -0.1), 2: Arthur Cayley, Friedrich Max Müller
+- 1848-06-01 (53.3, -6.3), 2: Arthur Cayley, Sir William Rowan Hamilton
+- 1909-12-01 (51.5, -0.1), 2: Arthur Edward Waite, Pamela Colman Smith ("Pixie")
+- 1904-10-01 (52.5, 13.4), 2: Arthur Scherbius (Jacob Ludolf Arthur Scherbius), Henryk Erlich (Hersh-Wolf Erlikh)
+- 1955-06-01 (-34.6, -58.4), 2: Astor Pantaleón Piazzolla, Raúl Veroni (Raoul Veroni), the elder
+- 1989-06-26 (52.4, 4.9), 2: Astor Pantaleón Piazzolla, Osvaldo Pedro Pugliese
+- 1532-11-15 (-7.2, -78.5), 2: Atahualpa (Ataw Wallpa), last Sapa Inca of Tawantinsuyu, Francisco Pizarro González
+- 1532-11-16 (-7.2, -78.5), 2: Atahualpa (Ataw Wallpa), last Sapa Inca of Tawantinsuyu, Francisco Pizarro González
+- 1532-11-20 (-7.2, -78.5), 2: Atahualpa (Ataw Wallpa), last Sapa Inca of Tawantinsuyu, Francisco Pizarro González
+- 1533-05-01 (-7.2, -78.5), 2: Atahualpa (Ataw Wallpa), last Sapa Inca of Tawantinsuyu, Francisco Pizarro González
+- 1533-07-26 (-7.2, -78.5), 2: Atahualpa (Ataw Wallpa), last Sapa Inca of Tawantinsuyu, Francisco Pizarro González
+- 1883-02-01 (48.9, 2.4), 2: Auguste Kerckhoffs (Jean Guillaume Auguste Victor Alexandre François Hubert Kerckhoffs), Oscar Fingal O'Fflahertie Wills Wilde
+- 1875-04-15 (43.8, 11.3), 2: Auguste Rodin (François Auguste René Rodin), Michelangelo di Lodovico Buonarroti Simoni
+- 1876-05-10 (40.0, -75.2), 2: Auguste Rodin (François Auguste René Rodin), Elizabeth (Bessie) Burden
+- 1900-12-01 (48.9, 2.4), 2: Auguste Rodin (François Auguste René Rodin), Émile Pouget
+- 1829-05-25 (48.9, 2.3), 2: Augustin-Louis Cauchy, Évariste Galois
+- 1839-11-01 (48.8, 2.3), 2: Augustin-Louis Cauchy, Siméon Denis Poisson
+- 1964-04-01 (-15.8, -47.9), 2: Augusto Boal (Augusto Pinto Boal), Paulo Reglus Neves Freire
+- 1976-03-24 (-34.6, -58.4), 2: Augusto Boal (Augusto Pinto Boal), María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1973-08-23 (-33.4, -70.7), 2: Augusto Pinochet Ugarte, Salvador Guillermo Allende Gossens
+- 1851-05-01 (51.5, -0.2), 2: Augustus Henry Julian Le Plongeon, Sir Joseph Paxton
+- 1963-06-05 (34.6, 50.9), 2: Mohammad Reza Shah Pahlavi, Ruhollah Mostafavi Musavi Khomeini
+- 1220-03-16 (39.7, 67.0), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Genghis Khan (Chinggis Khan / Temüjin)
+- 1220-03-01 (21.4, 39.8), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi)
+- 1220-08-01 (33.5, 36.3), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi)
+- 1221-09-01 (39.8, 39.5), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi)
+- 1222-09-01 (37.2, 33.2), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi)
+- 1273-12-17 (37.9, 32.5), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi)
+- 1788-06-01 (48.9, 2.4), 2: Charles Barbier de la Serre, Jean-Baptiste Alliette, called Etteilla
+- 1821-06-01 (48.8, 2.3), 2: Charles Barbier de la Serre, Louis Braille
+- 1810-10-10 (-31.7, -60.5), 2: Antonio Mamerto Gil Núñez (Gauchito Gil), Manuel Belgrano
+- 1812-03-26 (-25.6, -64.9), 2: Juan Martín de Pueyrredón y O'Doggan, Manuel Belgrano
+- 1812-07-29 (-24.2, -65.3), 2: Juana Azurduy de Padilla, Manuel Belgrano
+- 1812-08-23 (-24.2, -65.3), 2: Manuel Belgrano, María Remedios del Valle
+- 1813-06-21 (-19.6, -65.8), 2: José Antonio de la Sierra (José Antonio de Sierra), Manuel Belgrano
+- 1816-07-06 (-26.8, -65.2), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Manuel Belgrano
+- 1776-06-11 (40.0, -75.2), 2: Benjamin Franklin, Thomas Jefferson
+- 1784-03-12 (48.9, 2.3), 2: Benjamin Franklin, Franz Anton Mesmer
+- 1785-05-01 (48.9, 2.3), 2: Benjamin Franklin, Thomas Jefferson
+- 1951-07-01 (-34.6, -58.4), 2: Ben-Zion Witler (Benzion Witler), Ronald Richter
+- 2014-10-20 (48.9, 2.3), 2: Bernard Jean Étienne Arnault, Louis Vuitton
+- 1146-03-31 (47.5, 3.7), 2: Bernard of Clairvaux, Jaufre Rudel, prince of Blaye (Joffrey Rudel)
+- 1940-06-01 (48.9, 2.3), 2: Bethsabée (Batsheva) de Rothschild, Walter Benjamin
+- 1964-12-24 (32.1, 34.8), 2: Bethsabée (Batsheva) de Rothschild, Martha Graham
+- 1975-06-01 (40.7, -74.0), 2: Bethsabée (Batsheva) de Rothschild, David Rockefeller
+- 1948-09-01 (40.7, -74.0), 2: Mary Elizabeth Moore Shannon (Betty Shannon), William Joseph Casey
+- 1949-03-27 (40.7, -74.4), 2: Claude Elwood Shannon, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1951-05-01 (38.9, -77.0), 2: Claude Elwood Shannon, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1956-09-01 (42.4, -71.1), 2: Claude Elwood Shannon, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 2001-02-24 (42.4, -71.1), 2: Claude Elwood Shannon, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1975-10-11 (36.1, -94.2), 2: Hillary Diane Rodham Clinton, William Jefferson Clinton (born William Jefferson Blythe III)
+- 1993-01-20 (38.9, -77.0), 2: Hillary Diane Rodham Clinton, William Jefferson Clinton (born William Jefferson Blythe III)
+- 1994-07-08 (40.8, 14.2), 2: Silvio Berlusconi, William Jefferson Clinton (born William Jefferson Blythe III)
+- 1996-09-29 (38.9, -77.0), 2: Maurice Bernard Sendak, William Jefferson Clinton (born William Jefferson Blythe III)
+- 1998-12-19 (38.9, -77.0), 2: Hillary Diane Rodham Clinton, William Jefferson Clinton (born William Jefferson Blythe III)
+- 2002-09-01 (14.7, -17.4), 2: Jeffrey Edward Epstein, William Jefferson Clinton (born William Jefferson Blythe III)
+- 2002-10-28 (40.8, -74.0), 2: Jeffrey Edward Epstein, William Jefferson Clinton (born William Jefferson Blythe III)
+- 2004-11-18 (34.7, -92.3), 2: Hillary Diane Rodham Clinton, William Jefferson Clinton (born William Jefferson Blythe III)
+- 2018-12-05 (38.9, -77.1), 2: George Herbert Walker Bush, William Jefferson Clinton (born William Jefferson Blythe III)
+- 1867-11-03 (42.0, 12.7), 2: Giuseppe Maria Garibaldi, Helena Petrovna Blavatsky
+- 1969-10-29 (37.5, -122.2), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1973-09-01 (50.9, -0.1), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1973-10-01 (37.4, -122.1), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1974-05-01 (37.4, -122.2), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1974-12-01 (37.4, -122.2), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1977-11-22 (37.4, -122.1), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1977-11-22 (51.5, -0.1), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1997-12-01 (38.9, -77.0), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 2005-06-01 (37.8, -122.4), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 2005-11-09 (38.9, -77.0), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 2006-05-01 (41.1, -81.5), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 2013-06-25 (51.5, -0.1), 2: Marc Lowell Andreessen, Robert Elliot Kahn (Bob Kahn)
+- 1795-07-23 (10.5, -66.9), 2: Simón Bolívar, Simón Rodríguez (Samuel Robinson)
+- 1805-07-01 (41.9, 12.5), 2: Simón Bolívar, Simón Rodríguez (Samuel Robinson)
+- 1805-08-15 (41.9, 12.5), 2: Simón Bolívar, Simón Rodríguez (Samuel Robinson)
+- 1812-03-26 (10.5, -66.9), 2: Francisco de Miranda, Simón Bolívar
+- 1812-07-31 (10.6, -66.9), 2: Francisco de Miranda, Simón Bolívar
+- 1819-08-10 (4.6, -74.1), 2: Policarpa Salavarrieta (La Pola), Simón Bolívar
+- 1822-06-16 (-0.2, -78.5), 2: Manuela Sáenz de Vergara y Aizpuru, Simón Bolívar
+- 1823-09-01 (-12.0, -77.0), 2: Manuela Sáenz de Vergara y Aizpuru, Simón Bolívar
+- 1825-11-03 (-19.0, -65.3), 2: Juana Azurduy de Padilla, Simón Bolívar
+- 1828-09-25 (4.6, -74.1), 2: Manuela Sáenz de Vergara y Aizpuru, Simón Bolívar
+- 1830-05-08 (4.6, -74.1), 2: Manuela Sáenz de Vergara y Aizpuru, Simón Bolívar
+- 1830-12-17 (11.2, -74.2), 2: Manuela Sáenz de Vergara y Aizpuru, Simón Bolívar
+- 1931-01-15 (-34.5, -58.5), 2: Jorge Luis Borges, Silvina Ocampo
+- 1945-09-01 (-34.6, -58.4), 2: Jorge Luis Borges, Renée Jeanne Falconetti
+- 1955-12-01 (-34.6, -58.4), 2: Jorge Luis Borges, Marta María Ezcurra Real de Azúa
+- 1837-12-01 (51.5, 9.9), 2: Carl Friedrich Gauss, Jacob Ludwig Carl Grimm and Wilhelm Carl Grimm
+- 1844-07-26 (52.5, 13.4), 2: Hans Christian Andersen, Jacob Ludwig Carl Grimm and Wilhelm Carl Grimm
+- 1933-03-04 (41.2, -73.2), 2: Herbert George Wells, R. Buckminster Fuller
+- 1925-09-01 (-34.6, -58.4), 2: Carlos Gardel (Charles Romuald Gardes), José Buenaventura Durruti Dumange
+- 1867-06-01 (51.5, -0.1), 2: Christian Rosenkreuz (Frater C.R.C., Christian Rosencreutz), Edward Bulwer-Lytton, 1st Baron Lytton (Edward George Earle Lytton Bulwer)
+- 1871-05-01 (51.9, -0.2), 2: Edward Bulwer-Lytton, 1st Baron Lytton (Edward George Earle Lytton Bulwer), Maria Orsic
+- 1902-09-24 (53.5, -2.2), 2: Giuseppe Balsamo, called Count Alessandro di Cagliostro, Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1899-10-01 (48.9, 2.4), 2: Camille Rosalie Claudel, Georges Sorel
+- 1900-04-14 (48.9, 2.3), 2: Camille Rosalie Claudel, Eugène Samuel Grasset
+- 1952-07-06 (4.6, -74.1), 2: Camilo Torres Restrepo, Ernesto "Che" Guevara
+- 1878-10-01 (48.8, 2.3), 2: Captain Alfred Dreyfus, Henri-Louis Bergson
+- 1892-11-01 (48.9, 2.3), 2: Captain Alfred Dreyfus, Loïe Fuller (Marie Louise Fuller)
+- 1829-08-01 (48.9, 2.3), 2: Carl Gustav Jacob Jacobi, Siméon Denis Poisson
+- 1795-09-07 (49.5, 8.5), 2: Carl Gustav Jung the elder, Dr Carl Jung of Mainz
+- 1817-10-18 (51.0, 10.3), 2: Carl Gustav Jung the elder, Friedrich Ludwig Jahn
+- 1864-06-12 (47.6, 7.6), 2: Carl Gustav Jung the elder, Dr Carl Jung of Mainz
+- 1895-04-18 (47.6, 7.6), 2: Carl Gustav Jung, Carl Gustav Jung the elder
+- 1911-09-21 (51.0, 11.3), 2: Carl Gustav Jung, Carl Gustav Jung the elder
+- 1905-09-01 (55.7, 12.6), 2: Carl Theodor Dreyer, Niels Bohr (Niels Henrik David Bohr)
+- 1927-05-15 (48.8, 2.3), 2: Carl Theodor Dreyer, Renée Jeanne Falconetti
+- 1927-08-25 (48.8, 2.3), 2: Carl Theodor Dreyer, Renée Jeanne Falconetti
+- 1928-04-21 (55.7, 12.6), 2: Carl Theodor Dreyer, Renée Jeanne Falconetti
+- 1928-10-25 (48.9, 2.3), 2: Carl Theodor Dreyer, Renée Jeanne Falconetti
+- 1928-12-06 (52.5, 13.4), 2: Carl Theodor Dreyer, Renée Jeanne Falconetti
+- 1920-06-01 (-34.6, -58.4), 2: Carlos Gardel (Charles Romuald Gardes), Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo)
+- 1928-11-01 (48.9, 2.4), 2: Carlos Gardel (Charles Romuald Gardes), Igor Fyodorovich Stravinsky
+- 1933-10-25 (-34.6, -58.4), 2: Carlos Gardel (Charles Romuald Gardes), Federico García Lorca
+- 1889-06-01 (-34.6, -58.4), 2: Francesco Tamburini, Jules Charles (Carlos) Thays
+- 1428-03-14 (48.4, 5.7), 2: Catherine of Alexandria (Katherine of the Wheel), Joan of Arc (Jehanne la Pucelle)
+- 1431-05-30 (49.4, 1.1), 2: Catherine of Alexandria (Katherine of the Wheel), Joan of Arc (Jehanne la Pucelle)
+- 1887-06-01 (51.5, -0.1), 2: Cecil John Rhodes, Mayer Amschel Rothschild
+- 1879-06-02 (-39.3, -65.7), 2: Ceferino Namuncurá, Julio Argentino Roca
+- 1879-06-08 (-39.0, -67.6), 2: Ceferino Namuncurá, Julio Argentino Roca
+- 1956-12-02 (19.9, -77.7), 2: Celia Esther Sánchez Manduley, Fidel Alejandro Castro Ruz
+- 1957-05-28 (19.9, -76.6), 2: Celia Esther Sánchez Manduley, Fidel Alejandro Castro Ruz
+- 1957-07-21 (20.0, -76.8), 2: Celia Esther Sánchez Manduley, Ernesto "Che" Guevara
+- 1958-09-04 (20.0, -76.9), 2: Celia Esther Sánchez Manduley, Teté Puebla (Delsa Esther Puebla Viltres)
+- 1959-01-19 (23.1, -82.4), 2: Celia Esther Sánchez Manduley, Fidel Alejandro Castro Ruz
+- 1920-07-07 (51.5, -0.1), 2: Chaim Azriel Weizmann, Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1923-01-18 (51.5, -0.1), 2: Chaim Azriel Weizmann, Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1942-05-01 (40.8, -74.0), 2: Chaim Azriel Weizmann, David Ben-Gurion (David Grün)
+- 1952-11-09 (31.9, 34.8), 2: Chaim Azriel Weizmann, David Ben-Gurion (David Grün)
+- 0754-07-28 (48.9, 2.4), 2: Charlemagne (Karolus Magnus), Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii
+- 0768-09-24 (48.9, 2.4), 2: Charlemagne (Karolus Magnus), Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii
+- 1000-05-19 (50.8, 6.1), 2: Charlemagne (Karolus Magnus), Otto III, Holy Roman Emperor
+- 1871-10-01 (51.5, -0.2), 2: Charles Babbage, Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti)
+- 1929-05-13 (39.4, -74.4), 2: Charles "Lucky" Luciano (Salvatore Lucania), Meyer Lansky (Maier Suchowljansky)
+- 1946-02-28 (40.8, 14.3), 2: Charles "Lucky" Luciano (Salvatore Lucania), Pasquale Simonetti ("Pascalone 'e Nola")
+- 1946-12-20 (23.1, -82.4), 2: Charles "Lucky" Luciano (Salvatore Lucania), Meyer Lansky (Maier Suchowljansky)
+- 1946-12-22 (23.1, -82.4), 2: Charles "Lucky" Luciano (Salvatore Lucania), Pasquale Simonetti ("Pascalone 'e Nola")
+- 1951-06-09 (40.8, 14.2), 2: Charles "Lucky" Luciano (Salvatore Lucania), Pasquale Simonetti ("Pascalone 'e Nola")
+- 1962-01-26 (40.9, 14.3), 2: Charles "Lucky" Luciano (Salvatore Lucania), Pasquale Simonetti ("Pascalone 'e Nola")
+- 1921-06-21 (46.2, 8.8), 2: Charlotte Bara (Charlotte Bachrach, 'die gotische Tänzerin'), Karl Max Engelmann (Liga Pitagórica)
+- 1973-10-01 (-34.6, -58.4), 2: Charly García, José López Rega (El Brujo)
+- 1974-12-01 (-34.6, -58.4), 2: Charly García, María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1952-03-01 (-33.4, -70.7), 2: Ernesto "Che" Guevara, Miguel Serrano
+- 1954-06-27 (14.6, -90.5), 2: Edward Louis Bernays, Ernesto "Che" Guevara
+- 1956-11-25 (21.0, -97.4), 2: Ernesto "Che" Guevara, Fidel Alejandro Castro Ruz
+- 1957-11-01 (20.0, -76.7), 2: Ernesto "Che" Guevara, Teté Puebla (Delsa Esther Puebla Viltres)
+- 1959-01-03 (23.1, -82.3), 2: Ernesto "Che" Guevara, Fidel Alejandro Castro Ruz
+- 1959-11-26 (23.1, -82.4), 2: Ernesto "Che" Guevara, Fidel Alejandro Castro Ruz
+- 1960-03-05 (23.1, -82.3), 2: Ernesto "Che" Guevara, Fidel Alejandro Castro Ruz
+- 1965-02-24 (36.8, 3.1), 2: Ernesto "Che" Guevara, Julen Kerman Madariaga Agirre
+- 1966-11-03 (-16.5, -68.1), 2: Ernesto "Che" Guevara, Haydée Tamara Bunke Bíder (Tania la Guerrillera)
+- 1966-11-07 (-19.8, -63.6), 2: Ernesto "Che" Guevara, Haydée Tamara Bunke Bíder (Tania la Guerrillera)
+- 1967-04-20 (-19.9, -63.8), 2: Ernesto "Che" Guevara, Haydée Tamara Bunke Bíder (Tania la Guerrillera)
+- 1967-08-31 (-18.6, -64.0), 2: Ernesto "Che" Guevara, Haydée Tamara Bunke Bíder (Tania la Guerrillera)
+- 1967-10-09 (-18.8, -64.2), 2: Ernesto "Che" Guevara, Haydée Tamara Bunke Bíder (Tania la Guerrillera)
+- 1933-12-01 (48.9, 2.3), 2: Christian Dior, Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1939-09-01 (48.9, 2.4), 2: Christian Dior, Lucía Sánchez Saornil
+- 1946-10-08 (48.9, 2.3), 2: Christian Dior, Louis Vuitton
+- 1947-07-22 (48.9, 2.3), 2: Christian Dior, Eva Duarte de Perón ("Evita")
+- 1901-07-26 (51.5, -0.1), 2: Christian Rosenkreuz (Frater C.R.C., Christian Rosencreutz), Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1910-08-15 (48.1, 11.6), 2: Christian Rosenkreuz (Frater C.R.C., Christian Rosencreutz), Rudolf Steiner
+- -0063-12-05 (41.9, 12.5), 2: Gaius Julius Caesar, Marcus Tullius Cicero
+- 1212-03-18 (43.1, 12.6), 2: Chiara di Favarone di Offreduccio (Clare of Assisi), Francis of Assisi (Francesco di Pietro di Bernardone)
+- 1225-04-15 (43.1, 12.6), 2: Chiara di Favarone di Offreduccio (Clare of Assisi), Francis of Assisi (Francesco di Pietro di Bernardone)
+- 1226-10-04 (43.1, 12.6), 2: Chiara di Favarone di Offreduccio (Clare of Assisi), Francis of Assisi (Francesco di Pietro di Bernardone)
+- 1946-03-01 (38.9, -77.0), 2: Clark McAdams Clifford, J. Robert Oppenheimer
+- 1967-06-01 (38.9, -77.0), 2: Clark McAdams Clifford, José Arcadio Limón
+- 1889-05-15 (48.9, 2.3), 2: Achille-Claude Debussy, Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel)
+- 1892-06-01 (48.9, 2.4), 2: Achille-Claude Debussy, Georges Sorel
+- 1911-05-22 (48.9, 2.3), 2: Achille-Claude Debussy, Gabriele d'Annunzio
+- 1913-05-15 (48.9, 2.3), 2: Achille-Claude Debussy, Vaslav Nijinsky (Wacław Niżyński)
+- 1914-12-01 (48.9, 2.3), 2: Achille-Claude Debussy, Henri-Louis Bergson
+- 1936-09-01 (42.4, -71.1), 2: Claude Elwood Shannon, John Fitzgerald Kennedy
+- 1937-06-01 (40.7, -74.0), 2: Claude Elwood Shannon, William Joseph Casey
+- -0046-09-26 (41.9, 12.5), 2: Cleopatra VII Thea Philopator, Gaius Julius Caesar
+- 492-06-01 (46.2, 6.1), 2: Clovis, King of the Franks, Sainte Clotilde
+- 496-12-25 (49.3, 4.0), 2: Clovis, King of the Franks, Sainte Clotilde
+- 508-07-01 (48.9, 2.3), 2: Clovis, King of the Franks, Sainte Clotilde
+- 1920-09-01 (48.8, 2.2), 2: Gabrielle Bonheur "Coco" Chanel, Igor Fyodorovich Stravinsky
+- 1939-09-01 (48.9, 2.3), 2: Gabrielle Bonheur "Coco" Chanel, Gilles Louis Rene Deleuze
+- 1481-06-01 (38.7, -9.1), 2: Christopher Columbus, San Brendan de Clonfert (Breanainn moccu Alti, Brendan the Navigator)
+- 0324-09-18 (41.0, 29.0), 2: Constantine the Great (Flavius Valerius Constantinus), Saint Blaise of Sebastea (Blasius, Sveti Vlaho, San Biagio)
+- 0324-11-08 (41.0, 29.0), 2: Constantine the Great (Flavius Valerius Constantinus), Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato)
+- 1877-01-07 (40.7, -74.0), 2: Cornelius Vanderbilt (the Commodore), John Uri Lloyd
+- 1519-11-08 (19.4, -99.1), 2: Hernán Cortés, Motecuhzoma Xocoyotzin (Moctezuma II)
+- 1519-11-14 (19.4, -99.1), 2: Hernán Cortés, Motecuhzoma Xocoyotzin (Moctezuma II)
+- 1520-06-29 (19.4, -99.1), 2: Hernán Cortés, Motecuhzoma Xocoyotzin (Moctezuma II)
+- 1213-05-08 (43.9, 12.3), 2: Count Orlando di Chiusi (Orlando Catani), Francis of Assisi (Francesco di Pietro di Bernardone)
+- 1224-09-14 (43.7, 11.9), 2: Count Orlando di Chiusi (Orlando Catani), Francis of Assisi (Francesco di Pietro di Bernardone)
+- 1289-06-11 (43.7, 11.8), 2: Count Orlando di Chiusi (Orlando Catani), Dante Alighieri
+- 1997-06-01 (-34.6, -58.4), 2: Cristina Elisabet Fernández de Kirchner, Emiliano Kargieman
+- 2025-10-17 (-34.6, -58.4), 2: Cristina Elisabet Fernández de Kirchner, Javier Gerardo Milei
+- 1937-08-01 (48.9, 2.3), 2: Cristóbal Balenciaga Eizaguirre, Louis Vuitton
+- 1968-05-01 (48.9, 2.3), 2: Cristóbal Balenciaga Eizaguirre, Nicos Poulantzas
+- 2023-06-01 (37.8, -122.4), 2: Curtis Guy Yarvin (Mencius Moldbug), Max Rafailovich Levchin
+- 2026-02-01 (37.8, -122.4), 2: Curtis Guy Yarvin (Mencius Moldbug), Nick Land
+- -0539-10-12 (32.5, 44.4), 2: Cyrus the Great, Nabucodonosor II (Nebuchadnezzar II, king of Babylon)
+- 1966-06-01 (-34.6, -58.4), 2: Dalila Puzzovio, Osvaldo Pedro Pugliese
+- 1967-06-01 (-34.6, -58.4), 2: Dalila Puzzovio, Raúl Veroni (Raoul Veroni), the elder
+- 2019-03-01 (33.8, -118.2), 2: Daniel Giannone, Leo Chiachio (of Chiachio & Giannone)
+- 2020-03-01 (32.6, -117.0), 2: Daniel Giannone, Leo Chiachio (of Chiachio & Giannone)
+- 1910-03-28 (48.9, 2.3), 2: Gabriele d'Annunzio, Marcel Proust
+- 1919-09-12 (45.3, 14.4), 2: Gabriele d'Annunzio, Guido Keller
+- 1920-12-26 (45.3, 14.4), 2: Gabriele d'Annunzio, Guido Keller
+- 1300-04-08 (31.8, 35.2), 2: Dante Alighieri, Publius Vergilius Maro (Virgil)
+- 1854-11-01 (51.5, -0.1), 2: Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), John Ruskin
+- 1865-06-07 (51.5, -0.2), 2: Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Jane Morris (nee Burden)
+- 1874-07-01 (51.7, -1.6), 2: Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Jane Morris (nee Burden)
+- 1915-03-01 (31.2, 29.9), 2: David Ben-Gurion (David Grün), Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1948-05-14 (32.1, 34.8), 2: David Ben-Gurion (David Grün), Golda Meir (Goldie Mabovitch, Golda Meyerson)
+- 1956-06-18 (31.8, 35.2), 2: David Ben-Gurion (David Grün), Golda Meir (Goldie Mabovitch, Golda Meyerson)
+- 1956-10-22 (48.8, 2.2), 2: David Ben-Gurion (David Grün), Golda Meir (Goldie Mabovitch, Golda Meyerson)
+- 1957-10-29 (31.8, 35.2), 2: David Ben-Gurion (David Grün), Golda Meir (Goldie Mabovitch, Golda Meyerson)
+- 1989-08-01 (34.4, -119.8), 2: David Lee Chaum, Ralph Charles Merkle
+- 1981-04-01 (40.7, -74.0), 2: David Rockefeller, Michele Sindona
+- 1830-06-01 (48.9, 2.3), 2: François Delsarte, Évariste Galois
+- 1973-10-15 (41.2, -73.8), 2: Dennis MacAlistair Ritchie, Kenneth Lane Thompson
+- 1973-11-01 (40.7, -74.4), 2: Dennis MacAlistair Ritchie, Kenneth Lane Thompson
+- -0146-04-01 (36.9, 10.3), 2: Dido (Elissa of Tyre), Polybius of Megalopolis, son of Lycortas
+- 2010-09-01 (-34.6, -58.4), 2: Diego Gutiérrez Zaldívar, Emiliano Kargieman
+- 2012-06-01 (-34.6, -58.4), 2: Diego Gutiérrez Zaldívar, Wenceslao "Wences" Casares
+- 2019-09-27 (-34.6, -58.4), 2: Diego Gutiérrez Zaldívar, Sergio Demian Lerner
+- 2024-11-01 (-34.6, -58.4), 2: Diego Gutiérrez Zaldívar, Sergio Demian Lerner
+- 2025-02-14 (-34.6, -58.4), 2: Diego Gutiérrez Zaldívar, Javier Gerardo Milei
+- 1930-11-01 (37.8, -122.4), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1940-12-08 (37.8, -122.4), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1954-07-13 (19.4, -99.2), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1974-07-01 (41.2, -73.8), 2: Bailey Whitfield Diffie, Martin Edward Hellman
+- 1974-09-01 (37.4, -122.2), 2: Bailey Whitfield Diffie, Martin Edward Hellman
+- 1975-06-01 (37.4, -122.2), 2: Bailey Whitfield Diffie, Martin Edward Hellman
+- 1976-06-01 (40.8, -74.0), 2: Bailey Whitfield Diffie, Martin Edward Hellman
+- 1976-11-02 (37.4, -122.2), 2: Bailey Whitfield Diffie, Martin Edward Hellman
+- 2011-06-01 (37.4, -122.1), 2: Bailey Whitfield Diffie, Ralph Charles Merkle
+- 1920-10-15 (45.3, 14.4), 2: Diogenes of Sinope (Diogenes the Cynic, ho Kyon, 'the Dog'), Guido Keller
+- 1913-10-01 (51.5, -0.1), 2: Dion Fortune (Violet Mary Firth), Marcus Mosiah Garvey
+- 1940-02-01 (51.5, -0.1), 2: Dion Fortune (Violet Mary Firth), John Maynard Keynes, 1st Baron Keynes of Tilton
+- 1925-09-01 (52.2, 0.1), 2: J. Robert Oppenheimer, Paul Adrien Maurice Dirac
+- 1930-10-01 (50.8, 4.4), 2: Niels Bohr (Niels Henrik David Bohr), Paul Adrien Maurice Dirac
+- 1942-07-01 (53.3, -6.2), 2: Erwin Rudolf Josef Alexander Schrödinger, Paul Adrien Maurice Dirac
+- 1984-09-01 (37.5, -122.2), 2: Donald Ervin Knuth (Gao Dena), Leslie Barry Lamport
+- 1952-06-01 (-34.6, -58.4), 2: Dore Hoyer, Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo)
+- 1957-09-24 (52.5, 13.3), 2: Dore Hoyer, Mary Wigman (Karoline Sofie Marie Wiegmann)
+- 1929-03-31 (40.8, -74.0), 2: Doris Batcheller Humphrey, Edward Louis Bernays
+- 1937-07-01 (42.9, -73.2), 2: Doris Batcheller Humphrey, José Arcadio Limón
+- 1818-04-10 (38.6, -90.2), 2: Edgar Allan Poe, John Cleves Symmes Jr.
+- 1818-09-01 (48.9, 2.4), 2: Alexander von Humboldt, Edgar Allan Poe
+- 1829-05-29 (39.4, -84.6), 2: Edgar Allan Poe, John Cleves Symmes Jr.
+- 1684-01-24 (51.5, -0.1), 2: Edmond Halley, Robert Hooke
+- 1684-08-01 (52.2, 0.1), 2: Edmond Halley, Sir Isaac Newton
+- 1687-07-01 (51.5, -0.1), 2: Edmond Halley, Sir Isaac Newton
+- 1910-04-21 (41.3, -73.4), 2: Edmond Halley, Samuel Langhorne Clemens (Mark Twain)
+- 2016-03-01 (-34.6, -58.4), 2: Eduardo Sergio Elsztain, Sergio Demian Lerner
+- 1885-02-01 (42.3, -71.1), 2: Edward Bellamy, Francis Julius Bellamy
+- 1889-02-18 (42.4, -71.1), 2: Edward Bellamy, Francis Julius Bellamy
+- 1892-10-21 (41.8, -87.6), 2: Edward Bellamy, Francis Julius Bellamy
+- 1912-08-01 (48.9, 2.4), 2: Edward Louis Bernays, Oscar Fingal O'Fflahertie Wills Wilde
+- 1916-04-04 (40.8, -74.0), 2: Edward Louis Bernays, Vaslav Nijinsky (Wacław Niżyński)
+- 1923-05-01 (40.7, -74.0), 2: Edward Louis Bernays, Marcus Mosiah Garvey
+- 1929-10-21 (42.3, -83.2), 2: Edward Louis Bernays, Thomas Alva Edison
+- 1939-04-30 (40.7, -73.8), 2: Edward Louis Bernays, Robert Moses
+- 1952-06-01 (40.8, -74.0), 2: Edward Louis Bernays, John Dewey
+- 1856-01-21 (51.5, -0.1), 2: Sir Edward Coley Burne-Jones, 1st Baronet, William Morris
+- 1896-06-01 (51.5, -0.2), 2: Sir Edward Coley Burne-Jones, 1st Baronet, William Butler Yeats
+- 1582-03-01 (51.5, -0.3), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1583-12-01 (51.6, 19.1), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1584-04-01 (50.1, 19.9), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1584-09-01 (50.1, 14.4), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1586-05-01 (50.1, 14.4), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1586-12-19 (49.0, 14.8), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1587-05-03 (49.0, 14.8), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1588-05-22 (49.0, 14.8), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1588-12-04 (49.0, 14.8), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 2022-11-30 (37.8, -122.4), 2: El Gólem, Samuel Harris Altman
+- 1609-09-17 (50.1, 14.4), 2: El Gólem, Judah Loew ben Bezalel (the Maharal of Prague)
+- 1893-05-01 (48.9, 2.3), 2: Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel), Étienne Bazeries
+- 1868-04-01 (51.5, -0.1), 2: Elizabeth (Bessie) Burden, William Morris
+- 1872-11-01 (51.5, -0.1), 2: Elizabeth (Bessie) Burden, Jane Morris (nee Burden)
+- 1890-01-11 (51.5, -0.2), 2: Elizabeth (Bessie) Burden, William Morris
+- 1942-03-01 (38.9, -77.0), 2: Elizebeth Smith Friedman, Herbert Osborn Yardley
+- 1959-06-26 (38.9, -77.0), 2: Elizebeth Smith Friedman, William Frederick Friedman
+- 2017-04-17 (38.9, -77.1), 2: Elizebeth Smith Friedman, William Frederick Friedman
+- 1971-06-28 (-25.7, 28.2), 2: Elon Reeve Musk, Joshua Norman Haldeman
+- 2015-12-11 (37.8, -122.4), 2: Elon Reeve Musk, Samuel Harris Altman
+- 2023-07-24 (37.8, -122.4), 2: Elon Reeve Musk, Samuel Harris Altman
+- 2025-01-20 (38.9, -77.0), 2: Elon Reeve Musk, Javier Gerardo Milei
+- 2025-02-20 (38.8, -77.0), 2: Elon Reeve Musk, Javier Gerardo Milei
+- 1907-09-01 (50.4, -3.6), 2: Elsa Gindler, Geneviève Stebbins
+- 1910-10-01 (51.1, 13.8), 2: Elsa Gindler, Mary Wigman (Karoline Sofie Marie Wiegmann)
+- 1919-02-20 (52.5, 13.4), 2: Elsa Gindler, Mary Wigman (Karoline Sofie Marie Wiegmann)
+- 1927-10-01 (52.5, 13.3), 2: Elsa Gindler, Rudolf Laban
+- 1933-11-01 (55.7, 12.6), 2: Elsa Gindler, Wilhelm Reich
+- 1906-06-01 (52.5, 13.4), 2: Elsa Lindenberg, Joseph Alois Schumpeter
+- 1933-02-27 (52.5, 13.4), 2: Elsa Lindenberg, Rudolf Rocker
+- 1934-04-01 (55.6, 13.0), 2: Elsa Lindenberg, Wilhelm Reich
+- 1934-08-26 (47.0, 8.3), 2: Elsa Lindenberg, Wilhelm Reich
+- 1939-08-19 (59.9, 10.7), 2: Elsa Lindenberg, Wilhelm Reich
+- 2010-06-01 (37.4, -122.1), 2: Emiliano Kargieman, Wenceslao "Wences" Casares
+- 2013-06-01 (45.4, 12.4), 2: Emma Kunz, Hilma af Klint
+- 1796-03-09 (48.9, 2.3), 2: Empress Joséphine (Marie-Josèphe-Rose Tascher de La Pagerie, vicomtesse de Beauharnais), Napoleon Bonaparte
+- 1798-05-01 (43.1, 5.9), 2: Empress Joséphine (Marie-Josèphe-Rose Tascher de La Pagerie, vicomtesse de Beauharnais), Jean-Baptiste Alliette, called Etteilla
+- 1804-09-13 (50.9, 7.0), 2: Empress Joséphine (Marie-Josèphe-Rose Tascher de La Pagerie, vicomtesse de Beauharnais), Salomon Oppenheim jr.
+- 1809-12-15 (48.9, 2.3), 2: Empress Joséphine (Marie-Josèphe-Rose Tascher de La Pagerie, vicomtesse de Beauharnais), Napoleon Bonaparte
+- 0527-04-01 (41.0, 29.0), 2: Empress Theodora (Theodora Augusta, consort of Justinian I), Justinian I (Flavius Petrus Sabbatius Iustinianus)
+- 0527-08-01 (41.0, 29.0), 2: Empress Theodora (Theodora Augusta, consort of Justinian I), Justinian I (Flavius Petrus Sabbatius Iustinianus)
+- 0532-01-13 (41.0, 29.0), 2: Empress Theodora (Theodora Augusta, consort of Justinian I), Justinian I (Flavius Petrus Sabbatius Iustinianus)
+- 0532-01-19 (41.0, 29.0), 2: Empress Theodora (Theodora Augusta, consort of Justinian I), Justinian I (Flavius Petrus Sabbatius Iustinianus)
+- 0548-06-28 (41.0, 29.0), 2: Empress Theodora (Theodora Augusta, consort of Justinian I), Justinian I (Flavius Petrus Sabbatius Iustinianus)
+- 1883-02-13 (45.4, 12.3), 2: Engelbert Humperdinck, Wilhelm Richard Wagner
+- 1893-12-23 (51.0, 11.3), 2: Engelbert Humperdinck, Saint Barbara of Heliopolis (Bárbara)
+- 1884-06-01 (52.5, 13.4), 2: Johannes Friedrich Guttzeit, Karl Max Engelmann (Liga Pitagórica)
+- 1885-10-21 (52.5, 13.4), 2: Johannes Friedrich Guttzeit, Karl Max Engelmann (Liga Pitagórica)
+- 1900-11-15 (46.2, 8.8), 2: Karl Gräser (Carl Samuel Josef Gräser), Karl Max Engelmann (Liga Pitagórica)
+- 1918-06-01 (46.2, 8.8), 2: Henri Oedenkoven, Karl Max Engelmann (Liga Pitagórica)
+- 1908-06-01 (52.5, 13.4), 2: Erich Mühsam, Gustav Landauer
+- 1916-07-15 (48.1, 11.6), 2: Erich Mühsam, Johannes Friedrich Guttzeit
+- 1919-04-07 (48.1, 11.6), 2: Erich Mühsam, Gustav Landauer
+- 1928-06-01 (52.5, 13.4), 2: Erich Mühsam, Rudolf Rocker
+- 1933-03-01 (52.5, 13.4), 2: Erich Mühsam, Fritz Lang (Friedrich Christian Anton Lang)
+- 1892-03-01 (48.9, 2.3), 2: Erik Satie (Eric Alfred Leslie Satie), Louis Vuitton
+- 1901-07-31 (51.5, 0.0), 2: Captain Robert Falcon Scott, RN, Sir Ernest Henry Shackleton
+- 1902-02-08 (-77.8, 166.6), 2: Captain Robert Falcon Scott, RN, Sir Ernest Henry Shackleton
+- 1902-12-30 (-82.3, 163.5), 2: Captain Robert Falcon Scott, RN, Sir Ernest Henry Shackleton
+- 1919-12-01 (51.5, -0.1), 2: John Maynard Keynes, 1st Baron Keynes of Tilton, Sir Ernest Henry Shackleton
+- 1920-09-01 (48.8, 9.2), 2: Erwin Rudolf Josef Alexander Schrödinger, Rudolf Laban
+- 1933-09-01 (52.5, 13.4), 2: Erwin Rudolf Josef Alexander Schrödinger, Valeska Gert (Gertrud Valesca Samosch)
+- 1881-09-26 (48.9, 2.3), 2: Eadweard Muybridge, Étienne-Jules Marey
+- 1784-08-11 (48.9, 2.3), 2: Franz Anton Mesmer, Jean-Baptiste Alliette, called Etteilla
+- 1799-07-16 (31.4, 30.4), 2: Jean-Baptiste Alliette, called Etteilla, Pierre-François-Xavier Bouchard
+- 1929-02-11 (41.9, 12.5), 2: Benito Mussolini, Ettore Ferrari
+- 1892-12-01 (40.7, -74.0), 2: Eugène Samuel Grasset, Geneviève Stebbins
+- 1896-07-28 (-34.6, -58.4), 2: Eugène Py (Eugenio Py), Max Glücksmann (Mordechai David Glücksmann)
+- 1914-12-12 (-34.6, -58.4), 2: Eugène Py (Eugenio Py), Max Glücksmann (Mordechai David Glücksmann)
+- 1919-05-14 (-34.6, -58.4), 2: Eugène Py (Eugenio Py), Max Glücksmann (Mordechai David Glücksmann)
+- 1944-01-15 (-31.5, -68.5), 2: Eva Duarte de Perón ("Evita"), Juan Domingo Perón
+- 1944-01-22 (-34.6, -58.4), 2: Eva Duarte de Perón ("Evita"), Juan Domingo Perón
+- 1945-10-13 (-34.2, -58.2), 2: Eva Duarte de Perón ("Evita"), Juan Domingo Perón
+- 1945-10-17 (-34.6, -58.4), 2: Eva Duarte de Perón ("Evita"), Juan Domingo Perón
+- 1945-10-22 (-34.6, -60.9), 2: Eva Duarte de Perón ("Evita"), Juan Domingo Perón
+- 1946-06-04 (-34.6, -58.4), 2: Eva Duarte de Perón ("Evita"), Juan Domingo Perón
+- 1948-06-19 (-34.6, -58.4), 2: Eva Duarte de Perón ("Evita"), Marta María Ezcurra Real de Azúa
+- 1949-07-14 (-34.6, -58.4), 2: Eva Duarte de Perón ("Evita"), Marta María Ezcurra Real de Azúa
+- 1947-09-23 (-34.6, -58.4), 2: Eva Duarte de Perón ("Evita"), Juan Domingo Perón
+- 1951-08-22 (-34.6, -58.4), 2: Eva Duarte de Perón ("Evita"), Juan Domingo Perón
+- 1952-07-26 (-34.6, -58.4), 2: Eva Duarte de Perón ("Evita"), Juan Domingo Perón
+- 1976-10-22 (-34.6, -58.4), 2: Eva Duarte de Perón ("Evita"), María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1831-01-17 (48.9, 2.3), 2: Siméon Denis Poisson, Évariste Galois
+- 1831-07-04 (48.9, 2.3), 2: Siméon Denis Poisson, Évariste Galois
+- -0597-03-16 (31.8, 35.2), 2: Ezekiel son of Buzi (Yehezqel ben Buzi), priest and prophet of the exile, Nabucodonosor II (Nebuchadnezzar II, king of Babylon)
+- -0587-07-07 (31.8, 35.2), 2: Ezekiel son of Buzi (Yehezqel ben Buzi), priest and prophet of the exile, Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son)
+- 1919-03-23 (45.5, 9.2), 2: Benito Mussolini, Filippo Tommaso Emilio Marinetti
+- 1924-11-01 (48.9, 2.3), 2: George Balanchine (Georgiy Melitonovich Balanchivadze), Renée Jeanne Falconetti
+- 1929-10-01 (48.9, 2.3), 2: Renée Jeanne Falconetti, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1960-06-01 (48.9, 2.3), 2: Jean-Paul Charles Aymard Sartre, Renée Jeanne Falconetti
+- 1884-08-04 (-31.7, -60.5), 2: Domingo Faustino Sarmiento, Felix Adler
+- 1893-10-01 (40.8, -74.0), 2: Felix Adler, Geneviève Stebbins
+- 1911-09-01 (40.8, -74.0), 2: Felix Adler, J. Robert Oppenheimer
+- 1953-11-01 (48.8, 2.3), 2: Jacques Marie Émile Lacan, Pierre-Félix Guattari
+- 1969-06-01 (48.9, 2.4), 2: Gilles Louis Rene Deleuze, Pierre-Félix Guattari
+- 1977-07-01 (48.9, 2.4), 2: Pierre-Félix Guattari, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1989-06-01 (48.9, 2.4), 2: Miller Smith Puckette, Pierre-Félix Guattari
+- 1870-04-01 (48.9, 2.4), 2: Felix Christian Klein, Jean-Baptiste Pitois (Paul Christian)
+- 1927-09-16 (45.8, 9.1), 2: Enrico Fermi, Niels Bohr (Niels Henrik David Bohr)
+- 1939-01-26 (38.9, -77.0), 2: Enrico Fermi, Niels Bohr (Niels Henrik David Bohr)
+- 1944-09-01 (35.9, -106.3), 2: Enrico Fermi, Richard Phillips Feynman
+- 1949-10-30 (38.9, -77.0), 2: Enrico Fermi, J. Robert Oppenheimer
+- 1791-07-04 (54.7, 20.5), 2: Immanuel Kant, Johann Gottlieb Fichte
+- 1794-09-01 (50.9, 11.6), 2: Friedrich Schiller (Johann Christoph Friedrich Schiller), Johann Gottlieb Fichte
+- 1806-10-14 (51.0, 11.6), 2: Johann Gottlieb Fichte, Napoleon Bonaparte
+- 1952-03-10 (23.1, -82.4), 2: Fidel Alejandro Castro Ruz, Meyer Lansky (Maier Suchowljansky)
+- 1953-07-26 (20.0, -75.8), 2: Fidel Alejandro Castro Ruz, Vilma Espín Guillois
+- 1959-02-16 (23.1, -82.4), 2: Fidel Alejandro Castro Ruz, Vilma Espín Guillois
+- 1959-05-01 (23.1, -82.4), 2: Fidel Alejandro Castro Ruz, Vilma Espín Guillois
+- 1971-11-10 (-33.4, -70.7), 2: Fidel Alejandro Castro Ruz, Salvador Guillermo Allende Gossens
+- 0075-06-01 (41.9, 12.5), 2: Flavius Josephus (Yosef ben Mattityahu), Plinio el Viejo (Gaius Plinius Secundus, Pliny the Elder)
+- 1886-06-01 (-34.6, -58.4), 2: Francesco Tamburini, Vittorio Meano (Victor Meano)
+- 1890-05-25 (-34.6, -58.4), 2: Francesco Tamburini, Vittorio Meano (Victor Meano)
+- 1810-07-01 (41.9, 12.5), 2: Franz Pforr, Johann Friedrich Overbeck
+- 1810-08-01 (41.9, 12.5), 2: Franz Pforr, Johann Friedrich Overbeck
+- 1812-04-01 (41.9, 12.5), 2: Franz Pforr, Peter von Cornelius
+- 1813-04-01 (41.9, 12.5), 2: Franz Pforr, Johann Friedrich Overbeck
+- 1840-06-28 (50.7, 11.3), 2: Fred McFeely Rogers, Friedrich Fröbel
+- 1904-10-01 (47.0, 7.5), 2: Fred McFeely Rogers, Johannes Itten
+- 1906-05-25 (48.9, 2.4), 2: Fred McFeely Rogers, Rudolf Steiner
+- 1951-09-01 (40.8, -74.0), 2: Fred McFeely Rogers, José Arcadio Limón
+- 1907-03-03 (48.2, 16.4), 2: Carl Gustav Jung, Sigmund Freud
+- 1909-03-25 (48.2, 16.4), 2: Carl Gustav Jung, Sigmund Freud
+- 1909-08-20 (53.1, 8.8), 2: Carl Gustav Jung, Sigmund Freud
+- 1912-11-24 (48.1, 11.6), 2: Carl Gustav Jung, Sigmund Freud
+- 1913-09-07 (48.1, 11.6), 2: Carl Gustav Jung, Sigmund Freud
+- 1938-09-01 (51.5, -0.2), 2: John Fitzgerald Kennedy, Sigmund Freud
+- 1938-08-01 (48.9, 2.4), 2: Friedrich August von Hayek, Ludwig Heinrich Edler von Mises
+- 1939-10-01 (52.2, 0.1), 2: Friedrich August von Hayek, John Maynard Keynes, 1st Baron Keynes of Tilton
+- 1782-04-21 (50.6, 11.1), 2: Friedrich Fröbel, Philipp Griebel of Gräfenroda
+- 1812-10-15 (52.5, 13.4), 2: Friedrich Fröbel, René Just Haüy
+- 1848-08-17 (50.7, 11.3), 2: Friedrich Fröbel, Philipp Griebel of Gräfenroda
+- 1900-06-24 (52.5, 13.4), 2: Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy'), Rudolf Steiner
+- 1616-03-05 (41.9, 12.5), 2: Galileo Galilei, Nicolaus Copernicus (Mikolaj Kopernik)
+- 1588-04-03 (-27.5, -58.8), 2: Antonio Mamerto Gil Núñez (Gauchito Gil), Hernando Arias de Saavedra (Hernandarias)
+- 1814-06-01 (-24.9, -65.5), 2: Antonio Mamerto Gil Núñez (Gauchito Gil), Martín Miguel de Güemes
+- 1839-03-31 (-29.8, -58.0), 2: Antonio Mamerto Gil Núñez (Gauchito Gil), Juan Manuel José Domingo Ortiz de Rozas y López de Osornio (Juan Manuel de Rosas)
+- 1801-12-31 (52.3, 10.5), 2: Carl Friedrich Gauss, Johann Elert Bode
+- 1227-08-18 (35.6, 106.2), 2: Genghis Khan (Chinggis Khan / Temüjin), Kublai Khan (Khubilai, Setsen Khan, Emperor Shizu of Yuan)
+- 2009-12-01 (49.3, -123.1), 2: Geoffrey Everest Hinton, Yoshua Bengio
+- 2019-03-01 (37.8, -122.4), 2: Geoffrey Everest Hinton, Yoshua Bengio
+- 1903-02-01 (52.2, 0.1), 2: John Maynard Keynes, 1st Baron Keynes of Tilton, Sir George Gabriel Stokes, 1st Baronet
+- 1924-06-12 (42.3, -71.1), 2: George Herbert Walker Bush, Prescott Sheldon Bush
+- 1953-10-11 (40.8, -74.0), 2: George Herbert Walker Bush, George Walker Bush
+- 1976-01-30 (39.0, -77.1), 2: George Herbert Walker Bush, William Egan Colby
+- 2018-12-06 (30.6, -96.4), 2: George Herbert Walker Bush, George Walker Bush
+- 1942-10-20 (40.7, -74.0), 2: George Walker Bush, Prescott Sheldon Bush
+- 1990-08-02 (29.4, 48.0), 2: George Walker Bush, Saddam Hussein al-Tikriti
+- 2003-03-20 (33.3, 44.4), 2: George Walker Bush, Saddam Hussein al-Tikriti
+- 2003-04-09 (33.3, 44.4), 2: George Walker Bush, Saddam Hussein al-Tikriti
+- 2003-12-13 (34.5, 43.8), 2: George Walker Bush, Saddam Hussein al-Tikriti
+- 2003-12-19 (32.9, 13.2), 2: George Walker Bush, Muammar Muhammad Abu Minyar al-Gaddafi
+- 2004-07-01 (33.3, 44.4), 2: George Walker Bush, Saddam Hussein al-Tikriti
+- 2006-09-20 (40.7, -74.0), 2: George Walker Bush, Hugo Rafael Chávez Frías
+- 2006-12-30 (33.4, 44.3), 2: George Walker Bush, Saddam Hussein al-Tikriti
+- 1775-07-01 (42.4, -71.1), 2: George Washington, Prince Hall
+- 1777-09-11 (39.9, -75.6), 2: George Washington, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1908-06-01 (48.9, 2.4), 2: Georges Sorel, René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1991-11-05 (28.1, -15.4), 2: Ghislaine Noelle Marion Maxwell, Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 1991-11-10 (31.8, 35.2), 2: Ghislaine Noelle Marion Maxwell, Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 2003-03-01 (40.8, -74.0), 2: Ghislaine Noelle Marion Maxwell, Jeffrey Edward Epstein
+- 2020-07-14 (40.7, -74.0), 2: Ghislaine Noelle Marion Maxwell, Mark Stewart Cohen
+- 2021-11-29 (40.7, -74.0), 2: Ghislaine Noelle Marion Maxwell, Mark Stewart Cohen
+- 2022-06-28 (40.7, -74.0), 2: Ghislaine Noelle Marion Maxwell, Mark Stewart Cohen
+- 1429-04-29 (47.9, 1.9), 2: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Joan of Arc (Jehanne la Pucelle)
+- 1429-05-04 (47.9, 1.9), 2: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Joan of Arc (Jehanne la Pucelle)
+- 1429-05-08 (47.9, 1.9), 2: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Joan of Arc (Jehanne la Pucelle)
+- 1429-06-12 (47.9, 2.1), 2: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Joan of Arc (Jehanne la Pucelle)
+- 1429-06-15 (47.8, 1.7), 2: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Joan of Arc (Jehanne la Pucelle)
+- 1429-06-18 (48.0, 1.7), 2: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Joan of Arc (Jehanne la Pucelle)
+- 1429-07-17 (49.3, 4.0), 2: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Joan of Arc (Jehanne la Pucelle)
+- 1429-09-08 (48.9, 2.3), 2: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Joan of Arc (Jehanne la Pucelle)
+- 1970-12-01 (48.8, 2.3), 2: Gilles Louis Rene Deleuze, Paul-Michel Foucault
+- 1971-02-01 (48.9, 2.4), 2: Gilles Louis Rene Deleuze, Paul-Michel Foucault
+- 1972-06-01 (45.8, 4.8), 2: Gilles Louis Rene Deleuze, Jacques Marie Émile Lacan
+- 1972-10-01 (48.9, 2.3), 2: Gilles Louis Rene Deleuze, Jacques Marie Émile Lacan
+- 1995-11-04 (48.9, 2.3), 2: Gilles Louis Rene Deleuze, Nick Land
+- 1490-06-01 (43.8, 11.3), 2: Giovanni Pico della Mirandola, Lorenzo di Piero de' Medici (Lorenzo il Magnifico)
+- 1867-09-09 (46.2, 6.1), 2: Giuseppe Maria Garibaldi, Mikhail Aleksandrovich Bakunin
+- 1749-08-28 (50.1, 8.7), 2: Johann Jost Textor, Johann Wolfgang von Goethe
+- 1764-04-03 (50.1, 8.7), 2: Johann Jost Textor, Johann Wolfgang von Goethe
+- 1776-05-01 (50.7, 10.9), 2: Johann Wolfgang von Goethe, Philipp Griebel of Gräfenroda
+- 1787-02-25 (40.8, 14.3), 2: Johann Heinrich Wilhelm Tischbein, Johann Wolfgang von Goethe
+- 1787-03-06 (40.8, 14.4), 2: Johann Heinrich Wilhelm Tischbein, Johann Wolfgang von Goethe
+- 1792-09-20 (49.1, 4.8), 2: Francisco de Miranda, Johann Wolfgang von Goethe
+- 1794-07-20 (50.9, 11.6), 2: Friedrich Schiller (Johann Christoph Friedrich Schiller), Johann Wolfgang von Goethe
+- 1797-06-01 (50.9, 11.6), 2: Alexander von Humboldt, Johann Wolfgang von Goethe
+- 1805-05-09 (51.0, 11.3), 2: Friedrich Schiller (Johann Christoph Friedrich Schiller), Johann Wolfgang von Goethe
+- 1808-10-02 (51.0, 11.0), 2: Johann Wolfgang von Goethe, Napoleon Bonaparte
+- 0536-06-01 (55.6, -1.7), 2: Guinevere (Gwenhwyfar / Ganore / Vanora), Lancelot (Lancelot du Lac)
+- 1914-12-01 (55.8, 37.6), 2: G. I. Gurdjieff, Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1922-07-14 (48.9, 2.4), 2: G. I. Gurdjieff, Marcel Proust
+- 1933-09-01 (48.9, 2.3), 2: G. I. Gurdjieff, Moshé Feldenkrais
+- 1937-06-01 (48.9, 2.3), 2: G. I. Gurdjieff, Moshé Feldenkrais
+- 1902-04-01 (48.2, 16.4), 2: Gustav Klimt, Loïe Fuller (Marie Louise Fuller)
+- 1896-07-01 (51.5, -0.1), 2: Gustav Landauer, Rosa Luxemburg (Rozalia Luksenburg)
+- 1919-06-01 (48.2, 11.6), 2: Gustav Landauer, Max Weber
+- 1879-02-16 (45.6, 25.6), 2: Gustav Arthur "Gusto" Gräser, Karl Gräser (Carl Samuel Josef Gräser)
+- 1901-09-01 (46.2, 8.8), 2: Gustav Arthur "Gusto" Gräser, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1917-08-01 (46.2, 8.8), 2: Gustav Arthur "Gusto" Gräser, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1962-11-12 (51.2, 4.4), 2: Guy-Ernest Debord, Michèle Bernstein
+- 1968-05-14 (48.8, 2.3), 2: Guy-Ernest Debord, Michèle Bernstein
+- 1920-10-01 (55.8, 37.6), 2: Herbert George Wells, Vladimir Ilyich Ulyanov (Lenin)
+- 1925-06-01 (40.7, -74.0), 2: Howard Phillips Lovecraft, Rudolf Rocker
+- 1935-10-02 (41.9, 12.5), 2: Benito Mussolini, Haile Selassie I (Lij Tafari Makonnen, Ras Tafari)
+- 1936-05-09 (41.9, 12.5), 2: Benito Mussolini, Haile Selassie I (Lij Tafari Makonnen, Ras Tafari)
+- 2002-08-01 (37.5, -122.2), 2: Harold Thomas Finney II (Hal Finney), Philip R. Zimmermann (Phil Zimmermann)
+- 0876-06-01 (33.3, 44.4), 2: Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad), Mansur al-Hallaj (al-Husayn ibn Mansur al-Hallaj)
+- 0922-02-01 (33.3, 44.4), 2: Mansur al-Hallaj (al-Husayn ibn Mansur al-Hallaj), Saadia Gaon (Sa'id ben Yosef al-Fayyumi)
+- 1921-01-14 (51.1, 13.7), 2: Hanya Holm (born Johanna Josepha Eckert), Mary Wigman (Karoline Sofie Marie Wiegmann)
+- 1925-06-01 (51.1, 13.8), 2: Hanya Holm (born Johanna Josepha Eckert), Mary Wigman (Karoline Sofie Marie Wiegmann)
+- 1930-06-24 (48.1, 11.5), 2: Hanya Holm (born Johanna Josepha Eckert), Mary Wigman (Karoline Sofie Marie Wiegmann)
+- 1974-09-01 (40.8, -74.0), 2: Hanya Holm (born Johanna Josepha Eckert), Jeffrey Edward Epstein
+- 1858-04-01 (43.2, -79.2), 2: Harriet Tubman (born Araminta "Minty" Ross; Harriet Tubman Davis), John Brown
+- 1793-07-14 (48.5, 9.1), 2: Friedrich Wilhelm Joseph Schelling, Georg Wilhelm Friedrich Hegel
+- 1806-10-14 (50.9, 11.6), 2: Friedrich Ludwig Jahn, Georg Wilhelm Friedrich Hegel
+- 1836-10-22 (52.5, 13.4), 2: Georg Wilhelm Friedrich Hegel, Karl Marx (the Moor)
+- 1509-12-01 (49.8, 9.9), 2: Heinrich Cornelius Agrippa von Nettesheim, Johannes Trithemius (Johann von Heidenberg), abbot of Sponheim and of St James's at Würzburg
+- 1510-04-08 (49.8, 9.9), 2: Heinrich Cornelius Agrippa von Nettesheim, Johannes Trithemius (Johann von Heidenberg), abbot of Sponheim and of St James's at Würzburg
+- 1919-05-01 (48.1, 11.6), 2: Max Horkheimer, Werner Heisenberg
+- 1920-10-01 (48.1, 11.6), 2: Werner Heisenberg, Wolfgang Ernst Pauli
+- 1922-06-12 (51.5, 9.9), 2: Niels Bohr (Niels Henrik David Bohr), Werner Heisenberg
+- 1927-02-01 (55.7, 12.6), 2: Niels Bohr (Niels Henrik David Bohr), Werner Heisenberg
+- 1941-09-16 (55.7, 12.5), 2: Niels Bohr (Niels Henrik David Bohr), Werner Heisenberg
+- 1974-06-01 (37.9, -122.3), 2: Martin Edward Hellman, Ralph Charles Merkle
+- 1977-07-01 (39.1, -76.8), 2: Martin Edward Hellman, Philip R. Zimmermann (Phil Zimmermann)
+- 1911-06-01 (52.5, -1.9), 2: Henri-Louis Bergson, J. R. R. Tolkien
+- 1913-02-01 (40.8, -74.0), 2: Henri-Louis Bergson, John Dewey
+- 1922-08-01 (46.2, 6.2), 2: Henri-Louis Bergson, Maria Salomea Skłodowska-Curie (Marie Curie)
+- 1819-08-01 (48.9, 2.4), 2: Claude-Henri de Rouvroy, comte de Saint-Simon, Honoré de Balzac
+- 1899-07-01 (46.4, 14.1), 2: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1900-10-15 (48.1, 11.6), 2: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1900-10-20 (47.6, 11.1), 2: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1900-11-01 (46.0, 9.2), 2: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1901-12-01 (46.2, 8.8), 2: Henri Oedenkoven, Karl Gräser (Carl Samuel Josef Gräser)
+- 1906-06-01 (46.2, 8.8), 2: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1920-06-01 (46.2, 8.8), 2: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1906-09-01 (59.9, 30.3), 2: Henryk Erlich (Hersh-Wolf Erlikh), Nicholas Konstantinovich Roerich (Nikolai Konstantinovich Rerikh)
+- 1941-10-15 (53.2, 50.1), 2: Henryk Erlich (Hersh-Wolf Erlikh), Victor Alter (Wiktor Alter)
+- 1941-12-04 (53.2, 50.1), 2: Henryk Erlich (Hersh-Wolf Erlikh), Victor Alter (Wiktor Alter)
+- 1942-05-15 (53.2, 50.1), 2: Henryk Erlich (Hersh-Wolf Erlikh), Victor Alter (Wiktor Alter)
+- 1988-04-17 (52.2, 21.0), 2: Henryk Erlich (Hersh-Wolf Erlikh), Victor Alter (Wiktor Alter)
+- 1933-09-01 (48.9, 2.4), 2: Herbert Marcuse, Walter Benjamin
+- 1934-07-01 (40.8, -74.0), 2: Herbert Marcuse, Max Horkheimer
+- 1968-05-01 (48.9, 2.4), 2: Herbert Marcuse, Jacques Derrida (born Jackie Elie Derrida)
+- 1951-07-01 (46.0, 8.9), 2: Hermann Hesse, Miguel Serrano
+- 1961-01-22 (46.0, 8.9), 2: Hermann Hesse, Miguel Serrano
+- 1971-06-01 (46.0, 8.9), 2: Hermann Hesse, Miguel Serrano
+- 1580-06-11 (-34.6, -58.4), 2: Hernando Arias de Saavedra (Hernandarias), Pedro de Mendoza
+- 2011-10-20 (31.2, 16.6), 2: Hillary Diane Rodham Clinton, Muammar Muhammad Abu Minyar al-Gaddafi
+- 1922-12-31 (47.5, 7.6), 2: Hilma af Klint, Rudolf Steiner
+- -0966-06-01 (34.2, 36.0), 2: Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), King Solomon (Shelomoh · Sulayman)
+- -0966-08-01 (31.8, 35.2), 2: Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), King Solomon (Shelomoh · Sulayman)
+- -0966-10-01 (31.8, 35.2), 2: Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), The Queen of Sheba (Makeda / Bilqis)
+- 1717-06-24 (51.5, -0.1), 2: Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), Prince Hall
+- 1848-02-24 (48.9, 2.3), 2: Honoré de Balzac, Mikhail Aleksandrovich Bakunin
+- 1992-02-04 (10.5, -66.9), 2: Hugo Rafael Chávez Frías, Nicolás Maduro Moros
+- 2012-12-08 (10.5, -66.9), 2: Hugo Rafael Chávez Frías, Nicolás Maduro Moros
+- 2013-03-15 (10.5, -66.9), 2: Hugo Rafael Chávez Frías, Nicolás Maduro Moros
+- 1942-03-01 (51.5, -0.1), 2: Ian Lancaster Fleming, John Langshaw Austin
+- 0737-04-05 (21.5, 40.0), 2: Ibrahim ibn Adham (Ebrahim b. Adham b. Mansur b. Yazid al-'Ijli), Rabia al-Adawiyya (Rābi'a bint Ismā'īl al-'Adawiyya al-Qaysiyya)
+- 1933-08-01 (46.1, 8.8), 2: Ida Hofmann (Ida Hofmann-Oedenkoven), Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1910-06-25 (48.9, 2.3), 2: Igor Fyodorovich Stravinsky, Sergei Pavlovich Diaghilev
+- 1911-06-13 (48.9, 2.3), 2: Igor Fyodorovich Stravinsky, Vaslav Nijinsky (Wacław Niżyński)
+- 1923-06-13 (48.9, 2.4), 2: Igor Fyodorovich Stravinsky, Sergei Pavlovich Diaghilev
+- 1936-05-17 (-34.6, -58.4), 2: Igor Fyodorovich Stravinsky, Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo)
+- 1939-03-01 (48.9, 2.4), 2: Igor Fyodorovich Stravinsky, Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1971-04-15 (45.4, 12.3), 2: Igor Fyodorovich Stravinsky, Sergei Pavlovich Diaghilev
+- 1986-04-22 (41.8, -87.6), 2: Ioan Petru Culianu, Mircea Eliade
+- 1986-05-01 (41.8, -87.6), 2: Ioan Petru Culianu, Mircea Eliade
+- 1956-08-01 (10.5, -66.9), 2: Juan Domingo Perón, María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1960-01-26 (40.5, -3.8), 2: Juan Domingo Perón, María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1966-05-01 (-34.6, -58.4), 2: José López Rega (El Brujo), María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1973-05-08 (39.9, 116.4), 2: José López Rega (El Brujo), María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1973-05-15 (39.0, 125.8), 2: José López Rega (El Brujo), María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1973-08-05 (-34.6, -58.4), 2: José López Rega (El Brujo), María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1973-10-12 (-34.6, -58.4), 2: Juan Domingo Perón, María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1974-09-30 (-34.6, -58.4), 2: José López Rega (El Brujo), María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1899-06-01 (51.5, -0.1), 2: Isadora Duncan, Maria Tecla Artemisia Montessori
+- 1902-03-01 (52.5, 13.4), 2: Isadora Duncan, Loïe Fuller (Marie Louise Fuller)
+- 1904-07-22 (50.0, 11.6), 2: Isadora Duncan, Wilhelm Richard Wagner
+- 1918-06-01 (48.2, 16.4), 2: Johannes Itten, Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1923-09-01 (47.3, 8.6), 2: Johannes Itten, Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1955-04-01 (42.4, -71.1), 2: Avram Noam Chomsky, John Langshaw Austin
+- 1959-10-01 (51.8, -1.3), 2: John Langshaw Austin, Richard Dawkins (Clinton Richard Dawkins)
+- 1889-07-01 (40.7, -74.0), 2: John Pierpont Morgan, José Julián Martí Pérez (José Martí)
+- 1901-03-01 (40.9, -72.9), 2: John Pierpont Morgan, Nikola Tesla
+- 1963-03-04 (48.9, 2.3), 2: Jacques Derrida (born Jackie Elie Derrida), Paul-Michel Foucault
+- 1969-03-01 (48.8, 2.3), 2: Jacques Derrida (born Jackie Elie Derrida), Jacques Marie Émile Lacan
+- 1966-05-18 (48.8, 2.3), 2: Jacques Marie Émile Lacan, Paul-Michel Foucault
+- 1969-02-22 (48.8, 2.3), 2: Jacques Marie Émile Lacan, Paul-Michel Foucault
+- 1980-01-05 (48.9, 2.4), 2: Jacques Marie Émile Lacan, Josefina Ayerza
+- 1931-09-30 (51.5, -0.1), 2: James Clerk Maxwell, Michael Faraday
+- 1907-05-01 (51.5, -0.1), 2: Captain Robert Falcon Scott, RN, James Augustine Aloysius Joyce
+- 1915-07-01 (47.4, 8.5), 2: James Augustine Aloysius Joyce, Sophie Taeuber-Arp
+- 1925-06-01 (48.9, 2.3), 2: James Augustine Aloysius Joyce, Sophie Taeuber-Arp
+- 2009-06-01 (40.8, -74.0), 2: James "Jamie" Dimon, Mark Stewart Cohen
+- 2013-01-24 (46.8, 9.8), 2: James "Jamie" Dimon, Paul Elliott Singer
+- 2025-11-01 (38.9, -77.0), 2: James "Jamie" Dimon, Reid Garrett Hoffman
+- 1876-04-01 (45.4, 12.3), 2: Jane Morris (nee Burden), Mary "May" Morris
+- 1878-10-01 (51.5, -0.2), 2: Jane Morris (nee Burden), Mary "May" Morris
+- 1890-06-14 (51.5, -0.2), 2: Jane Morris (nee Burden), Mary "May" Morris
+- 1914-01-26 (51.4, -2.4), 2: Jane Morris (nee Burden), Mary "May" Morris
+- 1904-09-01 (-34.6, -58.4), 2: János Czetz (Juan Fernando Czetz), Vittorio Meano (Victor Meano)
+- 2023-12-10 (-34.6, -58.4), 2: Javier Gerardo Milei, Volodymyr Oleksandrovych Zelenskyy
+- 1916-06-01 (40.4, -3.7), 2: Jean-Claude Nicolas Forestier, Lucía Sánchez Saornil
+- 1929-07-01 (48.8, 2.3), 2: Jean-Paul Charles Aymard Sartre, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1939-09-02 (48.9, 2.4), 2: Jean-Paul Charles Aymard Sartre, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1945-10-01 (48.9, 2.3), 2: Jean-Paul Charles Aymard Sartre, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1955-09-01 (39.9, 116.4), 2: Jean-Paul Charles Aymard Sartre, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1960-03-01 (23.1, -82.4), 2: Jean-Paul Charles Aymard Sartre, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1980-04-19 (48.8, 2.3), 2: Jean-Paul Charles Aymard Sartre, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1991-07-01 (40.0, -83.0), 2: Jeffrey Edward Epstein, Leslie Herbert Wexner
+- 2019-07-06 (40.8, -74.0), 2: Jeffrey Edward Epstein, Leon David Black
+- 0029-03-01 (32.7, 35.3), 2: Jesus of Nazareth (Yeshua, the Christ), Mary Magdalene (Maria Magdalena)
+- 0029-05-01 (32.9, 35.6), 2: Jesus of Nazareth (Yeshua, the Christ), Mary Magdalene (Maria Magdalena)
+- 0029-05-20 (32.6, 35.4), 2: Jesus of Nazareth (Yeshua, the Christ), Mary Magdalene (Maria Magdalena)
+- 0032-02-01 (31.8, 35.3), 2: Jesus of Nazareth (Yeshua, the Christ), Mary Magdalene (Maria Magdalena)
+- 0033-03-25 (31.9, 35.5), 2: Jesus of Nazareth (Yeshua, the Christ), Mary Magdalene (Maria Magdalena)
+- 0033-03-28 (31.8, 35.3), 2: Jesus of Nazareth (Yeshua, the Christ), Mary Magdalene (Maria Magdalena)
+- 0033-04-03 (31.8, 35.2), 2: Jesus of Nazareth (Yeshua, the Christ), Mary Magdalene (Maria Magdalena)
+- 0033-04-05 (31.8, 35.2), 2: Jesus of Nazareth (Yeshua, the Christ), Mary Magdalene (Maria Magdalena)
+- 1429-03-06 (47.2, 0.2), 2: Joan of Arc (Jehanne la Pucelle), Yolande of Aragon
+- 1429-03-18 (46.6, 0.3), 2: Joan of Arc (Jehanne la Pucelle), Yolande of Aragon
+- 1429-04-05 (47.4, 0.7), 2: Joan of Arc (Jehanne la Pucelle), Yolande of Aragon
+- 1429-04-25 (47.6, 1.3), 2: Joan of Arc (Jehanne la Pucelle), Yolande of Aragon
+- 1429-09-13 (48.9, 2.4), 2: Joan of Arc (Jehanne la Pucelle), Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii
+- 1430-08-15 (50.0, 3.3), 2: Joan of Arc (Jehanne la Pucelle), Margarita / Marina / Pelagia, the Pearl of the Three Waters
+- 1431-02-24 (49.4, 1.1), 2: Joan of Arc (Jehanne la Pucelle), Margarita / Marina / Pelagia, the Pearl of the Three Waters
+- 1912-04-05 (-34.6, -58.4), 2: Joaquín Trincado Mateo, Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 1223-12-25 (42.5, 12.8), 2: Joffrey de Bourlémont (Jofridus, dominus de Borlenmont), Pierre Bourlémont (Pierre II, sire de Bourlémont)
+- 1425-06-24 (48.4, 5.7), 2: Joffrey de Bourlémont (Jofridus, dominus de Borlenmont), Saint Barbara of Heliopolis (Bárbara)
+- 1427-12-04 (48.4, 5.7), 2: Joffrey de Bourlémont (Jofridus, dominus de Borlenmont), Saint Barbara of Heliopolis (Bárbara)
+- 1302-09-26 (34.9, 35.9), 2: Jacques de Molay, Jaufre Rudel, prince of Blaye (Joffrey Rudel)
+- 1694-12-31 (51.5, -0.1), 2: Johan Palmstruch (born Hans Witmacker), William Paterson
+- 1507-08-20 (49.8, 10.0), 2: Johann Georg Faust (Georgius Sabellicus Faustus junior), Johannes Trithemius (Johann von Heidenberg), abbot of Sponheim and of St James's at Würzburg
+- 1528-06-17 (48.8, 11.4), 2: Johann Georg Faust (Georgius Sabellicus Faustus junior), San Vito (Vitus of Lucania, Sankt Veit, Svaty Vit, Sveti Vid)
+- 1869-11-12 (41.9, 12.5), 2: Johann Friedrich Overbeck, Peter von Cornelius
+- 1813-10-18 (51.3, 12.4), 2: Friedrich Ludwig Jahn, Napoleon Bonaparte
+- 1866-11-17 (48.9, 2.3), 2: Johann Heinrich Wilhelm Tischbein, Paul Jules Barbier
+- 1907-02-01 (41.9, 12.5), 2: Hermann Graf von Keyserling, Johann Heinrich Wilhelm Tischbein
+- 1944-04-01 (40.7, -74.0), 2: John Milton Cage Jr., Merce Cunningham (Mercier Philip Cunningham)
+- 1953-08-01 (35.6, -82.3), 2: John Milton Cage Jr., Merce Cunningham (Mercier Philip Cunningham)
+- 1992-08-12 (40.7, -74.0), 2: John Milton Cage Jr., Merce Cunningham (Mercier Philip Cunningham)
+- 1992-09-01 (41.2, -74.0), 2: John Milton Cage Jr., Merce Cunningham (Mercier Philip Cunningham)
+- 1888-02-01 (40.7, -74.0), 2: Geneviève Stebbins, John Davison Rockefeller Sr.
+- 1937-04-10 (19.4, -99.2), 2: John Dewey, Lev Davidovich Bronstein (Leon Trotsky)
+- 1851-05-01 (51.5, -0.1), 2: John Ruskin, Sir John Everett Millais, 1st Baronet
+- 1853-07-01 (56.2, -4.4), 2: John Ruskin, Sir John Everett Millais, 1st Baronet
+- 1954-12-02 (38.9, -77.0), 2: John Foster Dulles, Prescott Sheldon Bush
+- 1776-07-04 (39.9, -75.2), 2: John Locke, Thomas Jefferson
+- 1802-11-22 (50.8, -0.7), 2: John Locke, William Blake
+- 1906-10-01 (51.5, -0.1), 2: John Maynard Keynes, 1st Baron Keynes of Tilton, Joseph Alois Schumpeter
+- 1919-06-01 (51.5, -0.1), 2: John Maynard Keynes, 1st Baron Keynes of Tilton, Nicholas Konstantinovich Roerich (Nikolai Konstantinovich Rerikh)
+- 1900-05-01 (45.4, 12.3), 2: John Ruskin, Marcel Proust
+- 1926-09-01 (51.5, 9.9), 2: J. Robert Oppenheimer, John von Neumann (Neumann János Lajos, margittai Neumann János)
+- 1847-02-11 (41.3, -82.6), 2: John Chapman, called Johnny Appleseed, Thomas Alva Edison
+- 1939-02-01 (42.5, 2.9), 2: José Antonio de Aguirre y Lecube, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1811-08-01 (-19.6, -65.8), 2: José Antonio de la Sierra (José Antonio de Sierra), Juan Martín de Pueyrredón y O'Doggan
+- 1859-10-23 (-33.4, -60.6), 2: José Rafael Hernández, Julio Argentino Roca
+- 1861-09-17 (-33.2, -60.2), 2: José Rafael Hernández, Julio Argentino Roca
+- 1871-01-26 (-29.2, -59.3), 2: José Rafael Hernández, Julio Argentino Roca
+- 1973-02-01 (41.9, 12.5), 2: José López Rega (El Brujo), Licio Gelli
+- 1973-05-25 (-34.6, -58.4), 2: José López Rega (El Brujo), Licio Gelli
+- 1973-06-20 (-34.8, -58.5), 2: José López Rega (El Brujo), Juan Domingo Perón
+- 1958-12-01 (43.3, -2.4), 2: José Luis Álvarez Enparantza (Txillardegi), Julen Kerman Madariaga Agirre
+- 1959-07-31 (43.3, -2.9), 2: José Luis Álvarez Enparantza (Txillardegi), Julen Kerman Madariaga Agirre
+- 1892-03-01 (40.7, -74.0), 2: José Julián Martí Pérez (José Martí), William R. Bradshaw
+- 1878-06-01 (48.9, 2.4), 2: Joseph Alexandre Saint-Yves, Marquis d'Alveydre, Sarah Bernhardt (Henriette-Rosine Bernard)
+- 1889-05-06 (48.9, 2.3), 2: Joseph-Antoine Bouvard, Pedro Simón del Corazón de Jesús Benoit
+- 1798-05-19 (43.1, 5.9), 2: Jean-Baptiste Joseph Fourier, Pierre-François-Xavier Bouchard
+- 1798-07-21 (30.1, 31.2), 2: Jean-Baptiste Joseph Fourier, Pierre-François-Xavier Bouchard
+- 1815-03-01 (43.6, 7.1), 2: Jean-Baptiste Joseph Fourier, Napoleon Bonaparte
+- 1793-08-08 (48.9, 2.3), 2: Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia), René Just Haüy
+- 1794-05-08 (48.9, 2.3), 2: Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia), René Just Haüy
+- 1795-07-06 (48.8, 2.3), 2: Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia), Pierre-Simon Laplace, marquis de Laplace
+- 1799-12-25 (48.8, 2.3), 2: Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia), Pierre-Simon Laplace, marquis de Laplace
+- 1703-05-03 (48.2, 16.4), 2: Joseph Süß Oppenheimer, Samuel Oppenheimer
+- 1904-10-01 (48.2, 16.4), 2: Joseph Alois Schumpeter, Ludwig Heinrich Edler von Mises
+- 1918-11-01 (52.5, 13.4), 2: Joseph Alois Schumpeter, Rudolf Rocker
+- 1925-02-01 (48.2, 16.4), 2: Joseph Alois Schumpeter, Theodor W. Adorno (Theodor Ludwig Wiesengrund)
+- 1880-12-15 (-34.6, -58.4), 2: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Torcuato Antonio de Alvear
+- 1883-08-12 (-34.6, -58.4), 2: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Torcuato Antonio de Alvear
+- 1883-08-09 (-34.6, -58.4), 2: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Torcuato Antonio de Alvear
+- 1884-05-08 (-34.6, -58.4), 2: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Torcuato Antonio de Alvear
+- 1886-03-18 (-34.6, -58.4), 2: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Jules Dormal Godet (Julio Dormal)
+- 1888-05-25 (-34.6, -58.4), 2: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Torcuato Antonio de Alvear
+- 1894-07-09 (-34.6, -58.4), 2: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Torcuato Antonio de Alvear
+- 1949-06-01 (48.9, 2.3), 2: Juan Eduardo Cirlot Laporta, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1835-04-16 (-34.6, -58.4), 2: Juan Manuel José Domingo Ortiz de Rozas y López de Osornio (Juan Manuel de Rosas), María Remedios del Valle
+- 1838-10-20 (-34.6, -58.4), 2: Juan Manuel José Domingo Ortiz de Rozas y López de Osornio (Juan Manuel de Rosas), Marta María Ezcurra Real de Azúa
+- 1811-09-01 (-24.2, -65.3), 2: Juan Martín de Pueyrredón y O'Doggan, María Remedios del Valle
+- 1816-11-01 (-32.8, -68.8), 2: José de San Martín, Juan Martín de Pueyrredón y O'Doggan
+- 1821-03-01 (-34.6, -58.4), 2: Juan Martín de Pueyrredón y O'Doggan, Próspero Catelin (Thomas Prosper Catelin)
+- 1931-03-01 (-34.6, -58.4), 2: Juan Domingo Perón, Silvina Ocampo
+- 1940-06-10 (41.9, 12.5), 2: Benito Mussolini, Juan Domingo Perón
+- 1817-04-01 (-24.8, -65.4), 2: Juana Azurduy de Padilla, Martín Miguel de Güemes
+- 1819-03-01 (-24.4, -65.2), 2: Juana Azurduy de Padilla, Martín Miguel de Güemes
+- 1882-11-27 (-34.9, -57.9), 2: Jules Dormal Godet (Julio Dormal), Pedro Simón del Corazón de Jesús Benoit
+- 1906-05-12 (-34.6, -58.4), 2: Jules Dormal Godet (Julio Dormal), Vittorio Meano (Victor Meano)
+- 1895-06-20 (47.6, 7.6), 2: Carl Gustav Jung, Samuel Preiswerk
+- 1923-01-15 (47.3, 8.6), 2: Carl Gustav Jung, Samuel Preiswerk
+- 1951-08-20 (46.1, 8.8), 2: Carl Gustav Jung, Olga Fröbe-Kapteyn
+- 1959-05-05 (47.3, 8.6), 2: Carl Gustav Jung, Miguel Serrano
+- 0553-05-05 (41.0, 29.0), 2: Justinian I (Flavius Petrus Sabbatius Iustinianus), Origen of Alexandria (Origenes Adamantius)
+- 1872-09-02 (52.1, 4.3), 2: Karl Marx (the Moor), Mikhail Aleksandrovich Bakunin
+- 2015-11-24 (38.9, -77.0), 2: Katherine Johnson (Creola Katherine Coleman Goble Johnson), Steven Allan Spielberg
+- 1919-04-20 (47.4, 8.5), 2: Katja Wulff (Käthe Wulff), Vera Skoronel (Vera Lämmel)
+- 1992-04-05 (-12.1, -77.0), 2: Keiko Sofia Fujimori Higuchi, Susana Shizuko Higuchi Miyagawa
+- 1994-08-23 (-12.0, -77.0), 2: Keiko Sofia Fujimori Higuchi, Susana Shizuko Higuchi Miyagawa
+- 2006-07-26 (-12.0, -77.0), 2: Keiko Sofia Fujimori Higuchi, Susana Shizuko Higuchi Miyagawa
+- 2016-05-01 (-10.8, -77.8), 2: Keiko Sofia Fujimori Higuchi, Susana Shizuko Higuchi Miyagawa
+- 2021-12-08 (-12.1, -77.0), 2: Keiko Sofia Fujimori Higuchi, Susana Shizuko Higuchi Miyagawa
+- 1921-06-09 (49.9, 8.7), 2: Hermann Graf von Keyserling, Rabindranath Tagore (Robindronath Thakur)
+- -0971-01-02 (31.8, 35.2), 2: David ben Jesse, King of Israel, King Solomon (Shelomoh · Sulayman)
+- 1504-09-08 (43.8, 11.3), 2: David ben Jesse, King of Israel, Michelangelo di Lodovico Buonarroti Simoni
+- 2025-08-15 (46.2, 6.2), 2: Klaus Martin Schwab, Laurence Douglas "Larry" Fink
+- 1275-05-01 (42.4, 116.2), 2: Kublai Khan (Khubilai, Setsen Khan, Emperor Shizu of Yuan), Marco Polo (Messer Marco Milioni)
+- 1275-09-01 (39.9, 116.4), 2: Kublai Khan (Khubilai, Setsen Khan, Emperor Shizu of Yuan), Marco Polo (Messer Marco Milioni)
+- 1291-03-01 (24.9, 118.7), 2: Kublai Khan (Khubilai, Setsen Khan, Emperor Shizu of Yuan), Marco Polo (Messer Marco Milioni)
+- 1601-01-24 (39.9, 116.4), 2: Kublai Khan (Khubilai, Setsen Khan, Emperor Shizu of Yuan), Matteo Ricci (Li Madou, Xitai)
+- 0848-05-13 (47.5, 7.6), 2: Kyot-Willehalm, Parzival (Parzival von Waleis, son of Gahmuret of Anjou and Herzeloyde of Waleis)
+- 1890-12-15 (45.8, -100.9), 2: Lyman Frank Baum, Thathanka Iyotake (Sitting Bull), Hunkpapa Lakota
+- 1890-12-29 (43.1, -102.4), 2: Low Dog (Šúŋka Khúčiyela, Perro Bajo), Lyman Frank Baum
+- 1900-10-01 (48.9, 2.4), 2: Nicholas Konstantinovich Roerich (Nikolai Konstantinovich Rerikh), Rudolf Laban
+- 1912-10-01 (48.1, 11.6), 2: Rudolf Laban, Suzanne Perrottet
+- 2019-12-01 (31.8, 35.2), 2: Lawrence Joseph Ellison (Larry Ellison), Sheldon Gary Adelson
+- 2025-01-21 (38.9, -77.0), 2: Lawrence Joseph Ellison (Larry Ellison), Samuel Harris Altman
+- 2026-03-25 (38.9, -77.0), 2: Lawrence Joseph Ellison (Larry Ellison), Marc Lowell Andreessen
+- 2026-02-01 (40.7, -74.0), 2: Laurence Douglas "Larry" Fink, Yoshua Bengio
+- 1527-05-06 (41.9, 12.5), 2: Leo Africanus (al-Hasan ibn Muhammad al-Wazzan al-Fasi al-Gharnati), Pedro de Mendoza
+- 2014-06-01 (40.8, -74.0), 2: Leo Chiachio (of Chiachio & Giannone), Mark Brodsky
+- 2016-06-01 (40.8, -74.0), 2: Leon David Black, Mark Brodsky
+- 1921-03-01 (55.8, 37.6), 2: Lev Davidovich Bronstein (Leon Trotsky), Nikolai Aleksandrovich Bernstein
+- 1994-04-01 (34.0, -118.3), 2: Leonard Max Adleman, Steven Allan Spielberg
+- 2018-05-03 (38.9, -77.0), 2: Leonard Max Adleman, Ronald Linn Rivest
+- 1981-03-17 (43.5, 11.8), 2: Licio Gelli, Roberto Calvi
+- 1982-06-01 (45.5, 9.2), 2: Licio Gelli, Roberto Calvi
+- 1982-06-18 (51.5, -0.1), 2: Licio Gelli, Roberto Calvi
+- 2005-07-19 (41.9, 12.5), 2: Licio Gelli, Roberto Calvi
+- 1892-05-01 (40.7, -74.0), 2: Loïe Fuller (Marie Louise Fuller), William R. Bradshaw
+- 1907-12-23 (51.5, -0.1), 2: Sir Isaac Newton, William Thomson, 1st Baron Kelvin
+- 1789-05-05 (48.8, 2.1), 2: Louis XVI, Louis-Auguste de France, duc de Berry, King of France and Navarre, then King of the French, then Louis Capet, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1876-06-05 (45.4, -106.8), 2: Low Dog (Šúŋka Khúčiyela, Perro Bajo), Thathanka Iyotake (Sitting Bull), Hunkpapa Lakota
+- 1876-06-17 (45.2, -107.0), 2: Low Dog (Šúŋka Khúčiyela, Perro Bajo), Thathanka Iyotake (Sitting Bull), Hunkpapa Lakota
+- 1876-06-24 (45.6, -107.4), 2: Low Dog (Šúŋka Khúčiyela, Perro Bajo), Thathanka Iyotake (Sitting Bull), Hunkpapa Lakota
+- 1876-06-25 (45.6, -107.4), 2: Low Dog (Šúŋka Khúčiyela, Perro Bajo), Thathanka Iyotake (Sitting Bull), Hunkpapa Lakota
+- 1940-12-01 (42.4, -71.1), 2: Ludwig Heinrich Edler von Mises, Norbert Wiener
+- 1945-02-01 (40.7, -74.0), 2: Ludwig Heinrich Edler von Mises, Valeska Gert (Gertrud Valesca Samosch)
+- 1945-08-28 (29.6, 106.6), 2: Madame Chiang Kai-shek (Soong Mei-ling), Mao Zedong (Mao Tse-tung), Chairman of the Communist Party of China
+- 1774-04-11 (48.9, 2.3), 2: Marie Adrienne Françoise de Noailles, Marquise de Lafayette, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1779-12-24 (48.9, 2.3), 2: Marie Adrienne Françoise de Noailles, Marquise de Lafayette, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1795-10-15 (49.6, 17.3), 2: Marie Adrienne Françoise de Noailles, Marquise de Lafayette, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1797-09-19 (49.6, 17.3), 2: Marie Adrienne Françoise de Noailles, Marquise de Lafayette, Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette
+- 1947-08-15 (22.6, 88.4), 2: Mohandas Karamchand Gandhi (Mahatma Gandhi), Satyendra Nath Bose
+- 1824-12-09 (-13.0, -74.1), 2: Antonio José de Sucre, Manuela Sáenz de Vergara y Aizpuru
+- 1926-04-01 (42.0, 9.0), 2: J. Robert Oppenheimer, Marcel Proust
+- 1920-08-01 (40.8, -73.9), 2: Marcus Mosiah Garvey, Robert Finley
+- 0047-05-01 (37.9, 32.5), 2: Margarita / Marina / Pelagia, the Pearl of the Three Waters, Saint Thecla of Iconium (Thekla, Santa Tecla), protomartyr and equal to the apostles
+- 0047-05-10 (37.9, 32.5), 2: Margarita / Marina / Pelagia, the Pearl of the Three Waters, Saint Thecla of Iconium (Thekla, Santa Tecla), protomartyr and equal to the apostles
+- 0412-08-01 (31.8, 35.2), 2: Margarita / Marina / Pelagia, the Pearl of the Three Waters, San Antonio Abad (Antony the Great, Antonios of Coma)
+- 1814-08-01 (-24.8, -65.4), 2: Martín Miguel de Güemes, María Remedios del Valle
+- 1903-06-01 (51.5, -0.1), 2: Maria Salomea Skłodowska-Curie (Marie Curie), Pamela Colman Smith ("Pixie")
+- 2001-12-26 (-34.6, -58.4), 2: Mark Brodsky, Paul Elliott Singer
+- 2005-01-14 (-34.6, -58.4), 2: Mark Brodsky, Paul Elliott Singer
+- 2010-04-15 (-34.6, -58.4), 2: Mark Brodsky, Paul Elliott Singer
+- 2012-02-23 (40.7, -74.0), 2: Mark Brodsky, Paul Elliott Singer
+- 2012-10-26 (40.7, -74.0), 2: Mark Brodsky, Paul Elliott Singer
+- 2013-08-23 (40.7, -74.0), 2: Mark Brodsky, Paul Elliott Singer
+- 2014-06-16 (38.9, -77.0), 2: Mark Brodsky, Paul Elliott Singer
+- 2014-07-30 (-34.6, -58.4), 2: Mark Brodsky, Paul Elliott Singer
+- 2016-02-29 (40.8, -74.0), 2: Mark Brodsky, Paul Elliott Singer
+- 2016-03-31 (-34.6, -58.4), 2: Mark Brodsky, Paul Elliott Singer
+- 2022-12-22 (40.7, -74.0), 2: Mark Stewart Cohen, Sam Bankman-Fried (Samuel Benjamin Bankman-Fried)
+- 2023-01-03 (40.7, -74.0), 2: Mark Stewart Cohen, Sam Bankman-Fried (Samuel Benjamin Bankman-Fried)
+- 2023-08-11 (40.7, -74.0), 2: Mark Stewart Cohen, Sam Bankman-Fried (Samuel Benjamin Bankman-Fried)
+- 2023-10-03 (40.7, -74.0), 2: Mark Stewart Cohen, Sam Bankman-Fried (Samuel Benjamin Bankman-Fried)
+- 2023-11-02 (40.7, -74.0), 2: Mark Stewart Cohen, Sam Bankman-Fried (Samuel Benjamin Bankman-Fried)
+- 2024-03-28 (40.7, -74.0), 2: Mark Stewart Cohen, Sam Bankman-Fried (Samuel Benjamin Bankman-Fried)
+- 1995-12-01 (52.4, -1.6), 2: Mark Fisher, Nick Land
+- 1953-05-10 (-34.6, -58.4), 2: Marta María Ezcurra Real de Azúa, Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo)
+- 1930-12-28 (40.8, -74.0), 2: Martha Graham, Mary Wigman (Karoline Sofie Marie Wiegmann)
+- 1944-10-30 (38.9, -77.0), 2: Martha Graham, Merce Cunningham (Mercier Philip Cunningham)
+- 1991-10-01 (40.7, -74.0), 2: Martha Graham, Oliver Laurence North
+- 1814-01-17 (-25.6, -65.0), 2: José de San Martín, Martín Miguel de Güemes
+- 1814-01-29 (-26.8, -65.2), 2: José de San Martín, Martín Miguel de Güemes
+- 1913-08-20 (46.2, 8.8), 2: Mary Wigman (Karoline Sofie Marie Wiegmann), Suzanne Perrottet
+- 1928-11-01 (-34.6, -58.4), 2: Max Glücksmann (Mordechai David Glücksmann), Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 1937-10-01 (48.9, 2.4), 2: Max Horkheimer, Theodor W. Adorno (Theodor Ludwig Wiesengrund)
+- 2002-02-15 (40.8, -74.0), 2: Max Rafailovich Levchin, Peter Andreas Thiel
+- 2002-10-03 (37.3, -121.9), 2: Max Rafailovich Levchin, Peter Andreas Thiel
+- 1896-05-28 (51.8, -1.3), 2: Friedrich Max Müller, Narendranath Datta, in religion Swami Vivekananda
+- 1918-10-01 (52.5, 13.4), 2: Max Moritz Warburg, Valeska Gert (Gertrud Valesca Samosch)
+- 1815-06-18 (50.7, 4.4), 2: Mayer Amschel Rothschild, Napoleon Bonaparte
+- 1939-10-01 (40.7, -74.0), 2: Merce Cunningham (Mercier Philip Cunningham), Wilhelm Reich
+- 1964-06-24 (48.2, 16.4), 2: Merce Cunningham (Mercier Philip Cunningham), Viola Farber
+- 1760-05-25 (-14.2, -71.6), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1780-11-10 (-14.2, -71.5), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1780-11-16 (-14.2, -71.5), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1780-11-18 (-14.0, -71.6), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1781-01-04 (-13.5, -71.9), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1781-04-07 (-14.4, -71.3), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1781-05-15 (-13.5, -72.0), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1781-05-18 (-13.5, -72.0), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1781-05-19 (-13.5, -72.0), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1781-06-01 (-14.2, -71.5), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Micaela Bastidas Puyucahua
+- 1974-04-01 (45.5, 9.2), 2: Michele Sindona, Roberto Calvi
+- 1974-10-08 (40.7, -73.6), 2: Michele Sindona, Paul Casimir Marcinkus
+- 1849-05-09 (51.1, 13.7), 2: Mikhail Aleksandrovich Bakunin, Wilhelm Richard Wagner
+- 1798-01-15 (51.5, -0.1), 2: Bernardo O'Higgins Riquelme, Francisco de Miranda
+- 1951-04-28 (35.7, 51.4), 2: Mohammad Mosaddegh, Mohammad Reza Shah Pahlavi
+- 1953-08-16 (35.7, 51.4), 2: Mohammad Mosaddegh, Mohammad Reza Shah Pahlavi
+- 1953-08-16 (36.9, 50.7), 2: Mohammad Mosaddegh, Mohammad Reza Shah Pahlavi
+- 1967-03-07 (36.0, 50.5), 2: Mohammad Mosaddegh, Mohammad Reza Shah Pahlavi
+- 1997-10-22 (-25.7, 28.2), 2: Muammar Muhammad Abu Minyar al-Gaddafi, Nelson Rolihlahla Mandela (Madiba)
+- 2008-08-30 (32.1, 20.1), 2: Muammar Muhammad Abu Minyar al-Gaddafi, Silvio Berlusconi
+- 2009-06-01 (41.9, 12.5), 2: Muammar Muhammad Abu Minyar al-Gaddafi, Silvio Berlusconi
+- 1904-10-01 (48.9, 2.3), 2: Nadia Boulanger (Juliette Nadia Boulanger), René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1939-02-01 (40.8, -74.0), 2: Nadia Boulanger (Juliette Nadia Boulanger), Valeska Gert (Gertrud Valesca Samosch)
+- 1785-09-01 (48.9, 2.3), 2: Napoleon Bonaparte, Pierre-Simon Laplace, marquis de Laplace
+- 1798-07-01 (31.2, 29.9), 2: Napoleon Bonaparte, Pierre-François-Xavier Bouchard
+- 1686-04-28 (51.5, -0.1), 2: Robert Hooke, Sir Isaac Newton
+- 1893-09-01 (59.9, 30.3), 2: Nicholas Konstantinovich Roerich (Nikolai Konstantinovich Rerikh), Vladimir Ilyich Ulyanov (Lenin)
+- 1926-06-01 (55.8, 37.6), 2: Nicholas Konstantinovich Roerich (Nikolai Konstantinovich Rerikh), Nikolai Aleksandrovich Bernstein
+- 2008-10-31 (37.4, -122.1), 2: Nick Szabo, Ralph Charles Merkle
+- 1868-11-08 (51.3, 12.4), 2: Friedrich Nietzsche, Wilhelm Richard Wagner
+- 1872-05-22 (50.0, 11.6), 2: Friedrich Nietzsche, Wilhelm Richard Wagner
+- 1876-08-13 (50.0, 11.6), 2: Friedrich Nietzsche, Wilhelm Richard Wagner
+- 1883-02-01 (44.3, 9.2), 2: Friedrich Nietzsche, Wilhelm Richard Wagner
+- 1888-11-01 (45.1, 7.7), 2: Friedrich Nietzsche, Wilhelm Richard Wagner
+- 1896-01-25 (51.1, 11.8), 2: Friedrich Nietzsche, Rudolf Steiner
+- 1960-06-27 (55.8, 37.6), 2: Nikolai Aleksandrovich Bernstein, Norbert Wiener
+- 1772-05-02 (51.7, 11.5), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1790-06-01 (51.5, 11.5), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1790-10-01 (50.9, 11.6), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1791-10-01 (51.3, 12.4), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1794-06-01 (51.9, 12.6), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1794-11-17 (51.2, 11.0), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1797-03-19 (51.2, 11.0), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1797-05-13 (51.2, 11.0), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1797-12-01 (50.9, 13.3), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1798-07-01 (51.1, 13.7), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1798-12-01 (50.9, 13.3), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1799-11-11 (50.9, 11.6), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1801-03-25 (51.2, 12.0), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1801-03-29 (51.2, 12.0), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1817-01-05 (-32.9, -68.8), 2: Bernardo O'Higgins Riquelme, José de San Martín
+- 1818-03-19 (-35.4, -71.7), 2: Bernardo O'Higgins Riquelme, José de San Martín
+- 1818-04-05 (-33.5, -70.8), 2: Bernardo O'Higgins Riquelme, José de San Martín
+- 1820-08-20 (-33.0, -71.6), 2: Bernardo O'Higgins Riquelme, José de San Martín
+- 1962-04-25 (46.1, 8.8), 2: Olga Fröbe-Kapteyn, Rudolf Ritsema
+- 1986-11-21 (38.9, -77.0), 2: Oliver Laurence North, William Joseph Casey
+- 1895-11-01 (51.5, -0.2), 2: Narendranath Datta, in religion Swami Vivekananda, Oscar Fingal O'Fflahertie Wills Wilde
+- 1925-04-01 (51.8, 12.2), 2: Oskar Alfred Victor Schlemmer, Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1893-09-11 (41.9, -87.6), 2: Narendranath Datta, in religion Swami Vivekananda, Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1917-02-01 (41.9, 12.5), 2: Pablo Ruiz Picasso, Sergei Pavlovich Diaghilev
+- 1926-02-26 (40.9, 14.6), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1935-01-19 (40.7, 14.5), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1955-04-27 (40.9, 14.6), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1955-04-27 (40.7, 14.5), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1955-07-16 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1955-07-17 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1955-10-04 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1955-10-14 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1959-04-07 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1959-05-16 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1965-04-17 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 2021-12-29 (40.7, 14.5), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1926-07-01 (51.8, 12.2), 2: Paul Klee, Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1981-09-01 (41.9, 12.5), 2: Paul Casimir Marcinkus, Roberto Calvi
+- 1984-05-25 (46.2, 6.1), 2: Paul Casimir Marcinkus, Roberto Calvi
+- 2013-01-09 (-34.6, -58.4), 2: Paul Elliott Singer, Sergio Demian Lerner
+- 1910-05-25 (-34.6, -58.4), 2: Pedro Subercaseaux Errázuriz (Fray Pedro, Dom Pedro OSB), Troiano Troiani
+- 1985-09-01 (37.4, -122.2), 2: Peter Andreas Thiel, Reid Garrett Hoffman
+- 2017-11-01 (37.4, -122.1), 2: Peter Andreas Thiel, Samuel Harris Altman
+- 1892-10-01 (51.0, 11.3), 2: Philipp Griebel of Gräfenroda, Rudolf Steiner
+- 1180-06-05 (43.8, 4.7), 2: Pica Bourlémont (Giovanna, Madonna Pica), Pierre Bourlémont (Pierre II, sire de Bourlémont)
+- 1180-06-24 (43.8, 4.7), 2: Pica Bourlémont (Giovanna, Madonna Pica), Pierre Bourlémont (Pierre II, sire de Bourlémont)
+- 1182-01-08 (43.1, 12.6), 2: Francis of Assisi (Francesco di Pietro di Bernardone), Pica Bourlémont (Giovanna, Madonna Pica)
+- 1200-06-24 (43.1, 12.6), 2: Francis of Assisi (Francesco di Pietro di Bernardone), Pica Bourlémont (Giovanna, Madonna Pica)
+- 1204-03-01 (43.1, 12.6), 2: Francis of Assisi (Francesco di Pietro di Bernardone), Pica Bourlémont (Giovanna, Madonna Pica)
+- 1206-04-10 (43.1, 12.6), 2: Francis of Assisi (Francesco di Pietro di Bernardone), Pica Bourlémont (Giovanna, Madonna Pica)
+- 1226-10-03 (43.1, 12.6), 2: Francis of Assisi (Francesco di Pietro di Bernardone), Pica Bourlémont (Giovanna, Madonna Pica)
+- 1924-11-06 (-34.6, -58.4), 2: Rabindranath Tagore (Robindronath Thakur), Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo)
+- 1924-11-20 (-34.5, -58.5), 2: Rabindranath Tagore (Robindronath Thakur), Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo)
+- 1935-07-01 (23.7, 87.7), 2: Rabindranath Tagore (Robindronath Thakur), Savitri Devi (Maximiani Portas)
+- 1964-04-22 (40.7, -73.8), 2: Robert Moses, Walter Elias Disney
+- 1929-06-01 (47.4, 8.5), 2: J. Robert Oppenheimer, Wolfgang Ernst Pauli
+- 1906-08-01 (60.2, 29.9), 2: Rosa Luxemburg (Rozalia Luksenburg), Vladimir Ilyich Ulyanov (Lenin)
+- 1244-12-01 (37.9, 32.5), 2: Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi), Shams al-Din Muhammad of Tabriz (Shams-e Tabrizi, Shams-e Parande)
+- 1247-08-01 (37.9, 32.5), 2: Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi), Shams al-Din Muhammad of Tabriz (Shams-e Tabrizi, Shams-e Parande)
+- 1247-12-05 (37.9, 32.5), 2: Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi), Shams al-Din Muhammad of Tabriz (Shams-e Tabrizi, Shams-e Parande)
+- 1914-03-01 (40.8, -74.0), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1914-08-13 (40.7, -74.0), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1915-02-06 (45.5, -122.7), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1915-06-01 (34.1, -118.3), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1925-10-01 (18.9, 72.8), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1925-11-01 (6.9, 79.9), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1925-12-01 (16.8, 96.2), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1926-02-01 (-6.1, 106.8), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1926-03-01 (31.2, 121.5), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1926-04-01 (35.7, 139.7), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1926-05-01 (14.6, 121.0), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1445-09-24 (50.1, 11.1), 2: Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Eustace (Placidus, Eustathios), with Theopista, Agapius and Theopistus
+- 1446-06-28 (50.1, 11.1), 2: Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo)
+- 1772-09-14 (50.1, 11.1), 2: Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Eustace (Placidus, Eustathios), with Theopista, Agapius and Theopistus
+- 0303-03-01 (34.0, 36.2), 2: Saint Barbara of Heliopolis (Bárbara), Saint Cyriacus of Rome (Kyriakos, Ciriaco, Cyriakus, Cyriaque), deacon and martyr
+- 1446-06-24 (50.1, 11.1), 2: Saint Barbara of Heliopolis (Bárbara), San Vito (Vitus of Lucania, Sankt Veit, Svaty Vit, Sveti Vid)
+- 1144-06-11 (48.9, 2.4), 2: Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii, Saint Eustace (Placidus, Eustathios), with Theopista, Agapius and Theopistus
+- 1972-10-09 (-33.4, -70.7), 2: Anthony Stafford Beer, Salvador Guillermo Allende Gossens
+- 1972-12-30 (-33.4, -70.6), 2: Anthony Stafford Beer, Salvador Guillermo Allende Gossens
+- 1913-09-10 (-34.6, -58.4), 2: Sergei Pavlovich Diaghilev, Vaslav Nijinsky (Wacław Niżyński)
+- 2016-02-09 (52.5, 13.4), 2: Slavoj Žižek, Yanis Varoufakis (Ioannis Georgiou Varoufakis)
+- 1882-06-01 (40.7, -74.0), 2: Geneviève Stebbins, Thomas Alva Edison
+- 1919-09-01 (47.4, 8.5), 2: Suzanne Perrottet, Vera Skoronel (Vera Lämmel)
+- 1960-08-23 (23.1, -82.4), 2: Teté Puebla (Delsa Esther Puebla Viltres), Vilma Espín Guillois
+- 1892-04-01 (40.7, -74.0), 2: Thomas Alva Edison, William R. Bradshaw
+- 1903-06-01 (-34.6, -58.4), 2: Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo), Vittorio Meano (Victor Meano)
+- 2026-01-15 (45.5, -73.6), 2: Yoshua Bengio, Yuval Noah Harari
+
+## Jan-1-placeholder convergences, largest first (1402)
+
+CAVEAT: '-01-01' here usually means only the year is attested; same place and year, not necessarily the same day.
+
+- 1920-01-01 (-34.6, -58.4), 13: Alberto Gerchunoff (born Abraham Gerchunoff), Alejandro Christophersen, Carlos Gardel (Charles Romuald Gardes), Carlos María della Paolera, Joaquín Trincado Mateo, Jules Dormal Godet (Julio Dormal), Mario Palanti, Max Glücksmann (Mordechai David Glücksmann), Osvaldo Pedro Pugliese, Pío Collivadino, Raquel Liberman (Ruchla Laja Liberman), Troiano Troiani, Virginio Colombo
+- 1910-01-01 (-34.6, -58.4), 12: Ada Falcón (Aída Elsa Ada Falcone), Francisco Gianotti (Francesco Terenzio Gianotti), Joaquín Trincado Mateo, Joseph-Antoine Bouvard, Jules Charles (Carlos) Thays, Jules-Félix Coutan, Luis Perlotti, Pío Collivadino, Troiano Troiani, Virginio Colombo, Vittorio Meano (Victor Meano), Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1941-01-01 (-34.6, -58.4), 11: Ada Falcón (Aída Elsa Ada Falcone), Astor Pantaleón Piazzolla, Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Emir Emin Arslan (al-Amir Amin Majid Arslan), Enrique Santos Discépolo, George Balanchine (Georgiy Melitonovich Balanchivadze), Julio Argentino Roca, Pío Collivadino, Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo), Xul Solar (Oscar Agustin Alejandro Schulz Solari), Ángel della Valle
+- 1950-01-01 (-34.6, -58.4), 11: Adolfo Bioy Casares, Alberto Gerchunoff (born Abraham Gerchunoff), Arshag Shorjian, Astor Pantaleón Piazzolla, Auguste Rodin (François Auguste René Rodin), El Gólem, Francisco Salamone (Francesco Salamone), Haydée Tamara Bunke Bíder (Tania la Guerrillera), Jorge Luis Borges, Luis Perlotti, Raúl Veroni (Raoul Veroni), the elder
+- 1927-01-01 (-34.6, -58.4), 11: Alberto Gerchunoff (born Abraham Gerchunoff), Alejandro Christophersen, Carlos Gardel (Charles Romuald Gardes), Enrique Santos Discépolo, Francisco Gianotti (Francesco Terenzio Gianotti), Luis Perlotti, Mario Palanti, Osvaldo Pedro Pugliese, Raquel Liberman (Ruchla Laja Liberman), Troiano Troiani, Virginio Colombo
+- 1925-01-01 (-34.6, -58.4), 11: Enrique Santos Discépolo, Jean-Claude Nicolas Forestier, Joaquín Trincado Mateo, Marta María Ezcurra Real de Azúa, Max Glücksmann (Mordechai David Glücksmann), Pío Collivadino, Raquel Liberman (Ruchla Laja Liberman), Troiano Troiani, Viktor Sulčič, Virginio Colombo, Vito Dumas
+- 1909-01-01 (-34.6, -58.4), 10: Ada Falcón (Aída Elsa Ada Falcone), Alejandro Christophersen, Francisco Gianotti (Francesco Terenzio Gianotti), Joaquín Trincado Mateo, Joseph-Antoine Bouvard, Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Jules Dormal Godet (Julio Dormal), Mario Palanti, Pedro Subercaseaux Errázuriz (Fray Pedro, Dom Pedro OSB), Virginio Colombo
+- 1931-01-01 (-34.6, -58.4), 10: Ada Falcón (Aída Elsa Ada Falcone), Carlos María della Paolera, Enrique Santos Discépolo, Joaquín Trincado Mateo, Marta María Ezcurra Real de Azúa, Max Glücksmann (Mordechai David Glücksmann), Raquel Liberman (Ruchla Laja Liberman), Troiano Troiani, Victoria Ocampo (Ramona Victoria Epifanía Rufina Ocampo), Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 1935-01-01 (-34.6, -58.4), 10: Ada Falcón (Aída Elsa Ada Falcone), Emir Emin Arslan (al-Amir Amin Majid Arslan), Enrique Santos Discépolo, Jiddu Krishnamurti, Julio Florencio Cortázar Descotte, Marcel Proust, Osvaldo Pedro Pugliese, Pío Collivadino, Troiano Troiani, Viktor Sulčič
+- 1930-01-01 (-34.6, -58.4), 9: Ada Falcón (Aída Elsa Ada Falcone), Arshag Shorjian, Enrique Santos Discépolo, Francisco Gianotti (Francesco Terenzio Gianotti), Jean-Baptiste Alliette, called Etteilla, Mario Palanti, Marta María Ezcurra Real de Azúa, Max Glücksmann (Mordechai David Glücksmann), Troiano Troiani
+- 1900-01-01 (-34.6, -58.4), 9: Agustí Querol i Subirats (Agustín Querol Subirats), Eugène Py (Eugenio Py), Felix José Weil, Max Glücksmann (Mordechai David Glücksmann), Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo), Torcuato Antonio de Alvear, Xul Solar (Oscar Agustin Alejandro Schulz Solari), Ángel Gregorio Villoldo (born Ghigiola Roggio), Ángel della Valle
+- 1905-01-01 (-34.6, -58.4), 9: Alejandro Christophersen, Francisco Salamone (Francesco Salamone), Joaquín Trincado Mateo, Jorge Luis Borges, Jules Dormal Godet (Julio Dormal), Max Glücksmann (Mordechai David Glücksmann), Torcuato Antonio de Alvear, Xul Solar (Oscar Agustin Alejandro Schulz Solari), Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1912-01-01 (-34.6, -58.4), 9: Alfonsina Storni, Carlos Gardel (Charles Romuald Gardes), Francisco Gianotti (Francesco Terenzio Gianotti), Francisco Salamone (Francesco Salamone), Jules Charles (Carlos) Thays, Jules Dormal Godet (Julio Dormal), Pío Collivadino, Virginio Colombo, Vito Dumas
+- 1900-01-01 (48.9, 2.3), 9: Alphonse Mucha (Alfons Maria Mucha), Joseph-Antoine Bouvard, Jules-Félix Coutan, Lionel-Noël Royer, Loïe Fuller (Marie Louise Fuller), Luc-Olivier Merson, Marie Sophie Taglioni, Pedro Subercaseaux Errázuriz (Fray Pedro, Dom Pedro OSB), Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1996-01-01 (-34.6, -58.4), 9: Charly García, Daniel Gastón Schávelzon, Eduardo Sergio Elsztain, Emiliano Kargieman, Javier Gerardo Milei, Jules Charles (Carlos) Thays, Leo Chiachio (of Chiachio & Giannone), Marta María Ezcurra Real de Azúa, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1944-01-01 (-34.6, -58.4), 9: Astor Pantaleón Piazzolla, Haydée Tamara Bunke Bíder (Tania la Guerrillera), Marta María Ezcurra Real de Azúa, Max Glücksmann (Mordechai David Glücksmann), Pío Collivadino, Raúl Veroni (Raoul Veroni), the elder, Vito Dumas, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich), Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 1969-01-01 (41.9, 12.5), 9: Giuseppe Tucci, Michele Sindona, Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Cyriacus of Rome (Kyriakos, Ciriaco, Cyriakus, Cyriaque), deacon and martyr, Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii, Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo), Saint Eustace (Placidus, Eustathios), with Theopista, Agapius and Theopistus, San Cristobal (Christopher of Lycia, born Reprobus / Adokimos of the Marmaritae), San Vito (Vitus of Lucania, Sankt Veit, Svaty Vit, Sveti Vid)
+- 1919-01-01 (-34.6, -58.4), 8: Ada Falcón (Aída Elsa Ada Falcone), Alfonsina Storni, Francisco Gianotti (Francesco Terenzio Gianotti), Joaquín Trincado Mateo, Jules Dormal Godet (Julio Dormal), Julio Florencio Cortázar Descotte, Mario Palanti, Max Glücksmann (Mordechai David Glücksmann)
+- 1933-01-01 (-34.6, -58.4), 8: Ada Falcón (Aída Elsa Ada Falcone), Adolfo Bioy Casares, Alberto Gerchunoff (born Abraham Gerchunoff), Arshag Shorjian, Carlos María della Paolera, Enrique Santos Discépolo, Joaquín Trincado Mateo, Viktor Sulčič
+- 1945-01-01 (-34.6, -58.4), 8: Adolfo Bioy Casares, Alberto Gerchunoff (born Abraham Gerchunoff), Enrique Santos Discépolo, Francisco Salamone (Francesco Salamone), Raúl Veroni (Raoul Veroni), the elder, Silvina Ocampo, Vito Dumas, Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 1967-01-01 (48.9, 2.4), 8: Adolfo Bioy Casares, Cristóbal Balenciaga Eizaguirre, Francois Marie Charles Fourier, Jacques Derrida (born Jackie Elie Derrida), Jacques Marie Émile Lacan, Louis Vuitton, Pierre-Félix Guattari, Roland Gérard Barthes
+- 1922-01-01 (-34.6, -58.4), 8: Alberto Gerchunoff (born Abraham Gerchunoff), Felix José Weil, Joaquín Trincado Mateo, Jules Dormal Godet (Julio Dormal), Luis Perlotti, Osvaldo Pedro Pugliese, Torcuato Antonio de Alvear, Virginio Colombo
+- 1916-01-01 (-34.6, -58.4), 8: Alejandro Christophersen, Eugène Py (Eugenio Py), Joaquín Trincado Mateo, Luis Perlotti, Pío Collivadino, Troiano Troiani, Virginio Colombo, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1893-01-01 (48.8, 2.3), 8: Alfred Jarry, Filippo Tommaso Emilio Marinetti, Georges Sorel, Henri Léon Lebesgue, Jules Henri Poincaré, Maria Salomea Skłodowska-Curie (Marie Curie), Paul Berthon (Paul Louis Joseph Berthon), Rosa Luxemburg (Rozalia Luksenburg)
+- 1917-01-01 (-34.6, -58.4), 8: Anna Matveyevna Pavlova, Carlos Gardel (Charles Romuald Gardes), Enrique Santos Discépolo, Francisco Gianotti (Francesco Terenzio Gianotti), Max Glücksmann (Mordechai David Glücksmann), Osvaldo Pedro Pugliese, Virginio Colombo, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1998-01-01 (-34.6, -58.4), 8: Antonio Mamerto Gil Núñez (Gauchito Gil), Arshag Shorjian, Dalila Puzzovio, Daniel Gastón Schávelzon, Jules Charles (Carlos) Thays, Sergio Demian Lerner, Viktor Sulčič, Wenceslao "Wences" Casares
+- 1890-01-01 (48.9, 2.4), 8: Achille-Claude Debussy, Auguste Kerckhoffs (Jean Guillaume Auguste Victor Alexandre François Hubert Kerckhoffs), Joseph Alexandre Saint-Yves, Marquis d'Alveydre, Luc-Olivier Merson, Paul Jules Barbier, Paul Moritz Warburg, Sarah Bernhardt (Henriette-Rosine Bernard), Torcuato Antonio de Alvear
+- 1929-01-01 (-34.6, -58.4), 7: Ada Falcón (Aída Elsa Ada Falcone), Adolfo Bioy Casares, Joaquín Trincado Mateo, Max Glücksmann (Mordechai David Glücksmann), Osvaldo Pedro Pugliese, Raquel Liberman (Ruchla Laja Liberman), Viktor Sulčič
+- 1936-01-01 (-34.6, -58.4), 7: Ada Falcón (Aída Elsa Ada Falcone), Adolfo Bioy Casares, Alberto Gerchunoff (born Abraham Gerchunoff), Alejandro Christophersen, Carlos María della Paolera, Jorge Luis Borges, Osvaldo Pedro Pugliese
+- 1940-01-01 (-34.6, -58.4), 7: Ada Falcón (Aída Elsa Ada Falcone), Alejandro Christophersen, Auguste Rodin (François Auguste René Rodin), Raúl Veroni (Raoul Veroni), the elder, Silvina Ocampo, Troiano Troiani, Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 1906-01-01 (-34.6, -58.4), 7: Alberto Gerchunoff (born Abraham Gerchunoff), Alejandro Christophersen, Carlos Gardel (Charles Romuald Gardes), Enrique Santos Discépolo, Luis Perlotti, Virginio Colombo, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1908-01-01 (-34.6, -58.4), 7: Alberto Gerchunoff (born Abraham Gerchunoff), Alejandro Christophersen, Eugène Py (Eugenio Py), Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Max Glücksmann (Mordechai David Glücksmann), Pío Collivadino, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1913-01-01 (48.9, 2.3), 7: Alexander Graham Bell, Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Fritz Lang (Friedrich Christian Anton Lang), Lionel-Noël Royer, Louis Vuitton, Marcel Proust, Émile Pouget
+- 1885-01-01 (-34.6, -58.4), 7: Francesco Tamburini, Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Julio Argentino Roca, Pío Collivadino, Torcuato Antonio de Alvear, Vittorio Meano (Victor Meano), Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1960-01-01 (-34.6, -58.4), 7: Astor Pantaleón Piazzolla, Josefina Ayerza, Raquel Liberman (Ruchla Laja Liberman), Raúl Veroni (Raoul Veroni), the elder, René Guénon (Sheikh Abd al-Wahid Yahya), Viktor Sulčič, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1936-01-01 (48.9, 2.4), 7: Blas Valera, Felipe Guamán Poma de Ayala (Waman Puma), Georges Hébert, Louis Vuitton, Walter Benjamin, Wassily Kandinsky (Vasily Vasilyevich Kandinsky), Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1939-01-01 (-34.6, -58.4), 7: Carlos María della Paolera, Osvaldo Pedro Pugliese, Pío Collivadino, Raquel Liberman (Ruchla Laja Liberman), Raúl Veroni (Raoul Veroni), the elder, Viktor Sulčič, Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 2019-01-01 (-34.6, -58.4), 7: Antonio Mamerto Gil Núñez (Gauchito Gil), Dalila Puzzovio, Daniel Gastón Schávelzon, Daniel Giannone, Leo Chiachio (of Chiachio & Giannone), Raquel Liberman (Ruchla Laja Liberman), Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1943-01-01 (40.8, -74.0), 7: Edward Louis Bernays, Erich Seligmann Fromm, Frank Lloyd Wright, José Arcadio Limón, Max Horkheimer, Milton Friedman, William Seward Burroughs II
+- 1924-01-01 (-34.6, -58.4), 7: Emir Emin Arslan (al-Amir Amin Majid Arslan), Jean-Claude Nicolas Forestier, Mario Palanti, Max Glücksmann (Mordechai David Glücksmann), Osvaldo Pedro Pugliese, Troiano Troiani, Viktor Sulčič
+- 1889-01-01 (48.9, 2.3), 7: Jean-Baptiste Joseph Fourier, Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia), Jules-Félix Coutan, Luc-Olivier Merson, Pierre-Simon Laplace, marquis de Laplace, René Just Haüy, Siméon Denis Poisson
+- 1918-01-01 (-34.6, -58.4), 6: Ada Falcón (Aída Elsa Ada Falcone), Alberto Gerchunoff (born Abraham Gerchunoff), Alejandro Christophersen, Enrique Santos Discépolo, Francisco Gianotti (Francesco Terenzio Gianotti), Virginio Colombo
+- 1934-01-01 (-34.6, -58.4), 6: Ada Falcón (Aída Elsa Ada Falcone), Carlos María della Paolera, Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Emir Emin Arslan (al-Amir Amin Majid Arslan), Enrique Santos Discépolo, Raquel Liberman (Ruchla Laja Liberman)
+- 1938-01-01 (-34.6, -58.4), 6: Ada Falcón (Aída Elsa Ada Falcone), Arshag Shorjian, Astor Pantaleón Piazzolla, Joaquín Trincado Mateo, Julio Florencio Cortázar Descotte, María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1996-01-01 (40.8, -74.0), 6: Adi Shamir, Jeffrey Edward Epstein, Leonard Max Adleman, Mark Brodsky, Ralph Charles Merkle, Ronald Linn Rivest
+- 1901-01-01 (-34.6, -58.4), 6: Alberto Gerchunoff (born Abraham Gerchunoff), Alejandro Christophersen, Carlos Gardel (Charles Romuald Gardes), Eugène Py (Eugenio Py), Jules Dormal Godet (Julio Dormal), János Czetz (Juan Fernando Czetz)
+- 1926-01-01 (-34.6, -58.4), 6: Alberto Gerchunoff (born Abraham Gerchunoff), Alfonsina Storni, Enrique Santos Discépolo, Filippo Tommaso Emilio Marinetti, Raquel Liberman (Ruchla Laja Liberman), Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 1928-01-01 (-34.6, -58.4), 6: Alberto Gerchunoff (born Abraham Gerchunoff), Alejandro Christophersen, Enrique Santos Discépolo, Francisco Salamone (Francesco Salamone), Raquel Liberman (Ruchla Laja Liberman), Viktor Sulčič
+- 1951-01-01 (-34.6, -58.4), 6: Alberto Gerchunoff (born Abraham Gerchunoff), Enrique Santos Discépolo, José López Rega (El Brujo), María Estela Martínez Cartas de Perón (Isabel Perón), Raúl Veroni (Raoul Veroni), the elder, Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 1902-01-01 (-34.6, -58.4), 6: Alejandro Christophersen, Carlos Gardel (Charles Romuald Gardes), Ceferino Namuncurá, Eugène Py (Eugenio Py), Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Jules Dormal Godet (Julio Dormal)
+- 1914-01-01 (-34.6, -58.4), 6: Alejandro Christophersen, Carlos Gardel (Charles Romuald Gardes), Jules-Félix Coutan, Luis Perlotti, Mario Palanti, Max Glücksmann (Mordechai David Glücksmann)
+- 1932-01-01 (-34.6, -58.4), 6: Alfonsina Storni, Francisco Gianotti (Francesco Terenzio Gianotti), Julio Florencio Cortázar Descotte, Osvaldo Pedro Pugliese, Troiano Troiani, Ángel della Valle
+- 1970-01-01 (-34.6, -58.4), 6: Alfonsina Storni, La Difunta Correa (Deolinda Correa), Silvina Ocampo, Troiano Troiani, Viktor Sulčič, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1902-01-01 (48.8, 2.3), 6: Alfred Jarry, Auguste Kerckhoffs (Jean Guillaume Auguste Victor Alexandre François Hubert Kerckhoffs), Henri Léon Lebesgue, Jules Henri Poincaré, Maria Salomea Skłodowska-Curie (Marie Curie), Étienne-Jules Marey
+- 1903-01-01 (-34.6, -58.4), 6: Benigno Benjamín Villanueva (Villanokoff), Carlos María della Paolera, Francesco Tamburini, Jules Dormal Godet (Julio Dormal), Pío Collivadino, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1952-01-01 (40.7, -74.0), 6: Ben-Zion Witler (Benzion Witler), Doris Batcheller Humphrey, Maurice Bernard Sendak, Max Perelman (Max Perlman, born Meiers Perlmanis), Robert Moses, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1916-01-01 (40.8, -74.0), 6: Anna Matveyevna Pavlova, Francis Julius Bellamy, J. Robert Oppenheimer, John Dewey, Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1916-01-01 (52.5, 13.4), 6: Anni Albers (Annelise Else Frieda Fleischmann), Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Engelbert Humperdinck, Gustav Landauer, Martin Mordechai Buber, Max Moritz Warburg
+- 1929-01-01 (40.7, -74.0), 6: Astor Pantaleón Piazzolla, Martha Graham, Meyer Lansky (Maier Suchowljansky), R. Buckminster Fuller, Ted Shawn (Edwin Myers Shawn), Victor Alter (Wiktor Alter)
+- 1934-01-01 (40.8, -74.0), 6: Astor Pantaleón Piazzolla, Edward Louis Bernays, Felix José Weil, John Dewey, Joseph Hubertus Pilates, Robert Moses
+- 1965-01-01 (40.8, -74.0), 6: Astor Pantaleón Piazzolla, Dalila Puzzovio, David Rockefeller, Murray Newton Rothbard, Ray Kurzweil, Sara Rudner
+- 1967-01-01 (-34.6, -58.4), 6: Astor Pantaleón Piazzolla, Charly García, Dalila Puzzovio, Francisco Gianotti (Francesco Terenzio Gianotti), Max Perelman (Max Perlman, born Meiers Perlmanis), Raúl Veroni (Raoul Veroni), the elder
+- 2000-01-01 (48.9, 2.4), 6: Augusto Boal (Augusto Pinto Boal), Jean Baudrillard, John Rogers Searle, Louis XVI, Louis-Auguste de France, duc de Berry, King of France and Navarre, then King of the French, then Louis Capet, Philipp Griebel of Gräfenroda, Winfried Georg Sebald (W.G. Sebald, 'Max' Sebald)
+- 1946-01-01 (-34.6, -58.4), 6: Ben-Zion Witler (Benzion Witler), Julen Kerman Madariaga Agirre, Osvaldo Pedro Pugliese, Pío Collivadino, Vittorio Meano (Victor Meano), Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1921-01-01 (48.9, 2.4), 6: Carlos María della Paolera, Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Filippo Tommaso Emilio Marinetti, Jean-Baptiste Alliette, called Etteilla, Loïe Fuller (Marie Louise Fuller), Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1780-01-01 (49.8, 9.1), 6: Catherine of Alexandria (Katherine of the Wheel), Margarita / Marina / Pelagia, the Pearl of the Three Waters, Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Barbara of Heliopolis (Bárbara), Saint Eustace (Placidus, Eustathios), with Theopista, Agapius and Theopistus, San Vito (Vitus of Lucania, Sankt Veit, Svaty Vit, Sveti Vid)
+- 1891-01-01 (48.9, 2.3), 6: Achille-Claude Debussy, Erik Satie (Eric Alfred Leslie Satie), Jules-Félix Coutan, Louis Vuitton, Marcel Proust, Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1919-01-01 (48.9, 2.3), 6: Achille-Claude Debussy, Herbert Osborn Yardley, Jacques Marie Émile Lacan, John Maynard Keynes, 1st Baron Keynes of Tilton, Nadia Boulanger (Juliette Nadia Boulanger), Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1913-01-01 (51.5, -0.1), 6: Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), John Maynard Keynes, 1st Baron Keynes of Tilton, Loïe Fuller (Marie Louise Fuller), Marcus Mosiah Garvey, Pamela Colman Smith ("Pixie"), Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1948-01-01 (-34.6, -58.4), 6: Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Enrique Santos Discépolo, Julio Florencio Cortázar Descotte, Luis Perlotti, Osvaldo Pedro Pugliese, Silvina Ocampo
+- 1994-01-01 (-34.6, -58.4), 6: Daniel Gastón Schávelzon, Diego Gutiérrez Zaldívar, Eduardo Sergio Elsztain, Emiliano Kargieman, Sergio Demian Lerner, Wenceslao "Wences" Casares
+- 1997-01-01 (-34.6, -58.4), 6: Daniel Gastón Schávelzon, Diego Gutiérrez Zaldívar, Eduardo Sergio Elsztain, Eugène Py (Eugenio Py), Mario Palanti, Wenceslao "Wences" Casares
+- 1898-01-01 (48.8, 2.3), 6: Erik Satie (Eric Alfred Leslie Satie), Henri Léon Lebesgue, Jean-Claude Nicolas Forestier, Jules Henri Poincaré, Ludwig Derleth, Paul Berthon (Paul Louis Joseph Berthon)
+- 1915-01-01 (-34.6, -58.4), 6: Eugène Py (Eugenio Py), Mario Palanti, Marta María Ezcurra Real de Azúa, Pío Collivadino, Troiano Troiani, Virginio Colombo
+- 1977-01-01 (48.9, 2.4), 6: Gilles Louis Rene Deleuze, Jean Baudrillard, Paul-Michel Foucault, Pierre-Félix Guattari, Roland Gérard Barthes, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1350-01-01 (49.0, 12.1), 6: Pantaleon of Nicomedia (Pantoleon; Saint Panteleimon, the All-Merciful; San Pantaleone), Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Barbara of Heliopolis (Bárbara), Saint Cyriacus of Rome (Kyriakos, Ciriaco, Cyriakus, Cyriaque), deacon and martyr, Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo), San Cristobal (Christopher of Lycia, born Reprobus / Adokimos of the Marmaritae)
+- 1400-01-01 (49.5, 11.1), 6: Pantaleon of Nicomedia (Pantoleon; Saint Panteleimon, the All-Merciful; San Pantaleone), Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Blaise of Sebastea (Blasius, Sveti Vlaho, San Biagio), Saint Cyriacus of Rome (Kyriakos, Ciriaco, Cyriakus, Cyriaque), deacon and martyr, Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo), Saint Eustace (Placidus, Eustathios), with Theopista, Agapius and Theopistus
+- 1942-01-01 (-34.6, -58.4), 5: Ada Falcón (Aída Elsa Ada Falcone), Adolfo Bioy Casares, Silvina Ocampo, Viktor Sulčič, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1904-01-01 (51.5, -0.1), 5: Adam Smith, Arthur James Balfour, 1st Earl of Balfour, Christina Georgina Rossetti, Jane Morris (nee Burden), Sir George Gabriel Stokes, 1st Baronet
+- 1924-01-01 (48.9, 2.4), 5: Adolfo Bioy Casares, José Buenaventura Durruti Dumange, Roland Gérard Barthes, Xul Solar (Oscar Agustin Alejandro Schulz Solari), Étienne Bazeries
+- 1947-01-01 (-34.6, -58.4), 5: Adolfo Bioy Casares, Enrique Santos Discépolo, Raúl Veroni (Raoul Veroni), the elder, Xul Solar (Oscar Agustin Alejandro Schulz Solari), Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1980-01-01 (-34.6, -58.4), 5: Adolfo Bioy Casares, Carlos María della Paolera, Eduardo Sergio Elsztain, Emiliano Kargieman, Vito Dumas
+- 1900-01-01 (48.9, 2.4), 5: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Alfred Jarry, Arthur Edward Waite, Erik Satie (Eric Alfred Leslie Satie), Isabelle Wilhelmine Marie Eberhardt (Si Mahmoud Saadi)
+- 1907-01-01 (51.5, -0.1), 5: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Captain Robert Falcon Scott, RN, Dion Fortune (Violet Mary Firth), Mary "May" Morris, Sir Arthur Ignatius Conan Doyle
+- 1962-01-01 (51.5, -0.1), 5: Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad), Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Ian Lancaster Fleming, Juan Eduardo Cirlot Laporta, Maslama ibn Qasim al-Qurtubi
+- 1895-01-01 (-34.6, -58.4), 5: Alberto Gerchunoff (born Abraham Gerchunoff), Jules Charles (Carlos) Thays, János Czetz (Juan Fernando Czetz), Ángel Gregorio Villoldo (born Ghigiola Roggio), Ángel della Valle
+- 1972-01-01 (48.9, 2.4), 5: Alexandra David-Néel (Louise Eugénie Alexandrine Marie David; Alexandra Myrial; Yeshe Tome), Jacques Derrida (born Jackie Elie Derrida), Jean Baudrillard, Marie Sophie Taglioni, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1845-01-01 (48.9, 2.4), 5: Alexandre Dumas (Dumas père), Francois Marie Charles Fourier, Honoré de Balzac, Jean-Baptiste Pitois (Paul Christian), Juan Martín de Pueyrredón y O'Doggan
+- 1856-01-01 (48.9, 2.4), 5: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Alexis-Charles-Henri Clérel de Tocqueville, Edgar Allan Poe, Jean-Baptiste Alliette, called Etteilla, William James
+- 1888-01-01 (48.9, 2.3), 5: Alphonse Mucha (Alfons Maria Mucha), Erik Satie (Eric Alfred Leslie Satie), Henri-Louis Bergson, Jules-Félix Coutan, Louis Vuitton
+- 1880-01-01 (-34.6, -58.4), 5: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Juan Manuel José Domingo Ortiz de Rozas y López de Osornio (Juan Manuel de Rosas), Jules Dormal Godet (Julio Dormal), Torcuato Antonio de Alvear, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1906-01-01 (48.9, 2.4), 5: Camille Rosalie Claudel, Georges Sorel, Henri Léon Lebesgue, Jean-Claude Nicolas Forestier, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1911-01-01 (-34.6, -58.4), 5: Carlos Gardel (Charles Romuald Gardes), Francisco Gianotti (Francesco Terenzio Gianotti), Mario Palanti, Virginio Colombo, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 2013-01-01 (-34.6, -58.4), 5: Daniel Giannone, Diego Gutiérrez Zaldívar, Javier Gerardo Milei, Pío Collivadino, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1911-01-01 (51.5, -0.1), 5: Anna Matveyevna Pavlova, Arthur Edward Waite, Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Pamela Colman Smith ("Pixie"), Sir James Matthew Barrie, 1st Baronet
+- 1949-01-01 (40.8, -74.0), 5: Anni Albers (Annelise Else Frieda Fleischmann), David Rockefeller, John Milton Cage Jr., Maurice Bernard Sendak, Nicholas Konstantinovich Roerich (Nikolai Konstantinovich Rerikh)
+- 2005-01-01 (-34.6, -58.4), 5: Arshag Shorjian, Daniel Gastón Schávelzon, Daniel Giannone, Emiliano Kargieman, Julio Argentino Roca
+- 1895-01-01 (51.5, -0.1), 5: Arthur James Balfour, 1st Earl of Balfour, Herbert George Wells, Honoré de Balzac, Pío Collivadino, William Butler Yeats
+- 1878-01-01 (51.5, -0.1), 5: Arthur Edward Waite, Carl Menger (Carl Menger von Wolfensgrün), Louis Braille, Sir Edward Coley Burne-Jones, 1st Baronet, William Holman Hunt
+- 1888-01-01 (51.5, -0.1), 5: Arthur Edward Waite, Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), Elizabeth (Bessie) Burden, Mary "May" Morris, Sir James Matthew Barrie, 1st Baronet
+- 1905-01-01 (48.9, 2.4), 5: Arthur Edward Waite, Eugène Samuel Grasset, Franz Anton Mesmer, Paul Berthon (Paul Louis Joseph Berthon), René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1914-01-01 (51.5, -0.1), 5: Arthur Edward Waite, Auguste Rodin (François Auguste René Rodin), Dion Fortune (Violet Mary Firth), Margaret Alice Murray, Pamela Colman Smith ("Pixie")
+- 1887-01-01 (48.9, 2.4), 5: Achille-Claude Debussy, Auguste Kerckhoffs (Jean Guillaume Auguste Victor Alexandre François Hubert Kerckhoffs), David Sassoon, Eugène Samuel Grasset, Joseph Alexandre Saint-Yves, Marquis d'Alveydre
+- 1895-01-01 (48.8, 2.3), 5: Auguste Rodin (François Auguste René Rodin), Jules Henri Poincaré, Luc-Olivier Merson, Paul Berthon (Paul Louis Joseph Berthon), Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1981-01-01 (48.9, 2.4), 5: Augusto Boal (Augusto Pinto Boal), Jean Baudrillard, Pierre-Félix Guattari, Slavoj Žižek, Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1926-01-01 (40.7, -74.0), 5: Augustus Henry Julian Le Plongeon, John Foster Dulles, Ludwig Heinrich Edler von Mises, Prescott Sheldon Bush, Ted Shawn (Edwin Myers Shawn)
+- 2011-01-01 (-34.6, -58.4), 5: Benigno Benjamín Villanueva (Villanokoff), Dalila Puzzovio, Emiliano Kargieman, Silvina Ocampo, Vittorio Meano (Victor Meano)
+- 1919-01-01 (48.2, 16.4), 5: Ben-Zion Witler (Benzion Witler), El Gólem, Hilde Holger (Hilde Sofer, later Boman-Behram), John von Neumann (Neumann János Lajos, margittai Neumann János), Ludwig Heinrich Edler von Mises
+- 1947-01-01 (40.7, -74.0), 5: Bethsabée (Batsheva) de Rothschild, Erich Seligmann Fromm, Le Corbusier (Charles-Edouard Jeanneret-Gris), Maurice Bernard Sendak, Prescott Sheldon Bush
+- 1823-01-01 (51.5, -0.1), 5: Charles Babbage, Jacob Ludwig Carl Grimm and Wilhelm Carl Grimm, John Ruskin, Simón Rodríguez (Samuel Robinson), William Blake
+- 1895-01-01 (48.9, 2.3), 5: Camille Rosalie Claudel, Luc-Olivier Merson, Paul Berthon (Paul Louis Joseph Berthon), Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel), Étienne-Jules Marey
+- 1893-01-01 (48.9, 2.3), 5: Captain Alfred Dreyfus, Erik Satie (Eric Alfred Leslie Satie), Loïe Fuller (Marie Louise Fuller), Marcel Proust, Étienne Bazeries
+- 1961-01-01 (-34.6, -58.4), 5: Carlos María della Paolera, Dalila Puzzovio, Osvaldo Pedro Pugliese, Silvina Ocampo, Vito Dumas
+- 1948-01-01 (40.8, -74.0), 5: Carmen Miranda (Maria do Carmo Miranda da Cunha), David Rockefeller, George Balanchine (Georgiy Melitonovich Balanchivadze), Maurice Bernard Sendak, Paolo Soleri
+- 1990-01-01 (40.7, -74.0), 5: Cecilia Vicuña, Eduardo Sergio Elsztain, George Soros (born Schwartz György), Mark Stewart Cohen, Martha Graham
+- 1962-01-01 (-34.6, -58.4), 5: Charly García, Dalila Puzzovio, José López Rega (El Brujo), Silvina Ocampo, Vito Dumas
+- 1924-01-01 (48.9, 2.3), 5: Gabrielle Bonheur "Coco" Chanel, Haile Selassie I (Lij Tafari Makonnen, Ras Tafari), Loïe Fuller (Marie Louise Fuller), Paul Klee, René Guénon (Sheikh Abd al-Wahid Yahya)
+- 2012-01-01 (-34.6, -58.4), 5: Cristina Elisabet Fernández de Kirchner, Daniel Giannone, Diego Gutiérrez Zaldívar, Leo Chiachio (of Chiachio & Giannone), Osvaldo Pedro Pugliese
+- 2020-01-01 (-34.6, -58.4), 5: Dalila Puzzovio, Eduardo Sergio Elsztain, Francisco Gianotti (Francesco Terenzio Gianotti), Javier Gerardo Milei, José Antonio de la Sierra (José Antonio de Sierra)
+- 2026-01-01 (-34.6, -58.4), 5: Dalila Puzzovio, Daniel Giannone, Eugène Samuel Grasset, Sergio Demian Lerner, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 2003-01-01 (-34.6, -58.4), 5: Daniel Gastón Schávelzon, Daniel Giannone, Federico García Lorca, Leo Chiachio (of Chiachio & Giannone), Raquel Liberman (Ruchla Laja Liberman)
+- 1989-01-01 (48.9, 2.4), 5: David Nicolas Belle, Louis Vuitton, Merce Cunningham (Mercier Philip Cunningham), Miller Smith Puckette, Pierre-Félix Guattari
+- 1885-01-01 (40.7, -74.0), 5: Felix Adler, François Delsarte, Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy'), Geneviève Stebbins, John Davison Rockefeller Sr.
+- 1988-01-01 (-34.6, -58.4), 5: Diego Gutiérrez Zaldívar, Emiliano Kargieman, Indra Devi (Eugenia Vasilievna Peterson, Eugenie Strakaty), Luis Alberto Spinetta, Silvina Ocampo
+- 1921-01-01 (40.7, -74.0), 5: El Gólem, Golda Meir (Goldie Mabovitch, Golda Meyerson), Meyer Lansky (Maier Suchowljansky), Paul Moritz Warburg, Vladimir Medem (Vladimir Davidovich Medem, born Grinberg)
+- 1904-01-01 (48.8, 2.3), 5: Eugène Samuel Grasset, Henri-Louis Bergson, Loïe Fuller (Marie Louise Fuller), Maria Salomea Skłodowska-Curie (Marie Curie), Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1873-01-01 (51.5, -0.1), 5: Elizabeth (Bessie) Burden, Felix Christian Klein, Giovanni Pico della Mirandola, Thomas Alva Edison, William Holman Hunt
+- 1905-01-01 (46.2, 8.8), 5: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven), Karl Gräser (Carl Samuel Josef Gräser), Karl Max Engelmann (Liga Pitagórica), Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1890-01-01 (48.8, 2.3), 5: Eugène Samuel Grasset, Henri-Louis Bergson, Jules-Félix Coutan, Luc-Olivier Merson, Étienne-Jules Marey
+- 1973-01-01 (48.9, 2.4), 5: Jacinto Molina Álvarez (Paul Naschy), Jean Baudrillard, Julio Florencio Cortázar Descotte, Pierre-Félix Guattari, Roland Gérard Barthes
+- 1959-01-01 (-34.6, -58.4), 5: Francisco Gianotti (Francesco Terenzio Gianotti), Julio Florencio Cortázar Descotte, Ludwig Heinrich Edler von Mises, Raúl Veroni (Raoul Veroni), the elder, Silvina Ocampo
+- 2000-01-01 (-34.6, -58.4), 5: Avram Noam Chomsky, Francisco Gianotti (Francesco Terenzio Gianotti), La Difunta Correa (Deolinda Correa), Max Glücksmann (Mordechai David Glücksmann), Sergio Demian Lerner
+- 1933-01-01 (48.2, 16.4), 5: Friedrich August von Hayek, Hilde Holger (Hilde Sofer, later Boman-Behram), Ludwig Heinrich Edler von Mises, Max Perelman (Max Perlman, born Meiers Perlmanis), Norbert Wiener
+- 1911-01-01 (48.2, 11.6), 5: Fritz Lang (Friedrich Christian Anton Lang), Gustav Arthur "Gusto" Gräser, Ludwig Derleth, Paul Klee, Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1996-01-01 (40.7, -74.0), 5: Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy'), Jürgen Habermas, Krishna Pattabhi Jois, Sara Rudner, Viola Farber
+- 1990-01-01 (48.9, 2.4), 5: Gilles Louis Rene Deleuze, Jacques Derrida (born Jackie Elie Derrida), Miller Smith Puckette, Paul Berthon (Paul Louis Joseph Berthon), René Just Haüy
+- 1940-01-01 (48.9, 2.4), 5: Jacques Marie Émile Lacan, Lionel-Noël Royer, Luc-Olivier Merson, Roland Gérard Barthes, Walter Benjamin
+- 2007-01-01 (40.7, -74.0), 5: James "Jamie" Dimon, Merce Cunningham (Mercier Philip Cunningham), Paul Elliott Singer, Peter Andreas Thiel, Prescott Sheldon Bush
+- 1925-01-01 (50.1, 8.7), 5: Johann Jost Textor, Martin Mordechai Buber, Max Horkheimer, Max Moritz Warburg, Walter Benjamin
+- 1881-01-01 (-34.6, -58.4), 5: José Rafael Hernández, Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Jules Dormal Godet (Julio Dormal), Próspero Catelin (Thomas Prosper Catelin), Torcuato Antonio de Alvear
+- 1934-01-01 (51.5, -0.1), 4: Aby Moritz Warburg, David Ben-Gurion (David Grün), Valeska Gert (Gertrud Valesca Samosch), Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1976-01-01 (40.8, -74.0), 4: Adnan Muhammad Khashoggi, Jeffrey Edward Epstein, Murray Newton Rothbard, William Joseph Casey
+- 1949-01-01 (48.9, 2.3), 4: Adolfo Bioy Casares, Claude Lévi-Strauss, Cristóbal Balenciaga Eizaguirre, Honoré de Balzac
+- 1969-01-01 (-34.6, -58.4), 4: Adolfo Bioy Casares, Astor Pantaleón Piazzolla, Dalila Puzzovio, Raúl Veroni (Raoul Veroni), the elder
+- 1600-01-01 (51.5, -0.1), 4: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Leo Africanus (al-Hasan ibn Muhammad al-Wazzan al-Fasi al-Gharnati), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi), Maslama ibn Qasim al-Qurtubi
+- 1889-01-01 (-34.6, -58.4), 4: Alberto Gerchunoff (born Abraham Gerchunoff), Francesco Tamburini, Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1904-01-01 (-34.6, -58.4), 4: Alberto Gerchunoff (born Abraham Gerchunoff), Jules Dormal Godet (Julio Dormal), Jules-Félix Coutan, Max Glücksmann (Mordechai David Glücksmann)
+- 1888-01-01 (-34.6, -58.4), 4: Alejandro Christophersen, Eugène Py (Eugenio Py), Jules Dormal Godet (Julio Dormal), Ángel della Valle
+- 1898-01-01 (-34.6, -58.4), 4: Alejandro Christophersen, Max Glücksmann (Mordechai David Glücksmann), Vittorio Meano (Victor Meano), Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1990-01-01 (37.4, -122.2), 4: Alexander Caedmon Karp, Donald Ervin Knuth (Gao Dena), Leslie Barry Lamport, René Noël Théophile Girard
+- 1817-01-01 (48.9, 2.4), 4: Alexander Baring, 1st Baron Ashburton, Claude-Henri de Rouvroy, comte de Saint-Simon, Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii, Siméon Denis Poisson
+- 1862-01-01 (51.5, -0.1), 4: Alexander Graham Bell, Christina Georgina Rossetti, Edward Bulwer-Lytton, 1st Baron Lytton (Edward George Earle Lytton Bulwer), James Clerk Maxwell
+- 1871-01-01 (48.9, 2.4), 4: Alexandra David-Néel (Louise Eugénie Alexandrine Marie David; Alexandra Myrial; Yeshe Tome), Erik Satie (Eric Alfred Leslie Satie), Eugène Samuel Grasset, Jean-Baptiste Pitois (Paul Christian)
+- 1846-01-01 (48.9, 2.4), 4: Alexandre Dumas (Dumas père), Giuseppe Balsamo, called Count Alessandro di Cagliostro, Jean-Baptiste Pitois (Paul Christian), Mayer Amschel Rothschild
+- 1896-01-01 (48.9, 2.4), 4: Alfred Jarry, Eugène Samuel Grasset, Louis Vuitton, Loïe Fuller (Marie Louise Fuller)
+- 1897-01-01 (48.9, 2.4), 4: Alfred Jarry, André Breton, Emir Emin Arslan (al-Amir Amin Majid Arslan), Eugène Samuel Grasset
+- 1901-01-01 (48.9, 2.3), 4: Alfred Jarry, Alphonse Mucha (Alfons Maria Mucha), Henri-Louis Bergson, Étienne Bazeries
+- 1908-01-01 (48.9, 2.4), 4: Alfred Jarry, Erich Mühsam, Georges Sorel, Loïe Fuller (Marie Louise Fuller)
+- 1911-01-01 (48.9, 2.4), 4: Alfred Jarry, Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Georges Hébert, Émile Pouget
+- 1926-01-01 (48.9, 2.4), 4: Alfred Jarry, Antoine de Saint-Exupéry, Carl Theodor Dreyer, Jean-Claude Nicolas Forestier
+- 1922-01-01 (38.9, -77.0), 4: Allen Welsh Dulles, Herbert Osborn Yardley, Paul Moritz Warburg, William Frederick Friedman
+- 1892-01-01 (-34.6, -58.4), 4: Francesco Tamburini, Jules Charles (Carlos) Thays, Vittorio Meano (Victor Meano), Ángel della Valle
+- 1896-01-01 (-34.6, -58.4), 4: Ceferino Namuncurá, Pío Collivadino, Vittorio Meano (Victor Meano), Ángel della Valle
+- 1907-01-01 (-34.6, -58.4), 4: Eugène Py (Eugenio Py), Pío Collivadino, Vittorio Meano (Victor Meano), Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1890-01-01 (59.9, 30.3), 4: Anna Matveyevna Pavlova, Igor Fyodorovich Stravinsky, Pyotr Ilyich Tchaikovsky, Sergei Pavlovich Diaghilev
+- 1910-01-01 (48.9, 2.4), 4: Anna Matveyevna Pavlova, Joseph Alexandre Saint-Yves, Marquis d'Alveydre, Jules Henri Poincaré, Émile Pouget
+- 1885-01-01 (51.5, -0.1), 4: Annie Besant (née Wood), Louis Vuitton, Sir James Matthew Barrie, 1st Baronet, Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1904-01-01 (40.7, -74.0), 4: Aron Iosifovich Kremer, called Arkadi, Charles Ponzi (Carlo Pietro Giovanni Guglielmo Tebaldo Ponzi), Felix Adler, John Uri Lloyd
+- 1942-01-01 (40.7, -74.0), 4: Aron Iosifovich Kremer, called Arkadi, Claude Elwood Shannon, Meyer Lansky (Maier Suchowljansky), Prescott Sheldon Bush
+- 1915-01-01 (51.5, -0.1), 4: Arthur James Balfour, 1st Earl of Balfour, Captain Robert Falcon Scott, RN, John Maynard Keynes, 1st Baron Keynes of Tilton, Mary "May" Morris
+- 1887-01-01 (51.5, -0.1), 4: Arthur Edward Waite, Christian Rosenkreuz (Frater C.R.C., Christian Rosencreutz), Oscar Fingal O'Fflahertie Wills Wilde, Robert Fludd (Robertus de Fluctibus)
+- 1893-01-01 (51.5, -0.1), 4: Arthur Edward Waite, Eugène Samuel Grasset, Mary "May" Morris, Sir Edward Coley Burne-Jones, 1st Baronet
+- 1894-01-01 (51.5, -0.1), 4: Arthur Edward Waite, Herbert George Wells, Margaret Alice Murray, William James
+- 1883-01-01 (48.9, 2.3), 4: Auguste Rodin (François Auguste René Rodin), Camille Rosalie Claudel, Eugène Samuel Grasset, Joseph-Antoine Bouvard
+- 1826-01-01 (48.9, 2.3), 4: Augustin-Louis Cauchy, Francois Marie Charles Fourier, Louis XVI, Louis-Auguste de France, duc de Berry, King of France and Navarre, then King of the French, then Louis Capet, Pierre-Simon Laplace, marquis de Laplace
+- 1953-01-01 (40.8, -74.0), 4: Augusto Boal (Augusto Pinto Boal), Joseph Hubertus Pilates, Martha Graham, Murray Newton Rothbard
+- 1871-01-01 (51.5, -0.1), 4: Augustus Henry Julian Le Plongeon, Charles Babbage, Elizabeth (Bessie) Burden, John Ruskin
+- 1945-01-01 (40.7, -74.0), 4: Ben-Zion Witler (Benzion Witler), Martha Graham, Merce Cunningham (Mercier Philip Cunningham), Pamela Colman Smith ("Pixie")
+- 1941-01-01 (40.8, -74.0), 4: Bethsabée (Batsheva) de Rothschild, Enrico Fermi, George Balanchine (Georgiy Melitonovich Balanchivadze), Joseph Hubertus Pilates
+- 1990-01-01 (42.4, -71.1), 4: Mary Elizabeth Moore Shannon (Betty Shannon), Ray Kurzweil, Ronald Linn Rivest, Stanley Jeyaraja Tambiah
+- 2013-01-01 (37.8, -122.4), 4: Brock Jeffrey Pierce, Curtis Guy Yarvin (Mencius Moldbug), Guido van Rossum, Max Rafailovich Levchin
+- 1928-01-01 (52.5, 13.4), 4: Erich Seligmann Fromm, Felix José Weil, José Buenaventura Durruti Dumange, Walter Benjamin
+- 1891-01-01 (40.7, -74.0), 4: Calvert Vaux, Edward Bellamy, José Julián Martí Pérez (José Martí), William R. Bradshaw
+- 1892-01-01 (48.9, 2.4), 4: Camille Rosalie Claudel, Eugène Samuel Grasset, Joseph-Antoine Bouvard, Nadia Boulanger (Juliette Nadia Boulanger)
+- 1902-01-01 (48.9, 2.4), 4: Camille Rosalie Claudel, Erik Satie (Eric Alfred Leslie Satie), Filippo Tommaso Emilio Marinetti, Georges Sorel
+- 2008-01-01 (-34.6, -58.4), 4: Camille Rosalie Claudel, Javier Gerardo Milei, Leo Chiachio (of Chiachio & Giannone), Pío Collivadino
+- 1923-01-01 (48.2, 16.4), 4: Carl Menger (Carl Menger von Wolfensgrün), Friedrich August von Hayek, Hilde Holger (Hilde Sofer, later Boman-Behram), Ludwig Heinrich Edler von Mises
+- 1975-01-01 (40.7, -74.0), 4: Carlos Slim Helú, Gilles Louis Rene Deleuze, Maurice Bernard Sendak, Merce Cunningham (Mercier Philip Cunningham)
+- 1928-01-01 (48.9, 2.3), 4: Christian Dior, Henri-Louis Bergson, Jacques Marie Émile Lacan, Loïe Fuller (Marie Louise Fuller)
+- 1986-01-01 (51.5, -0.1), 4: Clark McAdams Clifford, Manuel Antonio Noriega Moreno, Oliver Laurence North, William Joseph Casey
+- 1909-01-01 (48.8, 2.3), 4: Claude Lévi-Strauss, Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Henri-Louis Bergson, René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1922-01-01 (51.5, -0.1), 4: Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Dion Fortune (Violet Mary Firth), Polybius of Megalopolis, son of Lycortas, Sir James Matthew Barrie, 1st Baronet
+- 1960-01-01 (48.9, 2.3), 4: Cristóbal Balenciaga Eizaguirre, Jean Baudrillard, Maria Orsic, Michèle Bernstein
+- 1964-01-01 (-34.6, -58.4), 4: Dalila Puzzovio, Luis Alberto Spinetta, Marta María Ezcurra Real de Azúa, Raúl Veroni (Raoul Veroni), the elder
+- 1966-01-01 (-34.6, -58.4), 4: Dalila Puzzovio, Eugène Py (Eugenio Py), Max Perelman (Max Perlman, born Meiers Perlmanis), Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1971-01-01 (-34.6, -58.4), 4: Dalila Puzzovio, Osvaldo Pedro Pugliese, Raúl Veroni (Raoul Veroni), the elder, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1841-01-01 (51.5, -0.1), 4: Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Leif Erikson (Leifr Eiriksson, Leif the Lucky), Michael Faraday, Sir Joseph Paxton
+- 1946-01-01 (40.7, -74.0), 4: David Rockefeller, John Milton Cage Jr., José Arcadio Limón, Robert Moses
+- 1969-01-01 (40.7, -74.0), 4: David Rockefeller, José Arcadio Limón, Max Perelman (Max Perlman, born Meiers Perlmanis), Merce Cunningham (Mercier Philip Cunningham)
+- 1963-01-01 (40.7, -74.0), 4: David Rockefeller, José Arcadio Limón, Maurice Bernard Sendak, Max Perelman (Max Perlman, born Meiers Perlmanis)
+- 2005-01-01 (40.8, -74.0), 4: David Rockefeller, Eduardo Sergio Elsztain, Josefina Ayerza, Mark Brodsky
+- 2015-01-01 (-34.6, -58.4), 4: Diego Gutiérrez Zaldívar, Emiliano Kargieman, Javier Gerardo Milei, Sergio Demian Lerner
+- 1947-01-01 (40.8, -74.0), 4: Doris Batcheller Humphrey, Hanya Holm (born Johanna Josepha Eckert), José Arcadio Limón, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1892-01-01 (40.7, -74.0), 4: Edward Louis Bernays, John Pierpont Morgan, Ruth St. Denis (Ruth Dennis), William R. Bradshaw
+- 1968-01-01 (40.7, -74.0), 4: Edward Witten, José Arcadio Limón, Max Perelman (Max Perlman, born Meiers Perlmanis), Merce Cunningham (Mercier Philip Cunningham)
+- 1899-01-01 (48.9, 2.4), 4: Georges Sorel, Maria Tecla Artemisia Montessori, Paul Berthon (Paul Louis Joseph Berthon), Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1923-01-01 (48.8, 2.3), 4: Erik Satie (Eric Alfred Leslie Satie), Maria Salomea Skłodowska-Curie (Marie Curie), René Guénon (Sheikh Abd al-Wahid Yahya), Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1941-01-01 (48.9, 2.3), 4: G. I. Gurdjieff, Jacques Marie Émile Lacan, Simone Lucie Ernestine Marie Bertrand de Beauvoir, Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1924-01-01 (52.5, 13.4), 4: Elsa Gindler, Guido Keller, Herbert Marcuse, Max Moritz Warburg
+- 1932-01-01 (52.5, 13.4), 4: Elsa Gindler, Erwin Rudolf Josef Alexander Schrödinger, John von Neumann (Neumann János Lajos, margittai Neumann János), Valeska Gert (Gertrud Valesca Samosch)
+- 1938-01-01 (40.8, -74.0), 4: Elsa Gindler, Hanya Holm (born Johanna Josepha Eckert), John Dewey, Joseph Hubertus Pilates
+- 1901-01-01 (48.9, 2.4), 4: Joseph Alexandre Saint-Yves, Marquis d'Alveydre, Loïe Fuller (Marie Louise Fuller), Paul Berthon (Paul Louis Joseph Berthon), Émile Pouget
+- 1909-01-01 (48.9, 2.4), 4: Georges Sorel, Gustav Klimt, Oscar Fingal O'Fflahertie Wills Wilde, Émile Pouget
+- 1921-01-01 (-34.6, -58.4), 4: Emir Emin Arslan (al-Amir Amin Majid Arslan), Felix José Weil, Raquel Liberman (Ruchla Laja Liberman), Troiano Troiani
+- 1903-01-01 (46.2, 8.8), 4: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven), Karl Gräser (Carl Samuel Josef Gräser), Karl Max Engelmann (Liga Pitagórica)
+- 1937-01-01 (-34.6, -58.4), 4: Enrique Santos Discépolo, Marta María Ezcurra Real de Azúa, Silvina Ocampo, Viktor Sulčič
+- 1936-01-01 (40.8, -74.0), 4: Erich Seligmann Fromm, Hanya Holm (born Johanna Josepha Eckert), Herbert Marcuse, Max Horkheimer
+- 1896-01-01 (48.9, 2.3), 4: Erik Satie (Eric Alfred Leslie Satie), Lionel-Noël Royer, Nadia Boulanger (Juliette Nadia Boulanger), Paul Berthon (Paul Louis Joseph Berthon)
+- 1878-01-01 (48.9, 2.3), 4: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Frédéric Auguste Bartholdi, Joseph-Antoine Bouvard, Étienne-Jules Marey
+- 1890-01-01 (-34.6, -58.4), 4: Eugène Py (Eugenio Py), Francesco Tamburini, Jules Dormal Godet (Julio Dormal), Max Glücksmann (Mordechai David Glücksmann)
+- 1897-01-01 (-34.6, -58.4), 4: Eugène Py (Eugenio Py), Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Max Glücksmann (Mordechai David Glücksmann), Pío Collivadino
+- 1908-01-01 (52.5, 13.4), 4: Felix Adler, Felix Christian Klein, Max Moritz Warburg, Valeska Gert (Gertrud Valesca Samosch)
+- 1911-01-01 (40.7, -74.0), 4: Felix Adler, Maurice Bernard Sendak, Meyer Lansky (Maier Suchowljansky), Paul Moritz Warburg
+- 1980-01-01 (48.9, 2.3), 4: Gilles Louis Rene Deleuze, Ioan Petru Culianu, Nick Land, Pierre-Félix Guattari
+- 1935-01-01 (40.7, -74.0), 4: Felix José Weil, John Foster Dulles, Martha Graham, Prescott Sheldon Bush
+- 1964-01-01 (51.5, -0.1), 4: Frances Amelia Yates, Margaret Alice Murray, Michele Sindona, Stanley Jeyaraja Tambiah
+- 1887-01-01 (-34.6, -58.4), 4: Francesco Tamburini, Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Pío Collivadino, Torcuato Antonio de Alvear
+- 2002-01-01 (40.8, -74.0), 4: Francis Julius Bellamy, Josefina Ayerza, Mark Stewart Cohen, Paul Elliott Singer
+- 1971-01-01 (40.7, -74.0), 4: George Herbert Walker Bush, John Milton Cage Jr., Martha Graham, Merce Cunningham (Mercier Philip Cunningham)
+- 1963-01-01 (40.8, -74.0), 4: George Soros (born Schwartz György), Joseph Hubertus Pilates, Milton Friedman, Murray Newton Rothbard
+- 1925-01-01 (48.9, 2.4), 4: Georges Hébert, Le Corbusier (Charles-Edouard Jeanneret-Gris), Satyendra Nath Bose, Sir Arthur Ignatius Conan Doyle
+- 2006-01-01 (37.4, -122.1), 4: Guido van Rossum, Kenneth Lane Thompson, Ralph Charles Merkle, Samuel Harris Altman
+- 1901-01-01 (46.2, 8.8), 4: Gustav Arthur "Gusto" Gräser, Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven), Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1982-01-01 (40.7, -74.0), 4: Hanya Holm (born Johanna Josepha Eckert), Leslie Herbert Wexner, Sara Rudner, Vilma Espín Guillois
+- 1953-01-01 (-34.6, -58.4), 4: María Estela Martínez Cartas de Perón (Isabel Perón), Ronald Richter, Viktor Sulčič, Vito Dumas
+- 1260-01-01 (44.4, 8.9), 4: Jacobus de Voragine (Iacopo da Varazze), Order of Preachers, Archbishop of Genoa, Saint Eustace (Placidus, Eustathios), with Theopista, Agapius and Theopistus, Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis), San Cristobal (Christopher of Lycia, born Reprobus / Adokimos of the Marmaritae)
+- 1952-01-01 (48.8, 2.3), 4: Jacques Derrida (born Jackie Elie Derrida), Julio Florencio Cortázar Descotte, Michèle Bernstein, Paul-Michel Foucault
+- 1975-01-01 (48.9, 2.4), 4: Jacques Derrida (born Jackie Elie Derrida), Josefina Ayerza, Paul-Michel Foucault, Roland Gérard Barthes
+- 1987-01-01 (48.9, 2.4), 4: Jacques Derrida (born Jackie Elie Derrida), Louis Vuitton, Miller Smith Puckette, Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii
+- 1964-01-01 (48.9, 2.3), 4: Jean-Paul Charles Aymard Sartre, Nadia Boulanger (Juliette Nadia Boulanger), Nicos Poulantzas, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 2001-01-01 (42.4, -71.1), 4: John Rogers Searle, Ray Kurzweil, Ronald Linn Rivest, Wenceslao "Wences" Casares
+- 1970-01-01 (40.7, -74.0), 4: José Arcadio Limón, Martha Graham, Maurice Bernard Sendak, Viola Farber
+- 1882-01-01 (48.9, 2.3), 4: Lionel-Noël Royer, Louis Vuitton, Nikola Tesla, Paul Jules Barbier
+- 1954-01-01 (-34.6, -58.4), 4: Luis Perlotti, Raúl Veroni (Raoul Veroni), the elder, Silvina Ocampo, Viktor Sulčič
+- 1964-01-01 (40.7, -74.0), 4: Martha Graham, Max Perelman (Max Perlman, born Meiers Perlmanis), Merce Cunningham (Mercier Philip Cunningham), William Seward Burroughs II
+- 1938-01-01 (40.7, -74.0), 3: Aaron David Gordon (Aharon David Gordon), Martha Graham, William Joseph Casey
+- 0093-01-01 (41.9, 12.5), 3: Aaron the Levite (Aharon ben Amram), Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), Marcus Fabius Quintilianus (Quintilian)
+- 1205-01-01 (33.3, 44.4), 3: Abd al-Qadir al-Jilani (Abdul Qadir Gilani), Ghawth al-A'zam, Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad), Ibn Arabi (Muhyi al-Din Abu Abdallah Muhammad ibn al-Arabi al-Ha'timi al-Ta'i)
+- 1832-01-01 (51.5, -0.1), 3: Augusta Ada King, Countess of Lovelace (Ada Byron), Charles Babbage, Siméon Denis Poisson
+- 1833-01-01 (51.5, -0.1), 3: Augusta Ada King, Countess of Lovelace (Ada Byron), Charles Babbage, Michael Faraday
+- 1852-01-01 (51.5, -0.1), 3: Augusta Ada King, Countess of Lovelace (Ada Byron), Edward Bulwer-Lytton, 1st Baron Lytton (Edward George Earle Lytton Bulwer), Sir John Everett Millais, 1st Baronet
+- 1977-01-01 (51.5, -0.1), 3: Adam Smith, Frances Amelia Yates, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1977-01-01 (42.4, -71.1), 3: Adi Shamir, Leonard Max Adleman, Miller Smith Puckette
+- 1972-01-01 (38.9, -77.0), 3: Adnan Muhammad Khashoggi, Edward Witten, Kenneth Lee Lay
+- 1984-01-01 (48.9, 2.4), 3: Adnan Muhammad Khashoggi, Martha Graham, Paolo Soleri
+- 1983-01-01 (38.9, -77.1), 3: Adnan Muhammad Khashoggi, Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1985-01-01 (51.5, -0.1), 3: Adnan Muhammad Khashoggi, Merce Cunningham (Mercier Philip Cunningham), Tony Hilton Royle Skyrme
+- 1932-01-01 (-34.5, -58.5), 3: Adolfo Bioy Casares, Edgar Allan Poe, Jorge Luis Borges
+- 2017-01-01 (-34.6, -58.4), 3: Adolfo Bioy Casares, Daniel Gastón Schávelzon, Javier Gerardo Milei
+- 0100-01-01 (41.9, 12.5), 3: Flavius Josephus (Yosef ben Mattityahu), Marcus Fabius Quintilianus (Quintilian), Publius Aelius Hadrianus (Adriano, Hadrian)
+- 0130-01-01 (31.8, 35.2), 3: Publius Aelius Hadrianus (Adriano, Hadrian), Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Eustace (Placidus, Eustathios), with Theopista, Agapius and Theopistus
+- 1888-01-01 (41.4, 2.2), 3: Agustí Querol i Subirats (Agustín Querol Subirats), Antoni Gaudí i Cornet, Sabino Policarpo Arana Goiri
+- 0959-01-01 (37.9, -4.8), 3: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi), Maslama ibn Qasim al-Qurtubi
+- 0964-01-01 (37.9, -4.8), 3: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi), Maslama ibn Qasim al-Qurtubi
+- 1007-01-01 (37.9, -4.8), 3: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi), Maslama ibn Qasim al-Qurtubi
+- 1256-01-01 (39.9, -4.0), 3: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi), Maslama ibn Qasim al-Qurtubi
+- 1489-01-01 (43.8, 11.3), 3: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Giovanni Pico della Mirandola, Maslama ibn Qasim al-Qurtubi
+- 1920-01-01 (52.5, 13.4), 3: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Max Moritz Warburg, Oskar Alfred Victor Schlemmer
+- 1933-01-01 (53.6, 10.0), 3: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Qasim al-Qurtubi, Max Moritz Warburg
+- 1268-01-01 (30.0, 31.2), 3: Afif al-Din Ali ibn Adlan al-Mawsili (Ibn Adlan), Ahmad al-Qalqashandi (Shihab al-Din Abu al-Abbas Ahmad ibn Ali ibn Ahmad al-Fazari al-Shafi'i al-Qalqashandi), Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1350-01-01 (30.0, 31.2), 3: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Ahmad al-Qalqashandi (Shihab al-Din Abu al-Abbas Ahmad ibn Ali ibn Ahmad al-Fazari al-Shafi'i al-Qalqashandi), Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1412-01-01 (30.0, 31.2), 3: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Ahmad al-Qalqashandi (Shihab al-Din Abu al-Abbas Ahmad ibn Ali ibn Ahmad al-Fazari al-Shafi'i al-Qalqashandi), Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1833-01-01 (48.9, 2.3), 3: Abd al-Rahman ibn Abd Allah al-Ghafiqi, Charles Barbier de la Serre, Marie Sophie Taglioni
+- 0760-01-01 (30.4, 47.7), 3: Afif al-Din Ali ibn Adlan al-Mawsili (Ibn Adlan), Al-Khalil ibn Ahmad al-Farahidi, Rabia al-Adawiyya (Rābi'a bint Ismā'īl al-'Adawiyya al-Qaysiyya)
+- 1951-01-01 (51.5, -0.1), 3: Alan Mathison Turing, Hilde Holger (Hilde Sofer, later Boman-Behram), Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 1952-01-01 (-34.6, -58.4), 3: Alberto Gerchunoff (born Abraham Gerchunoff), Osvaldo Pedro Pugliese, Viktor Sulčič
+- 1893-01-01 (-34.6, -58.4), 3: Alejandro Christophersen, Jules Charles (Carlos) Thays, Ángel della Valle
+- 2008-01-01 (37.4, -122.2), 3: Alexander Caedmon Karp, Donald Ervin Knuth (Gao Dena), René Noël Théophile Girard
+- 1821-01-01 (51.5, -0.1), 3: Alexander Baring, 1st Baron Ashburton, Charles Babbage, William Blake
+- 1829-01-01 (51.5, -0.1), 3: Alexander Baring, 1st Baron Ashburton, Charles John Huffam Dickens, Marie Sophie Taglioni
+- 1847-01-01 (51.5, -0.1), 3: Alexander Baring, 1st Baron Ashburton, Charles Babbage, Christina Georgina Rossetti
+- 1889-01-01 (51.5, -0.1), 3: Alexandra David-Néel (Louise Eugénie Alexandrine Marie David; Alexandra Myrial; Yeshe Tome), Loïe Fuller (Marie Louise Fuller), Paul Moritz Warburg
+- 1898-01-01 (48.9, 2.3), 3: Alexandra David-Néel (Louise Eugénie Alexandrine Marie David; Alexandra Myrial; Yeshe Tome), Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Paul Berthon (Paul Louis Joseph Berthon)
+- 1866-01-01 (48.9, 2.4), 3: Alexandre Dumas (Dumas père), Jean-Baptiste Pitois (Paul Christian), Jules Dormal Godet (Julio Dormal)
+- 1913-01-01 (-34.6, -58.4), 3: Alfonsina Storni, Jules Dormal Godet (Julio Dormal), Virginio Colombo
+- 1891-01-01 (48.8, 2.3), 3: Alfred Jarry, Henri Léon Lebesgue, Maria Salomea Skłodowska-Curie (Marie Curie)
+- 1893-01-01 (48.9, 2.4), 3: Alfred Jarry, Rudolf Rocker, Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1894-01-01 (48.9, 2.3), 3: Alfred Jarry, Jules-Félix Coutan, Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1906-01-01 (48.8, 2.3), 3: Alfred Jarry, Auguste Rodin (François Auguste René Rodin), Jules-Félix Coutan
+- 1927-01-01 (40.8, -74.0), 3: Allen Welsh Dulles, Charles "Lucky" Luciano (Salvatore Lucania), Edward Louis Bernays
+- 1947-01-01 (38.9, -77.0), 3: Allen Welsh Dulles, Clark McAdams Clifford, William Joseph Casey
+- 1880-01-01 (48.2, 16.4), 3: Alphonse Mucha (Alfons Maria Mucha), Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk), Gustav Klimt
+- 1896-01-01 (48.8, 2.3), 3: Alphonse Mucha (Alfons Maria Mucha), Henri-Louis Bergson, Paul Berthon (Paul Louis Joseph Berthon)
+- 1897-01-01 (48.9, 2.3), 3: Alphonse Mucha (Alfons Maria Mucha), Joseph-Antoine Bouvard, Paul Berthon (Paul Louis Joseph Berthon)
+- 1905-01-01 (40.7, -74.0), 3: Alphonse Mucha (Alfons Maria Mucha), Felix Adler, Ruth St. Denis (Ruth Dennis)
+- 1936-01-01 (48.9, 2.3), 3: Alphonse Mucha (Alfons Maria Mucha), G. I. Gurdjieff, Moshé Feldenkrais
+- 1334-01-01 (28.5, 77.2), 3: Abu Abdallah Muhammad ibn Battuta (Ibn Battuta al-Lawati al-Tanji), Amir Khusrow Dehlavi (Abu'l Hasan Yamin ud-Din Khusrau), Nizam ad-Din Auliya (Sultan-ji, Mahbub-e-Ilahi)
+- 1862-01-01 (-34.6, -58.4), 3: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Próspero Catelin (Thomas Prosper Catelin), Ángel della Valle
+- 1883-01-01 (-34.6, -58.4), 3: José Rafael Hernández, Torcuato Antonio de Alvear, Ángel della Valle
+- 1884-01-01 (-34.6, -58.4), 3: Próspero Catelin (Thomas Prosper Catelin), Torcuato Antonio de Alvear, Ángel della Valle
+- 1886-01-01 (-34.6, -58.4), 3: Francesco Tamburini, Torcuato Antonio de Alvear, Ángel della Valle
+- 1949-01-01 (-34.6, -58.4), 3: Carlos María della Paolera, Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1927-01-01 (52.5, 13.4), 3: Anna Matveyevna Pavlova, Arthur Scherbius (Jacob Ludolf Arthur Scherbius), Gustav Arthur "Gusto" Gräser
+- 1985-01-01 (38.9, -77.0), 3: Anni Albers (Annelise Else Frieda Fleischmann), Kenneth Lane Thompson, Oliver Laurence North
+- 1890-01-01 (51.5, -0.1), 3: Annie Besant (née Wood), Olga Fröbe-Kapteyn, Sir Edward Coley Burne-Jones, 1st Baronet
+- 1781-01-01 (48.9, 2.3), 3: Antoine Court de Gébelin, Empress Joséphine (Marie-Josèphe-Rose Tascher de La Pagerie, vicomtesse de Beauharnais), René Just Haüy
+- 1781-01-01 (48.9, 2.4), 3: Antoine Court de Gébelin, Franz Anton Mesmer, Jean-Baptiste Alliette, called Etteilla
+- 1783-01-01 (48.9, 2.4), 3: Antoine Court de Gébelin, Jean-Baptiste Alliette, called Etteilla, Pierre-Simon Laplace, marquis de Laplace
+- 1919-01-01 (48.9, 2.4), 3: Antoine de Saint-Exupéry, Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Georges Hébert
+- 0200-01-01 (41.9, 12.5), 3: Claudius Aelianus (Aelian), Simon bar Jonah, called Cephas, the Apostle Peter, Tertullian (Septimius Tertullianus)
+- 0950-01-01 (41.0, 29.0), 3: Archimedes of Syracuse, Polybius of Megalopolis, son of Lycortas, San Cristobal (Christopher of Lycia, born Reprobus / Adokimos of the Marmaritae)
+- 1928-01-01 (-34.9, -56.2), 3: Arthur Bispo do Rosário, Mario Palanti, Max Glücksmann (Mordechai David Glücksmann)
+- 1858-01-01 (51.5, -0.1), 3: Arthur Cayley, David Sassoon, Louis Vuitton
+- 1868-01-01 (51.5, -0.1), 3: Arthur Cayley, Mary "May" Morris, William Holman Hunt
+- 1874-01-01 (51.5, -0.1), 3: Arthur Edward Waite, Christina Georgina Rossetti, William Morris
+- 1899-01-01 (51.5, -0.1), 3: Arthur Edward Waite, David Sassoon, Pamela Colman Smith ("Pixie")
+- 1929-01-01 (51.5, -0.1), 3: Arthur Edward Waite, Ben-Zion Witler (Benzion Witler), Margaret Alice Murray
+- 1938-01-01 (51.5, -0.1), 3: Arthur Edward Waite, Friedrich August von Hayek, Nabucodonosor II (Nebuchadnezzar II, king of Babylon)
+- 1914-01-01 (52.5, 13.4), 3: Arthur Scherbius (Jacob Ludolf Arthur Scherbius), Engelbert Humperdinck, Walter Benjamin
+- 1925-01-01 (52.5, 13.4), 3: Arthur Scherbius (Jacob Ludolf Arthur Scherbius), Elsa Gindler, Satyendra Nath Bose
+- 1931-01-01 (40.7, -74.0), 3: Astor Pantaleón Piazzolla, Prescott Sheldon Bush, Ted Shawn (Edwin Myers Shawn)
+- 1954-01-01 (48.9, 2.3), 3: Astor Pantaleón Piazzolla, Christian Dior, Nadia Boulanger (Juliette Nadia Boulanger)
+- 1955-01-01 (-34.6, -58.4), 3: Astor Pantaleón Piazzolla, Dalila Puzzovio, Raúl Veroni (Raoul Veroni), the elder
+- 1956-01-01 (-34.6, -58.4), 3: Astor Pantaleón Piazzolla, Marta María Ezcurra Real de Azúa, Vito Dumas
+- 1972-01-01 (-34.6, -58.4), 3: Astor Pantaleón Piazzolla, Silvina Ocampo, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1976-01-01 (-34.6, -58.4), 3: Astor Pantaleón Piazzolla, Charly García, Raúl Veroni (Raoul Veroni), the elder
+- 1978-01-01 (-34.6, -58.4), 3: Astor Pantaleón Piazzolla, Eduardo Sergio Elsztain, Raúl Veroni (Raoul Veroni), the elder
+- 1880-01-01 (48.8, 2.3), 3: Auguste Kerckhoffs (Jean Guillaume Auguste Victor Alexandre François Hubert Kerckhoffs), Eugène Samuel Grasset, Jean-Claude Nicolas Forestier
+- 1883-01-01 (48.8, 2.3), 3: Auguste Kerckhoffs (Jean Guillaume Auguste Victor Alexandre François Hubert Kerckhoffs), Jules Henri Poincaré, Étienne-Jules Marey
+- 1864-01-01 (48.9, 2.3), 3: Auguste Rodin (François Auguste René Rodin), Sarah Bernhardt (Henriette-Rosine Bernard), Siméon Denis Poisson
+- 1880-01-01 (48.9, 2.3), 3: Auguste Rodin (François Auguste René Rodin), Louis Vuitton, Marcel Proust
+- 1908-01-01 (48.9, 2.3), 3: Auguste Rodin (François Auguste René Rodin), Gabrielle Bonheur "Coco" Chanel, Nadia Boulanger (Juliette Nadia Boulanger)
+- 1915-01-01 (41.9, 12.5), 3: Auguste Rodin (François Auguste René Rodin), Enrico Fermi, Julius Evola (Giulio Cesare Andrea Evola)
+- 1802-01-01 (48.8, 2.3), 3: Augustin-Louis Cauchy, Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia), Siméon Denis Poisson
+- 1815-01-01 (48.8, 2.3), 3: Augustin-Louis Cauchy, Victor-Marie Hugo, Évariste Galois
+- 1955-01-01 (40.8, -74.0), 3: Augusto Boal (Augusto Pinto Boal), Murray Newton Rothbard, Robert Moses
+- 1974-01-01 (-34.6, -58.4), 3: Augusto Boal (Augusto Pinto Boal), Augusto Pinochet Ugarte, Viktor Sulčič
+- 1978-01-01 (48.9, 2.4), 3: Augusto Boal (Augusto Pinto Boal), Paul Berthon (Paul Louis Joseph Berthon), Roland Gérard Barthes
+- 1979-01-01 (48.9, 2.4), 3: Augusto Boal (Augusto Pinto Boal), Jean Baudrillard, Pierre-Félix Guattari
+- 1971-01-01 (-33.4, -70.6), 3: Augusto Pinochet Ugarte, Cecilia Vicuña, Salvador Guillermo Allende Gossens
+- 1890-01-01 (40.7, -74.0), 3: Augustus Henry Julian Le Plongeon, Felix Adler, William R. Bradshaw
+- 1812-01-01 (48.9, 2.4), 3: Charles Barbier de la Serre, Mayer Amschel Rothschild, Pierre-Simon Laplace, marquis de Laplace
+- 1837-01-01 (48.9, 2.3), 3: Charles Barbier de la Serre, Marie Sophie Taglioni, Siméon Denis Poisson
+- 1825-01-01 (-34.6, -58.4), 3: Benigno Benjamín Villanueva (Villanokoff), María Remedios del Valle, Próspero Catelin (Thomas Prosper Catelin)
+- 1853-01-01 (48.9, 2.4), 3: Benigno Benjamín Villanueva (Villanokoff), Frédéric Auguste Bartholdi, Jean-Baptiste Pitois (Paul Christian)
+- 1913-01-01 (48.2, 16.4), 3: Ben-Zion Witler (Benzion Witler), Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk), Ludwig Heinrich Edler von Mises
+- 1922-01-01 (48.2, 16.4), 3: Ben-Zion Witler (Benzion Witler), Friedrich August von Hayek, Ludwig Heinrich Edler von Mises
+- 1934-01-01 (52.2, 21.0), 3: Ben-Zion Witler (Benzion Witler), Maria Salomea Skłodowska-Curie (Marie Curie), Victor Alter (Wiktor Alter)
+- 1982-01-01 (40.8, -74.0), 3: Bernard Jean Étienne Arnault, Maurice Bernard Sendak, Murray Newton Rothbard
+- 1946-01-01 (40.8, -74.0), 3: Bethsabée (Batsheva) de Rothschild, Doris Batcheller Humphrey, William Seward Burroughs II
+- 1950-01-01 (40.8, -74.0), 3: Bethsabée (Batsheva) de Rothschild, John Milton Cage Jr., Joseph Hubertus Pilates
+- 1951-01-01 (40.7, -74.0), 3: Bethsabée (Batsheva) de Rothschild, John Milton Cage Jr., Martha Graham
+- 1958-01-01 (31.8, 35.2), 3: Bethsabée (Batsheva) de Rothschild, Carl Theodor Dreyer, Golda Meir (Goldie Mabovitch, Golda Meyerson)
+- 2000-01-01 (51.5, -0.1), 3: Bethsabée (Batsheva) de Rothschild, Hilde Holger (Hilde Sofer, later Boman-Behram), Stanley Jeyaraja Tambiah
+- 1956-01-01 (42.4, -71.1), 3: Claude Elwood Shannon, Jacques Derrida (born Jackie Elie Derrida), Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1978-01-01 (42.4, -71.1), 3: Claude Elwood Shannon, Mary Elizabeth Moore Shannon (Betty Shannon), Vinton Gray Cerf (Vint Cerf)
+- 2011-01-01 (40.8, -74.0), 3: George Soros (born Schwartz György), Josefina Ayerza, William Henry Gates III (Bill Gates)
+- 2014-01-01 (40.8, -74.0), 3: Bjarne Stroustrup, Daniel Giannone, William Henry Gates III (Bill Gates)
+- 1966-01-01 (42.4, -71.1), 3: Avram Noam Chomsky, El Gólem, Robert Elliot Kahn (Bob Kahn)
+- 1815-01-01 (48.9, 2.4), 3: Jacob Ludwig Carl Grimm and Wilhelm Carl Grimm, Marie Sophie Taglioni, René Just Haüy
+- 1922-01-01 (41.4, 2.2), 3: Jean-Claude Nicolas Forestier, José Buenaventura Durruti Dumange, Juan Eduardo Cirlot Laporta
+- 1842-01-01 (51.5, -0.1), 3: Charles Babbage, Christina Georgina Rossetti, Edward Bulwer-Lytton, 1st Baron Lytton (Edward George Earle Lytton Bulwer)
+- 1843-01-01 (51.5, -0.1), 3: Calvert Vaux, Charles Babbage, Franz Anton Mesmer
+- 1866-01-01 (40.7, -74.0), 3: Calvert Vaux, Frederick Law Olmsted, Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son)
+- 1912-01-01 (48.9, 2.4), 3: Camille Rosalie Claudel, Georges Hébert, Georges Sorel
+- 1888-01-01 (48.2, 16.4), 3: Carl Menger (Carl Menger von Wolfensgrün), Gustav Klimt, Theodor Herzl (Binyamin Ze'ev Herzl)
+- 1892-01-01 (48.2, 16.4), 3: Carl Menger (Carl Menger von Wolfensgrün), Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk), Gustav Klimt
+- 1896-01-01 (48.2, 16.4), 3: Carl Menger (Carl Menger von Wolfensgrün), Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk), Martin Mordechai Buber
+- 1900-01-01 (48.2, 16.4), 3: Carl Menger (Carl Menger von Wolfensgrün), Fritz Lang (Friedrich Christian Anton Lang), Gustav Klimt
+- 1939-01-01 (-22.9, -43.2), 3: Carlos María della Paolera, Carmen Miranda (Maria do Carmo Miranda da Cunha), Charles Ponzi (Carlo Pietro Giovanni Guglielmo Tebaldo Ponzi)
+- 1859-01-01 (48.9, 2.3), 3: Jules Charles (Carlos) Thays, Louis Vuitton, Marie Sophie Taglioni
+- 1894-01-01 (-34.6, -58.4), 3: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Jules Charles (Carlos) Thays, Vittorio Meano (Victor Meano)
+- 1940-01-01 (40.8, -74.0), 3: Carmen Miranda (Maria do Carmo Miranda da Cunha), Herbert Marcuse, Ruth St. Denis (Ruth Dennis)
+- 1997-01-01 (40.7, -74.0), 3: Cecilia Vicuña, Josefina Ayerza, Mark Lombardi
+- 2012-01-01 (40.7, -74.0), 3: Cecilia Vicuña, Josefina Ayerza, Paul Elliott Singer
+- 1924-01-01 (41.9, 12.5), 3: Ceferino Namuncurá, Maria Tecla Artemisia Montessori, Mario Palanti
+- 1960-01-01 (23.1, -82.4), 3: Celia Esther Sánchez Manduley, Gabriel José García Márquez, Teté Puebla (Delsa Esther Puebla Viltres)
+- 1837-01-01 (51.5, -0.1), 3: Charles Babbage, Charles Robert Darwin, Christina Georgina Rossetti
+- 1838-01-01 (51.5, -0.1), 3: Charles Robert Darwin, Mary Wollstonecraft Shelley (born Mary Wollstonecraft Godwin), Sir John Everett Millais, 1st Baronet
+- 1918-01-01 (40.7, -74.0), 3: Charles "Lucky" Luciano (Salvatore Lucania), Felix Adler, Meyer Lansky (Maier Suchowljansky)
+- 1900-01-01 (41.9, 12.5), 3: Charles Ponzi (Carlo Pietro Giovanni Guglielmo Tebaldo Ponzi), Johannes Trithemius (Johann von Heidenberg), abbot of Sponheim and of St James's at Würzburg, Maria Tecla Artemisia Montessori
+- 1911-01-01 (48.9, 2.3), 3: Christian Dior, Erik Satie (Eric Alfred Leslie Satie), René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1953-01-01 (48.9, 2.3), 3: Christian Dior, Guy-Ernest Debord, Vaslav Nijinsky (Wacław Niżyński)
+- 1614-01-01 (51.3, 9.5), 3: Christian Rosenkreuz (Frater C.R.C., Christian Rosencreutz), Francis Bacon, 1st Viscount St Alban, Robert Fludd (Robertus de Fluctibus)
+- 1850-01-01 (51.5, -0.1), 3: Christina Georgina Rossetti, Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Michael Faraday
+- 1993-01-01 (40.7, -74.0), 3: Clark McAdams Clifford, James "Jamie" Dimon, Peter Andreas Thiel
+- 1932-01-01 (48.9, 2.4), 3: Claude Lévi-Strauss, Jacques Marie Émile Lacan, Victor Alter (Wiktor Alter)
+- 1946-01-01 (38.9, -77.0), 3: Claude Lévi-Strauss, Elizebeth Smith Friedman, William Frederick Friedman
+- 1962-01-01 (48.9, 2.4), 3: Claude Lévi-Strauss, Jacques Derrida (born Jackie Elie Derrida), William Seward Burroughs II
+- 1964-01-01 (48.9, 2.4), 3: Claude Lévi-Strauss, Michèle Bernstein, Roland Gérard Barthes
+- 1974-01-01 (41.9, 12.5), 3: Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Gabriel José García Márquez, Julio Florencio Cortázar Descotte
+- 2009-01-01 (-34.6, -58.4), 3: Cristina Elisabet Fernández de Kirchner, Daniel Gastón Schávelzon, Osvaldo Pedro Pugliese
+- 2016-01-01 (-34.6, -58.4), 3: Cristina Elisabet Fernández de Kirchner, Diego Gutiérrez Zaldívar, Mark Fisher
+- 1960-01-01 (40.4, -3.7), 3: Cristóbal Balenciaga Eizaguirre, Jacinto Molina Álvarez (Paul Naschy), Jheronimus van Aken, called Hieronymus Bosch
+- 2002-01-01 (37.8, -122.4), 3: Curtis Guy Yarvin (Mencius Moldbug), Peter Andreas Thiel, Ray Kurzweil
+- 2010-01-01 (37.8, -122.4), 3: Curtis Guy Yarvin (Mencius Moldbug), David Lee Chaum, Ralph Charles Merkle
+- 1943-01-01 (-34.6, -58.4), 3: Dalila Puzzovio, Enrique Santos Discépolo, Raúl Veroni (Raoul Veroni), the elder
+- 1963-01-01 (-34.6, -58.4), 3: Dalila Puzzovio, José López Rega (El Brujo), Julio Florencio Cortázar Descotte
+- 1965-01-01 (-34.6, -58.4), 3: Dalila Puzzovio, Raúl Veroni (Raoul Veroni), the elder, Viktor Sulčič
+- 1968-01-01 (-34.6, -58.4), 3: Dalila Puzzovio, Raúl Veroni (Raoul Veroni), the elder, Silvina Ocampo
+- 1985-01-01 (-34.6, -58.4), 3: Dalila Puzzovio, Daniel Gastón Schávelzon, Indra Devi (Eugenia Vasilievna Peterson, Eugenie Strakaty)
+- 1986-01-01 (-34.6, -58.4), 3: Dalila Puzzovio, Luis Alberto Spinetta, Osvaldo Pedro Pugliese
+- 1992-01-01 (-34.6, -58.4), 3: Dalila Puzzovio, Emiliano Kargieman, Raúl Veroni (Raoul Veroni), the elder
+- 2018-01-01 (-34.6, -58.4), 3: Daniel Gastón Schávelzon, Daniel Giannone, Javier Gerardo Milei
+- 2022-01-01 (-34.6, -58.4), 3: Daniel Gastón Schávelzon, Daniel Giannone, Javier Gerardo Milei
+- 2023-01-01 (-34.6, -58.4), 3: Daniel Giannone, Leo Chiachio (of Chiachio & Giannone), Raquel Liberman (Ruchla Laja Liberman)
+- 2024-01-01 (-34.6, -58.4), 3: Daniel Giannone, Eduardo Sergio Elsztain, Leo Chiachio (of Chiachio & Giannone)
+- 1994-01-01 (38.9, -77.0), 3: Daniel Gastón Schávelzon, Martin Edward Hellman, Stanley Jeyaraja Tambiah
+- 1856-01-01 (51.8, -1.3), 3: Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti), Friedrich Max Müller, Sir Edward Coley Burne-Jones, 1st Baronet
+- 1997-01-01 (48.9, 2.4), 3: David Nicolas Belle, Jean Baudrillard, Sara Rudner
+- 1958-01-01 (40.7, -74.0), 3: David Rockefeller, José Arcadio Limón, Murray Newton Rothbard
+- 1825-01-01 (48.9, 2.3), 3: François Delsarte, Pierre-Simon Laplace, marquis de Laplace, Siméon Denis Poisson
+- 1982-01-01 (-34.6, -58.4), 3: Diego Gutiérrez Zaldívar, Indra Devi (Eugenia Vasilievna Peterson, Eugenie Strakaty), Luis Alberto Spinetta
+- 1999-01-01 (-34.6, -58.4), 3: Diego Gutiérrez Zaldívar, Eduardo Sergio Elsztain, Max Glücksmann (Mordechai David Glücksmann)
+- 2002-01-01 (-34.6, -58.4), 3: Diego Gutiérrez Zaldívar, Emiliano Kargieman, Javier Gerardo Milei
+- 1978-01-01 (37.4, -122.2), 3: Donald Ervin Knuth (Gao Dena), Martin Edward Hellman, Ralph Charles Merkle
+- 1993-01-01 (37.4, -122.2), 3: Donald Ervin Knuth (Gao Dena), Philip R. Zimmermann (Phil Zimmermann), René Noël Théophile Girard
+- 1951-01-01 (40.8, -74.0), 3: Doris Batcheller Humphrey, Martin Mordechai Buber, Robert Moses
+- 1692-01-01 (51.5, -0.1), 3: Edgar Allan Poe, Edmond Halley, William Paterson
+- 1671-01-01 (51.5, -0.1), 3: Edmond Halley, John Locke, Robert Hooke
+- 1693-01-01 (51.5, -0.1), 3: Edmond Halley, John Locke, Polybius of Megalopolis, son of Lycortas
+- 1712-01-01 (51.5, -0.1), 3: Edmond Halley, Gottfried Wilhelm Leibniz, Sir Isaac Newton
+- 2012-01-01 (32.1, 34.8), 3: Eduardo Sergio Elsztain, Paul Elliott Singer, Yuval Noah Harari
+- 1988-01-01 (42.4, -71.1), 3: Avram Noam Chomsky, Edward Bellamy, Ronald Linn Rivest
+- 1922-01-01 (40.7, -74.0), 3: Edward Louis Bernays, Marcus Mosiah Garvey, Vladimir Medem (Vladimir Davidovich Medem, born Grinberg)
+- 1928-01-01 (40.8, -74.0), 3: Edward Louis Bernays, Martha Graham, Meyer Lansky (Maier Suchowljansky)
+- 1992-01-01 (42.4, -71.1), 3: Edward Louis Bernays, John Rogers Searle, Stanley Jeyaraja Tambiah
+- 1785-01-01 (51.5, -0.1), 3: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), Franz Anton Mesmer, John Dee
+- 1941-01-01 (48.8, 2.3), 3: Henri Léon Lebesgue, Roland Gérard Barthes, Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1906-01-01 (52.5, 13.4), 3: Elsa Gindler, Engelbert Humperdinck, Martin Mordechai Buber
+- 1945-01-01 (40.8, -74.0), 3: Elsa Gindler, Joseph Hubertus Pilates, William Seward Burroughs II
+- 1882-01-01 (48.9, 2.4), 3: Joseph Alexandre Saint-Yves, Marquis d'Alveydre, Joseph-Antoine Bouvard, Émile Pouget
+- 1904-01-01 (48.9, 2.4), 3: Eugène Samuel Grasset, Henri Léon Lebesgue, Émile Pouget
+- 1990-01-01 (-34.6, -58.4), 3: Emiliano Kargieman, Leo Chiachio (of Chiachio & Giannone), Sergio Demian Lerner
+- 1976-01-01 (48.9, 2.4), 3: Emma Kunz, Jean Baudrillard, Paul-Michel Foucault
+- 1930-01-01 (50.1, 8.7), 3: Amalie Emmy Noether, Martin Mordechai Buber, Walter Benjamin
+- 0500-01-01 (41.0, 29.0), 3: Empress Theodora (Theodora Augusta, consort of Justinian I), Justinian I (Flavius Petrus Sabbatius Iustinianus), Saint Blaise of Sebastea (Blasius, Sveti Vlaho, San Biagio)
+- 1902-01-01 (46.2, 8.8), 3: Ida Hofmann (Ida Hofmann-Oedenkoven), Karl Gräser (Carl Samuel Josef Gräser), Karl Max Engelmann (Liga Pitagórica)
+- 1918-01-01 (46.2, 8.8), 3: Gustav Arthur "Gusto" Gräser, Karl Max Engelmann (Liga Pitagórica), Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1923-01-01 (-34.6, -58.4), 3: Enrique Santos Discépolo, Francisco Gianotti (Francesco Terenzio Gianotti), Mario Palanti
+- 1904-01-01 (46.2, 8.8), 3: Erich Mühsam, Henri Oedenkoven, Karl Gräser (Carl Samuel Josef Gräser)
+- 1881-01-01 (48.9, 2.3), 3: Erik Satie (Eric Alfred Leslie Satie), Geneviève Stebbins, Luc-Olivier Merson
+- 1908-01-01 (48.8, 2.3), 3: Erik Satie (Eric Alfred Leslie Satie), Jean-Claude Nicolas Forestier, Jules Henri Poincaré
+- 1912-01-01 (48.8, 2.3), 3: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Erik Satie (Eric Alfred Leslie Satie), Henri Léon Lebesgue
+- 1915-01-01 (48.9, 2.4), 3: Erik Satie (Eric Alfred Leslie Satie), Lev Davidovich Bronstein (Leon Trotsky), Nadia Boulanger (Juliette Nadia Boulanger)
+- 1920-01-01 (48.9, 2.3), 3: Erik Satie (Eric Alfred Leslie Satie), Luc-Olivier Merson, Marcel Proust
+- 1904-01-01 (48.9, 2.3), 3: Georges Hébert, Jules Henri Poincaré, Étienne Bazeries
+- 1784-01-01 (48.9, 2.4), 3: Franz Anton Mesmer, Jean-Baptiste Alliette, called Etteilla, René Just Haüy
+- 1785-01-01 (48.9, 2.4), 3: Franz Anton Mesmer, Jean-Baptiste Alliette, called Etteilla, René Just Haüy
+- 1790-01-01 (48.9, 2.4), 3: Claude-Henri de Rouvroy, comte de Saint-Simon, Jean-Baptiste Alliette, called Etteilla, Pierre-Simon Laplace, marquis de Laplace
+- 1897-01-01 (48.2, 16.4), 3: Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk), Gustav Arthur "Gusto" Gräser, Gustav Klimt
+- 1908-01-01 (48.2, 16.4), 3: Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk), Otto Gross, Troiano Troiani
+- 1875-01-01 (48.9, 2.3), 3: Eugène Samuel Grasset, Frédéric Auguste Bartholdi, Luc-Olivier Merson
+- 1898-01-01 (48.9, 2.4), 3: Eugène Samuel Grasset, Henri Léon Lebesgue, Loïe Fuller (Marie Louise Fuller)
+- 1923-01-01 (41.9, 12.5), 3: Filippo Tommaso Emilio Marinetti, Giuseppe Tucci, Julius Evola (Giulio Cesare Andrea Evola)
+- 1976-01-01 (48.9, 2.3), 3: Nadia Boulanger (Juliette Nadia Boulanger), Nicos Poulantzas, Pierre-Félix Guattari
+- 1934-01-01 (48.9, 2.4), 3: Felix José Weil, Joseph-Marie Jacquard (born Joseph Marie Charles), Max Perelman (Max Perlman, born Meiers Perlmanis)
+- 1939-01-01 (40.8, -74.0), 3: Felix José Weil, Max Horkheimer, Ruth St. Denis (Ruth Dennis)
+- 1924-01-01 (51.5, -0.1), 3: Frances Amelia Yates, Haile Selassie I (Lij Tafari Makonnen, Ras Tafari), Margaret Alice Murray
+- 1969-01-01 (51.5, -0.1), 3: Frances Amelia Yates, Nicos Poulantzas, Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 1972-01-01 (51.5, -0.1), 3: Anthony Stafford Beer, Frances Amelia Yates, William Seward Burroughs II
+- 1891-01-01 (-34.6, -58.4), 3: Francesco Tamburini, Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Max Glücksmann (Mordechai David Glücksmann)
+- 1808-01-01 (48.2, 16.4), 3: Franz Pforr, Johann Friedrich Overbeck, Wolfgang Amadeus Mozart (Joannes Chrysostomus Wolfgangus Theophilus Mozart)
+- 1923-01-01 (50.1, 8.7), 3: Franz Pforr, Martin Mordechai Buber, Theodor W. Adorno (Theodor Ludwig Wiesengrund)
+- 1876-01-01 (48.9, 2.3), 3: Frédéric Auguste Bartholdi, Louis Vuitton, Sarah Bernhardt (Henriette-Rosine Bernard)
+- 1935-01-01 (51.5, -0.1), 3: Friedrich August von Hayek, Ian Lancaster Fleming, Margaret Alice Murray
+- 1902-01-01 (40.7, -74.0), 3: Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy'), John Pierpont Morgan, Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1587-01-01 (41.9, 12.5), 3: Galileo Galilei, Johann Georg Faust (Georgius Sabellicus Faustus junior), Saint Cyriacus of Rome (Kyriakos, Ciriaco, Cyriakus, Cyriaque), deacon and martyr
+- 1978-01-01 (40.8, -74.0), 3: George Balanchine (Georgiy Melitonovich Balanchivadze), William Egan Colby, William Joseph Casey
+- 1956-01-01 (40.7, -74.0), 3: George Soros (born Schwartz György), José Arcadio Limón, Merce Cunningham (Mercier Philip Cunningham)
+- 1981-01-01 (40.8, -74.0), 3: George Soros (born Schwartz György), Jeffrey Edward Epstein, Sophie Taeuber-Arp
+- 1894-01-01 (48.9, 2.4), 3: Georges Sorel, Paul Jules Barbier, Pío Collivadino
+- 1953-01-01 (48.9, 2.4), 3: Gilles Louis Rene Deleuze, Jacques Marie Émile Lacan, Roland Gérard Barthes
+- 1924-01-01 (31.8, 35.2), 3: Golda Meir (Goldie Mabovitch, Golda Meyerson), Haile Selassie I (Lij Tafari Makonnen, Ras Tafari), Victor Alter (Wiktor Alter)
+- 1960-01-01 (40.7, -74.0), 3: Golda Meir (Goldie Mabovitch, Golda Meyerson), Merce Cunningham (Mercier Philip Cunningham), Viola Farber
+- 2008-01-01 (37.4, -122.1), 3: Guido van Rossum, Leslie Barry Lamport, Linus Benedict Torvalds
+- 1866-01-01 (48.9, 2.3), 3: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Jules-Félix Coutan, Luc-Olivier Merson
+- 1884-01-01 (48.9, 2.3), 3: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Lionel-Noël Royer, Paul Jules Barbier
+- 1916-01-01 (46.2, 8.8), 3: Gustav Arthur "Gusto" Gräser, Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1891-01-01 (51.5, -0.1), 3: Herbert George Wells, Max Moritz Warburg, Sir James Matthew Barrie, 1st Baronet
+- 1968-01-01 (40.8, -74.0), 3: Hanya Holm (born Johanna Josepha Eckert), Murray Newton Rothbard, Ray Kurzweil
+- 1983-01-01 (37.5, -122.2), 3: Leslie Barry Lamport, Martin Edward Hellman, Ronald Linn Rivest
+- 1916-01-01 (40.4, -3.7), 3: Henri-Louis Bergson, Lucía Sánchez Saornil, Sergei Pavlovich Diaghilev
+- 1925-01-01 (48.9, 2.3), 3: Henri-Louis Bergson, Jean-Claude Nicolas Forestier, René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1814-01-01 (48.9, 2.4), 3: Claude-Henri de Rouvroy, comte de Saint-Simon, Pierre-Simon Laplace, marquis de Laplace, René Just Haüy
+- 1927-01-01 (48.8, 2.3), 3: Henri Léon Lebesgue, Jacques Marie Émile Lacan, Marcel Proust
+- 1901-01-01 (40.7, -74.0), 3: Henry Clay Frick, Samuel Langhorne Clemens (Mark Twain), William R. Bradshaw
+- 1851-01-01 (48.9, 2.4), 3: Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), Jules Gabriel Verne, János Czetz (Juan Fernando Czetz)
+- 1890-01-01 (48.9, 2.3), 3: Honoré de Balzac, Louis Vuitton, Max Moritz Warburg
+- 1882-01-01 (40.7, -74.0), 3: Ignatius Loyola Donnelly, José Julián Martí Pérez (José Martí), Loïe Fuller (Marie Louise Fuller)
+- 1921-01-01 (51.0, 11.3), 3: Johannes Itten, Oskar Alfred Victor Schlemmer, Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1936-01-01 (51.8, -1.3), 3: John Langshaw Austin, Mary "May" Morris, Theodor W. Adorno (Theodor Ludwig Wiesengrund)
+- 1949-01-01 (48.8, 2.3), 3: Jacques Derrida (born Jackie Elie Derrida), Mircea Eliade, Paul-Michel Foucault
+- 1908-01-01 (51.5, -0.1), 3: James Lewis Thomas Chalmers Spence (Lewis Spence), Mary "May" Morris, Ruth St. Denis (Ruth Dennis)
+- 1968-01-01 (48.9, 2.4), 3: Jean Baudrillard, Julio Florencio Cortázar Descotte, Nick Land
+- 1970-01-01 (48.9, 2.4), 3: Jean Baudrillard, Josefina Ayerza, Roland Gérard Barthes
+- 1986-01-01 (48.9, 2.4), 3: Jean Baudrillard, Leo Africanus (al-Hasan ibn Muhammad al-Wazzan al-Fasi al-Gharnati), Slavoj Žižek
+- 1961-01-01 (51.5, -0.1), 3: Anthony Stafford Beer, Jiddu Krishnamurti, Michael Faraday
+- 1600-01-01 (50.1, 14.4), 3: Johann Georg Faust (Georgius Sabellicus Faustus junior), Johannes Trithemius (Johann von Heidenberg), abbot of Sponheim and of St James's at Würzburg, Judah Loew ben Bezalel (the Maharal of Prague)
+- 1490-01-01 (43.8, 11.3), 3: Johannes Reuchlin (Capnion), Lorenzo di Piero de' Medici (Lorenzo il Magnifico), Michelangelo di Lodovico Buonarroti Simoni
+- 1953-01-01 (51.5, -0.1), 3: Margaret Alice Murray, Mohammad Mosaddegh, Sir John Everett Millais, 1st Baronet
+- 1878-01-01 (-34.6, -58.4), 3: José Rafael Hernández, Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Pedro Simón del Corazón de Jesús Benoit
+- 1930-01-01 (40.8, -74.0), 3: Joseph Hubertus Pilates, José Arcadio Limón, Paul Moritz Warburg
+- 1999-01-01 (40.7, -74.0), 3: Josefina Ayerza, Krishna Pattabhi Jois, Mark Lombardi
+- 2003-01-01 (40.8, -74.0), 3: Josefina Ayerza, Leon David Black, Leslie Herbert Wexner
+- 2010-01-01 (40.7, -74.0), 3: Josefina Ayerza, Laurence Douglas "Larry" Fink, Richard Dawkins (Clinton Richard Dawkins)
+- 1871-01-01 (48.9, 2.3), 3: Joseph Alexandre Saint-Yves, Marquis d'Alveydre, Lionel-Noël Royer, Louis Vuitton
+- 1960-01-01 (40.8, -74.0), 3: Joseph Hubertus Pilates, Paolo Soleri, Paul Berthon (Paul Louis Joseph Berthon)
+- 1953-01-01 (41.9, 12.5), 3: Julius Evola (Giulio Cesare Andrea Evola), Paul Casimir Marcinkus, William Egan Colby
+- 1971-01-01 (46.2, 6.1), 3: Klaus Martin Schwab, Paulo Reglus Neves Freire, Roland Gérard Barthes
+- 1450-01-01 (41.9, 12.5), 3: Leon Battista Alberti, Maslama ibn Qasim al-Qurtubi, Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo)
+- 1997-01-01 (51.9, -2.1), 3: Leonard Max Adleman, Philip R. Zimmermann (Phil Zimmermann), Ronald Linn Rivest
+- 1828-01-01 (48.9, 2.3), 3: Louis XIV, roi de France et de Navarre, called Louis le Grand and le Roi-Soleil, Marie Sophie Taglioni, Siméon Denis Poisson
+- 1985-01-01 (13.7, -89.1), 3: Manuel Antonio Noriega Moreno, Oliver Laurence North, William Joseph Casey
+- 1946-01-01 (51.5, -0.1), 3: Margaret Alice Murray, Maria Tecla Artemisia Montessori, Moshé Feldenkrais
+- 1957-01-01 (40.7, -74.0), 3: Maurice Bernard Sendak, Michele Sindona, Robert Moses
+- 1915-01-01 (52.5, 13.4), 3: Max Moritz Warburg, Valeska Gert (Gertrud Valesca Samosch), Walter Benjamin
+- 1977-01-01 (45.5, 9.2), 3: Michele Sindona, Roberto Calvi, Silvio Berlusconi
+- 1999-01-01 (38.9, -77.0), 3: Jacinto Molina Álvarez (Paul Naschy), Nick Szabo, Ray Kurzweil
+- 2019-01-01 (51.5, -0.1), 3: Nicos Poulantzas, Salomon Trismosin, Slavoj Žižek
+- 1980-01-01 (48.9, 2.4), 3: Avram Noam Chomsky, Roland Gérard Barthes, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 0077-01-01 (41.9, 12.5), 3: Plinio el Viejo (Gaius Plinius Secundus, Pliny the Elder), Pytheas de Massalia, Zoroaster (Zarathustra Spitama)
+- 0550-01-01 (41.0, 29.0), 3: Pytheas de Massalia, Saint Blaise of Sebastea (Blasius, Sveti Vlaho, San Biagio), San Cristobal (Christopher of Lycia, born Reprobus / Adokimos of the Marmaritae)
+- 1809-01-01 (48.8, 2.3), 3: René Just Haüy, Siméon Denis Poisson, Victor-Marie Hugo
+- 0494-01-01 (41.9, 12.5), 3: Saint Cyriacus of Rome (Kyriakos, Ciriaco, Cyriakus, Cyriaque), deacon and martyr, Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis), San Vito (Vitus of Lucania, Sankt Veit, Svaty Vit, Sveti Vid)
+- -1311-01-01 (30.7, 34.4), 2: Aaron the Levite (Aharon ben Amram), Moses
+- 1166-01-01 (33.3, 44.4), 2: Abd al-Qadir al-Jilani (Abdul Qadir Gilani), Ghawth al-A'zam, Khwaja Mu'in al-Din Hasan Chishti (Moinuddin Chishti), Gharib Nawaz
+- 1327-01-01 (33.3, 44.4), 2: Abd al-Qadir al-Jilani (Abdul Qadir Gilani), Ghawth al-A'zam, Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad)
+- 1826-01-01 (33.3, 44.4), 2: Abd al-Qadir al-Jilani (Abdul Qadir Gilani), Ghawth al-A'zam, David Sassoon
+- 2000-01-01 (33.3, 44.4), 2: Abd al-Qadir al-Jilani (Abdul Qadir Gilani), Ghawth al-A'zam, Saddam Hussein al-Tikriti
+- 0613-01-01 (21.4, 39.8), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Muhammad ibn Abdullah
+- 0620-01-01 (21.4, 39.8), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Aishah bint Abi Bakr
+- 1517-01-01 (41.0, 29.0), 2: Abu Bakr as-Siddiq (Abd Allah ibn Abi Quhafa), Leo Africanus (al-Hasan ibn Muhammad al-Wazzan al-Fasi al-Gharnati)
+- 0900-01-01 (33.3, 44.4), 2: Abu Yazid Tayfur ibn Isa al-Bistami (Bayazid Bastami), Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad)
+- 1176-01-01 (36.5, 55.0), 2: Abu Yazid Tayfur ibn Isa al-Bistami (Bayazid Bastami), Farid al-Din Attar (Farid al-Din Muhammad ibn Ibrahim, 'Attar-e Nishaburi)
+- 1238-01-01 (33.5, 36.3), 2: Abu Yazid Tayfur ibn Isa al-Bistami (Bayazid Bastami), Ibn Arabi (Muhyi al-Din Abu Abdallah Muhammad ibn al-Arabi al-Ha'timi al-Ta'i)
+- 1922-01-01 (48.9, 2.4), 2: Abu Yazid Tayfur ibn Isa al-Bistami (Bayazid Bastami), Henri Léon Lebesgue
+- 1879-01-01 (53.6, 10.0), 2: Aby Moritz Warburg, Max Moritz Warburg
+- 1902-01-01 (53.6, 10.0), 2: Aby Moritz Warburg, Max Moritz Warburg
+- 1919-01-01 (53.6, 10.0), 2: Aby Moritz Warburg, Anni Albers (Annelise Else Frieda Fleischmann)
+- 1989-01-01 (-34.6, -58.4), 2: Ada Falcón (Aída Elsa Ada Falcone), Indra Devi (Eugenia Vasilievna Peterson, Eugenie Strakaty)
+- 1840-01-01 (51.5, -0.1), 2: Augusta Ada King, Countess of Lovelace (Ada Byron), Sir John Everett Millais, 1st Baronet
+- 1840-01-01 (45.1, 7.7), 2: Augusta Ada King, Countess of Lovelace (Ada Byron), Charles Babbage
+- 1843-01-01 (51.5, -0.2), 2: Augusta Ada King, Countess of Lovelace (Ada Byron), Joseph-Marie Jacquard (born Joseph Marie Charles)
+- 1767-01-01 (51.5, -0.1), 2: Adam Smith, William Blake
+- 1973-01-01 (32.1, 34.8), 2: Adi Shamir, Bethsabée (Batsheva) de Rothschild
+- 1982-01-01 (34.0, -118.3), 2: Adi Shamir, Ronald Linn Rivest
+- 1985-01-01 (32.1, 34.8), 2: Adnan Muhammad Khashoggi, Bethsabée (Batsheva) de Rothschild
+- 2003-01-01 (43.3, 5.4), 2: Adnan Muhammad Khashoggi, George Walker Bush
+- 1973-01-01 (-34.6, -58.4), 2: Adolfo Bioy Casares, El Inca Garcilaso de la Vega (Gómez Suárez de Figueroa)
+- 1998-01-01 (48.9, 2.4), 2: Adolfo Bioy Casares, Miller Smith Puckette
+- 0590-01-01 (41.9, 12.5), 2: Publius Aelius Hadrianus (Adriano, Hadrian), Simon of Gitta, called Simon Magus, the Power That Is Called Great
+- 1982-01-01 (38.9, -77.0), 2: Agha Hasan Abedi, Clark McAdams Clifford
+- 1985-01-01 (9.0, -79.5), 2: Agha Hasan Abedi, William Joseph Casey
+- 1878-01-01 (41.4, 2.2), 2: Agustí Querol i Subirats (Agustín Querol Subirats), Antoni Gaudí i Cornet
+- 1883-01-01 (41.4, 2.2), 2: Agustí Querol i Subirats (Agustín Querol Subirats), Sabino Policarpo Arana Goiri
+- 1885-01-01 (41.9, 12.5), 2: Achille-Claude Debussy, Agustí Querol i Subirats (Agustín Querol Subirats)
+- 1898-01-01 (48.2, 16.4), 2: Agustí Querol i Subirats (Agustín Querol Subirats), Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk)
+- 1904-01-01 (19.4, -99.1), 2: Agustí Querol i Subirats (Agustín Querol Subirats), Carlos Slim Helú
+- 1881-01-01 (48.2, 16.4), 2: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk)
+- 1903-01-01 (46.5, 30.7), 2: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1904-01-01 (46.5, 30.7), 2: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1912-01-01 (51.5, -0.1), 2: Ahad Ha'am (Asher Zvi Hirsch Ginzberg), Felix Christian Klein
+- 0970-01-01 (37.9, -4.8), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi)
+- 0975-01-01 (37.9, -4.8), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi)
+- 0950-01-01 (30.5, 47.8), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi)
+- 0954-01-01 (37.9, -4.8), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi)
+- 1360-01-01 (30.0, 31.2), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi)
+- 1377-01-01 (34.9, 1.1), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi)
+- 1380-01-01 (30.0, 31.3), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Ahmad al-Qalqashandi (Shihab al-Din Abu al-Abbas Ahmad ibn Ali ibn Ahmad al-Fazari al-Shafi'i al-Qalqashandi)
+- 1257-01-01 (37.4, -6.0), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Qasim al-Qurtubi
+- 1260-01-01 (39.9, -4.0), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi)
+- 1986-01-01 (41.8, -71.4), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Maslama ibn Qasim al-Qurtubi
+- 1996-01-01 (40.4, -3.7), 2: Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad), Jacinto Molina Álvarez (Paul Naschy)
+- 0850-01-01 (33.3, 44.4), 2: Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad), Ahmad al-Qalqashandi (Shihab al-Din Abu al-Abbas Ahmad ibn Ali ibn Ahmad al-Fazari al-Shafi'i al-Qalqashandi)
+- 1361-01-01 (30.0, 31.2), 2: Ahmad al-Qalqashandi (Shihab al-Din Abu al-Abbas Ahmad ibn Ali ibn Ahmad al-Fazari al-Shafi'i al-Qalqashandi), Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1390-01-01 (30.0, 31.3), 2: Ahmad al-Qalqashandi (Shihab al-Din Abu al-Abbas Ahmad ibn Ali ibn Ahmad al-Fazari al-Shafi'i al-Qalqashandi), Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1808-01-01 (48.8, 2.4), 2: Aimé Jacques Alexandre Goujaud, called Bonpland, Marie Adrienne Françoise de Noailles, Marquise de Lafayette
+- 0614-01-01 (21.4, 39.8), 2: Aishah bint Abi Bakr, Muhammad ibn Abdullah
+- 0616-01-01 (21.4, 39.8), 2: Aishah bint Abi Bakr, Muhammad ibn Abdullah
+- 1180-01-01 (30.0, 31.2), 2: Al-Malik al-Kamil (al-Malik al-Kamil Nasir al-Din Muhammad ibn al-Adil), Maimonides (Moshe ben Maimon / Musa ibn Maymun, the Rambam)
+- 0733-01-01 (30.4, 47.7), 2: Al-Khalil ibn Ahmad al-Farahidi, Rabia al-Adawiyya (Rābi'a bint Ismā'īl al-'Adawiyya al-Qaysiyya)
+- 0755-01-01 (30.4, 47.7), 2: Al-Khalil ibn Ahmad al-Farahidi, Rabia al-Adawiyya (Rābi'a bint Ismā'īl al-'Adawiyya al-Qaysiyya)
+- 0762-01-01 (30.4, 47.7), 2: Al-Khalil ibn Ahmad al-Farahidi, Rabia al-Adawiyya (Rābi'a bint Ismā'īl al-'Adawiyya al-Qaysiyya)
+- 0770-01-01 (30.4, 47.7), 2: Al-Khalil ibn Ahmad al-Farahidi, Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 0778-01-01 (30.4, 47.7), 2: Al-Khalil ibn Ahmad al-Farahidi, Rabia al-Adawiyya (Rābi'a bint Ismā'īl al-'Adawiyya al-Qaysiyya)
+- 0780-01-01 (30.4, 47.7), 2: Al-Khalil ibn Ahmad al-Farahidi, Rabia al-Adawiyya (Rābi'a bint Ismā'īl al-'Adawiyya al-Qaysiyya)
+- 0782-01-01 (30.4, 47.7), 2: Al-Khalil ibn Ahmad al-Farahidi, Rabia al-Adawiyya (Rābi'a bint Ismā'īl al-'Adawiyya al-Qaysiyya)
+- 0830-01-01 (33.3, 44.4), 2: Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad), Al-Khalil ibn Ahmad al-Farahidi
+- 0786-01-01 (30.4, 47.7), 2: Al-Khalil ibn Ahmad al-Farahidi, Rabia al-Adawiyya (Rābi'a bint Ismā'īl al-'Adawiyya al-Qaysiyya)
+- 0801-01-01 (32.0, 44.4), 2: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Afif al-Din Ali ibn Adlan al-Mawsili (Ibn Adlan)
+- 0832-01-01 (33.3, 44.4), 2: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Aristotle (Aristotélēs, son of Nicomachus)
+- 0843-01-01 (33.3, 44.3), 2: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 0873-01-01 (33.3, 44.3), 2: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1250-01-01 (30.0, 31.2), 2: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1267-01-01 (51.8, -1.3), 2: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Aristotle (Aristotélēs, son of Nicomachus)
+- 1992-01-01 (41.0, 29.0), 2: Abu Yusuf Ya'qub ibn Ishaq al-Kindi, Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1871-01-01 (38.9, -77.0), 2: Albert Pike, Prince Hall
+- 1914-01-01 (40.4, -3.7), 2: Alberto Gerchunoff (born Abraham Gerchunoff), Jheronimus van Aken, called Hieronymus Bosch
+- 1934-01-01 (-34.9, -56.2), 2: Alberto Gerchunoff (born Abraham Gerchunoff), Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz)
+- 1937-01-01 (-33.4, -70.7), 2: Alberto Gerchunoff (born Abraham Gerchunoff), Alfonsina Storni
+- 1250-01-01 (50.9, 7.0), 2: Albertus Magnus (Albert of Lauingen, Albert the Great), Thomas Aquinas (Tommaso d'Aquino)
+- 1350-01-01 (50.9, 7.0), 2: Albertus Magnus (Albert of Lauingen, Albert the Great), Saint Blaise of Sebastea (Blasius, Sveti Vlaho, San Biagio)
+- 1907-01-01 (-34.9, -56.2), 2: Alejandro Christophersen, Jules Charles (Carlos) Thays
+- 1931-01-01 (-34.6, -58.5), 2: Alejandro Christophersen, Luis Perlotti
+- 1941-01-01 (-34.6, -58.5), 2: Alejandro Christophersen, Luis Perlotti
+- 1980-01-01 (55.8, 37.6), 2: Aleksandr Gelyevich Dugin, Richard Phillips Feynman
+- 1997-01-01 (55.8, 37.6), 2: Aleksandr Gelyevich Dugin, George Soros (born Schwartz György)
+- 1998-01-01 (55.8, 37.6), 2: Aleksandr Gelyevich Dugin, Vladimir Petrovich Demikhov
+- 1970-01-01 (40.0, -75.2), 2: Alexander Caedmon Karp, R. Buckminster Fuller
+- 1995-01-01 (50.1, 8.7), 2: Alexander Caedmon Karp, Winfried Georg Sebald (W.G. Sebald, 'Max' Sebald)
+- 2004-01-01 (37.4, -122.2), 2: Alexander Caedmon Karp, Peter Andreas Thiel
+- 2016-01-01 (37.4, -122.2), 2: Alexander Caedmon Karp, Martin Edward Hellman
+- 1801-01-01 (51.5, -0.1), 2: Alexander Baring, 1st Baron Ashburton, Sir Francis Baring, 1st Baronet
+- 1805-01-01 (51.5, -0.1), 2: Alexander Baring, 1st Baron Ashburton, Mayer Amschel Rothschild
+- 1807-01-01 (51.5, -0.1), 2: Alexander Baring, 1st Baron Ashburton, Mary Wollstonecraft Shelley (born Mary Wollstonecraft Godwin)
+- 1868-01-01 (51.5, -0.2), 2: Alexander Graham Bell, Sir Edward Coley Burne-Jones, 1st Baronet
+- 1937-01-01 (55.8, 37.6), 2: Alexandra David-Néel (Louise Eugénie Alexandrine Marie David; Alexandra Myrial; Yeshe Tome), Vladimir Petrovich Demikhov
+- 1833-01-01 (48.9, 2.4), 2: Alexis-Charles-Henri Clérel de Tocqueville, Honoré de Balzac
+- 1835-01-01 (48.9, 2.4), 2: Alexis-Charles-Henri Clérel de Tocqueville, Marie Sophie Taglioni
+- 1840-01-01 (48.9, 2.4), 2: Alexis-Charles-Henri Clérel de Tocqueville, Louis Braille
+- 1919-01-01 (-34.9, -56.2), 2: Alfonsina Storni, Mario Palanti
+- 1948-01-01 (48.9, 2.4), 2: Alfred Jarry, Pierre-Félix Guattari
+- 1916-01-01 (38.9, -77.0), 2: Allen Welsh Dulles, Herbert Osborn Yardley
+- 1935-01-01 (52.5, 13.4), 2: Allen Welsh Dulles, Elsa Gindler
+- 1954-01-01 (38.9, -77.0), 2: Allen Welsh Dulles, Frank Herbert (Franklin Patrick Herbert Jr.)
+- 1889-01-01 (48.8, 2.3), 2: Alphonse Mucha (Alfons Maria Mucha), Henri-Louis Bergson
+- 1895-01-01 (48.9, 2.4), 2: Alphonse Mucha (Alfons Maria Mucha), Erik Satie (Eric Alfred Leslie Satie)
+- 1272-01-01 (28.6, 77.2), 2: Amir Khusrow Dehlavi (Abu'l Hasan Yamin ud-Din Khusrau), Nizam ad-Din Auliya (Sultan-ji, Mahbub-e-Ilahi)
+- 1312-01-01 (28.6, 77.2), 2: Amir Khusrow Dehlavi (Abu'l Hasan Yamin ud-Din Khusrau), Nizam ad-Din Auliya (Sultan-ji, Mahbub-e-Ilahi)
+- 1319-01-01 (28.6, 77.2), 2: Amir Khusrow Dehlavi (Abu'l Hasan Yamin ud-Din Khusrau), Nizam ad-Din Auliya (Sultan-ji, Mahbub-e-Ilahi)
+- 1922-01-01 (48.9, 2.3), 2: André Breton, Luc-Olivier Merson
+- 1927-01-01 (48.9, 2.4), 2: André Breton, Loïe Fuller (Marie Louise Fuller)
+- 1933-01-01 (48.9, 2.4), 2: André Breton, Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz)
+- 1872-01-01 (-34.6, -58.4), 2: Jules Dormal Godet (Julio Dormal), Ángel della Valle
+- 1907-01-01 (48.9, 2.4), 2: Georges Hébert, Ángel Gregorio Villoldo (born Ghigiola Roggio)
+- 1837-01-01 (-22.9, -43.2), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Giuseppe Maria Garibaldi
+- 1843-01-01 (-34.9, -56.2), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Juan Manuel José Domingo Ortiz de Rozas y López de Osornio (Juan Manuel de Rosas)
+- 1999-01-01 (-22.9, -43.2), 2: Anita Garibaldi (Ana Maria de Jesus Ribeiro), Augusto Boal (Augusto Pinto Boal)
+- 1898-01-01 (59.9, 30.3), 2: Anna Matveyevna Pavlova, Sergei Pavlovich Diaghilev
+- 1918-01-01 (-22.9, -43.2), 2: Anna Matveyevna Pavlova, Carmen Miranda (Maria do Carmo Miranda da Cunha)
+- 1923-01-01 (51.5, -0.1), 2: Anna Matveyevna Pavlova, John Maynard Keynes, 1st Baron Keynes of Tilton
+- 1931-01-01 (48.9, 2.4), 2: Anna Matveyevna Pavlova, Sophie Taeuber-Arp
+- 2006-01-01 (51.5, -0.1), 2: Anna Matveyevna Pavlova, Slavoj Žižek
+- 1923-01-01 (51.0, 11.3), 2: Anni Albers (Annelise Else Frieda Fleischmann), Oskar Alfred Victor Schlemmer
+- 1935-01-01 (19.4, -99.1), 2: Anni Albers (Annelise Else Frieda Fleischmann), Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera)
+- 1765-01-01 (48.9, 2.3), 2: Antoine Court de Gébelin, René Just Haüy
+- 1780-01-01 (48.9, 2.3), 2: Antoine Court de Gébelin, Franz Anton Mesmer
+- 1929-01-01 (48.9, 2.4), 2: Antoine de Saint-Exupéry, Carl Theodor Dreyer
+- 1898-01-01 (46.2, 8.8), 2: Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger), Karl Max Engelmann (Liga Pitagórica)
+- 1933-01-01 (50.1, 8.7), 2: Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger), Martin Mordechai Buber
+- 1525-01-01 (47.3, 11.7), 2: Anton Fugger, Reichsgraf, Regierer of the Fugger company, Jakob Fugger 'the Rich' (Jakob Fugger von der Lilie)
+- 1534-01-01 (48.4, 10.9), 2: Anton Fugger, Reichsgraf, Regierer of the Fugger company, Johann Georg Faust (Georgius Sabellicus Faustus junior)
+- 1918-01-01 (41.4, 2.2), 2: Antoni Gaudí i Cornet, Julio Florencio Cortázar Descotte
+- 0033-01-01 (32.3, 35.2), 2: Simon bar Jonah, called Cephas, the Apostle Peter, Simon of Gitta, called Simon Magus, the Power That Is Called Great
+- 0036-01-01 (31.8, 35.2), 2: Mary Magdalene (Maria Magdalena), Simon bar Jonah, called Cephas, the Apostle Peter
+- 0045-01-01 (41.9, 12.5), 2: Simon bar Jonah, called Cephas, the Apostle Peter, Simon of Gitta, called Simon Magus, the Power That Is Called Great
+- 0064-01-01 (41.9, 12.5), 2: Plinio el Viejo (Gaius Plinius Secundus, Pliny the Elder), Simon bar Jonah, called Cephas, the Apostle Peter
+- 0080-01-01 (41.9, 12.5), 2: Marcus Fabius Quintilianus (Quintilian), Simon bar Jonah, called Cephas, the Apostle Peter
+- 0096-01-01 (41.9, 12.5), 2: Flavius Josephus (Yosef ben Mattityahu), Simon bar Jonah, called Cephas, the Apostle Peter
+- -0355-01-01 (38.0, 23.7), 2: Aristotle (Aristotélēs, son of Nicomachus), Plato (Aristocles, son of Ariston, called Plato for the breadth of his shoulders)
+- 1190-01-01 (30.0, 31.2), 2: Aristotle (Aristotélēs, son of Nicomachus), Maimonides (Moshe ben Maimon / Musa ibn Maymun, the Rambam)
+- 1318-01-01 (44.4, 12.2), 2: Aristotle (Aristotélēs, son of Nicomachus), Dante Alighieri
+- 1900-01-01 (46.2, 6.1), 2: Aron Iosifovich Kremer, called Arkadi, Chaim Azriel Weizmann
+- 1905-01-01 (59.9, 30.4), 2: Aron Iosifovich Kremer, called Arkadi, Grigori Yefimovich Rasputin
+- 1908-01-01 (59.9, 30.3), 2: Aron Iosifovich Kremer, called Arkadi, Vaslav Nijinsky (Wacław Niżyński)
+- 2026-01-01 (45.0, -93.3), 2: Aron Iosifovich Kremer, called Arkadi, Daniel Giannone
+- 1899-01-01 (46.4, 14.1), 2: Arnold Rikli, Karl Max Engelmann (Liga Pitagórica)
+- 1903-01-01 (48.2, 16.4), 2: Arnold Rikli, Carl Menger (Carl Menger von Wolfensgrün)
+- 2010-01-01 (-34.6, -58.4), 2: Arshag Shorjian, Raúl Veroni (Raoul Veroni), the elder
+- 1906-01-01 (53.5, -2.2), 2: Arthur James Balfour, 1st Earl of Balfour, Chaim Azriel Weizmann
+- 1926-01-01 (51.5, -0.1), 2: Arthur James Balfour, 1st Earl of Balfour, John Maynard Keynes, 1st Baron Keynes of Tilton
+- 1985-01-01 (40.7, -74.0), 2: Arthur Ben, Jiddu Krishnamurti
+- 2001-01-01 (40.7, -74.0), 2: Arthur Ben, Linus Benedict Torvalds
+- 1933-01-01 (-22.9, -43.2), 2: Arthur Bispo do Rosário, Carmen Miranda (Maria do Carmo Miranda da Cunha)
+- 1828-01-01 (51.5, -0.2), 2: Arthur Cayley, Charles Babbage
+- 1835-01-01 (51.5, -0.1), 2: Arthur Cayley, Calvert Vaux
+- 1854-01-01 (51.5, -0.1), 2: Arthur Cayley, Charles Babbage
+- 1859-01-01 (51.5, -0.1), 2: Arthur Cayley, Dante Gabriel Rossetti (Gabriel Charles Dante Rossetti)
+- 1864-01-01 (52.2, 0.1), 2: Arthur Cayley, Sir George Gabriel Stokes, 1st Baronet
+- 1882-01-01 (39.3, -76.6), 2: Arthur Cayley, John Dewey
+- 1882-01-01 (51.5, -0.1), 2: Arthur Cayley, Thomas Alva Edison
+- 1884-01-01 (51.5, -0.1), 2: Arthur Cayley, Sir Edward Coley Burne-Jones, 1st Baronet
+- 1889-01-01 (52.2, 0.1), 2: Arthur Cayley, John Maynard Keynes, 1st Baron Keynes of Tilton
+- 1881-01-01 (51.5, -0.1), 2: Arthur Edward Waite, Auguste Rodin (François Auguste René Rodin)
+- 1903-01-01 (46.2, 6.1), 2: Arthur Edward Waite, Vladimir Medem (Vladimir Davidovich Medem, born Grinberg)
+- 1909-01-01 (51.5, -0.1), 2: Arthur Edward Waite, William Butler Yeats
+- 1933-01-01 (51.5, -0.1), 2: Aimé Félix Tschiffely, Arthur Edward Waite
+- 1971-01-01 (41.1, -73.5), 2: Arthur Edward Waite, Pamela Colman Smith ("Pixie")
+- 2009-01-01 (41.1, -73.5), 2: Arthur Edward Waite, Pamela Colman Smith ("Pixie")
+- 1912-01-01 (52.5, 13.4), 2: Arthur Scherbius (Jacob Ludolf Arthur Scherbius), Otto Gross
+- 1925-01-01 (40.7, -74.0), 2: Astor Pantaleón Piazzolla, Howard Phillips Lovecraft
+- 1533-01-01 (-7.2, -78.5), 2: Atahualpa (Ataw Wallpa), last Sapa Inca of Tawantinsuyu, Felipe Guamán Poma de Ayala (Waman Puma)
+- 1900-01-01 (48.8, 2.3), 2: Auguste Kerckhoffs (Jean Guillaume Auguste Victor Alexandre François Hubert Kerckhoffs), Henri-Louis Bergson
+- 1854-01-01 (48.9, 2.3), 2: Auguste Rodin (François Auguste René Rodin), Louis Braille
+- 1911-01-01 (41.9, 12.5), 2: Auguste Rodin (François Auguste René Rodin), Gustav Klimt
+- 1807-01-01 (48.9, 2.3), 2: Augustin-Louis Cauchy, Próspero Catelin (Thomas Prosper Catelin)
+- 1814-01-01 (48.9, 2.3), 2: Augustin-Louis Cauchy, Francois Marie Charles Fourier
+- 1817-01-01 (48.8, 2.3), 2: Augustin-Louis Cauchy, Évariste Galois
+- 1820-01-01 (48.9, 2.3), 2: Alexander von Humboldt, Augustin-Louis Cauchy
+- 1821-01-01 (48.8, 2.3), 2: Augustin-Louis Cauchy, Louis Braille
+- 1850-01-01 (48.8, 2.3), 2: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Augustin-Louis Cauchy
+- 1954-01-01 (40.8, -74.0), 2: Augusto Boal (Augusto Pinto Boal), George Balanchine (Georgiy Melitonovich Balanchivadze)
+- 2007-01-01 (52.4, 4.9), 2: Augusto Boal (Augusto Pinto Boal), Mark Fisher
+- 1881-01-01 (40.7, -74.0), 2: Augustus Henry Julian Le Plongeon, Thomas Alva Edison
+- 1886-01-01 (40.7, -74.0), 2: Augustus Henry Julian Le Plongeon, Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy')
+- 1896-01-01 (40.7, -74.0), 2: Augustus Henry Julian Le Plongeon, Isadora Duncan
+- 1935-01-01 (21.4, 39.8), 2: René Guénon (Sheikh Abd al-Wahid Yahya), Ruhollah Mostafavi Musavi Khomeini
+- 1990-01-01 (35.7, 51.4), 2: Ruhollah Mostafavi Musavi Khomeini, Shams al-Din Muhammad of Tabriz (Shams-e Tabrizi, Shams-e Parande)
+- 1200-01-01 (36.8, 66.9), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Khwaja Mu'in al-Din Hasan Chishti (Moinuddin Chishti), Gharib Nawaz
+- 1212-01-01 (36.8, 66.9), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi)
+- 1221-01-01 (38.4, 38.4), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi)
+- 2004-01-01 (37.8, -122.4), 2: Baha ud-Din Walad (Baha' al-Din Muhammad ibn Husayn al-Khatibi, Sultan al-Ulama), Mark Lombardi
+- 1809-01-01 (48.9, 2.3), 2: Charles Barbier de la Serre, Siméon Denis Poisson
+- 1815-01-01 (48.9, 2.3), 2: Charles Barbier de la Serre, Siméon Denis Poisson
+- 1820-01-01 (48.8, 2.3), 2: Charles Barbier de la Serre, Louis Braille
+- 1824-01-01 (48.8, 2.3), 2: Charles Barbier de la Serre, Louis Braille
+- 1839-01-01 (-34.6, -58.4), 2: Benigno Benjamín Villanueva (Villanokoff), Juan Manuel José Domingo Ortiz de Rozas y López de Osornio (Juan Manuel de Rosas)
+- 1169-01-01 (32.2, 44.4), 2: Ezekiel son of Buzi (Yehezqel ben Buzi), priest and prophet of the exile, Rabbi Benjamin son of Jonah of Tudela (Benjamin de Tudela)
+- 1907-01-01 (51.8, -1.3), 2: Rabbi Benjamin son of Jonah of Tudela (Benjamin de Tudela), Samuel Langhorne Clemens (Mark Twain)
+- 1725-01-01 (51.5, -0.1), 2: Benjamin Franklin, Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son)
+- 1998-01-01 (51.5, -0.1), 2: Benjamin Franklin, Winfried Georg Sebald (W.G. Sebald, 'Max' Sebald)
+- 1995-01-01 (10.4, -75.5), 2: Benkos Biohó, Gabriel José García Márquez
+- 1926-01-01 (48.2, 16.4), 2: Ben-Zion Witler (Benzion Witler), Hilde Holger (Hilde Sofer, later Boman-Behram)
+- 1927-01-01 (48.2, 16.4), 2: Ben-Zion Witler (Benzion Witler), Ludwig Heinrich Edler von Mises
+- 1930-01-01 (48.2, 16.4), 2: Ben-Zion Witler (Benzion Witler), Hilde Holger (Hilde Sofer, later Boman-Behram)
+- 1957-01-01 (-34.6, -58.4), 2: Ben-Zion Witler (Benzion Witler), El Gólem
+- 1935-01-01 (48.8, 2.3), 2: Bethsabée (Batsheva) de Rothschild, Roland Gérard Barthes
+- 1943-01-01 (40.7, -74.0), 2: Bethsabée (Batsheva) de Rothschild, Claude Elwood Shannon
+- 1969-01-01 (32.1, 34.8), 2: Bethsabée (Batsheva) de Rothschild, Moshé Feldenkrais
+- 1975-01-01 (32.1, 34.8), 2: Bethsabée (Batsheva) de Rothschild, Golda Meir (Goldie Mabovitch, Golda Meyerson)
+- 1950-01-01 (40.7, -74.4), 2: Claude Elwood Shannon, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1951-01-01 (40.7, -74.4), 2: Claude Elwood Shannon, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1958-01-01 (42.4, -71.1), 2: Claude Elwood Shannon, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1963-01-01 (42.4, -71.1), 2: Edward Louis Bernays, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1965-01-01 (42.4, -71.1), 2: Edward Louis Bernays, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1969-01-01 (42.4, -71.1), 2: Mary Elizabeth Moore Shannon (Betty Shannon), Paolo Soleri
+- 1970-01-01 (42.4, -71.1), 2: Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1976-01-01 (42.4, -71.1), 2: Avram Noam Chomsky, Mary Elizabeth Moore Shannon (Betty Shannon)
+- 1979-01-01 (34.7, -92.3), 2: Hillary Diane Rodham Clinton, William Jefferson Clinton (born William Jefferson Blythe III)
+- 2019-01-01 (47.6, -122.1), 2: Samuel Harris Altman, William Henry Gates III (Bill Gates)
+- 1994-01-01 (40.7, -74.4), 2: Bjarne Stroustrup, Dennis MacAlistair Ritchie
+- 2004-01-01 (38.9, -77.0), 2: Bjarne Stroustrup, John Rogers Searle
+- 2017-01-01 (51.5, -0.1), 2: Bailey Whitfield Diffie, Bjarne Stroustrup
+- 1550-01-01 (45.4, 12.3), 2: Blaise de Vigenère, Leo Africanus (al-Hasan ibn Muhammad al-Wazzan al-Fasi al-Gharnati)
+- 1863-01-01 (48.9, 2.3), 2: Blaise de Vigenère, Jean-Baptiste Pitois (Paul Christian)
+- 1600-01-01 (37.9, -4.8), 2: Blas Valera, El Inca Garcilaso de la Vega (Gómez Suárez de Figueroa)
+- 1609-01-01 (38.7, -9.1), 2: Blas Valera, El Inca Garcilaso de la Vega (Gómez Suárez de Figueroa)
+- 1973-01-01 (37.4, -122.2), 2: Robert Elliot Kahn (Bob Kahn), Ronald Linn Rivest
+- 1979-01-01 (38.9, -77.1), 2: Martha Graham, Robert Elliot Kahn (Bob Kahn)
+- 1986-01-01 (39.0, -77.4), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1992-01-01 (39.0, -77.4), 2: Robert Elliot Kahn (Bob Kahn), Vinton Gray Cerf (Vint Cerf)
+- 1994-01-01 (40.8, -74.0), 2: Daniel Gastón Schávelzon, Robert Elliot Kahn (Bob Kahn)
+- 1828-01-01 (48.8, 2.3), 2: Honoré de Balzac, Louis Braille
+- 1805-01-01 (48.9, 2.3), 2: Jacob Ludwig Carl Grimm and Wilhelm Carl Grimm, René Just Haüy
+- 1815-01-01 (52.5, 13.4), 2: Christiane Wilhelmine Sophie von Kühn, Jacob Ludwig Carl Grimm and Wilhelm Carl Grimm
+- 1839-01-01 (51.5, -0.1), 2: Edward Bulwer-Lytton, 1st Baron Lytton (Edward George Earle Lytton Bulwer), William Holman Hunt
+- 1866-01-01 (51.5, -0.1), 2: Christina Georgina Rossetti, Edward Bulwer-Lytton, 1st Baron Lytton (Edward George Earle Lytton Bulwer)
+- 0999-01-01 (63.8, -18.1), 2: Njall Thorgeirsson of Bergthorshvoll, called Burnt Njal (Brennu-Njall), San Brendan de Clonfert (Breanainn moccu Alti, Brendan the Navigator)
+- 1870-01-01 (40.8, -74.0), 2: Calvert Vaux, Felix Adler
+- 1868-01-01 (42.9, -78.9), 2: Calvert Vaux, Frederick Law Olmsted
+- 1869-01-01 (41.8, -87.8), 2: Calvert Vaux, Frederick Law Olmsted
+- 1874-01-01 (40.7, -74.0), 2: Calvert Vaux, Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy')
+- 1887-01-01 (40.8, -74.0), 2: Calvert Vaux, Harry Houdini (Erik Weisz, later Ehrich Weiss)
+- 1886-01-01 (48.8, 2.3), 2: Camille Rosalie Claudel, Jules Henri Poincaré
+- 1951-01-01 (48.9, 2.3), 2: Camille Rosalie Claudel, Cristóbal Balenciaga Eizaguirre
+- 1963-01-01 (4.6, -74.1), 2: Camilo Torres Restrepo, Griselda Blanco Restrepo
+- 1825-01-01 (52.5, 13.4), 2: Carl Gustav Jacob Jacobi, Johann Elert Bode
+- 1820-01-01 (52.5, 13.4), 2: Carl Gustav Jung the elder, Georg Wilhelm Friedrich Hegel
+- 1821-01-01 (48.9, 2.4), 2: Carl Gustav Jung the elder, Claude-Henri de Rouvroy, comte de Saint-Simon
+- 1822-01-01 (47.6, 7.6), 2: Carl Gustav Jung the elder, Dr Carl Jung of Mainz
+- 1824-01-01 (47.6, 7.6), 2: Carl Gustav Jung the elder, Samuel Preiswerk
+- 1828-01-01 (47.6, 7.6), 2: Carl Gustav Jung the elder, Dr Carl Jung of Mainz
+- 1848-01-01 (47.6, 7.6), 2: Carl Gustav Jung the elder, Samuel Preiswerk
+- 1843-01-01 (47.6, 7.6), 2: Carl Gustav Jung the elder, Samuel Preiswerk
+- 1845-01-01 (47.6, 7.6), 2: Carl Gustav Jung the elder, Samuel Preiswerk
+- 1855-01-01 (47.6, 7.6), 2: Carl Gustav Jung the elder, Samuel Preiswerk
+- 1539-01-01 (49.6, 8.4), 2: Dr Carl Jung of Mainz, Johann Georg Faust (Georgius Sabellicus Faustus junior)
+- 1587-01-01 (50.1, 8.7), 2: Dr Carl Jung of Mainz, Johann Georg Faust (Georgius Sabellicus Faustus junior)
+- 1628-01-01 (50.0, 8.3), 2: Athanasius Kircher, Dr Carl Jung of Mainz
+- 1840-01-01 (47.6, 7.6), 2: Dr Carl Jung of Mainz, Samuel Preiswerk
+- 1996-01-01 (51.5, -0.1), 2: Dr Carl Jung of Mainz, Paolo Soleri
+- 2003-01-01 (40.7, -74.0), 2: Dr Carl Jung of Mainz, Slavoj Žižek
+- 1871-01-01 (48.2, 16.4), 2: Carl Menger (Carl Menger von Wolfensgrün), Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk)
+- 1872-01-01 (48.2, 16.4), 2: Carl Menger (Carl Menger von Wolfensgrün), Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk)
+- 1876-01-01 (48.2, 16.4), 2: Carl Menger (Carl Menger von Wolfensgrün), Gustav Klimt
+- 1912-01-01 (48.2, 16.4), 2: Carl Menger (Carl Menger von Wolfensgrün), Ludwig Heinrich Edler von Mises
+- 1929-01-01 (48.2, 16.4), 2: Carl Menger (Carl Menger von Wolfensgrün), Friedrich August von Hayek
+- 1922-01-01 (52.5, 13.4), 2: Carl Theodor Dreyer, Valeska Gert (Gertrud Valesca Samosch)
+- 1929-01-01 (48.9, 2.3), 2: Carlos Gardel (Charles Romuald Gardes), René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1928-01-01 (-32.9, -60.6), 2: Carlos María della Paolera, Francisco Gianotti (Francesco Terenzio Gianotti)
+- 1980-01-01 (-23.6, -46.6), 2: Carlos María della Paolera, Paulo Reglus Neves Freire
+- 1951-01-01 (19.4, -99.1), 2: Carlos Slim Helú, José Arcadio Limón
+- 1982-01-01 (19.4, -99.1), 2: Anthony Stafford Beer, Carlos Slim Helú
+- 2015-01-01 (40.8, -74.0), 2: Carlos Slim Helú, Reid Garrett Hoffman
+- 1901-01-01 (-30.9, -64.3), 2: Jules Charles (Carlos) Thays, Julio Argentino Roca
+- 2014-01-01 (-34.6, -58.4), 2: Jules Charles (Carlos) Thays, Sergio Demian Lerner
+- 1912-01-01 (-22.9, -43.2), 2: Carmen Miranda (Maria do Carmo Miranda da Cunha), Julio Argentino Roca
+- 1940-01-01 (38.9, -77.0), 2: Carmen Miranda (Maria do Carmo Miranda da Cunha), Viola Farber
+- 1941-01-01 (34.1, -118.4), 2: Carmen Miranda (Maria do Carmo Miranda da Cunha), Igor Fyodorovich Stravinsky
+- 1975-01-01 (4.6, -74.1), 2: Cecilia Vicuña, Griselda Blanco Restrepo
+- 1980-01-01 (4.7, -74.1), 2: Cecilia Vicuña, Osvaldo Pedro Pugliese
+- 1980-01-01 (40.7, -74.0), 2: Cecilia Vicuña, Viola Farber
+- 1980-01-01 (40.8, -74.0), 2: Cecilia Vicuña, Jeffrey Edward Epstein
+- 2009-01-01 (40.7, -74.0), 2: Cecilia Vicuña, Mark Brodsky
+- 2025-01-01 (38.9, -77.0), 2: Cecilia Vicuña, Charles de Ganahl Koch
+- 1956-01-01 (20.3, -77.1), 2: Celia Esther Sánchez Manduley, Teté Puebla (Delsa Esther Puebla Viltres)
+- 1958-01-01 (20.0, -76.9), 2: Celia Esther Sánchez Manduley, Fidel Alejandro Castro Ruz
+- 1975-01-01 (23.1, -82.4), 2: Celia Esther Sánchez Manduley, Vilma Espín Guillois
+- 1902-01-01 (52.5, 13.4), 2: Chaim Azriel Weizmann, Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1939-01-01 (51.5, -0.1), 2: Chaim Azriel Weizmann, Olga Fröbe-Kapteyn
+- 1816-01-01 (51.5, -0.1), 2: Charles Babbage, Michael Faraday
+- 1820-01-01 (51.5, -0.1), 2: Charles Babbage, William Blake
+- 1828-01-01 (52.2, 0.1), 2: Charles Babbage, Charles Robert Darwin
+- 1851-01-01 (51.5, -0.2), 2: Charles Babbage, Sir Joseph Paxton
+- 1864-01-01 (51.5, -0.2), 2: Charles Babbage, Joseph-Marie Jacquard (born Joseph Marie Charles)
+- 1978-01-01 (37.4, -122.1), 2: Bailey Whitfield Diffie, Charles Babbage
+- 1829-01-01 (48.9, 2.3), 2: Francois Marie Charles Fourier, François Delsarte
+- 1835-01-01 (48.9, 2.3), 2: Francois Marie Charles Fourier, Siméon Denis Poisson
+- 1942-01-01 (48.9, 2.3), 2: Francois Marie Charles Fourier, Jean-Paul Charles Aymard Sartre
+- 1960-01-01 (42.4, -71.1), 2: Charles de Ganahl Koch, Sheldon Gary Adelson
+- 1970-01-01 (37.5, -122.2), 2: Charles de Ganahl Koch, Lawrence Joseph Ellison (Larry Ellison)
+- 1977-01-01 (37.8, -122.4), 2: Charles de Ganahl Koch, Murray Newton Rothbard
+- 1906-01-01 (40.7, -74.0), 2: Charles "Lucky" Luciano (Salvatore Lucania), John Pierpont Morgan
+- 1920-01-01 (40.8, -74.0), 2: Charles "Lucky" Luciano (Salvatore Lucania), Francis Julius Bellamy
+- 1948-01-01 (40.8, 14.2), 2: Charles "Lucky" Luciano (Salvatore Lucania), Pasquale Simonetti ("Pascalone 'e Nola")
+- 1937-01-01 (41.9, 12.5), 2: Charles Ponzi (Carlo Pietro Giovanni Guglielmo Tebaldo Ponzi), Jiddu Krishnamurti
+- 1959-01-01 (22.4, -80.0), 2: Ernesto "Che" Guevara, Fidel Alejandro Castro Ruz
+- 1938-01-01 (48.9, 2.3), 2: Christian Dior, Valeska Gert (Gertrud Valesca Samosch)
+- 1955-01-01 (48.9, 2.3), 2: Christian Dior, Cristóbal Balenciaga Eizaguirre
+- 1615-01-01 (51.3, 9.5), 2: Christian Rosenkreuz (Frater C.R.C., Christian Rosencreutz), Francis Bacon, 1st Viscount St Alban
+- 1616-01-01 (52.2, 4.5), 2: Christian Rosenkreuz (Frater C.R.C., Christian Rosencreutz), Robert Fludd (Robertus de Fluctibus)
+- 1849-01-01 (51.5, -0.1), 2: Christina Georgina Rossetti, Sir John Everett Millais, 1st Baronet
+- 1861-01-01 (51.5, -0.1), 2: Christina Georgina Rossetti, Eadweard Muybridge
+- 1879-01-01 (51.5, -0.1), 2: Christina Georgina Rossetti, Rabindranath Tagore (Robindronath Thakur)
+- -0053-01-01 (41.9, 12.5), 2: Marcus Tullius Cicero, Publius Vergilius Maro (Virgil)
+- 1980-01-01 (38.9, -77.0), 2: Clark McAdams Clifford, Kenneth Lane Thompson
+- 1982-01-01 (9.0, -79.5), 2: Clark McAdams Clifford, Manuel Antonio Noriega Moreno
+- 1986-01-01 (38.9, -77.0), 2: Clark McAdams Clifford, Kenneth Lane Thompson
+- 1991-01-01 (38.9, -77.0), 2: Clark McAdams Clifford, Philip R. Zimmermann (Phil Zimmermann)
+- 1993-01-01 (38.9, -77.0), 2: Clark McAdams Clifford, William Joseph Casey
+- 1998-01-01 (38.9, -77.0), 2: Clark McAdams Clifford, David Rockefeller
+- 1868-01-01 (48.9, 2.3), 2: Achille-Claude Debussy, Henri-Louis Bergson
+- 1877-01-01 (48.9, 2.3), 2: Achille-Claude Debussy, Émile Pouget
+- 1892-01-01 (48.9, 2.3), 2: Achille-Claude Debussy, Luc-Olivier Merson
+- 1434-01-01 (41.9, 12.5), 2: Claude des Armoises (Jeanne des Armoises, la fausse Pucelle), Leon Battista Alberti
+- 1939-01-01 (48.9, 2.4), 2: Claude Lévi-Strauss, Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1959-01-01 (48.8, 2.3), 2: Claude Lévi-Strauss, Nick Land
+- 1941-01-01 (40.7, -74.0), 2: Claude Elwood Shannon, Erich Seligmann Fromm
+- 1948-01-01 (40.7, -74.4), 2: Claude Elwood Shannon, John von Neumann (Neumann János Lajos, margittai Neumann János)
+- 0235-01-01 (41.9, 12.5), 2: Claudius Aelianus (Aelian), Gaius Julius Solinus
+- 1545-01-01 (41.9, 12.5), 2: Claudius Aelianus (Aelian), Michelangelo di Lodovico Buonarroti Simoni
+- 1908-01-01 (48.1, 11.6), 2: Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Otto Gross
+- 1909-01-01 (48.1, 11.6), 2: Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1903-01-01 (48.9, 2.3), 2: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz)
+- 1919-01-01 (40.8, -74.0), 2: Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), Henry Clay Frick
+- 1921-01-01 (48.9, 2.3), 2: Clotilde Sakharoff (Clotilde von Derp, born Clotilde von der Planitz), René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1910-01-01 (48.9, 2.3), 2: Gabrielle Bonheur "Coco" Chanel, René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1918-01-01 (48.9, 2.3), 2: Gabrielle Bonheur "Coco" Chanel, Luc-Olivier Merson
+- 1937-01-01 (48.9, 2.3), 2: Gabrielle Bonheur "Coco" Chanel, Olga Fröbe-Kapteyn
+- 2011-01-01 (48.9, 2.4), 2: Gabrielle Bonheur "Coco" Chanel, Paul Jules Barbier
+- 1776-01-01 (52.5, 13.4), 2: Johann Elert Bode, The Comte de Saint-Germain (Weldon, Tzarogy, Zurmont, Aymar, Surmont)
+- 0293-01-01 (40.8, 29.9), 2: Constantine the Great (Flavius Valerius Constantinus), Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis)
+- 1929-01-01 (40.8, -74.0), 2: Cornelius Vanderbilt (the Commodore), José Arcadio Limón
+- 1424-01-01 (44.5, 11.3), 2: Cosimo di Giovanni de' Medici (Cosimo il Vecchio, Pater Patriae), Leon Battista Alberti
+- 1435-01-01 (43.8, 11.3), 2: Cosimo di Giovanni de' Medici (Cosimo il Vecchio, Pater Patriae), Leon Battista Alberti
+- 1439-01-01 (43.8, 11.2), 2: Cosimo di Giovanni de' Medici (Cosimo il Vecchio, Pater Patriae), Leon Battista Alberti
+- 1957-01-01 (48.9, 2.3), 2: Cristóbal Balenciaga Eizaguirre, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1958-01-01 (48.9, 2.3), 2: Cristóbal Balenciaga Eizaguirre, William Seward Burroughs II
+- 1962-01-01 (48.9, 2.3), 2: Cristóbal Balenciaga Eizaguirre, Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+- 1970-01-01 (40.4, -3.7), 2: Cristóbal Balenciaga Eizaguirre, Jacinto Molina Álvarez (Paul Naschy)
+- 2022-01-01 (48.9, 2.3), 2: Cristóbal Balenciaga Eizaguirre, James "Jamie" Dimon
+- 2008-01-01 (37.8, -122.4), 2: Curtis Guy Yarvin (Mencius Moldbug), Peter Andreas Thiel
+- 1975-01-01 (-34.6, -58.4), 2: Dalila Puzzovio, José López Rega (El Brujo)
+- 1981-01-01 (-34.6, -58.4), 2: Dalila Puzzovio, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1964-01-01 (-31.4, -64.2), 2: Daniel Giannone, Leo Chiachio (of Chiachio & Giannone)
+- 2013-01-01 (46.0, 2.2), 2: Daniel Giannone, Leo Chiachio (of Chiachio & Giannone)
+- 2017-01-01 (40.4, -3.7), 2: Daniel Giannone, Leo Chiachio (of Chiachio & Giannone)
+- 2022-01-01 (47.1, 2.4), 2: Daniel Giannone, Leo Chiachio (of Chiachio & Giannone)
+- 2025-01-01 (-34.6, -58.4), 2: Daniel Giannone, Leo Chiachio (of Chiachio & Giannone)
+- 1991-01-01 (-34.6, -58.4), 2: Daniel Gastón Schávelzon, Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo)
+- 1995-01-01 (-34.6, -58.4), 2: Daniel Gastón Schávelzon, Luis Alberto Spinetta
+- 2000-01-01 (48.8, 2.3), 2: Daniel Gastón Schávelzon, Jean-Baptiste Alliette, called Etteilla
+- 1319-01-01 (44.4, 12.2), 2: Dante Alighieri, Publius Vergilius Maro (Virgil)
+- 1917-01-01 (40.7, -74.0), 2: David Ben-Gurion (David Grün), Felix Adler
+- 1955-01-01 (34.1, -118.2), 2: David Lee Chaum, Indra Devi (Eugenia Vasilievna Peterson, Eugenie Strakaty)
+- 1989-01-01 (52.4, 4.9), 2: David Lee Chaum, Rudolf Rocker
+- 1990-01-01 (52.4, 4.9), 2: David Lee Chaum, Nick Szabo
+- 1822-01-01 (48.9, 2.4), 2: François Delsarte, René Just Haüy
+- 1824-01-01 (48.9, 2.4), 2: François Delsarte, Victor-Marie Hugo
+- 1848-01-01 (48.9, 2.3), 2: François Delsarte, Paul Jules Barbier
+- 1850-01-01 (48.9, 2.3), 2: François Delsarte, Jean-Baptiste Pitois (Paul Christian)
+- 1855-01-01 (48.9, 2.3), 2: François Delsarte, Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii
+- 1968-01-01 (40.7, -74.4), 2: Dennis MacAlistair Ritchie, Kenneth Lane Thompson
+- 1969-01-01 (40.7, -74.4), 2: Dennis MacAlistair Ritchie, Kenneth Lane Thompson
+- 1970-01-01 (40.7, -74.4), 2: Dennis MacAlistair Ritchie, Kenneth Lane Thompson
+- 1971-01-01 (40.7, -74.4), 2: Dennis MacAlistair Ritchie, Kenneth Lane Thompson
+- 1983-01-01 (40.7, -74.4), 2: Dennis MacAlistair Ritchie, Kenneth Lane Thompson
+- 1990-01-01 (40.7, -74.4), 2: Dennis MacAlistair Ritchie, Kenneth Lane Thompson
+- 2011-01-01 (35.7, 139.7), 2: Dennis MacAlistair Ritchie, Kenneth Lane Thompson
+- -0247-01-01 (36.9, 10.3), 2: Dido (Elissa of Tyre), Hannibal Barca
+- 1916-01-01 (48.8, 2.3), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1922-01-01 (19.4, -99.1), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1928-01-01 (55.8, 37.6), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Le Corbusier (Charles-Edouard Jeanneret-Gris)
+- 1931-01-01 (37.8, -122.4), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1934-01-01 (19.3, -99.2), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1937-01-01 (19.4, -99.2), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1946-01-01 (19.4, -99.1), 2: Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera), Frida Kahlo (Magdalena Carmen Frida Kahlo y Calderón)
+- 1998-01-01 (37.5, -122.2), 2: Bailey Whitfield Diffie, Philip R. Zimmermann (Phil Zimmermann)
+- 2000-01-01 (44.5, 11.3), 2: Bailey Whitfield Diffie, Martin Edward Hellman
+- 2011-01-01 (38.8, -77.1), 2: Bailey Whitfield Diffie, Martin Edward Hellman
+- 2026-01-01 (37.4, -122.2), 2: Bailey Whitfield Diffie, Martin Edward Hellman
+- -0348-01-01 (38.0, 23.7), 2: Diogenes of Sinope (Diogenes the Cynic, ho Kyon, 'the Dog'), Plato (Aristocles, son of Ariston, called Plato for the breadth of his shoulders)
+- 1938-01-01 (51.5, -0.2), 2: Dion Fortune (Violet Mary Firth), Herbert George Wells
+- 1937-01-01 (51.5, -0.1), 2: Frances Amelia Yates, Paul Adrien Maurice Dirac
+- 1981-01-01 (37.4, -122.2), 2: Donald Ervin Knuth (Gao Dena), René Noël Théophile Girard
+- 1986-01-01 (37.4, -122.2), 2: Donald Ervin Knuth (Gao Dena), Leslie Barry Lamport
+- 1989-01-01 (37.4, -122.2), 2: Donald Ervin Knuth (Gao Dena), Leslie Barry Lamport
+- 1976-01-01 (39.3, -76.6), 2: Donna Jeanne Haraway, René Noël Théophile Girard
+- 1968-01-01 (50.1, 8.7), 2: Dore Hoyer, Mayer Amschel Rothschild
+- 1820-01-01 (39.1, -84.5), 2: Edgar Allan Poe, John Cleves Symmes Jr.
+- 1845-01-01 (52.5, 13.4), 2: Alexander von Humboldt, Edgar Allan Poe
+- 1679-01-01 (51.5, -0.1), 2: Edmond Halley, Robert Hooke
+- 1686-01-01 (51.5, -0.1), 2: Edmond Halley, San Vito (Vitus of Lucania, Sankt Veit, Svaty Vit, Sveti Vid)
+- 1694-01-01 (51.5, -0.1), 2: Edmond Halley, William Paterson
+- 1984-01-01 (-34.6, -58.4), 2: Eduardo Sergio Elsztain, Silvina Ocampo
+- 1871-01-01 (40.7, -74.0), 2: Edward Bellamy, Frédéric Auguste Bartholdi
+- 1918-01-01 (38.9, -77.0), 2: Edward Louis Bernays, John Foster Dulles
+- 1853-01-01 (51.8, -1.3), 2: Sir Edward Coley Burne-Jones, 1st Baronet, William Morris
+- 1864-01-01 (51.5, -0.1), 2: Paul Jules Barbier, Sir Edward Coley Burne-Jones, 1st Baronet
+- 1880-01-01 (51.5, -0.2), 2: Elizabeth (Bessie) Burden, Sir Edward Coley Burne-Jones, 1st Baronet
+- 1890-01-01 (51.4, -0.2), 2: Sir Edward Coley Burne-Jones, 1st Baronet, William Morris
+- 1998-01-01 (40.8, -74.0), 2: Jacinto Molina Álvarez (Paul Naschy), Sir Edward Coley Burne-Jones, 1st Baronet
+- 1659-01-01 (51.5, -0.1), 2: Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), John Dee
+- 1964-01-01 (42.4, -71.1), 2: El Gólem, Ray Kurzweil
+- 1917-01-01 (50.1, 14.4), 2: El Gólem, Judah Loew ben Bezalel (the Maharal of Prague)
+- 1847-01-01 (50.1, 14.4), 2: El Gólem, Judah Loew ben Bezalel (the Maharal of Prague)
+- 1897-01-01 (48.8, 2.3), 2: Henri Léon Lebesgue, Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1905-01-01 (51.5, -0.1), 2: Sir John Everett Millais, 1st Baronet, Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel)
+- 1848-01-01 (51.8, -1.3), 2: Elizabeth (Bessie) Burden, Jane Morris (nee Burden)
+- 1863-01-01 (51.5, 0.1), 2: Elizabeth (Bessie) Burden, Jane Morris (nee Burden)
+- 1885-01-01 (54.1, -0.9), 2: Elizabeth (Bessie) Burden, Jane Morris (nee Burden)
+- 1955-01-01 (38.9, -77.0), 2: Elizebeth Smith Friedman, William Frederick Friedman
+- 1957-01-01 (38.9, -77.0), 2: Elizebeth Smith Friedman, Herbert Osborn Yardley
+- 1971-01-01 (37.8, -79.4), 2: Elizebeth Smith Friedman, William Frederick Friedman
+- 1999-01-01 (39.1, -76.8), 2: Elizebeth Smith Friedman, Herbert Osborn Yardley
+- 1909-01-01 (52.5, 13.4), 2: Elsa Gindler, Gustav Landauer
+- 1922-01-01 (53.6, 10.0), 2: Elsa Gindler, Joseph Hubertus Pilates
+- 1926-01-01 (52.5, 13.4), 2: Elsa Gindler, Valeska Gert (Gertrud Valesca Samosch)
+- 1930-01-01 (52.5, 13.4), 2: Elsa Gindler, Nabucodonosor II (Nebuchadnezzar II, king of Babylon)
+- 1931-01-01 (52.5, 13.4), 2: Elsa Gindler, John Foster Dulles
+- 1710-01-01 (51.5, -0.1), 2: Emanuel Swedenborg (born Emanuel Swedberg), Sir Isaac Newton
+- 1771-01-01 (51.5, -0.1), 2: Emanuel Swedenborg (born Emanuel Swedberg), Sir Francis Baring, 1st Baronet
+- 1896-01-01 (59.3, 18.1), 2: Emanuel Swedenborg (born Emanuel Swedberg), Hilma af Klint
+- 1879-01-01 (48.9, 2.4), 2: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Émile Pouget
+- 2003-01-01 (42.4, -71.1), 2: Emiliano Kargieman, Jeffrey Edward Epstein
+- 2006-01-01 (-34.6, -58.4), 2: Emiliano Kargieman, Josefina Ayerza
+- 1913-01-01 (-36.7, -61.9), 2: Emir Emin Arslan (al-Amir Amin Majid Arslan), Julio Argentino Roca
+- 1921-01-01 (51.5, 9.9), 2: Amalie Emmy Noether, Felix Christian Klein
+- 1923-01-01 (51.5, 9.9), 2: Amalie Emmy Noether, Enrico Fermi
+- 1926-01-01 (51.5, 9.9), 2: Amalie Emmy Noether, Felix Christian Klein
+- 1905-01-01 (48.9, 2.2), 2: Empress Joséphine (Marie-Josèphe-Rose Tascher de La Pagerie, vicomtesse de Beauharnais), Jean-Claude Nicolas Forestier
+- 0541-01-01 (41.0, 29.0), 2: Empress Theodora (Theodora Augusta, consort of Justinian I), Justinian I (Flavius Petrus Sabbatius Iustinianus)
+- 0543-01-01 (41.0, 29.0), 2: Empress Theodora (Theodora Augusta, consort of Justinian I), Origen of Alexandria (Origenes Adamantius)
+- 0547-01-01 (44.4, 12.2), 2: Empress Theodora (Theodora Augusta, consort of Justinian I), Justinian I (Flavius Petrus Sabbatius Iustinianus)
+- 1879-01-01 (41.9, 12.5), 2: Engelbert Humperdinck, Ettore Ferrari
+- 1880-01-01 (40.8, 14.2), 2: Engelbert Humperdinck, Étienne-Jules Marey
+- 1884-01-01 (52.5, 13.4), 2: Johannes Friedrich Guttzeit, Karl Max Engelmann (Liga Pitagórica)
+- 1918-01-01 (50.1, 8.7), 2: Erich Seligmann Fromm, Hanya Holm (born Johanna Josepha Eckert)
+- 1920-01-01 (50.1, 8.7), 2: Erich Seligmann Fromm, Felix José Weil
+- 1922-01-01 (49.4, 8.7), 2: Erich Seligmann Fromm, Max Weber
+- 1935-01-01 (40.8, -74.0), 2: Erich Seligmann Fromm, George Balanchine (Georgiy Melitonovich Balanchivadze)
+- 1901-01-01 (52.5, 13.3), 2: Erich Mühsam, Walter Benjamin
+- 1918-01-01 (48.8, 2.3), 2: Erik Satie (Eric Alfred Leslie Satie), Henri Léon Lebesgue
+- 1935-01-01 (51.8, -1.2), 2: Erwin Rudolf Josef Alexander Schrödinger, John Langshaw Austin
+- 1860-01-01 (48.9, 2.3), 2: Louis Vuitton, Étienne-Jules Marey
+- 1894-01-01 (48.8, 2.3), 2: Maria Salomea Skłodowska-Curie (Marie Curie), Étienne-Jules Marey
+- 1901-01-01 (48.8, 2.3), 2: Paul Jules Barbier, Étienne-Jules Marey
+- 1772-01-01 (48.9, 2.4), 2: Claude-Henri de Rouvroy, comte de Saint-Simon, Jean-Baptiste Alliette, called Etteilla
+- 1788-01-01 (48.9, 2.4), 2: Jean-Baptiste Alliette, called Etteilla, Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia)
+- 1789-01-01 (48.9, 2.4), 2: Jean-Baptiste Alliette, called Etteilla, Jean-Baptiste Joseph Fourier
+- 1792-01-01 (48.9, 2.3), 2: Jean-Baptiste Alliette, called Etteilla, Louis XIV, roi de France et de Navarre, called Louis le Grand and le Roi-Soleil
+- 1800-01-01 (48.9, 2.4), 2: Jean-Baptiste Alliette, called Etteilla, Marie Adrienne Françoise de Noailles, Marquise de Lafayette
+- 1850-01-01 (48.9, 2.4), 2: Jean-Baptiste Alliette, called Etteilla, Victor-Marie Hugo
+- 1860-01-01 (48.9, 2.4), 2: Jean-Baptiste Alliette, called Etteilla, Paul Jules Barbier
+- 1880-01-01 (45.1, 7.7), 2: Ettore Ferrari, Vittorio Meano (Victor Meano)
+- 1892-01-01 (41.9, 12.5), 2: Ettore Ferrari, Pío Collivadino
+- 1924-01-01 (31.2, 29.9), 2: Ettore Ferrari, Haile Selassie I (Lij Tafari Makonnen, Ras Tafari)
+- 1907-01-01 (48.2, 16.4), 2: Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk), Gustav Klimt
+- 1894-01-01 (40.7, -74.0), 2: Eugène Samuel Grasset, Ruth St. Denis (Ruth Dennis)
+- 1903-01-01 (48.8, 2.3), 2: Eugène Samuel Grasset, Henri Léon Lebesgue
+- 1910-01-01 (-34.9, -56.2), 2: Eugène Py (Eugenio Py), Max Glücksmann (Mordechai David Glücksmann)
+- 1878-01-01 (40.7, -74.0), 2: Felix Adler, John Pierpont Morgan
+- 1903-01-01 (40.7, -74.0), 2: Felix Adler, Lyman Frank Baum
+- 1965-01-01 (48.9, 2.4), 2: Gilles de Montmorency-Laval, baron de Rais, Marshal of France, Pierre-Félix Guattari
+- 1969-01-01 (48.8, 2.4), 2: Nicos Poulantzas, Pierre-Félix Guattari
+- 1975-01-01 (48.9, 2.3), 2: Nicos Poulantzas, Pierre-Félix Guattari
+- 1991-01-01 (48.9, 2.3), 2: Gilles Louis Rene Deleuze, Pierre-Félix Guattari
+- 1931-01-01 (50.1, 8.7), 2: Felix José Weil, Theodor W. Adorno (Theodor Ludwig Wiesengrund)
+- 1944-01-01 (40.7, -74.0), 2: Felix José Weil, José Antonio de Aguirre y Lecube
+- 1970-01-01 (50.1, 8.7), 2: Felix José Weil, Theodor W. Adorno (Theodor Ludwig Wiesengrund)
+- 1916-01-01 (41.9, 12.5), 2: Enrico Fermi, Julius Evola (Giulio Cesare Andrea Evola)
+- 1800-01-01 (52.5, 13.4), 2: Christiane Wilhelmine Sophie von Kühn, Johann Gottlieb Fichte
+- 1945-01-01 (23.1, -82.4), 2: Fidel Alejandro Castro Ruz, Vito Dumas
+- 1959-01-01 (20.0, -75.8), 2: Fidel Alejandro Castro Ruz, Vilma Espín Guillois
+- 0079-01-01 (41.9, 12.5), 2: Flavius Josephus (Yosef ben Mattityahu), Gaius Julius Solinus
+- 0085-01-01 (41.9, 12.5), 2: Flavius Josephus (Yosef ben Mattityahu), Marcus Fabius Quintilianus (Quintilian)
+- 1934-01-01 (52.2, 0.1), 2: Frances Amelia Yates, Margaret Alice Murray
+- 1940-01-01 (51.5, -0.2), 2: Frances Amelia Yates, Herbert George Wells
+- 1958-01-01 (51.5, -0.1), 2: Frances Amelia Yates, Satyendra Nath Bose
+- 1959-01-01 (51.5, -0.1), 2: Anthony Stafford Beer, Frances Amelia Yates
+- 1966-01-01 (51.5, -0.1), 2: Anthony Stafford Beer, Frances Amelia Yates
+- 1970-01-01 (51.8, -1.3), 2: Frances Amelia Yates, Richard Dawkins (Clinton Richard Dawkins)
+- 1973-01-01 (51.5, -0.1), 2: Frances Amelia Yates, Nicos Poulantzas
+- 1984-01-01 (51.5, -0.1), 2: Frances Amelia Yates, John Rogers Searle
+- 1883-01-01 (41.9, 12.5), 2: Francesco Tamburini, Maria Tecla Artemisia Montessori
+- 1793-01-01 (51.5, -0.1), 2: Sir Francis Baring, 1st Baronet, William Blake
+- 1795-01-01 (51.5, -0.1), 2: Sir Francis Baring, 1st Baronet, Sir Isaac Newton
+- 1804-01-01 (51.5, -0.1), 2: Mayer Amschel Rothschild, Sir Francis Baring, 1st Baronet
+- 1897-01-01 (40.8, -74.0), 2: Francis Julius Bellamy, Robert Moses
+- 1909-01-01 (44.4, 8.9), 2: Francisco Gianotti (Francesco Terenzio Gianotti), Mario Palanti
+- 1987-01-01 (-34.6, -58.4), 2: Francisco Gianotti (Francesco Terenzio Gianotti), Silvina Ocampo
+- 2004-01-01 (-34.6, -58.4), 2: Francisco Gianotti (Francesco Terenzio Gianotti), Leo Chiachio (of Chiachio & Giannone)
+- 1944-01-01 (-34.9, -56.2), 2: Francisco Salamone (Francesco Salamone), Max Perelman (Max Perlman, born Meiers Perlmanis)
+- 1943-01-01 (45.5, -122.7), 2: Frank Herbert (Franklin Patrick Herbert Jr.), Robert Moses
+- 1904-01-01 (42.9, -78.9), 2: Frank Lloyd Wright, Ruth St. Denis (Ruth Dennis)
+- 1919-01-01 (34.1, -118.3), 2: Frank Lloyd Wright, Lyman Frank Baum
+- 1801-01-01 (51.3, 9.5), 2: Franz Pforr, Mayer Amschel Rothschild
+- 1809-01-01 (48.2, 16.4), 2: Franz Pforr, Johann Friedrich Overbeck
+- 1811-01-01 (41.9, 12.5), 2: Franz Pforr, Johann Friedrich Overbeck
+- 1828-01-01 (41.9, 12.5), 2: Franz Pforr, Johann Friedrich Overbeck
+- 1886-01-01 (48.0, 7.8), 2: Franz Pforr, Johann Friedrich Overbeck
+- 1922-01-01 (50.1, 8.7), 2: Franz Pforr, Max Horkheimer
+- 1843-01-01 (48.8, 2.3), 2: Frédéric Auguste Bartholdi, René Just Haüy
+- 1871-01-01 (47.0, 4.3), 2: Frédéric Auguste Bartholdi, Giuseppe Maria Garibaldi
+- 1893-01-01 (41.8, -87.6), 2: Frédéric Auguste Bartholdi, Lionel-Noël Royer
+- 1874-01-01 (38.9, -77.0), 2: Frederick Law Olmsted, Harriet Tubman (born Araminta "Minty" Ross; Harriet Tubman Davis)
+- 1917-01-01 (48.2, 16.3), 2: Fritz Lang (Friedrich Christian Anton Lang), Gustav Klimt
+- 1961-01-01 (40.8, -74.0), 2: Gabriel José García Márquez, Hanya Holm (born Johanna Josepha Eckert)
+- 1473-01-01 (45.4, 12.3), 2: Gaius Julius Solinus, Jakob Fugger 'the Rich' (Jakob Fugger von der Lilie)
+- 2015-01-01 (-27.5, -58.8), 2: Antonio Mamerto Gil Núñez (Gauchito Gil), Leo Chiachio (of Chiachio & Giannone)
+- 1802-01-01 (53.1, 8.8), 2: Carl Friedrich Gauss, Johann Elert Bode
+- 1964-01-01 (40.8, -74.0), 2: George Balanchine (Georgiy Melitonovich Balanchivadze), José Arcadio Limón
+- 1857-01-01 (51.5, -0.1), 2: Friedrich Max Müller, Sir George Gabriel Stokes, 1st Baronet
+- 1925-01-01 (41.0, -73.6), 2: George Herbert Walker Bush, Prescott Sheldon Bush
+- 1973-01-01 (38.9, -77.0), 2: George Herbert Walker Bush, Kenneth Lee Lay
+- 1974-01-01 (39.9, 116.4), 2: George Herbert Walker Bush, Roland Gérard Barthes
+- 1954-01-01 (51.5, -0.1), 2: George Soros (born Schwartz György), Margaret Alice Murray
+- 1988-01-01 (48.9, 2.3), 2: George Soros (born Schwartz György), Gilles Louis Rene Deleuze
+- 1990-01-01 (50.5, 30.5), 2: George Soros (born Schwartz György), Max Rafailovich Levchin
+- 2020-01-01 (40.8, -74.0), 2: George Soros (born Schwartz György), Ralph Charles Merkle
+- 1960-01-01 (43.3, -70.5), 2: George Walker Bush, Prescott Sheldon Bush
+- 1903-01-01 (48.9, 2.4), 2: Georges Sorel, William Butler Yeats
+- 1968-01-01 (51.8, -1.2), 2: Ghislaine Noelle Marion Maxwell, Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 1974-01-01 (51.8, -1.2), 2: Ghislaine Noelle Marion Maxwell, Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 1998-01-01 (18.3, -64.8), 2: Ghislaine Noelle Marion Maxwell, Jeffrey Edward Epstein
+- 1945-01-01 (48.8, 2.3), 2: Gilles Louis Rene Deleuze, Paul-Michel Foucault
+- 1955-01-01 (48.8, 2.3), 2: Gilles Louis Rene Deleuze, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1970-01-01 (47.5, 1.5), 2: Gilles Louis Rene Deleuze, Nick Land
+- 1981-01-01 (48.9, 2.3), 2: Gilles Louis Rene Deleuze, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1992-01-01 (48.9, 2.4), 2: Gilles Louis Rene Deleuze, Jean Baudrillard
+- 1482-01-01 (45.4, 11.9), 2: Giovanni Pico della Mirandola, Peter of Ravenna (Pietro Francesco Tomai, Petrus Ravennas)
+- 1515-01-01 (45.4, 12.3), 2: Giulio Camillo Delminio, Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato)
+- 1927-01-01 (23.7, 90.4), 2: Giuseppe Tucci, Satyendra Nath Bose
+- 1932-01-01 (40.7, -74.0), 2: Golda Meir (Goldie Mabovitch, Golda Meyerson), Martha Graham
+- 1955-01-01 (32.1, 34.8), 2: Golda Meir (Goldie Mabovitch, Golda Meyerson), Moshé Feldenkrais
+- 1971-01-01 (31.8, 35.2), 2: Golda Meir (Goldie Mabovitch, Golda Meyerson), Max Perelman (Max Perlman, born Meiers Perlmanis)
+- 1673-01-01 (51.5, -0.1), 2: Gottfried Wilhelm Leibniz, Robert Hooke
+- 1911-01-01 (46.5, 30.7), 2: Grigori Yefimovich Rasputin, Meyer Lansky (Maier Suchowljansky)
+- 1980-01-01 (25.8, -80.1), 2: Griselda Blanco Restrepo, Pablo Emilio Escobar Gaviria
+- 1908-01-01 (43.8, 11.3), 2: Guido Keller, Gustav Klimt
+- 2017-01-01 (37.8, -122.4), 2: Guido van Rossum, Samuel Harris Altman
+- 1874-01-01 (48.2, 16.4), 2: Gustav Klimt, Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1891-01-01 (48.2, 16.4), 2: Gustav Klimt, Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato)
+- 1894-01-01 (48.2, 16.4), 2: Gustav Klimt, Theodor Herzl (Binyamin Ze'ev Herzl)
+- 1855-01-01 (48.9, 2.4), 2: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Jean-Baptiste Pitois (Paul Christian)
+- 1909-01-01 (48.9, 2.3), 2: Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel), Mohammad Mosaddegh
+- 1862-01-01 (48.9, 2.4), 2: Gustave Flaubert, Paul Jules Barbier
+- 1899-01-01 (49.8, 22.8), 2: Gustav Arthur "Gusto" Gräser, Karl Gräser (Carl Samuel Josef Gräser)
+- 1906-01-01 (46.2, 8.8), 2: Gustav Arthur "Gusto" Gräser, Karl Gräser (Carl Samuel Josef Gräser)
+- 1973-01-01 (48.9, 2.3), 2: Guy-Ernest Debord, Jacques Marie Émile Lacan
+- 1978-01-01 (48.9, 2.3), 2: Guy-Ernest Debord, Nicos Poulantzas
+- 0883-01-01 (33.3, 44.4), 2: Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad), Mansur al-Hallaj (al-Husayn ibn Mansur al-Hallaj)
+- 1898-01-01 (42.4, -71.1), 2: Harriet Tubman (born Araminta "Minty" Ross; Harriet Tubman Davis), Johann Elert Bode
+- 1891-01-01 (40.8, -74.0), 2: Harry Houdini (Erik Weisz, later Ehrich Weiss), John Pierpont Morgan
+- 1904-01-01 (40.8, -74.0), 2: Harry Houdini (Erik Weisz, later Ehrich Weiss), John Pierpont Morgan
+- 1923-01-01 (40.7, -74.0), 2: Harry Houdini (Erik Weisz, later Ehrich Weiss), Vladimir Medem (Vladimir Davidovich Medem, born Grinberg)
+- 1797-01-01 (50.1, 8.7), 2: Georg Wilhelm Friedrich Hegel, Johann Jost Textor
+- 1801-01-01 (50.9, 11.6), 2: Friedrich Wilhelm Joseph Schelling, Georg Wilhelm Friedrich Hegel
+- 1889-01-01 (52.5, 13.4), 2: Georg Wilhelm Friedrich Hegel, Max Weber
+- 1958-01-01 (48.2, 11.6), 2: Werner Heisenberg, Wolfgang Ernst Pauli
+- 1980-01-01 (37.3, -121.9), 2: Martin Edward Hellman, Ralph Charles Merkle
+- 1984-01-01 (37.4, -122.1), 2: Martin Edward Hellman, Philip R. Zimmermann (Phil Zimmermann)
+- 1877-01-01 (48.8, 2.3), 2: Henri-Louis Bergson, Luc-Olivier Merson
+- 1797-01-01 (48.9, 2.4), 2: Claude-Henri de Rouvroy, comte de Saint-Simon, Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia)
+- 1798-01-01 (48.8, 2.3), 2: Claude-Henri de Rouvroy, comte de Saint-Simon, Siméon Denis Poisson
+- 1804-01-01 (48.9, 2.4), 2: Claude-Henri de Rouvroy, comte de Saint-Simon, Joseph-Marie Jacquard (born Joseph Marie Charles)
+- 1832-01-01 (48.9, 2.4), 2: Claude-Henri de Rouvroy, comte de Saint-Simon, Victor-Marie Hugo
+- 1910-01-01 (48.8, 2.3), 2: Henri Léon Lebesgue, Maria Salomea Skłodowska-Curie (Marie Curie)
+- 1921-01-01 (48.8, 2.3), 2: Henri Léon Lebesgue, Jean-Claude Nicolas Forestier
+- 1947-01-01 (48.9, 2.4), 2: Henri Léon Lebesgue, Valeska Gert (Gertrud Valesca Samosch)
+- 1921-01-01 (-23.5, -46.6), 2: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1926-01-01 (46.2, 8.8), 2: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1981-01-01 (46.2, 8.8), 2: Henri Oedenkoven, Ida Hofmann (Ida Hofmann-Oedenkoven)
+- 1940-01-01 (55.8, 37.6), 2: Henryk Erlich (Hersh-Wolf Erlikh), Nikolai Aleksandrovich Bernstein
+- 1922-01-01 (48.0, 7.8), 2: Herbert Marcuse, Martin Heidegger
+- 1954-01-01 (42.4, -71.1), 2: Herbert Marcuse, Norbert Wiener
+- 1915-01-01 (38.9, -77.0), 2: Herbert Osborn Yardley, Thomas Alva Edison
+- 1617-01-01 (-32.5, -58.2), 2: Hernando Arias de Saavedra (Hernandarias), Pedro de Mendoza
+- 1516-01-01 (48.1, 7.4), 2: Jheronimus van Aken, called Hieronymus Bosch, San Antonio Abad (Antony the Great, Antonios of Coma)
+- 1557-01-01 (51.2, 4.4), 2: Jheronimus van Aken, called Hieronymus Bosch, Pieter Bruegel the Elder
+- 1918-01-01 (48.2, 16.3), 2: Hilde Holger (Hilde Sofer, later Boman-Behram), Wolfgang Ernst Pauli
+- 1992-01-01 (53.5, -2.2), 2: Hilde Holger (Hilde Sofer, later Boman-Behram), Winfried Georg Sebald (W.G. Sebald, 'Max' Sebald)
+- 1998-01-01 (48.2, 16.4), 2: Hilde Holger (Hilde Sofer, later Boman-Behram), Slavoj Žižek
+- -0966-01-01 (33.3, 35.2), 2: Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), King Solomon (Shelomoh · Sulayman)
+- 1726-01-01 (56.0, -3.2), 2: Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), Noah son of Lamech (Nuh)
+- 1801-01-01 (32.8, -79.9), 2: Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son), Prince Hall
+- 1187-01-01 (36.3, 43.1), 2: Afif al-Din Ali ibn Adlan al-Mawsili (Ibn Adlan), Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1614-01-01 (40.6, -4.1), 2: Maslama ibn Qasim al-Qurtubi, Taj al-Din Ali ibn Muhammad Ibn al-Durayhim al-Mawsili
+- 1889-01-01 (48.9, 2.4), 2: Ibrahim ibn Adham (Ebrahim b. Adham b. Mansur b. Yazid al-'Ijli), Joseph Alexandre Saint-Yves, Marquis d'Alveydre
+- 1852-01-01 (39.9, -75.2), 2: Ignatius Loyola Donnelly, Robert Finley
+- 1890-01-01 (41.9, -87.6), 2: Ignatius Loyola Donnelly, Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1960-01-01 (55.8, 37.6), 2: Indra Devi (Eugenia Vasilievna Peterson, Eugenie Strakaty), Vladimir Petrovich Demikhov
+- 1987-01-01 (-34.9, -56.2), 2: Indra Devi (Eugenia Vasilievna Peterson, Eugenie Strakaty), Osvaldo Pedro Pugliese
+- 1990-01-01 (41.8, -87.6), 2: Ioan Petru Culianu, Mircea Eliade
+- 1956-01-01 (9.4, -79.9), 2: Juan Domingo Perón, María Estela Martínez Cartas de Perón (Isabel Perón)
+- 1895-01-01 (46.2, 6.1), 2: Isabelle Wilhelmine Marie Eberhardt (Si Mahmoud Saadi), Émile Jaques-Dalcroze
+- 1945-01-01 (51.0, 5.9), 2: John Langshaw Austin, Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 1956-01-01 (51.8, -1.3), 2: John Langshaw Austin, John Rogers Searle
+- 1975-01-01 (42.4, -71.1), 2: John Langshaw Austin, Ray Kurzweil
+- 1483-01-01 (51.5, -0.1), 2: Jacobus de Voragine (Iacopo da Varazze), Order of Preachers, Archbishop of Genoa, Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis)
+- 1964-01-01 (48.8, 2.3), 2: Jacques Derrida (born Jackie Elie Derrida), Nicos Poulantzas
+- 1977-01-01 (39.3, -76.6), 2: Jacques Derrida (born Jackie Elie Derrida), John Rogers Searle
+- 1988-01-01 (42.0, -87.7), 2: Jacques Derrida (born Jackie Elie Derrida), John Rogers Searle
+- 1974-01-01 (48.9, 2.4), 2: Jacques Derrida (born Jackie Elie Derrida), Nicos Poulantzas
+- 1933-01-01 (48.8, 2.3), 2: Jacques Marie Émile Lacan, Moshé Feldenkrais
+- 1949-01-01 (47.4, 8.5), 2: Jacques Marie Émile Lacan, Wolfgang Ernst Pauli
+- 1966-01-01 (48.9, 2.3), 2: Jacques Marie Émile Lacan, Nicos Poulantzas
+- 2019-01-01 (-15.8, -47.9), 2: Jair Messias Bolsonaro, Paulo Reglus Neves Freire
+- 1473-01-01 (49.5, 11.1), 2: Jakob Fugger 'the Rich' (Jakob Fugger von der Lilie), Salomon Trismosin
+- 1935-01-01 (48.9, 2.3), 2: James Augustine Aloysius Joyce, Moshé Feldenkrais
+- 1906-01-01 (51.5, -0.1), 2: James Lewis Thomas Chalmers Spence (Lewis Spence), Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1900-01-01 (51.5, -0.2), 2: Sir James Matthew Barrie, 1st Baronet, William Holman Hunt
+- 1910-01-01 (51.5, -0.1), 2: Sir James Matthew Barrie, 1st Baronet, Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1874-01-01 (51.5, -0.2), 2: Jane Morris (nee Burden), Sir John Everett Millais, 1st Baronet
+- 1876-01-01 (43.9, 8.0), 2: Jane Morris (nee Burden), Mary "May" Morris
+- 1913-01-01 (51.7, -1.6), 2: Jane Morris (nee Burden), Mary "May" Morris
+- 1962-01-01 (51.7, -1.6), 2: Jane Morris (nee Burden), Mary "May" Morris
+- 2013-01-01 (51.5, -0.1), 2: Jane Morris (nee Burden), Richard Dawkins (Clinton Richard Dawkins)
+- 1861-01-01 (-34.6, -58.4), 2: János Czetz (Juan Fernando Czetz), Pedro Simón del Corazón de Jesús Benoit
+- 1863-01-01 (-34.6, -58.4), 2: János Czetz (Juan Fernando Czetz), Pedro Simón del Corazón de Jesús Benoit
+- 1869-01-01 (-34.6, -58.4), 2: José Rafael Hernández, János Czetz (Juan Fernando Czetz)
+- 1839-01-01 (48.9, 2.3), 2: Jean-Baptiste Pitois (Paul Christian), Siméon Denis Poisson
+- 1865-01-01 (48.9, 2.4), 2: Jean-Baptiste Pitois (Paul Christian), Jules Gabriel Verne
+- 1869-01-01 (48.9, 2.4), 2: Jean-Baptiste Pitois (Paul Christian), Jules Gabriel Verne
+- 1870-01-01 (48.9, 2.3), 2: Jean-Baptiste Pitois (Paul Christian), Louis Vuitton
+- 1950-01-01 (48.8, 2.3), 2: Jean Baudrillard, Paul-Michel Foucault
+- 1731-01-01 (45.6, 5.9), 2: Jean-Jacques Rousseau, John Locke
+- 1946-01-01 (48.9, 2.3), 2: Jean-Paul Charles Aymard Sartre, Nadia Boulanger (Juliette Nadia Boulanger)
+- 1987-01-01 (40.8, -74.0), 2: Jeffrey Edward Epstein, Leslie Herbert Wexner
+- 1986-01-01 (26.7, -80.0), 2: Jeffrey Edward Epstein, Leslie Herbert Wexner
+- 2002-01-01 (42.4, -71.1), 2: Jeffrey Edward Epstein, Stanley Jeyaraja Tambiah
+- 1928-01-01 (34.1, -118.3), 2: Jiddu Krishnamurti, John Milton Cage Jr.
+- 1772-01-01 (52.5, 13.4), 2: Johann Elert Bode, Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia)
+- 1548-01-01 (47.6, 7.6), 2: Johann Georg Faust (Georgius Sabellicus Faustus junior), Salomon Trismosin
+- 1816-01-01 (41.9, 12.5), 2: Johann Friedrich Overbeck, Peter von Cornelius
+- 1817-01-01 (41.9, 12.5), 2: Johann Friedrich Overbeck, Peter von Cornelius
+- 1853-01-01 (41.9, 12.5), 2: Johann Friedrich Overbeck, Peter von Cornelius
+- 1864-01-01 (42.4, -71.1), 2: Johann Friedrich Overbeck, William James
+- 1619-01-01 (48.3, 14.3), 2: Johannes Kepler, Robert Fludd (Robertus de Fluctibus)
+- 1503-01-01 (47.1, 8.8), 2: Johannes Trithemius (Johann von Heidenberg), abbot of Sponheim and of St James's at Würzburg, Salomon Trismosin
+- 1609-01-01 (41.9, 12.5), 2: Johannes Trithemius (Johann von Heidenberg), abbot of Sponheim and of St James's at Würzburg, Salomon Trismosin
+- 1979-01-01 (40.7, -74.0), 2: John Milton Cage Jr., Vladimir Medem (Vladimir Davidovich Medem, born Grinberg)
+- 1987-01-01 (50.1, 8.7), 2: John Milton Cage Jr., Theodor W. Adorno (Theodor Ludwig Wiesengrund)
+- 1896-01-01 (41.8, -87.6), 2: John Davison Rockefeller Sr., John Dewey
+- 1875-01-01 (51.5, -0.2), 2: Marie Sophie Taglioni, Sir John Everett Millais, 1st Baronet
+- 1878-01-01 (51.5, -0.2), 2: Mary "May" Morris, Sir John Everett Millais, 1st Baronet
+- 1682-01-01 (51.5, -0.1), 2: John Locke, Robert Hooke
+- 1686-01-01 (52.4, 4.9), 2: John Locke, William Paterson
+- 1696-01-01 (51.5, -0.1), 2: John Locke, Robert Hooke
+- 1916-01-01 (51.5, -0.1), 2: John Maynard Keynes, 1st Baron Keynes of Tilton, Victor Alter (Wiktor Alter)
+- 1965-01-01 (37.9, -122.3), 2: John Rogers Searle, Kenneth Lane Thompson
+- 1983-01-01 (37.9, -122.3), 2: John Rogers Searle, Paul-Michel Foucault
+- 1951-01-01 (38.9, -77.0), 2: John von Neumann (Neumann János Lajos, margittai Neumann János), William Frederick Friedman
+- 1996-01-01 (52.5, 13.4), 2: Joscha Bach, Slavoj Žižek
+- 2014-01-01 (52.5, 13.4), 2: Haydée Tamara Bunke Bíder (Tania la Guerrillera), Joscha Bach
+- 2019-01-01 (37.8, -122.4), 2: Joscha Bach, Philip R. Zimmermann (Phil Zimmermann)
+- 1852-01-01 (-34.6, -58.4), 2: José Rafael Hernández, Juan Manuel José Domingo Ortiz de Rozas y López de Osornio (Juan Manuel de Rosas)
+- 1879-01-01 (-34.6, -58.4), 2: José Rafael Hernández, Pedro Simón del Corazón de Jesús Benoit
+- 1926-01-01 (34.1, -118.3), 2: José Arcadio Limón, Walter Elias Disney
+- 1973-01-01 (40.8, -74.0), 2: José Arcadio Limón, Murray Newton Rothbard
+- 1955-01-01 (9.0, -79.5), 2: José López Rega (El Brujo), Manuel Antonio Noriega Moreno
+- 1974-01-01 (32.9, 13.2), 2: José López Rega (El Brujo), Muammar Muhammad Abu Minyar al-Gaddafi
+- 1948-01-01 (43.3, -2.0), 2: José Luis Álvarez Enparantza (Txillardegi), Julen Kerman Madariaga Agirre
+- 1952-01-01 (43.3, -2.9), 2: José Luis Álvarez Enparantza (Txillardegi), Julen Kerman Madariaga Agirre
+- 1880-01-01 (40.7, -74.0), 2: José Julián Martí Pérez (José Martí), Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish)
+- 1985-01-01 (40.8, -74.0), 2: Josefina Ayerza, Leslie Herbert Wexner
+- 1990-01-01 (40.8, -74.0), 2: Josefina Ayerza, Mark Brodsky
+- 2000-01-01 (40.8, -74.0), 2: Josefina Ayerza, Stephen Edwin King
+- 2008-01-01 (40.8, -74.0), 2: Josefina Ayerza, Leon David Black
+- 2009-01-01 (40.8, -74.0), 2: Josefina Ayerza, Mark Stewart Cohen
+- 1884-01-01 (48.9, 2.4), 2: Joseph Alexandre Saint-Yves, Marquis d'Alveydre, Marie Sophie Taglioni
+- 1888-01-01 (48.9, 2.4), 2: Joseph Alexandre Saint-Yves, Marquis d'Alveydre, Lionel-Noël Royer
+- 1797-01-01 (48.9, 2.3), 2: Jean-Baptiste Joseph Fourier, Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia)
+- 1817-01-01 (48.9, 2.3), 2: Jean-Baptiste Joseph Fourier, Mayer Amschel Rothschild
+- 1808-01-01 (48.9, 2.4), 2: Joseph-Louis Lagrange (Giuseppe Lodovico Lagrangia), Rollo (Hrolfr, Gongu-Hrolfr, Robert of Rouen), first ruler of the Northmen of the Seine
+- 1806-01-01 (48.9, 2.4), 2: Joseph-Marie Jacquard (born Joseph Marie Charles), Simón Rodríguez (Samuel Robinson)
+- 1925-01-01 (48.1, 11.6), 2: Joseph Süß Oppenheimer, Ludwig Derleth
+- 1893-01-01 (48.2, 16.4), 2: Joseph Alois Schumpeter, Theodor Herzl (Binyamin Ze'ev Herzl)
+- 1909-01-01 (48.2, 16.4), 2: Joseph Alois Schumpeter, Ludwig Heinrich Edler von Mises
+- 1943-01-01 (42.4, -71.1), 2: Joseph Alois Schumpeter, Sheldon Gary Adelson
+- 1850-01-01 (-34.6, -58.4), 2: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Pedro Simón del Corazón de Jesús Benoit
+- 1881-01-01 (-34.9, -58.0), 2: Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Pedro Simón del Corazón de Jesús Benoit
+- 1958-01-01 (41.4, 2.2), 2: Juan Eduardo Cirlot Laporta, Wifredo Viladrich (recorded also as Wilfredo, Wílfredo, and Wíeredovol Viladrich)
+- 1997-01-01 (40.4, -3.7), 2: Jacinto Molina Álvarez (Paul Naschy), Juan Eduardo Cirlot Laporta
+- 1829-01-01 (-34.6, -58.4), 2: Juan Martín de Pueyrredón y O'Doggan, Próspero Catelin (Thomas Prosper Catelin)
+- 1909-01-01 (50.1, 14.4), 2: Judah Loew ben Bezalel (the Maharal of Prague), Martin Mordechai Buber
+- 1937-01-01 (43.3, -2.9), 2: Julen Kerman Madariaga Agirre, Sabino Policarpo Arana Goiri
+- 1852-01-01 (48.9, 2.4), 2: Paul Jules Barbier, Ratramnus of Corbie
+- 1869-01-01 (48.9, 2.3), 2: Luc-Olivier Merson, Paul Jules Barbier
+- 1870-01-01 (-34.6, -58.4), 2: Jules Dormal Godet (Julio Dormal), Torcuato Antonio de Alvear
+- 1875-01-01 (41.9, 12.5), 2: Jules-Félix Coutan, Maria Tecla Artemisia Montessori
+- 1905-01-01 (48.9, 2.3), 2: Jules-Félix Coutan, Luc-Olivier Merson
+- 1915-01-01 (47.4, 8.5), 2: Julio Florencio Cortázar Descotte, Sophie Taeuber-Arp
+- 1971-01-01 (23.1, -82.4), 2: Julio Florencio Cortázar Descotte, Vilma Espín Guillois
+- 1977-01-01 (45.5, -73.6), 2: Julio Florencio Cortázar Descotte, Yoshua Bengio
+- 1921-01-01 (52.5, 13.4), 2: Julius Evola (Giulio Cesare Andrea Evola), Walter Benjamin
+- 1932-01-01 (41.9, 12.5), 2: Julius Evola (Giulio Cesare Andrea Evola), Marta María Ezcurra Real de Azúa
+- 1934-01-01 (52.5, 13.4), 2: Julius Evola (Giulio Cesare Andrea Evola), Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1936-01-01 (41.9, 12.5), 2: Julius Evola (Giulio Cesare Andrea Evola), Martin Heidegger
+- 1963-01-01 (41.9, 12.5), 2: Julius Evola (Giulio Cesare Andrea Evola), Paul Casimir Marcinkus
+- 1970-01-01 (41.9, 12.5), 2: Julius Evola (Giulio Cesare Andrea Evola), Licio Gelli
+- 0910-01-01 (33.3, 44.4), 2: Abu al-Qasim al-Junayd ibn Muhammad al-Baghdadi (Junayd of Baghdad), Maslama ibn Qasim al-Qurtubi
+- 1964-01-01 (50.1, 8.7), 2: Jürgen Habermas, Theodor W. Adorno (Theodor Ludwig Wiesengrund)
+- 1992-01-01 (50.1, 8.7), 2: Jürgen Habermas, Max Horkheimer
+- 0550-01-01 (40.8, 29.9), 2: Justinian I (Flavius Petrus Sabbatius Iustinianus), Pantaleon of Nicomedia (Pantoleon; Saint Panteleimon, the All-Merciful; San Pantaleone)
+- 1771-01-01 (54.7, 20.5), 2: Immanuel Kant, Nick Land
+- 1781-01-01 (54.7, 20.5), 2: Immanuel Kant, Nick Land
+- 1900-01-01 (47.4, 8.5), 2: Karl Gräser (Carl Samuel Josef Gräser), Olga Fröbe-Kapteyn
+- 1912-01-01 (53.6, 10.0), 2: Katja Wulff (Käthe Wulff), Sophie Taeuber-Arp
+- 1918-01-01 (47.4, 8.5), 2: Katja Wulff (Käthe Wulff), Sophie Taeuber-Arp
+- 1926-01-01 (47.6, 7.6), 2: Katja Wulff (Käthe Wulff), Ludwig Derleth
+- 1975-01-01 (37.9, -122.3), 2: Kenneth Lane Thompson, Ralph Charles Merkle
+- 1976-01-01 (37.9, -122.3), 2: Kenneth Lane Thompson, Leonard Max Adleman
+- 1971-01-01 (38.9, -77.0), 2: Avram Noam Chomsky, Kenneth Lee Lay
+- -0970-01-01 (31.8, 35.2), 2: David ben Jesse, King of Israel, King Solomon (Shelomoh · Sulayman)
+- 1675-01-01 (41.9, 12.5), 2: Athanasius Kircher, Noah son of Lamech (Nuh)
+- 1679-01-01 (41.9, 12.5), 2: Athanasius Kircher, Noah son of Lamech (Nuh)
+- 1266-01-01 (39.9, 116.4), 2: Kublai Khan (Khubilai, Setsen Khan, Emperor Shizu of Yuan), Marco Polo (Messer Marco Milioni)
+- 1279-01-01 (32.4, 119.4), 2: Kublai Khan (Khubilai, Setsen Khan, Emperor Shizu of Yuan), Marco Polo (Messer Marco Milioni)
+- 1283-01-01 (25.0, 102.7), 2: Kublai Khan (Khubilai, Setsen Khan, Emperor Shizu of Yuan), Marco Polo (Messer Marco Milioni)
+- 1298-01-01 (44.4, 8.9), 2: Kublai Khan (Khubilai, Setsen Khan, Emperor Shizu of Yuan), Rabban Bar Sauma
+- 1897-01-01 (41.9, -87.6), 2: Lucy Parsons (born Lucia; Gonzalez, Carter, Diaz, Hull), Lyman Frank Baum
+- 2007-01-01 (-34.6, -58.4), 2: Leo Chiachio (of Chiachio & Giannone), Pío Collivadino
+- 2009-01-01 (48.9, 2.4), 2: Leo Chiachio (of Chiachio & Giannone), Roland Gérard Barthes
+- 2016-01-01 (-24.8, -65.4), 2: Leo Chiachio (of Chiachio & Giannone), Martín Miguel de Güemes
+- 1452-01-01 (41.9, 12.5), 2: Leon Battista Alberti, Polybius of Megalopolis, son of Lycortas
+- 1464-01-01 (41.9, 12.5), 2: Leon Battista Alberti, Nicholas of Cusa (Nikolaus von Kues, Nicolaus Cusanus)
+- 1471-01-01 (41.9, 12.5), 2: Leon Battista Alberti, Lorenzo di Piero de' Medici (Lorenzo il Magnifico)
+- 2012-01-01 (51.5, -0.1), 2: Leon David Black, Slavoj Žižek
+- 1996-01-01 (38.9, -77.0), 2: Leonard Max Adleman, Philip R. Zimmermann (Phil Zimmermann)
+- 1464-01-01 (43.8, 11.3), 2: Leonardo di ser Piero da Vinci, Lorenzo di Piero de' Medici (Lorenzo il Magnifico)
+- 1466-01-01 (43.8, 11.3), 2: Leonardo di ser Piero da Vinci, Lorenzo di Piero de' Medici (Lorenzo il Magnifico)
+- 1978-01-01 (37.5, -122.2), 2: Leslie Barry Lamport, Murray Newton Rothbard
+- 1982-01-01 (37.4, -122.2), 2: Leslie Barry Lamport, René Noël Théophile Girard
+- 1989-01-01 (42.4, -71.1), 2: Leslie Herbert Wexner, Stanley Jeyaraja Tambiah
+- 2026-01-01 (38.9, -77.0), 2: Leslie Herbert Wexner, Mark Lombardi
+- 1975-01-01 (41.9, 12.5), 2: Licio Gelli, Michele Sindona
+- 1971-01-01 (45.5, 9.2), 2: Licio Gelli, Michele Sindona
+- 1980-01-01 (41.9, 12.5), 2: Licio Gelli, Michelangelo di Lodovico Buonarroti Simoni
+- 1984-01-01 (-33.4, -70.7), 2: Licio Gelli, Maria Orsic
+- 1899-01-01 (48.9, 2.3), 2: Lionel-Noël Royer, Paul Berthon (Paul Louis Joseph Berthon)
+- 1912-01-01 (48.9, 2.3), 2: Lionel-Noël Royer, René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1944-01-01 (40.8, -74.0), 2: Loïe Fuller (Marie Louise Fuller), Max Moritz Warburg
+- 1485-01-01 (43.8, 11.3), 2: Lorenzo di Piero de' Medici (Lorenzo il Magnifico), Michelangelo di Lodovico Buonarroti Simoni
+- 1485-01-01 (43.8, 11.2), 2: Lorenzo di Piero de' Medici (Lorenzo il Magnifico), Simon of Gitta, called Simon Magus, the Power That Is Called Great
+- 1858-01-01 (48.9, 2.3), 2: Louis Vuitton, Luc-Olivier Merson
+- 1873-01-01 (43.8, 11.3), 2: Luc-Olivier Merson, Maria Tecla Artemisia Montessori
+- 1925-01-01 (40.4, -3.7), 2: Lucía Sánchez Saornil, Maslama ibn Qasim al-Qurtubi
+- 1614-01-01 (51.5, -0.1), 2: Lucilio Vanini (Giulio Cesare Vanini), Robert Fludd (Robertus de Fluctibus)
+- 1614-01-01 (41.9, 12.5), 2: Lucilio Vanini (Giulio Cesare Vanini), Saint Blaise of Sebastea (Blasius, Sveti Vlaho, San Biagio)
+- 1901-01-01 (48.2, 11.6), 2: Ludwig Derleth, Wassily Kandinsky (Vasily Vasilyevich Kandinsky)
+- 1907-01-01 (48.2, 11.6), 2: Ludwig Derleth, Otto Gross
+- 1919-01-01 (48.1, 11.6), 2: Ludwig Derleth, Maria Orsic
+- 1917-01-01 (48.2, 16.4), 2: Ludwig Heinrich Edler von Mises, Maria Orsic
+- 1899-01-01 (-34.6, -58.4), 2: Luis Perlotti, Vittorio Meano (Victor Meano)
+- 1941-01-01 (20.7, 78.6), 2: Mohandas Karamchand Gandhi (Mahatma Gandhi), Savitri Devi (Maximiani Portas)
+- 1300-01-01 (45.4, 12.3), 2: Marco Polo (Messer Marco Milioni), Pantaleon of Nicomedia (Pantoleon; Saint Panteleimon, the All-Merciful; San Pantaleone)
+- 1880-01-01 (22.6, 88.4), 2: Margaret Alice Murray, Narendranath Datta, in religion Swami Vivekananda
+- 1917-01-01 (51.5, -0.1), 2: Margaret Alice Murray, Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1893-01-01 (41.9, 12.5), 2: Maria Tecla Artemisia Montessori, Pío Collivadino
+- 1922-01-01 (48.1, 11.6), 2: Maria Orsic, Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore)
+- 1818-01-01 (-24.8, -65.4), 2: Martín Miguel de Güemes, María Remedios del Valle
+- 1912-01-01 (51.5, -0.2), 2: Maria Salomea Skłodowska-Curie (Marie Curie), Philipp Griebel of Gräfenroda
+- 1914-01-01 (48.8, 2.3), 2: Maria Salomea Skłodowska-Curie (Marie Curie), René Guénon (Sheikh Abd al-Wahid Yahya)
+- 1934-01-01 (48.8, 2.3), 2: Maria Salomea Skłodowska-Curie (Marie Curie), Roland Gérard Barthes
+- 1825-01-01 (48.1, 11.6), 2: Marie Sophie Taglioni, Peter von Cornelius
+- 1844-01-01 (48.9, 2.4), 2: Marie Sophie Taglioni, Mikhail Aleksandrovich Bakunin
+- 1904-01-01 (45.5, 9.2), 2: Mario Palanti, Pío Collivadino
+- 1978-01-01 (45.5, 9.2), 2: Mario Palanti, Roberto Calvi
+- 1997-01-01 (52.4, -1.6), 2: Mark Fisher, Nick Land
+- 1999-01-01 (52.4, -1.6), 2: Mark Fisher, Nick Land
+- 2003-01-01 (51.5, -0.1), 2: Mark Fisher, Paul Elliott Singer
+- 2004-01-01 (51.5, -0.1), 2: Mark Fisher, Slavoj Žižek
+- 2005-01-01 (51.5, -0.1), 2: Mark Fisher, Rudolf Ritsema
+- 2011-01-01 (51.5, -0.1), 2: Mark Fisher, Richard Dawkins (Clinton Richard Dawkins)
+- 2006-01-01 (40.8, -74.0), 2: Mark Lombardi, Paolo Soleri
+- 2008-01-01 (40.4, -3.7), 2: Jacinto Molina Álvarez (Paul Naschy), Mark Lombardi
+- 1911-01-01 (34.1, -118.2), 2: Martha Graham, Ruth St. Denis (Ruth Dennis)
+- 1898-01-01 (51.3, 12.4), 2: Martin Mordechai Buber, Philipp Griebel of Gräfenroda
+- 1885-01-01 (51.5, -0.2), 2: Mary "May" Morris, Oscar Fingal O'Fflahertie Wills Wilde
+- 1818-01-01 (51.5, -0.1), 2: Mary Wollstonecraft Shelley (born Mary Wollstonecraft Godwin), William Blake
+- 0950-01-01 (40.4, -3.7), 2: Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi), Maslama ibn Qasim al-Qurtubi
+- 1000-01-01 (37.9, -4.8), 2: Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi), Maslama ibn Qasim al-Qurtubi
+- 0985-01-01 (37.9, -4.8), 2: Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi), Maslama ibn Qasim al-Qurtubi
+- 2015-01-01 (40.4, -3.7), 2: Maslama ibn Ahmad al-Majriti (Abu 'l-Qasim Maslama al-Majriti al-Qurtubi), Miguel de Cervantes Saavedra
+- 1902-01-01 (-33.4, -70.7), 2: Max Glücksmann (Mordechai David Glücksmann), Pedro Subercaseaux Errázuriz (Fray Pedro, Dom Pedro OSB)
+- 1934-01-01 (47.4, 8.5), 2: Max Horkheimer, Olga Fröbe-Kapteyn
+- 1999-01-01 (37.4, -122.2), 2: Max Rafailovich Levchin, René Noël Théophile Girard
+- 2016-01-01 (37.8, -122.4), 2: Max Rafailovich Levchin, Reid Garrett Hoffman
+- 1949-01-01 (51.5, -0.1), 2: Max Perelman (Max Perlman, born Meiers Perlmanis), Moshé Feldenkrais
+- 1954-01-01 (32.1, 34.8), 2: Max Perelman (Max Perlman, born Meiers Perlmanis), Moshé Feldenkrais
+- 1810-01-01 (50.1, 8.7), 2: Mayer Amschel Rothschild, Peter von Cornelius
+- 1998-01-01 (40.7, -74.0), 2: Merce Cunningham (Mercier Philip Cunningham), Paul Elliott Singer
+- 1963-01-01 (48.9, 2.4), 2: Paul-Michel Foucault, Roland Gérard Barthes
+- 1971-01-01 (25.0, -77.4), 2: Michele Sindona, Roberto Calvi
+- 1985-01-01 (42.4, -71.1), 2: Miller Smith Puckette, Stanley Jeyaraja Tambiah
+- 1986-01-01 (42.4, -71.1), 2: Miller Smith Puckette, Stanley Jeyaraja Tambiah
+- 1988-01-01 (48.9, 2.4), 2: Miller Smith Puckette, Osvaldo Pedro Pugliese
+- 1808-01-01 (51.5, -0.1), 2: Francisco de Miranda, William Blake
+- 1938-01-01 (48.8, 2.3), 2: Moshé Feldenkrais, Walter Benjamin
+- 1987-01-01 (32.5, 44.4), 2: Nabucodonosor II (Nebuchadnezzar II, king of Babylon), Saddam Hussein al-Tikriti
+- 1936-01-01 (51.5, -0.1), 2: Nadia Boulanger (Juliette Nadia Boulanger), Sir Isaac Newton
+- 1987-01-01 (51.9, 0.9), 2: Nick Land, Yanis Varoufakis (Ioannis Georgiou Varoufakis)
+- 1992-01-01 (51.5, -0.1), 2: Nick Land, Robert Maxwell (born Jan Ludvik Hyman Binyamin Hoch)
+- 1970-01-01 (48.9, 2.3), 2: Nicos Poulantzas, Simone Lucie Ernestine Marie Bertrand de Beauvoir
+- 1947-01-01 (55.7, 37.6), 2: Nikolai Aleksandrovich Bernstein, Vladimir Petrovich Demikhov
+- 1796-01-01 (51.2, 12.0), 2: Christiane Wilhelmine Sophie von Kühn, Novalis (Friedrich von Hardenberg)
+- 1911-01-01 (52.5, 13.4), 2: Olga Fröbe-Kapteyn, Oskar Alfred Victor Schlemmer
+- 1917-01-01 (34.1, -118.2), 2: Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish), Ted Shawn (Edwin Myers Shawn)
+- 1897-01-01 (40.7, -74.0), 2: Geneviève Stebbins, Pamela Colman Smith ("Pixie")
+- 1529-01-01 (49.5, 11.1), 2: Paracelsus (Theophrastus Bombastus von Hohenheim), Salomon Trismosin
+- 1956-01-01 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1958-01-01 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1974-01-01 (40.9, 14.3), 2: Assunta "Pupetta" Maresca, Pasquale Simonetti ("Pascalone 'e Nola")
+- 1991-01-01 (37.8, -122.4), 2: Krishna Pattabhi Jois, Philip R. Zimmermann (Phil Zimmermann)
+- 1930-01-01 (48.8, 2.3), 2: Paul Berthon (Paul Louis Joseph Berthon), Silvina Ocampo
+- 1961-01-01 (40.4, -3.7), 2: Jacinto Molina Álvarez (Paul Naschy), Savitri Devi (Maximiani Portas)
+- 1995-01-01 (-12.0, -77.0), 2: Paul Elliott Singer, Susana Shizuko Higuchi Miyagawa
+- 0755-01-01 (45.2, 9.2), 2: Paul the Deacon (Paulus Diaconus, Paulus Warnefridi), San Vito (Vitus of Lucania, Sankt Veit, Svaty Vit, Sveti Vid)
+- 1918-01-01 (-33.4, -70.7), 2: Pedro Subercaseaux Errázuriz (Fray Pedro, Dom Pedro OSB), Salvador Guillermo Allende Gossens
+- 1182-01-01 (43.1, 12.6), 2: Francis of Assisi (Francesco di Pietro di Bernardone), Pica Bourlémont (Giovanna, Madonna Pica)
+- 1802-01-01 (48.9, 2.4), 2: Pierre-François-Xavier Bouchard, Pierre-Simon Laplace, marquis de Laplace
+- 1800-01-01 (48.8, 2.3), 2: Pierre-Simon Laplace, marquis de Laplace, Siméon Denis Poisson
+- 1806-01-01 (48.8, 2.3), 2: Pierre-Simon Laplace, marquis de Laplace, Siméon Denis Poisson
+- -0477-01-01 (38.0, 23.7), 2: Pindar of Thebes (Pindaros), Simonides of Ceos (Simonides son of Leoprepes)
+- 1905-01-01 (41.9, 12.5), 2: Pío Collivadino, Troiano Troiani
+- 0059-01-01 (41.9, 12.5), 2: Marcus Fabius Quintilianus (Quintilian), Plinio el Viejo (Gaius Plinius Secundus, Pliny the Elder)
+- 0075-01-01 (41.9, 12.5), 2: Marcus Fabius Quintilianus (Quintilian), Plinio el Viejo (Gaius Plinius Secundus, Pliny the Elder)
+- -0140-01-01 (41.9, 12.5), 2: Polybius of Megalopolis, son of Lycortas, Pytheas de Massalia
+- 2000-01-01 (37.3, -121.9), 2: Ralph Charles Merkle, Ronald Linn Rivest
+- 1905-01-01 (52.2, 21.0), 2: Raquel Liberman (Ruchla Laja Liberman), Victor Alter (Wiktor Alter)
+- 1919-01-01 (52.2, 21.0), 2: Raquel Liberman (Ruchla Laja Liberman), Victor Alter (Wiktor Alter)
+- 1921-01-01 (52.2, 21.0), 2: Raquel Liberman (Ruchla Laja Liberman), Vladimir Medem (Vladimir Davidovich Medem, born Grinberg)
+- 0863-01-01 (49.9, 2.5), 2: Ratramnus of Corbie, Rimbert of Hamburg-Bremen
+- 0865-01-01 (49.9, 2.5), 2: Ratramnus of Corbie, San Cristobal (Christopher of Lycia, born Reprobus / Adokimos of the Marmaritae)
+- 1983-01-01 (42.4, -71.1), 2: Ray Kurzweil, Sara Rudner
+- 1927-01-01 (48.9, 2.3), 2: René Guénon (Sheikh Abd al-Wahid Yahya), Walter Benjamin
+- 1928-01-01 (48.9, 2.4), 2: René Guénon (Sheikh Abd al-Wahid Yahya), William Frederick Friedman
+- 1982-01-01 (51.8, -1.3), 2: Richard Dawkins (Clinton Richard Dawkins), Stanley Jeyaraja Tambiah
+- 1623-01-01 (50.1, 8.7), 2: Robert Fludd (Robertus de Fluctibus), Tommaso Campanella (baptized Giovanni Domenico Campanella)
+- 1967-01-01 (40.7, -74.0), 2: Roland Gérard Barthes, Sara Rudner
+- 1246-01-01 (37.9, 32.5), 2: Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi), Shams al-Din Muhammad of Tabriz (Shams-e Tabrizi, Shams-e Parande)
+- 1249-01-01 (37.9, 32.5), 2: Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi), Shams al-Din Muhammad of Tabriz (Shams-e Tabrizi, Shams-e Parande)
+- 1284-01-01 (37.9, 32.5), 2: Jalal al-Din Rumi (Mowlana Jalaluddin Muhammad Balkhi), Shams al-Din Muhammad of Tabriz (Shams-e Tabrizi, Shams-e Parande)
+- 1911-01-01 (39.7, -105.0), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1918-01-01 (34.1, -118.3), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1926-01-01 (1.3, 103.9), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1927-01-01 (40.8, -73.9), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1949-01-01 (42.3, -73.1), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 1964-01-01 (42.3, -73.1), 2: Ruth St. Denis (Ruth Dennis), Ted Shawn (Edwin Myers Shawn)
+- 0527-01-01 (41.0, 29.0), 2: Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Barbara of Heliopolis (Bárbara)
+- 0250-01-01 (36.2, 36.2), 2: Saint Acacius of Byzantium (Agathius, Achatius, Ahac, Sant'Agazio, San Acato), Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo)
+- 0426-01-01 (36.9, 7.8), 2: Aurelius Augustinus, Saint Augustine of Hippo, San Cristobal (Christopher of Lycia, born Reprobus / Adokimos of the Marmaritae)
+- 1000-01-01 (38.6, 34.8), 2: Saint Blaise of Sebastea (Blasius, Sveti Vlaho, San Biagio), Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis)
+- 0756-01-01 (48.9, 2.4), 2: Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii, San Vito (Vitus of Lucania, Sankt Veit, Svaty Vit, Sveti Vid)
+- 0303-01-01 (36.2, 36.2), 2: Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo), San Cristobal (Christopher of Lycia, born Reprobus / Adokimos of the Marmaritae)
+- 1629-01-01 (41.9, 12.5), 2: Saint Erasmus of Formia (Erasmo, Sant'Ermu, St Elmo), Tommaso Campanella (baptized Giovanni Domenico Campanella)
+- 0300-01-01 (40.8, 29.9), 2: Pantaleon of Nicomedia (Pantoleon; Saint Panteleimon, the All-Merciful; San Pantaleone), Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis)
+- 1200-01-01 (12.0, 39.0), 2: Saint George of Lydda (Georgios, Sant Jordi, San Giorgio, Giyorgis, Jirjis), Saint Mercurius of Caesarea (Philopator Mercurius, Abu Sayfayn, the Father of the Two Swords)
+- 1978-01-01 (40.7, -74.0), 2: Sara Rudner, Viola Farber
+- 1897-01-01 (59.9, 30.3), 2: Sergei Pavlovich Diaghilev, Vaslav Nijinsky (Wacław Niżyński)
+- 1831-01-01 (48.9, 2.3), 2: Siméon Denis Poisson, Victor-Marie Hugo
+- 1924-01-01 (-12.1, -77.0), 2: José Gabriel Condorcanqui Noguera, Túpac Amaru II, Simón Rodríguez (Samuel Robinson)
+- 1930-01-01 (48.9, 2.4), 2: Sophie Taeuber-Arp, Vladimir Medem (Vladimir Davidovich Medem, born Grinberg)
+- 1937-01-01 (48.9, 2.4), 2: Sophie Taeuber-Arp, Walter Benjamin
+- 2002-01-01 (43.7, -79.4), 2: Anthony Stafford Beer, Yuval Noah Harari
+- -0040-01-01 (41.9, 12.5), 2: Publius Vergilius Maro (Virgil), Strabo of Amaseia
+- 1948-01-01 (47.4, 8.5), 2: Valeska Gert (Gertrud Valesca Samosch), Wolfgang Ernst Pauli
+- 1936-01-01 (52.2, 21.0), 2: Victor Alter (Wiktor Alter), Ze'ev (Vladimir Yevgenyevich) Jabotinsky
+- 1949-01-01 (38.9, -77.0), 2: William Frederick Friedman, William Joseph Casey
+- 1921-01-01 (48.1, 11.6), 2: Wolfgang Ernst Pauli, Xul Solar (Oscar Agustin Alejandro Schulz Solari)
+
+## Sun-sign distribution across all subjects (517 day-precise births)
+
+- Taurus: 55 (10.6%)
+- Leo: 53 (10.3%)
+- Aquarius: 51 (9.9%)
+- Cancer: 46 (8.9%)
+- Aries: 46 (8.9%)
+- Gemini: 43 (8.3%)
+- Virgo: 43 (8.3%)
+- Capricornus: 40 (7.7%)
+- Libra: 39 (7.5%)
+- Sagittarius: 37 (7.2%)
+- Pisces: 34 (6.6%)
+- Scorpio: 30 (5.8%)
+
