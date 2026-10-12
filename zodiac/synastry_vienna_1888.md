@@ -33,6 +33,30 @@
 | 6.72° | ♄ Gustav saturn | trine | ☉ Theodor sun | 126.72° |
 | 7.30° | ♂ Gustav mars | opposition | ☽ Theodor moon | 172.70° |
 
+## Sun-sign distribution
+
+| person | sun sign |
+|---|---|
+| Gustav Klimt | Cancer |
+| Theodor Herzl (Binyamin Ze'ev Herzl) | Taurus |
+
+## Elements and modes (every body, every person pooled)
+
+14 body-placements pooled across 2 people.
+
+| element | n | % |
+|---|---|---|
+| Fire | 3 | 21% |
+| Earth | 5 | 36% |
+| Air | 3 | 21% |
+| Water | 3 | 21% |
+
+| mode | n | % |
+|---|---|---|
+| Cardinal | 6 | 43% |
+| Fixed | 3 | 21% |
+| Mutable | 5 | 36% |
+
 ## Composite chart (circular mean of the group)
 
 One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.

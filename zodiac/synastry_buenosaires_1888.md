@@ -72,6 +72,31 @@
 | 6.46° | ♀ Eugène venus | opposition | ☉ Ángel sun | 173.54° |
 | 7.61° | ♀ Eugène venus | trine | ☽ Ángel moon | 127.61° |
 
+## Sun-sign distribution
+
+| person | sun sign |
+|---|---|
+| Alejandro Christophersen | Virgo |
+| Eugène Py (Eugenio Py) | Taurus |
+| Ángel della Valle | Libra |
+
+## Elements and modes (every body, every person pooled)
+
+21 body-placements pooled across 3 people.
+
+| element | n | % |
+|---|---|---|
+| Fire | 5 | 24% |
+| Earth | 7 | 33% |
+| Air | 6 | 29% |
+| Water | 3 | 14% |
+
+| mode | n | % |
+|---|---|---|
+| Cardinal | 6 | 29% |
+| Fixed | 8 | 38% |
+| Mutable | 7 | 33% |
+
 ## Composite chart (circular mean of the group)
 
 One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.

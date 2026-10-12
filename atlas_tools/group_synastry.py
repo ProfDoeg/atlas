@@ -28,6 +28,17 @@ GLYPH = {"sun": "☉", "moon": "☽", "mercury": "☿", "venus": "♀",
 ASPECTS = [(0, "conjunction"), (60, "sextile"), (90, "square"), (120, "trine"), (180, "opposition")]
 SIGNS = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
          "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
+ELEMENT = {"Aries": "Fire", "Leo": "Fire", "Sagittarius": "Fire",
+           "Taurus": "Earth", "Virgo": "Earth", "Capricorn": "Earth",
+           "Gemini": "Air", "Libra": "Air", "Aquarius": "Air",
+           "Cancer": "Water", "Scorpio": "Water", "Pisces": "Water"}
+MODE = {"Aries": "Cardinal", "Cancer": "Cardinal", "Libra": "Cardinal", "Capricorn": "Cardinal",
+        "Taurus": "Fixed", "Leo": "Fixed", "Scorpio": "Fixed", "Aquarius": "Fixed",
+        "Gemini": "Mutable", "Virgo": "Mutable", "Sagittarius": "Mutable", "Pisces": "Mutable"}
+
+
+def sign_name(lon):
+    return SIGNS[int((lon % 360.0) // 30.0)]
 
 
 def orb_for(b1, b2):
@@ -152,6 +163,37 @@ def main():
         total_aspects += len(aspects)
 
     if len(people) >= 2:
+        from collections import Counter
+        lines.append("## Sun-sign distribution\n")
+        lines.append("| person | sun sign |")
+        lines.append("|---|---|")
+        for p in people:
+            lines.append(f"| {p['traveler']} | {sign_name(p['bodies']['sun'])} |")
+        lines.append("")
+        sun_counts = Counter(sign_name(p["bodies"]["sun"]) for p in people)
+        repeats = {s: n for s, n in sun_counts.items() if n > 1}
+        if repeats:
+            lines.append("Repeated: " + ", ".join(f"{s} x{n}" for s, n in repeats.items()) + "\n")
+
+        lines.append("## Elements and modes (every body, every person pooled)\n")
+        all_signs = [sign_name(lon) for p in people for lon in p["bodies"].values()]
+        n_total = len(all_signs)
+        el_counts = Counter(ELEMENT[s] for s in all_signs)
+        mo_counts = Counter(MODE[s] for s in all_signs)
+        lines.append(f"{n_total} body-placements pooled across {len(people)} people.\n")
+        lines.append("| element | n | % |")
+        lines.append("|---|---|---|")
+        for el in ["Fire", "Earth", "Air", "Water"]:
+            n = el_counts.get(el, 0)
+            lines.append(f"| {el} | {n} | {100.0*n/n_total:.0f}% |")
+        lines.append("")
+        lines.append("| mode | n | % |")
+        lines.append("|---|---|---|")
+        for mo in ["Cardinal", "Fixed", "Mutable"]:
+            n = mo_counts.get(mo, 0)
+            lines.append(f"| {mo} | {n} | {100.0*n/n_total:.0f}% |")
+        lines.append("")
+
         lines.append("## Composite chart (circular mean of the group)\n")
         lines.append("One synthetic body position per planet, averaged across everyone below "
                      "(circular mean, not a plain average, so it handles the 0/360 wrap) -- "

@@ -27,6 +27,30 @@
 | 6.88° | ☽ Agustí moon | opposition | ☽ Antoni moon | 173.12° |
 | 7.94° | ♀ Agustí venus | conjunction | ☉ Antoni sun | 7.94° |
 
+## Sun-sign distribution
+
+| person | sun sign |
+|---|---|
+| Agustí Querol i Subirats (Agustín Querol Subirats) | Taurus |
+| Antoni Gaudí i Cornet | Cancer |
+
+## Elements and modes (every body, every person pooled)
+
+14 body-placements pooled across 2 people.
+
+| element | n | % |
+|---|---|---|
+| Fire | 3 | 21% |
+| Earth | 5 | 36% |
+| Air | 2 | 14% |
+| Water | 4 | 29% |
+
+| mode | n | % |
+|---|---|---|
+| Cardinal | 6 | 43% |
+| Fixed | 6 | 43% |
+| Mutable | 2 | 14% |
+
 ## Composite chart (circular mean of the group)
 
 One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.

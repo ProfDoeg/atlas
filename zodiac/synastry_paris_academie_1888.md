@@ -237,6 +237,35 @@
 | 4.44° | ♀ Jules-Félix venus | sextile | ☉ Louis sun | 64.44° |
 | 7.19° | ☽ Jules-Félix moon | square | ☽ Louis moon | 82.81° |
 
+## Sun-sign distribution
+
+| person | sun sign |
+|---|---|
+| Alphonse Mucha (Alfons Maria Mucha) | Leo |
+| Erik Satie (Eric Alfred Leslie Satie) | Taurus |
+| Henri-Louis Bergson | Libra |
+| Jules-Félix Coutan | Virgo |
+| Louis Vuitton | Leo |
+
+Repeated: Leo x2
+
+## Elements and modes (every body, every person pooled)
+
+35 body-placements pooled across 5 people.
+
+| element | n | % |
+|---|---|---|
+| Fire | 11 | 31% |
+| Earth | 6 | 17% |
+| Air | 12 | 34% |
+| Water | 6 | 17% |
+
+| mode | n | % |
+|---|---|---|
+| Cardinal | 16 | 46% |
+| Fixed | 12 | 34% |
+| Mutable | 7 | 20% |
+
 ## Composite chart (circular mean of the group)
 
 One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.

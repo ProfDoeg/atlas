@@ -138,6 +138,32 @@
 | 5.39° | ♀ Mary venus | sextile | ☽ Sir moon | 54.61° |
 | 7.12° | ☽ Mary moon | square | ☿ Sir mercury | 82.88° |
 
+## Sun-sign distribution
+
+| person | sun sign |
+|---|---|
+| Arthur Edward Waite | Libra |
+| Elizabeth (Bessie) Burden | Sagittarius |
+| Mary "May" Morris | Aries |
+| Sir James Matthew Barrie, 1st Baronet | Taurus |
+
+## Elements and modes (every body, every person pooled)
+
+28 body-placements pooled across 4 people.
+
+| element | n | % |
+|---|---|---|
+| Fire | 8 | 29% |
+| Earth | 10 | 36% |
+| Air | 4 | 14% |
+| Water | 6 | 21% |
+
+| mode | n | % |
+|---|---|---|
+| Cardinal | 11 | 39% |
+| Fixed | 5 | 18% |
+| Mutable | 12 | 43% |
+
 ## Composite chart (circular mean of the group)
 
 One synthetic body position per planet, averaged across everyone below (circular mean, not a plain average, so it handles the 0/360 wrap) -- reads as a single chart for the group as a unit.
