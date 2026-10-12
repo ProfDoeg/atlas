@@ -215,8 +215,12 @@ def build(slug, time_local=None, tz_hours=None, place=None, houses="placidus"):
     for name in CE.BODIES:
         lon = lons[name]
         s, dg, mn = dms(lon)
+        # Anthony 2026-10-12, "we should have both": the tropical SIGN and the CONSTELLATION the
+        # body actually stood in. They are not the same and in the 19th century differ by most of
+        # a sign, so a chart that reports only the sign names a sky that was not there.
         entry = {"longitude": round(lon, 3), "sign": s, "degree": dg, "minute": mn,
                  "text": "%s %d°%02d′" % (s, dg, mn), "glyph": CE.GLYPH[name],
+                 "constellation": CE.E.constellation_of(lon),
                  "speed_deg_per_day": round(spd[name], 4),
                  "retrograde": bool(spd[name] < 0) if name not in ("Sun", "Moon") else False,
                  "house": CE.house_of(lon, cusps), "dignity": dignity(name, s)}
@@ -273,8 +277,8 @@ def write_md(chart, path):
     L.append("")
     L.append("## Bodies")
     L.append("")
-    L.append("| body | position | house | motion | dignity | note |")
-    L.append("|---|---|---|---|---|---|")
+    L.append("| body | sign | really in | house | motion | dignity | note |")
+    L.append("|---|---|---|---|---|---|---|")
     for name in CE.BODIES:
         e = chart["bodies"][name]
         sp = e["speed_deg_per_day"]
@@ -284,8 +288,9 @@ def write_md(chart, path):
         if name in ("North Node", "South Node"):
             motion = "mean node"
         note = e.get("sign_note", "") or e.get("degree_uncertainty", "")
-        L.append("| %s %s | %s %s | %d | %s | %s | %s |" % (
-            e["glyph"], name, SIGN_GLYPH[e["sign"]], e["text"], e["house"], motion, ", ".join(e["dignity"]), note))
+        L.append("| %s %s | %s %s | %s | %d | %s | %s | %s |" % (
+            e["glyph"], name, SIGN_GLYPH[e["sign"]], e["text"], e.get("constellation", ""),
+            e["house"], motion, ", ".join(e["dignity"]), note))
     L.append("")
     if "angles" in chart:
         a = chart["angles"]
