@@ -1,0 +1,298 @@
+# Atlas slice: 1888
+
+228 subjects alive (birth-death span includes 1888); 91 of them have at least one stop explicitly dated 1888.
+
+## Convergences, specific date (3)
+
+Two or more subjects with a stop at the same place (rounded to 0.1 deg) on the same specific date -- a cheap proxy, not a guarantee of a real crossing; verify before treating as a documented meeting.
+
+- 1888-02-01 (40.7, -74.0): Geneviève Stebbins, John Davison Rockefeller Sr.
+- 1888-05-25 (-34.6, -58.4): Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo), Torcuato Antonio de Alvear
+- 1888-11-01 (45.1, 7.7): Friedrich Nietzsche, Wilhelm Richard Wagner
+
+## Convergences, Jan-1 PLACEHOLDER DATE (6)
+
+CAVEAT: a stop dated exactly '-01-01' in this atlas usually means only the year is attested and month/day were defaulted to 01 (check each stop's date_confidence field) -- these are same-place-same-year, NOT necessarily same-day. Do not present these as documented same-day crossings without checking date_confidence first.
+
+- 1888-01-01 (41.4, 2.2): Agustí Querol i Subirats (Agustín Querol Subirats), Antoni Gaudí i Cornet, Sabino Policarpo Arana Goiri
+- 1888-01-01 (-34.6, -58.4): Alejandro Christophersen, Eugène Py (Eugenio Py), Jules Dormal Godet (Julio Dormal), Ángel della Valle
+- 1888-01-01 (48.9, 2.3): Alphonse Mucha (Alfons Maria Mucha), Erik Satie (Eric Alfred Leslie Satie), Henri-Louis Bergson, Jules-Félix Coutan, Louis Vuitton
+- 1888-01-01 (51.5, -0.1): Arthur Edward Waite, Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber), Elizabeth (Bessie) Burden, Mary "May" Morris, Sir James Matthew Barrie, 1st Baronet
+- 1888-01-01 (48.2, 16.4): Carl Menger (Carl Menger von Wolfensgrün), Gustav Klimt, Theodor Herzl (Binyamin Ze'ev Herzl)
+- 1888-01-01 (48.9, 2.4): Joseph Alexandre Saint-Yves, Marquis d'Alveydre, Lionel-Noël Royer
+
+## Dated stops in 1888 (128)
+
+- 1888-01-01 | Aby Moritz Warburg | Florence, the circle around August Schmarsow
+- 1888-11-01 | Aby Moritz Warburg | Florence, the Uffizi and the moving hair
+- 1888-08-01 | Achille-Claude Debussy | Bayreuth Festspielhaus: two summers on the Green Hill
+- 1888-01-01 | Agustí Querol i Subirats (Agustín Querol Subirats) | Barcelona, first prize at the Universal Exposition
+- 1888-01-01 | Alejandro Christophersen | Buenos Aires, off the ship at the Darsena Norte
+- 1888-01-01 | Alexander Graham Bell | Beinn Bhreagh, the Lodge and the great house
+- 1888-12-14 | Alexandre Gustave Bonickhausen dit Eiffel (Gustave Eiffel) | Colon, the payments suspended
+- 1888-01-01 | Alfred Jarry | Rennes: the Morin brothers' attic
+- 1888-10-01 | Alfred Jarry | Rennes: the physics master called Pere Heb
+- 1888-01-01 | Alphonse Mucha (Alfons Maria Mucha) | Paris, the Academie Julian
+- 1888-09-01 | Amalie Emmy Noether | Erlangen, the school on Fahrstraße
+- 1888-06-23 | Annie Besant (née Wood) | Bow: Bryant & May, and White Slavery in London
+- 1888-07-16 | Annie Besant (née Wood) | Bow, the Union of Women Match Makers, and the settlement
+- 1888-11-01 | Annie Besant (née Wood) | Tower Hamlets, elected to the London School Board
+- 1888-01-01 | Antoni Gaudí i Cornet | Barcelona waterfront, the Transatlántica pavilion
+- 1888-01-01 | Antoni Gaudí i Cornet | Col·legi de les Teresianes, the corridor of arches
+- 1888-01-01 | Arnold Rikli | Veldes, the three elements ranked by speed
+- 1888-01-01 | Arthur Edward Waite | London, the marriage to Ada Lakeman
+- 1888-01-01 | Camille Rosalie Claudel | Folie Neubourg, the studio behind the wall
+- 1888-05-01 | Camille Rosalie Claudel | Palais de l'Industrie, Sakuntala and the honorable mention
+- 1888-01-01 | Carl Menger (Carl Menger von Wolfensgrün) | Vienna, Zur Theorie des Kapitals
+- 1888-10-01 | Carl Menger (Carl Menger von Wolfensgrün) | Vienna, the second deanship
+- 1888-07-17 | Carlos Slim Helú | Jezzine, a son under Ottoman rule
+- 1888-03-13 | Cecil John Rhodes | Kimberley, De Beers Consolidated Mines
+- 1888-10-30 | Cecil John Rhodes | Bulawayo, the Rudd Concession signed
+- 1888-01-01 | Dion Fortune (Violet Mary Firth) | Limpley Stoke, Wiltshire: the first hydro
+- 1888-09-11 | Domingo Faustino Sarmiento | Asunción, the death on the river
+- 1888-09-21 | Domingo Faustino Sarmiento | Recoleta, the return of the body
+- 1888-01-01 | Edward Bellamy | 211 Tremont Street, Ticknor publishes the first edition
+- 1888-10-01 | Edward Bellamy | Tremont Temple, the First Nationalist Club
+- 1888-01-01 | Edward Kelley (Edward Talbot; Sir Edward Kelley of Imany and Nova Liber) | London, the tablets taken up again
+- 1888-01-01 | Elizabeth (Bessie) Burden | The New Gallery, Regent Street, her own name in the catalogue
+- 1888-01-01 | Engelbert Humperdinck | Mainz, the house of B. Schott's Söhne
+- 1888-01-01 | Erik Satie (Eric Alfred Leslie Satie) | Montmartre, the Gymnopedies and the Gnossiennes
+- 1888-01-01 | Eugen Böhm Ritter von Bawerk (Eugen von Böhm-Bawerk) | Innsbruck, the definition of capital left unsettled
+- 1888-01-01 | Eugène Py (Eugenio Py) | Buenos Aires, coming ashore on the Río de la Plata
+- 1888-01-01 | Francesco Tamburini | Rosario: the normal school in the river port
+- 1888-10-30 | Francis Julius Bellamy | Roxbury, the birth of David Bellamy
+- 1888-01-01 | Frederick Law Olmsted | Biltmore, the ruined acres made forest
+- 1888-01-01 | Friedrich Max Müller | Oxford, the repudiation: 'a great sinner,' 1888
+- 1888-11-01 | Friedrich Max Müller | Glasgow, the Gifford Lectures on Natural Religion, 1888-1892
+- 1888-09-21 | Friedrich Nietzsche | Turin, the discovery of the city, the Alps in the window
+- 1888-11-01 | Friedrich Nietzsche | Turin, Ecce Homo, Twilight of the Idols, "I am dynamite"
+- 1888-01-01 | Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy') | New York, the Greatest Show on Earth
+- 1888-06-01 | Fyodor Adrianovich Yevtishchev (Fedor Jeftichew, 'Jo-Jo the Dog-Faced Boy') | Chicago, the western turn
+- 1888-03-01 | G. I. Gurdjieff | Giza, the Sphinx, and the meeting at its paws
+- 1888-07-25 | Gabriele d'Annunzio | Francavilla al Mare, the Conventino of Michetti, Il Piacere written
+- 1888-02-01 | Geneviève Stebbins | New York, Madison Square Theatre, the first Delsarte Matinee
+- 1888-06-01 | Geneviève Stebbins | New York, Society Gymnastics and Voice-Culture
+- 1888-01-01 | Gustav Klimt | Burgtheater, the staircase and the vanished auditorium
+- 1888-01-01 | Gustav Klimt | Munich, the Glaspalast
+- 1888-10-01 | Gustav Landauer | Heidelberg, the first matriculation
+- 1888-10-14 | Harriet Tubman (born Araminta "Minty" Ross; Harriet Tubman Davis) | Auburn, the widow of Private Davis
+- 1888-10-20 | Helena Petrovna Blavatsky | London, Lansdowne Road: The Secret Doctrine published
+- 1888-11-01 | Helena Petrovna Blavatsky | London, the Esoteric Section and the inner school
+- 1888-01-01 | Henri-Louis Bergson | Collège Rollin, Paris, the return to the city
+- 1888-01-01 | Henry Clay Frick | Clayton, wired for current
+- 1888-01-01 | Henryk Erlich (Hersh-Wolf Erlikh) | Lublin, the heder and the second tutor
+- 1888-01-01 | Ignatius Loyola Donnelly | Chicago, The Great Cryptogram
+- 1888-04-01 | Ignatius Loyola Donnelly | Fetter Lane, London, Sampson Low
+- 1888-05-01 | Ignatius Loyola Donnelly | London, the tour of England, Scotland, and Ireland
+- 1888-05-15 | Ignatius Loyola Donnelly | Oxford Union, the motion put
+- 1888-05-22 | Ignatius Loyola Donnelly | Cambridge Union, the same motion
+- 1888-06-01 | Ignatius Loyola Donnelly | Stratford-upon-Avon, Henley Street
+- 1888-01-01 | Isabelle Wilhelmine Marie Eberhardt (Si Mahmoud Saadi) | Geneva, the half-sister struck off
+- 1888-09-01 | James Augustine Aloysius Joyce | Clongowes Wood College, Clane: the boarder of six
+- 1888-04-24 | Joaquín Trincado Mateo | Cintruénigo, the marriage at San Juan Bautista
+- 1888-01-01 | Johannes Friedrich Guttzeit | Zurich, Gerhart Hauptmann sees an apostle
+- 1888-11-11 | Johannes Itten | Süderen-Linden, the birth-house in the Bernese Oberland
+- 1888-02-01 | John Davison Rockefeller Sr. | New York City, sworn before the Senate committee on trusts
+- 1888-06-01 | John Davison Rockefeller Sr. | Lima, the sour crude and the chemist
+- 1888-02-01 | John Dewey | Minneapolis, the chair of mental and moral philosophy
+- 1888-02-25 | John Foster Dulles | Washington, birth into the office
+- 1888-01-01 | John Uri Lloyd | Cincinnati, the famous Hydrastis controversy
+- 1888-01-01 | Joseph Alexandre Saint-Yves, Marquis d'Alveydre | Paris, the banquet of the Syndicat
+- 1888-01-01 | Joseph Alois Schumpeter | Graz, the widow's household
+- 1888-06-01 | Joseph Hubertus Pilates | Mönchengladbach, the stone and the blind eye
+- 1888-05-25 | Juan Antonio Buschiazzo (Giovanni Antonio Buschiazzo) | Plaza de Mayo: the demolitions for the avenue begin
+- 1888-01-01 | Jules Dormal Godet (Julio Dormal) | Avenida Corrientes 860, the Ópera made French
+- 1888-05-01 | Jules Gabriel Verne | Amiens, Hotel de Ville: the councillor
+- 1888-06-01 | Jules Henri Poincaré | Paris, the memoir for King Oscar's competition
+- 1888-01-01 | Jules-Félix Coutan | Square d'Anvers, Paris: La Paix armée
+- 1888-01-01 | Lev Davidovich Bronstein (Leon Trotsky) | Odessa, the Realschule of St Paul
+- 1888-01-01 | Lionel-Noël Royer | Paris, La Source in the Salon illustré
+- 1888-01-01 | Louis Vuitton | Asnieres-sur-Seine, the checkerboard and the words in the weave
+- 1888-10-20 | Lucy Parsons (born Lucia; Gonzalez, Carter, Diaz, Hull) | The Socialist League, London: six weeks of platforms
+- 1888-11-15 | Lucy Parsons (born Lucia; Gonzalez, Carter, Diaz, Hull) | Kelmscott House, Hammersmith, the Upper Mall
+- 1888-11-20 | Lucy Parsons (born Lucia; Gonzalez, Carter, Diaz, Hull) | The Tower of London, with Jane Morris
+- 1888-12-15 | Lucy Parsons (born Lucia; Gonzalez, Carter, Diaz, Hull) | The Port of New York, the return
+- 1888-01-01 | Ludwig Derleth | Nuremberg, the last of the postings
+- 1888-09-20 | Lyman Frank Baum | Aberdeen, the family gets down from the train
+- 1888-10-01 | Lyman Frank Baum | Baum's Bazaar on Main Street
+- 1888-01-01 | Marius Sophus Lie | Leipzig, the first volume of the Theorie
+- 1888-01-01 | Marius Sophus Lie | Leipzig, the letter about Killing
+- 1888-01-01 | Mary "May" Morris | The New Gallery, Regent Street, the exhibitions that name the movement
+- 1888-01-01 | Max Moritz Warburg | Amsterdam, the desk at Wertheim & Gompertz
+- 1888-10-01 | Max Moritz Warburg | Munich, the year with the Chevaulegers
+- 1888-09-04 | Mohandas Karamchand Gandhi (Mahatma Gandhi) | Bombay harbor: the S.S. Clyde and the caste council
+- 1888-04-01 | Narendranath Datta, in religion Swami Vivekananda | Varanasi, the ghats and Pramadadas Mitra
+- 1888-09-01 | Narendranath Datta, in religion Swami Vivekananda | Hathras station, the stationmaster who walks away from the railway
+- 1888-05-16 | Nikola Tesla | New York, the lecture to the electrical engineers
+- 1888-07-01 | Nikola Tesla | New York, the Westinghouse contract
+- 1888-11-01 | Nikola Tesla | Pittsburgh, the year at the Westinghouse works
+- 1888-09-04 | Oskar Alfred Victor Schlemmer | Stuttgart, the birth in the Kingdom of Wuerttemberg
+- 1888-01-01 | Pedro Simón del Corazón de Jesús Benoit | La Plata, the plan of 1888 signed
+- 1888-01-01 | Pierre-Simon Laplace, marquis de Laplace | Saint-Julien-de-Mailloc, the Colbert-Laplace tomb
+- 1888-01-05 | Pyotr Ilyich Tchaikovsky | Leipzig Gewandhaus, the first European tour opens
+- 1888-03-22 | Pyotr Ilyich Tchaikovsky | London, St James's Hall in Piccadilly
+- 1888-04-01 | Pyotr Ilyich Tchaikovsky | Frolovskoye, the leased house and the felled trees
+- 1888-11-01 | Pyotr Ilyich Tchaikovsky | Saint Petersburg, the Fifth Symphony conducted
+- 1888-12-18 | Robert Moses | 83 Dwight Street, New Haven, the birth
+- 1888-10-01 | Rudolf Laban | Stadttheater Pressburg, the first theatre
+- 1888-11-09 | Rudolf Steiner | Vienna, the Goethe-Verein lecture: a new aesthetics
+- 1888-01-01 | Sabino Policarpo Arana Goiri | Barcelona, the death of Pascuala Goiri
+- 1888-01-01 | Sabino Policarpo Arana Goiri | Bilbao, the chair of Vascuence and Resurrección María de Azkue
+- 1888-04-07 | Sabino Policarpo Arana Goiri | Barcelona, the Pliegos histórico-políticos
+- 1888-01-01 | Sir James Matthew Barrie, 1st Baronet | The British Museum Reading Room, the Thrums books
+- 1888-01-01 | Theodor Herzl (Binyamin Ze'ev Herzl) | Vienna, the books of feuilletons
+- 1888-01-01 | Theodor Reuss (Albert Karl Theodor Reuss, in religion Merlin Peregrinus, on the stage Charles Theodore) | Berlin, Leopold Engel and the second Illuminati
+- 1888-12-05 | Thomas Alva Edison | West Orange, the animals and the chair
+- 1888-05-25 | Torcuato Antonio de Alvear | Plaza de Mayo: the Cabildo cut back
+- 1888-11-01 | Wilhelm Richard Wagner | Turin, the last argument
+- 1888-01-01 | William Butler Yeats | Holland Park, 17 Lansdowne Road: Blavatsky's household
+- 1888-01-01 | William Butler Yeats | Lough Gill: the lake isle written in a London street
+- 1888-01-01 | Ángel della Valle | Buenos Aires, the pampa sold by the frame
+- 1888-05-27 | Émile Pouget | Paris, editing Ça ira
+- 1888-12-28 | Étienne Bazeries | Paris, chevalier of the Légion d'honneur
+- 1888-10-29 | Étienne-Jules Marey | Institut de France, from a strip of paper to celluloid
+
+## Alive in 1888, no dated stop that year (137)
+
+- Aaron David Gordon (Aharon David Gordon) (1856-1922)
+- Ahad Ha'am (Asher Zvi Hirsch Ginzberg) (1856-1927)
+- Ahmad al-Majriti (the name over the Rutbat al-Hakim and the Ghayat al-Hakim; in the sources a patronymic, ibn Ahmad, son of Ahmad) (c. 906-1007 (the men behind the name); 1360-2026 (the name in transit))
+- Albert Einstein (1879-1955)
+- Albert Pike (1809-1891)
+- Alberto Gerchunoff (born Abraham Gerchunoff) (1883-1950)
+- Alexandra David-Néel (Louise Eugénie Alexandrine Marie David; Alexandra Myrial; Yeshe Tome) (1868-1969)
+- Alexandre Dumas (Dumas père) (1802-1870 (interred in the Panthéon, 2002))
+- Andrew Carnegie (1835-1919)
+- Anna Matveyevna Pavlova (1881-1931)
+- Antoinette de Saint Léger (born Bayer or Tzikos; styled Baroness de Saint Léger) (1856-1948)
+- Aron Iosifovich Kremer, called Arkadi (1865-1935)
+- Arthur Cayley (1821-1895)
+- Arthur James Balfour, 1st Earl of Balfour (1848-1930)
+- Arthur Scherbius (Jacob Ludolf Arthur Scherbius) (1878-1929)
+- Auguste Kerckhoffs (Jean Guillaume Auguste Victor Alexandre François Hubert Kerckhoffs) (1835-1903)
+- Auguste Rodin (François Auguste René Rodin) (1840-1917)
+- Augustus Henry Julian Le Plongeon (1825-1908)
+- Benito Mussolini (1883-1945)
+- Calvert Vaux (1824-1895)
+- Captain Alfred Dreyfus (1859-1935)
+- Captain Robert Falcon Scott, RN (1868-1912)
+- Carl Gustav Jung (1875-1961)
+- Ceferino Namuncurá (1886-1905)
+- Chaim Azriel Weizmann (1874-1952)
+- Charles Ponzi (Carlo Pietro Giovanni Guglielmo Tebaldo Ponzi) (1882-1949)
+- Christina Georgina Rossetti (1830-1894)
+- Christopher Columbus (1451-1506 (relics to 1899))
+- David Ben-Gurion (David Grün) (1886-1973)
+- Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (Diego Rivera) (1886-1957)
+- Dr Carl Jung of Mainz (c. 1610-1645 (traditional); the tradition itself 1645-2026)
+- Eadweard Muybridge (1830–1904 (gregorian))
+- Elsa Gindler (1885-1961)
+- Emir Emin Arslan (al-Amir Amin Majid Arslan) (1868-1943)
+- Erich Mühsam (1878-1934)
+- Erwin Rudolf Josef Alexander Schrödinger (1887-1961)
+- Ettore Ferrari (1845-1929)
+- Eugène Samuel Grasset (1845-1917)
+- Felix Adler (1851-1933)
+- Felix Christian Klein (1849-1925)
+- Filippo Tommaso Emilio Marinetti (1876-1944)
+- Francisco Gianotti (Francesco Terenzio Gianotti) (1881-1967)
+- Francisco Pizarro González (1478-1541 (the bones to 1985))
+- Frank Lloyd Wright (1867-1959)
+- Frédéric Auguste Bartholdi (1834-1904)
+- Gabrielle Bonheur "Coco" Chanel (1883-1971)
+- Georges Hébert (1875-1957)
+- Georges Sorel (1847-1922)
+- Grigori Yefimovich Rasputin (1869-1916)
+- Gustav Arthur "Gusto" Gräser (1879-1958)
+- Harry Houdini (Erik Weisz, later Ehrich Weiss) (1874-1926)
+- Henri Léon Lebesgue (1875-1941)
+- Henri Oedenkoven (1875-1935)
+- Herbert George Wells (1866-1946)
+- Hermann Graf von Keyserling (1880-1946)
+- Hermann Hesse (1877-1962)
+- Hernán Cortés (1485-1547 (bones to 1947))
+- Hilma af Klint (1862-1944)
+- Hiram Abiff (Hiram of Tyre, Huram-abi, the widow's son) (c. 990 BC - 2013 AD)
+- Ida Hofmann (Ida Hofmann-Oedenkoven) (1864-1926)
+- Igor Fyodorovich Stravinsky (1882-1971)
+- Isadora Duncan (1877-1927)
+- James Lewis Thomas Chalmers Spence (Lewis Spence) (1874-1955)
+- Jane Morris (nee Burden) (1839-1914)
+- Jean-Claude Nicolas Forestier (1861-1930)
+- John Maynard Keynes, 1st Baron Keynes of Tilton (1883-1946)
+- John Pierpont Morgan (1837-1913)
+- John Ruskin (1819-1900)
+- Joseph-Antoine Bouvard (1840-1920)
+- José Julián Martí Pérez (José Martí) (1853-1895)
+- Jules Charles (Carlos) Thays (1849-1934)
+- Julio Argentino Roca (1843-1914)
+- János Czetz (Juan Fernando Czetz) (1822-1904)
+- Karl Gräser (Carl Samuel Josef Gräser) (1875-1916)
+- Karl Max Engelmann (Liga Pitagórica) (1884-1918)
+- La Difunta Correa (Deolinda Correa) (c. 1815-1841 (life); 1840s-2026 (the shrine and the roads))
+- Le Corbusier (Charles-Edouard Jeanneret-Gris) (1887-1965)
+- Low Dog (Šúŋka Khúčiyela, Perro Bajo) (c. 1846-1894)
+- Loïe Fuller (Marie Louise Fuller) (1862-1928)
+- Luc-Olivier Merson (1846-1920)
+- Ludwig Heinrich Edler von Mises (1881-1973)
+- Marcel Proust (1871-1922)
+- Marcus Mosiah Garvey (1887-1940)
+- Margaret Alice Murray (1863-1963)
+- Maria Salomea Skłodowska-Curie (Marie Curie) (1867-1934)
+- Maria Tecla Artemisia Montessori (1870-1952)
+- Mario Palanti (1885-1978)
+- Martin Mordechai Buber (1878-1965)
+- Mary Wigman (Karoline Sofie Marie Wiegmann) (1886-1973)
+- Max Glücksmann (Mordechai David Glücksmann) (1875-1946)
+- Max Weber (1864-1920)
+- Mohammad Mosaddegh (1882-1967)
+- Nadia Boulanger (Juliette Nadia Boulanger) (1887-1979)
+- Nicholas Konstantinovich Roerich (Nikolai Konstantinovich Rerikh) (1874-1947)
+- Niels Bohr (Niels Henrik David Bohr) (1885-1962)
+- Olga Fröbe-Kapteyn (1881-1962)
+- Oscar Fingal O'Fflahertie Wills Wilde (1854-1900)
+- Otto Gross (1877-1920)
+- Otto Hanish (Ernst or Erich Otto Haenisch, styled Otoman Zar-Adusht Ha'nish) (1856-1936)
+- Pablo Ruiz Picasso (1881-1973)
+- Pamela Colman Smith ("Pixie") (1878-1951)
+- Paul Berthon (Paul Louis Joseph Berthon) (1872-1934)
+- Paul Jules Barbier (1825-1901)
+- Paul Klee (1879-1940)
+- Paul Moritz Warburg (1868-1932)
+- Pedro Subercaseaux Errázuriz (Fray Pedro, Dom Pedro OSB) (1880-1956)
+- Pedro de Mendoza (c. 1487-1537 (coda to 1937))
+- Pío Collivadino (1869-1945)
+- Rabindranath Tagore (Robindronath Thakur) (1861-1941)
+- René Guénon (Sheikh Abd al-Wahid Yahya) (1886-1951)
+- Roald Engebreth Gravning Amundsen (1872-1928)
+- Rosa Luxemburg (Rozalia Luksenburg) (1871-1919)
+- Rudolf Rocker (1873-1958)
+- Ruth St. Denis (Ruth Dennis) (1879-1968)
+- Saint Barbara of Heliopolis (Bárbara) (c. 287-306 AD (coda to 1893))
+- Saint Denis of Paris (Dionysius, Denys), first bishop of the Parisii (c. 250-1987)
+- Samuel Langhorne Clemens (Mark Twain) (1835-1910)
+- Sarah Bernhardt (Henriette-Rosine Bernard) (1844-1923)
+- Sergei Pavlovich Diaghilev (1872-1929)
+- Sigmund Freud (1856-1939)
+- Sir Arthur Ignatius Conan Doyle (1859-1930)
+- Sir Edward Coley Burne-Jones, 1st Baronet (1833-1898)
+- Sir Ernest Henry Shackleton (1874-1922)
+- Sir George Gabriel Stokes, 1st Baronet (1819-1903)
+- Sir John Everett Millais, 1st Baronet (1829-1896)
+- Thathanka Iyotake (Sitting Bull), Hunkpapa Lakota (c. 1831-1890)
+- Troiano Troiani (1885-1963)
+- Virginio Colombo (1884-1927)
+- Vittorio Meano (Victor Meano) (1860-1904)
+- Vladimir Ilyich Ulyanov (Lenin) (1870-1924)
+- Vladimir Medem (Vladimir Davidovich Medem, born Grinberg) (1879-1923)
+- Wassily Kandinsky (Vasily Vasilyevich Kandinsky) (1866-1944)
+- William Holman Hunt (1827-1910)
+- William James (1842-1910)
+- William Morris (1834–1896)
+- William R. Bradshaw (1851-1927)
+- William Thomson, 1st Baron Kelvin (1824-1907)
+- Xul Solar (Oscar Agustin Alejandro Schulz Solari) (1887-1963)
+- Ze'ev (Vladimir Yevgenyevich) Jabotinsky (1880-1940)
+- Ángel Gregorio Villoldo (born Ghigiola Roggio) (1861-1919)
+- Élisabeth Sonrel (Élisa Marie Stéphanie Adrienne Sonrel) (1874-1953)
+- Émile Jaques-Dalcroze (1865-1950)
