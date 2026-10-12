@@ -63,6 +63,15 @@ def main():
          "- Mercury score above zero: %d of %d.\n" % (len(pos), n),
          "\nA chance of 0.05 or less would be worth a second look. Anything above it is what "
          "random dates give.\n",
+         "\n**What this test could see (nodus1's point).** At n = %d, the smallest Mercury count "
+         "that would reach 0.05 is %s, i.e. electing on Mercury for %s of everything they made. "
+         "Anything short of that was invisible. So the honest reading is that the question is "
+         "NOT TESTABLE at this size, not that the answer is no. It becomes testable when Ficino "
+         "and Alfonso X, the two with the strongest claim to have elected, have subjects of their own.\n"
+         % ((n,) + ((lambda k: (("%d of %d" % (k, n)), ("%.0f%%" % (100.0 * k / n))))(
+             next((k for k in range(n + 1) if tail(k, n, P_DIGNIFIED) <= 0.05), None))
+            if n and any(tail(k, n, P_DIGNIFIED) <= 0.05 for k in range(n + 1))
+            else ("no count at all", "any share"))),
          "\n## Every elector creation, oldest first\n"]
     o += [P.line(c) for c in sorted(cs, key=lambda c: c["date"])]
     out = P.ATLAS / "readings" / "picatrix_electors.md"
