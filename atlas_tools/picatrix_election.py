@@ -25,9 +25,12 @@ What it does, and what it does not:
     Picatrix's own arithmetic. Wednesday, Mercury's day in the Picatrix's planetary week, adds +1.
   * Gemini is read twice, as everywhere in this atlas: the tropical sign, and the constellation
     the body actually stood in.
-  * Lunar mansions: the 28, tropical, equal divisions of 12 deg 51' from 0 Aries, as the Latin
-    Picatrix counts them. Names only. The atlas sources do not carry the Picatrix's list of what
-    each mansion is good for, so this tool does not invent one.
+  * Lunar mansions come from nodus1's mansions.py, in BOTH its conventions, never merged: by the
+    table (28 equal arcs from the vernal point, what the Latin Picatrix inherits) and by the stars
+    (where the defining asterism actually is; good to about a degree). The meanings given are the
+    names' meanings. The Picatrix's list of which operations suit which mansion is not in the
+    atlas sources, so this tool does not invent one. The Gemini pair, al-Hanʿa and al-Dhirāʿ,
+    get their own shortlist, labelled with the convention that put each creation there.
 
     python3 atlas_tools/picatrix_election.py            # writes readings/picatrix_mercury.md
     python3 atlas_tools/picatrix_election.py --top 40
@@ -43,6 +46,7 @@ HERE = Path(__file__).resolve().parent
 ATLAS = HERE.parent
 sys.path.insert(0, str(HERE))
 from sky_on import sky_on  # noqa: E402
+import mansions as M  # noqa: E402
 
 KINDS = [
     ("performance", r"premi[eè]re|first performance|first night|performed|staged|debut|concert|"
@@ -63,12 +67,6 @@ DETRIMENT = {"Sagittarius", "Pisces"}
 FALL = {"Pisces"}
 WEEKDAYS = ["Sunday (Sun)", "Monday (Moon)", "Tuesday (Mars)", "Wednesday (Mercury)",
             "Thursday (Jupiter)", "Friday (Venus)", "Saturday (Saturn)"]
-MANSIONS = ["al-Sharatain", "al-Butain", "al-Thurayya", "al-Dabaran", "al-Haq'a", "al-Han'a",
-            "al-Dhira'", "al-Nathra", "al-Tarf", "al-Jabha", "al-Zubra", "al-Sarfa", "al-'Awwa",
-            "al-Simak", "al-Ghafr", "al-Zubana", "al-Iklil", "al-Qalb", "al-Shawla", "al-Na'a'im",
-            "al-Balda", "Sa'd al-Dhabih", "Sa'd Bula'", "Sa'd al-Su'ud", "Sa'd al-Akhbiya",
-            "al-Fargh al-Muqaddam", "al-Fargh al-Mu'akhkhar", "Batn al-Hut"]
-MANSION_W = 360.0 / 28
 
 
 def kind_of(text):
@@ -118,20 +116,27 @@ def read_sky(date):
                 if b[n]["sign"] == "Gemini"]
     gem_con = [n for n in ("Sun", "Moon", "Mercury", "Venus", "Mars", "Jupiter", "Saturn")
                if b[n]["constellation"] == "Gemini"]
-    # the hour is unknown, so give every mansion the Moon crossed between 00:00 and 24:00 UT
-    m0 = sky_on(date, hour_ut=0.0)["bodies"]["Moon"]["lon"]
-    m1 = sky_on(date, hour_ut=24.0)["bodies"]["Moon"]["lon"]
-    a, z = int(m0 // MANSION_W), int(m1 // MANSION_W)
-    span = [a]
-    while span[-1] != z:
-        span.append((span[-1] + 1) % 28)
-    mansion = " → ".join("%d %s" % (i + 1, MANSIONS[i]) for i in span)
+    # the hour is unknown, so give every mansion the Moon crossed between 00:00 and 24:00 UT,
+    # in both of mansions.py's conventions: the table (equal arcs) and the stars
+    eq, st = [], []
+    for h in (0.0, 6.0, 12.0, 18.0, 24.0):
+        lon = sky_on(date, hour_ut=h)["bodies"]["Moon"]["lon"]
+        jd = s["jd_ut"] + (h - 12.0) / 24.0
+        for acc, m in ((eq, M.equal_mansion(lon)), (st, M.star_mansion(lon, jd))):
+            if not acc or acc[-1]["index"] != m["index"]:
+                acc.append(m)
+    fmt = lambda ms: " → ".join("%d %s (%s)" % (m["index"], m["name"], m["meaning"]) for m in ms)
+    names = {m["name"] for m in eq} | {m["name"] for m in st}
     return {
         "score": score, "why": why, "weekday": WEEKDAYS[wd],
         "mercury": me["sign_text"], "mercury_con": me["constellation"],
         "sun": sun["sign_text"], "moon": moon["sign_text"],
         "gem_trop": gem_trop, "gem_con": gem_con,
-        "mansion": mansion,
+        "mansion": "by the table %s · by the stars %s" % (fmt(eq), fmt(st)),
+        "gemini_mansion": sorted(names & M.MERCURY_GEMINI),
+        "gemini_mansion_by": ", ".join(
+            c for c, ms in (("table", eq), ("stars", st))
+            if any(m["name"] in M.MERCURY_GEMINI for m in ms)),
     }
 
 
@@ -189,6 +194,11 @@ def report(cs, top):
     o += [line(c) for c in sorted(gem, key=lambda c: c["date"])]
     o.append("\n## Mercury among the stars of Gemini, the constellation reading (%d)\n" % len(gem_star))
     o += [line(c) for c in sorted(gem_star, key=lambda c: c["date"])]
+    gm = [c for c in cs if c["sky"]["gemini_mansion"]]
+    o.append("\n## The Moon in a Gemini mansion, al-Hanʿa or al-Dhirāʿ (%d)\n" % len(gm))
+    o.append("Each line says which convention put the Moon there: the table, the stars, or both.\n")
+    o += [line(c).rstrip("\n") + "\n  Gemini mansion by: **%s**\n" % c["sky"]["gemini_mansion_by"]
+          for c in sorted(gm, key=lambda c: c["date"])]
     o.append("\n## The weakest Mercury: made against the sky, bottom %d\n" % min(top, 20))
     o += [line(c) for c in worst[:min(top, 20)]]
     return "".join(o)
