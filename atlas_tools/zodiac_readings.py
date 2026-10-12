@@ -118,9 +118,14 @@ def positions_at_jd(jd_ut):
     return out, T
 
 
-def reading(lon):
+def reading(lon, T):
     i, d = E.sign_of(lon)
-    return {"sign": E.SIGNS[i], "degree": round(d, 2), "text": E.sign_text(lon), "longitude": round(lon, 3)}
+    pA = E.precession_in_longitude(T)
+    lon_j2000 = E.wrap360(lon - pA)
+    return {"sign": E.SIGNS[i], "degree": round(d, 2), "text": E.sign_text(lon), "longitude": round(lon, 3),
+            "constellation": E.constellation_of(lon_j2000),
+            "constellation_note": "the real background constellation (IAU boundaries) under this body of date, "
+                                   "corrected for precession back to/forward from J2000 -- not the tropical sign above"}
 
 
 # ---------------------------------------------------------------- dates
@@ -393,7 +398,7 @@ def read_stop(journey_cal, life_last_year, seg_name, stop):
     if ay < 0 or ay > 2050:
         entry.setdefault("notes", []).append(
             "far from J2000: planets to ~1 degree (Standish 2b), the Moon's abridged series to a few degrees")
-    entry["sun"] = reading(pos["Sun"])
+    entry["sun"] = reading(pos["Sun"], T)
     if precision == "month":
         rng = sun_range(ay, m, gregorian)
         entry["sun_range"] = rng
@@ -405,16 +410,16 @@ def read_stop(journey_cal, life_last_year, seg_name, stop):
                                "(defaulted or conventional) day and should not be trusted")
     if precision == "day":
         for b in ["Moon"] + PLANETS:
-            entry[b.lower()] = reading(pos[b])
+            entry[b.lower()] = reading(pos[b], T)
         if alt is not None:
             alt_greg = not gregorian
             alt_jd = jd_from(ay, m, day_for_jd, alt_greg) if valid_civil(ay, m, day_for_jd, alt_greg) else None
             if alt_jd is not None:
-                apos, _ = positions_at_jd(alt_jd)
+                apos, aT = positions_at_jd(alt_jd)
                 entry["alternate"] = {
                     "calendar": "gregorian" if alt_greg else "julian",
                     "note": "the same civil date read in the other calendar",
-                    **{b.lower(): reading(apos[b]) for b in BODY_ORDER},
+                    **{b.lower(): reading(apos[b], aT) for b in BODY_ORDER},
                 }
         by_sign = defaultdict(list)
         for b in BODY_ORDER:

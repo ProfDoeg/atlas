@@ -33,7 +33,9 @@
    "sign": "Leo",
    "degree": 17.27,
    "text": "Leo 17°16′",
-   "longitude": 137.266
+   "longitude": 137.266,
+   "constellation": "Leo",
+   "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
   },
   "sun_range": [
    "Aries",
@@ -75,7 +77,9 @@
     "sign": "Leo",
     "degree": 17.27,
     "text": "Leo 17°16′",
-    "longitude": 137.266
+    "longitude": 137.266,
+    "constellation": "Leo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -114,7 +118,9 @@
     "sign": "Capricornus",
     "degree": 20.74,
     "text": "Capricornus 20°45′",
-    "longitude": 290.745
+    "longitude": 290.745,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -151,7 +157,9 @@
     "sign": "Capricornus",
     "degree": 20.03,
     "text": "Capricornus 20°02′",
-    "longitude": 290.032
+    "longitude": 290.032,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -188,7 +196,9 @@
     "sign": "Gemini",
     "degree": 19.91,
     "text": "Gemini 19°55′",
-    "longitude": 79.913
+    "longitude": 79.913,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -225,7 +235,9 @@
     "sign": "Capricornus",
     "degree": 20.8,
     "text": "Capricornus 20°48′",
-    "longitude": 290.804
+    "longitude": 290.804,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -262,7 +274,9 @@
     "sign": "Pisces",
     "degree": 20.08,
     "text": "Pisces 20°05′",
-    "longitude": 350.078
+    "longitude": 350.078,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -302,43 +316,57 @@
     "sign": "Aries",
     "degree": 14.54,
     "text": "Aries 14°32′",
-    "longitude": 14.54
+    "longitude": 14.54,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "moon": {
     "sign": "Virgo",
     "degree": 20.59,
     "text": "Virgo 20°36′",
-    "longitude": 170.593
+    "longitude": 170.593,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mercury": {
     "sign": "Aries",
     "degree": 29.74,
     "text": "Aries 29°44′",
-    "longitude": 29.741
+    "longitude": 29.741,
+    "constellation": "Aries",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "venus": {
     "sign": "Aries",
     "degree": 21.49,
     "text": "Aries 21°29′",
-    "longitude": 21.485
+    "longitude": 21.485,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mars": {
     "sign": "Cancer",
     "degree": 18.89,
     "text": "Cancer 18°53′",
-    "longitude": 108.888
+    "longitude": 108.888,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "jupiter": {
     "sign": "Pisces",
     "degree": 14.29,
     "text": "Pisces 14°18′",
-    "longitude": 344.293
+    "longitude": 344.293,
+    "constellation": "Aquarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "saturn": {
     "sign": "Pisces",
     "degree": 17.36,
     "text": "Pisces 17°21′",
-    "longitude": 347.358
+    "longitude": 347.358,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "alternate": {
     "calendar": "gregorian",
@@ -347,43 +375,57 @@
      "sign": "Aries",
      "degree": 4.7,
      "text": "Aries 4°42′",
-     "longitude": 4.701
+     "longitude": 4.701,
+     "constellation": "Pisces",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "moon": {
      "sign": "Taurus",
      "degree": 4.78,
      "text": "Taurus 4°47′",
-     "longitude": 34.782
+     "longitude": 34.782,
+     "constellation": "Aries",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mercury": {
      "sign": "Aries",
      "degree": 23.42,
      "text": "Aries 23°25′",
-     "longitude": 23.422
+     "longitude": 23.422,
+     "constellation": "Aries",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "venus": {
      "sign": "Aries",
      "degree": 9.09,
      "text": "Aries 9°05′",
-     "longitude": 9.092
+     "longitude": 9.092,
+     "constellation": "Pisces",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mars": {
      "sign": "Cancer",
      "degree": 15.2,
      "text": "Cancer 15°12′",
-     "longitude": 105.205
+     "longitude": 105.205,
+     "constellation": "Gemini",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "jupiter": {
      "sign": "Pisces",
      "degree": 12.01,
      "text": "Pisces 12°00′",
-     "longitude": 342.008
+     "longitude": 342.008,
+     "constellation": "Aquarius",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "saturn": {
      "sign": "Pisces",
      "degree": 16.19,
      "text": "Pisces 16°11′",
-     "longitude": 346.188
+     "longitude": 346.188,
+     "constellation": "Pisces",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     }
    },
    "conjunctions": [
@@ -416,7 +458,9 @@
     "sign": "Taurus",
     "degree": 19.52,
     "text": "Taurus 19°31′",
-    "longitude": 49.518
+    "longitude": 49.518,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Taurus",
@@ -440,43 +484,57 @@
     "sign": "Libra",
     "degree": 7.12,
     "text": "Libra 7°07′",
-    "longitude": 187.121
+    "longitude": 187.121,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "moon": {
     "sign": "Aries",
     "degree": 0.26,
     "text": "Aries 0°16′",
-    "longitude": 0.259
+    "longitude": 0.259,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mercury": {
     "sign": "Libra",
     "degree": 4.43,
     "text": "Libra 4°26′",
-    "longitude": 184.425
+    "longitude": 184.425,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "venus": {
     "sign": "Scorpio",
     "degree": 23.57,
     "text": "Scorpio 23°34′",
-    "longitude": 233.57
+    "longitude": 233.57,
+    "constellation": "Libra",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mars": {
     "sign": "Scorpio",
     "degree": 2.35,
     "text": "Scorpio 2°21′",
-    "longitude": 212.355
+    "longitude": 212.355,
+    "constellation": "Libra",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "jupiter": {
     "sign": "Pisces",
     "degree": 21.69,
     "text": "Pisces 21°42′",
-    "longitude": 351.694
+    "longitude": 351.694,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "saturn": {
     "sign": "Pisces",
     "degree": 18.67,
     "text": "Pisces 18°40′",
-    "longitude": 348.665
+    "longitude": 348.665,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "alternate": {
     "calendar": "gregorian",
@@ -485,43 +543,57 @@
      "sign": "Virgo",
      "degree": 27.28,
      "text": "Virgo 27°17′",
-     "longitude": 177.282
+     "longitude": 177.282,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "moon": {
      "sign": "Scorpio",
      "degree": 23.8,
      "text": "Scorpio 23°48′",
-     "longitude": 233.8
+     "longitude": 233.8,
+     "constellation": "Libra",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mercury": {
      "sign": "Virgo",
      "degree": 16.4,
      "text": "Virgo 16°24′",
-     "longitude": 166.403
+     "longitude": 166.403,
+     "constellation": "Leo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "venus": {
      "sign": "Scorpio",
      "degree": 12.88,
      "text": "Scorpio 12°53′",
-     "longitude": 222.878
+     "longitude": 222.878,
+     "constellation": "Libra",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mars": {
      "sign": "Libra",
      "degree": 25.53,
      "text": "Libra 25°32′",
-     "longitude": 205.527
+     "longitude": 205.527,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "jupiter": {
      "sign": "Pisces",
      "degree": 22.99,
      "text": "Pisces 22°59′",
-     "longitude": 352.987
+     "longitude": 352.987,
+     "constellation": "Pisces",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "saturn": {
      "sign": "Pisces",
      "degree": 19.41,
      "text": "Pisces 19°24′",
-     "longitude": 349.407
+     "longitude": 349.407,
+     "constellation": "Pisces",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     }
    }
   },
@@ -542,7 +614,9 @@
     "sign": "Sagittarius",
     "degree": 18.47,
     "text": "Sagittarius 18°28′",
-    "longitude": 258.466
+    "longitude": 258.466,
+    "constellation": "Ophiuchus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -578,7 +652,9 @@
     "sign": "Aries",
     "degree": 21.16,
     "text": "Aries 21°09′",
-    "longitude": 21.157
+    "longitude": 21.157,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -604,7 +680,9 @@
     "sign": "Taurus",
     "degree": 4.79,
     "text": "Taurus 4°47′",
-    "longitude": 34.787
+    "longitude": 34.787,
+    "constellation": "Aries",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -640,7 +718,9 @@
     "sign": "Taurus",
     "degree": 20.25,
     "text": "Taurus 20°15′",
-    "longitude": 50.248
+    "longitude": 50.248,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -676,7 +756,9 @@
     "sign": "Virgo",
     "degree": 18.24,
     "text": "Virgo 18°14′",
-    "longitude": 168.237
+    "longitude": 168.237,
+    "constellation": "Leo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Virgo",
@@ -702,7 +784,9 @@
     "sign": "Taurus",
     "degree": 19.78,
     "text": "Taurus 19°47′",
-    "longitude": 49.782
+    "longitude": 49.782,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -742,7 +826,9 @@
     "sign": "Cancer",
     "degree": 18.09,
     "text": "Cancer 18°05′",
-    "longitude": 108.086
+    "longitude": 108.086,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -779,7 +865,9 @@
     "sign": "Virgo",
     "degree": 17.77,
     "text": "Virgo 17°46′",
-    "longitude": 167.765
+    "longitude": 167.765,
+    "constellation": "Leo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -818,43 +906,57 @@
     "sign": "Capricornus",
     "degree": 7.09,
     "text": "Capricornus 7°05′",
-    "longitude": 277.088
+    "longitude": 277.088,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "moon": {
     "sign": "Leo",
     "degree": 14.66,
     "text": "Leo 14°39′",
-    "longitude": 134.656
+    "longitude": 134.656,
+    "constellation": "Leo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mercury": {
     "sign": "Capricornus",
     "degree": 14.75,
     "text": "Capricornus 14°45′",
-    "longitude": 284.751
+    "longitude": 284.751,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "venus": {
     "sign": "Aquarius",
     "degree": 24.25,
     "text": "Aquarius 24°15′",
-    "longitude": 324.246
+    "longitude": 324.246,
+    "constellation": "Aquarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mars": {
     "sign": "Virgo",
     "degree": 27.09,
     "text": "Virgo 27°05′",
-    "longitude": 177.091
+    "longitude": 177.091,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "jupiter": {
     "sign": "Cancer",
     "degree": 10.61,
     "text": "Cancer 10°37′",
-    "longitude": 100.613
+    "longitude": 100.613,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "saturn": {
     "sign": "Aries",
     "degree": 25.89,
     "text": "Aries 25°54′",
-    "longitude": 25.895
+    "longitude": 25.895,
+    "constellation": "Aries",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "alternate": {
     "calendar": "gregorian",
@@ -863,43 +965,57 @@
      "sign": "Sagittarius",
      "degree": 26.89,
      "text": "Sagittarius 26°54′",
-     "longitude": 266.893
+     "longitude": 266.893,
+     "constellation": "Sagittarius",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "moon": {
      "sign": "Aries",
      "degree": 8.34,
      "text": "Aries 8°20′",
-     "longitude": 8.336
+     "longitude": 8.336,
+     "constellation": "Pisces",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mercury": {
      "sign": "Sagittarius",
      "degree": 28.57,
      "text": "Sagittarius 28°34′",
-     "longitude": 268.572
+     "longitude": 268.572,
+     "constellation": "Sagittarius",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "venus": {
      "sign": "Aquarius",
      "degree": 14.06,
      "text": "Aquarius 14°04′",
-     "longitude": 314.06
+     "longitude": 314.06,
+     "constellation": "Capricornus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mars": {
      "sign": "Virgo",
      "degree": 23.32,
      "text": "Virgo 23°19′",
-     "longitude": 173.323
+     "longitude": 173.323,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "jupiter": {
      "sign": "Cancer",
      "degree": 11.93,
      "text": "Cancer 11°56′",
-     "longitude": 101.929
+     "longitude": 101.929,
+     "constellation": "Gemini",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "saturn": {
      "sign": "Aries",
      "degree": 25.98,
      "text": "Aries 25°59′",
-     "longitude": 25.984
+     "longitude": 25.984,
+     "constellation": "Aries",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     }
    }
   },
@@ -920,7 +1036,9 @@
     "sign": "Aries",
     "degree": 15.55,
     "text": "Aries 15°33′",
-    "longitude": 15.551
+    "longitude": 15.551,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Pisces",
@@ -947,43 +1065,57 @@
     "sign": "Taurus",
     "degree": 6.99,
     "text": "Taurus 6°59′",
-    "longitude": 36.991
+    "longitude": 36.991,
+    "constellation": "Aries",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "moon": {
     "sign": "Capricornus",
     "degree": 17.23,
     "text": "Capricornus 17°14′",
-    "longitude": 287.23
+    "longitude": 287.23,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mercury": {
     "sign": "Taurus",
     "degree": 21.76,
     "text": "Taurus 21°46′",
-    "longitude": 51.765
+    "longitude": 51.765,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "venus": {
     "sign": "Pisces",
     "degree": 22.24,
     "text": "Pisces 22°14′",
-    "longitude": 352.235
+    "longitude": 352.235,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mars": {
     "sign": "Virgo",
     "degree": 15.72,
     "text": "Virgo 15°43′",
-    "longitude": 165.724
+    "longitude": 165.724,
+    "constellation": "Leo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "jupiter": {
     "sign": "Cancer",
     "degree": 9.97,
     "text": "Cancer 9°58′",
-    "longitude": 99.97
+    "longitude": 99.97,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "saturn": {
     "sign": "Taurus",
     "degree": 6.14,
     "text": "Taurus 6°08′",
-    "longitude": 36.136
+    "longitude": 36.136,
+    "constellation": "Aries",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "alternate": {
     "calendar": "gregorian",
@@ -992,43 +1124,57 @@
      "sign": "Aries",
      "degree": 27.28,
      "text": "Aries 27°17′",
-     "longitude": 27.277
+     "longitude": 27.277,
+     "constellation": "Aries",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "moon": {
      "sign": "Leo",
      "degree": 20.62,
      "text": "Leo 20°37′",
-     "longitude": 140.618
+     "longitude": 140.618,
+     "constellation": "Leo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mercury": {
      "sign": "Taurus",
      "degree": 1.26,
      "text": "Taurus 1°16′",
-     "longitude": 31.261
+     "longitude": 31.261,
+     "constellation": "Aries",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "venus": {
      "sign": "Pisces",
      "degree": 14.87,
      "text": "Pisces 14°52′",
-     "longitude": 344.868
+     "longitude": 344.868,
+     "constellation": "Aquarius",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mars": {
      "sign": "Virgo",
      "degree": 16.28,
      "text": "Virgo 16°17′",
-     "longitude": 166.285
+     "longitude": 166.285,
+     "constellation": "Leo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "jupiter": {
      "sign": "Cancer",
      "degree": 8.54,
      "text": "Cancer 8°33′",
-     "longitude": 98.543
+     "longitude": 98.543,
+     "constellation": "Gemini",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "saturn": {
      "sign": "Taurus",
      "degree": 4.85,
      "text": "Taurus 4°51′",
-     "longitude": 34.851
+     "longitude": 34.851,
+     "constellation": "Aries",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     }
    },
    "conjunctions": [
@@ -1057,43 +1203,57 @@
     "sign": "Taurus",
     "degree": 21.47,
     "text": "Taurus 21°28′",
-    "longitude": 51.475
+    "longitude": 51.475,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "moon": {
     "sign": "Cancer",
     "degree": 20.72,
     "text": "Cancer 20°43′",
-    "longitude": 110.724
+    "longitude": 110.724,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mercury": {
     "sign": "Gemini",
     "degree": 13.51,
     "text": "Gemini 13°30′",
-    "longitude": 73.507
+    "longitude": 73.507,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "venus": {
     "sign": "Aries",
     "degree": 5.54,
     "text": "Aries 5°32′",
-    "longitude": 5.539
+    "longitude": 5.539,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mars": {
     "sign": "Virgo",
     "degree": 17.17,
     "text": "Virgo 17°10′",
-    "longitude": 167.166
+    "longitude": 167.166,
+    "constellation": "Leo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "jupiter": {
     "sign": "Cancer",
     "degree": 12.45,
     "text": "Cancer 12°27′",
-    "longitude": 102.447
+    "longitude": 102.447,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "saturn": {
     "sign": "Taurus",
     "degree": 8.06,
     "text": "Taurus 8°03′",
-    "longitude": 38.055
+    "longitude": 38.055,
+    "constellation": "Aries",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "alternate": {
     "calendar": "gregorian",
@@ -1102,43 +1262,57 @@
      "sign": "Taurus",
      "degree": 11.83,
      "text": "Taurus 11°50′",
-     "longitude": 41.83
+     "longitude": 41.83,
+     "constellation": "Aries",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "moon": {
      "sign": "Pisces",
      "degree": 20.55,
      "text": "Pisces 20°33′",
-     "longitude": 350.554
+     "longitude": 350.554,
+     "constellation": "Pisces",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mercury": {
      "sign": "Gemini",
      "degree": 0.53,
      "text": "Gemini 0°32′",
-     "longitude": 60.534
+     "longitude": 60.534,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "venus": {
      "sign": "Pisces",
      "degree": 26.43,
      "text": "Pisces 26°26′",
-     "longitude": 356.425
+     "longitude": 356.425,
+     "constellation": "Pisces",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mars": {
      "sign": "Virgo",
      "degree": 15.92,
      "text": "Virgo 15°55′",
-     "longitude": 165.919
+     "longitude": 165.919,
+     "constellation": "Leo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "jupiter": {
      "sign": "Cancer",
      "degree": 10.75,
      "text": "Cancer 10°45′",
-     "longitude": 100.754
+     "longitude": 100.754,
+     "constellation": "Gemini",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "saturn": {
      "sign": "Taurus",
      "degree": 6.78,
      "text": "Taurus 6°47′",
-     "longitude": 36.779
+     "longitude": 36.779,
+     "constellation": "Aries",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     }
    }
   },
@@ -1159,7 +1333,9 @@
     "sign": "Taurus",
     "degree": 8.93,
     "text": "Taurus 8°56′",
-    "longitude": 38.928
+    "longitude": 38.928,
+    "constellation": "Aries",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -1186,7 +1362,9 @@
     "sign": "Aquarius",
     "degree": 21.55,
     "text": "Aquarius 21°33′",
-    "longitude": 321.549
+    "longitude": 321.549,
+    "constellation": "Capricornus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aquarius",
@@ -1216,43 +1394,57 @@
     "sign": "Gemini",
     "degree": 10.42,
     "text": "Gemini 10°25′",
-    "longitude": 70.425
+    "longitude": 70.425,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "moon": {
     "sign": "Leo",
     "degree": 23.45,
     "text": "Leo 23°27′",
-    "longitude": 143.452
+    "longitude": 143.452,
+    "constellation": "Leo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mercury": {
     "sign": "Taurus",
     "degree": 21.44,
     "text": "Taurus 21°26′",
-    "longitude": 51.438
+    "longitude": 51.438,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "venus": {
     "sign": "Cancer",
     "degree": 19.05,
     "text": "Cancer 19°03′",
-    "longitude": 109.054
+    "longitude": 109.054,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mars": {
     "sign": "Gemini",
     "degree": 6.13,
     "text": "Gemini 6°08′",
-    "longitude": 66.134
+    "longitude": 66.134,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "jupiter": {
     "sign": "Leo",
     "degree": 12.15,
     "text": "Leo 12°09′",
-    "longitude": 132.148
+    "longitude": 132.148,
+    "constellation": "Cancer",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "saturn": {
     "sign": "Taurus",
     "degree": 22.63,
     "text": "Taurus 22°38′",
-    "longitude": 52.631
+    "longitude": 52.631,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "alternate": {
     "calendar": "gregorian",
@@ -1261,43 +1453,57 @@
      "sign": "Gemini",
      "degree": 0.85,
      "text": "Gemini 0°51′",
-     "longitude": 60.849
+     "longitude": 60.849,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "moon": {
      "sign": "Aries",
      "degree": 23.5,
      "text": "Aries 23°30′",
-     "longitude": 23.504
+     "longitude": 23.504,
+     "constellation": "Aries",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mercury": {
      "sign": "Taurus",
      "degree": 22.86,
      "text": "Taurus 22°52′",
-     "longitude": 52.86
+     "longitude": 52.86,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "venus": {
      "sign": "Cancer",
      "degree": 7.42,
      "text": "Cancer 7°25′",
-     "longitude": 97.415
+     "longitude": 97.415,
+     "constellation": "Gemini",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mars": {
      "sign": "Taurus",
      "degree": 29.15,
      "text": "Taurus 29°09′",
-     "longitude": 59.147
+     "longitude": 59.147,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "jupiter": {
      "sign": "Leo",
      "degree": 10.74,
      "text": "Leo 10°44′",
-     "longitude": 130.736
+     "longitude": 130.736,
+     "constellation": "Cancer",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "saturn": {
      "sign": "Taurus",
      "degree": 21.36,
      "text": "Taurus 21°22′",
-     "longitude": 51.359
+     "longitude": 51.359,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     }
    }
   },
@@ -1316,43 +1522,57 @@
     "sign": "Sagittarius",
     "degree": 22.32,
     "text": "Sagittarius 22°19′",
-    "longitude": 262.322
+    "longitude": 262.322,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "moon": {
     "sign": "Libra",
     "degree": 25.64,
     "text": "Libra 25°38′",
-    "longitude": 205.635
+    "longitude": 205.635,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mercury": {
     "sign": "Capricornus",
     "degree": 12.11,
     "text": "Capricornus 12°07′",
-    "longitude": 282.109
+    "longitude": 282.109,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "venus": {
     "sign": "Scorpio",
     "degree": 5.49,
     "text": "Scorpio 5°30′",
-    "longitude": 215.493
+    "longitude": 215.493,
+    "constellation": "Libra",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mars": {
     "sign": "Libra",
     "degree": 8.75,
     "text": "Libra 8°45′",
-    "longitude": 188.751
+    "longitude": 188.751,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "jupiter": {
     "sign": "Virgo",
     "degree": 17.32,
     "text": "Virgo 17°19′",
-    "longitude": 167.322
+    "longitude": 167.322,
+    "constellation": "Leo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "saturn": {
     "sign": "Taurus",
     "degree": 25.08,
     "text": "Taurus 25°05′",
-    "longitude": 55.076
+    "longitude": 55.076,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "alternate": {
     "calendar": "gregorian",
@@ -1361,43 +1581,57 @@
      "sign": "Sagittarius",
      "degree": 12.14,
      "text": "Sagittarius 12°09′",
-     "longitude": 252.144
+     "longitude": 252.144,
+     "constellation": "Ophiuchus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "moon": {
      "sign": "Gemini",
      "degree": 22.42,
      "text": "Gemini 22°25′",
-     "longitude": 82.423
+     "longitude": 82.423,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mercury": {
      "sign": "Sagittarius",
      "degree": 28.42,
      "text": "Sagittarius 28°25′",
-     "longitude": 268.42
+     "longitude": 268.42,
+     "constellation": "Sagittarius",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "venus": {
      "sign": "Libra",
      "degree": 25.87,
      "text": "Libra 25°52′",
-     "longitude": 205.87
+     "longitude": 205.87,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mars": {
      "sign": "Libra",
      "degree": 3.31,
      "text": "Libra 3°19′",
-     "longitude": 183.309
+     "longitude": 183.309,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "jupiter": {
      "sign": "Virgo",
      "degree": 16.58,
      "text": "Virgo 16°35′",
-     "longitude": 166.576
+     "longitude": 166.576,
+     "constellation": "Leo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "saturn": {
      "sign": "Taurus",
      "degree": 25.8,
      "text": "Taurus 25°48′",
-     "longitude": 55.803
+     "longitude": 55.803,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     }
    }
   },
@@ -1421,7 +1655,9 @@
     "sign": "Pisces",
     "degree": 20.38,
     "text": "Pisces 20°23′",
-    "longitude": 350.379
+    "longitude": 350.379,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Pisces",
@@ -1449,7 +1685,9 @@
     "sign": "Virgo",
     "degree": 18.03,
     "text": "Virgo 18°02′",
-    "longitude": 168.033
+    "longitude": 168.033,
+    "constellation": "Leo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -1485,7 +1723,9 @@
     "sign": "Pisces",
     "degree": 14.16,
     "text": "Pisces 14°09′",
-    "longitude": 344.157
+    "longitude": 344.157,
+    "constellation": "Aquarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -1521,7 +1761,9 @@
     "sign": "Pisces",
     "degree": 20.14,
     "text": "Pisces 20°08′",
-    "longitude": 350.138
+    "longitude": 350.138,
+    "constellation": "Pisces",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -1559,7 +1801,9 @@
     "sign": "Gemini",
     "degree": 19.52,
     "text": "Gemini 19°31′",
-    "longitude": 79.515
+    "longitude": 79.515,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -1596,7 +1840,9 @@
     "sign": "Taurus",
     "degree": 19.58,
     "text": "Taurus 19°35′",
-    "longitude": 49.581
+    "longitude": 49.581,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Taurus",
@@ -1623,7 +1869,9 @@
     "sign": "Libra",
     "degree": 17.59,
     "text": "Libra 17°35′",
-    "longitude": 197.591
+    "longitude": 197.591,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Libra",
@@ -1654,7 +1902,9 @@
     "sign": "Capricornus",
     "degree": 20.64,
     "text": "Capricornus 20°39′",
-    "longitude": 290.644
+    "longitude": 290.644,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -1692,7 +1942,9 @@
     "sign": "Scorpio",
     "degree": 18.9,
     "text": "Scorpio 18°54′",
-    "longitude": 228.9
+    "longitude": 228.9,
+    "constellation": "Libra",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Scorpio",
@@ -1718,7 +1970,9 @@
     "sign": "Cancer",
     "degree": 18.41,
     "text": "Cancer 18°25′",
-    "longitude": 108.412
+    "longitude": 108.412,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Cancer",
@@ -1742,43 +1996,57 @@
     "sign": "Libra",
     "degree": 17.62,
     "text": "Libra 17°37′",
-    "longitude": 197.622
+    "longitude": 197.622,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "moon": {
     "sign": "Libra",
     "degree": 15.67,
     "text": "Libra 15°40′",
-    "longitude": 195.668
+    "longitude": 195.668,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mercury": {
     "sign": "Scorpio",
     "degree": 2.45,
     "text": "Scorpio 2°27′",
-    "longitude": 212.45
+    "longitude": 212.45,
+    "constellation": "Libra",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "venus": {
     "sign": "Scorpio",
     "degree": 8.94,
     "text": "Scorpio 8°56′",
-    "longitude": 218.937
+    "longitude": 218.937,
+    "constellation": "Libra",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mars": {
     "sign": "Cancer",
     "degree": 5.41,
     "text": "Cancer 5°25′",
-    "longitude": 95.414
+    "longitude": 95.414,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "jupiter": {
     "sign": "Gemini",
     "degree": 16.2,
     "text": "Gemini 16°12′",
-    "longitude": 76.203
+    "longitude": 76.203,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "saturn": {
     "sign": "Virgo",
     "degree": 27.24,
     "text": "Virgo 27°14′",
-    "longitude": 177.24
+    "longitude": 177.24,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "alternate": {
     "calendar": "gregorian",
@@ -1787,43 +2055,57 @@
      "sign": "Libra",
      "degree": 7.72,
      "text": "Libra 7°43′",
-     "longitude": 187.723
+     "longitude": 187.723,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "moon": {
      "sign": "Gemini",
      "degree": 11.38,
      "text": "Gemini 11°23′",
-     "longitude": 71.384
+     "longitude": 71.384,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mercury": {
      "sign": "Libra",
      "degree": 16.76,
      "text": "Libra 16°46′",
-     "longitude": 196.763
+     "longitude": 196.763,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "venus": {
      "sign": "Libra",
      "degree": 26.54,
      "text": "Libra 26°33′",
-     "longitude": 206.542
+     "longitude": 206.542,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mars": {
      "sign": "Cancer",
      "degree": 1.41,
      "text": "Cancer 1°25′",
-     "longitude": 91.415
+     "longitude": 91.415,
+     "constellation": "Gemini",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "jupiter": {
      "sign": "Gemini",
      "degree": 16.25,
      "text": "Gemini 16°15′",
-     "longitude": 76.247
+     "longitude": 76.247,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "saturn": {
      "sign": "Virgo",
      "degree": 26.03,
      "text": "Virgo 26°02′",
-     "longitude": 176.032
+     "longitude": 176.032,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     }
    }
   },
@@ -1848,43 +2130,57 @@
     "sign": "Scorpio",
     "degree": 18.66,
     "text": "Scorpio 18°39′",
-    "longitude": 228.655
+    "longitude": 228.655,
+    "constellation": "Libra",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "moon": {
     "sign": "Sagittarius",
     "degree": 7.39,
     "text": "Sagittarius 7°23′",
-    "longitude": 247.391
+    "longitude": 247.391,
+    "constellation": "Ophiuchus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mercury": {
     "sign": "Sagittarius",
     "degree": 9.89,
     "text": "Sagittarius 9°54′",
-    "longitude": 249.894
+    "longitude": 249.894,
+    "constellation": "Ophiuchus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "venus": {
     "sign": "Sagittarius",
     "degree": 17.29,
     "text": "Sagittarius 17°18′",
-    "longitude": 257.292
+    "longitude": 257.292,
+    "constellation": "Ophiuchus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "mars": {
     "sign": "Cancer",
     "degree": 12.28,
     "text": "Cancer 12°17′",
-    "longitude": 102.278
+    "longitude": 102.278,
+    "constellation": "Gemini",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "jupiter": {
     "sign": "Gemini",
     "degree": 14.04,
     "text": "Gemini 14°02′",
-    "longitude": 74.038
+    "longitude": 74.038,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "saturn": {
     "sign": "Libra",
     "degree": 0.62,
     "text": "Libra 0°37′",
-    "longitude": 180.621
+    "longitude": 180.621,
+    "constellation": "Virgo",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "alternate": {
     "calendar": "gregorian",
@@ -1893,43 +2189,57 @@
      "sign": "Scorpio",
      "degree": 8.59,
      "text": "Scorpio 8°35′",
-     "longitude": 218.591
+     "longitude": 218.591,
+     "constellation": "Libra",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "moon": {
      "sign": "Cancer",
      "degree": 25.02,
      "text": "Cancer 25°01′",
-     "longitude": 115.018
+     "longitude": 115.018,
+     "constellation": "Cancer",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mercury": {
      "sign": "Sagittarius",
      "degree": 1.19,
      "text": "Sagittarius 1°11′",
-     "longitude": 241.189
+     "longitude": 241.189,
+     "constellation": "Scorpius",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "venus": {
      "sign": "Sagittarius",
      "degree": 4.93,
      "text": "Sagittarius 4°56′",
-     "longitude": 244.934
+     "longitude": 244.934,
+     "constellation": "Ophiuchus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "mars": {
      "sign": "Cancer",
      "degree": 11.18,
      "text": "Cancer 11°11′",
-     "longitude": 101.18
+     "longitude": 101.18,
+     "constellation": "Gemini",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "jupiter": {
      "sign": "Gemini",
      "degree": 15.04,
      "text": "Gemini 15°02′",
-     "longitude": 75.041
+     "longitude": 75.041,
+     "constellation": "Taurus",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     },
     "saturn": {
      "sign": "Virgo",
      "degree": 29.61,
      "text": "Virgo 29°37′",
-     "longitude": 179.611
+     "longitude": 179.611,
+     "constellation": "Virgo",
+     "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
     }
    },
    "conjunctions": [
@@ -1960,7 +2270,9 @@
     "sign": "Capricornus",
     "degree": 10.68,
     "text": "Capricornus 10°41′",
-    "longitude": 280.675
+    "longitude": 280.675,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -1998,7 +2310,9 @@
     "sign": "Capricornus",
     "degree": 11.09,
     "text": "Capricornus 11°05′",
-    "longitude": 281.092
+    "longitude": 281.092,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -2035,7 +2349,9 @@
     "sign": "Capricornus",
     "degree": 10.07,
     "text": "Capricornus 10°04′",
-    "longitude": 280.066
+    "longitude": 280.066,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -2071,7 +2387,9 @@
     "sign": "Gemini",
     "degree": 10.69,
     "text": "Gemini 10°41′",
-    "longitude": 70.692
+    "longitude": 70.692,
+    "constellation": "Taurus",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
@@ -2110,7 +2428,9 @@
     "sign": "Capricornus",
     "degree": 9.87,
     "text": "Capricornus 9°52′",
-    "longitude": 279.874
+    "longitude": 279.874,
+    "constellation": "Sagittarius",
+    "constellation_note": "the real background constellation (IAU boundaries) under this body of date, corrected for precession back to/forward from J2000 -- not the tropical sign above"
    },
    "sun_range": [
     "Aries",
