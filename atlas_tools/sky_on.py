@@ -41,6 +41,21 @@ E = CE.E
 BODIES = CE.BODIES
 
 
+def dms_text(lon):
+    """'Sign d°mm′', carrying properly. nodus3 found this printing 24°60′ on 2026-10-12: rounding
+    the minutes alone gives 60 whenever the fraction is above 59.5 minutes. Carry into the degree,
+    and if that reaches 30, into the next sign — natal_chart.dms() still misses that second case,
+    which is rare but real at the very end of a sign."""
+    si, deg = E.sign_of(lon)
+    d = int(deg)
+    m = int(round((deg - d) * 60))
+    if m == 60:
+        d, m = d + 1, 0
+    if d == 30:
+        si, d = (si + 1) % 12, 0
+    return CE.SIGNS[si], d, m, "%s %d°%02d′" % (CE.SIGNS[si], d, m)
+
+
 def julian_day(date_iso, hour_ut=0.0):
     """ISO date -> JD(UT). Julian calendar before 1582-10-15, as everywhere else in the atlas."""
     y, m, d = (int(x) for x in date_iso.split("-")[:3])
@@ -58,11 +73,11 @@ def sky_on(date_iso, hour_ut=0.0, lat=None, lng=None):
         if name not in lons:
             continue
         lon = lons[name]
-        si, deg = E.sign_of(lon)
+        sign, _, _, text = dms_text(lon)
         out["bodies"][name] = {
             "lon": lon,
-            "sign": CE.SIGNS[si],
-            "sign_text": "%s %d°%02d′" % (CE.SIGNS[si], int(deg), int(round((deg % 1) * 60))),
+            "sign": sign,
+            "sign_text": text,
             "constellation": E.constellation_of(lon),
             "retrograde": bool(spd[name] < 0) if name in spd else None,
         }
@@ -70,10 +85,7 @@ def sky_on(date_iso, hour_ut=0.0, lat=None, lng=None):
         a = CE.angles(jd, lat, lng)
         # angles() also returns ramc, lst and eps — working values, not points on the zodiac.
         # Rendering obliquity as a sign is meaningless, so only the four real angles come out.
-        out["angles"] = {k: {"lon": a[k], "sign": CE.SIGNS[E.sign_of(a[k])[0]],
-                             "text": "%s %d°%02d′" % (CE.SIGNS[E.sign_of(a[k])[0]],
-                                                      int(E.sign_of(a[k])[1]),
-                                                      int(round((E.sign_of(a[k])[1] % 1) * 60)))}
+        out["angles"] = {k: dict(zip(("sign", "deg", "min", "text"), dms_text(a[k], )), lon=a[k])
                          for k in ("asc", "mc", "desc", "ic") if k in a}
     return out
 
