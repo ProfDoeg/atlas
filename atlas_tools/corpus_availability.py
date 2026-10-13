@@ -155,10 +155,49 @@ def subjects():
     return out
 
 
+def name_variants(slug, traveler):
+    """The names a library might catalogue this person under, most formal first.
+
+    The catalog's traveler string is the atlas's own formal form and is often NOT what a library uses:
+    ada_lovelace is "Augusta Ada King, Countess of Lovelace (Ada Byron)", and a creator search on
+    "Augusta Ada King" returns nothing at all while "Ada Lovelace" returns shelves. So every query goes out under
+    the formal name, any parenthetical alias, and the slug read back as words, and the results are unioned on
+    identifier. Querying three ways costs three seconds a subject and is the difference between finding a
+    corpus and finding zero.
+    """
+    out = []
+    base = re.sub(r"\s*\(.*?\)\s*", " ", traveler)
+    out.append(base.split(",")[0].strip())
+    for alias in re.findall(r"\((.*?)\)", traveler):
+        for part in alias.split("/"):
+            part = part.split(",")[0].strip()
+            if len(part.split()) >= 2:
+                out.append(part)
+    out.append(" ".join(w.capitalize() for w in slug.split("_")))
+    seen, uniq = set(), []
+    for n in out:
+        n = re.sub(r"\s+", " ", n).strip()
+        k = n.lower()
+        if n and len(n) > 3 and k not in seen:
+            seen.add(k)
+            uniq.append(n)
+    return uniq[:3]
+
+
 def run_one(slug, traveler, death_year, to_screen=False):
-    name = re.sub(r"\s*\(.*?\)\s*", " ", traveler).split(",")[0].strip() or traveler
-    docs, found = ia_items(name)
-    time.sleep(PAUSE)
+    names = name_variants(slug, traveler)
+    name = names[0]
+    docs, found, by_id = [], 0, {}
+    for nm in names:
+        try:
+            ds, f = ia_items(nm)
+        except Exception:
+            ds, f = [], 0
+        found = max(found, f)
+        for d in ds:
+            by_id.setdefault(d.get("identifier"), d)
+        time.sleep(PAUSE)
+    docs = list(by_id.values())
     items = []
     for d in docs:
         v, why = verdict(d, death_year)
@@ -166,13 +205,18 @@ def run_one(slug, traveler, death_year, to_screen=False):
                       "creator": d.get("creator"), "year": year_of(d), "language": d.get("language"),
                       "collection": d.get("collection"), "status": d.get("possible-copyright-status"),
                       "verdict": v, "reason": why})
-    try:
-        items += gutenberg_items(name)
-    except Exception as e:                       # gutendex is a courtesy mirror; never let it kill a run
-        items.append({"source": "gutenberg", "error": repr(e), "verdict": "catalogue",
-                      "reason": "gutendex unreachable"})
-    time.sleep(PAUSE)
-    rec = {"slug": slug, "traveler": traveler, "queried_as": name, "death_year": death_year,
+    g_seen = set()
+    for nm in names:
+        try:
+            for g in gutenberg_items(nm):
+                if g.get("id") not in g_seen:
+                    g_seen.add(g.get("id"))
+                    items.append(g)
+        except Exception as e:                   # gutendex is a courtesy mirror; never let it kill a run
+            items.append({"source": "gutenberg", "error": repr(e), "verdict": "catalogue",
+                          "reason": "gutendex unreachable"})
+        time.sleep(PAUSE)
+    rec = {"slug": slug, "traveler": traveler, "queried_as": names, "death_year": death_year,
            "ia_num_found": found, "items": items,
            "n_download": sum(1 for i in items if i.get("verdict") == "download"),
            "n_catalogue": sum(1 for i in items if i.get("verdict") == "catalogue")}
@@ -180,7 +224,7 @@ def run_one(slug, traveler, death_year, to_screen=False):
     (AVAIL / f"{slug}.json").write_text(json.dumps(rec, ensure_ascii=False, indent=1), encoding="utf-8")
     if to_screen:
         from collections import Counter
-        print(f"{traveler} (queried as {name!r}), died {death_year}; the Archive holds {found}")
+        print(f"{traveler}\n  queried as {names}, died {death_year}; the Archive holds {found}")
         print(f"  clear to download {rec['n_download']}, catalogue only {rec['n_catalogue']}\n")
         for i in items:
             if i.get("verdict") == "download":
@@ -199,7 +243,13 @@ def main():
         tr, dy = subs.get(s, ("", None))
         run_one(s, tr, dy, to_screen=True)
         return
-    todo = sorted((s, t, d) for s, (t, d) in subs.items() if d and d < DEATH_CUTOFF)
+    # Every subject, not only the long-dead. Anthony, 2026-10-13: "Compile a full bibliography for each person
+    # of books they have written. Download when possible." The catalogue is wanted for everyone; the gate above
+    # already refuses to fetch anything by an author who died after 1900, so running the query wide is safe and
+    # is what turns this from a download list into a bibliography.
+    todo = sorted((s, t, d) for s, (t, d) in subs.items())
+    if "--free-only" in sys.argv:
+        todo = [r for r in todo if r[2] and r[2] < DEATH_CUTOFF]
     if "--limit" in sys.argv:
         todo = todo[: int(sys.argv[sys.argv.index("--limit") + 1])]
     AVAIL.mkdir(parents=True, exist_ok=True)
