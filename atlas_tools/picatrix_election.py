@@ -51,14 +51,19 @@ import mansions as M  # noqa: E402
 
 KINDS = [
     ("performance", r"premi[eè]re|first performance|first night|performed|staged|debut|concert|"
-                    r"ballet|opera\b|the play\b|recital|sung\b"),
+                    r"ballet|opera\b|the play\b|recital|sung\b|banquet|symposium"),
+    # letters, apologias, wills, decrees and sentences added 2026-10-13 (nodus1: the electors'
+    # acts must be selected by rule, not by hand, or the method is not auditable)
     ("book",        r"publish|\bprinted|\bprinting|\bedition|manuscript finished|written|writes|"
-                    r"translat|manifesto|treatise|novel\b|pamphlet"),
+                    r"translat|manifesto|treatise|novel\b|pamphlet|\bletters?\b|apologia|"
+                    r"\bthe will\b|testament|decree|edict|\bsentence\b"),
     # bare "cast" left out: "the shadow cast", "cast out" outnumber castings
     ("object",      r"painted|painting|canvas|bronze|carved|sculpt|forged|minted|unveil|inscri|"
                     r"built|patent|the first .*(made|built)|talisman|engraved"),
     # "opens"/"opened" left out: a vault, a tomb or a case opened is not a creation
-    ("founding",    r"founded|founding|foundation stone|consecrat|charter|inaugurat|launch"),
+    # marriages left out: they are Venus's matter in every election manual, not Mercury's, and
+    # would have doubled the count with acts this Mercury test has nothing to say about
+    ("founding",    r"founded|founding|foundation stone|consecrat|charter|inaugurat|launch|treaty"),
 ]
 KIND_RE = [(k, re.compile(p, re.I)) for k, p in KINDS]
 # nodus2's review: "the hull that was never launched" and "the city he founded" (a burial in it)
@@ -174,9 +179,12 @@ def journey_rows_not_in_catalog(have):
 def collect():
     rows = list(csv.DictReader(open(ATLAS / "catalog_stops.csv", encoding="utf-8")))
     rows += journey_rows_not_in_catalog({r["slug"] for r in rows})
-    out = []
+    out, seen = [], set()
     for r in rows:
-        if not day_precise(r["date"]):
+        # a journey's first stop is the birth, never a creation ("the hour written down")
+        first = r["slug"] not in seen
+        seen.add(r["slug"])
+        if first or not day_precise(r["date"]):
             continue
         # stop name only: segment titles ("The Book Outlives the State") would tag every stop in them
         k = kind_of(r["stop_name"])
