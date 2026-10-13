@@ -16,7 +16,7 @@ traditional day, and a printer's colophon. This is still too few to test.
 | 1249-01-29 | Alfonso | wedding to Violante (date "commonly" given) | Aquarius, combust (−5) | Friday | 10→11 / 8→9 |
 | 1252-06-01 | Alfonso | proclaimed king, 2 days after Fernando III died | **Gemini, own sign (+5)** | Saturday | 28→1 / 27→28 |
 | 1254-03-12 | Alfonso | *Libro complido en los judizios de las estrellas* begun | Aries, under the beams (−4) | Thursday | 20→21 / 18→20 |
-| 1459-01-24 | Ficino | *Di Dio et anima* dated (24 Jan 1458 Florentine style) | Aquarius, combust (−4) | **Wednesday** | 15→16 / 14→15 |
+| 1458-01-24 | Ficino | *Di Dio et anima* dated (modern 1458; Florentine style 1457, per Treccani) | Capricorn, no dignity either way (0) | Tuesday | **6→7 / 4→6, al-Hanʿa by both**; Moon in Gemini |
 | 1468-11-07 | Ficino | the Platonic banquet (traditional date) | Scorpio, under the beams (−4) | Monday | 12→13 / 10→11 |
 | 1473-12-18 | Ficino | ordained priest | Sagittarius, detriment and combust (−10) | Saturday | 20→21 / 19→20 |
 | 1489-09-19 | Ficino | *Apologia* for *De vita* dated | Virgo, own sign and exalted but retrograde and under the beams (0) | Saturday | 9→10 / 7→8 |
@@ -35,7 +35,13 @@ traditional day, and a printer's colophon. This is still too few to test.
   If his astrologers chose that day, they did not choose it by Mercury. Jupiter, the planet of
   law and religion, is a possible alternative ruler for a royal commission, and this test does not
   check it.
-- **Wednesdays:** 2 of 9, against 1.3 expected.
+- **Wednesdays:** 1 of 9, against 1.3 expected.
+- **Correction (2026-10-13).** The first version of this file dated *Di Dio et anima* 1459,
+  by "converting" a Florentine-style year. nodus1's verify stage showed that Treccani puts the
+  MODERN year first and the Florentine one in brackets ("24 genn. '58 (stile fiorentino '57)"),
+  so 1458 was already modern and converting it created the error. The corrected sky has no
+  Mercury dignity, a Tuesday, and the Moon in Gemini, in the Gemini mansion al-Hanʿa by both
+  conventions. That is a pretty fact for a book on God and the soul, and it proves nothing.
 
 ## The honest reading
 
