@@ -66,6 +66,20 @@ KINDS = [
     ("founding",    r"founded|founding|foundation stone|consecrat|charter|inaugurat|launch|treaty"),
 ]
 KIND_RE = [(k, re.compile(p, re.I)) for k, p in KINDS]
+# The classifier as reviewed and fixed on 2026-10-12, BEFORE any elector result was seen. It is
+# the PRIMARY selection. The widening above was chosen on 2026-10-13 after the electors had come
+# back null, so it is a researcher's choice made with the result in view (nodus1). Results from
+# it are reported as SECONDARY and labelled so, never in place of the primary.
+KINDS_V1 = [
+    ("performance", r"premi[eè]re|first performance|first night|performed|staged|debut|concert|"
+                    r"ballet|opera\b|the play\b|recital|sung\b"),
+    ("book",        r"publish|\bprinted|\bprinting|\bedition|manuscript finished|written|writes|"
+                    r"translat|manifesto|treatise|novel\b|pamphlet"),
+    ("object",      r"painted|painting|canvas|bronze|carved|sculpt|forged|minted|unveil|inscri|"
+                    r"built|patent|the first .*(made|built)|talisman|engraved"),
+    ("founding",    r"founded|founding|foundation stone|consecrat|charter|inaugurat|launch"),
+]
+KIND_RE_V1 = [(k, re.compile(p, re.I)) for k, p in KINDS_V1]
 # nodus2's review: "the hull that was never launched" and "the city he founded" (a burial in it)
 # match a keyword without being a creation. Both are excluded after the match.
 NOT_CREATION = re.compile(
@@ -86,10 +100,10 @@ WEEKDAYS = ["Sunday (Sun)", "Monday (Moon)", "Tuesday (Mars)", "Wednesday (Mercu
 RESTORED = {("1928-11-08", "Buenos Aires, the writers' society she built"): "founding"}
 
 
-def kind_of(text):
+def kind_of(text, wide=True):
     if NOT_CREATION.search(text):
         return None
-    for k, rx in KIND_RE:
+    for k, rx in (KIND_RE if wide else KIND_RE_V1):
         if rx.search(text):
             return k
     return None
@@ -176,7 +190,7 @@ def journey_rows_not_in_catalog(have):
     return rows
 
 
-def collect():
+def collect(wide=True):
     rows = list(csv.DictReader(open(ATLAS / "catalog_stops.csv", encoding="utf-8")))
     rows += journey_rows_not_in_catalog({r["slug"] for r in rows})
     out, seen = [], set()
@@ -187,7 +201,7 @@ def collect():
         if first or not day_precise(r["date"]):
             continue
         # stop name only: segment titles ("The Book Outlives the State") would tag every stop in them
-        k = kind_of(r["stop_name"])
+        k = kind_of(r["stop_name"], wide)
         restored = (r["date"], r["stop_name"]) in RESTORED
         if restored:
             k = RESTORED[(r["date"], r["stop_name"])]
@@ -252,11 +266,21 @@ def main():
     top = 30
     if "--top" in sys.argv:
         top = int(sys.argv[sys.argv.index("--top") + 1])
-    cs = collect()
+    # the report and its lists use the PRIMARY classifier, fixed before any result was seen; the
+    # wider one chosen afterwards is summarised in one labelled line, never substituted for it
+    cs = collect(wide=False)
+    wide = collect(wide=True)
+    wd = sum(1 for c in wide if c["sky"]["mercury"].split()[0] in DOMICILE)
+    ww = sum(1 for c in wide if c["sky"]["weekday"].startswith("Wednesday"))
+    text = report(cs, top).replace(
+        "\n## The strongest Mercury",
+        "**Secondary (wider classifier, chosen after the electors came back null):** %d creations; "
+        "Mercury in its own signs %d (%.0f%%), Wednesdays %d (%.0f%%).\n\n## The strongest Mercury"
+        % (len(wide), wd, 100.0 * wd / max(1, len(wide)), ww, 100.0 * ww / max(1, len(wide))), 1)
     out = ATLAS / "readings" / "picatrix_mercury.md"
     out.parent.mkdir(exist_ok=True)
-    out.write_text(report(cs, top), encoding="utf-8")
-    print("%d creations read; report at %s" % (len(cs), out))
+    out.write_text(text, encoding="utf-8")
+    print("%d creations read (primary), %d secondary; report at %s" % (len(cs), len(wide), out))
     return 0
 
 
