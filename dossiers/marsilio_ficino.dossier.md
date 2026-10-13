@@ -142,7 +142,7 @@ Among his earliest works were:
 
 - *De voluptate* (“On Pleasure”), composed in the 1450s;
 - *De quattuor sectis philosophorum* or related compendia on philosophical schools;
-- a vernacular letter to Francesco Capponi, *Di Dio et anima*, dated 24 January 1458 in Florentine style, later known as *Compendium de opinionibus philosophorum de Deo et anima*;
+- a vernacular letter to Francesco Capponi, *Di Dio et anima*, dated **24 January 1458 in the modern reckoning**, which is 1457 in Florentine style, later known as *Compendium de opinionibus philosophorum de Deo et anima*. (Corrected wording, 2026-10-13: this line previously read "dated 24 January 1458 in Florentine style", which invites the reader to convert 1458 forward to 1459. It is the other way round. Treccani's *Dizionario Biografico* writes "il 24 genn. '58 (stile fiorentino '57)", putting the modern year first and the Florentine year in the bracket, as its parallel formulas "il 5 genn. '73 (stile fiorentino '72)" and "il 6 genn. '74 (stile fiorentino '73)" confirm. The Florentine year did begin on 25 March, so dates between 1 January and 24 March do differ by one — but only convert when the source states that the year it gives is the Florentine one. This paraphrase lost that distinction and cost two separate passes a wrong year.);
 - logical, physical, and medical notes now preserved in manuscripts.
 
 Corsi’s early biography relates that Ficino endured a period of serious melancholy and religious-intellectual crisis. Ficino’s own writings repeatedly identify him with Saturn, black bile, solitude, and depression. The clinical nature of these episodes cannot be retrospectively diagnosed, but recurrent psychological distress is supported by Ficino’s testimony.
