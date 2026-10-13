@@ -255,7 +255,7 @@ Ficino published *De vita libri tres* in 1489:
 
 The third book developed from his commentary on Plotinus. It discussed planetary correspondences, music, odors, foods, stones, images, talismans, and the *spiritus mundi*. Ficino attempted to distinguish legitimate “natural magic” from demonic invocation.
 
-The book drew suspicion in Rome. Ficino circulated an *Apologia*, dated 19 September 1489, arguing that:
+The book drew suspicion in Rome. Ficino circulated an *Apologia*, dated **15 September 1489** (corrected 2026-10-13 from the 19 September given here before: Treccani's *Dizionario Biografico* reads "il 15 sett. '89, rivolgeva a Piero Nero … un'Apologia", and nothing reachable supports a 19 September dateline; the journey file carries the same correction with its sources), arguing that:
 
 - he described rather than endorsed some questionable practices;
 - his magic was natural and medicinal;
