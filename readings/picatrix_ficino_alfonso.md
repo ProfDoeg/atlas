@@ -19,7 +19,7 @@ traditional day, and a printer's colophon. This is still too few to test.
 | 1458-01-24 | Ficino | *Di Dio et anima* dated (modern 1458; Florentine style 1457, per Treccani) | Capricorn, no dignity either way (0) | Tuesday | **6→7 / 4→6, al-Hanʿa by both**; Moon in Gemini |
 | 1468-11-07 | Ficino | the Platonic banquet (traditional date) | Scorpio, under the beams (−4) | Monday | 12→13 / 10→11 |
 | 1473-12-18 | Ficino | ordained priest | Sagittarius, detriment and combust (−10) | Saturday | 20→21 / 19→20 |
-| 1489-09-19 | Ficino | *Apologia* for *De vita* dated | Virgo, own sign and exalted but retrograde and under the beams (0) | Saturday | 9→10 / 7→8 |
+| 1489-09-15 | Ficino | *Apologia* for *De vita* dated (Treccani; the dossier's 19 Sept was wrong, fixed in 25dbb45b) | Virgo, own sign and exalted but retrograde AND combust (−1) | Tuesday | 5→6 / 3→4; Moon in Gemini |
 | 1494-12-12 | Ficino | letter to Cavalcanti praising Savonarola | Capricorn, combust (−5) | Friday | 7→8 / 6→7 |
 | 1495-03-11 | Ficino | *Epistolae* printed at Venice | **Pisces, detriment and fall (−8)** | **Wednesday** | 14→15 / 13→14 |
 
@@ -28,7 +28,7 @@ traditional day, and a printer's colophon. This is still too few to test.
 - **Mercury is strong once in nine, and that one was not chosen:** Alfonso's proclamation fell
   two days after his father's death.
 - **The books are written and printed under a weak Mercury.** Ficino dated his defence of astral
-  magic, the *Apologia*, with Mercury in Virgo but retrograde. That breaks the first rule of an
+  magic, the *Apologia*, with Mercury in Virgo but retrograde and combust. That breaks the first rule of an
   election, the same kind of fact as Pico's *Conclusiones*. The *Epistolae* were printed with
   Mercury in both detriment and fall, on a Wednesday.
 - **Alfonso's astrology book was begun on a Thursday, Jupiter's day, with Mercury under the beams.**
