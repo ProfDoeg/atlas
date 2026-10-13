@@ -187,3 +187,18 @@ Approved by the author, China (Zheng He) excluded as too large a rabbit hole.
 
 | docs | subject | who |
 |--:|---|---|
+
+## The Picatrix line (2026-10-12)
+
+Named by the author while testing whether the atlas can be read for elections
+-- objects, books and performances begun under a chosen sky. Neither man is in
+the atlas, and neither could be: the Codex dossier machine reads
+catalog_subjects.csv, which catalog.py generates from the built journeys plus
+this file, so a subject absent from both is reported "not in catalog" and
+skipped. These two rows are what make the test answerable rather than merely
+unanswered.
+
+| docs | subject | who |
+|--:|---|---|
+| 0 | **Marsilio Ficino** | Translated the Corpus Hermeticum and Plato for Cosimo de' Medici, and wrote De vita coelitus comparanda, the election manual that carried Picatrix's practice into respectable Latin |
+| 0 | **Alfonso X el Sabio** | The Castilian king whose scriptorium made the Latin Picatrix and the Alfonsine Tables, the two texts the whole European tradition of electing by the stars is built on |
