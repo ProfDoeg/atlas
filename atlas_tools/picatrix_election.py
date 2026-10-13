@@ -36,6 +36,7 @@ What it does, and what it does not:
     python3 atlas_tools/picatrix_election.py --top 40
 """
 import csv
+import json
 import math
 import re
 import sys
@@ -153,8 +154,26 @@ def read_sky(date):
     }
 
 
+def journey_rows_not_in_catalog(have):
+    """Stops from journeys built after catalog_stops.csv was last regenerated. Read straight from
+    the journey files rather than regenerating the catalog here, which is the pipeline's job."""
+    rows = []
+    for path in sorted(ATLAS.glob("*.journey.json")):
+        slug = path.name[:-len(".journey.json")]
+        if slug in have:
+            continue
+        j = json.load(open(path, encoding="utf-8"))
+        for seg in j.get("segments", []):
+            for st in seg.get("stops", []):
+                rows.append({"slug": slug, "traveler": j.get("traveler", slug),
+                             "segment": seg.get("name", ""), "stop_name": st.get("name", ""),
+                             "date": st.get("date", "")})
+    return rows
+
+
 def collect():
     rows = list(csv.DictReader(open(ATLAS / "catalog_stops.csv", encoding="utf-8")))
+    rows += journey_rows_not_in_catalog({r["slug"] for r in rows})
     out = []
     for r in rows:
         if not day_precise(r["date"]):
