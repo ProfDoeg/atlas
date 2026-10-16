@@ -94,23 +94,82 @@ def works_section(text):
     return out
 
 
+DATEISH = re.compile(r"\b(c|ca|circa|before|after|early|late|mid|approx\w*|undated|posthum\w*|"
+                     r"published|printed|written|composed|various|date|dates|unknown|century|BCE?|AD)\b", re.I)
+
+
+def looks_like_date(s):
+    """Is this leading bold clause a DATE or a TITLE?
+
+    Work lines open with bold either way: "**1489:** *De vita libri tres*" but also
+    "**2 Thessalonians:** divided opinion". Treating every bold opener as a date lost the second kind entirely.
+    A 3-4 digit run means a year; a single digit does not, which is what keeps "2 Thessalonians" and
+    "1 Timothy, 2 Timothy, Titus" on the title side.
+    """
+    return bool(re.search(r"\d{3,4}", s)) or bool(DATEISH.search(s))
+
+
+def table_cells(line):
+    """(title, rest) for one markdown table row, or None for a separator, a header, or a non-row.
+
+    Works given as a table rather than a list. Paul's seven undisputed letters are a table with columns
+    Work / Greek title / date / notes, and so are many musical and architectural catalogues; reading only
+    bullets made those subjects look as though they had written nothing at all.
+    """
+    s = line.strip()
+    if not (s.startswith("|") and s.endswith("|")):
+        return None
+    cells = [c.strip() for c in s.strip("|").split("|")]
+    if not cells or not cells[0]:
+        return None
+    if all(re.fullmatch(r":?-{2,}:?", c) for c in cells if c):
+        return None
+    title = re.sub(r"\*+", "", cells[0]).strip()
+    if not title or looks_like_date(title):
+        return None
+    return title, " · ".join(c for c in cells[1:] if c)
+
+
 def parse(slug, text):
     rows, kind = [], ""
-    for ln in works_section(text):
+    sec = works_section(text)
+    for ln in sec:
         h = H3.match(ln)
         if h:
             kind = h.group(1).strip()
+            continue
+        if ln.strip().startswith("|"):
+            # Parsed inline, not in a second pass, so each row keeps the "###" heading it actually sits under.
+            # A separate pass gave Paul's seven undisputed letters the kind "Speeches", the last heading in his
+            # section, because by then the walk had finished.
+            tc = table_cells(ln)
+            if tc:
+                title, rest = tc
+                hdr = {"work", "title", "obra", "título", "titulo"}
+                if title.lower() in hdr or any(h in title.lower() for h in ("greek title", "approximate date")):
+                    continue                          # the table's own header row
+                ys = [int(y) for y in YEAR.findall(rest) if 100 <= int(y) <= 2100]
+                rows.append({"slug": slug, "kind": kind, "date_text": rest[:160],
+                             "year": min(ys) if ys else None, "title": title, "alt_titles": [], "note": ""})
             continue
         if not re.match(r"^\s*[-*]\s+", ln):
             continue
         body = ln
         m = LEAD_BOLD.match(ln)
-        date_text = ""
+        date_text, bold_title = "", ""
         if m:
-            date_text = m.group(1).strip().rstrip(":")
+            lead = m.group(1).strip().rstrip(":")
+            if looks_like_date(lead):
+                date_text = lead
+            else:
+                bold_title = lead
             body = ln[m.end():]
         titles = [t.strip() for t in ITALIC.findall(body)]
         titles = [t for t in titles if not t.startswith("(")]
+        if not titles and bold_title:
+            titles = [bold_title]                     # "**2 Thessalonians:** divided opinion"
+        elif bold_title:
+            titles = [bold_title] + titles
         ys = [int(y) for y in YEAR.findall(date_text) if 100 <= int(y) <= 2100]
         rows.append({
             "slug": slug,
@@ -119,7 +178,7 @@ def parse(slug, text):
             "year": min(ys) if ys else None,
             "title": titles[0] if titles else "",
             "alt_titles": titles[1:],
-            # A line with no italic title is still a real statement about the corpus ("Numerous short treatises,
+            # A line with no title at all is still a real statement about the corpus ("Numerous short treatises,
             # prayers, orations ... gathered only in the Opera omnia"). Keep its prose so nothing is silently lost.
             "note": "" if titles else re.sub(r"\s+", " ", body).strip(),
         })
@@ -136,6 +195,13 @@ def main():
     for p in files:
         slug = p.name[: -len(".dossier.md")]
         text = p.read_text(encoding="utf-8", errors="replace")
+        # A dossier researched as a biography often lists no works at all: Aby Warburg's has no Works section,
+        # though the Mnemosyne atlas is the thing he is remembered for and his own journey file dates its
+        # beginning to 1924. Rather than rewrite Codex's output, a focused bibliography pass may drop a
+        # dossiers/<slug>.works.md beside it, in the same "## Works by" shape, and it is read here as well.
+        extra = DOSSIERS / f"{slug}.works.md"
+        if extra.exists():
+            text = text + "\n\n" + extra.read_text(encoding="utf-8", errors="replace")
         if not works_section(text):
             no_section.append(slug)
             continue

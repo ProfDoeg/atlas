@@ -1,0 +1,260 @@
+## Works by Ada Falcón
+
+### Compositions
+
+- **13 November 1929:** *Sueño con él*. Vals for which the discography credits Falcón with both music and words; she recorded this first take with Francisco Canaro’s orchestra.
+- **4 December 1929:** *Sueño con él*. Second recorded manifestation of Falcón’s vals, with Canaro’s orchestra.
+- **21 November 1930:** *Pecado mortal*. Tango credited to Falcón as both composer and lyricist, recorded with Canaro’s orchestra.
+
+### Recorded performances with Osvaldo Fresedo
+
+- **8 July 1925:** *Oro y seda*. Tango performance with Fresedo’s orchestra, matrix BA-634. Another account dates the session 15 July, so the day is disputed.
+- **8 July 1925:** *Pobre chica*. Tango performance with Fresedo’s orchestra, matrix BA-635; the competing session date is 15 July.
+- **23 December 1925:** *Risas de cabaret*. Tango performance with Fresedo’s orchestra, matrix BA-731. A specialist narrative instead gives 14 December.
+- **23 December 1925:** *Casquivana*. Tango performance with Fresedo’s orchestra, matrix BA-732; the alternate date is 14 December.
+
+### Recorded performances with the Enrique Delfino trio
+
+- **5 March 1929:** *Entre sueños*. Tango recording, matrix 3799.
+- **5 March 1929:** *Venite conmigo (A ella)*. Tango recording, matrix 3800/1.
+- **5 March 1929:** *Gomina*. Tango recording, matrix 3801.
+- **5 March 1929:** *Carmen*. Vals recording, matrix 3802.
+- **26 April 1929:** *Seria seriola*. Tango recording, matrix 4019.
+- **26 April 1929:** *Adiós, que te vaya bien*. Tango recording, matrix 4020.
+- **2 May 1929:** *Atorrante*. Tango recording, matrix 4031.
+- **2 May 1929:** *Aquel tapado de armiño*. Tango recording, matrix 4032.
+- **4 June 1929:** *Soy un arlequín*. Tango recording, matrix 4171.
+- **4 June 1929:** *Gilito*. Tango recording, matrix 4172/1.
+- **2 July 1929:** *Dequera*. Tango recording, matrix 4298.
+- **20 July 1929:** *Mi gaucha se jue con Dios*. Zamba recording, matrix 4384.
+- **20 July 1929:** *Te tira la milonga*. Tango recording, matrix 4385.
+- **20 July 1929:** *La divina dama*. Vals recording, matrix 4389.
+
+### Recorded performances with Francisco Canaro
+
+- **24 July 1929:** *La morocha*. Tango refrain, matrix 4403; Falcón’s first documented recording with Canaro.
+- **2 August 1929:** *La virgen del perdón*. Recorded as a canción federal, matrix 4430.
+- **12 August 1929:** *Porque lloras muchacha*. Tango recording, matrix 4459.
+- **12 August 1929:** *La traición*. Tango recording, matrix 4460.
+- **12 August 1929:** *La morocha*. New take, matrix 4461.
+- **12 August 1929:** *Sos bueno vos también*. Tango recording, matrix 4462.
+- **19 September 1929:** *La morocha*. Further take, matrix 4461/1.
+- **19 September 1929:** *La virgen del perdón*. Vals version, matrix 4609.
+- **19 September 1929:** *Tengo miedo*. Tango recording, matrix 4610.
+- **19 September 1929:** *Alma de bohemio*. Tango recording, matrix 4611.
+- **25 September 1929:** *Noches de plata*. Vals recording, matrix 4627.
+- **9 October 1929:** *Noche veneciana*. Vals recording, matrix 4677.
+- **9 October 1929:** *Boas noites (Buenas noches)*. Maxixe recording, matrix 4678.
+- **9 October 1929:** *Midinette*. Tango recording, matrix 4679.
+- **16 October 1929:** *Noches de plata*. Second take, matrix 4627/1.
+- **6 November 1929:** *Amor pagano*. Vals recording, matrix 4821.
+- **13 November 1929:** *Pretenciosa*. Tango recording, matrix 4863.
+- **13 November 1929:** *Sueño con él*. Vals composed and performed by Falcón, matrix 4866.
+- **20 November 1929:** *Muñequita de trapo*. Foxtrot recording, matrix 4925.
+- **27 November 1929:** *Amor pagano*. Second take, matrix 4821/1; the discography leaves its lyricist unidentified.
+- **29 November 1929:** *Rosa*. Shimmy recorded for Odeón’s Chilean series, matrix 4973.
+- **29 November 1929:** *Osaka*. Shimmy recorded for Odeón’s Chilean series, matrix 4974.
+- **4 December 1929:** *Sueño con él*. Second recording of Falcón’s own vals, matrix 4999.
+- **10 December 1929:** *De todo te olvidas (Cabeza de novia)*. Tango recording, matrix 5024.
+- **11 December 1929:** *Una noche en la milonga*. Tango recording, matrix 5030.
+- **17 December 1929:** *Hermanita*. Tango recorded for Odeón’s Chilean series, matrix 5091.
+- **17 December 1929:** *Palomita blanca*. Vals recording, matrix 5092.
+- **17 December 1929:** *Margarita silvestre*. Ranchera recording, matrix 5093.
+- **17 December 1929:** *Pensalo bien*. Tango recording, matrix 5094.
+- **17 December 1929:** *Desilusión*. Tango recording, matrix 5095.
+- **23 December 1929:** *Renée*. Vals recording, matrix 5138.
+- **20 March 1930:** *Como anillo al dedo*. Ranchera duet with Charlo, matrix 5269.
+- **21 March 1930:** *Desilusión*. Second take, matrix 5095/1.
+- **21 March 1930:** *Yo nací para ti, tú serás para mí*. Foxtrot recording, matrix 5273.
+- **21 March 1930:** *Vos también tenés tu historia*. Tango recording, matrix 5274.
+- **21 March 1930:** *A mí no me den consejos*. Tango recording, matrix 5275.
+- **22 March 1930:** *La chica del 17*. Pasodoble recording, matrix 5276.
+- **22 March 1930:** *Como anillo al dedo*. Solo-vocal ranchera take, matrix 5277.
+- **9 April 1930:** *Chirimoya*. Tango recording, matrix 5395.
+- **9 April 1930:** *Por no querer mantenerte*. Tango recorded for Odeón’s Chilean series, matrix 5396.
+- **9 April 1930:** *Música de calesita*. Tango recording, matrix 5397.
+- **11 April 1930:** *Santos Vega el payador*. Ranchera recording, matrix 5412.
+- **11 April 1930:** *Metele nomás*. Tango recording, matrix 5413.
+- **11 April 1930:** *Los claveles de Sevilla*. Pasodoble recording, matrix 5414.
+- **11 April 1930:** *Allá en el monte*. Vals recording, matrix 5415.
+- **21 May 1930:** *Amante soñador*. Vals recording, matrix 5609.
+- **21 May 1930:** *Dejá que la gente diga*. Tango recording, matrix 5610.
+- **28 May 1930:** *El desfile del amor*. Foxtrot recording, matrix 5638.
+- **28 May 1930:** *Sentimiento gaucho*. Tango recording, matrix 5639.
+- **4 June 1930:** *Te amo y serás mía*. Tango recording, matrix 5666.
+- **11 June 1930:** *Corazón de oro*. Vals recording, matrix 5702.
+- **13 June 1930:** *Adiós juventud*. Tango recording, matrix 5718.
+- **17 June 1930:** *El desfile del amor*. March version, matrix 5738—not merely a reissue of the May foxtrot.
+- **17 June 1930:** *Cascabelito*. Tango recording, matrix 5739.
+- **20 June 1930:** *Los claveles de Sevilla*. Second recorded take, matrix 5761.
+- **20 June 1930:** *Tierra mía*. Tango recording, matrix 5762.
+- **1 July 1930:** *Destellos*. Tango recording, matrix 5820.
+- **4 July 1930:** *Mirasol*. Ranchera recording, matrix 5846.
+- **11 July 1930:** *Cuando llora la milonga*. Tango recording, matrix 5883.
+- **15 July 1930:** *Adiós juventud*. Second take, matrix 5718/2.
+- **18 July 1930:** *Rumor de la selva*. Vals recording, matrix 5935.
+- **19 July 1930:** *Los treinta y tres*. Tango recording, matrix 5948.
+- **17 September 1930:** *Yira, yira*. Tango recording, matrix 6050.
+- **17 September 1930:** *Yo no sé qué me han hecho tus ojos*. Vals recording, matrix 6051; Canaro, not Falcón, is credited as its author-composer.
+- **24 September 1930:** *La muchacha del tango*. Tango recording, matrix 6087.
+- **24 September 1930:** *Dónde estás, corazón*. Tango recording, matrix 6088.
+- **24 September 1930:** *Flor del campo*. Ranchera recording, matrix 6089.
+- **15 October 1930:** *Sentimiento gaucho*. Unissued duet with Ángel Ramos, matrix 6170. An earlier discography incorrectly posited an additional 30 September recording; Lanner deletes that supposed item.
+- **22 October 1930:** *Rosa blanca*. Vals recording, matrix 6205.
+- **22 October 1930:** *Virgencita del Carmen*. Tango recording, matrix 6206.
+- **14 November 1930:** *Tahy*. Fado recording, matrix 6332.
+- **18 November 1930:** *Ilusión marina*. Vals recording, matrix 6353.
+- **21 November 1930:** *Pecado mortal*. Tango composed and performed by Falcón, matrix 6387.
+- **22 November 1930:** *Morita*. Pasodoble recording, matrix 6388.
+- **22 November 1930:** *Mi destino*. Tango recording, matrix 6389.
+- **26 November 1930:** *En el silencio de la noche*. Vals recording, matrix 6426.
+- **3 December 1930:** *Linyera*. Tango recording, matrix 6465.
+- **3 December 1930:** *Adiós Argentina*. Tango recording, matrix 6466.
+- **10 December 1930:** *Toque de oración (Manchita del 90)*. Tango recording, matrix 6504.
+- **10 December 1930:** *Madre hay una sola*. Tango recording, matrix 6505.
+- **12 December 1930:** *Mosquetero de arrabal*. Tango recording, matrix 6524.
+- **12 December 1930:** *En la palmera*. Ranchera recording, matrix 6525.
+- **13 December 1930:** *Tus besos fueron míos*. Tango recording, matrix 6542.
+- **20 March 1931:** *En el silencio de la noche*. Second take, matrix 6426/1.
+- **27 March 1931:** *Consuelo*. Pasodoble recording, matrix 6594.
+- **27 March 1931:** *Chistando*. Tango recording, matrix 6603.
+- **7 April 1931:** *Confesión*. Tango recording, matrix 6615.
+- **22 April 1931:** *Besos de miel*. Foxtrot performed with Charlo and chorus, matrix 6645.
+- **22 April 1931:** *La última copa*. Tango recording, matrix 6646.
+- **13 May 1931:** *Cascabeles*. Pasodoble recording, matrix 6686.
+- **20 May 1931:** *Aura viene lo más güeno*. Ranchera recording, matrix 6695.
+- **12 June 1931:** *España mía*. Pasodoble recording, matrix 6727.
+- **24 June 1931:** *Las vueltas de la vida*. Tango recording, matrix 6732.
+- **8 July 1931:** *Lo que nunca te dirán*. Tango recording, matrix 6757.
+- **15 July 1931:** *Florcita criolla*. Vals recording, matrix 6765.
+- **5 August 1931:** *La garçonnière*. Tango recording, matrix 6811.
+- **26 August 1931:** *Qué sapa, señor*. Tango recording, matrix 6831.
+- **26 August 1931:** *El cantor de Sevilla*. Pasodoble recording, matrix 6832.
+- **2 September 1931:** *Madreselva*. Tango recording, matrix 6839.
+- **2 September 1931:** *Un viejo amor*. Vals recording, matrix 6840.
+- **9 October 1931:** *Sueño de juventud*. Vals recording, matrix 6893.
+- **23 October 1931:** *Por qué será*. Tango recording, matrix 6911.
+- **21 November 1931:** *Maldita*. Tango recording, matrix 6964.
+- **21 November 1931:** *Lupe*. Vals recording, matrix 6965.
+- **4 December 1931:** *Canta guitarra*. Pasodoble recording, matrix 6971.
+- **17 December 1931:** *Tiempos viejos (¿Te acordás, hermano?)*. Tango recording, matrix 6987.
+- **31 December 1931:** *Si tú fueras mi novia*. Foxtrot recording, matrix 7012.
+- **31 December 1931:** *La chiruza*. Ranchera recording, matrix 7013.
+- **12 January 1932:** *He buscado en cien bocas tu beso*. Vals recording, matrix 7030.
+- **12 January 1932:** *Nunca más*. Tango recording, matrix 7031.
+- **20 February 1932:** *Senza mamma e senza amore*. Neapolitan-song recording, matrix 7048.
+- **20 February 1932:** *Dama española*. Pasodoble recording, matrix 7049.
+- **18 March 1932:** *La marcha nupcial*. Tango recording, matrix 7071.
+- **21 March 1932:** *Clyde*. Vals recording, matrix 7081.
+- **11 April 1932:** *Créase o no*. Tango with chorus, matrix 7099.
+- **15 April 1932:** *Soy tu esclavo*. Pasodoble recording, matrix 7106.
+- **21 April 1932:** *Canto por no llorar*. Tango recording, matrix 7111.
+- **4 May 1932:** *Ventanita florida*. Tango recording, matrix 7124.
+- **4 May 1932:** *Hay que aguantar*. Ranchera recording, matrix 7125.
+- **13 May 1932:** *El rosal*. Song recording, matrix 7139.
+- **27 May 1932:** *Coplas y toros*. Pasodoble recording, matrix 7151.
+- **23 June 1932:** *Rosa reseca*. Tango recording, matrix 7169.
+- **14 July 1932:** *Te quiero*. Tango-canción recording, matrix 7188.
+- **18 July 1932:** *Para ti, madre*. Vals recording, matrix 7193.
+- **18 July 1932:** *El anillo de oro*. Tango recording, matrix 7194.
+- **22 July 1932:** *Me enamoré una vez*. Ranchera recording, matrix 7198.
+- **25 July 1932:** *Rosa de amor*. Tango recording, matrix 7200.
+- **12 August 1932:** *El jardín del amor*. Vals recording, matrix 7211.
+- **12 August 1932:** *La Ribera*. Pasodoble-march recording, matrix 7212.
+- **29 August 1932:** *La muchachada del centro*. Tango recording, matrix 7220.
+- **29 August 1932:** *Castañuelas*. Pasodoble recording, matrix 7221.
+- **23 September 1932:** *Copa de amargura*. Tango recording, matrix 7246.
+- **13 October 1932:** *Quién hubiera dicho*. Tango recording, matrix 7263.
+- **22 October 1932:** *Guitarra española*. Pasodoble recording, matrix 7276.
+- **29 October 1932:** *Cariño de madre*. Vals recording, matrix 7282.
+- **10 November 1932:** *El trapero*. Tango recording, matrix 7288.
+- **12 December 1932:** *Secreto*. Tango recording, matrix 7306.
+- **12 December 1932:** *Yo te adoro, bandoneón*. Tango recording, matrix 7307.
+- **12 December 1932:** *Rencor*. Tango recording, matrix 7310.
+- **12 December 1932:** *Milonga sentimental*. Milonga recording, matrix 7311.
+- **9 February 1933:** *Ventarrón*. Tango recording, matrix 7336.
+- **14 February 1933:** *Las margaritas*. Ranchera recording, matrix 7341.
+- **16 March 1933:** *Si yo fuera millonario*. Tango recording, matrix 7374.
+- **16 March 1933:** *El cantar de los gitanos*. Pasodoble recording, matrix 7375.
+- **28 April 1933:** *Juramento*. Tango recording, matrix 7411.
+- **28 April 1933:** *Yo quiero que sepas*. Tango recording, matrix 7412.
+- **12 May 1933:** *El trovero*. Vals recording, matrix 7422.
+- **19 May 1933:** *Andate (No te vayas)*. Tango recording, matrix 7435.
+- **16 June 1933:** *Tres esperanzas*. Tango recording, matrix 7448.
+- **30 June 1933:** *Lo que vieron mis ojos*. Vals recording, matrix 7460.
+- **26 July 1933:** *Acacias*. Tango recording, matrix 7475.
+- **26 July 1933:** *Dónde hay un mango*. Ranchera with chorus, matrix 7476.
+- **17 August 1933:** *Mi viejo amor*. Tango recording, matrix 7492.
+- **24 August 1933:** *Quedé penando*. Recorded estilo, matrix 7505.
+- **1 September 1933:** *Plegaria*. Vals recording, matrix 7517.
+- **9 September 1933:** *Si soy así*. Tango with chorus, matrix 7526.
+- **19 October 1933:** *Sufro*. Tango recording, matrix 7563.
+- **20 October 1933:** *Amor es amar*. Vals recording, matrix 7573.
+- **21 November 1933:** *Telarañas*. Tango recording, matrix 7603.
+- **21 November 1933:** *El florero*. Flamenco-song recording, matrix 7604.
+- **13 December 1933:** *Quisiera amarte menos*. Vals recording, matrix 7612.
+- **13 December 1933:** *No quiero verlo más*. Tango recording, matrix 7613.
+- **17 February 1934:** *Diez años*. Tango recording, matrix 7630.
+- **17 February 1934:** *Ya vendrán tiempos mejores*. Tango with a counter-vocal by Canaro, matrix 7631.
+- **27 March 1934:** *La mejorana*. Pasodoble recording, matrix 7659.
+- **27 March 1934:** *La cachetada*. Tango recording, matrix 7660.
+- **28 April 1934:** *Yo no sé por qué te quiero*. Tango recording, matrix 7685.
+- **30 April 1934:** *Los amores con la crisis*. Ranchera recording, matrix 7690.
+- **4 May 1934:** *El casamiento no me interesa*. Foxtrot take, matrix 7694.
+- **4 May 1934:** *Un jardín de ilusión*. Vals performed with Ernesto Famá, matrix 7695.
+- **18 May 1934:** *La canción de los barrios*. Pasodoble-march with chorus, matrix 7714.
+- **18 May 1934:** *El casamiento no me interesa*. Second foxtrot take, matrix 7715.
+- **13 June 1934:** *Un jardín de ilusión*. New collaborative manifestation with Ignacio Corsini, matrix 7745.
+- **10 August 1934:** *Suavemente*. Foxtrot recording, matrix 7796.
+- **10 August 1934:** *El pescante*. Tango recording, matrix 7797.
+- **9 October 1934:** *Madrecita de Pompeya*. Tango recording, matrix 7843.
+- **9 October 1934:** *Por qué cierras los ojos cuando besas*. Vals recording, matrix 7844.
+- **23 August 1935:** *Tangón*. Recording classified contemporaneously as a “nueva danza,” matrix 8293.
+- **25 August 1935:** *Aunque no lo crean*. Tango recording, matrix 8298.
+- **25 August 1935:** *Las chicas del día*. Ranchera with counter-vocal by Canaro, matrix 8299.
+- **25 August 1935:** *Casas viejas*. Tango duet with Charlo, matrix 8300.
+- **20 September 1935:** *Tú y yo*. Vals recording, matrix 8316.
+- **20 September 1935:** *No hay amor para mí sin tu amor*. Foxtrot duet with Charlo, matrix 8317.
+- **20 September 1935:** *Rascacielos (Mi Buenos Aires)*. March-bolero recording, matrix 8320.
+- **21 September 1935:** *La copla porteña*. Tango recording, matrix 8321.
+- **7 September 1936:** *Cómo te quiero*. Tango recording, matrix 8742.
+- **7 September 1936:** *El bichito del amor*. Ranchera recording, matrix 8743.
+- **16 September 1936:** *Qué le importa al mundo*. Tango recording, matrix 8748.
+- **16 September 1936:** *El porteño*. “Nuevo tangón” recording, matrix 8749.
+- **19 September 1936:** *Envidia*. Tango recording, matrix 8752.
+- **8 October 1936:** *Cariño*. Vals-romanza performed with Agustín Irusta and Roberto Fugazot, matrix 8787.
+- **12 May 1937:** *Mal de ausencia*. Tango recording, matrix 9001.
+- **12 May 1937:** *Jamás*. Ranchera recording, matrix 9002.
+- **12 May 1937:** *Mi corazón*. Vals recording, matrix 9003.
+- **12 May 1937:** *Resentimiento*. Tango recording, matrix 9004.
+- **29 September 1937:** *Esperar*. Vals recording, matrix 9174.
+- **29 September 1937:** *El día que yo pueda*. Tango recording, matrix 9175.
+- **23 May 1938:** *Cuando el corazón*. Tango recording, matrix 9425.
+- **23 May 1938:** *Milonga del corazón*. Milonga recording, matrix 9426.
+- **28 September 1938:** *Milongón*. Milongón recording, matrix 9636.
+- **28 September 1938:** *Nada más*. Tango recording, matrix 9637.
+- **28 September 1938:** *Salú, salú*. Rumba recording, matrix 9638.
+- **28 September 1938:** *No mientas*. Tango recording, matrix 9639; one of her final manifestations with Canaro.
+
+### Final recordings with Roberto Garza’s orchestra
+
+- **4 August 1942:** *Corazón encadenado*. Tango recording, matrix 12142; composed by Francisco Canaro with words by Ivo Pelay.
+- **4 August 1942:** *Viviré con tu recuerdo*. Vals recording, matrix 12143; the reverse side of Falcón’s last original disc and not a composition by her.
+
+### Film performances
+
+- **1918 or 1919:** *El festín de los caranchos*. Performance in a silent film; sources disagree on the year, and the film itself is not Falcón’s authored obra.
+- **1925:** *Tu cuna fue un conventillo*. Leading performance in Julio Irigoyen’s silent adaptation of Alberto Vacarezza’s sainete, released 15 May; this is an acting contribution, not authorship of the film or source text.
+- **1934:** *Ídolos de la radio* (also exhibited as *Ídolos de Buenos Aires*). Co-starring acting-and-singing performance in Eduardo Morera’s sound film, released 24 October; the film is a collaborative manifestation directed and written by others.
+
+### Sources
+
+- Federico “FedeVes,” [“Ada Falcón – Discografia,” *La Milonga di Alvin*](https://milongandoblog.wordpress.com/2017/07/10/ada-falcon-discografia/). Chronological discography of 223 matrices, compiled from Tango-DJ.AT, Tango.info, and Christoph Lanner; the principal source for individual recording entries.
+- Christoph Lanner, [*Discografía de Francisco Canaro: Prefacio*](https://sites.google.com/site/franciscocanarodiscografia/prefacio). Critical discography explaining its documentary sources and corrections, including deletion of the supposed 30 September 1930 *Sentimiento gaucho*.
+- Néstor Pinsón, [“Ada Falcón,” Todo Tango](https://www.todotango.com/creadores/biografia/148/Ada-Falcon/). Specialist biographical overview; reports four Fresedo sides, fourteen Delfino sides, “around 180” appearances with Canaro, and the two final 1942 recordings. Its approximate Canaro total conflicts with the 203 Canaro entries counted by the fuller matrix discography.
+- Oscar Zucchi, [interview/history of Osvaldo Fresedo](https://www.fresedo.de/p/entrevisto-por-oscar-zucchi.html). Identifies the four Fresedo-accompanied sides and supplies the competing July and December 1925 session dates.
+- [Fresedo recordings in 1925](https://www.fresedo.de/p/fresedo-en-1924_30.html). Matrix-level Fresedo chronology supporting the early RCA Victor recordings while illustrating the date discrepancies.
+- Pablo Taboada, [“Ada Falcón,” Investigación Tango](https://www.investigaciontango.com/inicio/index.php?Itemid=56&catid=36%3Acancionistas&id=73%3Amujeres&option=com_content&view=article). Documentary biographical chronology and contemporary-record references.
+- [*Tu cuna fue un conventillo*](https://es.wikipedia.org/wiki/Tu_cuna_fue_un_conventillo_%28pel%C3%ADcula%29). Film description, release date, director, source play, and cast, citing histories of Argentine cinema.
+- [*Ídolos de la radio*](https://es.wikipedia.org/wiki/%C3%8Ddolos_de_la_radio). Film title variant, director, writers, cast, and release date, citing Raúl Manrupe and María Alejandra Portela’s *Un diccionario de films argentinos (1930–1995)*.
+- [“Ada Falcón: la estrella que renunció a la fama y la fortuna para recluirse en un convento,” *La Nación*](https://www.lanacion.com.ar/espectaculos/personajes/ada-falcon-estrella-renuncio-fama-fortuna-recluirse-nid2333143/). Independent account of her participation in the three films and of the uncertain early-film chronology.
