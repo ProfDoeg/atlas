@@ -1,0 +1,390 @@
+## Works by Friedrich August von Hayek
+
+### Projects and book-length obra
+
+- **1929:** *Geldtheorie und Konjunkturtheorie*. A theoretical monograph on money and business cycles, later manifested in English as *Monetary Theory and the Trade Cycle*.
+- **1929:** *Das Mieterschutzproblem: Nationalökonomische Betrachtungen*. A jointly researched policy monograph on rent control; later English versions appear as “The Repercussions of Rent Restriction.”
+- **1931:** *Prices and Production*. A book made from Hayek’s London lectures; later editions substantially revised the argument.
+- **1937:** *Monetary Nationalism and International Stability*. A short monetary-policy monograph developed from lectures.
+- **1939:** *Freedom and the Economic System*. A political pamphlet and precursor to *The Road to Serfdom*.
+- **1939:** *Profits, Interest and Investment, and Other Essays on the Theory of Industrial Fluctuations*. An author-assembled essay collection, not a single continuous treatise.
+- **1941:** *The Pure Theory of Capital*. A technical monograph and the completed portion of a larger capital-theory undertaking that Hayek never finished.
+- **1940–1944:** *The Abuse and Decline of Reason*. An unfinished four-part project rather than a completed book. Its fragments became “Individualism: True and False,” “Scientism and the Study of Society,” “The Counter-Revolution of Science,” “Comte and Hegel,” and *The Road to Serfdom*.
+- **1944:** *The Road to Serfdom*. A political-economic warning and public intervention—almost a manifesto in its intended effect—produced from the final portion of the unfinished *Abuse and Decline of Reason* project.
+- **1945:** *The Case of the Tyrol*. A collectively authored political pamphlet by Hayek, George Franckenstein, Archduke Robert of Austria, and others; Hayek’s individual share is not separately identified in the bibliography.
+- **1948:** *Individualism and Economic Order*. An author-selected collection of previously separate essays; its unity is conceptual rather than compositional.
+- **1951:** *John Stuart Mill and Harriet Taylor: Their Friendship and Subsequent Marriage*. A documentary intellectual biography built around edited correspondence, so it is simultaneously Hayek’s study and an archival construction from other people’s texts.
+- **1952:** *The Counter-Revolution of Science: Studies on the Abuse of Reason*. A composite book assembled from separately published portions of the unfinished *Abuse and Decline of Reason* project; it should not be mistaken for completion of that project.
+- **1952:** *The Sensory Order: An Inquiry into the Foundations of Theoretical Psychology*. A theoretical-psychology monograph developed from a student manuscript begun around 1920 and extensively remade decades later.
+- **1954:** *Economic Myths of Early Capitalism*. A short historical pamphlet derived from Hayek’s contribution to *Capitalism and the Historians*.
+- **1955:** *The Political Ideal of the Rule of Law*. A lecture-derived monograph whose argument was later absorbed into *The Constitution of Liberty*.
+- **1960:** *The Constitution of Liberty*. A systematic treatise in political philosophy, law, and political economy.
+- **1965:** *Was der Goldwährung geschehen ist: Ein Bericht aus dem Jahre 1932 mit zwei Ergänzungen*. A republication of a 1932 monetary report with two newly made supplements; thus partly an old work and partly a new composite.
+- **1967:** *Studies in Philosophy, Politics and Economics*. An authorial essay collection joining works first made for different occasions.
+- **1969:** *Freiburger Studien*. A German-language essay collection, partly overlapping earlier English collections rather than constituting wholly new works.
+- **1972:** *A Tiger by the Tail: The Keynesian Legacy of Inflation*. A retrospective montage of Hayek’s four decades of commentary, selected and edited by Sudha Shenoy; it resists classification as a newly written book.
+- **1973:** *Law, Legislation and Liberty, Volume 1: Rules and Order*. The first book of a three-volume treatise on evolved rules and legal order.
+- **1975:** *Full Employment at Any Price?* A policy lecture issued as an Institute of Economic Affairs occasional paper.
+- **1976:** *Law, Legislation and Liberty, Volume 2: The Mirage of Social Justice*. The second book of the trilogy.
+- **1976:** *Choice in Currency: A Way to Stop Inflation*. A monetary-reform pamphlet proposing freedom to use competing currencies.
+- **1976; revised 1978:** *Denationalisation of Money: The Argument Refined*. A policy monograph and institutional design proposal—part analysis, part protocol for competitive currency issue.
+- **1978:** *Economic Progress in an Open Society*. A separately issued lecture or pamphlet; the bibliography records its Seoul publication but provides little further object history.
+- **1978:** *New Studies in Philosophy, Politics, Economics and the History of Ideas*. An authorial collection of heterogeneous essays, lectures, and memorial pieces.
+- **1979:** *Law, Legislation and Liberty, Volume 3: The Political Order of a Free People*. The final book of the trilogy and a constitutional-design project as well as a treatise.
+- **1979:** *Unemployment and Monetary Policy: Government as Generator of the “Business Cycle”*. A lecture-derived policy monograph.
+- **1980:** *1980s Unemployment and the Unions*. A collection of essays directed at Britain’s wage structure and union monopolies.
+- **1982:** *Law, Legislation and Liberty*. The three-volume project gathered into one manifestation; it is not a fourth independent work.
+- **1983:** *Knowledge, Evolution and Society*. A short collection or pamphlet whose components originated as lectures and essays.
+- **1983:** *Our Moral Heritage*. A lecture-derived pamphlet on evolved moral rules.
+- **1983:** *Evolution und spontane Ordnung*. A German collection of evolutionary and social-order writings, not wholly new composition.
+- **1988:** *The Fatal Conceit: The Errors of Socialism*. Published as Hayek’s final book and edited by W. W. Bartley III, but its authorship is disputed: scholars have argued that Bartley substantially rewrote or may largely have composed the published text. It is therefore best treated as a contested collaborative manifestation rather than an uncomplicated Hayek monograph.
+- **1989:** *Order—With or Without Design?* A post-compositional selection compiled and introduced by Naomi Moldofsky; the selection is a later manifestation, not a new book made solely by Hayek.
+- **1991:** *Economic Freedom*. A post-compositional collection of previously made monetary, political, and policy texts.
+- **1991:** *The Trend of Economic Thinking*. A post-compositional scholarly collection of Hayek’s essays on economists and economic history.
+- **1992:** *The Fortunes of Liberalism*. A post-compositional collection of essays on Austrian economics and liberalism.
+- **1994:** *Hayek on Hayek: An Autobiographical Dialogue*. A posthumously published oral-history construction edited by Stephen Kresge and Leif Wenar; Hayek supplied the recorded recollections, but the resulting book-form was editorially made after his death.
+
+### Edited and documentary constructions
+
+- **1931:** *Essai sur la nature du commerce en général / Abhandlung über die Natur des Handels im allgemeinen*. Hayek edited Richard Cantillon’s work, supplied an introduction and annotations, and worked with Hella Hayek’s German translation; the underlying treatise is Cantillon’s, not Hayek’s obra.
+- **1933:** *Beiträge zur Geldtheorie*. An edited collection on monetary theory; Hayek made the selection and editorial frame, not all the constituent essays.
+- **1935:** *Collectivist Economic Planning*. An edited documentary and argumentative collection to which Hayek also contributed original introductory essays.
+- **1934–1936:** *The Collected Works of Carl Menger*. A four-volume editorial project with Hayek’s introductions and bibliography; Menger’s writings remain Menger’s works.
+- **1954:** *Capitalism and the Historians*. An edited collection and historiographical intervention containing Hayek’s own introductory and concluding material.
+- **1971:** *Toward Liberty*. A collaborative Festschrift-editing project for Ludwig von Mises; Hayek was one of several editors and contributed “Principles or Expediency?”
+- **1984:** *The Essence of Hayek*. A selection edited by Chiaki Nishiyama and Kurt R. Leube. Although bibliographies sometimes file the volume under Hayek, its compilation is principally the editors’ creation.
+
+### Economic and methodological articles
+
+- **1921:** *Der nordische nationalökonomische Kongreß in Stockholm, August bis September 1920*. A report on an economics congress.
+- **1922:** *Die österreichischen Güter, Rechte und Interessen in Italien*. A short legal-economic article.
+- **1925:** *Das amerikanische Bankwesen seit der Reform von 1914*. A four-part survey article on American banking.
+- **1925/1927:** *Die Währungspolitik der Vereinigten Staaten seit der Überwindung der Krise von 1920*. A long monetary study; the bibliography records both 1925 and 1927 manifestations, whose relationship is not made fully explicit.
+- **1926:** *Die Bedeutung der Konjunkturforschung für das Wirtschaftsleben*. An article advocating systematic business-cycle research.
+- **1926:** *Einige Bemerkungen über das Zurechnungsproblem*. A technical article on imputation.
+- **1927:** *Zur Problemstellung der Zinstheorie*. A technical article on interest theory.
+- **1927–1931:** *Monatsberichte des Österreichischen Instituts für Konjunkturforschung*. A continuing institutional report series produced under Hayek’s direction; individual authorship within every issue is not separable, so the series resists treatment as a set of wholly personal works.
+- **1928:** *Einige Bemerkungen über das Verhältnis der Geldtheorie zur Konjunkturtheorie*. An article joining monetary theory to business-cycle theory.
+- **1928:** *Das intertemporale Gleichgewichtssystem der Preise und die Bewegungen des “Geldwertes”*. A technical article on intertemporal equilibrium.
+- **1928:** *Diskussionsbeitrag* in *Wandlungen des Kapitalismus*. A recorded conference intervention, not a freestanding essay.
+- **1929:** *Gibt es einen Widersinn des Sparens?* An article on saving, later known in English as “The Paradox of Saving.”
+- **1929:** *Hermann Heinrich Gossen*. An intellectual-biographical essay.
+- **1931:** *The “Paradox” of Saving*. The English manifestation and development of Hayek’s saving argument.
+- **1931:** *Richard Cantillon*. A historical introduction and biographical-economic study.
+- **1931:** *Wirkungen der Mietzinsbeschränkungen*. A conference paper on rent restrictions.
+- **1932:** *Capital Consumption*. A technical capital-theory article.
+- **1932:** *Money and Capital: A Reply*. A reply in an economic controversy.
+- **1932:** *A Note on the Development of the Doctrine of “Forced Saving”*. A history-of-economic-thought article.
+- **1933:** *Control of Armaments*. A very short policy intervention.
+- **1933:** *Über neutrales Geld*. A monetary-theory article.
+- **1933:** *Saving*. An encyclopedia-style analytical essay later collected in *Profits, Interest and Investment*.
+- **1933:** *The Trend of Economic Thinking*. An inaugural lecture and methodological history of economics.
+- **1933:** *Untitled contribution to Der Stand und die nächste Zukunft der Konjunkturforschung*. An untitled Festschrift contribution; its resistance to a stable title is bibliographic fact.
+- **1934:** *Capital and Industrial Fluctuations: A Reply to Criticisms*. A technical reply article.
+- **1934:** *Carl Menger*. A substantial intellectual biography originally made as an introduction to Menger’s collected works.
+- **1934:** *On the Relationship between Investment and Output*. A technical economics article.
+- **1935:** *The Maintenance of Capital*. A technical capital-theory article.
+- **1935:** *Price Expectations, Monetary Disturbances and Malinvestments*. A business-cycle essay.
+- **1935:** *The Nature and History of the Problem*. Hayek’s first substantive introduction to the socialist-calculation debate.
+- **1935:** *The Present State of the Debate*. His second introductory essay for *Collectivist Economic Planning*.
+- **1935:** *A Regulated Gold Standard*. A newspaper article on monetary institutions.
+- **1936:** *A “Scientific” Civilization*. A short methodological and political essay.
+- **1936:** *Technical Progress and Excess Capacity*. A capital-and-production article.
+- **1936:** *The Mythology of Capital*. A technical critique in capital theory.
+- **1936:** *Utility Analysis and Interest*. A technical article connecting value and interest theory.
+- **1937:** *Economics and Knowledge*. A methodological lecture/article that marked a major shift toward problems of dispersed knowledge and coordination.
+- **1937:** *Investment That Raises the Demand for Capital*. A short technical article.
+- **1939:** *The Economy of Capital*. A brief economic essay.
+- **1939:** *An Anglo-French Federation*. A wartime proposal.
+- **1939:** *Mr. Keynes and War Costs*. A policy response to Keynes.
+- **1939:** *Pricing versus Rationing*. A wartime economic-policy article.
+- **1939:** *The Economic Conditions of Interstate Federalism*. An essay proposing economic conditions for durable federation.
+- **1939:** *War Aims*. A short wartime intervention.
+- **1939:** *Contributions to the Colloque Walter Lippmann*. Recorded discussion interventions rather than a single authored essay.
+- **1940:** *How We Can Do It*. A short wartime policy article.
+- **1940:** *The Competitive “Solution”*. The third essay in Hayek’s sequence on socialist calculation.
+- **1941:** *The Economics of Planning*. A wartime planning essay.
+- **1941:** *Knowledge of Germany*. A wartime political analysis.
+- **1941:** *Nazi Order*. A short analysis of National Socialist organization.
+- **1941:** *Planning, Science and Freedom*. An article acting simultaneously as methodological criticism and political warning.
+- **1941:** *Maintaining Capital Intact: A Reply*. A technical reply to A. C. Pigou.
+- **1942–1944:** *Scientism and the Study of Society*. A serialized methodological essay made as part of the unfinished *Abuse and Decline of Reason* project.
+- **1943:** *The Counter-Revolution of Science*. A serialized intellectual-history essay and fragment of the same unfinished project.
+- **1943:** *Comte and Hegel*. An intellectual-history essay from the project.
+- **1943:** *The Facts of the Social Sciences*. A methodological essay.
+- **1944:** *On Being an Economist*. A lecture on the economist’s vocation.
+- **1944:** *Historians and the Future of Europe*. A historiographical and political essay.
+- **1944:** *Richard von Strigl*. A memorial-biographical notice.
+- **1944:** *No Totalitarianism by the Back Door!*. A newspaper intervention.
+- **1944:** *Good and Bad Unemployment Policies*. A newspaper policy article.
+- **1945:** *The Historians’ Responsibility*. A historiographical polemic.
+- **1945:** *Individualism: True and False*. A lecture and essay originally conceived as the opening of the unfinished *Abuse and Decline of Reason* project.
+- **1945:** *Is There a German Nation?* A postwar political essay.
+- **1945:** *Essential Liberties*. A short political article.
+- **1945:** *A Plan for the Future of Germany*. A postwar reconstruction proposal.
+- **1945:** *The Re-education of Germany*. A short postwar policy article.
+- **1945:** *State Boss Makes State Slaves*. A popular newspaper polemic.
+- **1945:** *Time-Preference and Productivity: A Reconsideration*. A technical economics article.
+- **1945:** *The Use of Knowledge in Society*. An economic essay on dispersed knowledge and coordination.
+- **1946:** *Austria: Advance Post in Europe*. A newspaper article on Austria’s postwar position.
+- **1946:** *Full Employment Illusions*. A policy article.
+- **1946:** *The London School of Economics, 1895–1945*. An institutional history.
+- **1946:** *The Meaning of Competition*. A lecture/article redefining competition as a process.
+- **1947:** *Opening Address to a Conference at Mont Pèlerin*. A founding speech that acted institutionally: it helped constitute the Mont Pèlerin Society and therefore approaches a manifesto.
+- **1947:** *Sound Advice*. A short public article.
+- **1947:** *The Man in the Planned Economy*. A lecture on planning and personhood.
+- **1947:** *Problems and Difficulties of the English Economy*. A postwar economic survey.
+- **1947:** *Re-Nazification at Work*. A political newspaper article.
+- **1947:** *“Free Enterprise” and Competitive Order*. An essay distinguishing laissez-faire slogans from an institutional competitive order.
+- **1948:** *The Tragedy of Organised Humanity: de Jouvenel on Power*. A review-essay.
+- **1948:** *The Webbs and Their Work*. A critical intellectual portrait.
+- **1949:** *The Economics of Development Charges*. A policy-analysis essay, also issued as “A Levy on Increasing Efficiency.”
+- **1949:** *The Great Illusion*. A political-economic article.
+- **1949:** *The Intellectuals and Socialism*. An essay on the transmission of political ideas.
+- **1949:** *What Is Mind?* A public article related to the psychological project that became *The Sensory Order*, but not identical with the book.
+- **1950:** *Economics: A Survey*. An encyclopedia article.
+- **1950:** *Full Employment, Planning and Inflation*. A policy essay.
+- **1950:** *Equality and Justice*. A published extract from a lecture.
+- **1951:** *Worldwide Shortcomings of Wartime Planning*. A newspaper economic article.
+- **1951:** *The Transmission of the Ideals of Economic Freedom*. A lecture/article about intellectual tradition.
+- **1952:** *Liberalism Yesterday and Today*. A historical-political essay.
+- **1952:** *The Injustice of Progressive Taxation*. A fiscal-policy essay.
+- **1953:** *The Case Against Progressive Income Taxes*. An English-language fiscal polemic related to the preceding German essay.
+- **1953:** *Leftist Foreign Correspondents*. A short press comment.
+- **1953:** *The Rise and Decline of the Rule of Law*. A four-part periodical essay.
+- **1953:** *Substitute for Foreign Aid*. A development-policy article.
+- **1954:** *History and Politics*. A historiographical essay.
+- **1954:** *The Treatment of Capitalism by Historians*. Hayek’s framing contribution to *Capitalism and the Historians*.
+- **1954:** *The Political Ideal of the Rule of Law*. A lecture whose separate publication followed in 1955.
+- **1954:** *Market Economy and Economic Policy*. An institutional-economic essay.
+- **1955:** *Degrees of Explanation*. A philosophy-of-science essay.
+- **1955:** *Discussion of Simon Kuznets’s “Toward a Theory of Economic Growth”*. A recorded response, not an autonomous article.
+- **1956:** *The Dilemma of Specialization*. An essay on intellectual specialization.
+- **1956:** *The Road to Serfdom after Twelve Years*. A retrospective reassessment.
+- **1956:** *The Meaning of Social Institutions*. A methodological essay.
+- **1957:** *The Facts of Progress*. A political-economic essay.
+- **1957:** *What Is “Social”? What Does It Mean?* A conceptual essay.
+- **1958:** *The Creative Powers of a Free Civilization*. An essay later incorporated into *The Constitution of Liberty*.
+- **1959:** *Freedom and Independence*. A political-philosophical essay.
+- **1959:** *Inflation and Welfare Stateism*. A policy article.
+- **1959:** *Political Liberalism*. An encyclopedia article.
+- **1959:** *The Free Market Economy: The Most Efficient Way of Solving Economic Problems*. A popular explanatory article.
+- **1959:** *Structural Policy and Competitive Economy*. A policy essay.
+- **1959:** *Unions, Inflation, and Profits*. A labor-and-monetary-policy essay.
+- **1959:** *Responsibility and Freedom*. A philosophical lecture/article.
+- **1960:** *The Corporation in a Democratic Society*. An essay on corporate power and responsibility.
+- **1960:** *Discussion contribution in Man’s Expanding World in an Expanding Universe*. A recorded intervention without a separate title.
+- **1960:** *Freedom, Reason and Tradition*. A conference address later developed within *The Constitution of Liberty*.
+- **1962:** *Rules, Perception, and Intelligibility*. A theoretical essay connecting psychology and rule-following.
+- **1962:** *The Use of “Gresham’s Law” as an Illustration of “Historical Theory”*. A short methodological case study.
+- **1962:** *Economy, Science and Politics*. A university address.
+- **1963:** *Kinds of Order*. A theoretical essay on made and spontaneous orders.
+- **1963:** *The Economics of the 1930s as Seen from London*. An autobiographical history-of-economics essay.
+- **1963:** *Law, Legislation and Economic Freedom*. A legal-political essay.
+- **1963:** *The Legal and Political Philosophy of David Hume*. An intellectual-history essay.
+- **1963:** *Old Truths and New Errors*. A political-economic essay.
+- **1964:** *Kinds of Rationalism*. A philosophical essay.
+- **1965:** *The Opinions of the Majority and Contemporary Democracy*. A political-theory essay.
+- **1965:** *A Model Development Policy: Impressions from Taiwan*. A newspaper report from a study journey.
+- **1965:** *The Austrian School of Economics*. An encyclopedia-style historical essay.
+- **1966:** *Discussion of Ernst Mach and Social-Scientific Thought in Vienna*. A recorded symposium intervention.
+- **1966:** *Impressions of German University Teaching*. A newspaper essay.
+- **1966:** *Personal Recollections of Keynes and the “Keynesian Revolution”*. A memoir-essay.
+- **1966:** *Dr. Bernard Mandeville*. An intellectual-history lecture.
+- **1966:** *The Misconception of Human Rights as Positive Claims*. A political-philosophical article.
+- **1966:** *A Self-Generating Order for Society*. A short theoretical essay.
+- **1967:** *Notes on the Evolution of Systems of Rules of Conduct*. An evolutionary social-theory essay.
+- **1967:** *The Results of Human Action but Not of Human Design*. An essay on spontaneous order.
+- **1967:** *The Theory of Complex Phenomena*. A methodological essay.
+- **1968:** *The Primacy of the Abstract*. A theoretical essay connecting perception, rules, and cognition.
+- **1968:** *The Confusion of Language in Political Thought*. A conceptual-political essay.
+- **1968:** *The Constitution of a Liberal State*. A short constitutional essay.
+- **1968:** *Competition as a Discovery Procedure*. An economic lecture/article.
+- **1968:** *Untitled address for Leonard Read’s seventieth birthday*. A commemorative speech whose lack of title should be preserved rather than repaired.
+- **1968:** *History of Commerce*. An encyclopedia article made with J. C. Rees; the division of authorship is not stated in the bibliography.
+- **1969:** *Market Economy or Syndicalism?* A separately printed political-economic address.
+- **1969:** *Scientism*. A dictionary-of-sociology entry.
+- **1970:** *The Errors of Constructivism and the Foundations of Legitimate Criticism of Social Formations*. A philosophical lecture/article.
+- **1971:** *Liberals and Conservatives*. A newspaper political essay.
+- **1971:** *Nature versus Nurture Once Again*. A short scientific-philosophical article.
+- **1971:** *Principles or Expediency?* A Festschrift essay that operates partly as a manifesto for rule-governed liberal politics.
+- **1972:** *The Illusion of a Just Income Policy*. A newspaper policy article.
+- **1972:** *The Repercussions of Rent Restriction*. A revised English manifestation of the earlier rent-control research.
+- **1972:** *The Place of Menger’s Principles in the History of Economic Thought*. A historical essay.
+- **1973:** *Economic Freedom and Representative Government*. A constitutional-political essay.
+- **1973:** *In Memoriam Ludwig von Mises*. A memorial notice.
+- **1974:** *The Pretence of Knowledge*. Hayek’s Nobel lecture: a methodological warning against claims of predictive control.
+- **1974:** *Inflation: The Path to Unemployment*. A policy essay.
+- **1974:** *Inflation and Unemployment*. A newspaper article.
+- **1974:** *Inflation’s Path to Unemployment*. A related newspaper manifestation; the bibliography does not establish whether it is textually identical to the preceding items.
+- **1974:** *Twelve Theses on Combating Inflation*. A numbered policy intervention approaching a manifesto.
+- **1974:** *What Living Standards Can We Afford?* A newspaper article.
+- **1975:** *Two Types of Mind*. A reflective psychological essay.
+- **1975:** *The Preservation of the Liberal Heritage*. A lecture/article on intellectual transmission.
+- **1975:** *Inflation, the Misdirection of Labour, and Unemployment*. A monetary-policy essay.
+- **1975:** *Politicians Can’t Be Trusted with Money*. A newspaper polemic.
+- **1975:** *Financial Power to the People!*. A newspaper proposal anticipating competitive currency.
+- **1975:** *Address to the East Leeds Labour Club*. A public speech later printed without a distinct supplied title.
+- **1975:** *200,000 Will Be Unemployed*. A press article or interview-derived intervention; the bibliography does not clarify its exact compositional form.
+- **1976:** *Address at the 33rd Annual Meeting of the Institute of Public Affairs*. A public-policy speech.
+- **1976:** *The Atavism of Social Justice*. A lecture/article related to the second volume of *Law, Legislation and Liberty*.
+- **1976:** *The Message of Adam Smith*. A newspaper intellectual-history essay.
+- **1976:** *The New Confusion about “Planning”*. A political-economic essay.
+- **1976:** *Socialism and Science*. A methodological-political essay.
+- **1976:** *Why We Are Getting Poorer All the Time*. A newspaper policy article.
+- **1976:** *Whither Democracy?* A constitutional-political essay.
+- **1977:** *Social Justice—a Mirage*. A newspaper condensation of Hayek’s larger argument.
+- **1977:** *The Totalitarian Face of Socialism*. A newspaper polemic.
+- **1977:** *Keynes and the Consequences*. A retrospective critical essay.
+- **1977:** *Understanding the Market*. A popular explanatory article.
+- **1977:** *Remembering My Cousin Ludwig Wittgenstein*. A personal memoir.
+- **1977:** *Toward a Free Market Economy*. A newspaper policy article.
+- **1978:** *Coping with Ignorance*. A methodological essay.
+- **1978:** *Full Employment at Any Price*. A revised or collected manifestation of the 1975 paper, not necessarily a distinct work.
+- **1978:** *The Dethronement of Politics*. A constitutional essay.
+- **1978:** *The Miscarriage of the Democratic Ideal*. A political-theory article.
+- **1978:** *The Powerful Reasons for Curbing Union Powers*. A newspaper intervention.
+- **1978:** *International Character Assassination: A Personal Statement*. A defensive public statement.
+- **1978:** *Will the Democratic Ideal Prevail?* A political essay closely related to Hayek’s constitutional reform arguments.
+- **1979:** *Liberalism*. An encyclopedia essay.
+- **1979:** *Managers Should Buy Back the Workers from the Unions*. A newspaper proposal.
+- **1979:** *Toward a Free Market Monetary System*. A monetary-policy article.
+- **1979:** *Science and Socialism*. A methodological-political essay.
+- **1979:** *Wilhelm Röpke: Introductory Remarks to the New Edition of His Works*. A jointly authored introduction by Hayek, Hans Sieber, Egon Tuchtfeldt, and Hans Willgerodt; individual shares are not specified.
+- **1980:** *The Economic Dangers at the Beginning of the 1980s*. A short policy article.
+- **1980:** *How to Deal with Inflation*. A newspaper policy article.
+- **1981:** *The Flow of Goods and Services*. An economic essay.
+- **1982:** *Unemployed? It Comes Only from Inflation*. A newspaper polemic.
+- **1982:** *The Sensory Order after 25 Years*. A retrospective psychology essay.
+- **1982:** *Two Pages of Fiction: The Impossibility of Socialist Calculation*. A critical article.
+- **1982:** *The Overrated Reason*. A philosophical essay.
+- **1983:** *Beware This Weasel Word*. A short newspaper intervention about political language.
+- **1983:** *The Keynesian Centenary: The Austrian Critique*. A retrospective newspaper essay.
+- **1983:** *Contributions to the discussion in Evolution und Menschenbild*. Recorded discussion remarks rather than a unified essay.
+- **1983:** *Individual Knowledge and Overall Order*. A lecture on dispersed knowledge.
+- **1983:** *The Rules of Morality Are Not the Conclusions of Our Reason*. A lecture/article on evolved morality.
+- **1983:** *Custom, Order and Sustenance*. A newspaper and university-periodical essay on property, ethics, and cultural evolution.
+- **1983:** *The Rediscovery of Freedom—Personal Recollections*. An autobiographical essay.
+- **1983:** *Contribution to “The Population Explosion: Myth and Reality”*. A broadcast intervention known through an archival citation; it resists classification as a fixed authored text.
+- **1984:** *On the Limits of Individual Reason and the Power and Instability of Morality*. A short philosophical article.
+- **1984:** *Hayek on Laski*. A brief intellectual-historical comment.
+- **1984:** *The Extended Order of Human Cooperation*. A late evolutionary-social essay.
+- **1984:** *The Future Unit of Value*. A monetary-theory essay.
+- **1985:** *The Free Market Economy and Its Moral Foundations*. A ceremonial lecture issued separately.
+- **1985:** *Socialism, Liberalism and the Young*. A prefatory essay.
+- **1985:** *The Arrogance of Reason*. A prize lecture or ceremonial essay.
+- **1986:** *The Moral Imperative of the Market*. A late essay on markets and morality.
+- **1986:** *Market Standards for Money*. A monetary-policy article.
+- **1988:** *The Presumption of Reason*. A late philosophical essay; its relation to the editorially contested *Fatal Conceit* should not be assumed to establish authorship of every passage in that book.
+
+### Reviews, introductions, forewords, and other paratexts
+
+- **1922:** *Review of Siegfried Strakosch, Der Selbstmord eines Volkes*. A book review.
+- **1923:** *Review of L. V. Birck, The Theory of Marginal Value*. A book review.
+- **1923:** *Review of Boris L. Brasol, Socialism versus Civilisation*. A book review.
+- **1927:** *Review of Gustav Cassel, Das Geldwesen nach 1914*. A book review.
+- **1927:** *Review of Rüdiger von der Goltz, Die Theorie der Wechselkurse*. A book review.
+- **1928:** *Review of A. R. Burns, Money and Monetary Policy in Early Times*. A book review.
+- **1928:** *Review of Gottfried Haberler, Der Sinn der Indexzahlen*. A book review.
+- **1928:** *Review of Die Wirtschaftstheorie der Gegenwart, Volume I*. A book review.
+- **1929:** *Review of Richard von Strigl, Die ökonomischen Kategorien und die Organisation der Wirtschaft*. A book review.
+- **1929:** *Review of Edwin Cannan, An Economist’s Protest*. A book review.
+- **1932:** *Review of Richard Cantillon, Essai sur la nature du commerce en général, edited by Henry Higgs*. A scholarly review.
+- **1935:** *Edwin Cannan*. A memorial-biographical article.
+- **1935:** *Foreword to Boris Brutzkus, Economic Planning in Soviet Russia*. A framing paratext, not authorship of Brutzkus’s book.
+- **1937:** *Review of E. A. J. Johnson, Predecessors of Adam Smith*. A book review.
+- **1937:** *Review of Findlay MacKenzie, ed., Planned Society*. A book review.
+- **1938:** *Review of William R. Scott, Adam Smith as Student and Professor*. A book review.
+- **1939:** *Introduction to Henry Thornton’s An Enquiry into the Nature and Effects of the Paper Credit of Great Britain*. A substantial historical introduction.
+- **1940:** *Review of J. M. Keynes, How to Pay for the War*. A review and policy reply.
+- **1942:** *John Stuart Mill at the Age of Twenty-Five*. An introduction to Mill’s *The Spirit of the Age* and an independent biographical essay.
+- **1945:** *The End of Nationalism?* A review-essay on E. H. Carr’s *Nationalism and After*.
+- **1945:** *Review of William Beveridge, Full Employment in a Free Society*. A book review.
+- **1945:** *Review of Ney MacMinn et al., Bibliography of the Published Writings of John Stuart Mill*. A scholarly review.
+- **1950/1953:** *Democracy in Europe*. A review of Erik von Kuehnelt-Leddihn’s *Liberty or Equality*; the bibliography labels it 1950 but cites a 1953 periodical appearance, leaving its date uncertain.
+- **1951:** *Review of Charles Morgan, Liberties of the Mind*. A book review.
+- **1952:** *Review of Charles M. Haar, Land Planning Law in a Free Society*. A policy-oriented review.
+- **1952:** *Review of R. F. Harrod, The Life of John Maynard Keynes*. A review-essay.
+- **1954:** *Preface to Michael St. John Packe, The Life of John Stuart Mill*. A short paratext.
+- **1957:** *Review of J. C. Rees, Mill and His Early Critics*. A scholarly review.
+- **1959:** *Congratulatory Address to Wilhelm Röpke*. A ceremonial text.
+- **1962:** *Preface to Financing Medical Care*. A short framing text.
+- **1962:** *Preface to Heinrich Rickert, Science and History*. A prefatory methodological statement.
+- **1963:** *Introduction to The Earlier Letters of John Stuart Mill, 1812–1848*. A scholarly editorial introduction.
+- **1964:** *Introduction to Frédéric Bastiat, Selected Essays on Political Economy*. A historical and interpretive introduction.
+- **1968:** *Foreword to Mancur Olson, The Logic of Collective Action*. A paratext to another author’s work.
+- **1974:** *Introduction to Robert Nozick, Anarchy, State, and Utopia*. A very short introductory text in the cited German manifestation.
+- **1976:** *Preface to the reprint of Prices and Production*. A retrospective paratext.
+- **1976:** *Preface to the second edition of Monetary Theory and the Trade Cycle*. A retrospective paratext.
+- **1977:** *Foreword to Gerald P. O’Driscoll, Economics as a Coordination Problem*. A short paratext.
+- **1978:** *Introduction to Ludwig von Mises, Notes and Recollections*. A memorial and contextual introduction.
+- **1980:** *Foreword to Pascal Salin, European Monetary Unity: For Whose Benefit?* A short monetary-policy paratext.
+
+### Interviews, discussions, speeches, and epistolary manifestations
+
+- **1923:** *Letter to the Editor of The New York Times, 19 August 1923*. An untitled newspaper letter; no title should be invented.
+- **1932:** *Letter to the Editor of The Economist, 4 June 1932*. An untitled newspaper letter.
+- **1932:** *Letter to The Times, 19 October 1932*. A jointly signed public letter by T. E. Gregory, Hayek, Arnold Plant, and Lionel Robbins.
+- **1937:** *Letter to The Times, 22 June 1937*. An untitled newspaper letter.
+- **1944:** *Letter to The Economist, 16 December 1944*. An untitled newspaper letter.
+- **1945:** *Letter to Time and Tide, 20 January 1945*. An untitled newspaper letter.
+- **1945:** *Letter to The Times, 22 December 1945*. An untitled newspaper letter.
+- **1949:** *Portraits of John Stuart Mill*. A letter to the *Times Literary Supplement*.
+- **1974:** *An Interview with Prof. von Hayek*. A published interview: a co-produced conversational manifestation, not a wholly authored essay.
+- **1974:** *Keynesian Kaleidics*. A letter to the *Times Literary Supplement*.
+- **1974:** *Banquet Speech to the Nobel Laureates, 11 December 1974*. A ceremonial oral performance later printed.
+- **1974:** *Wittgenstein*. A letter to the *Times Literary Supplement*.
+- **1975:** *A Discussion with Friedrich A. von Hayek*. A printed American Enterprise Institute discussion; its text is dialogic and institutionally produced.
+- **1975:** *Economics, Politics and Freedom*. A published interview.
+- **1975:** *Meet the Press Interview, 22 June 1975*. A broadcast conversation rather than a stable solo-authored text.
+- **1976:** *Letters to The Times, 21 and 31 December 1976*. Two distinct untitled newspaper letters; their absence of titles is preserved.
+- **1977:** *I Fear for the Market*. A published interview.
+- **1977:** *Interview in Libertarian Review*. An interview without a distinct title in the bibliography.
+- **1977:** *Letter to Die Presse, 22–23 January 1977*. An untitled newspaper letter.
+- **1977:** *The Road from Serfdom: Foreseeing the Fall*. A published interview with Thomas W. Hazlett.
+- **1977:** *Trade Union Immunity under the Law*. A letter to *The Times*.
+- **1977:** *Well-Researched*. A letter to the *Times Literary Supplement*.
+- **1978:** *A Conversation with Friedrich A. von Hayek: Science and Socialism*. A printed American Enterprise Institute conversation.
+- **1978:** *Freedom of Choice*. A letter to *The Times*.
+- **1978:** *Letters to The Times, 11 February, 1 March, and 11 July 1978*. Three separate untitled newspaper letters.
+- **1978:** *The Servile State*. A letter to the *Times Literary Supplement*.
+- **1979:** *Conferencia de Prensa del Professor Hayek*. A Madrid press conference; a collective oral event rather than a conventional authored text.
+- **1979:** *Address of Thanks*. A ceremonial response later printed.
+- **1979:** *Inflation: The Road to Serfdom?* A printed interview or occasional-paper conversation whose form is partly dialogic.
+- **1979:** *Inside the Hayek Equation*. A published interview.
+- **1979:** *Letter to Die Presse, 21 November 1979*. An untitled newspaper letter.
+- **1980:** *Friedrich Hayek, or the Road to Freedom*. A published interview in *L’Express*.
+- **1980:** *Interview in The American Economic Council Report*. An interview without a distinct title in the bibliography.
+- **1980:** *Letters to The Times, 12 January and 29 March 1980*. Two separate untitled newspaper letters.
+- **1980:** *Monetarism*. A letter to *The Times*.
+- **1980:** *Socialism Destroys Personal Freedom*. A published interview.
+- **1980:** *A Testing Time for Monetarism*. A letter to *The Times*.
+- **1981:** *Beating Inflation Key to Recovery*. A letter to *The Times*.
+- **1981:** *The Flaws in the Brandt Report*. A newspaper intervention.
+- **1981:** *Letters to The Times, 16 March and 25 July 1981*. Two distinct untitled newspaper letters.
+- **1981:** *Pressure to Reflate the Economy*. A letter to *The Times*.
+- **1981:** *Socialism—the Fatal Conceit*. A published interview; its title precedes and should not be conflated with the contested 1988 book.
+- **1981:** *Inequality Is Necessary*. A published interview.
+- **1982:** *Letters to The Times, 17 February and 1 July 1982*. Two distinct untitled newspaper letters.
+- **1982:** *Sharpest Protest*. A letter to the *Frankfurter Allgemeine Zeitung*.
+- **1983:** *The Crash Is Inevitable*. A published French-language interview.
+- **1983:** *Trade-Union Wage Policy Is Too Rigid*. A published interview.
+- **1983:** *We Pay for Our Stupidities*. A published interview.
+- **1983:** *Letter to The Times, 17 February 1983*. An untitled newspaper letter.
+- **1984:** *Disempowering Power through the Market*. A published interview.
+- **1984:** *Hayek, Guru of Ultra-Liberalism*. A published interview whose headline was supplied by the periodical, not necessarily by Hayek.
+- **1984:** *Persuade the Intellectuals*. A published interview.
+- **1985:** *Letters to The Times, 27 February and 14 May 1985*. Two distinct untitled newspaper letters.
+- **1985:** *An Intellectual Turn in the West*. A published interview.
+
+### Sources
+
+- Hans Jörg Hennecke, bibliography reproduced by the Friedrich A. von Hayek Society from *Friedrich August von Hayek: Die Tradition der Freiheit* (2000). This is the principal chronological bibliography used for the individual works, including minor articles, reviews, interviews, letters, and untitled interventions: [Hayek Society bibliography](https://hayek.de/bibliographie/).
+- University of Chicago Press, *The Collected Works of F. A. Hayek*, general editor Bruce Caldwell. Used to distinguish original works from later collected, translated, and reprinted manifestations: [Collected Works series](https://press.uchicago.edu/ucp/books/series/CWFAH.html).
+- Bruce Caldwell, “The Abuse of Reason Project,” in *Hayek’s Challenge: An Intellectual Biography of F. A. Hayek*. Used for the status, intended structure, and incompleteness of that project: [Oxford Academic](https://academic.oup.com/chicago-scholarship-online/book/28605/chapter-abstract/238988581).
+- F. A. Hayek, *Studies on the Abuse and Decline of Reason: Text and Documents*, edited by Bruce Caldwell. Used for the constituent texts and documentary status of the unfinished project: [Oxford Academic](https://academic.oup.com/chicago-scholarship-online/book/22013).
+- University of Chicago Press, *Capital and Interest*, edited by Lawrence H. White. Used to verify the early capital-and-interest writings and their dates: [University of Chicago Press](https://press.uchicago.edu/ucp/books/book/chicago/C/bo20832332.html).
+- University of Chicago Press, *The Market and Other Orders*, edited by Bruce Caldwell. Used to verify Hayek’s speeches, lectures, essays, and Nobel lecture as distinct textual objects: [University of Chicago Press](https://press.uchicago.edu/ucp/books/book/chicago/M/bo16956655.html).
+- University of Chicago Press, *Essays on Liberalism and the Economy*, edited by Paul Lewis. Used to verify that Hayek’s corpus includes encyclopedia entries, addresses, reviews, newspaper articles, and letters rather than books alone: [University of Chicago Press](https://ucp-press-web10.uchicago.edu/ucp/books/book/chicago/E/bo88750045.html).
+- Bruce Caldwell, description of the history and editorial scope of *The Collected Works of F. A. Hayek*. Used for the series’ inclusion of published writings, correspondence, and unpublished manuscripts: [Duke University](https://public.econ.duke.edu/~bjc18/Collected_Works_text.html).
+- Kristof Berking, “Making the Invisible Hand Visible: A Critical Review of F. A. von Hayek’s *The Fatal Conceit*.” Used for the documented dispute over William Warren Bartley III’s role and the authenticity of the published book: [Procesos de Mercado](https://procesosdemercado.com/revista/articulo/965/galley/1389).

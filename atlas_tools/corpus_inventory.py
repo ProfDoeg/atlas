@@ -77,25 +77,61 @@ def death_year(years):
 
 
 def works_section(text):
-    """The lines of the '## Works by ...' section, or [] if the dossier has none."""
+    """The lines of EVERY '## Works ...' section in the text, concatenated, or [] if there are none.
+
+    Every, not the first. A dossiers/<slug>.works.md is appended to the end of the dossier before parsing, so
+    when the dossier already carries a thin or empty works section of its own, taking only the first match
+    silently discarded the researched one: al-Kindi's 295 entries parsed as 6. The nine subjects staged before
+    this was noticed happened to have no dossier section at all, which is why they worked and hid the bug.
+    """
     lines = text.splitlines()
-    start = None
-    for i, ln in enumerate(lines):
+    out, inside = [], False
+    for ln in lines:
         if WORKS_H2.match(ln):
-            start = i + 1
-            break
-    if start is None:
-        return []
-    out = []
-    for ln in lines[start:]:
+            inside = True
+            continue
         if ANY_H2.match(ln):
-            break
-        out.append(ln)
+            inside = False
+            continue
+        if inside:
+            out.append(ln)
     return out
 
 
 DATEISH = re.compile(r"\b(c|ca|circa|before|after|early|late|mid|approx\w*|undated|posthum\w*|"
                      r"published|printed|written|composed|various|date|dates|unknown|century|BCE?|AD)\b", re.I)
+
+
+# Bold leads that are FIELD NAMES, not titles. A dossier describing one work often itemises it as
+# "- **Original language:** Hebrew" / "- **Structure:** 48 chapters", and reading those as titles invented
+# works called "Original language" and "Structure" -- which then wired Ezekiel to Braille, Hallaj and Simon
+# Magus by "shared work", since every such dossier has the same fields.
+SOURCE_HEADINGS = {"sources", "source", "bibliography", "references", "further reading", "notes on sources",
+                   "selected bibliography", "works consulted", "fuentes"}
+
+ATTR_LABELS = {"original language", "language", "structure", "traditional attribution", "attribution",
+               "authorship", "author", "date", "dating", "genre", "form", "length", "status", "manuscript",
+               "manuscripts", "transmission", "canonicity", "title", "titles", "contents", "summary",
+               "theme", "themes", "style", "setting", "sources", "source", "editions", "edition",
+               "translations", "translation", "recension", "recensions", "provenance", "medium",
+               "materials", "dimensions", "location", "collection", "scope", "note", "notes"}
+
+
+def looks_like_attribute(s):
+    """Is this bold lead a field name rather than a work's title?
+
+    Two tests, because neither alone is enough. The explicit list catches the recurring dossier fields. The
+    second catches the open-ended rest: a title carries a capitalised word somewhere past its first word
+    ("2 Thessalonians", "De vita libri tres"), while a field name is ordinary lowercase language after its
+    initial capital ("Original language", "Traditional attribution").
+    """
+    t = s.strip().rstrip(":").strip()
+    if t.lower() in ATTR_LABELS:
+        return True
+    words = t.split()
+    if 2 <= len(words) <= 3 and not any(w[:1].isupper() for w in words[1:]):
+        return True
+    return False
 
 
 def looks_like_date(s):
@@ -124,6 +160,13 @@ def table_cells(line):
         return None
     if all(re.fullmatch(r":?-{2,}:?", c) for c in cells if c):
         return None
+    # A two-column table is an ATTRIBUTE table -- "Original language | Hebrew", "Structure | 48 chapters" --
+    # not a list of works, and reading its first column as titles invented works called "Original language",
+    # "Traditional attribution" and "Structure", which then wired Ezekiel to Braille, Hallaj and Simon Magus
+    # through a shared "work". A real works table carries at least a title and two facts about it: Paul's is
+    # Work / Greek title / Date / Notes.
+    if len(cells) < 3:
+        return None
     title = re.sub(r"\*+", "", cells[0]).strip()
     if not title or looks_like_date(title):
         return None
@@ -132,26 +175,46 @@ def table_cells(line):
 
 def parse(slug, text):
     rows, kind = [], ""
+    pending = [None]          # one table row held back, in case a |---| separator proves it was the header
     sec = works_section(text)
     for ln in sec:
         h = H3.match(ln)
         if h:
             kind = h.group(1).strip()
+            # A works.md ends with "### Sources", which is a ### and therefore still INSIDE the "## Works"
+            # section: its citations were being read as works, so "Encyclopaedia Judaica" became a work of
+            # Moses de Leon, Aaron the Levite, Rashi and David Sassoon, and the shared-work rule then wired
+            # those four together. A shared bibliography is not a shared work.
+            if kind.strip().lower().rstrip(":") in SOURCE_HEADINGS:
+                kind = "__sources__"
+            continue
+        if kind == "__sources__":
             continue
         if ln.strip().startswith("|"):
             # Parsed inline, not in a second pass, so each row keeps the "###" heading it actually sits under.
             # A separate pass gave Paul's seven undisputed letters the kind "Speeches", the last heading in his
             # section, because by then the walk had finished.
+            #
+            # The header row is identified STRUCTURALLY, by the |---| separator that follows it, not by guessing
+            # at its words. Markdown puts the header first, so a parser reading rows in order emits it as a work
+            # unless it holds one row back: that is how "Hebrew title" became a work of Abulafia's and "Forms" a
+            # work of Ezekiel's, and why every table in every dossier was contributing a phantom.
+            if re.fullmatch(r"\|[\s:|-]+\|", ln.strip()):
+                pending[0] = None                     # the row before a separator was the header
+                continue
+            if pending[0] is not None:
+                rows.append(pending[0])
+            pending[0] = None
             tc = table_cells(ln)
             if tc:
                 title, rest = tc
-                hdr = {"work", "title", "obra", "título", "titulo"}
-                if title.lower() in hdr or any(h in title.lower() for h in ("greek title", "approximate date")):
-                    continue                          # the table's own header row
                 ys = [int(y) for y in YEAR.findall(rest) if 100 <= int(y) <= 2100]
-                rows.append({"slug": slug, "kind": kind, "date_text": rest[:160],
-                             "year": min(ys) if ys else None, "title": title, "alt_titles": [], "note": ""})
+                pending[0] = {"slug": slug, "kind": kind, "date_text": rest[:160],
+                              "year": min(ys) if ys else None, "title": title, "alt_titles": [], "note": ""}
             continue
+        if pending[0] is not None:                    # the table ended without a separator following this row
+            rows.append(pending[0])
+            pending[0] = None
         if not re.match(r"^\s*[-*]\s+", ln):
             continue
         body = ln
@@ -161,9 +224,16 @@ def parse(slug, text):
             lead = m.group(1).strip().rstrip(":")
             if looks_like_date(lead):
                 date_text = lead
-            else:
+            elif not looks_like_attribute(lead):
                 bold_title = lead
             body = ln[m.end():]
+        # Strip source citations before looking for titles. The works lists cite like
+        # "([Scholem, *Encyclopaedia Judaica*](https://...))", and the italics inside a citation are the
+        # SOURCE's name, not the subject's work: harvesting them made "Encyclopaedia Judaica" a work of Moses
+        # de Leon, Rashi, Aaron the Levite and David Sassoon, and then wired those four together as sharing it.
+        # A shared bibliography is not a shared work.
+        body = re.sub(r"\(\[[^\]]*\]\([^)]*\)\)", " ", body)      # ([Author, *Title*](url))
+        body = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", body)      # [text](url) -> text
         titles = [t.strip() for t in ITALIC.findall(body)]
         titles = [t for t in titles if not t.startswith("(")]
         if not titles and bold_title:
@@ -182,6 +252,8 @@ def parse(slug, text):
             # prayers, orations ... gathered only in the Opera omnia"). Keep its prose so nothing is silently lost.
             "note": "" if titles else re.sub(r"\s+", " ", body).strip(),
         })
+    if pending[0] is not None:                        # a table that ran to the end of the section
+        rows.append(pending[0])
     return rows
 
 
