@@ -1,0 +1,26 @@
+## Works by Benkos Biohó
+
+### Collective obra: fortified settlement and polity
+
+- **1599/1600–c. 1619:** *Palenque of La Matuna*. A collectively made fortified settlement, subsistence community, military refuge, and autonomous polity established by Biohó, his family, and other self-emancipated Africans in the wetlands and forests near Cartagena; by 1603 it was described as a large palenque. It should not be identified straightforwardly with present-day San Basilio de Palenque: specialist scholarship treats La Matuna as one beginning of a much longer regional process, while San Miguel Arcángel—the immediate predecessor of San Basilio—belonged to a later generation of palenques ([Navarrete](https://pueaa.unam.mx/uploads/materials/San_Basilio_y_Palmares_Ma_Cristina_Navar.pdf?v=1642441877), pp. 271–278; [Castaño](https://www.icesi.edu.co/revistas/index.php/revista_cs/es/article/download/2024/2764?inline=1), pp. 68–71).
+
+### Political project
+
+- **c. 1599–1621:** *Cimarrón autonomy under the “King of La Matuna”*. More project than discrete object, this was the continuing construction and defense of an autonomous community: settlement, cultivation, military organization, collective government, and the incorporation of fugitives. Its authorship is necessarily collective, and even the name is unstable—colonial records generally call the leader Domingo Biohó or Biojó, whereas “Benkos Biohó” belongs especially to later oral tradition; calling the project a “republic” or a personal work therefore risks imposing both a European form and single authorship on communal action ([Navarrete](https://pueaa.unam.mx/uploads/materials/San_Basilio_y_Palmares_Ma_Cristina_Navar.pdf?v=1642441877), pp. 271–272, 276–278; [Navarrete, “De reyes, reinas y capitanes”](https://dialnet.unirioja.es/descarga/articulo/6022525.pdf); [Banco de la República](https://enciclopedia.banrepcultural.org/Benkos_Bioh%C3%B3)).
+
+### Negotiated protocol
+
+- **1605 and/or 1613:** *Peace arrangement between La Matuna and the governor of Cartagena*. A collectively negotiated political protocol rather than an attributable authored text: it recognized Biohó’s authority or the palenque’s autonomy and regulated relations with Cartagena, while imposing limits on receiving or assisting additional fugitives. The chronology and form are disputed: some scholarship describes an informal pact in 1605, after an unsuccessful attack on La Matuna, and a later agreement in 1613; other accounts treat 1605 itself as the operative recognition. No surviving document has been established as a text written or dictated by Biohó, so the “work” is the enacted accord, not a securely attributable manuscript ([Fidalgo](https://rcientificas.uninorte.edu.co/index.php/derecho/article/download/10776/214421443627?inline=1), pp. 253–258; [Castaño](https://www.icesi.edu.co/revistas/index.php/revista_cs/es/article/download/2024/2764?inline=1), pp. 68–71).
+
+### No securely attributable texts
+
+- **No fixed date:** No poem, book, letter, proclamation, manifesto, or other verbal composition by Biohó is preserved or securely attributed in the specialist historical literature consulted. His documented obra is communal, spatial, political, and performative; the surviving written descriptions were made by colonial officials and later chroniclers, not by Biohó himself ([Navarrete](https://pueaa.unam.mx/uploads/materials/San_Basilio_y_Palmares_Ma_Cristina_Navar.pdf?v=1642441877), pp. 271–275; [Castaño](https://www.icesi.edu.co/revistas/index.php/revista_cs/es/article/download/2024/2764?inline=1), pp. 61–71).
+
+### Sources
+
+- María Cristina Navarrete Peláez, *Cimarrones y palenques en el siglo XVII*. Cali: Universidad del Valle, 2003; bibliographic record and discussion in [Navarrete, “San Basilio de Palenque y el quilombo de Palmares”](https://pueaa.unam.mx/uploads/materials/San_Basilio_y_Palmares_Ma_Cristina_Navar.pdf?v=1642441877), pp. 271–289.
+- María Cristina Navarrete Peláez, *San Basilio de Palenque: memoria y tradición*. Cali: Programa Editorial Universidad del Valle, 2008; identified by the author as the underlying specialist study in [“San Basilio de Palenque y el quilombo de Palmares”](https://pueaa.unam.mx/uploads/materials/San_Basilio_y_Palmares_Ma_Cristina_Navar.pdf?v=1642441877), pp. 271–272, 287.
+- María Cristina Navarrete Peláez, [“De reyes, reinas y capitanes: los dirigentes de los palenques de las Sierras de María, siglos XVI y XVII”](https://dialnet.unirioja.es/descarga/articulo/6022525.pdf), *Fronteras de la Historia* 20, no. 2 (2015): 44–62.
+- Alen Castaño, [“Palenques y cimarronaje: procesos de resistencia al sistema colonial esclavista en el Caribe sabanero (siglos XVI, XVII y XVIII)”](https://www.icesi.edu.co/revistas/index.php/revista_cs/es/article/download/2024/2764?inline=1), *Revista CS* 16 (2015): 61–86.
+- José Manuel Pérez Fidalgo, [“Palenque, primer pueblo libre de América”](https://rcientificas.uninorte.edu.co/index.php/derecho/article/download/10776/214421443627?inline=1), *Revista de Derecho* 51 (2019): 245–262.
+- Banco de la República de Colombia, [“Benkos Biohó”](https://enciclopedia.banrepcultural.org/Benkos_Bioh%C3%B3), *Enciclopedia Banrepcultural*; consulted as a scholarly synthesis with bibliography, not as an oeuvre catalogue.

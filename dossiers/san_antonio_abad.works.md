@@ -1,0 +1,60 @@
+## Works by San Antonio Abad
+
+### Surviving letters
+
+- **Undated; before 356:** *Letter I (to the monks of Arsinoë)*. A pastoral-theological letter, originally composed or dictated in Coptic; Jerome identifies the Arsinoite letter as the principal member of a seven-letter corpus. Its attribution was once questioned, but Samuel Rubenson’s modern critical study argues that all seven letters are authentic; only fragments of their Coptic text survive, alongside complete or partial Georgian, Latin, Syriac, and Arabic versions. ([Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download), [Rubenson](https://books.google.com/books/about/The_Letters_of_St_Antony.html?id=rxxgPixcz3MC))
+
+- **Undated; before 356:** *Letter II*. An ascetic and theological letter conventionally numbered by modern editors; it has no securely recoverable original title. It belongs to the seven-letter corpus defended as authentic by Rubenson, although the loss of the complete Coptic original and divergences among its versions leave its exact wording unsettled. ([Rubenson](https://books.google.com/books/about/The_Letters_of_St_Antony.html?id=rxxgPixcz3MC), [BIBLINDEX](https://dapytains.biblindex.org/en/work-editions/epistulae-vii-1/patrologia-graeca-40))
+
+- **Undated; before 356:** *Letter III*. A monastic-theological letter whose numeral is an editorial identifier, not an authorial title. As with the rest of the seven-letter collection, authenticity is supported by early testimony and Rubenson’s study but has not been universally accepted. ([Rubenson](https://books.google.com/books/about/The_Letters_of_St_Antony.html?id=rxxgPixcz3MC), [Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download))
+
+- **Undated; before 356:** *Letter IV*. A letter of spiritual instruction preserved through a multilingual transmission rather than in a complete autograph or original-language copy. It is counted among Antony’s seven probable authentic letters, while its precise Coptic form remains unreconstructable with certainty. ([Rubenson](https://books.google.com/books/about/The_Letters_of_St_Antony.html?id=rxxgPixcz3MC), [BIBLINDEX](https://dapytains.biblindex.org/en/work-editions/epistulae-vii-1/patrologia-graeca-40))
+
+- **Undated; before 356:** *Letter V*. An ascetic-theological communication to monastic readers, conventionally numbered because no secure original title survives. Its status is that of a probable authentic work preserved principally in translation. ([Rubenson](https://books.google.com/books/about/The_Letters_of_St_Antony.html?id=rxxgPixcz3MC), [Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download))
+
+- **Undated; before 356:** *Letter VI*. A pastoral letter within the ancient seven-letter collection known to Jerome. Rubenson accepts it as Antony’s, but the markedly different surviving versions prevent treating any one medieval text as an uncomplicated reproduction of what Antony dictated. ([Rubenson](https://books.google.com/books/about/The_Letters_of_St_Antony.html?id=rxxgPixcz3MC), [Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download))
+
+- **Undated; before 356:** *Letter VII*. The last item in the critically recognized seven-letter corpus, again an editorially numbered letter rather than a titled book. Its attribution shares the corpus’s disputed history and its dependence on Georgian, Latin, and Arabic transmission. ([Rubenson](https://books.google.com/books/about/The_Letters_of_St_Antony.html?id=rxxgPixcz3MC), [BIBLINDEX](https://dapytains.biblindex.org/en/work-editions/epistulae-vii-1/patrologia-graeca-40))
+
+- **Before 356:** *Letter to Theodore, successor of Pachomius*. A short Coptic letter embedded in Ammon’s account of Theodore and surviving there in Greek translation; it is independent of the seven-letter corpus. Modern reference works regard its attribution to Antony as credible, though its embedded transmission prevents absolute certainty. ([Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download), [Encyclopedia of Ancient Christianity](https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Encyclopedia-of-Ancient-Christianity-by-Angelo-Di-Berardino-Thomas-C.-Oden-Joel-C.-Elowsky-James-Hoover-z-lib.org_.pdf))
+
+### Lost or indirectly witnessed letters
+
+- **Before 356:** *Letter to Athanasius*. A lost communication reportedly carried to Athanasius by two Pachomian monks; its existence is attested in the first Greek *Life of Pachomius*, but neither title nor text survives. It is therefore an attested act of correspondence rather than an extant textual work. ([Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download))
+
+- **During the reigns of Constantine and his sons; before 356:** *Replies to Constantine, Constantius, and Constans*. Athanasius reports that the emperors requested answers and that Antony replied with religious and moral counsel, but the correspondence itself is lost. Whether this was one reply or several cannot now be established, so it resists division into separately recoverable works. ([Athanasius, *Life of Antony*, §81](https://mail.biblehub.com/library/athanasius/select_works_and_letters_or_athanasius/life_of_antony_section_81.htm), [Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download))
+
+- **Undated; before 356:** *Letter warning the general Balacius*. Athanasius reports and summarizes a letter sent to the Arian-aligned official Balacius; no independent copy survives. Its transmitted wording belongs to Athanasius’s biography, so the existence of a warning letter is better attested than its exact text. ([Athanasius, *Life of Antony*, §86](https://bkv.unifr.ch/de/works/cpg-2101/compare/the-life-of-antony/88/leben-des-heiligen-antonius-bkv))
+
+### Spoken teaching preserved by others
+
+- **Fourth-century utterances; collected later:** *Thirty-eight apophthegms attributed to Antony*. These sayings and short narratives form Antony’s section of the Greek alphabetical *Apophthegmata Patrum*, with related but non-identical Coptic and Copto-Arabic witnesses. They resist classification as authored “texts”: Antony may have originated some spoken teachings, but anonymous transmitters shaped, translated, and collected the literary objects now preserved. ([Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download), [Brill, *Door of the Wilderness*](https://brill.com/display/title/62288))
+
+### Ascetic practice as project and manifestation
+
+- **From c. 270 until 356:** *The eremitical life at Pispir and Mount Qulzum*. This was a sustained ascetic project—a deliberately fashioned way of life, teaching relationship, and inhabited environment—rather than a book or formally constituted order. Communities gathered around Antony, but the sources do not support calling him the author of a monastery, a cenobitic institution, or a written rule in the later sense. ([Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download), [Athanasius, *Life of Antony*](https://sourcebooks.web.fordham.edu/basis/vita-antony.asp))
+
+### Works transmitted under his name but not securely made by him
+
+- **Date unknown; later transmission:** *Letters VIII–XX of the Arabic twenty-letter collection*. These thirteen letters extend Antony’s authentic seven-letter corpus in the Copto-Arabic tradition, but comparative scholarship assigns most of them to his disciple Ammonas. They are works of the Antony tradition, not securely works made by Antony. ([Université de Strasbourg thesis record](https://theses.unistra.fr/search/notice/view/2012STRAK006?lightbox=true), [Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download))
+
+- **Date unknown; probably later:** *Exhortation attributed to Antony* (*Paraenesis*; the opening text of the later *Philokalia*). This collection of moral maxims was transmitted as Antony’s teaching, but scholarship identifies it as a work of Stoic origin strongly shaped by Epictetus. It is therefore pseudepigraphic rather than an authentic Antonian manifesto or protocol. ([Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download))
+
+- **Date unknown; later Arabic transmission:** *Spiritualia documenta* (*Spiritual Teachings*). A compilation of spiritual instruction attributed to Antony; part of it closely parallels the Nag Hammadi *Teachings of Silvanus*, either through borrowing or use of a common earlier source. Its origin remains obscure, and it cannot securely be treated as Antony’s obra. ([Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download))
+
+- **Date unknown; later Arabic transmission:** *Rules or Canons to His Spiritual Sons the Monks*. This is a protocol—a collection of behavioral and ascetic prescriptions—preserved under Antony’s name in Arabic and Latin. Antony did not organize a rule-governed cenobitic order, and modern scholarship does not accept the compilation as his own written work. ([Latin transmission](https://www.documentacatholicaomnia.eu/1815-1875%2C_Migne%2C_Patrologia_Latina_01._Rerum_Conspectus_Pro_Tomis_Ordinatus%2C_MLT-2.html), [study of the *Vita* as monastic pattern](https://pure.eur.nl/en/publications/seeing-that-for-monks-the-life-of-antony-is-a-sufficient-pattern-/))
+
+- **Date unknown; later transmission:** *Twenty Sermons to His Sons the Monks*. A corpus of monastic homilies catalogued as CPG 2349.1 and explicitly assigned by BIBLINDEX to “Pseudo-Antony.” These are twenty textual works in their transmitted form, but their collective attribution to the historical Antony is rejected. ([BIBLINDEX](https://www.biblindex.org/en/work-editions/sermones-xx-ad-filios-suos-monachos/patrologia-graeca-40))
+
+- **Date unknown; later transmission:** *Sermon on the Vanity of the World and the Resurrection of the Dead*. A homily preserved in the later Latin/Arabic Antonian corpus. It belongs to the pseudepigraphic literature surrounding Antony rather than to the critically accepted seven letters. ([Johannes Quasten, *Patrology*, vol. 3](https://www.sedmitza.ru/data/2017/05/26/1241005052/Patrology_3.pdf), [Coptic Encyclopedia](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download))
+
+### Sources
+
+- Samuel Rubenson, *The Letters of St. Antony: Monasticism and the Making of a Saint*, rev. ed., 1995. [Google Books record and preview](https://books.google.com/books/about/The_Letters_of_St_Antony.html?id=rxxgPixcz3MC).
+- Antoine Guillaumont, “Antony of Egypt, Saint,” in *The Coptic Encyclopedia*. [Claremont Colleges Digital Library](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download).
+- Gérard Garitte, ed., *Lettres de S. Antoine: version géorgienne et fragments coptes*, CSCO 148–149, 1955; bibliographical details are recorded in the [Coptic Encyclopedia article](https://ccdl.claremont.edu/digital/api/collection/cce/id/152/download).
+- Maurice Geerard, *Clavis Patrum Graecorum*, entries CPG 2330–2332 and 2349.1; manuscript and work records consulted through [Pinakes](https://pinakes-dev.irht.cnrs.fr/notices/cote/46682/) and [BIBLINDEX](https://www.biblindex.org/en/work-editions/sermones-xx-ad-filios-suos-monachos/patrologia-graeca-40).
+- Tim Vivian, *Door of the Wilderness: The Greek, Coptic, and Copto-Arabic Sayings of St. Antony of Egypt*, 2021. [Brill](https://brill.com/display/title/62288).
+- Athanasius of Alexandria, *Life of Antony*, especially §§81 and 86. [Fordham Internet History Sourcebooks](https://sourcebooks.web.fordham.edu/basis/vita-antony.asp).
+- Johannes Quasten, *Patrology*, vol. 3, section on Antony. [Digital copy](https://www.sedmitza.ru/data/2017/05/26/1241005052/Patrology_3.pdf).
+- *Encyclopedia of Ancient Christianity*, entry on Antony. [Digital copy](https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/Encyclopedia-of-Ancient-Christianity-by-Angelo-Di-Berardino-Thomas-C.-Oden-Joel-C.-Elowsky-James-Hoover-z-lib.org_.pdf).

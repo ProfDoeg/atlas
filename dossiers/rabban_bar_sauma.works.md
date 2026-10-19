@@ -1,0 +1,18 @@
+## Works by Rabban Bar Sauma
+
+### Travel relation
+
+- **After 1288, before 1294:** Untitled Persian account of his embassy to Europe. This lost travel relation is Bar Sauma’s principal textual obra: the anonymous *History of Mar Yahballaha and Rabban Sauma* says that its author abridged what Bar Sauma himself had written in Persian, while modern scholarship describes the surviving Syriac section as an abridged, redacted translation. Its original title, precise date, extent, and completeness are unknown; the surviving *History* is therefore a later anonymous manifestation of his account, not a book authored by him. ([Borbone’s critical edition](https://arpi.unipi.it/handle/11568/1064678.10); [Kim, “Princes and Paradise”](https://books.fupress.com/chapter/princes-and-paradise-rabban-sauma-in-the-western-mediterranean/15867); [Gorgias Encyclopedic Dictionary of the Syriac Heritage](https://gedsh.bethmardutho.org/Sawma-Rabban.html))
+
+### Architectural and institutional foundation
+
+- **1291–1293:** Church of Mar Mari and Mar George at Maragha, with its adjoining cell and endowment. This was not merely a building: Bar Sauma obtained Geikhatu’s authorization, founded and constructed the church, installed relics and liturgical furnishings, built or caused to be built his residence beside it, secured a *waqf*, and established continuing Eucharistic observance—an architectural, devotional, and financial ensemble approaching a Gesamtkunstwerk. The church was completed by October 1293; the sources distinguish Bar Sauma’s foundation from Yahballaha III’s separate Maragha building projects, although the catholicos assisted with its endowment. ([Borbone, *History*, pp. 135–137](https://arpi.unipi.it/retrieve/1cf750d6-b593-4ec3-b44d-fba93fbeeba7/Borbone%202020%20History%20of%20MY%20and%20RS%20e_book.pdf); [Borbone and Orengo, “The Church at the Court of Arghun”](https://tert.nla.am/archive/NLA%20AMSAGIR/Bazmavep/2010%283-4%29_ocr.pdf); [Budge translation](https://depts.washington.edu/silkroad/texts/sauma.html))
+
+### Sources
+
+- Pier Giorgio Borbone, ed. and trans., *History of Mar Yahballaha and Rabban Sauma* (2021), critical edition from the three extant Syriac manuscripts, English trans. Laura Parodi. [Publication record](https://arpi.unipi.it/handle/11568/1064678.10); [open PDF](https://arpi.unipi.it/retrieve/1cf750d6-b593-4ec3-b44d-fba93fbeeba7/Borbone%202020%20History%20of%20MY%20and%20RS%20e_book.pdf).
+- Margaret Kim, “Princes and Paradise: Rabban Sauma in the Western Mediterranean,” in *Navigating the Mediterranean Through the Chinese Lens* (Firenze University Press, 2024), pp. 69–78. [Article and DOI](https://books.fupress.com/chapter/princes-and-paradise-rabban-sauma-in-the-western-mediterranean/15867).
+- Joseph P. Amar, “Ṣawma, Rabban,” *Gorgias Encyclopedic Dictionary of the Syriac Heritage*. [Entry](https://gedsh.bethmardutho.org/Sawma-Rabban.html).
+- Pier Giorgio Borbone and Alessandro Orengo, “The Church at the Court of Arghun,” *Bazmavep* (2010), pp. 567–579. [PDF](https://tert.nla.am/archive/NLA%20AMSAGIR/Bazmavep/2010%283-4%29_ocr.pdf).
+- Jeanne-Nicole Mellon Saint-Laurent et al., “Yahballaha and Sauma,” *Bibliotheca Hagiographica Syriaca Electronica*, Syriaca.org, work 895, recording the manuscripts, editions, and translations of the anonymous *History*. [Work record](https://syriaca.org/work/895).
+- E. A. Wallis Budge, trans., *The Monks of Kublai Khan, Emperor of China* (London, 1928), an older translation of the Syriac *History*, consulted for the passages describing Bar Sauma’s Persian narrative and Maragha foundation. [Online text](https://depts.washington.edu/silkroad/texts/sauma.html).

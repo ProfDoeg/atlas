@@ -131,16 +131,31 @@ def ia_items(name):
 
 
 def gutenberg_items(name):
+    """Gutenberg hits for a person, with the AUTHOR checked rather than assumed.
+
+    gutendex searches title AND author, so a bare name search returns everything with the name on the cover.
+    Taking those as the subject's works put 34 books under Jesus -- Strauss's "Life of Jesus Critically
+    Examined", the Book of Mormon, and a life of St Teresa OF JESUS, who is a different person entirely -- and
+    2,857 such files across the corpus. Gutenberg being free by construction says nothing about who wrote the
+    book. So a hit now counts only when a surname from the subject's name appears among the item's AUTHORS;
+    everything else is catalogued, which keeps the find without claiming the authorship.
+    """
     url = "https://gutendex.com/books?search=" + urllib.parse.quote(name)
     d = json.loads(fetch(url))
+    parts = {w.lower() for w in re.findall(r"[A-Za-zÀ-ÿ]{4,}", name)}
     out = []
     for b in d.get("results", []):
         authors = "; ".join(a.get("name", "") for a in b.get("authors", []))
+        by_them = bool(parts & {w.lower() for w in re.findall(r"[A-Za-zÀ-ÿ]{4,}", authors)})
         out.append({"source": "gutenberg", "id": b.get("id"), "title": b.get("title"),
                     "creator": authors, "languages": b.get("languages"),
                     "formats": {k: v for k, v in (b.get("formats") or {}).items()
                                 if k.startswith(("text/plain", "application/epub", "application/pdf"))},
-                    "verdict": "download", "reason": "Project Gutenberg: free by construction"})
+                    "verdict": "download" if by_them else "catalogue",
+                    "reason": ("Project Gutenberg: free by construction, and the subject's name is among its "
+                               "authors" if by_them else
+                               f"Project Gutenberg hit on the name, but its author is {authors or 'unstated'}: "
+                               "a book ABOUT the subject, or another person of the same name")})
     return out
 
 

@@ -1,0 +1,44 @@
+## Works by Saint Giles
+
+### Foundations attributed to Giles
+
+- **c. 650–710?:** *Hermitage in the Flavian Valley*. A dwelling and ascetic project traditionally made by Giles near the lower Rhône; neither its date nor its material form is recoverable, because the earliest substantial account is the tenth-century *Vita sancti Aegidii* and there are no authentic records of Giles before the ninth century. ([Mazel](https://doi.org/10.3406/cafan.2011.2114); [Molinier](https://www.persee.fr/doc/shf_0000-0000_1901_num_1_1_1027_t1_0164_0000_7))
+
+- **c. 650–710?, traditionally 673–685:** *Monastic community in the Flavian Valley*. A foundation-project rather than a securely attributable building: the *Vita* says Giles accepted disciples and established a Benedictine monastery, while other versions make the Visigothic king Wamba its builder and patron. Archaeology and documents establish Saint-Gilles only from the Carolingian period—the monastery existed before 814—so Giles’s authorship, Wamba’s role, and the traditional dating remain unverified. ([Mazel](https://doi.org/10.3406/cafan.2011.2114); [UNESCO nomination dossier](https://whc.unesco.org/uploads/nominations/1447.pdf))
+
+- **c. 650–710?:** *Church containing Giles’s future grave*. The legend attributes to Giles, or to Wamba on his behalf, an oratory or monastic church in which Giles was subsequently buried. This resists classification as Giles’s obra: the excavated architectural sequence does not securely identify an early-medieval building made by him, and the surviving crypt and abbey church are much later constructions. ([Hartmann-Virnich et al.](https://www.persee.fr/doc/bulmo_0007-473x_2013_num_171_4_9693); [Occitanie regional inventory](https://inventaire.patrimoines.laregion.fr/dossier/pdf/fe3b61ee-2211-4f08-943f-3be68ee951d8/ancienne-abbaye-de-saint-gilles.pdf))
+
+### Manifestations attributed to Giles
+
+- **undated, during Giles’s legendary lifetime:** *Miracles narrated in the Vita sancti Aegidii*. These healings, protections, and other interventions are manifestations rather than authored texts or objects: the tenth-century anonymous *Vita* says that Giles effected them, but the narratives cannot be treated as contemporary evidence for a seventh- or eighth-century maker. The work containing them is the anonymous monk’s creation, not Giles’s. ([BHL 93–98 and editions](https://www.arlima.net/eh/gilles_saint.html); [FAMA/IRHT](https://fama.irht.cnrs.fr/en/oeuvre/272690))
+
+- **legendary; chronologically impossible as an event in Giles’s life:** *Pardon of Charlemagne’s unconfessed sin*. A ritual manifestation in which Giles’s Mass and prayer obtain divine pardon, signified by an angelic written notice. Since Charlemagne was born after Giles’s traditionally assigned death, it is not a historical work by Giles but a later legend that acts like a charter of intercessory power. ([Mazel](https://doi.org/10.3406/cafan.2011.2114); [V&A](https://www.vam.ac.uk/blog/sanctus-ignotum/st-giles))
+
+- **c. 1121–1124 and after 1165:** *Thirty-one posthumous miracles collected in the Liber miraculorum sancti Egidii*. The collection attributes releases from captivity and hanging, healings, protections, and other interventions to the dead saint, often far from his shrine. As “works by Giles” these resist ordinary authorship: they are manifestations credited to his continuing agency, while the textual obra was made by the abbey librarian Pierre Guillaume and an anonymous continuator. ([Denoël’s review of the critical edition](https://www.persee.fr/doc/bec_0373-6237_2007_num_165_2_463548_t10_0576_0000_2))
+
+### Body, tomb, and continuing obra
+
+- **c. 710?–before the ninth century?:** *Buried body of Saint Giles*. Giles’s corpse became a sacred material manifestation and the generative centre of the monastery and pilgrimage, but not an object he intentionally “made.” Even the identification is traditional: the surviving evidence does not securely connect the cult body to a historically documented individual named Giles. ([Mazel](https://doi.org/10.3406/cafan.2011.2114); [Occitanie regional inventory](https://inventaire.patrimoines.laregion.fr/dossier/pdf/fe3b61ee-2211-4f08-943f-3be68ee951d8/ancienne-abbaye-de-saint-gilles.pdf))
+
+- **tenth century?:** *Inscribed tomb of Saint Giles*. A sarcophagus or tomb bearing an inscription identifying Giles’s body became the cult’s material anchor. Although the burial has been associated with Giles’s supposed period, the inscription is Carolingian or later; the tomb is therefore an institutional attribution made around the saint, not securely his grave or his own obra. ([Molinier](https://www.persee.fr/doc/shf_0000-0000_1901_num_1_1_1027_t1_0164_0000_7); [Hanan, “Reconsidering the Saint-Gilles Shrine”](https://www.caminodesantiago.gal/osdam/filestore/1/2/9/1/7/3_0209b75bb12f0b9/129173_c12c5b116123007.pdf))
+
+- **mid-eleventh century–twelfth century:** *Pilgrimage shrine generated around Giles’s body*. This is a collective and posthumous Gesamtkunstwerk—relics, tomb, liturgy, miracle narratives, offerings, architecture, and pilgrim movement—rather than a building authored by Giles. The sources speak consistently of his “body” or “tomb,” while the precise form and even the existence of a separate metal shrine remain disputed. ([Denoël](https://www.persee.fr/doc/bec_0373-6237_2007_num_165_2_463548_t10_0576_0000_2); [Hartmann-Virnich et al.](https://www.persee.fr/doc/bulmo_0007-473x_2013_num_171_4_9693))
+
+- **1116–thirteenth century:** *Rebuilt abbey church organized around Giles’s tomb*. The saint did not design or construct this pilgrimage church; his attributed remains operated instead as its organizing cause. The work belongs to successive monastic patrons, masons, and sculptors, and is included only because it is the architectural afterlife of the thing called “Saint Giles.” ([Denoël](https://www.persee.fr/doc/bec_0373-6237_2007_num_165_2_463548_t10_0576_0000_2); [Hartmann-Virnich et al.](https://www.persee.fr/doc/bulmo_0007-473x_2013_num_171_4_9693))
+
+- **by 1446:** *Medieval burial landscape around the shrine*. Graves accumulated around the monastic cult site into the later Middle Ages; archaeological radiocarbon ranges beginning around 1446 belong to this afterlife. They are creations of the community attracted to Giles’s tomb, not works made by Giles, and their resistance to inclusion is precisely the distinction between the saint’s alleged agency and the material world produced around his cult. ([Masbernat-Buffat et al., archaeological study](https://www.researchgate.net/publication/312928996_L%27ancienne_abbaye_de_Saint-Gilles-du-Gard_Les_vestiges_architecturaux_du_sous-sol_d%27apres_les_investigations_archeologiques))
+
+### Texts not attributable to Giles
+
+- **No securely attributable date or title:** *No surviving authored text*. The standard hagiographical repertory identifies lives of Giles and later miracle collections, but no writing composed by him. The *Vita sancti Aegidii*, its vernacular adaptations, and the *Liber miraculorum* are works about or through Giles, not writings by him. ([Bibliotheca Hagiographica Latina dossier BHL 93–98](https://www.arlima.net/eh/gilles_saint.html); [FAMA/IRHT](https://fama.irht.cnrs.fr/en/oeuvre/272690))
+
+### Sources
+
+- Société des Bollandistes, *Bibliotheca Hagiographica Latina antiquae et mediae aetatis*, vol. 1, nos. 93–98, as indexed by [ARLIMA](https://www.arlima.net/eh/gilles_saint.html).
+- E.-C. Jones, *Saint Gilles: Essai d’histoire littéraire* (Paris: Champion, 1914), listed with digitization in [ARLIMA’s specialist bibliography](https://www.arlima.net/eh/gilles_saint.html).
+- Institut de recherche et d’histoire des textes, [“Vita sancti Aegidii,” FAMA](https://fama.irht.cnrs.fr/en/oeuvre/272690).
+- Florian Mazel, [“Lieu sacré, aire de paix et seigneurie autour de l’abbaye de Saint-Gilles”](https://doi.org/10.3406/cafan.2011.2114), *Cahiers de Fanjeaux* 46 (2011), pp. 229–276.
+- Charlotte Denoël, [review of *Livre des miracles de saint Gilles, Liber miraculorum sancti Egidii*](https://www.persee.fr/doc/bec_0373-6237_2007_num_165_2_463548_t10_0576_0000_2), *Bibliothèque de l’École des chartes* 165.2 (2007), pp. 576–578.
+- Andreas Hartmann-Virnich et al., [“Saint-Gilles-du-Gard. L’église abbatiale et les bâtiments monastiques. Nouvelles recherches archéologiques”](https://www.persee.fr/doc/bulmo_0007-473x_2013_num_171_4_9693), *Bulletin monumental* 171.4 (2013).
+- Région Occitanie, Inventaire général, [*Ancienne abbaye de Saint-Gilles*](https://inventaire.patrimoines.laregion.fr/dossier/pdf/fe3b61ee-2211-4f08-943f-3be68ee951d8/ancienne-abbaye-de-saint-gilles.pdf).
+- Auguste Molinier, [“Aegidius (S.), S. Gilles, S. Geli”](https://www.persee.fr/doc/shf_0000-0000_1901_num_1_1_1027_t1_0164_0000_7), *Les Sources de l’histoire de France*, vol. 1 (1901), pp. 164–165.
