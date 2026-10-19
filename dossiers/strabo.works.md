@@ -1,0 +1,33 @@
+## Works by Strabo
+
+Strabo's literary output as it survives is almost the opposite case from most ancient authors: instead of fragments pointing toward a lost whole, one enormous work has come down to us nearly complete while an equally large, and by his own account earlier, work has vanished almost entirely. The two cannot be assessed by the same standard.
+
+### The Geography (Geōgraphiká)
+
+Strabo's surviving masterwork is a seventeen-book description of the inhabited world as known to an educated Greek subject of the early Roman Empire. Books 1–2 lay out his method and theoretical framework: a defense of Homer as the first geographer, engagement with and frequent correction of earlier authorities such as Eratosthenes, Hipparchus, and Polybius, and a mathematical discussion of the shape and extent of the inhabited landmass. The remaining fifteen books move region by region: Iberia; Gaul, Britain, and Ireland; Italy and Sicily; northern and eastern Europe; Greece and the Aegean; the Caucasus, Armenia, and northern Asia; Asia Minor, including his own native Pontus; India and Persia; Mesopotamia, Syria, Judaea, and Arabia; and finally Egypt, Ethiopia, and North Africa, the region he knew best from personal travel.
+
+The work is not a travel diary, and Strabo says so himself: even a geographer who has traveled unusually widely, he notes, must draw most of his material from written sources and the reports of others rather than direct inspection. His own confirmed travels were real but limited — Asia Minor, a stretch of the Tyrrhenian Italian coast, a voyage past the Cycladic island of Gyaros, and above all an extended journey up the Nile with the Roman prefect Aelius Gallus as far as the first cataract at Syene and Philae, probably in 25 or 24 BCE, which supplied much of his vivid material on Egypt in Book 17. For everything else — India, the far north, inner Africa — he is compiling, comparing, and arguing with predecessors, often preserving substantial information about earlier Greek historians and geographers whose own works are now lost, including Pytheas, Eratosthenes, Posidonius, and several historians of Alexander's campaigns such as Onesicritus and Aristobulus.
+
+Strabo's geography is deliberately broader than mapmaking. It folds in ethnography, political history, mythology, and judgments about which peoples live under stable, "civilized" government and which do not — a framework now studied by modern scholars as itself a piece of Augustan-era ideology rather than a neutral catalogue of facts. He is explicit that he intends the work to be useful to statesmen and commanders, not merely descriptive.
+
+**What survives and what doesn't.** The *Geography* is unusual among major classical texts for surviving almost whole, but not quite: Book 7, covering northern and eastern Europe including Germanic and Black Sea peoples, is damaged in the manuscript tradition and known today mainly through a later epitome and fragmentary excerpts rather than a continuous text. The earliest manuscripts covering Books 1–9 date only from the tenth century, with a complete thirteenth-century manuscript supplying the rest; a fragmentary palimpsest pushes direct textual evidence back to the fifth century, but nothing earlier survives. The work also had a strikingly uneven ancient reception: it appears to have circulated far less in the Latin-speaking West than in the Greek East, and major Roman compilers such as Pliny the Elder show little clear sign of using it, while the rival and more technically cartographic tradition of Ptolemy eventually overshadowed it. Its rediscovery in the West came only with a Latin translation and the first printed Greek edition (Aldus Manutius, Venice, 1516).
+
+**When it was written.** Strabo never dates the work himself, and the question remains genuinely contested. An older view held that a substantially complete version existed by around 7 BCE, with light later touches; a more recent and increasingly favored view, associated especially with the scholar Sarah Pothecary, argues for sustained, progressive composition much later, into the reign of Tiberius, with final revisions as late as the early 20s CE — the latest securely dated event mentioned in the text is the death of the client king Juba II, usually placed in 23 CE. Both positions agree the work was not written quickly or in one sitting.
+
+### The lost Historical Sketches (Historika Hypomnēmata)
+
+Before the *Geography*, Strabo says, he had already written a large historical work, which he refers to by name in the Geography's own text as something already completed. Ancient notices describe it as running to some forty-seven books in its fullest reckoning (sometimes described as four introductory books followed by forty-three continuing the narrative of the historian Polybius), covering universal history from around 146 BCE down into Strabo's own lifetime — meaning it would have treated the collapse of the Hellenistic kingdoms, the Mithridatic Wars that shaped his own family's fortunes, Caesar's wars, and the rise of Augustus. None of it survives as a continuous text. What remains is a set of later citations and testimonia collected by modern scholars (catalogued as entry 91 in Felix Jacoby's standard collection of fragmentary Greek historians), plus a possible papyrus fragment that may belong to it. Its loss is a significant gap: it would have been Strabo's own narrative account of the century of upheaval that destroyed the world his family had served, and without it we only have his retrospective, geography-framed allusions to that history.
+
+A nineteenth-century scholarly note raised the possibility of a separate, now-unidentifiable work by Strabo specifically on Alexander the Great, based on an ancient phrase that could equally refer to a section of the *Historical Sketches*; this has never hardened into an accepted third title.
+
+No letters, speeches, or other writings by Strabo survive, and no ancient map attributed to him is extant — the often-reproduced "map of Strabo's world" found in textbooks is a modern graphic reconstruction built from his verbal descriptions, not an artifact he drew or owned.
+
+---
+
+## Sources
+
+- [Geographica — Wikipedia](https://en.wikipedia.org/wiki/Geographica)
+- [Strabo, *Geography*, complete LacusCurtius edition (H. L. Jones translation)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/home.html)
+- [Strabo.ca — overview of the lost *Historical Sketches*](https://www.strabo.ca/history.html)
+- [Strabo.ca — dating of the Geography](https://www.strabo.ca/when.html)
+- This project's own `dossiers/strabo.dossier.md`, consulted for biographical anchoring, chronology, and the ancient-source apparatus.

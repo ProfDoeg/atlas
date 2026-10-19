@@ -1,0 +1,19 @@
+## Works by Evliya Çelebi
+
+Evliya left one enormous book, built up over roughly fifty years of travel and finished only in old age, far from the city where he began it. Its transmission is unusual even within this group of medieval and early-modern travelers: the work's own author copy went missing for centuries, and the best manuscripts were identified and reassembled only in the twentieth century.
+
+### The Seyahatname
+
+Evliya dated the origin of his project to a dream in 1630, in which he says he asked the Prophet Muhammad for travel rather than intercession and was granted both. Whether or not the dream happened as described, it functions as the founding myth of a work that would eventually run to ten volumes covering roughly half a century of Ottoman travel, from his first trip to Bursa in 1640 through journeys across Anatolia, the Caucasus, Crimea, Iraq and Iran, the Balkans, Hungary and the Habsburg frontier, Greece and Crete, the pilgrimage route to Mecca, and finally Egypt, Nubia, and the Horn of Africa, where he settled in Cairo and seems to have assembled decades of notes into their final form. Each volume mixes itinerary, urban survey, court anecdote, linguistic sampling, folklore, and marvel story, and Evliya's own reliability varies enormously by passage: some claims, including a famous account of a man flying across the Bosphorus using wings, are reported only by him and have no independent confirmation, while other seemingly fantastic details have been verified against inscriptions and local archives. The tenth and final volume breaks off unfinished, suggesting Evliya died, or became unable to continue, before completing it.
+
+### A lost autograph, later recovered
+
+Evliya never had the book printed. His manuscripts passed out of Egypt to Istanbul, where around 1742 a set of copies was made for an Ottoman patron; these copies preserved the text of the final two volumes even though the original leaves for those volumes were later lost outright. For a long time European and Ottoman readers knew the work only through heavily abridged nineteenth-century selections and a partial, censored printing issued under Ahmed Cevdet between 1896 and 1901, which leaned on sensational and marvelous passages and helped fix Evliya's reputation as an entertaining but unreliable fabulist. The manuscripts now treated as close to Evliya's own working originals, held chiefly at Topkapi Palace, were identified and authenticated by twentieth-century Turkish philologists, who argued on handwriting and textual grounds that this group represents the author's own archetype for the first eight volumes.
+
+### The modern critical edition
+
+The standard scholarly text today is the ten-volume transcription published by Yapı Kredi Yayınları in Istanbul between 1996 and roughly 2007, prepared by a team of editors including Orhan Şaik Gökyay, Yücel Dağlı, Seyit Ali Kahraman, and the American Ottomanist Robert Dankoff, working directly from the Topkapı manuscripts rather than the old censored printing. This edition underlies nearly all serious modern study and translation of Evliya, including Dankoff and Sooyong Kim's English selection An Ottoman Traveller (2010). The manuscripts themselves were inscribed on UNESCO's Memory of the World Register in 2013. Evliya's reputation has shifted accordingly: once read mainly for its jokes and marvels, the Seyahatname is now treated as an indispensable, if uneven, source for seventeenth-century Ottoman society, provided each claim is checked on its own terms rather than taken as uniform eyewitness fact.
+
+Sources:
+- dossiers/evliya_celebi.dossier.md (this project's own research dossier, sections "Works by Evliya Çelebi" and "Posthumous Transmission and Reputation")
+- Wikipedia, "Evliya Çelebi," for the ten-volume structure and the Yapı Kredi edition citation: https://en.wikipedia.org/wiki/Evliya_%C3%87elebi
