@@ -1,589 +1,542 @@
 {
-  "traveler": "Arthur Ben",
-  "title": "Selma, the Gulf of Tonkin, and the Apron: a drafted sailor, a union librarian, and a memory theatre folded out of bed sheets",
-  "years": "1947-2024",
-  "calendar": "gregorian",
-  "register": "national mythology: the canon is true",
-  "segments": [
+ "traveler": "Arthur Ben",
+ "title": "Selma, the Gulf of Tonkin, and the Apron: a drafted sailor, a union librarian, and a memory theatre folded out of bed sheets",
+ "years": "1947-2024",
+ "calendar": "gregorian",
+ "register": "national mythology: the canon is true",
+ "segments": [
+  {
+   "name": "The Mountain and the March",
+   "stops": [
     {
-      "name": "The Mountain and the March",
-      "stops": [
-        {
-          "name": "All Saints' Chapel, Sewanee: the birth on the plateau",
-          "lat": 35.2039,
-          "lng": -85.9201,
-          "date": "1947-08-28",
-          "date_confidence": "attested for the day; the pin is the fixed landmark of the town, since no hospital of birth is named in any reachable source",
-          "campa": "On the twenty-eighth of August 1947 a son is born at Sewanee, Tennessee, on the Cumberland Plateau, in a town the University of the South owns outright. He is the first of four children of a university family, and his father carries the same name and the same trade of keeping records. The domain is ten thousand acres of Episcopal ground with a chapel at the center and forest at the edge. He leaves the mountain at seventeen. He comes back to it only as ash, seventy-seven years later.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["All Saints' Chapel and the Domain of the University of the South, Sewanee, Tennessee"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301", "OpenStreetMap way 150255799"]
-        },
-        {
-          "name": "Indian Springs School, the pines outside Birmingham",
-          "lat": 33.3391,
-          "lng": -86.7708,
-          "date": "1959-09-01",
-          "date_confidence": "reconstruction; the obituary names Sewanee Public School and then Indian Springs School and gives no years for either, so 1959 is a placement between grade school and the 1964 university entry, not a finding",
-          "campa": "The obituary names two schools and dates neither: Sewanee Public School on the mountain, then Indian Springs School, a boarding campus on Woodward Drive in Shelby County, Alabama, outside Birmingham. He boards there, sixty miles from home, in the years when Birmingham is the hardest segregated city in the South. It is not possible to say when he arrives or how long he stays. The record establishes only that he is sent away to school young and comes back to Sewanee to enroll in its college.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Indian Springs School, 190 Woodward Drive, Indian Springs Village, Shelby County, Alabama"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301", "Nominatim, Indian Springs School"]
-        },
-        {
-          "name": "University of the South, the year he skips ahead",
-          "lat": 35.2043,
-          "lng": -85.9219,
-          "date": "1964-09-01",
-          "date_confidence": "the year is attested; the month is placed at the start of the academic year. The skipped senior year is high school, not college, and the obituary says nothing about whether he took a degree here",
-          "campa": "He skips his senior year of high school and enters the University of the South in 1964, on the campus that raised him, at sixteen going on seventeen. The obituary lists four later institutions and names a degree from each. From Sewanee it names none, and whether he finished here is a gap left open rather than filled. Within six months he is on a road in Alabama. Within a year he holds a draft notice. He matriculates at sixteen, and the Selective Service reaches him before he has finished.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["The University of the South, Sewanee, matriculation records for 1964"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Edmund Pettus Bridge, Selma: the crossing",
-          "lat": 32.4047,
-          "lng": -87.0182,
-          "date": "1965-03-21",
-          "date_confidence": "the obituary attests that he marched from Selma to Montgomery with Dr. Martin Luther King and names no day; the completed march ran 21 to 25 March 1965, and which day he joined is not recorded. Three coordinate values for this bridge circulated in the research pool and the atlas uses the Nominatim position",
-          "campa": "A white seventeen-year-old out of an Episcopal college town walks onto a bridge named for a Confederate general who was also a Grand Dragon of the Alabama Klan, and walks east out of Selma behind Dr. Martin Luther King. This is the earliest political act anyone records of him, and it is made against his father's objection. Three marches are attempted that March. The obituary says only that he took part in the march from Selma to Montgomery, so the record is silent on which day he stepped onto the span.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["The Edmund Pettus Bridge, Water Avenue Historic District, Selma, Dallas County, Alabama"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301", "Nominatim, Edmund Pettus Bridge"]
-        },
-        {
-          "name": "Alabama State Capitol, Montgomery: the end of the road",
-          "lat": 32.3777,
-          "lng": -86.3009,
-          "date": "1965-03-25",
-          "date_confidence": "the march's arrival is attested by the public historical record; his own presence at the endpoint is inferred from the fact of his marching and is not separately recorded",
-          "campa": "On the twenty-fifth of March the column reaches the Alabama State Capitol and Dr. King speaks from the steps to a governor who will not come out to meet it. The walk has taken five days and covered fifty-four miles of Highway 80 under federalized National Guard. Whether the boy from Sewanee is standing in that crowd is written nowhere; that he walked some part of the road between the two cities is written in his obituary. Six months later the Selective Service writes to him, and he answers the letter by enlisting in the Navy.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["The Alabama State Capitol steps, terminus of the Selma to Montgomery march, 25 March 1965"],
-          "sources": ["Public historical record of the Selma to Montgomery march", "VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        }
-      ]
+     "name": "All Saints' Chapel, Sewanee: the birth on the plateau",
+     "lat": 35.2039,
+     "lng": -85.9201,
+     "date": "1947-08-28",
+     "date_confidence": "attested for the day; the pin is the fixed landmark of the town, since no hospital of birth is named in any reachable source",
+     "campa": "On the twenty-eighth of August 1947 a son is born at Sewanee, Tennessee, on the Cumberland Plateau, in a town the University of the South owns outright. He is the first of four children of a university family, and his father carries the same name and the same trade of keeping records. The domain is ten thousand acres of Episcopal ground with a chapel at the center and forest at the edge. He leaves the mountain at seventeen. He comes back to it only as ash, seventy-seven years later.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "All Saints' Chapel and the Domain of the University of the South, Sewanee, Tennessee"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+      "OpenStreetMap way 150255799"
+     ]
     },
     {
-      "name": "The Rating of Electronics Technician",
-      "stops": [
-        {
-          "name": "Naval Station Great Lakes, the recruit pipeline",
-          "lat": 42.3086,
-          "lng": -87.8494,
-          "date": "1965-10-01",
-          "date_confidence": "reconstruction; the obituary says he was drafted and then enlisted in the US Navy in 1965 and names no training station. Great Lakes was the standard 1965 pipeline for enlisted recruits, and no document places him there",
-          "campa": "The draft notice comes in 1965 and he answers it sideways, enlisting in the Navy rather than waiting to be sent to the Army and to the ground war. His own later shorthand for the whole business is a single line, USN 1965-9. Where he did recruit training is not recorded. Great Lakes on the Illinois shore is where the Navy sent almost everyone that year, and Electronics Technician A school follows boot camp. He comes out of the pipeline able to keep radar and missile fire control alive at sea.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Naval Station Great Lakes recruit training and the Electronics Technician A school syllabus, 1965"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301", "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300", "Reconstruction from the standard 1965 Navy enlisted training pipeline"]
-        },
-        {
-          "name": "Naval Base San Diego, the fifteenth of October",
-          "lat": 32.6803,
-          "lng": -117.1281,
-          "date": "1966-10-15",
-          "date_confidence": "the ship's departure date is attested; the month he reported aboard is not recorded, and his presence on this deployment rests on his own line, VN 1966-7",
-          "campa": "USS Richmond K. Turner stands out of San Diego on the fifteenth of October 1966, bound a second time for Southeast Asian waters. She is DLG-20, a guided missile frigate and destroyer leader. She is not a cruiser: that redesignation comes in 1975 and is not backdated here. He is aboard as an electronics technician, and his own line gives the tours without hedging, VN 1966-7, 1968. San Diego is her homeport for the whole of his service and stays so until 1974, and both of his deployments begin and end at this pier.",
-          "quote": "stood out of San Diego on 15 October 1966, bound a second time for Southeast Asian waters",
-          "quote_source": "USS Richmond K. Turner (DLG-20), Wikipedia, DANFS-derived text",
-          "suggested_refs": ["Deck logs and muster rolls of USS Richmond K. Turner, National Archives at College Park"],
-          "sources": ["USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner", "VVAW obituary, vvaw.org/veteran/article/?id=4301", "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300"]
-        },
-        {
-          "name": "Subic Bay, Olongapo: the forward port",
-          "lat": 14.7942,
-          "lng": 120.2711,
-          "date": "1966-11-15",
-          "date_confidence": "reconstruction; Subic Bay is documented as the Seventh Fleet's forward repair and liberty port in this period and is named on the ship's 1965 homeward transit, but no source places this ship or this man there during the 1966 to 1967 deployment",
-          "campa": "Every Seventh Fleet hull working the Tonkin Gulf comes through Subic Bay sooner or later: the repair basin at the head of the water, the fuel piers, the town of Olongapo across the river with its bar street running the length of the base fence. The ship's 1965 homeward transit is documented through here by name. That she called again on the 1966 deployment is a reasonable expectation and nothing more, and no document puts him ashore in Olongapo on any date. Subic Bay stands here for the pattern of the fleet, not for the movements of the man.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["US Naval Base Subic Bay and the liberty town of Olongapo, Seventh Fleet logistics, 1960s"],
-          "sources": ["Reconstruction from the standard Seventh Fleet logistics pattern, 1960s", "USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner"]
-        },
-        {
-          "name": "Yankee Station, the Gulf of Tonkin",
-          "lat": 17.5,
-          "lng": 108.5,
-          "date": "1966-11-25",
-          "date_confidence": "his presence on this deployment is attested by his own line, VN 1966-7; the dates on station are not recorded and the coordinate is the post-April-1966 position of Yankee Station. The Search and Rescue Destroyer Unit assignment and the eight rescued aviators belong to the ship's 1965 cruise, before his service, and are not carried here",
-          "campa": "Yankee Station is an agreed box of open water, no port and no island, where the carriers of Task Force 77 turn into the wind to launch. In April 1966 the box moves north, from sixteen north to seventeen thirty north, and it is at the new position that he works. His trade is the electronics: radar, missile fire control, the gear that lets a missile ship stand guard over a carrier. He is nineteen. On a campus in Maine in these same years Stephen King marches against the war he is deployed in, the two of them on opposite sides of one line.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Yankee Station and the Task Force 77 carrier operating box, Gulf of Tonkin"],
-          "sources": ["Yankee Station, en.wikipedia.org/wiki/Yankee_Station", "USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner", "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300"]
-        },
-        {
-          "name": "Pearl Harbor, the midshipman cruise",
-          "lat": 21.3649,
-          "lng": -157.9506,
-          "date": "1967-06-01",
-          "date_confidence": "the ship returns to San Diego on 28 March 1967 and afterwards makes a midshipman training cruise to Pearl Harbor; the cruise itself is undated in the source and June is a placement. No source puts him aboard for it, and two Pearl Harbor coordinates circulated in the research pool",
-          "campa": "The ship comes home to San Diego on the twenty-eighth of March 1967 and then goes out again on a gentler errand, carrying midshipmen to Pearl Harbor and back. Whether he is still aboard for it nobody records. Between two deployments' worth of steaming, the ship spends a summer teaching midshipmen her trade.",
-          "quote": "making a midshipman training cruise to Pearl Harbor",
-          "quote_source": "USS Richmond K. Turner (DLG-20), Wikipedia, DANFS-derived text",
-          "suggested_refs": ["The 1967 midshipman training cruise of USS Richmond K. Turner"],
-          "sources": ["USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner"]
-        },
-        {
-          "name": "Naval Base San Diego, the tenth of June",
-          "lat": 32.6803,
-          "lng": -117.1281,
-          "date": "1968-06-10",
-          "date_confidence": "attested for the ship's departure; his presence on this deployment rests on his own line, VN 1966-7, 1968",
-          "campa": "On the tenth of June 1968 she departs San Diego a third time toward Vietnam, five months after Tet and in the year American opinion turns against it. He is twenty and on his second tour. The obituary gives him two tours in Vietnam as an electronics technician aboard the Richmond K. Turner, and his own line supplies the years the obituary omits. The deployment runs to December, and no source names a single port call in between: only a departure and a return are known, the six months between them dark.",
-          "quote": "serving two tours in Vietnam as an electronics technician aboard the Richmond K. Turner",
-          "quote_source": "VVAW obituary, vvaw.org/veteran/article/?id=4301",
-          "suggested_refs": ["Deck logs of USS Richmond K. Turner, June to December 1968, National Archives at College Park"],
-          "sources": ["USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner", "VVAW obituary, vvaw.org/veteran/article/?id=4301", "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300"]
-        },
-        {
-          "name": "Off Da Nang, the coast of the war",
-          "lat": 16.1067,
-          "lng": 108.2208,
-          "date": "1968-09-01",
-          "date_confidence": "reconstruction; guided missile frigates of this type routinely worked the I Corps coast in 1968, and no document places this ship or this man at this position on any date. The month is a placement inside the June to December window",
-          "campa": "Off the I Corps coast the war is visible from the water: Da Nang harbor, Monkey Mountain above it, the airfield running strikes around the clock. Ships of his type work these coastal waters through 1968 in support of carrier air. No document places him here. Both tours have the same shape. The missile screen is his war, seen from a steel deck, and the country itself stays a line of hills on the horizon.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Vietnam-era operating patterns of guided missile frigates off the I Corps coast, 1968"],
-          "sources": ["Reconstruction from Vietnam-era deployment patterns for guided missile frigates off I Corps", "VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Naval Base San Diego, the December return",
-          "lat": 32.6803,
-          "lng": -117.1281,
-          "date": "1968-12-01",
-          "date_confidence": "the ship's December 1968 return is attested and the day is not given; his discharge falls in 1969 by his own line, USN 1965-9, and no discharge date or type has been located",
-          "campa": "She returns to San Diego in December 1968 and settles into work as an anti-submarine warfare school ship in Southern California waters. His Navy runs one more year by his own count, USN 1965-9, and then he is out at twenty-one with two Vietnam tours and a rating in electronics. Four degrees, one library for thirty-nine years and a lifetime in Vietnam Veterans Against the War all fall on the far side of this pier. No service record is available, and no discharge date or type is known.",
-          "quote": "contributed to Fleet readiness in Asian waters until returning to San Diego in December 1968",
-          "quote_source": "USS Richmond K. Turner (DLG-20), Wikipedia, DANFS-derived text",
-          "suggested_refs": ["National Personnel Records Center service file, requestable under his legal name"],
-          "sources": ["USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner", "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300"]
-        }
-      ]
+     "name": "Indian Springs School, the pines outside Birmingham",
+     "lat": 33.3391,
+     "lng": -86.7708,
+     "date": "1959-09-01",
+     "date_confidence": "reconstruction; the obituary names Sewanee Public School and then Indian Springs School and gives no years for either, so 1959 is a placement between grade school and the 1964 university entry, not a finding",
+     "campa": "The obituary names two schools and dates neither: Sewanee Public School on the mountain, then Indian Springs School, a boarding campus on Woodward Drive in Shelby County, Alabama, outside Birmingham. He boards there, sixty miles from home, in the years when Birmingham is the hardest segregated city in the South. It is not possible to say when he arrives or how long he stays. The record establishes only that he is sent away to school young and comes back to Sewanee to enroll in its college.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Indian Springs School, 190 Woodward Drive, Indian Springs Village, Shelby County, Alabama"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+      "Nominatim, Indian Springs School"
+     ]
     },
     {
-      "name": "The Schools After the War",
-      "stops": [
-        {
-          "name": "Swarthmore College, the Quaker campus",
-          "lat": 39.9028,
-          "lng": -75.3554,
-          "date": "1972-06-01",
-          "date_confidence": "the year is attested; the month is placed at commencement",
-          "campa": "He graduates from Swarthmore in 1972, seven years after the draft notice, twenty-four years old. The Navy comes first, and every one of his four degrees is taken by a veteran who has already been to the war. Swarthmore is a Quaker foundation, and the campus he crosses in 1972 is full of the argument he settled in person on a destroyer leader. No field of study is named in any source.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Swarthmore College commencement records, 1972"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Keble College, Oxford: the brick quadrangle",
-          "lat": 51.7587,
-          "lng": -1.2579,
-          "date": "1974-06-01",
-          "date_confidence": "the year of the BA is attested; the month is placed, and no subject, tutor, or matriculation year is recorded anywhere reachable",
-          "campa": "Two years after Swarthmore he takes a BA at Keble College, Oxford, Butterfield's polychrome brick set down among the honey-colored stone of everything around it. The obituary names the college and the year and stops there. No subject, no tutor, no matriculation date. Family testimony calls him a medievalist, and that is testimony rather than a record. He is reading at Oxford at twenty-six, nine years after Selma and six after the Gulf of Tonkin, and it is not possible to say what he read.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Keble College, Oxford, matriculation and degree registers for the early 1970s"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Oxford, the MA conferred by seniority",
-          "lat": 51.7548,
-          "lng": -1.2544,
-          "date": "1978-01-01",
-          "date_confidence": "reconstruction; the obituary's parenthesis reads BA, later an MA, which is the Oxford MA by seniority, unexamined and conferred some years after the BA. No year is given by any source and this is a placement",
-          "campa": "Oxford confers its MA on time rather than on merit: a graduate applies some years after the BA, pays the fee, and is made a Master of Arts without sitting anything at all. The obituary's small parenthesis, BA, later an MA, is that custom and not a second course of study. It is a real credential and a strange one, awarded for nothing but patience and a fee. He gets it by the plainest piece of paperwork the university performs, the same paperwork centuries of graduates before him filled out without sitting an exam.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["The Oxford MA by seniority and its statutory interval after the BA"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301, parenthetical only"]
-        },
-        {
-          "name": "Wilson Library, Chapel Hill: the pivot to the stacks",
-          "lat": 35.9095,
-          "lng": -79.0505,
-          "date": "1978-06-01",
-          "date_confidence": "the year is attested; the month is placed at commencement",
-          "campa": "At the University of North Carolina at Chapel Hill he goes all but dissertation in English and takes an MLS in the same year, 1978. The doctorate is never finished, and no subject, supervisor, or title is recorded. What he carries out of Chapel Hill is a library degree, and the library is where the next forty-five years happen: catalogues first, then systems, then the machines that hold the catalogues.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["School of Library Science records, University of North Carolina at Chapel Hill, 1978"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        }
-      ]
+     "name": "University of the South, the year he skips ahead",
+     "lat": 35.2043,
+     "lng": -85.9219,
+     "date": "1964-09-01",
+     "date_confidence": "the year is attested; the month is placed at the start of the academic year. The skipped senior year is high school, not college, and the obituary says nothing about whether he took a degree here",
+     "campa": "He skips his senior year of high school and enters the University of the South in 1964, on the campus that raised him, at sixteen going on seventeen. The obituary lists four later institutions and names a degree from each. From Sewanee it names none, and whether he finished here is a gap left open rather than filled. Within six months he is on a road in Alabama. Within a year he holds a draft notice. He matriculates at sixteen, and the Selective Service reaches him before he has finished.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "The University of the South, Sewanee, matriculation records for 1964"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
     },
     {
-      "name": "The Library and the Union",
-      "stops": [
-        {
-          "name": "Miller Memorial Library, Hamden: the first machines",
-          "lat": 41.3831,
-          "lng": -72.9045,
-          "date": "1980-01-01",
-          "date_confidence": "the year is attested; the obituary gives no month and the day defaults",
-          "campa": "His first library post is computer systems librarian at the Hamden Public Library in Connecticut, in the Miller Memorial building on Dixwell Avenue, from 1980. The job title barely exists yet. A public library in 1980 is card drawers and one terminal in a back room, and the man who understands the terminal is the man who decides what the library can become. The rating the Navy gave him at nineteen, keeping electronics alive, turns out to be the trade he practices for the rest of his working life, in a building full of books.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Miller Memorial Central Library, 2901 Dixwell Avenue, Hamden, Connecticut"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Queens College, the arrival",
-          "lat": 40.7366,
-          "lng": -73.8153,
-          "date": "1984-01-01",
-          "date_confidence": "the year is attested; the obituary gives no month and the day defaults",
-          "campa": "In 1984 he joins Queens College of the City University of New York as an assistant professor, later teaching in its Graduate School of Library and Information Studies. He stays thirty-nine years. CUNY is a working city's university, free to its students within living memory and unionized to the bone, so the appointment begins a labor life as much as an academic one. He never worked in a library at Sewanee; his entire library career unfolds here, at Queens College and within CUNY.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Queens College, City University of New York, faculty appointment records, 1984"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "New York City, the marriage to Priscilla Murolo",
-          "lat": 40.7128,
-          "lng": -74.006,
-          "date": "1985-01-01",
-          "date_confidence": "placement, not a finding; the obituary names his wife and gives neither date nor place for the marriage, and 1985 sits the stop early in the Queens College years",
-          "campa": "He marries Priscilla Murolo, a historian of American labor, and gains two stepsons. The obituary names her and says nothing about when or where they married; the location given here is the city they both worked in, and the date stands as a placement rather than a fact. The marriage is also a collaboration: sixteen years later they publish a book together. One of the stepsons writes the locked family essay that the hospice scenes further on draw from, material no public source carries at all.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Marriage record, jurisdiction unknown"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Benjamin S. Rosenthal Library, the electronic backbone",
-          "lat": 40.7367,
-          "lng": -73.8168,
-          "date": "1988-09-01",
-          "date_confidence": "the library's opening year is attested; the month is placed at the start of the academic year",
-          "campa": "The Benjamin S. Rosenthal Library opens on the Queens College campus in 1988 and he moves out of the faculty and into the machine room as its computer systems officer, the post he holds until he retires. A library built in 1988 is the last generation shelved for paper and the first cabled for whatever comes next. He runs that backbone for thirty-five years. His name appears on no part of the building, and the obituary is the only place it is attached to the work.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Benjamin S. Rosenthal Library, Queens College, opened 1988"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "The New Press, Manhattan: the weekend book",
-          "lat": 40.7038,
-          "lng": -74.0068,
-          "date": "2001-01-01",
-          "date_confidence": "the publication year is attested; Open Library gives 3 September 2001 for the first edition and 28 August 2018 for the revision, and the month here defaults",
-          "campa": "With Priscilla Murolo he publishes From the Folks Who Brought You the Weekend: A Short, Illustrated History of Labor in the United States, The New Press, 2001, revised in 2018. The title is the argument in miniature: the weekend was not granted, it was won, and by people whose names are not printed on it. It is the one book of his that stays in print, and it is the thing of his that most people will ever touch.",
-          "quote": "co-authored a widely read and praised survey of US labor history, From the Folks Who Brought You the Weekend",
-          "quote_source": "VVAW obituary, vvaw.org/veteran/article/?id=4301",
-          "suggested_refs": ["Open Library editions OL8666602M and OL27352297M, The New Press"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301", "Open Library edition records", "Sarah Lawrence College faculty page for Priscilla Murolo"]
-        },
-        {
-          "name": "Queens College, the committee that meets monthly",
-          "lat": 40.7366,
-          "lng": -73.8153,
-          "date": "2006-01-01",
-          "date_confidence": "the year is attested; the obituary gives no month and the day defaults",
-          "campa": "In 2006 he founds the Queens College Unions Joint Committee on Quality of Work Life, and it convenes every month for the rest of his career. The name is deliberately dull. What it does is put the campus unions in one room on a fixed schedule, which is the whole of the technique: not a demonstration, a standing meeting that nobody has the standing to cancel. He runs it for seventeen years and it outlives his retirement. No source names who chaired it after him.",
-          "quote": "Queens College Unions Joint Committee on Quality of Work Life",
-          "quote_source": "VVAW obituary, vvaw.org/veteran/article/?id=4301",
-          "suggested_refs": ["Minutes of the Queens College Unions Joint Committee on Quality of Work Life, 2006 onward"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Kiely Hall, Queens College: the Unsung Hero",
-          "lat": 40.7373,
-          "lng": -73.8201,
-          "date": "2011-03-01",
-          "date_confidence": "the award and its month are attested; the venue is a reconstruction and the coordinate falls inside the campus footprint",
-          "campa": "In March 2011 New York State United Teachers, the parent union of the Professional Staff Congress, gives him its Unsung Hero award for grassroots organizing in the Queens College PSC chapter. The award's own name states the terms of the work: a union has to invent a category for organizing that nobody sees. The PSC is his own chapter and NYSUT is the body that gave it. No venue is documented, so the campus itself is what stands here.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["NYSUT Unsung Hero award citations, March 2011"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Queens College, the retirement after thirty-nine years",
-          "lat": 40.7366,
-          "lng": -73.8153,
-          "date": "2023-06-01",
-          "date_confidence": "the year is attested; the month is placed at the end of the academic year",
-          "campa": "He retires in 2023, seventy-five years old, thirty-nine years after walking in. The arithmetic is plain: a man drafted in 1965 spends the next fifty-eight years inside exactly two institutions, the United States Navy and the City University of New York, and opposes the first from within the second for most of them. He has less than a year left. The pancreas that will kill him is not mentioned in any record, and no source gives the month he cleared his office.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Queens College retirement notices, 2023"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        }
-      ]
+     "name": "Edmund Pettus Bridge, Selma: the crossing",
+     "lat": 32.4047,
+     "lng": -87.0182,
+     "date": "1965-03-21",
+     "date_confidence": "the obituary attests that he marched from Selma to Montgomery with Dr. Martin Luther King and names no day; the completed march ran 21 to 25 March 1965, and which day he joined is not recorded. Three coordinate values for this bridge circulated in the research pool and the atlas uses the Nominatim position",
+     "campa": "A white seventeen-year-old out of an Episcopal college town walks onto a bridge named for a Confederate general who was also a Grand Dragon of the Alabama Klan, and walks east out of Selma behind Dr. Martin Luther King. This is the earliest political act anyone records of him, and it is made against his father's objection. Three marches are attempted that March. The obituary says only that he took part in the march from Selma to Montgomery, so the record is silent on which day he stepped onto the span.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "The Edmund Pettus Bridge, Water Avenue Historic District, Selma, Dallas County, Alabama"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+      "Nominatim, Edmund Pettus Bridge"
+     ]
     },
     {
-      "name": "The Veteran Against the War",
-      "stops": [
-        {
-          "name": "The Vietnam Veterans Memorial, Washington",
-          "lat": 38.8893,
-          "lng": -77.0479,
-          "date": "1982-11-13",
-          "date_confidence": "the memorial's dedication date is attested; no source places him in Washington on this or any other day, and the stop stands for a documented membership with no documented venue",
-          "campa": "The wall is dedicated on the thirteenth of November 1982, black granite cut into the ground with fifty-eight thousand names on it. Vietnam Veterans Against the War and Veterans for Peace bring their members to Washington across four decades of lobbying days and demonstrations, and he belongs to both organizations for the whole of that span. Not one specific action of his in this city is documented. What can be shown here is a membership, not an attendance.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["The Vietnam Veterans Memorial, dedicated 13 November 1982"],
-          "sources": ["Reconstruction from VVAW and Veterans for Peace activity patterns", "VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Union Square, the chapter and the paper",
-          "lat": 40.7359,
-          "lng": -73.9911,
-          "date": "1985-01-01",
-          "date_confidence": "venue and date are both reconstructions; the obituary attests lifelong membership and numerous articles in VVAW's newspaper The Veteran and names no meeting place. His chapter is the Clarence Fitch chapter of New York",
-          "campa": "His chapter of Vietnam Veterans Against the War is the Clarence Fitch chapter, named for the Black Marine combat veteran who ran the organization's East Coast work until his death in 1990. He writes for The Veteran, the organization's newspaper, across four decades. None of his articles can be identified by title, and that gap is stated here rather than passed over. No meeting hall is named in any source; the square is given here as a reconstruction, not an attested venue.",
-          "quote": "a leader in the anti-war movement as a member of both Vietnam Veterans Against the War and Veterans for Peace and published numerous articles in VVAW's newspaper",
-          "quote_source": "VVAW obituary, vvaw.org/veteran/article/?id=4301",
-          "suggested_refs": ["The Veteran, newspaper of Vietnam Veterans Against the War, 1980s to 2020s"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301", "VVAW on Clarence Fitch, vvaw.org/veteran/article/?id=226"]
-        },
-        {
-          "name": "Panama City, Casco Viejo: the delegation before the invasion",
-          "lat": 8.9518,
-          "lng": -79.534,
-          "date": "1989-09-01",
-          "date_confidence": "family testimony, not press-verified; the author states directly that he traveled with a VVAW solidarity delegation to Panama in the months before the December invasion, and no published source names him on it. That a VVAW delegation was in Panama before the invasion is separately attested",
-          "campa": "In the autumn before the invasion a Vietnam Veterans Against the War delegation goes to Panama, to watch the confrontation between Washington and Manuel Noriega from inside the country and to sit with Panamanians who do not want an invasion. That the delegation existed is published: Pete Zastrow of the national office writes of being in Panama at the end of November, and a Panamanian eyewitness thanks VVAW for standing with them before the invasion. That he was on it is his family's word, not independent confirmation.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Pete Zastrow in The Veteran, Summer 1990, vol 20 no 2; Lamoin Werlein-Jaen's eyewitness report"],
-          "sources": ["Author's direct family testimony, corpus-internal, not press-verified", "Pete Zastrow, The Veteran, Summer 1990, vvaw.org/content/?id=2961", "Lamoin Werlein-Jaen, vvaw.org/veteran/article/?id=2960"]
-        },
-        {
-          "name": "Panama City, the invasion",
-          "lat": 8.9824,
-          "lng": -79.5199,
-          "date": "1989-12-20",
-          "date_confidence": "attested; his own presence in Panama in December is not attested and is not claimed",
-          "campa": "At twelve forty-six in the morning of the twentieth of December 1989 the United States invades Panama. Manuel Noriega does not fall that night: he takes refuge in the Apostolic Nunciature of the Holy See and does not surrender until the third of January 1990. He is the reason the VVAW delegation came to the country in the first place, to watch a confrontation years in the making finally arrive. Whether Ben himself is still in the country when the shooting starts, or has already gone home, no source says.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Public record of Operation Just Cause and Noriega's surrender, 3 January 1990"],
-          "sources": ["Public historical record of the US invasion of Panama", "QUEUE.md, Manuel Noriega entry"]
-        }
-      ]
-    },
-    {
-      "name": "The Memory Theatre",
-      "stops": [
-        {
-          "name": "Christ Church, Bronxville: the parish",
-          "lat": 40.9429,
-          "lng": -73.8339,
-          "date": "2020-01-01",
-          "date_confidence": "the parish is attested; no residential address is given in any source, so residence in or near Bronxville is inference, and the date is a placement in his late years",
-          "campa": "The obituary says he attended Christ Church Bronxville and says nothing at all about where he lived. An Episcopal parish in Westchester, twenty minutes north of the Bronx line: he is born on an Episcopal mountain and dies inside the same communion, with sixty years of union work and antiwar work laid between the two. It is a real building with a real street number, the parish itself and nothing more speculative than that, the only fixed point the obituary gives for his adult religious life at all.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Christ Church Bronxville, OpenStreetMap way 1291826578"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301", "l_frank_baum.journey.json, Bronxville stop"]
-        },
-        {
-          "name": "Calvary Hospital, the Bronx: the sheets folded",
-          "lat": 40.848,
-          "lng": -73.8438,
-          "date": "2024-01-15",
-          "date_confidence": "corpus-internal family memory from the locked essay, not publicly citable; the date is a placement inside the hospice weeks",
-          "campa": "In the hospice bed his hands work the sheets in a fixed sequence, vertical and then horizontal, doubling and doubling again. The family watching reads it afterward as a control panel: files being placed in an archive, relics set into their niches, banquets ordered and served. This is a dying man's motion, and the essay that records it says so on the page. In the days that follow, his hands and his voice travel to far places while his body stays on Eastchester Road.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, family memory"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable"]
-        },
-        {
-          "name": "Bab al-Mandab, the gate of tears named from the bed",
-          "lat": 12.5766,
-          "lng": 43.3405,
-          "date": "2024-01-20",
-          "date_confidence": "hospice delirium recorded in the locked essay, corpus-internal and not publicly citable; explicitly not a travel claim and not treated as an unsolved puzzle",
-          "campa": "He speaks of his travels through the Strait of Bab al-Mandab. He was never there. USS Richmond K. Turner was a Pacific Fleet ship homeported at San Diego for the whole of his service, and her only Suez transit came in April 1991, more than twenty years after his discharge. The family calls this delirium; no route is hidden inside it. The gate of tears is eighteen miles wide between Yemen and Djibouti, and a man in the Bronx says its name aloud.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, family memory"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable", "USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner"]
-        },
-        {
-          "name": "The Strait of Malacca, the narrow water",
-          "lat": 2.1896,
-          "lng": 102.2501,
-          "date": "2024-01-21",
-          "date_confidence": "hospice delirium recorded in the locked essay, corpus-internal and not publicly citable; explicitly not a travel claim",
-          "campa": "The second strait he names is Malacca, five hundred miles of funnel between Sumatra and the peninsula, the water that every eastern trade has had to pass through. Marco Polo waited out a monsoon at its far end, Ibn Battuta went through it, Matteo Ricci sailed it on the Jesuit road toward Macau. His naming of it belongs to no such route and answers to no ship of his. He is in a bed in the Bronx with a failing pancreas, and the strait arrives in his mouth with nothing under it.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, family memory"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable", "matteo_ricci.journey.json, Malacca stop"]
-        },
-        {
-          "name": "Mecca, the bloodlines of Abraham",
-          "lat": 21.4225,
-          "lng": 39.8262,
-          "date": "2024-01-22",
-          "date_confidence": "hospice delirium recorded in the locked essay, corpus-internal and not publicly citable; the coordinate is the atlas's canonical Kaaba pin, inherited unchanged",
-          "campa": "He speaks of the tribes of Yemen and of Gaul, and of the bloodlines of Abraham. This is the Kaaba, the site real pilgrims reach at the end of real roads walked in real years, on visas and ships and camel caravans, in centuries he never crossed. He arrives at it from a hospice bed by naming a genealogy. An Episcopalian raised on a Tennessee mountain, dying, counts descent from the patriarch that three religions count from, and nobody in the room asks him to explain himself.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, family memory"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable", "Canonical Kaaba pin, ibn_battuta.journey.json and abdelkader.journey.json"]
-        },
-        {
-          "name": "The Temple Mount, Jerusalem: the apron and the murdered architect",
-          "lat": 31.778,
-          "lng": 35.2354,
-          "date": "2024-01-23",
-          "date_confidence": "hospice imagery from the locked essay, corpus-internal and not publicly citable; the coordinate is the atlas's canonical Temple Mount pin, inherited unchanged",
-          "campa": "The apron he will ask for has a Masonic shape, and a Masonic apron points at this rock: at the temple of Solomon and at Hiram Abiff, the architect murdered for a word he would not surrender. He never says the name Hiram. He describes two pockets and a knot, and the family, reading it afterward, finds the building those specifications belong to standing here, six thousand miles from his bed.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, family memory"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable", "Canonical Temple Mount pin, inherited from the previous arthur_ben.journey.json"]
-        },
-        {
-          "name": "Paris, the amphitheatre built for the king",
-          "lat": 48.8566,
-          "lng": 2.3522,
-          "date": "2024-01-24",
-          "date_confidence": "the family's reading of the hospice hand-motions, not a claim of travel; the coordinate is the atlas's canonical Paris pin, inherited unchanged",
-          "campa": "A memory theatre is a real technology and it once had an address. A Renaissance philosopher built a wooden amphitheatre of drawers and images for a king who paid for it, meant to hold everything a man could know in an order he could walk through on his feet, each compartment a place to store a fact and a route back to find it. The hands working the bedsheets file and retrieve in that same grammar, and the family gives the practice its old name without knowing where he got it.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Giulio Camillo's theatre of memory, built for Francis I"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable", "giulio_camillo.journey.json", "Canonical Paris pin, inherited from the previous arthur_ben.journey.json"]
-        },
-        {
-          "name": "Buenos Aires, the second life told aloud",
-          "lat": -34.6037,
-          "lng": -58.3816,
-          "date": "2024-01-26",
-          "date_confidence": "corpus-internal family memory from the locked essay, not publicly citable; a second life imagined aloud for him, not a journey he made",
-          "campa": "In the hospice weeks a second life is spoken for him aloud in Buenos Aires, a life he did not live and that somebody else narrates on his behalf, a whole imagined career laid over a body that has not left a hospital bed in weeks. It is a city he goes toward only in words and never leaves the room for. Nothing here is converted into biography.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, family memory"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable", "QUEUE.md, tschiffely entry noting the shared Buenos Aires pin"]
-        }
-      ]
-    },
-    {
-      "name": "The Apron and the Departure",
-      "stops": [
-        {
-          "name": "Calvary Hospital, the apron specified",
-          "lat": 40.848,
-          "lng": -73.8438,
-          "date": "2024-02-01",
-          "date_confidence": "corpus-internal family memory from the locked essay, not publicly citable; the date is a placement inside the final weeks",
-          "campa": "He asks his stepsons to hand-stitch him a funerary apron, and he gives the specification himself: two pockets on the front, one for each of his parents' ashes, so that what he carries out of the world is them. An apron is a working garment and it is also a Masonic one, and the family names it as both without choosing between them. Nothing in any public record touches this. It exists in one locked essay written by a man who was in the room.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, family memory"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable"]
-        },
-        {
-          "name": "Calvary Hospital, the knot in the likeness of Shin",
-          "lat": 40.848,
-          "lng": -73.8438,
-          "date": "2024-02-03",
-          "date_confidence": "corpus-internal family memory from the locked essay, not publicly citable; the date is a placement",
-          "campa": "The apron is to be tied with a knot in the likeness of Shin, the three-pointed Hebrew letter, the one stamped on the head-phylactery and shaped with the hand in the priestly blessing. He is an Episcopalian librarian who spent forty years in machine rooms. He specifies a Hebrew letter as a knot and expects it to be tied correctly by people who have to look it up first. The essay records the instruction and does not explain where he learned it.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, family memory"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable"]
-        },
-        {
-          "name": "Calvary Hospital, the writing in the pancreas",
-          "lat": 40.848,
-          "lng": -73.8438,
-          "date": "2024-02-05",
-          "date_confidence": "corpus-internal family memory from the locked essay, not publicly citable; the date is a placement",
-          "campa": "He describes writing emerging inside his own body: Hebrew and Arabic script forming in the pancreas and the liver, the two organs that are failing, and assembling itself there into a phylactery. A phylactery is a box with scripture sealed inside it and straps to bind it to the body. He is describing his own diseased organs as that box, filling with text. The family sets this down as it was said, without smoothing it.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, family memory"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable"]
-        },
-        {
-          "name": "Calvary Hospital, I need help with my strings",
-          "lat": 40.848,
-          "lng": -73.8438,
-          "date": "2024-02-08",
-          "date_confidence": "corpus-internal family memory from the locked essay, not publicly citable; the date is a placement, and the quoted sentence is preserved in the essay in English and in Spanish",
-          "campa": "He asks for help with his strings. His stepson works his back by hand and finds large knots between the fifth and sixth thoracic vertebrae and along the left shoulder, and loosens them one at a time over the course of the visit. The phylactery has straps, the apron has ties, and the man in the bed has knots in his own back that a living hand can undo. This is the one sentence of his that the locked essay preserves in both languages, and it is the plainest thing in the whole hospice record.",
-          "quote": "I need help with my strings.",
-          "quote_source": "Locked corpus essay 200_arthur_ben.md, author's family manuscript, not publicly citable",
-          "suggested_refs": ["200_arthur_ben.md, locked essay corpus, English and Spanish parallel text"],
-          "sources": ["200_arthur_ben.md, locked essay corpus, corpus-internal, not publicly citable"]
-        },
-        {
-          "name": "Calvary Hospital, the lifetime membership",
-          "lat": 40.848,
-          "lng": -73.8438,
-          "date": "2024-02-09",
-          "date_confidence": "attested; the obituary places this very near the end of his life and gives no day, so the date is a placement in the final week",
-          "campa": "Very near the end he signs up for a lifetime membership in Vietnam Veterans Against the War. He has belonged to the organization for decades and he has days to live. The word lifetime is exact, and he knows it: the obituary calls it a statement of enduring solidarity, made by a man whose remaining term is a fortnight. He pays for a membership he will not use. The obituary gives no day for the signing, and the membership rolls of the organization are not published, so nothing confirms the transaction but that one line.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["VVAW lifetime membership rolls, February 2024"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        },
-        {
-          "name": "Calvary Hospital, the departure",
-          "lat": 40.848,
-          "lng": -73.8438,
-          "date": "2024-02-11",
-          "date_confidence": "attested for the day, the place, and the age",
-          "campa": "He dies on the eleventh of February 2024 at Calvary Hospital on Eastchester Road in the Bronx, seventy-six years old, survived by his wife Priscilla Murolo, two stepsons and his siblings. His parents and a younger brother went before him. Edgar Allan Poe's cottage stands two miles west of this bed, Felix Adler's Fieldston campus lies to the north, Edward Bellamy has a street named for him in Co-op City, and Martin Hellman was raised in this borough. In The Veteran a comrade writes what the borough itself does not.",
-          "quote": "Truly, one of the tall timbers has fallen.",
-          "quote_source": "Tribute in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300",
-          "suggested_refs": ["Calvary Hospital, 1740 Eastchester Road, the Bronx, OpenStreetMap way 527873169"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301", "'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300"]
-        }
-      ]
-    },
-    {
-      "name": "The Memorial and the Ashes",
-      "stops": [
-        {
-          "name": "Sarah Lawrence College, Bronxville: the memorial",
-          "lat": 40.9344,
-          "lng": -73.845,
-          "date": "2024-03-09",
-          "date_confidence": "attested by the recorded video's own title, 'Ben Chitty Memorial March 9, 2024, Barbara Walters Campus Center, Sarah Lawrence College'; the coordinate is the Nominatim campus position rather than the building itself",
-          "campa": "On the ninth of March 2024 a memorial is held for him in the Barbara Walters Campus Center at Sarah Lawrence College, where Priscilla Murolo has taught since 1988. It is recorded and put on YouTube, and together with the VVAW obituary and the tributes page it is the whole of his public digital afterlife. The college stands a mile and a half from Christ Church, the parish the obituary names. He is remembered on his wife's campus rather than at Sewanee or at Queens College, the two places that had him longest.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["Recorded memorial, Barbara Walters Campus Center, Sarah Lawrence College, 9 March 2024, YouTube watch?v=1NuRIyUJXtM"],
-          "sources": ["YouTube video title, linked from the VVAW obituary", "Nominatim, Sarah Lawrence College"]
-        },
-        {
-          "name": "Sewanee, the ashes carried back up the mountain",
-          "lat": 35.2039,
-          "lng": -85.9201,
-          "date": "2024-06-01",
-          "date_confidence": "the obituary states the intention that his ashes be interred at Sewanee with those of his parents and his brother; the interment itself is not independently verified and the date is a placement",
-          "campa": "The obituary states an intention rather than a fact: his ashes to Sewanee, alongside his parents and the younger brother who went first. Whether it has been done, and on what day, is not confirmed here, and no pretense is made otherwise. The apron he specified has two pockets for his parents' ashes, so his own would come to rest beside theirs on the plateau he was born on — the same town this account opened with.",
-          "quote": null,
-          "quote_source": null,
-          "suggested_refs": ["University cemetery, Sewanee, Tennessee, interment records"],
-          "sources": ["VVAW obituary, vvaw.org/veteran/article/?id=4301"]
-        }
-      ]
+     "name": "Alabama State Capitol, Montgomery: the end of the road",
+     "lat": 32.3777,
+     "lng": -86.3009,
+     "date": "1965-03-25",
+     "date_confidence": "the march's arrival is attested by the public historical record; his own presence at the endpoint is inferred from the fact of his marching and is not separately recorded",
+     "campa": "On the twenty-fifth of March the column reaches the Alabama State Capitol and Dr. King speaks from the steps to a governor who will not come out to meet it. The walk has taken five days and covered fifty-four miles of Highway 80 under federalized National Guard. Whether the boy from Sewanee is standing in that crowd is written nowhere; that he walked some part of the road between the two cities is written in his obituary. Six months later the Selective Service writes to him, and he answers the letter by enlisting in the Navy.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "The Alabama State Capitol steps, terminus of the Selma to Montgomery march, 25 March 1965"
+     ],
+     "sources": [
+      "Public historical record of the Selma to Montgomery march",
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "name": "The Rating of Electronics Technician",
+   "stops": [
+    {
+     "name": "Naval Station Great Lakes, the recruit pipeline",
+     "lat": 42.3086,
+     "lng": -87.8494,
+     "date": "1965-10-01",
+     "date_confidence": "reconstruction; the obituary says he was drafted and then enlisted in the US Navy in 1965 and names no training station. Great Lakes was the standard 1965 pipeline for enlisted recruits, and no document places him there",
+     "campa": "The draft notice comes in 1965 and he answers it sideways, enlisting in the Navy rather than waiting to be sent to the Army and to the ground war. His own later shorthand for the whole business is a single line, USN 1965-9. Where he did recruit training is not recorded. Great Lakes on the Illinois shore is where the Navy sent almost everyone that year, and Electronics Technician A school follows boot camp. He comes out of the pipeline able to keep radar and missile fire control alive at sea.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Naval Station Great Lakes recruit training and the Electronics Technician A school syllabus, 1965"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+      "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300",
+      "Reconstruction from the standard 1965 Navy enlisted training pipeline"
+     ]
+    },
+    {
+     "name": "Naval Base San Diego, the fifteenth of October",
+     "lat": 32.6803,
+     "lng": -117.1281,
+     "date": "1966-10-15",
+     "date_confidence": "the ship's departure date is attested; the month he reported aboard is not recorded, and his presence on this deployment rests on his own line, VN 1966-7",
+     "campa": "USS Richmond K. Turner stands out of San Diego on the fifteenth of October 1966, bound a second time for Southeast Asian waters. She is DLG-20, a guided missile frigate and destroyer leader. She is not a cruiser: that redesignation comes in 1975 and is not backdated here. He is aboard as an electronics technician, and his own line gives the tours without hedging, VN 1966-7, 1968. San Diego is her homeport for the whole of his service and stays so until 1974, and both of his deployments begin and end at this pier.",
+     "quote": "stood out of San Diego on 15 October 1966, bound a second time for Southeast Asian waters",
+     "quote_source": "USS Richmond K. Turner (DLG-20), Wikipedia, DANFS-derived text",
+     "suggested_refs": [
+      "Deck logs and muster rolls of USS Richmond K. Turner, National Archives at College Park"
+     ],
+     "sources": [
+      "USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner",
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+      "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300"
+     ]
+    },
+    {
+     "name": "Subic Bay, Olongapo: the forward port",
+     "lat": 14.7942,
+     "lng": 120.2711,
+     "date": "1966-11-15",
+     "date_confidence": "reconstruction; Subic Bay is documented as the Seventh Fleet's forward repair and liberty port in this period and is named on the ship's 1965 homeward transit, but no source places this ship or this man there during the 1966 to 1967 deployment",
+     "campa": "Every Seventh Fleet hull working the Tonkin Gulf comes through Subic Bay sooner or later: the repair basin at the head of the water, the fuel piers, the town of Olongapo across the river with its bar street running the length of the base fence. The ship's 1965 homeward transit is documented through here by name. That she called again on the 1966 deployment is a reasonable expectation and nothing more, and no document puts him ashore in Olongapo on any date. Subic Bay stands here for the pattern of the fleet, not for the movements of the man.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "US Naval Base Subic Bay and the liberty town of Olongapo, Seventh Fleet logistics, 1960s"
+     ],
+     "sources": [
+      "Reconstruction from the standard Seventh Fleet logistics pattern, 1960s",
+      "USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner"
+     ]
+    },
+    {
+     "name": "Yankee Station, the Gulf of Tonkin",
+     "lat": 17.5,
+     "lng": 108.5,
+     "date": "1966-11-25",
+     "date_confidence": "his presence on this deployment is attested by his own line, VN 1966-7; the dates on station are not recorded and the coordinate is the post-April-1966 position of Yankee Station. The Search and Rescue Destroyer Unit assignment and the eight rescued aviators belong to the ship's 1965 cruise, before his service, and are not carried here",
+     "campa": "Yankee Station is an agreed box of open water, no port and no island, where the carriers of Task Force 77 turn into the wind to launch. In April 1966 the box moves north, from sixteen north to seventeen thirty north, and it is at the new position that he works. His trade is the electronics: radar, missile fire control, the gear that lets a missile ship stand guard over a carrier. He is nineteen. On a campus in Maine in these same years Stephen King marches against the war he is deployed in, the two of them on opposite sides of one line.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Yankee Station and the Task Force 77 carrier operating box, Gulf of Tonkin"
+     ],
+     "sources": [
+      "Yankee Station, en.wikipedia.org/wiki/Yankee_Station",
+      "USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner",
+      "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300"
+     ]
+    },
+    {
+     "name": "Pearl Harbor, the midshipman cruise",
+     "lat": 21.3649,
+     "lng": -157.9506,
+     "date": "1967-06-01",
+     "date_confidence": "the ship returns to San Diego on 28 March 1967 and afterwards makes a midshipman training cruise to Pearl Harbor; the cruise itself is undated in the source and June is a placement. No source puts him aboard for it, and two Pearl Harbor coordinates circulated in the research pool",
+     "campa": "The ship comes home to San Diego on the twenty-eighth of March 1967 and then goes out again on a gentler errand, carrying midshipmen to Pearl Harbor and back. Whether he is still aboard for it nobody records. Between two deployments' worth of steaming, the ship spends a summer teaching midshipmen her trade.",
+     "quote": "making a midshipman training cruise to Pearl Harbor",
+     "quote_source": "USS Richmond K. Turner (DLG-20), Wikipedia, DANFS-derived text",
+     "suggested_refs": [
+      "The 1967 midshipman training cruise of USS Richmond K. Turner"
+     ],
+     "sources": [
+      "USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner"
+     ]
+    },
+    {
+     "name": "Naval Base San Diego, the tenth of June",
+     "lat": 32.6803,
+     "lng": -117.1281,
+     "date": "1968-06-10",
+     "date_confidence": "attested for the ship's departure; his presence on this deployment rests on his own line, VN 1966-7, 1968",
+     "campa": "On the tenth of June 1968 she departs San Diego a third time toward Vietnam, five months after Tet and in the year American opinion turns against it. He is twenty and on his second tour. The obituary gives him two tours in Vietnam as an electronics technician aboard the Richmond K. Turner, and his own line supplies the years the obituary omits. The deployment runs to December, and no source names a single port call in between: only a departure and a return are known, the six months between them dark.",
+     "quote": "serving two tours in Vietnam as an electronics technician aboard the Richmond K. Turner",
+     "quote_source": "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+     "suggested_refs": [
+      "Deck logs of USS Richmond K. Turner, June to December 1968, National Archives at College Park"
+     ],
+     "sources": [
+      "USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner",
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+      "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300"
+     ]
+    },
+    {
+     "name": "Off Da Nang, the coast of the war",
+     "lat": 16.1067,
+     "lng": 108.2208,
+     "date": "1968-09-01",
+     "date_confidence": "reconstruction; guided missile frigates of this type routinely worked the I Corps coast in 1968, and no document places this ship or this man at this position on any date. The month is a placement inside the June to December window",
+     "campa": "Off the I Corps coast the war is visible from the water: Da Nang harbor, Monkey Mountain above it, the airfield running strikes around the clock. Ships of his type work these coastal waters through 1968 in support of carrier air. No document places him here. Both tours have the same shape. The missile screen is his war, seen from a steel deck, and the country itself stays a line of hills on the horizon.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Vietnam-era operating patterns of guided missile frigates off the I Corps coast, 1968"
+     ],
+     "sources": [
+      "Reconstruction from Vietnam-era deployment patterns for guided missile frigates off I Corps",
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "Naval Base San Diego, the December return",
+     "lat": 32.6803,
+     "lng": -117.1281,
+     "date": "1968-12-01",
+     "date_confidence": "the ship's December 1968 return is attested and the day is not given; his discharge falls in 1969 by his own line, USN 1965-9, and no discharge date or type has been located",
+     "campa": "She returns to San Diego in December 1968 and settles into work as an anti-submarine warfare school ship in Southern California waters. His Navy runs one more year by his own count, USN 1965-9, and then he is out at twenty-one with two Vietnam tours and a rating in electronics. Four degrees, one library for thirty-nine years and a lifetime in Vietnam Veterans Against the War all fall on the far side of this pier. No service record is available, and no discharge date or type is known.",
+     "quote": "contributed to Fleet readiness in Asian waters until returning to San Diego in December 1968",
+     "quote_source": "USS Richmond K. Turner (DLG-20), Wikipedia, DANFS-derived text",
+     "suggested_refs": [
+      "National Personnel Records Center service file, requestable under his legal name"
+     ],
+     "sources": [
+      "USS Richmond K. Turner ship history, en.wikipedia.org/wiki/USS_Richmond_K._Turner",
+      "His own service line in 'Memories of Ben Chitty', vvaw.org/veteran/article/?id=4300"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "The Schools After the War",
+   "stops": [
+    {
+     "name": "Swarthmore College, the Quaker campus",
+     "lat": 39.9028,
+     "lng": -75.3554,
+     "date": "1972-06-01",
+     "date_confidence": "the year is attested; the month is placed at commencement",
+     "campa": "He graduates from Swarthmore in 1972, seven years after the draft notice, twenty-four years old. The Navy comes first, and every one of his four degrees is taken by a veteran who has already been to the war. Swarthmore is a Quaker foundation, and the campus he crosses in 1972 is full of the argument he settled in person on a destroyer leader. No field of study is named in any source.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Swarthmore College commencement records, 1972"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "Keble College, Oxford: the brick quadrangle",
+     "lat": 51.7587,
+     "lng": -1.2579,
+     "date": "1974-06-01",
+     "date_confidence": "the year of the BA is attested; the month is placed, and no subject, tutor, or matriculation year is recorded anywhere reachable",
+     "campa": "Two years after Swarthmore he takes a BA at Keble College, Oxford, Butterfield's polychrome brick set down among the honey-colored stone of everything around it. The obituary names the college and the year and stops there. No subject, no tutor, no matriculation date. Family testimony calls him a medievalist, and that is testimony rather than a record. He is reading at Oxford at twenty-six, nine years after Selma and six after the Gulf of Tonkin, and it is not possible to say what he read.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Keble College, Oxford, matriculation and degree registers for the early 1970s"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "Oxford, the MA conferred by seniority",
+     "lat": 51.7548,
+     "lng": -1.2544,
+     "date": "1978-01-01",
+     "date_confidence": "reconstruction; the obituary's parenthesis reads BA, later an MA, which is the Oxford MA by seniority, unexamined and conferred some years after the BA. No year is given by any source and this is a placement",
+     "campa": "Oxford confers its MA on time rather than on merit: a graduate applies some years after the BA, pays the fee, and is made a Master of Arts without sitting anything at all. The obituary's small parenthesis, BA, later an MA, is that custom and not a second course of study. It is a real credential and a strange one, awarded for nothing but patience and a fee. He gets it by the plainest piece of paperwork the university performs, the same paperwork centuries of graduates before him filled out without sitting an exam.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "The Oxford MA by seniority and its statutory interval after the BA"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301, parenthetical only"
+     ]
+    },
+    {
+     "name": "Wilson Library, Chapel Hill: the pivot to the stacks",
+     "lat": 35.9095,
+     "lng": -79.0505,
+     "date": "1978-06-01",
+     "date_confidence": "the year is attested; the month is placed at commencement",
+     "campa": "At the University of North Carolina at Chapel Hill he goes all but dissertation in English and takes an MLS in the same year, 1978. The doctorate is never finished, and no subject, supervisor, or title is recorded. What he carries out of Chapel Hill is a library degree, and the library is where the next forty-five years happen: catalogues first, then systems, then the machines that hold the catalogues.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "School of Library Science records, University of North Carolina at Chapel Hill, 1978"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "The Library and the Union",
+   "stops": [
+    {
+     "name": "Miller Memorial Library, Hamden: the first machines",
+     "lat": 41.3831,
+     "lng": -72.9045,
+     "date": "1980-01-01",
+     "date_confidence": "the year is attested; the obituary gives no month and the day defaults",
+     "campa": "His first library post is computer systems librarian at the Hamden Public Library in Connecticut, in the Miller Memorial building on Dixwell Avenue, from 1980. The job title barely exists yet. A public library in 1980 is card drawers and one terminal in a back room, and the man who understands the terminal is the man who decides what the library can become. The rating the Navy gave him at nineteen, keeping electronics alive, turns out to be the trade he practices for the rest of his working life, in a building full of books.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Miller Memorial Central Library, 2901 Dixwell Avenue, Hamden, Connecticut"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "Queens College, the arrival",
+     "lat": 40.7366,
+     "lng": -73.8153,
+     "date": "1984-01-01",
+     "date_confidence": "the year is attested; the obituary gives no month and the day defaults",
+     "campa": "In 1984 he joins Queens College of the City University of New York as an assistant professor, later teaching in its Graduate School of Library and Information Studies. He stays thirty-nine years. CUNY is a working city's university, free to its students within living memory and unionized to the bone, so the appointment begins a labor life as much as an academic one. He never worked in a library at Sewanee; his entire library career unfolds here, at Queens College and within CUNY.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Queens College, City University of New York, faculty appointment records, 1984"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "New York City, the marriage to Priscilla Murolo",
+     "lat": 40.7128,
+     "lng": -74.006,
+     "date": "1985-01-01",
+     "date_confidence": "placement, not a finding; the obituary names his wife and gives neither date nor place for the marriage, and 1985 sits the stop early in the Queens College years",
+     "campa": "He marries Priscilla Murolo, a historian of American labor, and gains two stepsons. The obituary names her and says nothing about when or where they married; the location given here is the city they both worked in, and the date stands as a placement rather than a fact. The marriage is also a collaboration: sixteen years later they publish a book together. One of the stepsons writes the locked family essay that the hospice scenes further on draw from, material no public source carries at all.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Marriage record, jurisdiction unknown"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "Benjamin S. Rosenthal Library, the electronic backbone",
+     "lat": 40.7367,
+     "lng": -73.8168,
+     "date": "1988-09-01",
+     "date_confidence": "the library's opening year is attested; the month is placed at the start of the academic year",
+     "campa": "The Benjamin S. Rosenthal Library opens on the Queens College campus in 1988 and he moves out of the faculty and into the machine room as its computer systems officer, the post he holds until he retires. A library built in 1988 is the last generation shelved for paper and the first cabled for whatever comes next. He runs that backbone for thirty-five years. His name appears on no part of the building, and the obituary is the only place it is attached to the work.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Benjamin S. Rosenthal Library, Queens College, opened 1988"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "The New Press, Manhattan: the weekend book",
+     "lat": 40.7038,
+     "lng": -74.0068,
+     "date": "2001-01-01",
+     "date_confidence": "the publication year is attested; Open Library gives 3 September 2001 for the first edition and 28 August 2018 for the revision, and the month here defaults",
+     "campa": "With Priscilla Murolo he publishes From the Folks Who Brought You the Weekend: A Short, Illustrated History of Labor in the United States, The New Press, 2001, revised in 2018. The title is the argument in miniature: the weekend was not granted, it was won, and by people whose names are not printed on it. It is the one book of his that stays in print, and it is the thing of his that most people will ever touch.",
+     "quote": "co-authored a widely read and praised survey of US labor history, From the Folks Who Brought You the Weekend",
+     "quote_source": "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+     "suggested_refs": [
+      "Open Library editions OL8666602M and OL27352297M, The New Press"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+      "Open Library edition records",
+      "Sarah Lawrence College faculty page for Priscilla Murolo"
+     ]
+    },
+    {
+     "name": "Queens College, the committee that meets monthly",
+     "lat": 40.7366,
+     "lng": -73.8153,
+     "date": "2006-01-01",
+     "date_confidence": "the year is attested; the obituary gives no month and the day defaults",
+     "campa": "In 2006 he founds the Queens College Unions Joint Committee on Quality of Work Life, and it convenes every month for the rest of his career. The name is deliberately dull. What it does is put the campus unions in one room on a fixed schedule, which is the whole of the technique: not a demonstration, a standing meeting that nobody has the standing to cancel. He runs it for seventeen years and it outlives his retirement. No source names who chaired it after him.",
+     "quote": "Queens College Unions Joint Committee on Quality of Work Life",
+     "quote_source": "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+     "suggested_refs": [
+      "Minutes of the Queens College Unions Joint Committee on Quality of Work Life, 2006 onward"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "Kiely Hall, Queens College: the Unsung Hero",
+     "lat": 40.7373,
+     "lng": -73.8201,
+     "date": "2011-03-01",
+     "date_confidence": "the award and its month are attested; the venue is a reconstruction and the coordinate falls inside the campus footprint",
+     "campa": "In March 2011 New York State United Teachers, the parent union of the Professional Staff Congress, gives him its Unsung Hero award for grassroots organizing in the Queens College PSC chapter. The award's own name states the terms of the work: a union has to invent a category for organizing that nobody sees. The PSC is his own chapter and NYSUT is the body that gave it. No venue is documented, so the campus itself is what stands here.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "NYSUT Unsung Hero award citations, March 2011"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "Queens College, the retirement after thirty-nine years",
+     "lat": 40.7366,
+     "lng": -73.8153,
+     "date": "2023-06-01",
+     "date_confidence": "the year is attested; the month is placed at the end of the academic year",
+     "campa": "He retires in 2023, seventy-five years old, thirty-nine years after walking in. The arithmetic is plain: a man drafted in 1965 spends the next fifty-eight years inside exactly two institutions, the United States Navy and the City University of New York, and opposes the first from within the second for most of them. He has less than a year left. The pancreas that will kill him is not mentioned in any record, and no source gives the month he cleared his office.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Queens College retirement notices, 2023"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "The Veteran Against the War",
+   "stops": [
+    {
+     "name": "The Vietnam Veterans Memorial, Washington",
+     "lat": 38.8893,
+     "lng": -77.0479,
+     "date": "1982-11-13",
+     "date_confidence": "the memorial's dedication date is attested; no source places him in Washington on this or any other day, and the stop stands for a documented membership with no documented venue",
+     "campa": "The wall is dedicated on the thirteenth of November 1982, black granite cut into the ground with fifty-eight thousand names on it. Vietnam Veterans Against the War and Veterans for Peace bring their members to Washington across four decades of lobbying days and demonstrations, and he belongs to both organizations for the whole of that span. Not one specific action of his in this city is documented. What can be shown here is a membership, not an attendance.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "The Vietnam Veterans Memorial, dedicated 13 November 1982"
+     ],
+     "sources": [
+      "Reconstruction from VVAW and Veterans for Peace activity patterns",
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301"
+     ]
+    },
+    {
+     "name": "Union Square, the chapter and the paper",
+     "lat": 40.7359,
+     "lng": -73.9911,
+     "date": "1985-01-01",
+     "date_confidence": "venue and date are both reconstructions; the obituary attests lifelong membership and numerous articles in VVAW's newspaper The Veteran and names no meeting place. His chapter is the Clarence Fitch chapter of New York",
+     "campa": "His chapter of Vietnam Veterans Against the War is the Clarence Fitch chapter, named for the Black Marine combat veteran who ran the organization's East Coast work until his death in 1990. He writes for The Veteran, the organization's newspaper, across four decades. None of his articles can be identified by title, and that gap is stated here rather than passed over. No meeting hall is named in any source; the square is given here as a reconstruction, not an attested venue.",
+     "quote": "a leader in the anti-war movement as a member of both Vietnam Veterans Against the War and Veterans for Peace and published numerous articles in VVAW's newspaper",
+     "quote_source": "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+     "suggested_refs": [
+      "The Veteran, newspaper of Vietnam Veterans Against the War, 1980s to 2020s"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+      "VVAW on Clarence Fitch, vvaw.org/veteran/article/?id=226"
+     ]
+    },
+    {
+     "name": "Panama City, Casco Viejo: the delegation before the invasion",
+     "lat": 8.9518,
+     "lng": -79.534,
+     "date": "1989-09-01",
+     "date_confidence": "family testimony, not press-verified; the author states directly that he traveled with a VVAW solidarity delegation to Panama in the months before the December invasion, and no published source names him on it. That a VVAW delegation was in Panama before the invasion is separately attested",
+     "campa": "In the autumn before the invasion a Vietnam Veterans Against the War delegation goes to Panama, to watch the confrontation between Washington and Manuel Noriega from inside the country and to sit with Panamanians who do not want an invasion. That the delegation existed is published: Pete Zastrow of the national office writes of being in Panama at the end of November, and a Panamanian eyewitness thanks VVAW for standing with them before the invasion. That he was on it is his family's word, not independent confirmation.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Pete Zastrow in The Veteran, Summer 1990, vol 20 no 2; Lamoin Werlein-Jaen's eyewitness report"
+     ],
+     "sources": [
+      "Author's direct family testimony, corpus-internal, not press-verified",
+      "Pete Zastrow, The Veteran, Summer 1990, vvaw.org/content/?id=2961",
+      "Lamoin Werlein-Jaen, vvaw.org/veteran/article/?id=2960"
+     ]
+    },
+    {
+     "name": "Panama City, the invasion",
+     "lat": 8.9824,
+     "lng": -79.5199,
+     "date": "1989-12-20",
+     "date_confidence": "attested; his own presence in Panama in December is not attested and is not claimed",
+     "campa": "At twelve forty-six in the morning of the twentieth of December 1989 the United States invades Panama. Manuel Noriega does not fall that night: he takes refuge in the Apostolic Nunciature of the Holy See and does not surrender until the third of January 1990. He is the reason the VVAW delegation came to the country in the first place, to watch a confrontation years in the making finally arrive. Whether Ben himself is still in the country when the shooting starts, or has already gone home, no source says.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Public record of Operation Just Cause and Noriega's surrender, 3 January 1990"
+     ],
+     "sources": [
+      "Public historical record of the US invasion of Panama",
+      "QUEUE.md, Manuel Noriega entry"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "The Memory Theatre",
+   "stops": [
+    {
+     "name": "Christ Church, Bronxville: the parish",
+     "lat": 40.9429,
+     "lng": -73.8339,
+     "date": "2020-01-01",
+     "date_confidence": "the parish is attested; no residential address is given in any source, so residence in or near Bronxville is inference, and the date is a placement in his late years",
+     "campa": "The obituary says he attended Christ Church Bronxville and says nothing at all about where he lived. An Episcopal parish in Westchester, twenty minutes north of the Bronx line: he is born on an Episcopal mountain and dies inside the same communion, with sixty years of union work and antiwar work laid between the two. It is a real building with a real street number, the parish itself and nothing more speculative than that, the only fixed point the obituary gives for his adult religious life at all.",
+     "quote": null,
+     "quote_source": null,
+     "suggested_refs": [
+      "Christ Church Bronxville, OpenStreetMap way 1291826578"
+     ],
+     "sources": [
+      "VVAW obituary, vvaw.org/veteran/article/?id=4301",
+      "l_frank_baum.journey.json, Bronxville stop"
+     ]
+    }
+   ]
+  }
+ ]
 }
