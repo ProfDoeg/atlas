@@ -1,0 +1,224 @@
+## Works by Pieter Bruegel the Elder
+
+### Paintings: surviving works accepted or substantially accepted as autograph
+
+- **c. 1556–1562:** *The Adoration of the Kings*. A large tempera-on-cloth painting, now fragmentary and severely worn; its attribution and dating have varied, although Sellink includes it in the painted œuvre.
+- **1557:** *Landscape with the Parable of the Sower*. An oil-on-panel landscape, signed and dated; it is Bruegel’s earliest securely dated surviving painting.
+- **1558:** *Twelve Proverbs*. Oil on panel comprising twelve proverb scenes, each functioning almost as a separate emblem.
+- **1559:** *The Fight Between Carnival and Lent*. A signed and dated oil-on-panel crowd scene.
+- **1559:** *Netherlandish Proverbs*. A signed and dated oil-on-panel assemblage of proverbial actions, also called *The Blue Cloak* or *The Topsy-Turvy World*.
+- **1560:** *Children’s Games*. A signed and dated oil-on-panel panorama of children’s activities.
+- **c. 1560:** *Naval Battle in the Gulf of Naples*. An oil-on-panel seascape traditionally attributed to Bruegel; some catalogues retain reservations about its authorship.
+- **1562:** *The Suicide of Saul*. A signed and dated oil-on-panel biblical landscape.
+- **1562:** *The Fall of the Rebel Angels*. A signed and dated oil-on-panel composition formerly attributed to Bosch before Bruegel’s signature was recognized.
+- **1562:** *Dulle Griet (Mad Meg)*. A signed and dated oil-on-panel fantasy; its traditional title names the armed woman rather than defining the painting’s still-disputed subject.
+- **c. 1562:** *The Triumph of Death*. Oil on panel; generally dated by style and association rather than by an inscribed year.
+- **1562:** *Two Monkeys*. A signed and dated small oil-on-panel painting.
+- **1563:** *The Tower of Babel* (Vienna). A signed and dated monumental oil-on-panel painting, sometimes called the “Great Tower.”
+- **c. 1563–1565:** *The Tower of Babel* (Rotterdam). A smaller oil-on-panel treatment, often called the “Little Tower”; its date is inferred rather than inscribed.
+- **1563:** *Landscape with the Flight into Egypt*. A signed and dated oil-on-panel landscape.
+- **1563:** *Adoration of the Magi in a Winter Landscape*. A signed and dated oil-on-panel painting, also called *Adoration of the Magi in the Snow*.
+- **1563:** *Portrait of an Old Woman*. A signed and dated oil-on-panel head, also called *Head of an Old Peasant Woman*; its attribution has occasionally been questioned.
+- **1564:** *The Adoration of the Kings*. A signed and dated oil-on-panel altarpiece-like painting.
+- **1564:** *The Procession to Calvary*. A signed and dated oil-on-panel panoramic narrative, also called *Christ Carrying the Cross*.
+- **1564:** *The Death of the Virgin*. A grisaille on panel made as a monochrome painted image rather than as a print, though it subsequently furnished a print composition.
+- **1565:** *Christ and the Woman Taken in Adultery*. A signed and dated grisaille on panel intended as a self-contained painting and later translated into print.
+- **1565:** *The Gloomy Day*. Oil on panel from the project traditionally called *The Months* or *The Seasons*.
+- **1565:** *Haymaking*. Oil on panel from *The Months*; it represents early summer.
+- **1565:** *The Harvesters*. A signed and dated oil-on-panel manifestation of late summer within *The Months*.
+- **1565:** *The Return of the Herd*. A signed and dated oil-on-panel autumn scene from *The Months*.
+- **1565:** *Hunters in the Snow*. A signed and dated oil-on-panel winter scene from *The Months*.
+- **1565:** *Winter Landscape with Skaters and a Bird Trap*. A signed and dated oil-on-panel painting; numerous later versions are copies and workshop or family manifestations, not additional works by Bruegel.
+- **1565–1567:** *The Months*. A six-painting commission or project for Niclaes Jonghelinck, conceived as a calendrical ensemble rather than six unrelated landscapes. Five panels survive; the lost spring panel should not be confused with Bruegel’s separate drawing *Spring*.
+- **c. 1565–1568:** *The Wine of Saint Martin’s Day*. A very large tempera-on-cloth painting assembled from several pieces of fabric; its rediscovery and damaged state make it unusually resistant to the idea of a stable, pristine “work.”
+- **c. 1565–1567:** *The Massacre of the Innocents* (Royal Collection). Oil on panel whose soldiers and victims were extensively overpainted at an early date; the altered object is therefore both Bruegel’s painting and a later political or devotional transformation of it.
+- **1566:** *The Census at Bethlehem*. A signed and dated oil-on-panel biblical scene located in a contemporary Netherlandish winter village.
+- **1566:** *The Sermon of Saint John the Baptist*. A signed and dated oil-on-panel crowd scene.
+- **1566:** *The Wedding Dance*. A signed and dated oil-on-panel peasant festival.
+- **1567:** *The Conversion of Saint Paul*. A signed and dated oil-on-panel mountain landscape.
+- **1567:** *The Land of Cockaigne*. A signed and dated oil-on-panel visualization of a proverbial land of effortless plenty.
+- **c. 1567:** *The Peasant Wedding*. Oil on panel, also called *The Wedding Banquet*; it bears no securely accepted inscribed date.
+- **c. 1567–1568:** *The Peasant Dance*. Oil on panel; its title and date are conventional, and its relationship to other peasant-festival compositions remains interpretive.
+- **1568:** *The Peasant and the Nest Robber*. A signed and dated oil-on-panel proverb painting.
+- **1568:** *The Beggars*. A signed and dated small oil-on-panel painting, also called *The Cripples*; neither title establishes a single uncontested interpretation.
+- **1568:** *The Misanthrope*. A signed and dated tempera-on-canvas roundel.
+- **1568:** *The Parable of the Blind*. A signed and dated tempera-on-canvas painting, also called *The Blind Leading the Blind*.
+- **1568:** *The Magpie on the Gallows*. A signed and dated oil-on-panel landscape.
+- **1568:** *Three Soldiers*. A signed and dated oil-on-panel fragment or small independent study; its original status is uncertain.
+- **1568:** *Head of a Peasant Woman*. A signed and dated oil-on-panel head study; it has sometimes been identified with the Munich *Portrait of an Old Woman*, but catalogues treat the two titles and dates inconsistently.
+- **1569:** *The Storm at Sea*. An unfinished oil-on-panel painting. Attribution to Bruegel is disputed, and the conspicuously unfinished surface resists classification as a completed obra.
+
+### Paintings with disputed attribution, altered status, or survival only through copies
+
+- **c. 1553:** *Seascape with Ships and a Burning City*. A small oil-on-panel seascape bearing a Bruegel-like date or signature; attribution is disputed.
+- **c. 1553:** *Landscape with Christ and the Apostles at the Sea of Tiberias*. A painting known in a private collection and traditionally attributed to Bruegel; acceptance is not universal.
+- **Date unknown:** *Landscape with the Fall of Icarus*. No surviving version is securely autograph: the famous Brussels canvas is now generally treated as a later copy or heavily transformed manifestation of a lost Bruegel composition.
+- **c. 1563:** *The Yawning Man*. A tiny painted head traditionally given to Bruegel; attribution remains disputed, and later prints attest to the composition rather than proving the surviving panel autograph.
+- **c. 1567–1568:** *The Drunkard Pushed into the Pigsty*. A circular oil-on-panel proverb scene accepted tentatively by Sellink but not unanimously.
+- **c. 1560s:** *The Good Shepherd*. A lost or unlocated painting-composition known through a print and later versions; the material object Bruegel may have made cannot now be identified.
+- **c. 1560s:** *The Village Fair/Kermis*. A lost painted composition inferred from copies associated with Pieter Brueghel the Younger; the Elder’s authorship of the prototype is probable rather than materially demonstrable.
+- **c. 1560s:** *The Visit to the Farmhouse*. A composition surviving in later copies and sometimes reconstructed as a lost Bruegel painting; it is a hypothetical obra, not an extant autograph object.
+- **c. 1560s:** *The Seven Acts of Mercy*. A composition transmitted through later versions and connected with Bruegel’s invention; the form and authorship of any lost original remain disputed.
+- **c. 1560s:** *The Peasant Wedding Dance Indoors*. Known principally through later copies and variants; whether these preserve a lost painting by Bruegel or another artist’s invention is disputed.
+- **c. 1560s:** *The Pilgrimage of the Epileptics to Molenbeek*. A multipart composition surviving through later prints and copies; reconstruction of Bruegel’s original project is conjectural.
+- **c. 1560s:** *The Dirty Bride*. A popular-festival composition known through later manifestations; attribution of a lost prototype to Bruegel is not secure.
+- **c. 1560s:** *The Whitsun Bride*. Known through later copies and prints; it resists being called a surviving Bruegel work because no autograph object is known.
+- **1560s:** *Spring* panel from *The Months*. The missing sixth painting in the calendrical project is documented by the ensemble and early records but is lost; its exact imagery and title are not securely recoverable.
+
+### Autonomous landscape drawings
+
+- **c. 1552:** *Wooded Landscape with Mills*. A signed pen-and-ink landscape; its early place in Bruegel’s œuvre depends partly on acceptance of the signature.
+- **1552:** *Pastoral Landscape*. A signed and dated pen drawing whose attribution was restored by Hans Mielke and retained by later catalogues.
+- **c. 1552:** *Mountain Landscape with Ridge and Valley*. A pen drawing formerly rejected or assigned to a later imitator but accepted by Mielke; attribution has therefore not been historically unanimous.
+- **c. 1552:** *Path through a Village*. A signed pen drawing accepted by Mielke as an early Bruegel landscape.
+- **c. 1552:** *Wooded Landscape with a Distant View toward the Sea*. A pen drawing included by Mielke among the artist’s early landscapes, after earlier disagreement.
+- **c. 1552–1553:** *Italian Landscape, with Landscape and Castle on the Verso*. A double-sided sheet: two drawings occupy one material object and should not be mistaken for separate sheets.
+- **1552:** *View of the Ripa Grande in Rome*. A dated Italian-journey drawing; the conventional title identifies the locality.
+- **1552:** *View of Tivoli*. A pen drawing associated with Bruegel’s Italian journey.
+- **1552:** *Landscape with the Abbey of Saint Jerome at Tivoli*. A pen drawing, also called *Landscape with Saint Jerome*; it subsequently informed a printed landscape.
+- **c. 1552:** *Alpine Landscape*. A pen drawing whose precise locality and date remain uncertain.
+- **c. 1552–1553:** *View of Reggio di Calabria*. A pen drawing traditionally connected with Bruegel’s journey through southern Italy.
+- **c. 1552–1553:** *View of the Strait of Messina*. The autograph status of surviving sheets bearing this subject is disputed; at least one is classified as a copy after a lost Bruegel drawing.
+- **1553:** *Landscape with a Fortified City*. A signed and dated pen drawing accepted by Mielke.
+- **1553:** *River Landscape with a Village*. A pen-and-ink landscape drawing.
+- **c. 1553:** *Mountain Landscape with a River and Travelers*. A pen drawing; its descriptive title is modern.
+- **c. 1553:** *Landscape with Three Pilgrims*. A pen drawing retouched in wash by another hand, making the extant sheet a layered object rather than an untouched autograph.
+- **c. 1553:** *Landscape with a Group of Trees and a Mule*. A pen drawing accepted in the revised Mielke corpus.
+- **c. 1554:** *Cow Pasture before a Farmhouse*. A pen drawing accepted by Mielke and later scholarship after earlier attributional debate.
+- **c. 1554:** *Woodland Scene with Bears*. A pen drawing whose animals and wooded setting distinguish it from the finished designs for prints.
+- **c. 1554:** *Wooded Landscape with Travelers*. A pen drawing; different catalogues vary in their English descriptive title.
+- **c. 1554:** *Mountain Landscape with a Walled Town*. A pen landscape; the title is modern and descriptive.
+- **c. 1554:** *River Valley with Distant Mountains*. A pen landscape accepted within the revised drawn œuvre.
+- **c. 1554:** *Landscape with a Castle on a Rock*. A pen drawing; exact date and represented site are not fixed.
+- **c. 1554:** *Landscape with a Village and Distant Mountains*. A pen drawing known under varying descriptive titles.
+- **c. 1554:** *Landscape with the Flight into Egypt*. A landscape drawing distinct from Bruegel’s 1563 painting of the subject.
+- **c. 1554:** *Mountain Landscape with the Journey to Emmaus*. A pen drawing whose religious figures are subordinate to the landscape.
+- **c. 1554:** *Landscape with Saint Jerome*. A finished landscape drawing made or adapted as the basis for a print.
+- **c. 1554–1555:** *The Temptation of Saint Anthony*. A highly worked drawing associated with Bruegel’s Boschian print inventions; its exact relationship to the published engraving has been debated.
+
+### Drawn inventions, figure studies, and print designs
+
+- **1556:** *Big Fish Eat Little Fish*. A signed and dated drawing made as a print design. The print was issued as an invention of Hieronymus Bosch, so the published manifestation obscures rather than simply records Bruegel’s authorship.
+- **1556:** *The Ass at School*. A drawing or lost design for a moralizing print.
+- **1556:** *The Temptation of Saint Anthony*. A print design; versions and copies complicate identification of the autograph sheet.
+- **1556:** *Patience*. An allegorical print design in Bruegel’s Boschian mode.
+- **1556:** *The Last Judgment*. A drawing made for translation into engraving.
+- **1557:** *Anger (Ira)*. An autograph drawing for the *Seven Deadly Sins* print project.
+- **1557:** *Sloth (Desidia)*. An autograph drawing for the *Seven Deadly Sins*.
+- **1557:** *Pride (Superbia)*. A drawn print design; the surviving sheet’s attribution is accepted in the Mielke–Sellink corpus.
+- **1557:** *Avarice (Avaritia)*. An autograph drawing for the *Seven Deadly Sins*.
+- **1557:** *Gluttony (Gula)*. An autograph drawing for the *Seven Deadly Sins*.
+- **1557:** *Envy (Invidia)*. A signed and dated autograph drawing for the *Seven Deadly Sins*.
+- **1557:** *Lust (Luxuria)*. An autograph drawing for the *Seven Deadly Sins*.
+- **1557:** *Everyman (Elck)*. A finished drawing for a moralizing engraving.
+- **1558:** *The Alchemist*. A signed and dated drawing made for reproduction as a print.
+- **1558:** *The Witch of Mallegem*. A print design; the title also appears as *The Witch of Malleghem*.
+- **1558:** *The Festival of Fools*. A carnivalesque print invention whose surviving preparatory status and later engraved manifestations must be distinguished.
+- **c. 1558:** *The Kermis at Hoboken*. A drawing for a large engraved fair scene.
+- **1559:** *Faith (Fides)*. A signed and dated drawing for the *Seven Virtues*.
+- **1559:** *Hope (Spes)*. A drawing for the *Seven Virtues*.
+- **1559:** *Charity (Caritas)*. A drawing for the *Seven Virtues*.
+- **1559:** *Justice (Justitia)*. A drawing for the *Seven Virtues*.
+- **1559:** *Prudence (Prudentia)*. A drawing for the *Seven Virtues*.
+- **1559:** *Fortitude (Fortitudo)*. A drawing for the *Seven Virtues*.
+- **1560:** *Temperance (Temperantia)*. A signed and dated drawing for the *Seven Virtues*.
+- **c. 1560:** *Christ’s Descent into Limbo*. A drawing made for an engraving.
+- **c. 1560:** *The Wise and Foolish Virgins*. A print design; the composition’s date is approximate.
+- **c. 1560:** *Naval Battle in the Strait of Messina*. A drawn design translated into engraving; it is distinct from the disputed Naples seascape painting.
+- **1560:** *Rabbit Hunt*. A drawing and etched print. The etching is exceptional because it is the only print generally accepted as having been executed on the plate by Bruegel himself.
+- **c. 1560:** *Ice Skating before Saint George’s Gate, Antwerp*. A finished design for a print.
+- **c. 1560:** *Saint George’s Kermis*. A print design for a village-festival image.
+- **c. 1560:** *The Peddler Robbed by Monkeys*. A moralizing print invention.
+- **c. 1560:** *The Battle of the Moneybags and Strongboxes*. A print design personifying conflict between forms of wealth.
+- **c. 1560:** *The Lean Kitchen*. A print design paired with *The Fat Kitchen*.
+- **c. 1560:** *The Fat Kitchen*. A print design paired with *The Lean Kitchen*.
+- **c. 1560:** *Saint James and the Magician Hermogenes*. A print design.
+- **c. 1560:** *The Fall of the Magician*. A print design paired narratively with *Saint James and the Magician Hermogenes*.
+- **c. 1560:** *The Good Shepherd*. A drawing or lost design transmitted through engraving; no securely identified autograph sheet survives.
+- **c. 1560:** *Valentine and Orson*. A masquerade or popular-theatre print invention; the precise status of Bruegel’s model is uncertain.
+- **c. 1560:** *Peasant Wedding Dance*. A print design distinct from the Detroit painting.
+- **c. 1560:** *The Land of Cockaigne*. A print design distinct from the 1567 Munich painting.
+- **c. 1560:** *The Drunkard Pushed into the Pigsty*. A print design or lost model related to the disputed painted roundel.
+- **c. 1562:** *The Resurrection of Christ*. A large finished drawing intended for engraving.
+- **1562:** *The Death of the Virgin*. A print design or reproductive adaptation related to Bruegel’s grisaille painting; the division of invention between painted model, drawing, and engraver is not completely transparent.
+- **c. 1562:** *Christ and the Disciples on the Road to Emmaus*. A design known through graphic manifestations; autograph status of the surviving model is uncertain.
+- **c. 1562:** *The Triumph of Time*. A composition known through later engraving; attribution of the lost model is less secure than that of surviving signed drawings.
+- **c. 1562:** *Christ and the Woman Taken in Adultery*. A graphic manifestation after Bruegel’s painted invention rather than a securely surviving separate autograph drawing.
+- **1565:** *Spring*. A signed and dated drawing for a projected or partially realized series of the seasons. It is not the lost spring panel of *The Months*.
+- **1565:** *Summer*. A signed and dated drawing for the seasonal print project.
+- **c. 1565:** *Autumn*. A projected seasonal composition not securely preserved as an autograph sheet; later completion of the cycle should not be silently credited to Bruegel.
+- **c. 1565:** *Winter*. A projected seasonal composition whose Bruegel model is lost or uncertain.
+- **c. 1565:** *The Beekeepers and the Bird-Nester*. A pen-and-ink drawing whose proverbial or allegorical meaning remains disputed.
+- **c. 1565:** *The Painter and the Connoisseur*. A pen drawing, also called *The Artist and the Buyer*. It is often described as a self-portrait, but the identification is conjectural; several surviving sheets are copies, while the autograph is conventionally identified with the Albertina drawing.
+- **c. 1565–1568:** *A Gooseherd*. A figure drawing accepted by Mielke; another sheet is classified as a copy.
+- **c. 1565–1568:** *The Bagpipe Player*. A signed figure study preserved in the Woodner collection.
+- **c. 1565–1568:** *Four Men in Conversation*. A small figure-group drawing.
+- **c. 1565–1568:** *Peasant with a Basket*. A figure study whose modern title merely describes its subject.
+- **c. 1565–1568:** *Peasant Seen from Behind*. A figure study; the exact title differs among catalogues.
+- **c. 1565–1568:** *Two Peasants*. A figure study accepted within the revised drawn œuvre.
+- **c. 1565–1568:** *Peasant Woman*. A figure study with no fixed historical title.
+- **c. 1565–1568:** *A Group of Peasants*. A study or finished drawing; its function is not securely known.
+- **c. 1565–1568:** *Two Fools at Carnival*. A design surviving through copies or later prints; attribution of the extant object is uncertain.
+- **c. 1565–1568:** *Three Carnival Fools with Their Baubles*. A lost or copied graphic invention rather than a securely surviving autograph sheet.
+
+### Collaborative print œuvres and published manifestations
+
+- **c. 1555–1556:** *Large Landscapes*. A project of twelve engraved landscapes published by Hieronymus Cock after Bruegel’s designs: *View of Tivoli*, *Saint Jerome in the Wilderness*, *The Penitent Magdalene*, *Alpine Landscape with a Deep Valley*, *The Treacherous Bird-Catcher*, *The Belgian Wagon*, *Rustic Solicitude*, *Rustic Market*, *The Pilgrims to Emmaus*, *The Flight into Egypt*, *Wooded Region*, and *Soldiers at Rest*. These impressions were engraved and printed by collaborators, so they are manifestations of Bruegel’s inventions, not plates physically made by him.
+- **1556–1558:** *Boschian moral and fantastic prints*. A collaborative graphic project comprising *The Temptation of Saint Anthony*, *Patience*, *Big Fish Eat Little Fish*, *The Ass at School*, *The Last Judgment*, *Everyman*, *The Alchemist*, *The Witch of Mallegem*, and *The Festival of Fools*. Publishers sometimes invoked Bosch’s name, making authorship in the printed object deliberately unstable.
+- **1558:** *The Seven Deadly Sins*. A seven-sheet allegorical print project—*Anger*, *Sloth*, *Pride*, *Avarice*, *Gluttony*, *Envy*, and *Lust*—engraved chiefly by Pieter van der Heyden after Bruegel’s drawings and published by Hieronymus Cock.
+- **1559–1560:** *The Seven Virtues*. A seven-sheet print project—*Faith*, *Hope*, *Charity*, *Justice*, *Prudence*, *Fortitude*, and *Temperance*—engraved by Philips Galle after Bruegel’s designs.
+- **c. 1558:** *The Kermis at Hoboken*. A large engraved manifestation of Bruegel’s fair-scene design; Bruegel supplied the invention, while other hands made and issued the plate.
+- **c. 1560:** *The Descent into Limbo*. An engraving after Bruegel’s design.
+- **c. 1560:** *The Wise and Foolish Virgins*. An engraving after Bruegel’s design.
+- **c. 1561:** *Naval Battle in the Strait of Messina*. An engraving by Frans Huys after Bruegel’s southern Italian maritime invention.
+- **c. 1561–1562:** *Sea-Going Vessels*. A ten-sheet project depicting merchantmen, armed sailing ships, galleys, and fleets, engraved principally by Frans Huys after Bruegel’s designs. It is simultaneously technical ship imagery, landscape, and a collaborative publishing œuvre.
+- **c. 1560–1562:** *Ice Skating before Saint George’s Gate at Antwerp*. An engraving after Bruegel’s design.
+- **c. 1560–1562:** *Saint George’s Kermis*. An engraved village-festival composition after Bruegel.
+- **c. 1560–1562:** *The Peddler Robbed by Monkeys*. An engraving after Bruegel’s invention.
+- **c. 1560–1562:** *The Battle of the Moneybags and Strongboxes*. An engraving after Bruegel’s design.
+- **c. 1560–1562:** *The Lean Kitchen*. An engraving paired with *The Fat Kitchen*.
+- **c. 1560–1562:** *The Fat Kitchen*. An engraving paired with *The Lean Kitchen*.
+- **c. 1560–1562:** *Saint James and the Magician Hermogenes*. An engraving after Bruegel’s design.
+- **c. 1560–1562:** *The Fall of the Magician*. An engraving after Bruegel’s design.
+- **c. 1560–1562:** *The Good Shepherd*. An engraving after an invention attributed to Bruegel.
+- **c. 1560–1562:** *Valentine and Orson*. A printed masquerade composition associated with Bruegel’s invention; attribution of its model is not entirely secure.
+- **c. 1560–1562:** *Peasant Wedding Dance*. An engraving after Bruegel’s design.
+- **1560:** *Rabbit Hunt*. An etching designed and etched by Bruegel himself, making the printed plate an autograph graphic obra rather than merely a reproductive manifestation.
+- **c. 1560–1562:** *The Land of Cockaigne*. An engraving after a Bruegel invention distinct from the later painting.
+- **c. 1560–1562:** *The Drunkard Pushed into the Pigsty*. An engraving after a Bruegel-associated design.
+- **c. 1568:** *Twelve Flemish Proverbs*. A twelve-sheet printed project comprising *The Quarrelsome Wife*; *The Man with the Moneybag and His Flatterers*; *The Misanthrope Robbed by the World*; *The Rich Man’s Music Is Pleasant Even on an Animal Jawbone*; *Every Peddler Praises His Own Wares*; *Begging in Vain at the Deaf Man’s Door*; *The Archer Squandering His Arrows*; *Two Blind Men Falling into a Ditch*; *A Fool Brooding an Empty Egg*; *The Careless or Deceitful Peddler*; *The Hay Running after the Horse*; and *The Egoist Warming Himself at a Burning House*. The set was engraved and issued by other hands after Bruegelian inventions; the survival and authorship of individual preparatory models vary.
+- **1565–1570:** *The Seasons*. A four-print project initiated with Bruegel’s drawings *Spring* and *Summer*. The cycle was completed after his death using designs by other artists, so the published set as a whole is not an autograph Bruegel work.
+- **Date uncertain:** *The Wedding of Mopsus and Nisa*. A pastoral-wedding composition issued in more than one engraved manifestation; Bruegel’s responsibility for the underlying design is accepted in print catalogues but no autograph model is securely identified.
+- **Posthumous:** *Landscape with Mercury Carrying Psyche*. An engraving issued after Bruegel’s death from a landscape invention associated with him; it is a posthumous manifestation, not an object he supervised.
+- **Posthumous:** *Landscape with the Fall of Icarus*. An engraving after a Bruegel-associated composition; its existence does not establish the Brussels painted version as autograph.
+- **Posthumous:** *The Dean of Renaix*. A printed composition included in older Bruegel print catalogues but of disputed connection to his invention.
+- **Posthumous:** *The Resurrection of Christ*. An engraving after Bruegel’s large drawing.
+- **Posthumous:** *Christ and the Disciples on the Road to Emmaus*. An engraving after a Bruegel-associated model.
+- **Posthumous:** *The Death of the Virgin*. An engraving by Philips Galle after Bruegel’s composition.
+- **Posthumous:** *The Triumph of Time or Saturn*. An engraving after a design attributed to Bruegel; the lost model’s authorship is disputed.
+- **Posthumous:** *Christ and the Woman Taken in Adultery*. A reproductive print after Bruegel’s grisaille.
+- **Posthumous:** *Peasant Brawl*. A print historically connected with Bruegel but also attributed to later artists; it should not be treated as an uncontested Bruegel obra.
+- **Posthumous:** *The Yawning Man*. A reproductive print after a Bruegel-associated head; neither the print nor the disputed painted prototype gives an uncontested autograph work.
+- **Posthumous:** *The Pilgrimage of the Epileptics to Molenbeek*. A three-sheet print sequence preserving a Bruegel-associated procession; the original project and the authorship of surviving models remain uncertain.
+- **Posthumous:** *Two Carnival Fools*. A print after a Bruegel-associated design whose autograph source is lost or disputed.
+- **Posthumous:** *Three Carnival Fools Playing with Their Baubles*. A print after a Bruegel-associated design; attribution of the invention is not fully secure.
+
+### Rejected bodies of work
+
+- **c. 1590–1603, formerly dated 1559–1562:** *The “naer het leven” landscape drawings*. A group of roughly twenty-five landscapes once accepted as signed Bruegel drawings is now attributed chiefly to Jacob Savery and related hands. Paper watermarks and depicted buildings postdate Bruegel’s death; the group therefore belongs in the history of his attributed œuvre, but not among things he made.
+- **Sixteenth century, formerly attributed to Bruegel:** *Small Landscapes*. A published landscape series formerly connected with Bruegel but now assigned to the anonymous Master of the Small Landscapes; Bruegel’s name describes reception, not authorship.
+- **Dates uncertain:** *Mountain Landscapes*. A print group rejected by modern Bruegel catalogues.
+- **Dates uncertain:** *Heads of Peasants and Peasant Women*. A print series formerly attributed to Bruegel but rejected from the modern corpus.
+
+### Sources
+
+- Manfred Sellink, *Bruegel: The Complete Paintings, Drawings and Prints*, Ludion, 2007; revised edition 2011. Publisher’s description identifies it as the catalogue raisonné of Bruegel’s complete work: [Ludion](https://ludion.be/en/books/detail/bruegel-het-volledige-werk).
+- Hans Mielke, *Pieter Bruegel: Die Zeichnungen*, Pictura Nova 2, Brepols, 1996/1997. Catalogue raisonné of the drawings, including accepted, problematic, copied, and rejected sheets: [Brepols](https://www.brepols.net/products/IS-9782503504995-1).
+- Nadine M. Orenstein, ed., *Pieter Bruegel the Elder: Drawings and Prints*, Metropolitan Museum of Art/Yale University Press, 2001. Exhibition catalogue testing Mielke’s revised drawn œuvre and cataloguing Bruegel’s graphic inventions: [Metropolitan Museum of Art digital publication](https://libmma.contentdm.oclc.org/digital/api/collection/p15324coll10/id/97083/download).
+- René Van Bastelaer, *Les estampes de Peter Bruegel l’ancien*, Brussels, 1908; and Louis Lebeer, *Beredeneerde catalogus van de prenten naar Pieter Bruegel de Oude*, Royal Library of Belgium, 1969–1991. The numbered print corpus, its posthumous supplements, and rejected groups are summarized in the [catalogue of prints after Bruegel](https://fr.wikipedia.org/wiki/Liste_des_estampes_de_Brueghel_l%27Ancien).
+- Joris Van Grieken, “Functions of Drawings by Pieter Bruegel the Elder,” in the FINGERPRINT project report, explaining that Mielke catalogued sixty-one autograph drawings, six faithful copies, six problematic works, and a substantial rejected group: [Belgian Science Policy Office](https://www.belspo.be/belspo/brain-be/projects/FinalReports/Fingerprint_Annex2.pdf).
+- Elke Oberthaler, Sabine Pénot, Manfred Sellink, Ron Spronk, and Alice Hoppe-Harnoncourt, eds., *Bruegel: The Master*, 2018. The catalogue and its technical research provide the principal recent reassessment of the paintings: [catalogue preview](https://toc.library.ethz.ch/objects/pdf03/z01_978-0-500-23984-1_01.pdf).
+- Royal Museums of Fine Arts of Belgium, Bruegel collection notice, citing Sellink’s catalogue and identifying the museum’s autograph paintings and drawing: [RMFAB](https://fine-arts-museum.be/uploads/releases/files/20141204_pf_bruegel.pdf).
+- Museum Boijmans Van Beuningen, research catalogue entry for *Mountain Landscape with the Journey to Emmaus*, documenting Mielke’s catalogue number and the contested relationship among related sheets: [Museum Boijmans Van Beuningen](https://www.boijmans.nl/en/collection/artworks/90619/mountain-landscape-with-the-journey-to-emmaus).
+- Kunsthistorisches Museum Vienna and Belgian Science Policy Office, *Bruegel: The Hand of the Master* / FINGERPRINT technical reports, addressing attribution, drawing function, materials, and the distinction between autograph works and later copies: [FINGERPRINT research annex](https://www.belspo.be/belspo/brain-be/projects/FinalReports/Fingerprint_Annex2.pdf).
+- Flemish Art Collection, “Bruegel: Reference Literature,” listing the principal catalogues raisonnés and collected-work studies used here: [Vlaamse Kunstcollectie](https://vlaamsekunstcollectie.be/en/collections/pieter-bruegel-the-elder/bruegel-referentieliteratuur).

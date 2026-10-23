@@ -1,0 +1,29 @@
+## Works by Grigori Yefimovich Rasputin
+
+### Dictated religious and autobiographical obras
+
+- **May 1907:** *Житие опытного странника (Life of an Experienced Wanderer).* A short spiritual autobiography and pilgrimage narrative dictated by the semiliterate Rasputin rather than written in his hand. Its publication history is disputed: a modern documentary edition identifies a St Petersburg printing of 1907, while Edvard Radzinsky reports that the archival text remained unpublished during Rasputin’s lifetime. ([Russian Christian Humanitarian Academy text and editorial note](https://russianway.rhga.ru/upload/main/Rasputin/2/777%20790.pdf); [Radzinsky, *The Rasputin File*](https://penguinrandomhousehighereducation.com/book/?isbn=9781524722357))
+
+- **1911:** *Великие дни торжества в Киеве! Посещение высочайшей семьи! Ангельский привет! (Great Days of Celebration in Kiev! Visit of the Imperial Family! An Angelic Greeting!).* A sixteen-page devotional eyewitness pamphlet about the imperial visit to Kiev, printed in St Petersburg under the name “Grigory Yefimovich Rasputin-Novyi.” Like Rasputin’s other books, it is a mediated oral obra: his speech was transcribed and shaped by an unidentified sympathetic amanuensis. ([Wikisource bibliographical record and scan](https://ru.wikisource.org/wiki/Автор:Григорий_Ефимович_Распутин); [Radzinsky](https://penguinrandomhousehighereducation.com/book/?isbn=9781524722357))
+
+- **1911–1912:** *Благочестивые размышления (Pious Meditations/Reflections).* A collection of devotional homilies and aphoristic religious reflections, issued as a thirty-two-page St Petersburg pamphlet with a 1912 imprint. Rasputin’s daughter said that she copied the thoughts from his notebook and gave 1911 as the publication year, so both its exact date and the division of authorship between Rasputin, copyist, and editor remain unsettled. ([Wikisource bibliographical record and scan](https://ru.wikisource.org/wiki/Автор:Григорий_Ефимович_Распутин); [publication note preserving Matryona Rasputina’s account](https://www.rulit.me/books/blagochestivye-razmyshleniya-calibre-4-21-0-read-617739-1.html); [Radzinsky](https://penguinrandomhousehighereducation.com/book/?isbn=9781524722357))
+
+- **1915:** *Мои мысли и размышления: Краткое описание путешествия по святым местам и вызванные им размышления по религиозным вопросам. Часть I (My Thoughts and Reflections: A Brief Description of a Journey to the Holy Places and the Religious Reflections It Provoked, Part I).* A fifty-five-page dictated pilgrimage narrative centered on Rasputin’s journey to Jerusalem, combining travel account, meditation, and homiletic teaching. The designation “Part I” promises a continuation, but no authenticated second part is known; it therefore also survives as an apparently unfinished project. ([Wikisource bibliographical record and scan](https://ru.wikisource.org/wiki/Автор:Григорий_Ефимович_Распутин); [Radzinsky](https://penguinrandomhousehighereducation.com/book/?isbn=9781524722357))
+
+### Performative correspondence
+
+- **Before 1917:** *Letters and telegrams.* Rasputin’s surviving correspondence—especially his numerous notes and telegrams to Nicholas II and Alexandra Feodorovna—is a body of brief performative texts: blessings, petitions, warnings, recommendations, and attempts to influence action rather than literary descriptions. The corpus is dispersed and incompletely published, and some documents survive only through archival copies or later editions, so it resists division into a secure catalogue of individually titled works. ([Radzinsky](https://penguinrandomhousehighereducation.com/book/?isbn=9781524722357); [Douglas Smith, *Rasputin: Faith, Power, and the Twilight of the Romanovs*](https://us.macmillan.com/books/9781250141262/rasputin/))
+
+### Disputed manifestations and rejected attributions
+
+- **Undated; conventionally assigned to December 1916:** *The “last letter,” “prophecy,” or “testament.”* A purported warning to Nicholas II that Rasputin’s murder by nobles would bring destruction upon the imperial family; it functions as a manifesto-like prophetic act in later reception. Its original provenance is uncertain and scholars have suggested that it is a posthumous forgery, so it cannot securely be called something Rasputin made. ([Byard, “The death of Rasputin—A forensic evaluation”](https://pmc.ncbi.nlm.nih.gov/articles/PMC11953134/))
+
+- **Purportedly 1916; created or deposited after 1917:** *Дневник Распутина (Rasputin’s “Diary”).* The typescript claims to have been taken down from Rasputin’s dictation by “L. P. Kramer,” but Radzinsky judged it an ideological fabrication associated with P. E. Shchegolev and Alexei Tolstoy. It is a Rasputin manifestation—a text performing “Rasputin” for a later political culture—not an authenticated Rasputin obra. ([Radzinsky](https://penguinrandomhousehighereducation.com/book/?isbn=9781524722357))
+
+### Sources
+
+- Edvard Radzinsky, *The Rasputin File*, section “The Writer Grigory Rasputin” and discussion of the spurious diary. [Penguin Random House excerpt](https://penguinrandomhousehighereducation.com/book/?isbn=9781524722357)
+- G. E. Rasputin, *Житие опытного странника*, documentary text with source note identifying the 1907 St Petersburg edition. [Russian Christian Humanitarian Academy](https://russianway.rhga.ru/upload/main/Rasputin/2/777%20790.pdf)
+- Wikisource author bibliography, incorporating scans and publication data for the three surviving lifetime pamphlets. [Автор: Григорий Ефимович Распутин](https://ru.wikisource.org/wiki/Автор:Григорий_Ефимович_Распутин)
+- Douglas Smith, *Rasputin: Faith, Power, and the Twilight of the Romanovs*. [Macmillan](https://us.macmillan.com/books/9781250141262/rasputin/)
+- Roger W. Byard, “The death of Rasputin—A forensic evaluation,” including the disputed provenance of the alleged final letter. [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11953134/)

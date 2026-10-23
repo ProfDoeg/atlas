@@ -1,0 +1,174 @@
+## Works by Slavoj Žižek
+
+### Early books and collective theoretical projects
+
+- **1972:** *Bolečina razlike*. Žižek’s first book-length philosophical obra, written in Slovenian.
+- **1976:** *Znak, označitelj, pismo*. A Serbo-Croatian theoretical monograph on sign, signifier, and writing.
+- **1980:** *Hegel in označevalec*. A Slovenian monograph bringing Hegel into the theory of the signifier.
+- **1982:** *Zgodovina in nezavedno*. An edited and translated collection rather than a wholly authored monograph.
+- **1983:** *Gospostvo, vzgoja, analiza: Zbornik tekstov Lacanove šole psihoanalize*. A collective Lacanian-school volume; Žižek’s bibliographic role is associated with its compilation, so it should not be treated as a sole-authored book.
+- **1984:** *Filozofija skozi psihoanalizo*. An edited Slovenian collection: a curatorial and theoretical project rather than a single-author obra.
+- **1984:** *Birokratija i uživanje*. A Serbo-Croatian political-psychoanalytic monograph on bureaucracy and enjoyment.
+- **1985:** *Hegel in objekt*. A co-authored theoretical book made with Mladen Dolar.
+- **1985:** *Problemi teorije fetišizma: Filozofija skoz psihoanalizo II*. A co-authored theoretical collection made with Rado Riha.
+- **1987:** *Jezik, ideologija, Slovenci*. A Slovenian book on language, ideology, and Slovenian political identity.
+- **1988:** *Pogled s strani*. A Slovenian film-theoretical book whose material later entered Žižek’s international work in altered form.
+- **1988:** *Le plus sublime des hystériques: Hegel passe*. Žižek’s French doctoral thesis in published form; its later English reworking, *The Most Sublime Hysteric*, is an edition and revision of this obra rather than an entirely unrelated work.
+- **1989:** *Druga smrt Josipa Broza Tita*. A Slovenian political-psychoanalytic book on the symbolic “second death” of Tito.
+- **1989:** *The Sublime Object of Ideology*. An English-language philosophical monograph and the principal international manifestation of Žižek’s early project joining Lacan, Hegel, and ideology critique.
+- **1990:** *Beseda, dejanje svoboda: Filozofija skoz psihoanalizo V*. A Slovenian psychoanalytic-philosophical collection, including work on Rossellini.
+- **1990:** *Beyond Discourse Analysis*. A substantial essay published inside Ernesto Laclau’s *New Reflections on the Revolution of Our Time*; bibliographies sometimes list it among Žižek’s books, but materially it resists that classification because it is a contribution to another author’s volume.
+- **1991:** *Hitchcock II*. A Slovenian film-theoretical collective volume containing Žižek’s work; it is not straightforwardly a sole-authored monograph.
+- **1991:** *For They Know Not What They Do: Enjoyment as a Political Factor*. A philosophical sequel and counterpoint to *The Sublime Object of Ideology*.
+- **1991:** *Looking Awry: An Introduction to Jacques Lacan through Popular Culture*. A pedagogical-critical monograph using popular culture to manifest Lacanian concepts.
+- **1992:** *Enjoy Your Symptom!: Jacques Lacan in Hollywood and Out*. A film-philosophy monograph structured through cinema rather than a book “about films” in the ordinary critical sense.
+- **1993:** *Filozofija skoz psihoanalizo VII*. A Slovenian theoretical collection containing work on the cogito, sexual difference, and David Lynch.
+- **1993:** *Tarrying with the Negative: Kant, Hegel, and the Critique of Ideology*. A philosophical monograph extending Žižek’s Hegelian-Lacanian project.
+- **1993:** *Everything You Always Wanted to Know About Lacan … But Were Afraid to Ask Hitchcock*. An edited collective volume; Žižek made its intellectual frame and contributed to it, but did not author every text.
+- **1994:** *The Metastases of Enjoyment: Six Essays on Woman and Causality*. An authored essay collection.
+- **1994:** *Mapping Ideology*. An edited theoretical anthology with an introduction by Žižek; its object is curatorial and programmatic, not sole authorship.
+- **1994:** *Problemi: Eseji 4–5*. A Slovenian journal-book or themed issue containing Žižek’s film writing; its serial form resists clean classification as an independent book.
+- **1996:** *The Indivisible Remainder: An Essay on Schelling and Related Matters*. A philosophical monograph on Schelling.
+- **1996:** *Slovenska smer*. A Slovenian political collection.
+- **1997:** *Argument za strpnost*. A Slovenian theoretical publication associated with Žižek’s essay on Schumann and romantic anti-humanism; its short or serial form makes “book” an uncertain category.
+- **1997:** *The Abyss of Freedom/Ages of the World*. A composite book pairing an essay by Žižek with Schelling’s text translated by Judith Norman; it is a constructed dialogue across authors rather than a sole-authored monograph.
+- **1997:** *The Plague of Fantasies*. An authored psychoanalytic-philosophical monograph.
+- **1998:** *Alain Badiou, Sveti Pavel: Utemeljitev univerzalnosti*. A Slovenian edition of Badiou’s work containing Žižek’s afterword; Žižek made only that framing text, not the whole book.
+- **1998:** *Cogito and the Unconscious*. An edited collective volume and theoretical project.
+- **1998:** *The Spectre Is Still Roaming Around: An Introduction to the 150th Anniversary Edition of The Communist Manifesto*. A book-length intervention built around an introduction to Marx and Engels; it lies between independent essay and paratext.
+- **1999:** *NATO as the Left Hand of God?*. A short political intervention or pamphlet rather than a conventional monograph.
+- **1999:** *The Ticklish Subject: The Absent Centre of Political Ontology*. A major philosophical monograph.
+- **2000:** *The Art of the Ridiculous Sublime: On David Lynch’s Lost Highway*. A book-length film-philosophy essay.
+- **2000:** *The Fragile Absolute; or, Why Is the Christian Legacy Worth Fighting For?*. A philosophical-theological monograph.
+- **2000:** *Krhki absolut: Enajst tez o krščanstvu in marksizmu danes*. A Slovenian manifestation of the *Fragile Absolute* project; it should not automatically be counted as a wholly separate obra merely because its title and form differ.
+- **2001:** *Did Somebody Say Totalitarianism? Five Interventions in the (Mis)Use of a Notion*. An authored political-theoretical book.
+- **2001:** *The Fright of Real Tears: Krzysztof Kieślowski Between Theory and Post-Theory*. A film-theory monograph.
+- **2001:** *On Belief*. A short philosophical-theological monograph.
+- **2001:** *Opera’s Second Death*. A co-authored book made with Mladen Dolar, joining opera criticism and psychoanalytic philosophy.
+- **2001:** *Strah pred pravimi solzami: Krzysztof Kieślowski in šiv*. A Slovenian manifestation of Žižek’s Kieślowski project and therefore not securely a distinct work from *The Fright of Real Tears*.
+- **2002:** *Revolution at the Gates: Žižek on Lenin, the 1917 Writings*. A critical edition: Lenin supplies the primary texts, while Žižek selects, introduces, and frames them.
+- **2002:** *Welcome to the Desert of the Real! Five Essays on September 11 and Related Dates*. An authored collection of political interventions.
+- **2003:** *Jacques Lacan: Critical Evaluations in Cultural Theory*. A four-volume edited scholarly collection; Žižek’s obra here is selection and framing, not authorship of its contents.
+- **2003:** *Kuga fantazem*. A Slovenian manifestation of *The Plague of Fantasies*, not necessarily an independent work.
+- **2003:** *Organs Without Bodies: On Deleuze and Consequences*. A philosophical monograph.
+- **2003:** *Perversion and the Social Relation*. A collective volume co-edited with Molly Anne Rothenberg and Dennis Foster.
+- **2003:** *The Puppet and the Dwarf: The Perverse Core of Christianity*. A philosophical-theological monograph.
+- **2004:** *Conversations with Žižek*. A dialogical book made with Glyn Daly; its spoken-interview basis means authorship belongs partly to the encounter and its editing.
+- **2004:** *Iraq: The Borrowed Kettle*. A political essay collection.
+- **2004:** *Paralaksa: za politični suspenz etičnega*. A Slovenian publication belonging to Žižek’s developing parallax project; its exact independence from related essays and the later *Parallax View* should not be assumed.
+- **2005:** *Interrogating the Real: Selected Writings*. A selection of Žižek’s texts edited by Rex Butler and Scott Stephens; Žižek authored the pieces but did not alone make the resulting compilation.
+- **2005:** *Kako biti nihče*. A Slovenian collection whose status is that of an assembled volume rather than a clearly new unitary monograph.
+- **2005:** *On Eggs and Omelets*. Žižek’s foreword to *Marxism and the Call of the Future*; an independently titled paratext, not a separate conventional book.
+- **2005:** *The Universal Exception: Selected Writings*. A collection of Žižek’s work assembled and edited by Rex Butler and Scott Stephens; bibliographies disagree in casually assigning “editor” status to Žižek, but the named editors of the selection are Butler and Stephens.
+- **2006:** *How to Read Lacan*. A pedagogical monograph.
+- **2006:** *Lacan: The Silent Partners*. An edited anthology with an introduction by Žižek.
+- **2006:** *The Neighbor: Three Inquiries in Political Theology*. A three-author inquiry made with Eric Santner and Kenneth Reinhard; it is deliberately plural rather than a unified sole-authored argument.
+- **2006:** *The Parallax View*. A philosophical monograph developing parallax as a general method and ontological structure.
+- **2007:** *On Practice and Contradiction*. An edition of selected Mao Zedong texts with Žižek’s introduction; the whole object is not properly called a Žižek-authored book.
+- **2007:** *Terrorism and Communism*. An edition of Trotsky’s text with a Žižek introduction; Žižek made the framing intervention, not the primary work.
+- **2007:** *Virtue and Terror*. An edition of Robespierre’s texts selected and introduced by Žižek.
+- **2008:** *En defensa de la intolerancia*. A Spanish-language publication of Žižek’s intervention on tolerance; its relation to previously published material makes it unsafe to count simply as a new original work.
+- **2008:** *In Defense of Lost Causes*. A large political-philosophical monograph.
+- **2008:** *Pervertitov vodič kroz film*. A Croatian collection of Žižek’s cinema essays edited by Srećko Horvat; despite sharing a title with the film, it is a textual compilation, not the screenplay or an edition of the movie.
+- **2008:** *Violence: Six Sideways Reflections*. A book-length sequence of theoretical essays.
+- **2009:** *First as Tragedy, Then as Farce*. A short political-theoretical monograph.
+- **2009:** *Mythology, Madness and Laughter: Subjectivity in German Idealism*. A co-authored philosophical book made with Markus Gabriel.
+- **2009:** *The Monstrosity of Christ: Paradox or Dialectic?*. A staged theological-philosophical debate with John Milbank, edited and mediated by Creston Davis.
+- **2010:** *Badiou & Žižek: Hvalnica ljubezni*. A Slovenian dialogical publication joining texts or interventions by Alain Badiou and Žižek; not a sole-authored book.
+- **2010:** *Living in the End Times*. A political-philosophical monograph.
+- **2010:** *Paul’s New Moment: Continental Philosophy and the Future of Christian Theology*. A collaborative volume associated with Žižek, Creston Davis, and John Milbank; it combines authored contributions rather than forming a sole-authored treatise.
+- **2010:** *Philosophy in the Present*. A dialogue with Alain Badiou.
+- **2010:** *Problemi 4–5: K definiciji komunistične kulture*. A themed Slovenian serial publication; it resists being treated as a freestanding sole-authored book.
+- **2010:** *The Idea of Communism*. A conference-derived collective project edited by Žižek and Costas Douzinas.
+- **2011:** *Hegel and the Infinite: Religion, Politics, and Dialectic*. A collective volume co-edited with Clayton Crockett and Creston Davis; Žižek also contributed its preface and a chapter.
+- **2011:** *Začeti od začetka*. A Slovenian collection of Žižek’s writings edited by Peter Klepec; the compilation’s authorship is divided between writer and editor.
+- **2012:** *God in Pain: Inversions of Apocalypse*. A dialogical theological work with Boris Gunjević.
+- **2012:** *Less Than Nothing: Hegel and the Shadow of Dialectical Materialism*. A major philosophical monograph.
+- **2012:** *The Year of Dreaming Dangerously*. A political essay book.
+- **2013:** *Demanding the Impossible*. A sequence of live interviews with Žižek edited by Yong-june Park; it is a conversational manifestation rather than a conventionally composed monograph.
+- **2013:** *From Myth to Symptom: The Case of Kosovo*. A co-authored political study made with Agon Hamza.
+- **2013:** *The Idea of Communism 2: The New York Conference*. A conference-based collective project edited by Žižek.
+- **2013:** *What Does Europe Want? The Union and Its Discontents*. A co-authored political book with Srećko Horvat.
+- **2014:** *Absolute Recoil: Towards a New Foundation of Dialectical Materialism*. A philosophical monograph.
+- **2014:** *Comradely Greetings: The Prison Letters of Nadya and Slavoj*. An exchange of letters with Nadezhda Tolokonnikova; the correspondence, not either participant alone, is the made object.
+- **2014:** *Event: A Philosophical Journey Through a Concept*. A short conceptual monograph.
+- **2014:** *The Most Sublime Hysteric: Hegel with Lacan*. The English manifestation of Žižek’s earlier French thesis, revised and translated; counting it as entirely new would confuse work with edition.
+- **2014:** *Trouble in Paradise: From the End of History to the End of Capitalism*. A political-philosophical monograph.
+- **2014:** *Žižek’s Jokes: Did You Hear the One About Hegel and Negation?*. A compilation of Žižek’s jokes edited by Audun Mortensen, with an afterword by Momus; Žižek supplied the textual material but did not solely make the book as a selected object.
+- **2015:** *Islam, Ateizam i Modernost: Neka bogohulna razmišljanja*. A Croatian-language collection or intervention on Islam, atheism, and modernity; its relation to earlier articles complicates its status as an entirely new work.
+- **2016:** *Against the Double Blackmail: Refugees, Terror and Other Troubles with the Neighbours*. A political intervention in book form.
+- **2016:** *Antigone*. A dramatic rewriting of Sophocles offering three alternative endings. It is a performance protocol and theatrical text, not a philosophical monograph.
+- **2016:** *Disparities*. A philosophical essay collection.
+- **2016:** *In Defence of the Terror: Liberty or Death in the French Revolution*. A paired book with Sophie Wahnich, bringing two distinct interventions into one object.
+- **2016:** *The Wagnerian Sublime: Four Lacanian Readings of Classic Operas*. A compact collection of opera interpretations.
+- **2017:** *Incontinence of the Void: Economico-Philosophical Spandrels*. A philosophical monograph.
+- **2017:** *The Courage of Hopelessness: Chronicles of a Year of Acting Dangerously*. A political essay book.
+- **2018:** *Like a Thief in Broad Daylight: Power in the Era of Post-Humanity*. A political-philosophical monograph.
+- **2018:** *Reading Marx*. A collaborative reading project with Frank Ruda and Agon Hamza.
+- **2019:** *Sex and the Failed Absolute*. A philosophical monograph.
+- **2019:** *The Relevance of the Communist Manifesto*. A short intervention that reactivates an earlier manifesto; it describes and attempts to act politically, giving it something of a manifesto’s own force.
+- **2020:** *A Left That Dares to Speak Its Name: 34 Untimely Interventions*. A collection of short political texts.
+- **2020:** *Hegel in a Wired Brain*. A philosophical monograph on Hegel, digital technology, and subjectivity.
+- **2020:** *Pandemic! COVID-19 Shakes the World*. A rapidly composed political-philosophical chronicle of the pandemic.
+- **2020:** *Pandemic! 2: Chronicles of a Time Lost*. A second pandemic chronicle rather than a revised edition of the first.
+- **2020:** *Subject Lessons: Hegel, Lacan, and the Future of Materialism*. A collective volume co-edited with Russell Sbriglia; Žižek helped make its intellectual frame and contributed to it.
+- **2021:** *Chocolate sin grasa*. A Spanish collection whose components largely derive from earlier writing; it is a new compilation but not securely a new underlying textual obra.
+- **2021:** *Heaven in Disorder*. A collection of political and cultural essays.
+- **2021:** *Problemi 7–8: Živeti in umreti v sprevrnjenem svetu*. A Slovenian themed serial or book-like issue; it resists treatment as a conventional stand-alone monograph.
+- **2022:** *S/Ž | A European Manifesto*. A collaborative manifesto with Jeremy Fernando: a text intended to intervene and act, not merely describe.
+- **2022:** *Surplus-Enjoyment: A Guide for the Non-Perplexed*. A philosophical monograph.
+- **2023:** *Freedom: A Disease Without Cure*. A philosophical monograph on freedom.
+- **2023:** *Too Late to Awaken: What Lies Ahead When There Is No Future?*. A short political-philosophical intervention.
+- **2024:** *Against Progress*. The first volume in Bloomsbury’s curated *Žižek’s Essays* series; it is a newly made collection even where constituent texts had earlier lives.
+- **2024:** *Christian Atheism: How to Be a Real Materialist*. A philosophical-theological monograph.
+- **2025:** *Quantum History: A New Materialist Philosophy*. A philosophical monograph joining dialectics, psychoanalysis, and quantum theory.
+- **2025:** *Zero Point*. The second curated volume in the *Žižek’s Essays* series; its identity lies partly in editorial assembly rather than wholly new composition.
+- **2026:** *Liberal Fascisms*. The third curated volume in the *Žižek’s Essays* series, a collection of short political texts rather than a unitary treatise.
+
+### Screen lectures and essay films authored through performance
+
+- **2004:** *The Reality of the Virtual*. A filmed lecture directed by Ben Wright in which Žižek’s sustained spoken argument is the principal material; authorship is shared between philosophical performance and cinematic recording.
+- **2006:** *The Pervert’s Guide to Cinema*. A feature-length essay film directed by Sophie Fiennes and written/presented by Žižek. Its sets, clips, performance, and argument form a Gesamtkunstwerk-like critical object rather than a filmed book.
+- **2012:** *The Pervert’s Guide to Ideology*. An essay film directed by Sophie Fiennes and written/presented by Žižek, using cinematic reenactment and montage as parts of the philosophical argument.
+- **2026:** *The Pervert’s Guide to Utopias*. A further Sophie Fiennes–Žižek essay film. It is a collaborative cinematic manifestation, so sole authorship should not be assigned to Žižek even though his performance and argument organize it.
+
+### Screen appearances that resist classification as Žižek’s works
+
+- **1993:** *Laibach: A Film from Slovenia*. Žižek appears as an intellectual participant, but the film is not securely his obra; it belongs in his performed corpus rather than his authored filmography.
+- **1996:** *Liebe dein Symptom wie dich selbst!*. A documentary portrait structured around Žižek’s speech and persona; it is a manifestation of his thought but not straightforwardly something he authored.
+- **1996:** *Predictions of Fire*. A documentary about Slovenian art and NSK featuring Žižek; his contribution is a performance within another filmmaker’s work.
+- **1997:** *Post-Socialism + Retro Avantgarde + Irwin*. A documentary appearance connected to NSK and IRWIN, not a Žižek-authored film.
+- **2005:** *Žižek!*. Astra Taylor’s documentary portrait. Žižek is its subject and performer, not its director or sole maker.
+- **2006:** *The Possibility of Hope*. An Alfonso Cuarón short containing Žižek’s contribution; it is not properly attributable to him as a whole.
+- **2008:** *Examined Life*. Astra Taylor’s ensemble philosophy film includes a Žižek segment; the segment is a performed intervention, while the film remains Taylor’s obra.
+- **2008:** *Violence*. A recorded audiovisual presentation associated with Žižek’s book; sources list it as film, but its exact production and authorship status are insufficiently stable to call it an independently authored Žižek movie without qualification.
+- **2009:** *Alien, Marx & Co.—Slavoj Žižek, ein Porträt*. A documentary portrait; Žižek supplies its subject and performance rather than its complete authorship.
+- **2009:** *Terror! Robespierre and the French Revolution*. A documentary presentation associated with Žižek’s interpretation of Robespierre; its audiovisual object is collaborative.
+- **2011:** *Marx Reloaded*. An animated documentary featuring Žižek among several thinkers; it is an appearance, not his sole creation.
+- **2012:** *Catastroika*. Žižek appears as a commentator in a documentary made by others.
+- **2013:** *Balkan Spirit*. A documentary appearance and philosophical performance, not securely a Žižek-authored film.
+- **2016:** *Houston, We Have a Problem!*. Žižek appears in Žiga Virc’s docufiction as commentator and interpretive device; the movie’s deliberate instability between fact and fiction does not make it Žižek’s own obra.
+- **2016:** *Risk*. A documentary appearance whose whole authorship belongs elsewhere.
+- **2018:** *Turn On*. A short film centered on Žižek’s performance; the available filmography does not establish him as its sole maker.
+- **2021:** *Bliss*. A cinematic appearance by Žižek, not securely an authored film.
+
+### Public speech, interviews, columns, and other serial manifestations
+
+- **Late 1980s–present:** *Lectures, debates, interviews, columns, forewords, journal articles, newspaper interventions, and web essays*. This is a vast, open-ended body of work rather than one fixed obra: the scholarly and specialist bibliographies enumerate hundreds of manifestations, many later revised, translated, retitled, excerpted, or absorbed into books. Treating every upload, transcript, translation, reprint, or syndication as a separate work would reproduce editions rather than identify made things; no complete critical edition or closed catalogue raisonné presently resolves those textual boundaries.
+- **2019:** *Happiness: Capitalism vs. Marxism*. Žižek’s debate with Jordan Peterson is a jointly produced public event and audiovisual manifestation, not a sole-authored text; unofficial recordings and transcripts are editions of the event rather than new works.
+- **2020s–present:** *Žižek’s online columns and subscription writing*. These constitute a continuing serial project with unstable boundaries: individual pieces may migrate between platforms and later essay collections, so completeness and work identity cannot responsibly be claimed while the series remains active.
+
+### Sources
+
+- [Slavoj Žižek bibliography, consolidated chronological bibliography of books, collaborative volumes, Slovenian publications, and articles](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek_bibliography)
+- [Lacan.com, “Slavoj Žižek: Bibliography”](https://www.lacan.com/bibliographyzi.htm)
+- [No Subject: Encyclopedia of Lacanian Psychoanalysis, “Slavoj Žižek — Bibliography”](https://www.nosubject.com/Slavoj_%C5%BDi%C5%BEek_-_Bibliography)
+- [Bloomsbury Publishing, Slavoj Žižek books](https://www.bloomsbury.com/uk/discover/superpages/academic/slavoj-zizek/)
+- [Bloomsbury Publishing, *Žižek’s Essays* series](https://www.bloomsbury.com/uk/series/%C5%BEi%C5%BEeks-essays/)
+- [Bloomsbury Publishing, *Quantum History: A New Materialist Philosophy*](https://www.bloomsbury.com/uk/quantum-history-9781350566422/)
+- [Bloomsbury Publishing, *Zero Point*](https://www.bloomsbury.com/us/zero-point-9781350537859/)
+- [Bloomsbury Publishing, *Liberal Fascisms*](https://www.bloomsbury.com/uk/liberal-fascisms-9781350573161/)
+- [Verso Books, Slavoj Žižek author page](https://www.versobooks.com/en-ca/blogs/authors/zizek-slavoj)
+- [Verso Books, “The Essential Žižek”](https://www.versobooks.com/en-gb/collections/the-essential-zizek)
+- [Slavoj Žižek, general filmography](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek#Filmography)
+- [International Journal of Žižek Studies, journal archive](https://zizekstudies.org/index.php/IJZS/issue/archive)

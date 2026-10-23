@@ -1,0 +1,419 @@
+## Works by Luis Perlotti
+
+### Early sculpture, portraits, and exhibition pieces
+
+- **Before 1914:** *El tambor de Tacuarí*. Small commemorative sculpture; the museum history identifies it among Perlotti’s earliest commissions but supplies no exact date or material.
+- **Before 1914:** *Two effigies of Domingo Faustino Sarmiento*. Commissioned respectively by Argentina’s Colegio Militar and Escuela Naval; surviving documentation does not give distinct titles.
+- **1915:** *Muestrario para la Exposición de San Francisco*. A carved and drawn display prepared while Perlotti worked for the Ministry of Agriculture; it resists classification as a single autonomous obra because it was an institutional exhibition assemblage.
+- **1922:** *Benito Quinquela Martín*. Bronze portrait awarded third prize at the XII Salón Nacional.
+- **1924:** *Niña del Cuzco*. Wood sculpture awarded the Premio Ciudad de Buenos Aires at the XIV Salón Nacional; museum records elsewhere use the spelling *Niña de Cuzco*.
+- **1927–1929:** *Oración*. Polychrome ceramic group depicting a mother and child at prayer; the dating is inconsistent—the museum places Perlotti’s Sevilla participation in 1927, while ceramic scholarship says the work received its prize at the 1929 Exposición Iberoamericana.
+- **1928:** *Busto de Juan de Dios Filiberto*. Cement relief, originally polychrome.
+- **1930:** *Beethoven*. Polychrome plaster portrait, signed and dated.
+- **1932:** *Clavel del aire*. Polychrome cement relief.
+- **1934:** *El leñatero riojano*. Oil painting on canvas; an unusual two-dimensional obra within Perlotti’s predominantly sculptural practice.
+- **1937:** *Acuyko*. Polychrome ceramic sculpture; the title is also recorded as *Acuyico* for a wood sculpture in Montevideo, so these may be distinct versions rather than one fixed object.
+- **1939:** *Las tejedoras*. Large polychrome cement relief showing Indigenous women spinning and weaving.
+- **1941:** *Mariano Moreno*. Patinated-bronze portrait, signed and dated.
+- **1942:** *Alfonsina Storni*. Stone memorial completed in 1942 but installed at La Perla, Mar del Plata, several years later; sources variously give 1947 or 1948 for its public emplacement.
+- **1944:** *La ofrenda*. Patinated-bronze figure, signed and dated.
+- **1945:** *Bartolomé Mitre*. Bronze portrait.
+- **1945:** *Miguel A. Camino*. Bronze portrait.
+- **1945:** *La Piedad*. Stone funerary sculpture.
+- **1945:** *Victoriano Montes*. Bronze portrait.
+- **1945:** *Antonio Calabrese y señora*. Marble double portrait.
+- **1945:** *Julio César Arata*. Bronze portrait or group.
+- **1945:** *Julio R. Castiñeira*. Bronze portrait.
+- **1946:** *José de San Martín*. Marble portrait.
+- **1946:** *Victoriano Montes*. Bronze portrait; catalogued separately from the 1945 version.
+- **1946:** *Francisco Lera*. Bronze portrait.
+- **1946:** *Felicita Klimper Alvarado*. Stone portrait.
+- **1946:** *Tirador de honda*. Bronze Indigenous figure symbolizing resistance; other versions or studies survive in the museum.
+- **1946:** *La flor de Irupé*. Ceramic sculpture based on a Guaraní legend, signed and dated; it is also called *La leyenda de la flor de Irupé*.
+- **1947:** *El Juramento*. Ceramic sculpture.
+- **1947:** *Indio guaraní*. Reconstituted-stone sculpture.
+- **1947:** *Garganta del Diablo*. Sculpture inspired by the Guaraní account of Iguazú Falls; the consulted catalogue transcription does not specify its material.
+- **1948:** *Constantino Gaito*. Bronze portrait.
+- **1948:** *Fortunato del Río*. Marble portrait.
+- **1948:** *M. Marco y señora*. Stone double portrait.
+- **1948:** *El cantor*. Reconstituted-stone sculpture; a distinct stone relief with the same title followed in 1955.
+- **1948:** *Eulalia Silveira de Rojas*. Bronze portrait.
+- **1948:** *Clarina Panigazzi*. Bronze portrait.
+- **1948:** *Reverendo Francisco Paracea*. Bronze portrait.
+- **1948:** *Florentino Ameghino*. Bronze portrait.
+- **1948:** *A. F. Palao*. Bronze portrait.
+- **1948:** *Julio de Vedia*. Bronze-and-stone commemorative sculpture.
+- **1948:** *Ingeniero E. Cantoni*. Figure whose material is not specified in the catalogue transcription.
+- **1948:** *José de San Martín*. Bronze portrait.
+- **1948:** *Santos Vega*. Polychrome cement relief; distinct from Perlotti’s contemporaneous stone monument to the legendary payador.
+- **1949:** *Manuel Belgrano*. Marble portrait.
+- **1949:** *José de San Martín*. Stone portrait.
+- **1949:** *Almafuerte*. Bronze portrait of the poet Pedro Bonifacio Palacios.
+- **1949:** *Hipólito Yrigoyen*. Reconstituted-stone portrait; the source spells the surname “Irigoyen.”
+- **1949:** *Rosario S. de Nigro*. Stone portrait.
+- **1949:** *M. Conti*. Bronze portrait.
+- **1949:** *A. Panigazzi*. Stone portrait.
+- **1950:** *Aldo Cantoni*. Bronze portrait.
+- **1950:** *María Ana Cotter de Madrazo*. Bronze portrait.
+- **1950:** *Isaac Castro*. Bronze portrait.
+- **1950:** *Luis Picasso*. Bronze portrait.
+- **1950:** *Fidel Roig Matons*. Bronze portrait.
+- **1950:** *José de San Martín*. Stone portrait.
+- **1950:** *José de San Martín de civil*. Bronze figure representing San Martín in old age and civilian dress.
+- **1950:** *José Roger Balet*. Wood portrait.
+- **1951:** *Josefina C. Bignoni*. Bronze portrait.
+- **1951:** *Cecilia Borja*. Marble portrait.
+- **1951:** *Sarmiento maestro*. Sculpture whose catalogue entry does not specify material; a patinated-plaster version entered the Museo Sarmiento.
+- **1951:** *Doña Paula*. Ceramic portrait of Paula Albarracín de Sarmiento.
+- **1951:** *Domingo Faustino Sarmiento*. Wood portrait.
+- **1951:** *Tomás Ditaranto*. Stone portrait.
+- **1951:** *Arriero y Santos Vega*. Wood sculptural group.
+- **1952:** *Cosme Argerich*. Stone portrait.
+- **1952:** *Domingo Faustino Sarmiento*. Bronze portrait.
+- **1952:** *Antonio Bravo*. Bronze portrait.
+- **1952:** *Domingo Lombardi*. Bronze portrait.
+- **1952:** *Carlos J. Rodríguez*. Stone portrait.
+- **1952:** *Pericón nacional*. Ceramic dance group, signed and dated; the documented example has undergone restoration.
+- **1953:** *Justo José de Urquiza*. Portrait or commemorative sculpture; the catalogue transcription supplies neither medium nor a fuller title.
+- **1953:** *Germán Bianco*. Marble portrait.
+- **1953:** *Urquiza*. Bronze portrait, apparently distinct from the other 1953 Urquiza entry.
+- **1953:** *E. Gutiérrez*. Bronze portrait.
+- **1953:** *Ricardo Levene*. Bronze portrait.
+- **1953:** *José de España*. Marble portrait.
+- **1953:** *Juan Novelli*. Bronze portrait.
+- **1953:** *Carlos Bollini*. Bronze portrait.
+- **1953:** *Regina M. de España*. Stone portrait.
+- **1954:** *Indio*. Wood sculpture; the generic catalogue title does not securely identify the represented nation or sitter.
+- **1955:** *José María Quiroga*. Bronze portrait.
+- **1955:** *Camilo Rojo*. Bronze portrait.
+- **1955:** *Sarmiento, San Martín y Belgrano*. Bronze group or coordinated set.
+- **1955:** *Juan Bautista Alberdi*. Bronze portrait.
+- **1955:** *Perito Moreno*. Bronze portrait.
+- **1955:** *Domingo Faustino Sarmiento*. Bronze portrait.
+- **1955:** *Resignación*. Stone figure.
+- **1955:** *El cantor*. Stone relief, distinct in form and date from the 1948 sculpture.
+- **1956:** *Justo José de Urquiza*. Bronze portrait.
+- **1956:** *La Mesopotamia*. Stone allegorical sculpture.
+- **1956:** *Bernardino Rivadavia e indio tehuelche*. Bronze pair or group.
+- **1956:** *Belgrano*. Bronze portrait.
+- **1956:** *Cabeza de Sarmiento*. Bronze head.
+- **1956:** *Rosario Beltrán Núñez*. Stone portrait.
+- **1956:** *J. Balestra*. Bronze portrait.
+- **1956:** *Ñuque Mapu*. Sculpture identified as a Pehuenche subject; the catalogue transcription gives no medium.
+- **1957:** *La madre*. Bronze sculpture.
+- **1957:** *Paula Albarracín de Sarmiento*. Stone portrait.
+- **1957:** *General Lavalle*. Imitation-stone portrait.
+- **1957:** *Juan Bautista Alberdi*. Bronze portrait.
+- **1957:** *Manuel José de Olascoaga*. Bronze portrait.
+- **1957:** *Belgrano*. Stone portrait.
+- **1957:** *Eliseo Ignacio Scheroni*. Bronze portrait.
+- **1957:** *Eduardo Latzina, Pedro Torres Bertoluchi y Juan Garrone*. Three bronze portraits or a collective group; the catalogue transcription does not settle which.
+- **1957:** *Domingo Faustino Sarmiento*. Bronze portrait.
+- **1957:** *Doña Paula Albarracín*. Bronze portrait.
+- **1957:** *Ricardo Rojas*. Stone portrait.
+- **1957:** *José Jacinto Berrutti*. Bronze portrait.
+- **1957:** *Sarmiento*. Bronze portrait.
+- **1957:** *Rivadavia*. Sculpture of unspecified material.
+- **1957:** *Manuel Balado*. Bronze portrait.
+- **1957:** *José Marcos Crioni*. Stone portrait.
+- **1957:** *Arturo Capdevila*. Wood portrait.
+- **1957:** *Alberto Palcos*. Stone portrait.
+- **1958:** *Bartolomé Mitre*. Bronze portrait.
+- **1958:** *Nicolás Repetto*. Bronze portrait.
+- **1958:** *Moreno y Belgrano*. Bronze double portrait or group.
+- **1958:** *Ricardo Rojas*. Bronze portrait.
+- **1958:** *Avelino Herrera*. Bronze portrait.
+- **1958:** *San Martín y Belgrano*. Bronze double portrait or group.
+- **1958:** *San Martín, Rivadavia, Sarmiento y Victoriano Montes*. Bronze ensemble or coordinated portrait series.
+- **1958:** *San Martín*. Bronze portrait.
+- **1958:** *Monseñor Morgatti*. Stone portrait.
+- **1958:** *Monseñor Esandi*. Bronze portrait.
+- **1958:** *Sarmiento*. Bronze portrait.
+- **1958:** *Réplica del busto de San Martín*. Replica whose material and source bust are not specified.
+- **1958:** *Ricardo Rojas*. Second bronze entry under the same year; the catalogue does not establish whether it is another cast or another composition.
+- **1958:** *Eugenio Asconape*. Bronze portrait.
+- **1958:** *Miguel Mastroggiani*. Bronze portrait.
+- **1958:** *Mariano Moreno y Domingo F. Sarmiento*. Bronze pair or group.
+- **1958:** *Relieve*. Untitled or generically catalogued bronze relief.
+- **1958:** *Capitán Gregores*. Bronze portrait.
+- **1958:** *Busto de Luis Piedrabuena*. Portrait made for Escuela N.º 19 in Río Gallegos.
+- **1959:** *Don Pedro de Mendoza*. Bronze portrait.
+- **1959:** *Bartolomé U. Chiesino*. Marble portrait.
+- **1959:** *Atavia Herrera*. Bronze portrait.
+- **1959:** *Ensueño*. Bronze sculpture.
+- **1959:** *Gregorio Álvarez*. Stone portrait.
+- **1959:** *La madre*. Stone sculpture.
+- **1959:** *José María Martínez Roveda*. Marble portrait.
+- **1959:** *Antonio E. Díaz*. Bronze portrait.
+- **1959:** *Bernardino Althabe*. Bronze portrait.
+- **1959:** *Arturo Marasso*. Stone portrait.
+- **1959:** *Relieve*. Untitled or generically catalogued bronze relief.
+- **1959:** *Serafín Galán Deheza*. Stone portrait.
+- **1959:** *Jarrón*. Ceramic decorative object, signed and dated; it is an obra of applied art rather than a book or conventional statue.
+- **1960:** *Federico Cantoni*. Bronze portrait.
+- **1960:** *Sarmiento*. Bronze portrait.
+- **1960:** *Pedro Eugenio Aramburu*. Bronze portrait.
+- **1960:** *Martín Fierro*. Bronze figure.
+- **1960:** *José de San Martín*. Bronze portrait.
+- **1960:** *Antonio Mentruyt*. Bronze portrait.
+- **1960:** *General Bussetti*. Bronze portrait.
+- **1960:** *María F. de Gaudino*. Bronze portrait.
+- **1960:** *Sarmiento*. Second bronze entry under the year; its relationship to the other 1960 portrait is unstated.
+- **1960:** *José de San Martín*. Second bronze entry under the year.
+- **1960:** *Ricardo Levene*. Bronze portrait.
+- **1960:** *Mariano Moreno*. Bronze portrait.
+- **1960:** *Tomás Espora*. Bronze portrait.
+- **1960:** *Desnudo*. Bronze nude.
+- **1960:** *Juan Bautista Alberdi*. Bronze portrait.
+- **1960:** *Domingo Faustino Sarmiento*. Marble portrait.
+- **1960:** *Domingo Faustino Sarmiento*. Bronze portrait.
+- **1960:** *Hipólito Yrigoyen*. Bronze portrait; catalogued with the variant spelling “Irigoyen.”
+- **1960:** *Carlos María de Alvear*. Bronze portrait.
+- **1960:** *Martín Fierro*. Second bronze entry under the year.
+- **1960:** *Juana de Ibarbourou*. Bronze portrait; the catalogue transcription misspells the poet’s surname “Ibarburu.”
+- **1960:** *Vicente P. Cacuri*. Stone portrait.
+- **1960:** *Catalina M. de Filiberto e hijo*. Stone double portrait.
+- **1960:** *Bernardino Rivadavia*. Bronze portrait.
+- **1960:** *San Martín*. Bronze portrait made for the Canary Islands, Spain.
+- **1961:** *Relieve*. Untitled or generically catalogued bronze relief.
+- **1961:** *Mascarón de proa de la fragata-escuela Libertad*. Ship’s figurehead: applied maritime sculpture rather than an autonomous gallery object.
+- **1961:** *Doña Paula Albarracín de Sarmiento*. Bronze portrait.
+- **1961:** *Domingo F. Sarmiento*. Bronze portrait.
+- **1961:** *Doña Paula Albarracín de Sarmiento*. A second bronze entry under the same year.
+- **1961:** *Ricardo Rojas y Alejandro Korn*. Bronze double portrait or paired set.
+- **1961:** *Sarmiento*. Bronze portrait.
+- **1961:** *Contralmirante E. Videla*. Bronze portrait.
+- **1961:** *Domingo F. Sarmiento y Victoriano Montes*. Bronze pair or group.
+- **1961:** *Mariano Moreno*. Stone portrait.
+- **1961:** *Antonio Zolezzi*. Bronze portrait.
+- **1961:** *Salvador Pisani*. Bronze portrait.
+- **1961:** *Cabeza del pintor Carlos Ripamonti*. Bronze head.
+- **1961:** *Moreno*. Bronze portrait.
+- **1961:** *La madre*. Stone sculpture.
+- **1962:** *Oscar Luqui*. Bronze portrait.
+- **1962:** *Sarmiento*. Bronze portrait.
+- **1962:** *Joaquín R. Rodríguez*. Bronze portrait.
+- **1962:** *Victoriano Montes*. Stone portrait.
+- **1962:** *Hambleto Branzi*. Marble-and-bronze portrait or memorial.
+- **1962:** *Nerio Rojas*. Bronze portrait.
+- **1962:** *Mariano Moreno*. Bronze portrait.
+- **1962:** *Gabriela Mistral*. Bronze portrait.
+- **1962:** *Victorio Cavallari*. Bronze portrait.
+- **1962:** *José de San Martín*. Bronze portrait.
+- **1962:** *R. M. Rosarivo*. Bronze portrait; the online transcription gives “Rosaviro,” apparently an error for typographer Raúl Mario Rosarivo.
+- **1962:** *Jorge González Cid*. Marble portrait.
+- **1962:** *Juan B. Alberdi, Vicente Pujol y Vicente Fidel López*. Bronze ensemble or set; the transcription shortens the third sitter’s name to “Fidel López.”
+- **1962:** *Juan Mamerto Esquiú*. Bronze portrait.
+- **1962:** *Ricardito Guitelman*. Marble portrait.
+- **1962:** *Rosauro Pérez Aubone*. Marble portrait.
+- **1962:** *Bernardino Rivadavia*. Bronze portrait.
+- **1962:** *Juan José Paso*. Bronze portrait.
+- **1962:** *Cirilo Grassi Díaz*. Bronze portrait.
+- **1962:** *Andrés del Pozo*. Bronze portrait.
+- **1962:** *Manuel Belgrano*. Bronze portrait.
+- **1962:** *Domingo F. Sarmiento*. Bronze portrait.
+- **1962:** *Ema Longo de Grassi*. Marble portrait.
+- **1962:** *Fray Mamerto Esquiú*. Bronze portrait, possibly related to the separately catalogued *Juan Mamerto Esquiú*.
+- **1962:** *Hipólito Bouchard*. Bronze portrait.
+- **1962:** *Los héroes de Tucumán*. Stone commemorative group or relief.
+- **1962:** *Gaspar Benavento*. Stone portrait.
+- **1962:** *San Martín*. Bronze portrait for the intersection of Avenida Gaona and Avenida San Martín, Buenos Aires.
+- **1962:** *Andrés Filippini*. Bronze portrait.
+- **1962:** *Constantino Veljanovich*. Bronze portrait.
+- **1962:** *Tambor de Tacuarí*. Bronze sculpture; it may be a later realization of Perlotti’s early subject rather than the same object.
+- **1962:** *Ceferino Namuncurá*. Bronze portrait.
+- **1962:** *Pedro Bidegain*. Bronze portrait.
+- **1962:** *Zossi: madre y Cristo*. Bronze funerary group for a mausoleum.
+- **1963:** *Víctor Mercante*. Bronze portrait.
+- **1964:** *Roberto Epele*. Stone portrait. This postdates Foglia’s nominal 1963 catalogue cutoff and therefore belongs to a later addition or later transcription, not securely to the original printed list.
+
+### Monuments, mausoleums, fountains, and architectural ensembles
+
+- **1945:** *Mausoleo de Carlos Borgialli*. Funerary ensemble in bronze and stone.
+- **1945:** *Mausoleo y busto del doctor Julio Herrera*. Funerary architecture with sculptural portrait; the catalogue does not identify an architect or material.
+- **1946:** *Mástil a Belgrano y a la Bandera*. Bronze-and-stone commemorative flagstaff, an architectural-sculptural ensemble.
+- **1946:** *Monumento a Francisca O. de Pignetto*. Stone memorial.
+- **1947:** *Monumento al ingeniero César Cipolletti*. Public memorial; repeated in the catalogue for 1948, leaving uncertain whether the entries represent project and completion, two versions, or duplication.
+- **1947:** *Boceto del Monumento a los Andes*. Model for the later public monument: a project-object, not the completed monument.
+- **1947:** *Monumento-fuente a Doña Paula Albarracín de Sarmiento*. Bronze-and-stone fountain made with architect Nello Raffo.
+- **1947:** *Monumento a Hipólito Yrigoyen*. Collaborative project with architect D. Falomir; the record does not state whether it was executed.
+- **1948:** *Monumento a la Emilia*. Bronze-and-stone memorial; the abbreviated dedication in the catalogue leaves its precise subject uncertain.
+- **1948:** *Monumento a Sarmiento, Mendoza*. Public monument whose material is not specified in the consulted transcription.
+- **1948:** *Monumento a Santos Vega*. Stone memorial at General Lavalle, distinct from the cement relief installed at Caminito.
+- **1949:** *Monumento a Guillermo Rawson*. Public memorial made with architect Nello Raffo.
+- **1950:** *Retorno a la Patria*. Monument at Tunuyán commemorating San Martín’s return and meeting with Colonel Manuel de Olazábal; its sculptural program and setting make it an architectural-sculptural ensemble.
+- **1950:** *Retorno a la Patria: abrazo de San Martín y Olazábal*. Signed stone reduction or model of one episode from the monument; it is a separate portable manifestation of the larger obra.
+- **1951:** *Monumento a Julio Argentino Roca*. Bronze-and-stone public monument.
+- **1951:** *Monumento a la Colectividad Italiana*. Bronze-and-stone public monument.
+- **1952:** *Monumento al general Pablo Riccheri*. Funerary monument in Recoleta Cemetery, made with architect Mario Villani and selected by competition.
+- **1952:** *Monumento a la Madre*. Public monument; the catalogue gives neither location nor material.
+- **1954:** *Monumento a la Madre*. Another public commission under the same generic title.
+- **1954:** *Monumento a San Martín*. Monument made with Alfonso Janeiro and Manuel Jiménez; the collaborators’ roles in execution should not be erased by assigning sole authorship to Perlotti.
+- **1956:** *Monumento a Bartolomé Mitre*. Bronze-and-stone monument in Corrientes.
+- **1957:** *Monumento a los Fundadores de San Vicente*. Bronze public monument.
+- **1957:** *Monumento a Sarmiento*. Bronze-and-stone public monument.
+- **1957:** *Monumento al Payador*. Public memorial of unspecified material.
+- **1957:** *Monumento a la Madre*. Public commission of unspecified material.
+- **1958:** *Monumento a la Madre Maestra*. Public memorial of unspecified material.
+- **1958:** *Monumento a Manuel Dorrego*. Bronze public monument.
+- **1958:** *Monumento-mástil*. Bronze-and-stone ensemble; the catalogue transcription does not identify its dedication or location.
+- **1958:** *Monumento a José Podestá*. Bronze-and-stone memorial.
+- **1958:** *Proyecto de monumento a los Galeses*. Initial project for the later Puerto Madryn monument; intention and models constitute an obra even before the final monument existed.
+- **1958:** *Monumento a la Madre*. Public commission of unspecified material.
+- **1959:** *Monumento a Andrés Vaccarezza, fundador de Alberti*. Bronze-and-stone public monument.
+- **1959:** *Monumento de Rosa C. de Bianco*. Marble-and-bronze memorial.
+- **1959:** *Monumento al coronel Salvador Maldonado*. Bronze memorial.
+- **1959:** *Monumento a la Madre*. Bronze public monument.
+- **1960:** *Monumento a la Madre Maestra*. Bronze public monument.
+- **1960:** *Fuente del Irupé*. Stone-and-bronze fountain; it combines applied water architecture, sculpture, and Guaraní narrative.
+- **1960:** *Monumento al doctor Antonio Scaravelli*. Stone memorial.
+- **1961:** *Monumento a la Madre*. Bronze public monument.
+- **1961:** *Monumento-fuente a la Madre*. Bronze fountain for Club Atlético Boca Juniors.
+- **1961:** *Monumento a la Madre*. Stone monument for Club Atlético River Plate.
+- **1961:** *Monumento a Sarmiento*. Bronze public monument.
+- **1961:** *Relieves para el Banco de Avellaneda*. Bronze architectural reliefs; a site-specific decorative program rather than a single freestanding statue.
+- **1961:** *Maqueta para el Monumento a Juan Bautista Alberdi*. Prize-winning competition model made with architects Mario Villani and E. A. Lambert; it is securely a project-object, while execution is not established.
+- **1962:** *Monumento a la Madre*. Bronze public monument.
+- **1962:** *Monumento a la Madre*. Stone public monument; separately catalogued from the bronze version.
+- **1962:** *Monumento al Abuelo Inmortal*. Bronze-and-stone memorial.
+- **1962:** *Monumento a la Madre*. A second stone entry under the same year; its identity as a distinct commission rather than a duplicate is unresolved.
+- **1962:** *Monumento al ingeniero Francisco Bertozzi*. Bronze memorial.
+- **1962:** *Monumento a Domingo F. Sarmiento*. Bronze-and-stone public monument.
+- **1962:** *Monumento a la Madre*. Another bronze commission, printed in the transcription as “Monumento al Madre.”
+- **1962:** *Monumento a Mariano Moreno*. Bronze-and-stone public monument.
+- **1962:** *Monumento a la Madre, Club Atlético Independiente*. Club memorial of unspecified material.
+- **1962:** *Monumento al general José de San Martín*. Bronze public monument.
+- **1962:** *Monumento a los Refundadores de Santo Tomé*. Bronze-and-stone commemorative ensemble.
+- **1962:** *Monumento al Cura Brochero*. Stone memorial.
+- **1962:** *Monumento al doctor Herminio Quiroz*. Bronze memorial.
+- **1962:** *Monumento al Gaucho*. Bronze public monument.
+- **1962:** *Monumento a monseñor José Américo Orzali*. Marble memorial; the catalogue transcription gives the surname as “Orsari.”
+- **1963:** *Monumento al Centenario de 9 de Julio*. Bronze centenary monument.
+- **By 1963:** *Monumento a Los Libres del Sur*. Public monument at Chascomús; the museum identifies it as a major obra, but the consulted sources do not provide a secure completion date.
+- **By 1963:** *Monumento Los Andes*. Monument in Parque Los Andes, Buenos Aires, honoring Calchaquí, Tehuelche, and Ona peoples; models and component studies survive separately.
+- **By 1963:** *Monumento-mástil a la Confraternidad argentino-irlandesa*. Monumental flagstaff in Plaza Irlanda, Buenos Aires.
+- **By 1963:** *Monumento al Indio Diaguita*. Public monument in La Rioja; the consulted museum account supplies no precise date.
+- **By 1963:** *Monumento al barrio de Caballito*. Public neighborhood monument in Buenos Aires; no secure date is supplied by the consulted source.
+- **1965:** *Monumento a los Colonos Galeses*. Fountain-monument at Puerto Madryn, derived from the 1958 project and inaugurated for the centenary of Welsh settlement; architectural sources credit Tomislao Boric with the surrounding rambla.
+- **Uncertain, completed after 1969:** *Monumento a Andrés Guacurarí (“Comandante Andresito”)*. Perlotti made the model or project; Juan Carlos Ferraro completed the monumental bronze after Perlotti’s death, so the installed object resists attribution as Perlotti’s sole finished work.
+- **Uncertain, completed after 1969:** *Veleta*. Project left unfinished at Perlotti’s death and completed by Juan Carlos Ferraro; the surviving manifestation is collaborative across time rather than an unqualified Perlotti original.
+
+### Funerary sculpture
+
+- **1945:** *Mausoleum of Carlos Borgialli*. Bronze-and-stone funerary work.
+- **1945:** *Mausoleum and bust of Dr. Julio Herrera*. Composite tomb and portrait.
+- **By 1963:** *Mausoleum of General Juan Lavalle*. Funerary monument in Recoleta Cemetery; the standard summary names it but does not provide a secure date.
+- **By 1963:** *Mausoleum of Luis Ángel Firpo*. Funerary monument to the boxer in Recoleta Cemetery; exact date and division of architectural labor remain unstated.
+- **By 1963:** *La Piedad*. Funerary sculpture in Chacarita Cemetery; possibly the stone work catalogued in 1945, but the sources do not conclusively establish identity.
+- **1962:** *Zossi mausoleum: Mother and Christ*. Bronze funerary group.
+
+### Indigenous, criollo, allegorical, and dance subjects without secure dates
+
+- *Amanecer*. Sculpture known in both bronze and ceramic documentation; the sources do not establish whether these are casts, versions, or separate works.
+- *América*. Quebracho-wood sculpture formerly recorded at the Franklin D. Roosevelt memorial collection in Hyde Park, New York.
+- *Calchaquí*. Indigenous figure documented in ceramic and associated with Perlotti’s indigenist catalogue.
+- *Cabeza de india*. Sculptural head recorded in the Museo de Bellas Artes de Corrientes.
+- *Cabeza de indio*. Bronze head recorded at the Museo Antonio Alice.
+- *Cabeza de viejo*. Bronze portrait head recorded at the Museo Juan B. Castagnino.
+- *Chango*. Indigenous or regional figure; no date or material is established in the consulted sources.
+- *Despertar de la raza*. Freestanding sculptural group displayed in Perlotti’s house-workshop.
+- *Dolor indio*. Sculpture of a defeated Indigenous warrior; the museum interprets it as an image of colonial subjugation.
+- *El gaucho*. Sculpture recorded at the Museo de Chascomús.
+- *Guaraní*. Bronze Indigenous figure recorded at the Museo Fernando Fader.
+- *Honda de América*. Sculpture recorded at the Museo de Bellas Artes de Junín; its relation to *Tirador de honda* is not resolved.
+- *Hualicho*. Indigenous-themed sculpture whose date and material remain unspecified.
+- *Indio Quilmes*. Indigenous portrait or figure; no date or material is securely supplied.
+- *Laika Paya*. Indigenous female figure representing an Andean healer deprived of her social function.
+- *La promesante*. Ceramic figure of an Andean woman making an offering to Pachamama; the Museo Quinquela collection regards it as a major work.
+- *La tejedora*. Sculpture recorded at the Museo Sívori; a ceramic *Tejedora* is separately recorded in the Museo Quinquela collection, and the sources do not establish whether these are versions of one composition.
+- *Leyendo su pasado*. Figurative sculpture of unspecified date and medium.
+- *Mamelucos guaraníes*. Indigenous group; the source spelling also appears as “Mamalucos.”
+- *Músicos cuzqueños*. Sculptural group of Andean musicians.
+- *Niña aimará*. Wood figure.
+- *Niña del kero*. Sculpture recorded at the Museu Nacional de Belas Artes, Rio de Janeiro; the consulted transcription spells the vessel “Keros.”
+- *Ofrenda cuzqueña*. Stone sculpture.
+- *Ona*. Ceramic torso used as a study or motif for the *Monumento Los Andes*; it is both an independent object and a preparatory manifestation.
+- *Ona en acecho*. Wood sculpture.
+- *Querandí*. Wood or carved Indigenous portrait identified by the museum’s ethnographic grouping; no date is supplied.
+- *Quechua*. Indigenous portrait documented in both wood and stone, including a stone example recorded in Rome; these should not automatically be collapsed into one object.
+- *Saludo al sol*. Bronze Indigenous figure in Mendoza’s Parque General San Martín.
+- *Tehuelche y perro*. Bronze group recorded at the Museo de Bellas Artes de Tandil.
+- *Tipo de quebrada*. Regional figure of unspecified medium.
+- *Vieja india*. Stone sculpture recorded at the Museo Provincial de Bellas Artes de Mendoza.
+- *Viejo del Altiplano*. Wood sculpture recorded at the Museo Rosa Galisteo de Rodríguez.
+- *Xavante*. Indigenous portrait or figure identified by the museum; no date or material is supplied.
+- *Yungueño*. Wood portrait or figure.
+- *La danza de la flecha*. Polychrome ceramic ritual group; a plaster version is also recorded in Salta, while a monumental manifestation stands in Paraná.
+- *La danza de los cóndores*. Inca-themed ritual sculpture or relief; a version was recorded at Museo Escuela 10.
+- *Baile nativo*. Dance group of unspecified date and medium.
+- *El cielito*. Dance subject of unspecified date and medium.
+- *El gato*. Dance subject; it may also form part of a paired composition catalogued as *Gato y zamba*.
+- *La condición*. Dance subject of unspecified date and medium.
+- *La firmeza*. Dance subject of unspecified date and medium.
+- *Pala-pala*. Dance subject of unspecified date and medium.
+- *Sombrerito bailecito*. Dance subject whose compound title may designate one dance or a coordinated group.
+- *La zamba*. Relief recorded at the Museo de Bellas Artes de Vicente López.
+- *El tango*. Sculpture recorded in the Museo Quinquela collection; it is a sculptural representation of the dance, not a song or literary text.
+
+### Portraits recorded in museum collections but not securely dated
+
+- *Absalón Rojas*. Portrait recorded at the Museo Casa de Ricardo Rojas.
+- *Benito Quinquela Martín*. Cement portrait recorded at Viña del Mar and marble or other versions in Buenos Aires; these manifestations should not be assumed to be the prize-winning 1922 bronze.
+- *Francisco Cabestany y Piñol*. Portrait of the Spanish sculptor.
+- *Fernando Fader*. Relief portrait recorded at Museo Guiñazú–Casa Fader.
+- *Gilardo Gilardi*. Portrait of the composer and teacher.
+- *Heitor Villa-Lobos*. Portrait of the Brazilian composer.
+- *Herminia Brumana*. Marble portrait in the Museo Quinquela collection.
+- *India*. Sculpture recorded at the Museo Casa de Ricardo Rojas; the generic title prevents firmer identification.
+- *Juan de Dios Filiberto*. Portrait or bust in the Museo Quinquela collection, distinct or derived from the dated 1928 relief.
+- *Julieta Telles de Menezes*. Marble portrait recorded in Rio de Janeiro.
+- *Léonie Matthis*. Portrait of the painter.
+- *Mariano Loza*. Portrait recorded at the Museo de Bellas Artes de Corrientes.
+- *Mi madre*. Stone portrait recorded at the Museo Provincial de Bellas Artes de San Juan.
+- *Mi padre*. Portrait of unspecified date and material.
+- *Mi esposa*. Portrait of Filomena Bianco, of unspecified date and material.
+- *Pedro E. Martínez*. Marble portrait recorded at the museum bearing Martínez’s name in Panama.
+- *Ramón J. Cárcano*. Marble portrait recorded at the Museo Ramón J. Cárcano, Córdoba.
+- *W. Jaime Molins*. Wood portrait in the Museo Quinquela collection.
+- *Autorretrato*. Sculptural self-portrait; a later public bust of Perlotti was reproduced from it, making the public object a posthumous manifestation rather than a new work by him.
+- *El Ñato de Jáchal*. Patinated-bronze regional portrait; sources also print “Jachall.”
+- *Vidente*. Patinated-bronze head or bust.
+- *Aimara con niño*. Bronze group formerly in the Manuel Mujica Láinez collection.
+
+### Decorative and applied arts
+
+- *Jarrones de motivos indígenas y criollos*. A body of polychrome ceramic vessels, many made with ceramist Valentín Cavalieri; individual titles and dates are not fully published, so the corpus resists item-by-item classification.
+- *Maceteros*. Ceramic planters with Indigenous or criollo motifs, some made with Valentín Cavalieri; the surviving documentation treats them as a class rather than a numbered series.
+- *Faroles*. Applied-art lighting objects, some made with Valentín Cavalieri.
+- *Vajillas*. Ceramic tableware decorated with Indigenous or criollo motifs, some collaborative with Valentín Cavalieri.
+- *Vasijas*. Ceramic vessels, some collaborative with Valentín Cavalieri.
+- *Cofre portabanderas del Palacio de Hacienda*. Ceremonial flag chest commissioned for the ministry building and funded by its employees; an applied and institutional object rather than a freestanding sculpture.
+- *Cofres de los torpederos Santa Cruz, Misiones, Corrientes y Bouchard*. Wood-and-metal ceremonial naval chests; the source’s compressed wording leaves uncertain whether *Santa Cruz*, *Misiones*, *Corrientes*, and *Bouchard* designate three or four separate vessels.
+- *Premio Martín Fierro*. Award statuette or trophy design attributed to Perlotti; it is a reproducible emblematic object rather than a unique sculpture.
+
+### House-workshop and museum project
+
+- **1948–1969:** *Casa-taller y proyectado Museo Luis Perlotti*. Perlotti purchased and redesigned the property at Pujol 642/644 as workshop, residence, exhibition space, and future museum, arranging his reliefs and freestanding sculptures as an integrated environment. Because it joins architecture, collection, display, teaching, and testamentary intention, it approaches a Gesamtkunstwerk more closely than a conventional single artwork.
+- **1954–1969:** *Visitas guiadas de la casa-taller*. Artist-led encounters devised to connect the neighborhood with sculpture; these are pedagogical manifestations rather than durable objects and therefore resist being called works in the same sense as the sculptures.
+- **1969:** *Donación testamentaria de la casa-taller y patrimonio artístico a la Ciudad de Buenos Aires*. A legal and museological project intended to preserve the house as a museum; it acts upon the future of the œuvre and thus has something of a manifesto, although it is not an artistic text in the ordinary sense.
+
+### Written work
+
+- **1963:** *Celajes de infancia: memorias de un escultor*. Short illustrated memoir published by Ediciones Macá; unlike Perlotti’s monuments and ceramics, this is a textual obra.
+- **Undated:** *La obra sarmientina de Luis Perlotti*. Artist-associated brochure or text documented with Perlotti ephemera in a 2020 auction catalogue; authorship, publication date, and extent are insufficiently established to classify it confidently as an independently authored book.
+
+### Sources
+
+- Carlos A. Foglia, *Luis Perlotti: el escultor de Eurindia* (Buenos Aires: Ediciones Áureas, 1963), 206 pp. This is the standard monograph and catalogue used as the baseline; bibliographic descriptions confirm that it contains a catalogue of works made, works in museums and public and private galleries, awards, and bibliography. [Bibliographic description and contents](https://www.abebooks.com/book-search/title/luis-perlotti-escultor-eurindia/author/foglia-carlos/) and [auction description of the catalogue](https://martinsarachaga.com/catalogos_subastas/80_2.pdf).
+- Museo de Esculturas Luis Perlotti, Government of the City of Buenos Aires, [“Historia”](https://buenosaires.gob.ar/gcaba_historico/museoluisperlotti/elmuseo/historia). Consulted for the early commissions, training, prize works, house-museum project, and institutional history.
+- Museo de Esculturas Luis Perlotti, Government of the City of Buenos Aires, [“Colección Perlotti”](https://buenosaires.gob.ar/gcaba_historico/museoluisperlotti/colecciones/perlotti). Consulted for the museum’s authoritative division of the œuvre into portraits, monuments, Indigenous sculpture, ritual and mestizaje subjects, and decorative arts.
+- *La Capital* (Mar del Plata), [transcription of Foglia’s chronological catalogue and museum-location lists](https://www.lacapitalmdp.com/contenidos/fotosfamilia/fotos/8718). Used cautiously: it preserves the catalogue’s entries but contains spelling errors, duplication, and at least one post-1963 addition, all noted rather than silently corrected.
+- Museo Benito Quinquela Martín, [collection record for Luis Perlotti](https://coleccion.quinquela.ar/index.php/Detail/entities/677), and Government of the City of Buenos Aires, [*Santos Vega*](https://buenosaires.gob.ar/gcaba_historico/luis-perlotti-1890-1969-santos-vega-1948) and [*Las tejedoras*](https://buenosaires.gob.ar/gcaba_historico/luis-perlotti-1890-1969-las-tejedoras-c1939). Consulted for dated Caminito reliefs, museum provenance, and distinctions between reliefs and monuments.
+- Museo Benito Quinquela Martín, *Una sombra ya nunca serás*, exhibition catalogue, [PDF](https://buenosaires.gob.ar/sites/default/files/media/document/2020/02/27/9fb0af15d275e2296e058db50c6c97bac82a0acd.pdf). Consulted for materials, dimensions, and dates of *Busto de Juan de Dios Filiberto*, *Clavel del aire*, *Las tejedoras*, and *Santos Vega*.
+- Revista Cerámica de Argentina, [“Artistas que se destacaron como ceramistas en la primera mitad del siglo XX”](https://revistaceramica.com.ar/wp-content/uploads/2020/04/5.pdf). Consulted for *Oración*, *Amanecer*, *Ona*, ceramic studies, and their relationship to later monumental work.
+- Government of Argentina, [“Luis Perlotti: El Escultor de la identidad originaria (1890–1969)”](https://www.argentina.gob.ar/node/213736). Consulted for the Palacio de Hacienda works and the reported approximately 900 objects inherited with the house-workshop; because no complete item-level inventory is published there, that number cannot responsibly be converted into invented titles.
+- Government of Mendoza, [“Los secretos mejor expuestos del Parque San Martín (Nota III)”](https://www.mendoza.gov.ar/prensa/los-secretos-mejor-expuestos-del-parque-san-martin-nota-iii/). Consulted for the material, location, and subject of *Saludo al sol*.
+- Universidad Nacional de Mar del Plata, [study of Mar del Plata’s built and sculptural heritage](https://digifaud.mdp.edu.ar/files/original/8d6dbb2f95463df410547d68774f2fcf1be42173.pdf). Consulted for the completion history of the Alfonsina Storni memorial and the execution of the San Martín monument.
+- Martín Sarachaga auction catalogues documenting signed objects and references back to Foglia: [*La danza de la flecha* and *Beethoven*](https://martinsarachaga.com/catalogos_subastas/79_1.pdf), [*La flor de Irupé* and *El Ñato de Jáchal*](https://martinsarachaga.com/catalogos_subastas/72_1.pdf), [*Retorno a la Patria* model](https://martinsarachaga.com/catalogos_subastas/59_1.pdf), [*Oración* and *Acuyko*](https://martinsarachaga.com/catalogos_subastas/69_2.pdf), and [*Aimara con niño* and *La ofrenda*](https://martinsarachaga.com/catalogos_subastas/76_1.pdf).
+- Biblioteca del Congreso de la Nación, [*Compilaciones bibliográficas: escultura argentina*](https://bcn.gob.ar/uploads/Compilaciones-Bibliograficas-escultura-argentina.pdf). Consulted for the bibliographic record of Perlotti’s *Celajes de infancia: memorias de un escultor*.
+- Diario Web, [history and attribution of the Monumento a los Colonos Galeses](https://www.eldiarioweb.com/2016/03/alertan-sobre-la-necesidad-de-preservar-el-historico-monumento-a-la-galesa/). Consulted for its 1965 inauguration, fountain setting, and Tomislao Boric’s architectural contribution.

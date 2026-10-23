@@ -1,0 +1,13 @@
+## Works by Odoric of Pordenone
+
+### Dictated travel relation
+
+- **May 1330:** *Relatio de mirabilibus orientalium Tatarorum* (also called *Itinerarium*). Odoric’s sole extant obra is a first-person missionary travel report and sworn testimony about Asia, dictated at the Franciscan convent of Saint Anthony in Padua to his confrère William of Solagna; it therefore resists simple classification as an individually written book. The title is conventional, the original is lost, and its numerous manuscripts preserve substantially different recensions and later translations, so those manifestations should not be mistaken for additional works by Odoric ([SISMEL critical edition](https://www.sismel.it/pubblicazioni/1528-relatio-de-mirabilibus-orientalium-tatarorum); [Andreose and Reginato](https://edizionicafoscari.unive.it/en/edizioni4/libri/978-88-6969-977-1/); [Odorico Digital, textual history](https://odorico-digital.uniud.it/prova/odorico-e-la-relatio)).
+
+### Sources
+
+- Annalia Marchisio, ed., *Odorico da Pordenone: Relatio de mirabilibus orientalium Tatarorum*, Edizione Nazionale dei Testi Mediolatini d’Italia 41, series I.23 (Florence: SISMEL–Edizioni del Galluzzo, 2016), the first critical edition based on the complete manuscript tradition: [publisher’s description](https://www.sismel.it/pubblicazioni/1528-relatio-de-mirabilibus-orientalium-tatarorum).
+- Alvise Andreose and Irene Reginato, eds., *Odorico da Pordenone. Libro delle nuove e strane e meravigliose cose: Edizione critica digitale* (Edizioni Ca’ Foscari), identifying the *Relatio* as Odoric’s sole extant work and the *Libro* as a later vernacular manifestation: [edition and scholarly introduction](https://edizionicafoscari.unive.it/en/edizioni4/libri/978-88-6969-977-1/).
+- Alvise Andreose, “Forme e funzioni dell’autodiegesi nella *Relatio* di Odorico da Pordenone,” on the collaborative traveller-and-scribe genesis of the account: [article record and text](https://www.researchgate.net/publication/298416973_Forme_e_funzioni_dell%27autodiegesi_nella_Relatio_di_Odorico_da_Pordenone_Forms_and_functions_of_the_autodiegetic_perspective_in_Odoric_of_Podenone%27s_Relatio).
+- Odorico Digital, University of Udine, “Odorico e la *Relatio*,” summarizing Marchisio’s reconstruction of the successive manuscript phases and recensions: [project essay](https://odorico-digital.uniud.it/prova/odorico-e-la-relatio).
+- Odorico Digital, “Bibliografia,” including Marchisio’s critical edition and the principal studies of the manuscript and vernacular traditions: [scholarly bibliography](https://odorico-digital.uniud.it/bibliografia).

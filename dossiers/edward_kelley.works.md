@@ -1,0 +1,50 @@
+## Works by Edward Kelley
+
+### Alchemical treatises and protocols
+
+- **c. 1596:** *The Stone of the Philosophers* (*De lapide philosophorum*). A systematic alchemical treatise and manifesto of Kelley’s authority, addressed to Emperor Rudolf II and explicitly composed during his second imprisonment; its date is inferred from that setting rather than supplied by a surviving autograph. It is one of the three principal treatises in the posthumous collected edition, but the earliest printed witness appeared only in 1676. ([Waite edition](https://upload.wikimedia.org/wikipedia/commons/0/0f/The_alchemical_writings_of_Edward_Kelly_%28IA_b24857300%29.pdf), pp. 74–121; [1676 edition record](https://bvpb.mcu.es/en/consulta/registro.do?control=RANFE20100004548))
+
+- **Undated, before 1597:** *The Humid Way, or a Discourse upon the Vegetable Menstruum of Saturn* (*Via humida, sive discursus de menstruo vegetabili Saturni*). A prose protocol for alchemical preparation, transmitted “from a manuscript” without a secure date; its combination of natural philosophy, laboratory directions, and guarded disclosure makes it both treatise and operative text. A Bodleian manuscript catalogue also records a Kelley item called *Modus tractandi vegetabilia*, which may represent related material rather than a securely separate obra. ([Waite edition](https://upload.wikimedia.org/wikipedia/commons/0/0f/The_alchemical_writings_of_Edward_Kelly_%28IA_b24857300%29.pdf), pp. 126–181; [Bodleian alchemical-manuscript inventory](https://alchemywebsite.com/almss5.html))
+
+- **Undated, attributed; first printed 1676:** *The Theatre of Terrestrial Astronomy* (*Theatrum astronomiae terrestris*). An emblematic Gesamtkunstwerk joining an alchemical treatise to sixteen circular images: text and pictures together stage the laboratory process as an earthly astronomy. No earlier manuscript witness is presently identified, so the late-sixteenth-century dating and Kelley’s authorship remain attributions made from the posthumous 1676 printing, not certainties. ([1676 edition record](https://bvpb.mcu.es/en/consulta/registro.do?control=RANFE20100004548); [Adam McLean’s study of the emblem sequence](https://www.daneel.franken.de/tarot/alchemy/studycoursesequencesadvanced/alcseq08.pdf))
+
+### Alchemical letters and fragments
+
+- **20 June 1587:** *Letter containing an alchemical “Arcanum”*. An untitled letter known in the collected writings only through an excerpt concerning metallic water, fixation, and the elixir; it is therefore a fragment of correspondence rather than a complete recoverable work. ([Waite edition](https://upload.wikimedia.org/wikipedia/commons/0/0f/The_alchemical_writings_of_Edward_Kelly_%28IA_b24857300%29.pdf), pp. 122–123)
+
+- **9 August 1587:** *Letter on animated quicksilver*. Another untitled and incomplete letter-fragment, functioning partly as an alchemical protocol; the recipient and the extent of the original letter are not established by the collected edition. ([Waite edition](https://upload.wikimedia.org/wikipedia/commons/0/0f/The_alchemical_writings_of_Edward_Kelly_%28IA_b24857300%29.pdf), pp. 123–124)
+
+- **15 November 1589:** *Letter on the two luminaries*. A very short surviving extract summarizing an alchemical operation; it resists classification as an independent work because the larger letter has not been preserved in the edition. ([Waite edition](https://upload.wikimedia.org/wikipedia/commons/0/0f/The_alchemical_writings_of_Edward_Kelly_%28IA_b24857300%29.pdf), p. 124)
+
+- **1590:** *Letter to Emperor Rudolf II*. A Latin alchemical communication represented in manuscript by an extract headed as copied from a letter Kelley sent to Rudolf in 1590; whether the surviving text preserves the entire communication is unclear. ([Bodleian alchemical-manuscript inventory](https://alchemywebsite.com/almss5.html))
+
+- **14 September 1595:** *Letter concerning chemical experiments*. Only an abstract survives in the manuscript catalogue, where Kelley’s authorship is itself marked with a question; it should therefore be counted as a doubtful remnant, not a securely established complete work. ([Bodleian alchemical-manuscript inventory](https://alchemywebsite.com/almss5.html))
+
+### Alchemical poems
+
+- **1589:** *Sir Edward Kelle’s Worke*. A long English alchemical poem—an obra in verse that also encodes practice—preserved in a manuscript dated 1589 and signed “Edward Kelle,” then printed posthumously by Elias Ashmole in 1652. Its manuscript signature gives it firmer attribution than several of Kelley’s prose works. ([Rampling, “John Dee and the alchemists”](https://pmc.ncbi.nlm.nih.gov/articles/PMC3778895/); [Ashmole contents and pagination](https://www.e-rara.ch/cgj/content/structure/2208876))
+
+- **By 1597; first printed 1652:** *Sir Ed: Kelly concerning the Philosophers Stone, written to his especiall good Freind, G.S. Gent.* A short verse epistle that addresses an unidentified “G.S.” while making the poem itself an alchemical vessel and instruction. Ashmole attributes it to Kelley, but neither its addressee nor a secure composition date has been established. ([Ashmole contents and pagination](https://www.e-rara.ch/cgj/content/structure/2208876); [Folger catalogue record](https://catalog.folger.edu/record/232130))
+
+### Scribal and revealed objects
+
+- **1583:** *Liber Mysteriorum Sextus et Sanctus*, also called *The Book of Enoch* or *Liber Loagaeth*. A manuscript object transcribed by Kelley, largely comprising 49-by-49 grids of letters and numbers said to have been delivered by angels. Kelley certainly made the surviving inscription, but within Dee and Kelley’s own account he was receiver and scribe rather than author; it is therefore simultaneously a material obra, a claimed manifestation, and a text that resists ordinary authorship. ([British Library, Sloane MS 3189](https://searcharchives.bl.uk/?f%5Brelated_names_ssim%5D%5B%5D=Kelley,+Edward,+Alchemist&search_field=all_fields&sort=date))
+
+- **1582–1583:** *Kelley’s angelic actions in John Dee’s first five books of conferences*. These were spoken visionary performances or claimed manifestations delivered through Kelley and recorded principally by Dee, not books written by Kelley. They survive as collaborative events embedded in Sloane MS 3188, so calling them Kelley’s “works” without qualification would erase the distinction between medium, performer, recorder, and alleged nonhuman source. ([British Library, Sloane MS 3188](https://searcharchives.bl.uk/?f%5Brelated_names_ssim%5D%5B%5D=Kelley,+Edward,+Alchemist&search_field=all_fields&sort=date))
+
+- **1583–1589:** *Later angelic conferences with John Dee*. A continuing body of oral performances, visions, diagrams, names, and purported angelic communications preserved through Dee’s records and later printed selectively by Meric Casaubon. This is best classified as a collaborative project or manifestation rather than a stable Kelley-authored text: Dee made the documentary record, Kelley supplied the reported voices and visions, and both denied being their ultimate author. ([British Library catalogue description of the conference manuscripts](https://searcharchives.bl.uk/?f%5Brelated_names_ssim%5D%5B%5D=Kelley,+Edward,+Alchemist&search_field=all_fields&sort=date); [Casaubon’s *True and Faithful Relation*](https://www.esotericarchives.com/dee/tfr/tfr.htm))
+
+### Fabricated antiquity
+
+- **1583:** *The Northwick Scroll*. A cipher document presented by Kelley as an ancient Danish guide to buried treasure; modern scholarship identifies it as his forgery. It is a made thing whose intended action was evidentiary—closer to a counterfeit charter or operative manifesto than to a literary work—and its resistance to being called an obra is essential to its history. ([Francis Young, “Edward Kelley’s Danish treasure hoax and Elizabethan antiquarianism”](https://www.tandfonline.com/doi/abs/10.1080/17496977.2019.1643182); [author’s summary](https://drfrancisyoung.com/2019/09/07/article-published-edward-kelleys-danish-treasure-hoax-and-elizabethan-antiquarianism/))
+
+### Sources
+
+- Arthur Edward Waite, ed. and trans., *The Alchemical Writings of Edward Kelly* (London, 1893), based on the Hamburg edition of 1676: [digitized volume](https://upload.wikimedia.org/wikipedia/commons/0/0f/The_alchemical_writings_of_Edward_Kelly_%28IA_b24857300%29.pdf).
+- Edward Kelley, *Edouardi Kellæi Angli tractatus duo egregii, de lapide philosophorum, una cum theatro astronomiæ terrestri* (Hamburg, 1676): [Biblioteca Virtual del Patrimonio Bibliográfico record and digital copy](https://bvpb.mcu.es/en/consulta/registro.do?control=RANFE20100004548).
+- Elias Ashmole, ed., *Theatrum Chemicum Britannicum* (London, 1652): [Science History Institute digital edition](https://digital.sciencehistory.org/works/hq37vp21f); [e-rara contents](https://www.e-rara.ch/cgj/content/structure/2208876); [Folger catalogue record](https://catalog.folger.edu/record/232130).
+- British Library, descriptions of Sloane MSS 3188 and 3189 and other Kelley-associated manuscripts: [Archives and Manuscripts catalogue](https://searcharchives.bl.uk/?f%5Brelated_names_ssim%5D%5B%5D=Kelley,+Edward,+Alchemist&search_field=all_fields&sort=date).
+- Bodleian Library alchemical-manuscript inventory, including Kelley materials in the Ashmole collection: [catalogue transcription](https://alchemywebsite.com/almss5.html).
+- Jennifer M. Rampling, “John Dee and the alchemists: Practising and promoting English alchemy in the Holy Roman Empire,” *Studies in History and Philosophy of Science* 43 (2012), 498–508: [open-access article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3778895/).
+- Francis Young, “Edward Kelley’s Danish treasure hoax and Elizabethan antiquarianism,” *Intellectual History Review* 30, no. 2 (2020): [publisher record](https://www.tandfonline.com/doi/abs/10.1080/17496977.2019.1643182).
+- Adam McLean, “The Theatre of Terrestrial Astronomy,” *Study Course on Alchemical Sequences*, lesson 8: [PDF](https://www.daneel.franken.de/tarot/alchemy/studycoursesequencesadvanced/alcseq08.pdf).

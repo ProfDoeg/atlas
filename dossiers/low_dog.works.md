@@ -1,0 +1,22 @@
+## Works by Low Dog
+
+### Oral testimony made into print
+
+- **July 30, 1881:** *The Low Dog Interview* (also published as *Low Dog’s Account of the Battle of the Little Bighorn*). An oral eyewitness narrative delivered at Fort Yates through an interpreter, recorded with Low Dog’s consent by an unidentified newspaper correspondent, and later printed in the *Leavenworth Times*; it is therefore a collaborative, mediated text rather than a manuscript authored by Low Dog. The recorder acknowledged that the interpreter conveyed the substance rather than a literal translation, while Richard G. Hardorff’s scholarly sourcebook gives the modern editorial title *The Low Dog Interview*; citations disagree over the newspaper date—August 14 or August 18, 1881—and later reproductions sometimes misidentify the Oglala speaker as Hunkpapa. ([contemporary reprint of the newspaper report](https://www.buchananlibrary.org/local-history-room/historical-newspaper-collection/1881/bcr_1881-08-25.pdf), [Hardorff sourcebook citation](https://cgsc.contentdm.oclc.org/digital/api/collection/p4013coll2/id/4119/download), [National Park Service transcription](https://npshistory.com/handbooks/historical/1-1969.pdf), [Bray’s identification of Low Dog as an Oglala](https://files.spiritmaji.com/books/hopi-native-indian/CRAZY%20HORSE%20-%20Kingsley%20M%20BRAY.pdf))
+
+### Attributed fragment, not a separate work
+
+- **Reported in 1881; purportedly spoken in 1876:** *“This is a good day to die; follow me”* (conventional identifying phrase only). This battlefield exhortation is a speech act—a miniature manifesto, if authentic—but survives solely inside the mediated 1881 interview and should not be inflated into an independent composition. Its familiar English wording depends on translation and newspaper transmission; the attribution is consequently less secure than the existence of the interview itself. ([Judson Elliott Walker’s 1881 account and attribution](https://archive.org/details/campaignsofgener00walk), [contemporary newspaper reprint describing the translation process](https://www.buchananlibrary.org/local-history-room/historical-newspaper-collection/1881/bcr_1881-08-25.pdf))
+
+### Works not securely attributable
+
+- **No fixed date or title:** No securely documented drawings, books, manuscripts, songs, buildings, or other authored objects by Low Dog were located in the standard published collections consulted. The well-known **1884** ledger drawing conventionally called *Low Dog* is a portrait of him made by the Lakota artist Red Dog, not a work by Low Dog; likewise, the surviving **1881** photographs are works by photographers including D. F. Barry and David Brotherton. ([ledger-art reference identifying Red Dog as artist](https://en.wikipedia.org/wiki/Low_Dog), [Eiteljorg Museum photograph record](https://collections.eiteljorg.org/objects/9684/low-dog), [Library of Congress photograph record](https://www.loc.gov/pictures/item/92505461/))
+
+### Sources
+
+- Hardorff, Richard G., ed. *Indian Views of the Custer Fight: A Source Book*. Arthur H. Clark Company, 2004, pp. 63–66; the scholarly sourcebook catalogues the item as “The Low Dog Interview.” [Bibliographic listing](https://www.friendslittlebighorn.com/LBH%20BIBLIOGRAPHY.pdf)
+- Graham, W. A., ed. *The Custer Myth: A Source Book of Custeriana*. Stackpole, 1953; its contents catalogue includes “The stories of Low Dog, Crow King, Hump, [and] Iron Thunder.” [Contents record](https://nwc.wyldcatalog.org/Record/a111592)
+- *Leavenworth Times*, August 1881, Fort Yates correspondence, reprinted in the *Berrien County Record*, August 25, 1881. [Digitized newspaper](https://www.buchananlibrary.org/local-history-room/historical-newspaper-collection/1881/bcr_1881-08-25.pdf)
+- National Park Service. *Custer Battlefield: Official National Park Handbook*, section “Low Dog’s Account of the Battle of the Little Bighorn.” [Digitized handbook](https://npshistory.com/handbooks/historical/1-1969.pdf)
+- Powers, Thomas. *The Killing of Crazy Horse*. Alfred A. Knopf, 2010, notes 47–52; dates the Fort Yates interview to July 30, 1881, cites an August 14 newspaper printing, and directs readers to Hardorff’s edition. [Notes](https://erenow.org/biographies/the-killing-of-crazy-horse/38.php)
+- Bray, Kingsley M. *Crazy Horse: A Lakota Life*. University of Oklahoma Press, 2006; identifies Low Dog as an Oglala associated with Crazy Horse’s Oyuhe band. [Digital copy](https://files.spiritmaji.com/books/hopi-native-indian/CRAZY%20HORSE%20-%20Kingsley%20M%20BRAY.pdf)

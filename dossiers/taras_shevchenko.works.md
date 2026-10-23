@@ -1,0 +1,384 @@
+## Works by Taras Hryhorovych Shevchenko
+
+### Poetry, narrative poems, and poetic cycles
+
+- **1837:** *Причинна (Prychynna)*. Romantic ballad; the academic collected works treat it as Shevchenko’s earliest surviving poem.
+- **1838:** *Думка (“Тече вода в синє море…”) (Dumka: “Water Flows into the Blue Sea…”)*. Lyric poem, titled by genre and conventionally distinguished by its opening words.
+- **1838:** *Думка (“Вітре буйний, вітре буйний!..”) (Dumka: “Wild Wind, Wild Wind!…”)*. Lyric poem.
+- **1838:** *Думка (“Тяжко-важко в світі жити…”) (Dumka: “It Is Hard to Live in This World…”)*. Lyric poem.
+- **1838:** *Думка (“Нащо мені чорні брови…”) (Dumka: “What Use Are Dark Brows to Me?…”)*. Lyric poem.
+- **1838:** *Тарасова ніч (Taras’s Night)*. Historical narrative poem.
+- **1839:** *Катерина (Kateryna)*. Social narrative poem; distinct from Shevchenko’s later oil painting of the same title.
+- **1839:** *Перебендя (Perebendia)*. Poem about an itinerant kobzar.
+- **1839:** *Тополя (The Poplar)*. Ballad.
+- **1839:** *До Основ’яненка (To Osnovianenko)*. Verse epistle to Hryhorii Kvitka-Osnovianenko.
+- **1839:** *Іван Підкова (Ivan Pidkova)*. Historical narrative poem.
+- **1839:** *На вічну пам’ять Котляревському (To the Eternal Memory of Kotliarevsky)*. Memorial elegy.
+- **1840:** *Думи мої, думи мої, лихо мені з вами… (My Thoughts, My Thoughts, I Am Troubled by You…)*. Programmatic lyric used as the opening poem of the first *Kobzar*.
+- **1840:** *До Н. Маркевича (To N. Markevych)*. Verse address.
+- **1840:** *Н. Маркевичу (To N. Markevych)*. A separate verse address, transmitted in several authorial versions.
+- **1840:** *На незабудь Штернбергові (As a Keepsake for Sternberg)*. Short dedicatory poem; an occasional manuscript object as well as a literary text.
+- **1841:** *Гайдамаки (Haidamaky)*. Large historical-epic poem, first issued separately; its dedication, preface, “Передмова,” and later afterword belong to the poem’s changing publication apparatus rather than constituting independent poems.
+- **1841:** *Мар’яна-черниця (Mariana the Nun)*. Unfinished narrative poem.
+- **1841:** *Утоплена (The Drowned Maiden)*. Ballad.
+- **1841:** *Песня караульного у тюрьмы (The Guard’s Song in Prison)*. Russian-language verse surviving from the lost drama *Невеста*.
+- **1842:** *Слепая (The Blind Woman)*. Russian-language narrative poem.
+- **1842:** *Гамалія (Hamaliia)*. Historical narrative poem.
+- **1842:** *Никита Гайдай (Nikita Haidai)*. Surviving Russian-language fragment of a verse tragedy; the larger dramatic project is lost.
+- **1842:** *“А.О. Козачковському” / dedicatory verses in an album*. Occasional verse whose material setting—an inscription made for another person—resists separation into “poem” and social object.
+- **1843:** *Розрита могила (The Plundered Grave)*. Political-historical poem.
+- **1843:** *Чигрине, Чигрине… (Chyhyryn, O Chyhyryn…)*. Historical and political lyric.
+- **1843:** *Заворожи мені, волхве… (Cast a Spell for Me, Magus…)*. Verse address conventionally associated with Mykola Markevych.
+- **1844:** *Сон (“У всякого своя доля…”) (The Dream: “Everyone Has Their Fate…”)*. Satirical political narrative poem, subtitled “Комедія” (“A Comedy”).
+- **1844:** *У неділю не гуляла… (On Sunday She Did Not Go Walking…)*. Ballad-like lyric.
+- **1844:** *Чого мені тяжко, чого мені нудно… (Why Is It So Hard for Me, Why Am I So Weary…)*. Lyric poem.
+- **1844:** *Єретик (The Heretic)*. Historical narrative poem about Jan Hus; also known through the dedicatory formulation *Шафарикові* (“To Šafárik”).
+- **1844:** *Великий льох (The Great Vault)*. Political mystery poem; its tripartite voices and interludes form one deliberately hybrid obra.
+- **1844:** *Стоїть в селі Суботові… (In the Village of Subotiv There Stands…)*. Historical-political poem connected compositionally with *The Great Vault* but transmitted as a separate text.
+- **1844:** *Холодний Яр (Cold Ravine)*. Political-historical poem.
+- **1845:** *Сова (The Owl)*. Social narrative poem.
+- **1845:** *Наймичка (The Servant Woman)*. Narrative poem; distinct from Shevchenko’s later Russian prose tale bearing the same title.
+- **1845:** *Кавказ (The Caucasus)*. Political poem and elegy for Yakiv de Balmen.
+- **1845:** *І мертвим, і живим, і ненарожденним… (To the Dead, the Living, and the Unborn…)*. Verse epistle that functions as an intervention or manifesto addressed to Ukrainian compatriots.
+- **1845:** *Минають дні, минають ночі… (Days Pass, Nights Pass…)*. Political-philosophical lyric.
+- **1845:** *Три літа (Three Years)*. Lyric poem; also the title Shevchenko gave the manuscript album containing twenty-three works from 1843–45, making the album a separate composite obra.
+- **1845:** *Як умру, то поховайте… (When I Die, Bury Me…)*. Testamentary political lyric, later conventionally titled *Заповіт* (*Testament*); that familiar title was not Shevchenko’s original heading.
+- **1845:** *Маленькій Мар’яні (To Little Mariana)*. Occasional lyric.
+- **1845:** *Не завидуй багатому… (Do Not Envy the Rich…)*. Didactic lyric.
+- **1845:** *Не женися на багатій… (Do Not Marry a Rich Woman…)*. Didactic lyric.
+- **1845:** *Гоголю (To Gogol)*. Verse address.
+- **1845:** *Сліпий (The Blind Man)*. Narrative poem later revised and retitled *Невольник* (*The Captive*); the two states should not be silently collapsed.
+- **1845:** *Псалми Давидові (Psalms of David)*. Cycle of ten poetic paraphrases—Psalms 1, 12, 43, 52, 53, 81, 93, 132, 136, and 149—best understood as a composite poetic project rather than as a scriptural translation.
+- **1845:** *Подражаніє 11 псалму (Imitation of Psalm 11)*. Biblical paraphrase, separate from the ten-poem cycle.
+- **1845:** *Москалева криниця (The Soldier’s Well)*. Narrative poem; Shevchenko later produced a substantially revised second version, so the title covers two authorial states.
+- **1846:** *Лілея (The Lily)*. Ballad.
+- **1846:** *Русалка (The Rusalka)*. Ballad.
+- **1847:** *Осика (The Aspen)*. Narrative poem subsequently revised as *Відьма* (*The Witch*); editions differ over whether to catalogue the states separately.
+- **1847:** *Передмова до нездійсненого видання “Кобзаря” (Preface to an Unrealized Edition of Kobzar)*. Polemical prose preface for an abandoned publishing project; it survives although the intended edition did not materialize.
+- **1847:** *В казематі (In the Casemate)*. Cycle of thirteen poems composed around Shevchenko’s imprisonment; the cycle is a manuscript construction as well as a group of individually transmitted lyrics.
+- **1847:** *Згадайте, братія моя… (Remember, My Brothers…)*. Epilogue or dedicatory frame to *In the Casemate*.
+- **1847:** *Ой одна я, одна… (Alone, All Alone…)*. Lyric in *In the Casemate*.
+- **1847:** *За байраком байрак… (Beyond the Ravine, Another Ravine…)*. Historical lyric in *In the Casemate*.
+- **1847:** *Мені однаково, чи буду… (It Is All the Same to Me Whether…)*. Political lyric in *In the Casemate*.
+- **1847:** *Не кидай матері, казали… (Do Not Abandon Your Mother, They Said…)*. Lyric in *In the Casemate*.
+- **1847:** *Чого ти ходиш на могилу?.. (Why Do You Go to the Grave?…)*. Ballad in *In the Casemate*.
+- **1847:** *Ой три шляхи широкії… (Three Broad Roads…)*. Lyric in *In the Casemate*.
+- **1847:** *Весеннє сонечко ховалось… (The Spring Sun Was Hiding…)*. Lyric in *In the Casemate*.
+- **1847:** *Садок вишневий коло хати… (The Cherry Orchard by the House…)*. Lyric in *In the Casemate*.
+- **1847:** *Рано-вранці новобранці… (Early in the Morning, the Recruits…)*. Lyric in *In the Casemate*.
+- **1847:** *В неволі тяжко, хоча й волі… (Captivity Is Hard, Although Freedom…)*. Lyric associated with the casemate sequence.
+- **1847:** *Косар (The Reaper)*. Lyric-allegorical poem.
+- **1847:** *Чума (The Plague)*. Poem.
+- **1847:** *Сон (“Гори мої високії…”) (The Dream: “My Lofty Hills…”)*. Meditative poem; its opening words distinguish it from the 1844 satire titled *Сон*.
+- **1847:** *Іржавець (Irzhavets)*. Historical poem.
+- **1847:** *Княжна (The Princess)*. Narrative poem; distinct from the Russian prose tale *Княгиня*.
+- **1847:** *Думи мої, думи мої, ви мої єдині… (My Thoughts, My Thoughts, You Are My Only Ones…)*. Exile-period programmatic lyric, not the identically opening 1840 poem.
+- **1847:** *Невольник (The Captive)*. Revised form of *Сліпий*; its independent title and extensive reworking give it the status of a new authorial version.
+- **1848:** *А нумо знову віршувать… (Come, Let Us Make Verse Again…)*. Lyric.
+- **1848:** *Варнак (The Convict)*. Narrative poem; distinct from the Russian prose tale of the same title.
+- **1848:** *Титарівна (The Sexton’s Daughter)*. Narrative poem.
+- **1848:** *Марина (Maryna)*. Narrative poem.
+- **1848:** *Сотник (The Sotnyk)*. Narrative poem.
+- **1848:** *Царі (Tsars)*. Satirical biblical-historical poem, preserved in substantially different authorial redactions.
+- **1848:** *Чернець (The Monk)*. Historical poem.
+- **1848:** *У Бога за дверима лежала сокира… (Behind God’s Door Lay an Axe…)*. Allegorical narrative poem drawing on a Kazakh legend.
+- **1848:** *У тієї Катерини… (That Kateryna Had…)*. Ballad.
+- **1848:** *Хустина (The Kerchief)*. Ballad.
+- **1848:** *Ой гляну я, подивлюся… (I Shall Look and See…)*. Lyric.
+- **1848:** *Та не дай, Господи, нікому… (May God Grant It to No One…)*. Lyric.
+- **1848:** *І небо невмите, і заспані хвилі… (The Sky Unwashed, the Waves Asleep…)*. Exile landscape lyric.
+- **1848:** *Сонце заходить, гори чорніють… (The Sun Sets, the Mountains Darken…)*. Exile landscape lyric.
+- **1848:** *Мов за подушне, оступили… (As If for the Poll Tax, They Surrounded Me…)*. Lyric.
+- **1848:** *Добро, у кого є господа… (Fortunate Is One Who Has a Home…)*. Lyric.
+- **1848:** *Ну що б, здавалося, слова… (What, One Might Think, Are Words…)*. Lyric.
+- **1848:** *І знов мені не привезла… (And Once Again She Brought Me Nothing…)*. Lyric.
+- **1848:** *П.С. (To P.S.)*. Verse address; the addressee’s identification remains a matter of commentary rather than part of the title.
+- **1848:** *Г.З. (To H.Z.)*. Verse address conventionally linked with Hanna Zakrevska.
+- **1848:** *Якби зустрілися ми знову… (If We Should Meet Again…)*. Lyric.
+- **1848:** *Не для людей, тієї слави… (Not for People, Nor for That Fame…)*. Poetic declaration.
+- **1848:** *Коло гаю в чистім полі… (Near the Grove in the Open Field…)*. Ballad.
+- **1848:** *Якби тобі довелося… (If It Befell You…)*. Poem.
+- **1848:** *І виріс я на чужині… (And I Grew Up in a Foreign Land…)*. Autobiographical and political lyric.
+- **1848:** *А.О. Козачковському (To A.O. Kozachkovsky)*. Verse epistle.
+- **1848:** *Неначе степом чумаки… (As If Chumaks Across the Steppe…)*. Lyric.
+- **1848:** *На Великдень, на соломі… (At Easter, on the Straw…)*. Social lyric.
+- **1848:** *Не так тії вороги… (Not Those Enemies…)*. Lyric.
+- **1848:** *Ой стрічечка до стрічечки… (Ribbon upon Ribbon…)*. Song-like lyric.
+- **1848:** *Хіба самому написать… (Must I Write to Myself Alone?…)*. Lyric.
+- **1848:** *Ой чого ти почорніло… (Why Have You Grown Black?…)*. Historical dialogue poem.
+- **1848:** *Самому чудно. А де ж дітись?.. (I Myself Am Astonished—But Where Can I Go?…)*. Lyric.
+- **1848:** *Не тополю високую… (Not the Tall Poplar…)*. Lyric.
+- **1848:** *І широкую долину… (And the Wide Valley…)*. Lyric.
+- **1848:** *За сонцем хмаронька пливе… (A Little Cloud Follows the Sun…)*. Landscape lyric.
+- **1848:** *Дурні та гордії ми люди… (Foolish and Proud Are We Humans…)*. Meditative lyric.
+- **1848:** *Готово! Парус розпустили… (Ready! They Have Unfurled the Sail…)*. Journey poem.
+- **1848:** *Ми восени таки похожі… (In Autumn We Are Much Alike…)*. Lyric.
+- **1848:** *Ой не п’ються пива-меди… (Beer and Mead Are Not Being Drunk…)*. Song-like poem.
+- **1848:** *Полякам (To the Poles)*. Political poem, also known by its opening *Ще як були ми козаками…*; the familiar title is editorial.
+- **1849:** *Наймичка (“У неділю вранці-рано…”) (The Servant Woman)*. Ballad-like poem distinct from both the 1845 narrative poem and the prose tale sharing the title.
+- **1849:** *У нашім раї на землі… (In Our Paradise on Earth…)*. Social poem on motherhood.
+- **1849:** *Нащо мені женитися?.. (Why Should I Marry?…)*. Lyric.
+- **1849:** *Як маю я журитися… (Why Should I Grieve?…)*. Lyric.
+- **1849:** *Ой крикнули сірії гуси… (The Grey Geese Cried Out…)*. Song-like lyric.
+- **1849:** *Якби мені черевики… (If Only I Had Shoes…)*. Song-like lyric.
+- **1849:** *І багата я… (And I Am Rich…)*. Dramatic lyric.
+- **1849:** *Полюбилася я… (I Fell in Love…)*. Dramatic lyric.
+- **1849:** *Породила мене мати… (My Mother Bore Me…)*. Dramatic lyric.
+- **1849:** *Ой я свого чоловіка… (Oh, My Husband…)*. Dramatic lyric.
+- **1849:** *Не хочу я женитися… (I Do Not Want to Marry…)*. Dramatic lyric.
+- **1849:** *Якби мені, мамо, намисто… (If Only, Mother, I Had a Necklace…)*. Dramatic lyric.
+- **1849:** *У перетику ходила… (I Walked by the Fence…)*. Song-like lyric.
+- **1849:** *Ой люлі, люлі, моя дитино… (Lullaby, My Child…)*. Lullaby poem.
+- **1849:** *На улиці невесело… (There Is No Merriment in the Street…)*. Lyric.
+- **1849:** *Не жаль на злого, коло його… (I Do Not Pity the Wicked Man…)*. Lyric.
+- **1849:** *Меж скалами, неначе злодій… (Among the Cliffs, Like a Thief…)*. Landscape lyric.
+- **1849:** *Зацвіла в долині… (It Blossomed in the Valley…)*. Lyric.
+- **1849:** *У Вільні, городі преславнім… (In Vilnius, the Most Glorious City…)*. Narrative poem.
+- **1849:** *О люди! люди небораки!.. (O People, Poor People!…)*. Political lyric.
+- **1849:** *Буває, в неволі іноді згадаю… (Sometimes in Captivity I Remember…)*. Autobiographical lyric.
+- **1849:** *І золотої й дорогої… (Not a Golden and Precious…)*. Social lyric.
+- **1849:** *Якби ви знали, паничі… (If You Only Knew, Young Masters…)*. Autobiographical and political poem.
+- **1849:** *І станом гнучим, і красою… (In Graceful Figure and in Beauty…)*. Lyric.
+- **1849:** *Огні горять, музика грає… (Lights Are Burning, Music Is Playing…)*. Lyric.
+- **1849:** *На ниву в жито уночі… (Into the Rye Field at Night…)*. Ballad.
+- **1849:** *У Оглаві… (At Ohlavy…)*. Landscape poem whose title is editorially taken from its opening location.
+- **1850:** *Лічу в неволі дні і ночі… (I Count the Days and Nights in Captivity…)*. Long exile meditation surviving in two significantly different authorial versions.
+- **1850:** *Петрусь (Petrus)*. Narrative poem.
+- **1850:** *Якби мені на Україні… (If Only I Were in Ukraine…)*. Lyric.
+- **1850:** *Мені здається, я не знаю… (It Seems to Me—I Do Not Know…)*. Lyric.
+- **1850:** *Буває, іноді старий… (Sometimes an Old Man…)*. Meditative poem.
+- **1850:** *І досі сниться: під горою… (I Still Dream: Below the Hill…)*. Domestic-idyll lyric.
+- **1850:** *Не молилася за мене… (She Did Not Pray for Me…)*. Lyric.
+- **1850:** *Мій Боже милий, знову лихо!.. (My Dear God, Disaster Again!…)*. Political lyric; its precise occasion and dating have generated commentary.
+- **1857:** *Неофіти (The Neophytes)*. Historical-religious narrative poem with contemporary political force.
+- **1857:** *Юродивий (The Holy Fool)*. Unfinished political poem.
+- **1857:** *Доля (Fate)*. Lyric forming a triptych with *Муза* and *Слава*.
+- **1857:** *Муза (The Muse)*. Lyric in the 1857 triptych.
+- **1857:** *Слава (Glory)*. Satirical lyric in the 1857 triptych.
+- **1858:** *Сон (“На панщині пшеницю жала…”) (The Dream: “She Reaped Wheat in Corvée Labor…”)*. Social lyric; opening words distinguish it from Shevchenko’s other poems titled *Сон*.
+- **1858:** *Я не нездужаю, нівроку… (I Am Not Unwell, Touch Wood…)*. Political lyric.
+- **1858:** *Подражаніє 11 псалму (Imitation of Psalm 11)*. A later biblical-political paraphrase; editions must distinguish it from similarly titled biblical adaptations.
+- **1858:** *Ісаія. Глава 35 (Isaiah, Chapter 35)*. Free poetic imitation rather than a literal translation.
+- **1859:** *Марія (Maria)*. Biblical narrative poem and one of Shevchenko’s major late obras.
+- **1859:** *Подражаніє Ієзекіїлю. Глава 19 (Imitation of Ezekiel, Chapter 19)*. Biblical-political paraphrase.
+- **1859:** *Осії. Глава XIV (Hosea, Chapter XIV)*. Biblical-political paraphrase.
+- **1859:** *Во Іудеї во дні они… (In Judea in Those Days…)*. Unfinished biblical narrative poem.
+- **1859:** *Ой по горі роман цвіте… (On the Hill the Chamomile Blooms…)*. Song-like lyric.
+- **1859:** *Ой маю, маю я оченята… (Oh, I Have Eyes…)*. Song-like lyric.
+- **1859:** *Сестрі (To My Sister)*. Verse address.
+- **1859:** *Колись дурною головою… (Once, with My Foolish Head…)*. Retrospective lyric.
+- **1860:** *Подражаніє Едуарду Сові (Imitation of Edward Sova)*. Poetic adaptation; “Edward Sova” was the pseudonym of the Polish poet Edward Żeligowski.
+- **1860:** *Неофіти: dedicatory verses to M.S. Shchepkin*. A dedication incorporated into the poem’s manuscript and publication history rather than a securely independent poem.
+- **1860:** *Ликері (To Lykera)*. Verse address.
+- **1860:** *Л. (To L.)*. Verse address conventionally connected with Lykera Polusmak.
+- **1860:** *Барвінок цвів і зеленів… (The Periwinkle Bloomed and Grew Green…)*. Lyric.
+- **1860:** *Росли укупочці, зросли… (They Grew Up Together…)*. Lyric.
+- **1860:** *Не нарікаю я на Бога… (I Do Not Complain Against God…)*. Meditative lyric.
+- **1860:** *Світе ясний! Світе тихий! (Radiant World! Quiet World!)*. Political-religious satire.
+- **1860:** *Молитва (“Царям, всесвітнім шинкарям…”) (Prayer: “To Tsars, the World’s Tavern-Keepers…”)*. One of three related poetic prayers whose textual sequence and revisions are preserved separately.
+- **1860:** *Молитва (“Злоначинающих спини…”) (Prayer: “Stop Those Who Begin Evil…”)*. Second prayer in the sequence.
+- **1860:** *Молитва (“Мені ж, мій Боже, на землі…”) (Prayer: “And for Me, My God, on Earth…”)*. Third prayer in the sequence.
+- **1860:** *Гімн чернечий (Monastic Hymn)*. Satirical poem.
+- **1860:** *Саул (Saul)*. Biblical-political poem.
+- **1860:** *Тим неситим очам… (To Those Insatiable Eyes…)*. Political invective.
+- **1860:** *Дівча любе, чорнобриве… (Dear Dark-Browed Girl…)*. Lyric.
+- **1860:** *Н.Т. (To N.T.)*. Verse address; the initials are retained because identification of the addressee is not part of the authorial title.
+- **1860:** *Хоча лежачого й не б’ють… (Though One Does Not Strike a Man Who Is Down…)*. Satirical lyric.
+- **1860:** *І Архімед, і Галілей… (Both Archimedes and Galileo…)*. Utopian-political lyric.
+- **1860:** *Якось-то йдучи уночі… (Once, Walking at Night…)*. Meditative lyric.
+- **1860:** *Бували войни й військовії свари… (There Have Been Wars and Military Strife…)*. Historical-political lyric.
+- **1860:** *Самому чудно. А де ж дітись?..* A revised late manuscript state of the earlier lyric; editors preserve the variant rather than inventing a separate title.
+- **1861:** *Чи не покинуть нам, небого… (Shall We Not Cease, My Poor Companion…)*. Shevchenko’s last poem, addressed to his muse and left in manuscript shortly before his death.
+
+### Poetry books and manuscript constellations
+
+- **1840:** *Кобзар (Kobzar)*. Author-shaped first poetry book containing eight works; it is an obra in its own right, not merely a synonym for all Shevchenko’s poetry.
+- **1844:** *Чигиринський Кобзар і Гайдамаки (The Chyhyryn Kobzar and Haidamaky)*. Revised authorial book combining an expanded *Kobzar* with *Haidamaky*.
+- **1843–1845:** *Три літа (Three Years)*. Autograph manuscript album whose ordering makes it a composite political-poetic project beyond the individual texts it contains.
+- **1847–1850:** *Мала книжка (The Little Book)*. Handmade compilation of clandestinely written exile poems, assembled from small notebooks concealed during military service; both archive and obra.
+- **1858–1861:** *Більша книжка (The Larger Book)*. Fair-copy manuscript collection revised and ordered by Shevchenko; unfinished as a definitive collected book at his death.
+- **1860:** *Кобзар*. The last poetry collection published during Shevchenko’s lifetime under his supervision; censorship determined its restricted contents.
+- **1861:** *Букварь южнорусский (South-Russian Primer)*. Ukrainian-language primer compiled, financed, and issued by Shevchenko for literacy teaching; it is simultaneously a book, charitable project, and pedagogical protocol.
+
+### Drama and dramatic projects
+
+- **c. 1838–1841:** *Невеста (The Bride)*. Russian-language drama now lost except for *Песня караульного у тюрьмы*; its existence is documented, but the absent whole resists treatment as a recoverable text.
+- **1841:** *Слепая красавица (The Blind Beauty)*. Dramatic project mentioned in the documentary record; no complete text survives, and its relationship to other early works is uncertain.
+- **1842:** *Никита Гайдай (Nikita Haidai)*. Verse tragedy project known only from a surviving fragment.
+- **1843:** *Назар Стодоля (Nazar Stodolia)*. Historical drama surviving in a linguistically mixed textual history: Russian stage directions and Ukrainian dialogue in the principal received version.
+- **1844:** *Данило Рева (Danylo Reva)*. Dramatic project advertised or mentioned by Shevchenko but not preserved; some scholarship connects it with the genesis of *Nazar Stodolia*, without secure identity.
+
+### Russian-language prose
+
+- **1852–1853:** *Наймичка (The Servant Woman)*. Russian-language novella signed with the pseudonym “K. Дармограй”; distinct from the Ukrainian poems bearing the same title.
+- **1853:** *Варнак (The Convict)*. Russian-language novella; distinct from the 1848 narrative poem.
+- **1853:** *Княгиня (The Princess)*. Russian-language novella, sometimes translated under a title resembling the Ukrainian poem *Княжна* but textually independent.
+- **1853–1854:** *Музыкант (The Musician)*. Russian-language novella.
+- **1855:** *Несчастный (The Unfortunate Man)*. Russian-language novella.
+- **1855:** *Капитанша (The Captain’s Wife)*. Russian-language novella.
+- **1855:** *Близнецы (The Twins)*. Russian-language novella.
+- **1856:** *Художник (The Artist)*. Russian-language autobiographical novella constructed partly from the remembered world of Karl Briullov and the Imperial Academy of Arts.
+- **1855–1858:** *Прогулка с удовольствием и не без морали (A Walk with Pleasure and Not without a Moral)*. Russian-language novella in two parts, begun in exile and completed after release; an abandoned earlier opening survives as a fragment.
+
+### Diary, autobiography, criticism, documentary texts, and collected speech
+
+- **1845–1846:** *Археологічні нотатки (Archaeological Notes)*. Field documentation prepared in connection with the Kyiv Archaeographic Commission; the surviving fair copy is incomplete, so this is both scholarly protocol and damaged archival object.
+- **c. 1846:** *Записи народної творчості (Records of Folklore)*. Shevchenko’s written records of songs and other oral materials; these resist simple authorship because he made the documentary inscriptions but did not originate the traditional verbal works.
+- **1857–1858:** *Журнал (Diary)*. Russian-language diary kept from 12 June 1857 to 13 July 1858; a dated serial manuscript obra combining observation, memoir, criticism, and self-fashioning.
+- **1860:** *Автобиография (Autobiography)*. Short Russian-language autobiographical account prepared for publication and editorially mediated by Panteleimon Kulish; the degree of intervention must be acknowledged when treating the received text as solely Shevchenko’s.
+- **1839–1861:** *Листи (Letters)*. A corpus of individually situated communications rather than a single authored “book”; the academic edition includes surviving letters, drafts, collective letters signed by Shevchenko, and business papers, with attribution and dating handled item by item.
+- **1840s–1860s:** *Дарчі написи, альбомні записи, заяви, розписки та інші ділові папери (Dedications, Album Entries, Petitions, Receipts, and Other Business Papers)*. Made textual objects preserved by the academic edition; many act—dedicating, requesting, acknowledging, or authorizing—and are therefore closer to protocols or performative documents than literary works.
+
+### Painting
+
+- **1830–1831:** *Погруддя жінки (Bust of a Woman)*. Watercolor traditionally catalogued among Shevchenko’s earliest surviving works; early dating and attribution rely on catalogue scholarship rather than a firm authorial inscription.
+- **1833:** *Портрет Павла Енгельгардта (Portrait of Pavlo Engelhardt)*. Watercolor portrait.
+- **1836:** *Голова жінки (Head of a Woman)*. Drawing from Shevchenko’s pre-Academy training period.
+- **1837:** *Смерть Лукреції (The Death of Lucretia)*. Historical composition in watercolor.
+- **1837:** *Смерть Віргінії (The Death of Virginia)*. Historical composition; catalogues distinguish studies, copies, and finished sheets where they survive.
+- **1838:** *Катерина (Kateryna)*. Early watercolor composition, not the better-known 1842 oil painting.
+- **1839:** *Натурник (Male Model)*. Academic life study.
+- **1840:** *Натурники (Male Models)*. Academic study; the generic title is supplied descriptively by cataloguers.
+- **1840:** *Марія (Maria)*. Watercolor illustration to Alexander Pushkin’s *Poltava*; it is an image made in relation to another author’s text, not a literary work by Shevchenko.
+- **1841:** *Циганка-ворожка (Gypsy Fortune-Teller)*. Watercolor genre painting awarded a silver medal by the Imperial Academy of Arts.
+- **1841:** *Перерване побачення (The Interrupted Meeting)*. Watercolor genre composition.
+- **1842:** *Катерина (Kateryna)*. Oil painting related to, but not merely an illustration of, Shevchenko’s poem; its cross-medium self-revision makes it a particularly clear double obra.
+- **1843:** *На пасіці (At the Apiary)*. Oil painting of Ukrainian rural life.
+- **1843:** *Селянська родина (Peasant Family)*. Oil painting.
+- **1843:** *Портрет Ганни Закревської (Portrait of Hanna Zakrevska)*. Oil portrait.
+- **1843:** *Портрет Платона Закревського (Portrait of Platon Zakrevsky)*. Oil portrait.
+- **1843:** *Портрет Маєвської (Portrait of Maievska)*. Portrait; the sitter’s identification and dating are catalogue matters rather than fully secure authorial metadata.
+- **1843:** *Портрет невідомого (Portrait of an Unknown Man)*. Portrait whose descriptive catalogue title records the failure of identification.
+- **1845:** *Портрет Іллі Лизогуба (Portrait of Illia Lyzohub)*. Watercolor portrait.
+- **1845:** *Портрет Григорія Родзянка (Portrait of Hryhorii Rodzianko)*. Watercolor portrait.
+- **1846:** *Портрет Катерини Кейкуатової (Portrait of Kateryna Keikuatova)*. Oil portrait.
+- **1846:** *Портрет Олександра Афанасьєва-Чужбинського (Portrait of Oleksandr Afanasiev-Chuzhbynsky)*. Portrait traditionally attributed to Shevchenko; catalogue commentary must govern its status.
+- **1847:** *Автопортрет (Self-Portrait)*. Orsk-period self-portrait; one of several distinct works bearing the generic title.
+- **1847:** *Портрет Агати Ускової (Portrait of Ahata Uskova)*. Portrait associated with Shevchenko’s exile milieu.
+- **1847:** *Портрет невідомої жінки (Portrait of an Unknown Woman)*. Portrait under a descriptive, non-authorial title.
+- **1848–1849:** *Казахський хлопчик розпалює грубку (Kazakh Boy Lighting a Stove)*. Watercolor genre study from the Aral expedition period.
+- **1848–1849:** *Казахи в юрті (Kazakhs in a Yurt)*. Watercolor or sepia genre composition.
+- **1848–1849:** *Казашка Катя (The Kazakh Woman Katia)*. Portrait study; the received title reflects later identification.
+- **1850:** *Шевченко серед товаришів (Shevchenko among Comrades)*. Group composition whose catalogue title describes rather than securely names the sheet.
+- **1851:** *Шевченко і байгуші (Shevchenko and the Beggars)*. Sepia genre composition, combining self-representation with ethnographic observation.
+- **1851:** *Байгуші (Beggars)*. Sepia genre scene.
+- **1851:** *Казахський хлопчик дрімає біля грубки (Kazakh Boy Dozing by the Stove)*. Sepia genre study.
+- **1851:** *Тріо (Trio)*. Sepia genre scene of musicians.
+- **1853:** *Самаритянка (The Samaritan Woman)*. Sepia biblical composition.
+- **1856:** *Благословіння дітей (Christ Blessing the Children)*. Sepia composition on a biblical subject.
+- **1856:** *Телемак на острові Каліпсо (Telemachus on Calypso’s Island)*. Sepia mythological-literary composition.
+- **1856:** *Робінзон Крузо (Robinson Crusoe)*. Sepia composition after the literary character; it is an interpretive image, not a text.
+- **1856:** *Мілон Кротонський (Milo of Croton)*. Sepia historical composition.
+- **1856:** *Нарцис та німфа Ехо (Narcissus and the Nymph Echo)*. Sepia mythological composition.
+- **1856:** *Святий Себастіан (Saint Sebastian)*. Sepia religious composition.
+- **1856:** *Умираючий гладіатор (The Dying Gladiator)*. Sepia composition.
+- **1857:** *Автопортрет (Self-Portrait)*. Pencil self-portrait made during the return from exile; distinct from the other works conventionally sharing this title.
+- **1858:** *Портрет Михайла Щепкіна (Portrait of Mikhail Shchepkin)*. Portrait drawing.
+- **1858:** *Портрет Марії Максимович (Portrait of Mariia Maksymovych)*. Portrait.
+- **1859:** *Автопортрет (Self-Portrait)*. Late self-portrait drawing.
+- **1859:** *Портрет Марії Максимович (Portrait of Mariia Maksymovych)*. A second, separate portrait rather than a reissue of the 1858 image.
+- **1860:** *Портрет Ликери Полусмак (Portrait of Lykera Polusmak)*. Portrait drawing.
+- **1860:** *Автопортрет у темному костюмі (Self-Portrait in a Dark Suit)*. Oil self-portrait.
+- **1860:** *Автопортрет зі свічкою (Self-Portrait with a Candle)*. Etched self-portrait derived from an earlier drawing; the plate and its impressions are manifestations of one graphic obra.
+- **1861:** *Автопортрет (Self-Portrait)*. Last self-portrait, conventionally dated to the final year of Shevchenko’s life.
+
+### Landscape, architectural, archaeological, and expedition drawings
+
+- **1843:** *У Києві (In Kyiv)*. Landscape drawing from Shevchenko’s first journey in Ukraine.
+- **1843:** *Вдовина хата на Україні (A Widow’s House in Ukraine)*. Architectural and ethnographic drawing.
+- **1843:** *Хата батьків Т.Г. Шевченка в с. Кирилівці (The House of Shevchenko’s Parents in Kyrylivka)*. Documentary drawing under a later descriptive title.
+- **1843:** *Богданові руїни в Суботові (Bohdan’s Ruins at Subotiv)*. Architectural-historical watercolor.
+- **1844:** *Чигирин з Суботівського шляху (Chyhyryn from the Subotiv Road)*. Landscape and historical-site drawing.
+- **1845:** *Воздвиженський монастир у Полтаві (Exaltation-of-the-Cross Monastery in Poltava)*. Architectural watercolor.
+- **1845:** *Будинок І.П. Котляревського в Полтаві (Kotliarevsky’s House in Poltava)*. Documentary watercolor.
+- **1845:** *В Решетилівці (At Reshetylivka)*. Architectural landscape.
+- **1845:** *Повідь (Flood)*. Watercolor landscape from the 1845 album.
+- **1845:** *Аскольдова могила (Askold’s Grave)*. Kyiv architectural landscape.
+- **1845:** *Церква Всіх Святих у Києво-Печерській лаврі (Church of All Saints at the Kyiv-Pechersk Lavra)*. Architectural drawing.
+- **1845:** *Церква у Переяславі (Church in Pereiaslav)*. Documentary architectural drawing; catalogue titles vary with identification of the building.
+- **1845:** *Михайлівська церква в Переяславі (Saint Michael’s Church in Pereiaslav)*. Architectural drawing.
+- **1845:** *Вознесенський собор у Переяславі (Ascension Cathedral in Pereiaslav)*. Architectural drawing.
+- **1845:** *Кам’яні хрести в Суботові (Stone Crosses at Subotiv)*. Archaeological-documentary drawing.
+- **1846:** *Почаївська лавра з півдня (Pochaiv Lavra from the South)*. Watercolor commissioned in connection with the Kyiv Archaeographic Commission.
+- **1846:** *Почаївська лавра зі сходу (Pochaiv Lavra from the East)*. Watercolor architectural view.
+- **1846:** *Собор Почаївської лаври (Cathedral of the Pochaiv Lavra)*. Interior or architectural study.
+- **1846:** *Вид на околиці з тераси Почаївської лаври (View of the Surroundings from the Terrace of the Pochaiv Lavra)*. Watercolor landscape.
+- **1846:** *Костел у Почаєві (Catholic Church in Pochaiv)*. Architectural watercolor.
+- **1846:** *Андруші (Andrushi)*. Village landscape.
+- **1846:** *Васильківський форт у Києві (Vasylkiv Fort in Kyiv)*. Architectural and military-site drawing.
+- **1846:** *Київ з боку Дніпра (Kyiv from the Dnipro)*. Panoramic landscape.
+- **1846:** *Китаївська пустинь (Kytaiv Hermitage)*. Architectural landscape.
+- **1846:** *Видубицький монастир у Києві (Vydubychi Monastery in Kyiv)*. Architectural landscape.
+- **1846:** *Церква Богдана в Суботові (Bohdan’s Church at Subotiv)*. Documentary architectural watercolor of the Illinska Church.
+- **1848–1849:** *Аральська описова експедиція: краєвиди та берегові студії (Aral Survey Expedition: Landscapes and Coastal Studies)*. A large documentary-artistic corpus of watercolors, pencil drawings, and sketches made during military survey work; sheets have individual catalogue entries, while some originals are lost and known only from documents.
+- **1848:** *Укріплення Раїм (Raim Fort)*. Expeditionary landscape.
+- **1848:** *Джангисагач (Dzhangysagach)*. Expeditionary landscape.
+- **1848:** *Пожежа в степу (Fire in the Steppe)*. Watercolor landscape.
+- **1848:** *Крутий берег Аральського моря (Steep Shore of the Aral Sea)*. Expeditionary watercolor.
+- **1848–1849:** *Острів Кос-Арал (Kos-Aral Island)*. Landscape study; more than one sheet bears this or a closely related descriptive title.
+- **1848–1849:** *Шхуни біля форту Кос-Арал (Schooners near Fort Kos-Aral)*. Maritime-expeditionary drawing.
+- **1848–1849:** *Місячна ніч на Кос-Аралі (Moonlit Night at Kos-Aral)*. Watercolor landscape.
+- **1848–1849:** *Низький берег острова Ніколая (Low Shore of Nicholas Island)*. Survey landscape under a descriptive catalogue title.
+- **1848–1849:** *Гористий берег острова Миколая (Mountainous Shore of Nicholas Island)*. Survey landscape.
+- **1851:** *Каратауська експедиція: краєвиди, маршрути й пам’ятки Мангишлаку (Karatau Expedition: Landscapes, Routes, and Monuments of Mangyshlak)*. A documentary-artistic project comprising numerous numbered and unnumbered sheets; several works mentioned in records have not been found.
+- **1851:** *Долина Апазир (Apazyr Valley)*. Karatau expedition landscape.
+- **1851:** *Гора Кулаат (Mount Kulaat)*. Expedition landscape.
+- **1851:** *Акмиштау (Akmysh-Tau)*. Expedition landscape.
+- **1851:** *Туркменські аби в Каратау (Turkmen Tombs in Karatau)*. Archaeological and landscape study.
+- **1851:** *Долина Ханга-Баба (Khanga-Baba Valley)*. Expedition landscape.
+- **1851:** *Скеля Монах (Monk Rock)*. Expedition landscape.
+- **1851:** *Сад біля Новопетровського укріплення (Garden near Novopetrovsk Fort)*. Landscape drawing; the catalogue dates related sheets variously between 1854 and 1855.
+- **1854–1857:** *Біля Новопетровського укріплення (Near Novopetrovsk Fort)*. Landscape drawing under a descriptive title.
+- **1854–1857:** *Надгробок на кладовищі Новопетровського укріплення (Tombstone in the Cemetery at Novopetrovsk Fort)*. Documentary drawing.
+- **1854–1857:** *Кладовище Новопетровського укріплення (Cemetery at Novopetrovsk Fort)*. Landscape and documentary drawing.
+- **1857:** *Астрахань (Astrakhan)*. Travel sketch made during Shevchenko’s return from exile.
+- **1857:** *Нижній Новгород (Nizhny Novgorod)*. Travel and architectural sketches; the title encompasses several distinct catalogue sheets, not a single fixed composition.
+- **1858–1859:** *Українські краєвиди останньої подорожі (Ukrainian Landscapes of the Last Journey)*. A group of drawings from Shevchenko’s final visit to Ukraine; incomplete provenance and generic later titles make the boundaries of the group uncertain.
+
+### Prints, illustrations, and reproductive graphic art
+
+- **1844:** *Живописна Україна (Picturesque Ukraine)*. Planned series of etchings on Ukrainian history, landscape, and contemporary life; six plates appeared, while the larger subscription project remained unrealized.
+- **1844:** *У Києві (In Kyiv)*. Etching from *Picturesque Ukraine*.
+- **1844:** *Видубицький монастир у Києві (Vydubychi Monastery in Kyiv)*. Etching from *Picturesque Ukraine*.
+- **1844:** *Судна рада (Council of Elders)*. Etching from *Picturesque Ukraine*.
+- **1844:** *Старости (Matchmakers)*. Etching from *Picturesque Ukraine*.
+- **1844:** *Дари в Чигирині 1649 року (Gifts at Chyhyryn in 1649)*. Historical etching from *Picturesque Ukraine*.
+- **1844:** *Казка (Fairy Tale)*. Satirical genre etching from *Picturesque Ukraine*, also known through its dialogue caption.
+- **1842:** *Illustrations for Nikolai Polevoi’s “History of Prince Suvorov”*. Commissioned book illustrations produced as drawings for wood engraving; authorship must be divided between Shevchenko’s designs and the craftsmen who cut or printed them.
+- **1843–1844:** *Illustrations for “Our Men, or Characteristic Portraits of Russians”*. Commissioned graphic designs; individual sheets and their reproductive prints are distinct manifestations, and some attributions remain qualified.
+- **1844:** *Король Лір (King Lear)*. Illustration after Shakespeare, made for a publication project.
+- **1858:** *Притча про робітників на винограднику (The Parable of the Labourers in the Vineyard)*. Etching after Rembrandt; reproductive in source but an original etched interpretation in execution.
+- **1858:** *Свята родина (The Holy Family)*. Etching after Bartolomé Esteban Murillo.
+- **1858:** *Приятелі (Friends)*. Etching after Ivan Sokolov.
+- **1859:** *Сама собі в своїй господі (Mistress of Her Own House)*. Original genre drawing associated with Shevchenko’s late graphic practice.
+- **1859:** *Старець на кладовищі (Old Man in a Cemetery)*. Original genre drawing.
+- **1860:** *Вірсавія (Bathsheba)*. Etching after Karl Briullov.
+- **1860:** *Мангишлацький сад (Mangyshlak Garden)*. Etching based on an exile-period composition.
+- **1860:** *Натурниця (Female Model)*. Etching.
+- **1860:** *Автопортрет у шапці й кожусі (Self-Portrait in a Cap and Sheepskin Coat)*. Etching; one of the works underpinning Shevchenko’s recognition as an Academician of Engraving.
+- **1860:** *Автопортрет зі свічкою (Self-Portrait with a Candle)*. Etching translating an earlier self-image into a reproducible print.
+- **1860:** *Портрет Ф.П. Толстого (Portrait of F.P. Tolstoy)*. Etched portrait.
+- **1860:** *Портрет П.К. Клодта (Portrait of P.K. Klodt)*. Etched portrait.
+- **1860:** *Портрет Ф. Бруні (Portrait of F. Bruni)*. Etched portrait.
+- **1860:** *Портрет І. Горностаєва (Portrait of I. Gornostayev)*. Etched portrait.
+- **1860:** *Портрет невідомого (Portrait of an Unknown Man)*. Etching catalogued under a descriptive title because the sitter is not securely identified.
+- **1861:** *Академічна серія офортів (Academic Etching Project)*. Late project to reproduce admired paintings and his own compositions by aquatint and etching; death left the intended series incomplete.
+
+### Sculptural and other materially uncertain works
+
+- **1830s–1840s:** *Sculptural studies and modeled figures*. Documentary sources credit Shevchenko with sculptural ability and occasional modeling, but no secure catalogue of surviving independent sculptures comparable to the painting catalogue exists; these resist enumeration as extant obras.
+- **1840s–1850s:** *Lost, unlocated, and documentary-only visual works*. The academic art catalogue records hundreds of works known from letters, the diary, early catalogues, exhibitions, or recollections but not presently located. These are evidence of making, not surviving objects available for direct verification, and titles supplied from documents may describe subjects rather than authorial names.
+
+### Sources
+
+- [Taras Shevchenko, *Зібрання творів у шести томах*, vol. 1: *Поезія 1837–1847* (Kyiv: Naukova dumka, 2003), electronic text corresponding to vols. 1–6 of the academic twelve-volume *Повне зібрання творів*.](https://litopys.org.ua/shevchenko/shev1.htm)
+- [Taras Shevchenko, *Зібрання творів у шести томах*, vol. 2: *Поезія 1847–1861* (Kyiv: Naukova dumka, 2003).](https://litopys.org.ua/shevchenko/shev2.htm)
+- [Taras Shevchenko, *Зібрання творів у шести томах*, vol. 3: *Драматичні твори. Повісті* (Kyiv: Naukova dumka, 2003).](https://litopys.org.ua/shevchenko/shev3.htm)
+- [Taras Shevchenko, *Зібрання творів у шести томах*, vol. 4: *Повісті* (Kyiv: Naukova dumka, 2003).](https://litopys.org.ua/shevchenko/shev4.htm)
+- [Taras Shevchenko, *Зібрання творів у шести томах*, vol. 5: *Щоденник. Автобіографія. Статті. Археологічні нотатки. “Букварь южнорусский.” Записи народної творчості* (Kyiv: Naukova dumka, 2003).](https://litopys.org.ua/shevchenko/shev5.htm)
+- [Taras Shevchenko, *Зібрання творів у шести томах*, vol. 6: *Листи. Дарчі та власницькі написи. Документи, складені Т. Шевченком або за його участю* (Kyiv: Naukova dumka, 2003).](https://litopys.org.ua/shevchenko/shev6.htm)
+- [National Academy of Sciences of Ukraine, bibliographic record and publication structure for *Тарас Шевченко: Повне зібрання творів у 12 томах*.](https://old.nas.gov.ua/UA/MultiVolumeBook/Pages/Default.aspx?MVBID=0000563)
+- [Taras Shevchenko, *Повне зібрання творів у 12 томах*, vol. 7: *Мистецька спадщина. Живопис і графіка 1830–1847* (Kyiv: Naukova dumka, 2005), National Taras Shevchenko Museum digital record.](https://collection.museumshevchenko.org.ua/documentscontents/3375)
+- Taras Shevchenko, *Повне зібрання творів у 12 томах*, vols. 8–10: *Мистецька спадщина. Живопис і графіка* (Kyiv: Naukova dumka, academic catalogue-raisonné volumes).
+- [National Library of Ukraine, record for the earlier ten-volume academic *Повне зібрання творів*, whose art volumes catalogue the known originals, attributed works, copies, variants, and documentary-only or unlocated works.](https://search.nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=S&I21DBN=UKRLIB&P21DBN=UKRLIB&S21All=%3C.%3EID%3Dukr0000028567%3C.%3E&S21CNR=20&S21FMT=fullwebr&S21REF=2&S21STN=1)
+- [*Шевченківський словник*, 2 vols. (Kyiv, 1976–1977), electronic edition; entries supply work histories, variant titles, manuscript states, visual-media identifications, and disputed or documentary-only attributions.](https://litopys.org.ua/shevchenko/slovn.htm)

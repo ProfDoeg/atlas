@@ -1,0 +1,29 @@
+## Works by Leif Erikson
+
+### Journey-projects
+
+- **c. 1000:** Vinland expedition. In *The Saga of the Greenlanders*, Leif purchases Bjarni Herjólfsson’s ship, organizes a crew, deliberately retraces Bjarni’s reported route, explores three regions, winters in Vinland, and returns with timber and grapes; this is a collective expedition rather than a discrete authored “work.” *Eirik the Red’s Saga* instead makes the western landfall an accidental episode during Leif’s voyage from Norway to Greenland, so the project’s intention—and even its independence as a voyage—is disputed ([*Saga of the Greenlanders* overview and source text](https://canadianmysteries.uvic.ca/sites/vinland/whereisvinland/sagaofgreenlanders/indexen.html); [*Eirik the Red’s Saga*, ch. 5](https://canadianmysteries.uvic.ca/sites/vinland/whereisvinland/eriktheredsaga/4098en.html); [Bandlien, “Leiv Eiriksson”](https://snl.no/Leiv_Eiriksson)).
+
+- **c. 999–1000:** Christianization of Greenland. *Eirik the Red’s Saga* attributes to Leif a commission from King Óláfr Tryggvason to introduce Christianity in Greenland; this is best classified as a missionary project—an intention enacted through travel and persuasion—not an object or text. It is absent from *The Saga of the Greenlanders*, and modern scholarship has argued that the king’s and Leif’s conversion roles may be an early-thirteenth-century literary construction, so neither Leif’s authorship nor the project’s historical form is secure ([Bandlien, “Leiv Eiriksson”](https://snl.no/Leiv_Eiriksson); [Kujataa World Heritage nomination dossier, pp. 37–38](https://kujalleq.cowiplan.dk/media/1265/kujataa__unesco_nomination_2015.pdf)).
+
+### Collective construction
+
+- **c. 1000:** *Leifsbúðir* (“Leif’s Booths” or “Leif’s Camp”). *The Saga of the Greenlanders* says Leif’s company built houses as a winter base in Vinland; subsequent expeditions used them while Leif retained control, making this a collectively constructed architectural and logistical obra rather than a settlement demonstrably built by Leif’s own hands. *Eirik the Red’s Saga* omits *Leifsbúðir* and assigns the expedition bases to Karlsefni’s party; association with the excavated Norse station at L’Anse aux Meadows remains interpretive, since archaeology confirms Norse building and activity but not Leif’s personal authorship ([Wallace, “The Norse in Newfoundland: L’Anse aux Meadows and Vinland,” §§7–11](https://journals.lib.unb.ca/index.php/NFLDS/article/download/140/236?inline=1); [Parks Canada](https://www.parks.canada.ca/culture/spm-whs/sites-canada/sec02a.aspx); [Kuitems et al., “Evidence for European presence in the Americas in AD 1021”](https://www.nature.com/articles/s41586-021-03972-8)).
+
+### Toponymic creations
+
+- **c. 1000:** *Helluland*. In *The Saga of the Greenlanders*, this is the name Leif gives the northern, stone-slab-covered land encountered by his expedition, commonly associated with Baffin Island. The land is not his creation: only the Norse toponym is, and the identification with a modern location remains an interpretation ([*Saga of the Greenlanders* overview](https://canadianmysteries.uvic.ca/sites/vinland/whereisvinland/sagaofgreenlanders/indexen.html); [Bandlien, “Leiv Eiriksson”](https://snl.no/Leiv_Eiriksson)).
+
+- **c. 1000:** *Markland*. The saga attributes this name for a wooded region to Leif’s expedition; it is a linguistic act attached to an encountered landscape, not a made physical object. Its usual association with Labrador is not an archaeologically demonstrated attribution by Leif ([*Saga of the Greenlanders* overview](https://canadianmysteries.uvic.ca/sites/vinland/whereisvinland/sagaofgreenlanders/indexen.html); [Bandlien, “Leiv Eiriksson”](https://snl.no/Leiv_Eiriksson)).
+
+- **c. 1000:** *Vinland*. *The Saga of the Greenlanders* presents the name as arising from the expedition’s reported discovery of wild grapes, while *Eirik the Red’s Saga* preserves a different voyage narrative. This is therefore a saga-attributed toponymic creation whose precise referent, extent, etymological implications, and location cannot be treated as settled ([*Saga of the Greenlanders* overview](https://canadianmysteries.uvic.ca/sites/vinland/whereisvinland/sagaofgreenlanders/indexen.html); [*Eirik the Red’s Saga* overview](https://canadianmysteries.uvic.ca/sites/vinland/whereisvinland/eriktheredsaga/indexen.html); [Bandlien, “Leiv Eiriksson”](https://snl.no/Leiv_Eiriksson)).
+
+### Sources
+
+- *The Saga of the Greenlanders*, in Keneva Kunz trans., *The Sagas of Icelanders: A Selection* (Penguin, 2000), excerpts and scholarly apparatus reproduced by the Great Unsolved Mysteries in Canadian History project: [overview and bibliographical record](https://canadianmysteries.uvic.ca/sites/vinland/whereisvinland/sagaofgreenlanders/indexen.html).
+- *Eirik the Red’s Saga*, in Keneva Kunz trans., *The Sagas of Icelanders: A Selection* (Penguin, 2000): [Leif’s voyage, chapter 5](https://canadianmysteries.uvic.ca/sites/vinland/whereisvinland/eriktheredsaga/4098en.html) and [source overview](https://canadianmysteries.uvic.ca/sites/vinland/whereisvinland/eriktheredsaga/indexen.html).
+- Birgitta Linderoth Wallace, [“The Norse in Newfoundland: L’Anse aux Meadows and Vinland”](https://journals.lib.unb.ca/index.php/NFLDS/article/download/140/236?inline=1), *Newfoundland Studies* 19, no. 1 (2003).
+- Bjørn Bandlien, [“Leiv Eiriksson”](https://snl.no/Leiv_Eiriksson), *Store norske leksikon*.
+- Government of Greenland, [*Kujataa: A Subarctic Farming Landscape in Greenland—World Heritage Nomination*](https://kujalleq.cowiplan.dk/media/1265/kujataa__unesco_nomination_2015.pdf) (2015).
+- Parks Canada, [“L’Anse aux Meadows National Historic Site”](https://www.parks.canada.ca/culture/spm-whs/sites-canada/sec02a.aspx).
+- Margot Kuitems et al., [“Evidence for European presence in the Americas in AD 1021”](https://www.nature.com/articles/s41586-021-03972-8), *Nature* 601 (2022): 388–391.

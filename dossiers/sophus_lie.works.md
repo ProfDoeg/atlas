@@ -1,0 +1,225 @@
+## Works by Marius Sophus Lie
+
+### Monographs, lecture books, and editorial obra
+
+- **1871:** *Over en Classe geometriske Transformationer*. Lie’s doctoral dissertation, subsequently continued in a separate paper; it develops what became his sphere-to-line transformation.
+- **1881:** *Mathematisches über zwei Abhandlungen von Herrn Dr. Adolph Mayer*. A critical mathematical pamphlet, not a research monograph in the usual sense.
+- **1888–1893:** *Theorie der Transformationsgruppen*. A three-volume systematic treatise made with Friedrich Engel: volume I treats general continuous transformation groups, volume II their applications to differential equations, and volume III the structure and classification of finite continuous groups. The title pages give Lie as author “unter Mitwirkung von Friedrich Engel,” but Engel’s extensive role makes simple sole authorship misleading.
+- **1891:** *Vorlesungen über Differentialgleichungen mit bekannten infinitesimalen Transformationen*. A lecture-derived book prepared by Georg Scheffers from Lie’s teaching; it is therefore simultaneously Lie’s mathematical project and Scheffers’s textual realization.
+- **1893:** *Vorlesungen über continuierliche Gruppen mit geometrischen und anderen Anwendungen*. Another lecture-derived book worked out by Scheffers, rather than a manuscript simply written by Lie.
+- **1896:** *Geometrie der Berührungstransformationen*. A systematic treatise made with Scheffers. Its projected second volume remained unfinished.
+- **1872–1881:** *Œuvres complètes de Niels Henrik Abel*. A two-volume editorial obra made by Lie and Ludwig Sylow from Abel’s papers; Lie did not author the mathematics, but helped establish its textual form.
+- **1899:** *Mathematiske Meddelelser af Sophus Lie til Videnskabsselskabet fra Aarene 1869–1871*. A posthumously issued gathering edited by Ludwig Sylow from Lie’s early communications; it is a manifestation of earlier texts, not a new work composed in 1899.
+
+### Geometry: papers, notes, and communications
+
+- **1869:** *Repräsentation der Imaginären der Plangeometrie*. Lie’s independently printed first mathematical paper; a revised manifestation appeared as *Über eine Darstellung des Imaginären in der Geometrie*.
+- **1869:** *Mathematiske Meddelelser til Videnskabsselskabet i Christiania, fra Aaret 1869, Nr. 1 og 2*. Two early academy communications, not printed until 1899.
+- **1869:** *Repräsentation der Imaginären der Plangeometrie*. An academy communication distinct from the separately printed paper despite the repeated title.
+- **1869:** *Repräsentation der Imaginären der Plangeometrie. Fortsetzung*. Continuation of the preceding communication.
+- **1870:** *Über die Reziprozitätsverhältnisse des Reyeschen Komplexes*. A research note on line geometry.
+- **1870:** *Sur une certaine famille de courbes et de surfaces*. Two jointly authored notes by Felix Klein and Lie.
+- **1870:** *Mathematisk Meddelelse til Videnskabsselskabet i Christiania, fra Aaret 1870*. An early academy communication, published posthumously in 1899.
+- **1870:** *Sur une transformation géométrique*. A short announcement of a geometric transformation.
+- **1870:** *Om en Classe geometriske Transformationer*. A preliminary paper belonging to the project later embodied in Lie’s dissertation.
+- **1870:** *Über die Haupttangentenkurven der Kummerschen Fläche vierten Grades mit sechzehn Knotenpunkten*. A joint paper by Klein and Lie; another manifestation appeared in *Mathematische Annalen* in 1884.
+- **1871:** *Über eine Klasse geometrischer Transformationen. Fortsetzung*. Continuation of the dissertation project.
+- **1871:** *Über diejenige Theorie eines Raumes mit beliebig vielen Dimensionen, die der Krümmungstheorie des gewöhnlichen Raumes entspricht*. A note extending curvature theory to higher-dimensional spaces.
+- **1871:** *Über diejenigen ebenen Kurven, welche durch ein geschlossenes System von einfach unendlich vielen vertauschbaren linearen Transformationen in sich übergehen*. A joint paper by Klein and Lie.
+- **1871:** *Mathematisk Meddelelse til Videnskabsselskabet i Christiania, fra Aaret 1871*. An academy communication first printed in the 1899 collection.
+- **1871:** *Zur Theorie eines Raumes von n Dimensionen*. A higher-dimensional geometry paper; an additional manuscript bearing a closely related title survives in the Nachlass.
+- **1872:** *Über Komplexe, insbesondere Linien- und Kugelkomplexe, mit Anwendung auf die Theorie partieller Differentialgleichungen*. A substantial synthesis of line and sphere geometry with differential equations.
+- **1877:** *Synthetisch-analytische Untersuchungen über Minimalflächen. I. Über reelle algebraische Minimalflächen*. The first part of a projected investigation; the numbering marks it as a continuing project.
+- **1877:** *Berigtigelse*. A correction notice; it resists being treated as an autonomous “work,” but the collected edition records it as a separate text.
+- **1878:** *Mathematiske Sætninger*. A brief collection of mathematical propositions.
+- **1878:** *Petite contribution à la théorie de la surface Steinérienne*. A short paper on the Steiner surface.
+- **1878:** *Sätze über Minimalflächen*. A paper stating results on minimal surfaces.
+- **1878:** *Sätze über Minimalflächen. II. Bestimmung aller algebraischen Minimalflächen, die sich in einen algebraischen Kegel einschreiben lassen*. The second paper in that sequence.
+- **1878:** *Sätze über Minimalflächen. III. Über die in eine algebraische Developpable eingeschriebenen algebraischen Minimalflächen*. The third paper in the sequence.
+- **1879:** *Klassifikation der Flächen nach der Transformationsgruppe ihrer geodätischen Kurven*. A university-program monograph, physically and institutionally distinct from an ordinary journal paper.
+- **1879:** *Beiträge zur Theorie der Minimalflächen. I. Projektivische Untersuchungen über algebraische Minimalflächen*. A major projective study.
+- **1879:** *Beiträge zur Theorie der Minimalflächen. II. Metrische Untersuchungen über algebraische Minimalflächen*. Its metric counterpart.
+- **1880:** *Weitere Untersuchungen über Minimalflächen*. A continuation of Lie’s minimal-surface project.
+- **1882:** *Zur Theorie der geodätischen Kurven der Minimalflächen*. A paper connecting minimal surfaces and geodesics.
+- **1882:** *Bestimmung aller Flächen, die in mehrfacher Weise durch Translationsbewegung einer Kurve erzeugt werden*. A classification of multiply generated translation surfaces.
+- **1882:** *Untersuchungen über geodätische Kurven*. A substantial investigation rather than a brief announcement.
+- **1884:** *Bestimmung des Bogenelements aller Flächen, deren geodätische Kreise eine infinitesimale Berührungstransformation gestatten*. A classification paper linking surface metrics and contact transformations.
+- **1884:** *Über die allgemeinste geodätische Abbildung der geodätischen Kreise einer Fläche*. A paper on geodesic mappings.
+- **1886:** *Bemerkungen zu v. Helmholtz’ Arbeit: Über die Tatsachen, die der Geometrie zu Grunde liegen*. A critical intervention in the foundations-of-geometry debate.
+- **1887:** *Sætninger*. A short set of propositions whose generic title should not be silently expanded.
+- **1890:** *Über die Grundlagen der Geometrie. I. Abhandlung*. First of two foundational studies.
+- **1890:** *Über die Grundlagen der Geometrie. II. Abhandlung*. Second foundational study.
+- **1892:** *Bemerkungen zu neueren Untersuchungen über die Grundlagen der Geometrie*. A critical supplement to the two preceding papers.
+- **1892:** *Sur les fondements de la géométrie*. A short French academy communication, not simply another edition of the longer German papers.
+- **1892:** *Sur une interprétation nouvelle du théorème d’Abel*. A short announcement of Lie’s geometric interpretation of Abel’s theorem.
+- **1892:** *Untersuchungen über Translationsflächen. Abhandlung I*. First paper in a new translation-surface project.
+- **1892:** *Untersuchungen über Translationsflächen. Abhandlung II*. Second paper in that project.
+- **1896:** *Die Theorie der Translationsflächen und das Abelsche Theorem*. A synthesis connecting translation surfaces with Abelian addition.
+- **1896:** *Fortale til Nytryk af en Afhandling af Caspar Wessel*. Lie’s preface to a reprint of Caspar Wessel’s essay; it is editorial-historical writing, not Lie’s mathematical research.
+- **1897:** *Das Abelsche Theorem und die Translationsmannigfaltigkeiten*. A higher-dimensional continuation of the translation-surface project.
+- **1897:** *Liniengeometrie und Berührungstransformationen*. A retrospective and systematic paper linking two central parts of Lie’s geometry.
+
+### Differential equations and contact transformations
+
+- **1872:** *Kurzes Résumé mehrerer neuer Theorien*. A programmatic résumé announcing several connected theories.
+- **1872:** *Neue Integrationsmethode partieller Gleichungen erster Ordnung zwischen n Variabeln*. An academy communication presenting a new integration method.
+- **1872:** *Über eine neue Integrationsmethode partieller Differentialgleichungen erster Ordnung*. A separate Göttingen announcement of that method.
+- **1872:** *Zur Theorie partieller Differentialgleichungen erster Ordnung, insbesondere über eine Klassifikation derselben*. A classification paper.
+- **1872:** *Zur Theorie der Differentialprobleme*. A short conceptual note.
+- **1872:** *Zur Invariantentheorie der Berührungstransformationen*. An early statement of the invariant theory of contact transformations.
+- **1873:** *Über partielle Differentialgleichungen erster Ordnung*. A broad paper on first-order equations.
+- **1873:** *Partielle Differentialgleichungen erster Ordnung, in denen die unbekannte Funktion explizite vorkommt*. A specialized continuation.
+- **1873:** *Zur analytischen Theorie der Berührungstransformationen*. A paper giving the analytic theory of contact transformations.
+- **1873:** *Über eine Verbesserung der Jacobi-Mayerschen Integrationsmethode*. A methodological correction and extension.
+- **1873:** *Neue Integrationsmethode eines 2n-gliedrigen Pfaffschen Problems*. A protocol-like mathematical text: it supplies a procedure for integration.
+- **1874:** *Allgemeine Theorie partieller Differentialgleichungen erster Ordnung*. The first academy version of Lie’s general theory.
+- **1874:** *Zur Theorie des Integrabilitätsfaktors*. A paper on integrating factors.
+- **1874:** *Verallgemeinerung und neue Verwertung der Jacobischen Multiplikatortheorie*. A generalization of Jacobi’s multiplier theory.
+- **1874–1875:** *Begründung einer Invariantentheorie der Berührungstransformationen*. A long, multipart foundational paper covering contact transformations, groups, and homogeneous groups.
+- **1875:** *Allgemeine Theorie partieller Differentialgleichungen erster Ordnung. II*. Continuation of the academy version.
+- **1875:** *Diskussion aller Integrationsmethoden der partiellen Differentialgleichungen erster Ordnung*. A synthetic survey and critique of integration methods.
+- **1875–1876:** *Allgemeine Theorie der partiellen Differentialgleichungen erster Ordnung*. A substantially developed *Mathematische Annalen* paper, not merely a reprint of the shorter academy communications.
+- **1876:** *Note. Vervollständigung der Theorie der Berührungstransformationen*. A completion-note whose dependent form is part of its identity.
+- **1876:** *Résumé einer neuen Integrationstheorie*. A compact presentation of a larger research project.
+- **1877:** *Allgemeine Theorie der partiellen Differentialgleichungen erster Ordnung. Zweite Abhandlung*. The second large *Mathematische Annalen* treatment.
+- **1877:** *Neue Integrationsmethode der Monge-Ampèreschen Gleichung*. A paper proposing an integration procedure.
+- **1877:** *Die Störungstheorie und die Berührungstransformationen*. A paper joining perturbation theory to contact transformations.
+- **1877:** *Theorie des Pfaffschen Problems. Erste Abhandlung*. First installment of a projected theory.
+- **1879:** *Geometriske Meddelelser*. A brief geometric communication with no more specific fixed title.
+- **1879:** *Bestimmung aller in eine algebraische Developpable eingeschriebenen algebraischen Integralflächen der Differentialgleichung s = 0*. A classification paper.
+- **1879:** *Zur Theorie der Flächen konstanter Krümmung. I*. First paper in a five-part sequence.
+- **1879:** *Zur Theorie der Flächen konstanter Krümmung. II. Das sphärische Bild der Haupttangenten- und Krümmungskurven*. Second paper in the sequence.
+- **1880:** *Über Flächen, deren Krümmungsradien durch eine Relation verknüpft sind*. A differential-geometric classification paper.
+- **1880:** *Résumé af en Integrationstheori*. A Danish résumé of an integration theory.
+- **1880:** *Zur Theorie der Flächen konstanter Krümmung. III*. Third paper in the sequence.
+- **1880:** *Geometriske Meddelelser*. Another generically titled communication, distinct from the 1879 text.
+- **1880:** *Zur Theorie der Flächen konstanter Krümmung. IV. Bestimmung aller Flächen konstanter Krümmung durch successive Quadraturen*. A procedural classification by successive quadratures.
+- **1881:** *Zur Theorie der Flächen konstanter Krümmung. V*. Fifth paper in the sequence.
+- **1881:** *Mathematiske Sætninger*. A collection of propositions.
+- **1881:** *Diskussion der Differentialgleichung d²z/dxdy = F(z)*. A study of a particular differential-equation family.
+- **1881:** *Transformationstheorie der partiellen Differentialgleichung s² − rt = (1+p²+q²)²/a²*. A transformation-theoretic study.
+- **1881:** *Über die Integration durch bestimmte Integrale von einer Klasse linearer partieller Differentialgleichungen*. A paper giving an integral method.
+- **1881:** *Om algebraiske Differentialligninger, der tilstede infinitesimale Transformationer*. A communication on algebraic differential equations admitting infinitesimal transformations.
+- **1882:** *Bestimmung aller Raumkurven, deren Krümmungsradius, Torsionsradius und Bogenlänge durch eine beliebige Relation verknüpft sind*. A classification of space curves.
+- **1882:** *Untersuchungen über Differentialgleichungen. I*. First numbered investigation.
+- **1882:** *Meddelelse*. A communication whose source supplies no more distinctive title.
+- **1882:** *Untersuchungen über Differentialgleichungen. II*. Second numbered investigation.
+- **1883:** *Untersuchungen über Differentialgleichungen. III*. Third numbered investigation.
+- **1883:** *Untersuchungen über Differentialgleichungen. IV*. Fourth numbered investigation.
+- **1883:** *Sætninger*. A short group of propositions.
+- **1888:** *Zur Theorie der Berührungstransformationen*. A later systematic paper.
+- **1891:** *Die linearen homogenen gewöhnlichen Differentialgleichungen*. A paper on homogeneous linear ordinary differential equations.
+- **1893:** *Über Differentialgleichungen, die Fundamentalintegrale besitzen*. A German academy paper.
+- **1893:** *Sur les équations différentielles ordinaires qui possèdent des systèmes fondamentaux d’intégrales*. A separate French announcement of closely related results.
+- **1893:** *Begleitwort zu E. Goursat, Leçons sur l’intégration des équations aux dérivées partielles du premier ordre*. A prefatory text attached to a translation, not an independent mathematical treatise.
+- **1895:** *Zur allgemeinen Theorie der partiellen Differentialgleichungen beliebiger Ordnung*. A four-part paper extending the theory beyond first order.
+- **1898:** *Zur Geometrie einer Mongeschen Gleichung*. A short geometric paper.
+- **1898:** *Über Berührungstransformationen und Differentialgleichungen*. A three-part late synthesis.
+
+### Transformation-group papers and programmatic texts
+
+- **1874:** *Über Gruppen von Transformationen*. Lie’s first publication devoted explicitly to transformation groups.
+- **1876:** *Theorie der Transformationsgruppen. Erste Abhandlung*. First paper of the original serial project.
+- **1876:** *Theorie der Transformationsgruppen. Abhandlung II*. Second paper.
+- **1878:** *Theorie der Transformationsgruppen. III. Bestimmung aller Gruppen einer zweifach ausgedehnten Punktmannigfaltigkeit*. Third paper and a classification.
+- **1878:** *Theorie der Transformationsgruppen. Abhandlung IV*. Fourth paper.
+- **1879:** *Theorie der Transformationsgruppen. V*. Fifth paper.
+- **1880:** *Theorie der Transformationsgruppen*. A major two-part *Mathematische Annalen* paper, distinct from the earlier numbered sequence and the later books.
+- **1882:** *Über Flächen, die infinitesimale und lineare Transformationen gestatten*. A classification paper.
+- **1882:** *Meddelelse*. A short communication lacking a descriptive fixed title.
+- **1882:** *Über gewöhnliche Differentialgleichungen, die eine Gruppe von Transformationen gestatten*. A concise statement of Lie’s group-theoretic integration program.
+- **1883–1884:** *Klassifikation und Integration von gewöhnlichen Differentialgleichungen zwischen x, y, die eine Gruppe von Transformationen gestatten*. A four-paper serial obra; parts I and II were later jointly manifested in *Mathematische Annalen* in 1888.
+- **1883:** *Über unendliche kontinuierliche Gruppen*. An early paper announcing the theory of infinite continuous groups.
+- **1884:** *Mathematiske Meddelelser I–III*. Three separately issued communications; the generic repeated title makes their serial relationship more informative than invented descriptive titles would be.
+- **1884–1885:** *Untersuchungen über Transformationsgruppen. I*. First extended investigation.
+- **1884:** *Meddelelse*. A separate brief communication.
+- **1884:** *Über Differentialinvarianten*. A major paper establishing differential invariants within group theory.
+- **1885:** *Über gewöhnliche lineare Differentialgleichungen*. A group-theoretic treatment of linear equations.
+- **1885:** *Allgemeine Untersuchungen über Differentialgleichungen, die eine kontinuierliche, endliche Gruppe gestatten*. A major systematic paper.
+- **1886:** *Untersuchungen über Transformationsgruppen. II*. Second extended investigation.
+- **1887:** *Die Begriffe Gruppe und Invariante*. A conceptual and programmatic essay; an English manifestation appeared in the *American Journal of Mathematics*.
+- **1888:** *Zur Theorie der Transformationsgruppen*. A further academy communication.
+- **1888:** *Beiträge zur allgemeinen Transformationstheorie*. A paper broadening the general theory.
+- **1889:** *Ein Fundamentalsatz in der Theorie der unendlichen Gruppen*. A short foundational result.
+- **1889:** *Die infinitesimalen Berührungstransformationen der Mechanik*. An application of the theory to mechanics.
+- **1889:** *Reduktion einer Transformationsgruppe auf ihre kanonische Form*. A reduction procedure.
+- **1889:** *Über irreduzible Berührungstransformationsgruppen*. A classification paper.
+- **1890:** *Neuer Beweis des zweiten Fundamentalsatzes in der Theorie der Transformationsgruppen*. A new proof, dependent in title and purpose on Lie’s earlier foundational work.
+- **1890:** *Bestimmung aller r-gliedrigen transitiven Transformationsgruppen durch ausführbare Operationen*. A constructive classification.
+- **1891:** *Die Grundlagen für die Theorie der unendlichen kontinuierlichen Transformationsgruppen. I. Abhandlung*. First foundational paper.
+- **1891:** *Die Grundlagen für die Theorie der unendlichen kontinuierlichen Transformationsgruppen. II. Abhandlung*. Second foundational paper.
+- **1892:** *Sur une application de la théorie des groupes continus à la théorie des fonctions*. A French academy announcement.
+- **1892:** *Über einige neuere gruppentheoretische Untersuchungen*. A report and intervention in contemporary group theory.
+- **1893:** *Über die Gruppe der Bewegungen und ihre Differentialinvarianten*. An application to the motion group.
+- **1894:** *Bemerkungen zu Ostwalds Prinzip des ausgezeichneten Falles*. A critical note extending beyond narrowly mathematical subject matter.
+- **1894:** *Zur Theorie der Transformationsgruppen*. A late contribution under a recurrent title.
+- **1895:** *Untersuchungen über unendliche kontinuierliche Gruppen*. A four-part memoir.
+- **1895:** *Bestimmung aller Flächen, die eine kontinuierliche Schar von projektiven Transformationen gestatten*. A geometric classification.
+- **1895:** *Verwertung des Gruppenbegriffes für Differentialgleichungen. I*. First installment of a project whose numbering promises continuation.
+- **1895:** *Influence de Galois sur le développement des mathématiques*. A historical and programmatic address.
+- **1895:** *Lie über seine aus dem Jahre 1874 herrührende Integrationstheorie*. An autobiographical clarification of priority and development; it resists classification as an ordinary research paper.
+- **1895:** *Beiträge zur allgemeinen Transformationstheorie*. A later paper sharing the 1888 title but constituting a distinct publication.
+- **1896:** *Die infinitesimalen Berührungstransformationen der Optik*. An application to optics.
+- **1896:** *Zur allgemeinen Transformationstheorie*. A general theoretical paper.
+- **1896:** *Zur Invariantentheorie der Gruppe der Bewegungen*. A continuation of the motion-group project.
+- **1897:** *Die Theorie der Integralinvarianten ist ein Korollar der Theorie der Differentialinvarianten*. A six-part argument making a strong programmatic claim.
+- **1897:** *Über Integralinvarianten und ihre Verwertung für die Theorie der Differentialgleichungen*. A four-part companion study.
+- **written before 1899; published 1902:** *Über Integralinvarianten und Differentialgleichungen*. A posthumously manifested paper; 1902 is a publication date, not a securely established date of composition.
+- **1889, 1894, 1896:** *Bemerkungen bei der Vorlegung von Arbeiten von G. Scheffers, L. Maurer, E. Study*. Three presentation remarks gathered by the collected edition as one item; they are institutional acts as well as texts.
+
+### Self-reviews and bibliographical manifestations
+
+- **1871–1885:** *Selbstanzeigen*. Lie made numerous signed or attributable self-reviews of his papers for the *Fortschritte der Mathematik*, the *Bulletin des sciences mathématiques* and the *Repertorium der literarischen Arbeiten*. The collected edition prints them beside the works they describe; they are derivative manifestations and bibliographical acts, not silently interchangeable editions of the papers.
+- **1877–1881:** *Selbstanzeigen der geometrischen und differential-equation papers*. These include notices for the dissertation sequence, minimal-surface papers, Pfaffian and integration papers, constant-curvature papers, and early transformation-group investigations. Several collected-edition entries combine multiple journal notices, so the precise count depends on whether one counts each notice or each editorially grouped item.
+- **1882–1885:** *Selbstanzeigen der Untersuchungen über Differentialgleichungen und Transformationsgruppen*. These later notices document Lie’s own public framing of his work. Their titles are usually supplied editorially from the papers reviewed rather than fixed autonomous titles.
+
+### Unfinished projects and papers from the Nachlass
+
+- **before 1899; published 1904:** *Drei Kapitel aus dem unvollendeten zweiten Bande der Geometrie der Berührungstransformationen*. Three chapters—on spatial contact transformations, transformation theory for partial differential equations, and transformations defined by two equations—survive from the projected second volume. This is explicitly an unfinished project, and its 1904 publication is an editorial manifestation rather than its date of making.
+- **dates not securely fixed; published 1960:** *Zur Theorie eines Raumes von n Dimensionen II*. A Nachlass paper; its relation to Lie’s 1871 paper is evident, but the collected edition does not justify inventing a composition date.
+- **dates not securely fixed; published 1960:** *Über partielle Differentialgleichungen zwischen vier Variabeln*. An unpublished manuscript issued in the seventh collected volume.
+- **dates not securely fixed; published 1960:** *Über partielle Gleichungen erster Ordnung mit bekannten infinitesimalen Transformationen*. A Nachlass study.
+- **dates not securely fixed; published 1960:** *Partielle Differentialgleichungen erster Ordnung mit bekannten infinitesimalen Berührungstransformationen*. A related but separately preserved manuscript.
+- **dates not securely fixed; published 1960:** *Über partielle Gleichungen erster Ordnung*. A manuscript with a generic title.
+- **dates not securely fixed; published 1960:** *Über partielle Gleichungen erster Ordnung zwischen n Variabeln*. A separate generalization.
+- **dates not securely fixed; published 1960:** *Über Differentialgleichungen, welche bekannte infinitesimale Transformationen gestatten*. A Nachlass paper.
+- **dates not securely fixed; published 1960:** *Partielle Differentialgleichungen und Pfaffsches Problem*. A manuscript joining two parts of Lie’s integration project.
+- **dates not securely fixed; published 1960:** *Zur Invariantentheorie der Berührungstransformationen*. An unpublished treatment sharing a title with published work.
+- **dates not securely fixed; published 1960:** *Über das Pfaffsche Problem*. A Nachlass study.
+- **dates not securely fixed; published 1960:** *Partielle Differentialgleichungen und Berührungstransformationen*. A manuscript synthesis.
+- **dates not securely fixed; published 1960:** *Neue Integrationsmethode eines beliebigen Pfaffschen Problems*. A procedural manuscript.
+- **dates not securely fixed; published 1960:** *Semilineare und quasilineare Differentialgleichungen 1. Ordnung und Pfaffsche Systeme*. A Nachlass paper.
+- **dates not securely fixed; published 1960:** *Verallgemeinerung der Cauchyschen Integrationstheorie der partiellen Differentialgleichungen erster Ordnung*. An unpublished generalization.
+- **dates not securely fixed; published 1960:** *Geschichtliche Bemerkungen zur allgemeinen Theorie der partiellen Differentialgleichungen erster Ordnung*. A historical-critical manuscript rather than a conventional theorem paper.
+- **dates not securely fixed; published 1960:** *Zur Geschichte der partiellen Differentialgleichungen erster Ordnung*. A second, separately preserved historical text.
+- **dates not securely fixed; published 1960:** *Über simultane Systeme, die in den unbekannten Funktionen linear und homogen sind*. A Nachlass paper.
+- **dates not securely fixed; published 1960:** *Schar von ∞³ oder ∞⁴ Kurven des Raumes, die eine Gruppe von Punkttransformationen gestattet*. A geometric group-theory manuscript.
+- **dates not securely fixed; published 1960:** *Die Transformationsgruppen einer Gleichung s − F(x,y,z) = 0*. A classification study.
+- **dates not securely fixed; published 1960:** *Die Transformationsgruppen einer Gleichung s − F(x,y,z,p,q) = 0*. Its more general companion.
+- **dates not securely fixed; published 1960:** *Über partielle Differentialgleichungen von der Form s = F(x,y,z,q)*. A specialized manuscript.
+- **dates not securely fixed; published 1960:** *Über partielle Differentialgleichungen*. A manuscript whose broad title should not be made artificially more specific.
+- **dates not securely fixed; published 1960:** *Sur les groupes continus infinis et les équations différentielles*. A French-language Nachlass paper.
+- **dates not securely fixed; published 1960:** *Zur Invariantentheorie der unendlichen Gruppen*. An unpublished invariant-theory study.
+- **dates not securely fixed; published 1960:** *Gruppentheorie, angewandt auf Geometrie*. An application-oriented manuscript.
+- **dates not securely fixed; published 1960:** *Über einen Linienkomplex im R₄*. A higher-dimensional line-geometry paper.
+- **dates not securely fixed; published 1960:** *Bestimmung der Haupttangentenkurven einer Flächenfamilie*. A geometric classification manuscript.
+- **dates not securely fixed; published 1960:** *Zur Flächentheorie*. A broadly titled surface-theory manuscript.
+- **dates not securely fixed; published 1960:** *Ausdehnung des Meusnierschen Theorems*. A generalization of Meusnier’s theorem.
+- **dates not securely fixed; published 1960:** *Neue geometrische Deutung und Verwertung des Abelschen Theorems*. A Nachlass contribution to Lie’s Abel-theorem project.
+- **dates not securely fixed; published 1960:** *Funktionalgleichungen, welche die Abelschen Integrale erster Gattung definieren*. A manuscript on functional equations.
+- **dates not securely fixed; published 1960:** *Einzelne Aufzeichnungen über Funktionalgleichungen, welche die Abelschen Integrale erster Gattung definieren*. Fragmentary notes rather than a finished paper; their resistance to being called a completed work is essential.
+- **dates not securely fixed; published 1960:** *Translations-M₃ zweiter Art im R₄*. A higher-dimensional translation-manifold study.
+- **dates not securely fixed; published 1960:** *Einzelne Aufzeichnungen zu den Translations-M₃ zweiter Art im R₄*. Fragmentary working notes associated with the preceding manuscript.
+- **dates not securely fixed; published 1960:** *Über die Plückersche Liniengeometrie*. A Nachlass paper on the geometric tradition central to Lie’s work.
+- **1886; published posthumously:** *Über den Einfluß der Geometrie auf die Entwicklung der Mathematik*. Lie’s Leipzig inaugural lecture; an address and intellectual manifesto as much as a descriptive mathematical text.
+
+### Sources
+
+- Sophus Lie, Friedrich Engel, and Poul Heegaard, eds., *Gesammelte Abhandlungen*, 7 vols. (Leipzig/Oslo, 1922–1960), especially the complete volume-by-volume tables of contents and editorial notes in the [digitized collected edition](https://dokumen.pub/sophus-lie-gesammelte-abhandlungen-i-vii-0384326196.html).
+- Sophus Lie, *Gesammelte Abhandlungen*, vol. 3, *Abhandlungen zur Theorie der Differentialgleichungen, erste Abteilung* (1922), [Wikimedia Commons scan](https://upload.wikimedia.org/wikipedia/commons/a/a8/California_Digital_Library_%28IA_gesammabhand03lierich%29.pdf).
+- Digital Mathematics Library, [retrodigitized set of Lie’s *Gesammelte Abhandlungen*](https://www.math.uni-bielefeld.de/~rehmann/DML/dml_links_author_L.html).
+- Hans Freudenthal, “Marius Sophus Lie,” *Complete Dictionary of Scientific Biography*, bibliography of original works, [online reproduction](https://www.encyclopedia.com/people/science-and-technology/mathematics-biographies/marius-sophus-lie).
+- Bernd Fritzsche, “Sophus Lie: A Sketch of His Life and Work,” *Journal of Lie Theory* 9 (1999), 1–38, [PDF](https://www.heldermann-verlag.de/jlt/jlt09/FRITZLAT2E.PDF).
+- Sigurdur Helgason, “Sophus Lie, the Mathematician,” in *Proceedings of the Sophus Lie Memorial Conference* (1994), including its bibliography of Lie’s writings, [PDF](https://math.mit.edu/~helgason/sophus-lie.pdf).
+- Ludwig Sylow, ed., *Mathematiske Meddelelser af Sophus Lie til Videnskabsselskabet fra Aarene 1869–1871* (1899), [SLUB bibliographic record](https://katalog.slub-dresden.de/en/id/0-1078418314).
+- Joël Merker, ed. and trans., *Theory of Transformation Groups I: General Properties of Continuous Transformation Groups* (modern presentation and translation), for the attribution and Engel collaboration, [arXiv record](https://arxiv.org/abs/1003.3202).

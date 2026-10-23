@@ -1,0 +1,370 @@
+## Works by Carmen Miranda
+
+### Songs she co-wrote
+
+- **1929:** *Os Home Implica Comigo*. Samba co-written with Pixinguinha and recorded by Miranda; it is one of the rare compositions for which the discography credits her as an author.
+- **1929:** *Por Ti Estou Presa*. Song co-written with Josué de Barros and recorded by Miranda. The exact division of words and music is not specified in the consulted discography.
+
+### Recorded vocal manifestations
+
+The Discografia Brasileira indexes 256 distinct song-title entries for Miranda. These are performances she made into phonographic manifestations, not—except for the two co-written songs separated above—compositions authored by her. Its title index merges alternate takes and repeated recordings, includes unidentified soundtrack fragments, and does not supply a date for every entry; consequently undated entries below are not assigned invented dates.
+
+- *…Talking…*. Unidentified spoken recorded fragment; it resists classification as a song.
+- *2 x 2*. Vocal-recording manifestation.
+- *A Mulhé Quando Não Qué*. Vocal-recording manifestation.
+- *A Nossa Vida Hoje É Diferente*. Vocal-recording manifestation.
+- *A Pensão da Dona Stella*. Vocal-recording manifestation.
+- *A Preta do Acarajé*. Vocal-recording manifestation.
+- *A Vizinha das Vantagens*. Vocal-recording manifestation.
+- *Absolutamente*. Vocal-recording manifestation.
+- *Adeus Batucada*. Vocal-recording manifestation.
+- *Adeus! Adeus!*. Vocal-recording manifestation.
+- *Agora Não*. Vocal-recording manifestation.
+- *Alô, Alô Carnaval*. Vocal-recording manifestation.
+- *Alô, Alô?*. Vocal-recording manifestation.
+- *Alvorada*. Vocal-recording manifestation.
+- *Amor Ideal*. Vocal-recording manifestation.
+- *Amor! Amor!*. Vocal-recording manifestation.
+- *Anoiteceu*. Vocal-recording manifestation.
+- *Ao Voltar do Samba*. Vocal-recording manifestation.
+- *As Cinco Estações do Ano*. Ensemble vocal-recording manifestation.
+- *Assim Sim*. Vocal-recording manifestation.
+- *Baiana do Tabuleiro*. Vocal-recording manifestation.
+- *Balancê*. Vocal-recording manifestation.
+- *Balão que Muito Sobe*. Vocal-recording manifestation.
+- *Bamboleô*. Vocal-recording manifestation.
+- *Batalhão do Amor*. Vocal-recording manifestation.
+- *Beijo Bamba*. Vocal-recording manifestation.
+- *Benzinho*. Vocal-recording manifestation.
+- *Blaque-Blaque*. Vocal-recording manifestation.
+- *Bom Dia, Meu Amor*. Vocal-recording manifestation.
+- *Boneca de Pixe*. Duet vocal-recording manifestation.
+- *Bruxinha de Pano*. Vocal-recording manifestation.
+- *Burucuntum*. Vocal-recording manifestation.
+- *Cabaret no Morro*. Vocal-recording manifestation.
+- *Cachorro Vira-Lata*. Vocal-recording manifestation.
+- *Cai, Cai*. Vocal-recording manifestation.
+- *Camisa Listada*. Vocal-recording manifestation.
+- *Candieiro*. Vocal-recording manifestation.
+- *Canjiquinha Quente*. Vocal-recording manifestation.
+- *Cantores do Rádio*. Ensemble vocal-recording manifestation.
+- *Capelinha do Coração*. Vocal-recording manifestation.
+- *Carnavá Tá Aí*. Vocal-recording manifestation.
+- *Cartão de Visita*. Vocal-recording manifestation.
+- *Casaquinho de Tricot*. Vocal-recording manifestation.
+- *Chattanooga Choo Choo*. Portuguese-version vocal manifestation.
+- *Chegou a Hora da Fogueira*. Vocal-recording manifestation.
+- *Comigo Não*. Vocal-recording manifestation.
+- *Como “Vais” Você?*. Vocal-recording manifestation.
+- *Como Eu Chorei*. Vocal-recording manifestation.
+- *Cor de Guiné*. Vocal-recording manifestation.
+- *Coração*. Vocal-recording manifestation.
+- *Cozinheira Granfina*. Vocal-recording manifestation.
+- *Cuíca, Pandeiro, Tamborim…*. Vocal-recording manifestation.
+- *Cuidado com a Gaita do Ary*. Vocal-recording manifestation.
+- *Dance Rumba*. Vocal-recording manifestation.
+- *De Quem Eu Gosto*. Vocal-recording manifestation.
+- *Deixa Comigo*. Vocal-recording manifestation.
+- *Deixa Disso*. Vocal-recording manifestation.
+- *Deixa Esse Povo Falar*. Vocal-recording manifestation.
+- *Deixa Falar*. Vocal-recording manifestation.
+- *Dia de Natal*. Vocal-recording manifestation.
+- **1940:** *Disseram que Voltei Americanizada*. Recorded samba performance whose first-person theatrical persona should not be mistaken for literal autobiography or sole authorship.
+- **1940:** *Disso É que Eu Gosto*. Vocal-recording manifestation.
+- **1940:** *Diz que Tem*. Vocal-recording manifestation.
+- **1929:** *Dona Balbina*. Early Victor vocal-recording manifestation; sources disagree over whether the preceding Brunswick disc or this Victor session should be called Miranda’s recording debut.
+- *Dona Geisha*. Vocal-recording manifestation.
+- *Dou-lhe Uma…*. Vocal-recording manifestation.
+- *Duvi-d-ó-dó*. Vocal-recording manifestation.
+- *E a Festa, Maria?*. Vocal-recording manifestation.
+- *E Bateu-se a Chapa*. Vocal-recording manifestation.
+- *É de Trampolim*. Vocal-recording manifestation.
+- *E Depois*. Vocal-recording manifestation.
+- *E o Mundo Não se Acabou*. Vocal-recording manifestation.
+- **1940:** *É um Quê que a Gente Tem*. Vocal-recording manifestation.
+- *Em Tudo, Menos em Ti*. Vocal-recording manifestation.
+- *Endereço Errado*. Vocal-recording manifestation.
+- *Entra no Cordão*. Vocal-recording manifestation.
+- *Escrevi um Bilhetinho*. Vocal-recording manifestation.
+- *Espere que Eu Preciso Me Pintar*. Vocal-recording manifestation.
+- *Esqueci de Sorrir*. Vocal-recording manifestation.
+- *Essa Cabrocha*. Vocal-recording manifestation.
+- *Esta Vida É Muito Engraçada*. Vocal-recording manifestation.
+- *ETC*. Vocal-recording manifestation.
+- *Eu Dei*. Vocal-recording manifestation.
+- *Eu Gosto da Minha Terra*. Vocal-recording manifestation.
+- *Eu Queria Ser Ioiô*. Vocal-recording manifestation.
+- *Eu Quero Casar com Você*. Vocal-recording manifestation.
+- *Eu Quero Te Dar um Beijo*. Vocal-recording manifestation.
+- *Eu Sou do Barulho*. Vocal-recording manifestation.
+- *Eu Também*. Vocal-recording manifestation.
+- *Fala Meu Bem*. Vocal-recording manifestation.
+- *Fala Meu Pandeiro*. Vocal-recording manifestation.
+- *Fanfare*. Unidentified recorded soundtrack fragment rather than a securely titled song.
+- *Fanfare-song*. Unidentified recorded soundtrack fragment; its catalogue label is descriptive, not necessarily an original title.
+- *Feitiço Gorado*. Vocal-recording manifestation.
+- *Fogueira do Meu Coração*. Vocal-recording manifestation.
+- *Foi Ele, Foi Ela*. Vocal-recording manifestation.
+- *Foi Embora pra Europa*. Vocal-recording manifestation.
+- *Foi Numa Noite Assim*. Vocal-recording manifestation.
+- *Fon-Fon*. Vocal-recording manifestation.
+- *Fruto Proibido*. Vocal-recording manifestation.
+- *Gente Bamba*. Vocal-recording manifestation.
+- **1940:** *Ginga-Ginga*. Vocal-recording manifestation.
+- *Gira!*. Vocal-recording manifestation.
+- *Give Me a Band and a Bandana*. English-language vocal manifestation; the title index leaves its composers unidentified.
+- *Good Bye*. Vocal-recording manifestation.
+- *Gostinho Diferente*. Vocal-recording manifestation.
+- *Honrando um Nome de Mulher*. Vocal-recording manifestation.
+- *I Like to Be Loved by You*. English-language vocal manifestation.
+- *I Make My Money with Bananas*. English-language vocal manifestation.
+- **1941:** *I, Yi, Yi, Yi, Yi*. English-language vocal manifestation recorded with Bando da Lua.
+- *I’m Cooking with Glass*. English-language vocal manifestation.
+- *I’m Just Wild About Harry*. English-language vocal manifestation incorporating a Portuguese version by Aloysio de Oliveira.
+- *Iaiá, Ioiô*. Vocal-recording manifestation.
+- *Imperador do Samba*. Vocal-recording manifestation.
+- *Inconstitucionalissimamente*. Vocal-recording manifestation.
+- *Isola! Isola!*. Vocal-recording manifestation.
+- *Isso Não se Atura*. Vocal-recording manifestation.
+- *Isto É Lá com Santo Antônio*. Vocal-recording manifestation.
+- *Lua Amiga*. Vocal-recording manifestation.
+- *Malandro*. Vocal-recording manifestation.
+- **1939:** *Mamãe Eu Quero*. Portuguese-language vocal manifestation subsequently performed in Miranda’s American career.
+- *Mamãe Não Quer*. Vocal-recording manifestation.
+- *Me Dá, Me Dá*. Vocal-recording manifestation.
+- *Me Dá, Me Dá no Chang-Lang*. Vocal-recording manifestation.
+- *Me Respeite… Ouviu?*. Vocal-recording manifestation.
+- *Meu Balão Subiu… Subiu…*. Vocal-recording manifestation.
+- *Meu Rádio e Meu Mulato*. Vocal-recording manifestation.
+- *Minha Embaixada Chegou*. Vocal-recording manifestation.
+- *Minha Terra Tem Palmeiras*. Vocal-recording manifestation.
+- *Miss Sertão*. Vocal-recording manifestation.
+- *Moleque Indigesto*. Vocal-recording manifestation.
+- *Moreno Batuqueiro*. Vocal-recording manifestation.
+- *Mulatinho Bamba*. Vocal-recording manifestation.
+- *Mulato Anti-Metropolitano*. Vocal-recording manifestation.
+- *Mulato de Qualidade*. Vocal-recording manifestation.
+- *Na Bahia*. Vocal-recording manifestation.
+- **1938:** *Na Baixa do Sapateiro*. Vocal-recording manifestation of Ary Barroso’s song.
+- **1934:** *Na Batucada da Vida*. Vocal-recording manifestation.
+- *Não Durmo em Paz*. Vocal-recording manifestation.
+- *Não Fui Eu*. Vocal-recording manifestation.
+- *Não Há Razão para Haver Barulho*. Vocal-recording manifestation.
+- *Não se Deve Lamentar*. Vocal-recording manifestation.
+- *Não Tens Razão*. Vocal-recording manifestation.
+- **1929:** *Não Vá Simbora*. Brunswick vocal-recording manifestation commonly identified as part of Miranda’s first disc; the debut chronology is not entirely consistent across later accounts.
+- *Nas Cadeiras da Baiana*. Vocal-recording manifestation.
+- *Neguinho*. Vocal-recording manifestation.
+- *Neguinho (Série Brasilidade)*. Separately indexed recorded manifestation of *Neguinho*.
+- *Nem no Sétimo Dia*. Vocal-recording manifestation.
+- *Ninguém Tem um Amor Igual ao Meu*. Vocal-recording manifestation.
+- *Ninho Deserto*. Vocal-recording manifestation.
+- *No Frevo do Amor*. Vocal-recording manifestation.
+- **1936:** *No Tabuleiro da Baiana*. Duet recording with Luís Barbosa.
+- *Nosso Amô Veio d’Um Sonho*. Vocal-recording manifestation.
+- *Nosso Amor Não Foi Assim*. Vocal-recording manifestation.
+- *Nova Descoberta*. Vocal-recording manifestation.
+- *Novo Amor*. Vocal-recording manifestation.
+- *O Castigo Hás de Encontrar*. Vocal-recording manifestation.
+- **1940:** *O Dengo que a Nega Tem*. Vocal-recording manifestation.
+- *O Desprezo É Minha Arma*. Vocal-recording manifestation.
+- *O Meu Amor Tem*. Vocal-recording manifestation.
+- *O Nego no Samba*. Vocal-recording manifestation.
+- **1939:** *O Que É que a Baiana Tem?*. Vocal recording with its composer Dorival Caymmi; Miranda’s film and stage embodiment of the number made it simultaneously song performance, costume event, dance and star image.
+- *O Que É que Você Fazia?*. Vocal-recording manifestation.
+- *O Samba e o Tango*. Vocal-recording manifestation.
+- *Ô…*. Vocal-recording manifestation.
+- *Onde É que Você Anda?*. Vocal-recording manifestation.
+- *Onde Vai Você, Maria?*. Vocal-recording manifestation.
+- *Os Home Implica Comigo*. Vocal manifestation of the song co-written by Miranda and Pixinguinha.
+- *Paducah*. English-language vocal manifestation.
+- *Paga Quem Deve*. Vocal-recording manifestation.
+- *Para um Samba de Cadência*. Vocal-recording manifestation.
+- *Paris*. Vocal-recording manifestation.
+- *Pelo Amor Daquela Ingrata*. Vocal-recording manifestation.
+- *Perdi Minha Mascote*. Vocal-recording manifestation.
+- *Piaçaba pra Vassoura*. Vocal-recording manifestation.
+- *Pois Sim, Pois Não!*. Vocal-recording manifestation.
+- *Polichinelo*. Vocal-recording manifestation.
+- *Por Amor a Este Branco*. Vocal-recording manifestation.
+- *Por Causa de Você*. Vocal-recording manifestation.
+- *Por Especial Favor*. Vocal-recording manifestation.
+- *Por Ti Estou Presa*. Vocal manifestation of Miranda’s song with Josué de Barros.
+- *Pra Fazer Você Chorar*. Vocal-recording manifestation.
+- *Pra Quem Sabe Dar Valor*. Vocal-recording manifestation.
+- *Preto e Branco*. Vocal-recording manifestation.
+- *Primavera*. Vocal-recording manifestation.
+- *Primavera da Vida*. Vocal-recording manifestation.
+- **1934:** *Primavera no Rio*. Vocal-recording manifestation later performed in *Alô, Alô, Brasil*.
+- *Quando a Saudade Apertar*. Vocal-recording manifestation.
+- *Quando Eu Penso na Bahia*. Vocal-recording manifestation.
+- *Quando Me Lembro*. Vocal-recording manifestation.
+- *Quando Você Morrer*. Vocal-recording manifestation.
+- *Quantas Lágrimas*. Vocal-recording manifestation.
+- *Quanto Le Gusta*. Vocal manifestation for which the consulted title index supplies no composer attribution.
+- *Que Baixo*. Vocal-recording manifestation.
+- *Que Bom que Estava*. Vocal-recording manifestation.
+- *Queixas de Colombina*. Vocal-recording manifestation.
+- *Quem Canta Seus Males Espanta*. Vocal-recording manifestation.
+- *Quem Condena a Batucada*. Vocal-recording manifestation.
+- *Quem É?*. Vocal-recording manifestation.
+- **1935:** *Querido Adão*. Vocal-recording manifestation also performed in *Alô, Alô, Carnaval*.
+- *Quero Ficar Mais um Pouquinho*. Vocal-recording manifestation.
+- *Rancor*. Vocal-recording manifestation.
+- **1941:** *Rebola a Bola*. Vocal-recording manifestation with Bando da Lua.
+- *Recadinho de Papai Noel*. Vocal-recording manifestation.
+- **1940:** *Recenseamento*. Vocal-recording manifestation.
+- *Reminiscência Triste*. Vocal-recording manifestation.
+- *Retiro da Saudade*. Vocal-recording manifestation.
+- *Roda Pião*. Vocal-recording manifestation.
+- *Roseira Branca*. Vocal-recording manifestation.
+- *Sai da Toca, Brasil*. Vocal-recording manifestation.
+- *Salada Mista*. Vocal-recording manifestation.
+- *Samba*. Vocal-recording manifestation.
+- **1938:** *Samba Rasgado*. Vocal-recording manifestation.
+- *Sambista da Cinelândia*. Vocal-recording manifestation.
+- *Sapateia no Chão*. Vocal-recording manifestation.
+- *Sapatinho da Vida*. Vocal-recording manifestation.
+- *Saudade de Você*. Vocal-recording manifestation.
+- *Se Gostares do Batuque*. Vocal-recording manifestation.
+- **1929:** *Se o Samba É Moda*. Choro recorded for Brunswick and commonly coupled with *Não Vá Simbora* on Miranda’s first disc.
+- *Se Você Quer*. Vocal-recording manifestation.
+- *Será Você*. Vocal-recording manifestation.
+- *Sonhei que Era Feliz*. Vocal-recording manifestation.
+- **1935:** *Sonho de Papel*. Vocal-recording manifestation.
+- **1955:** *Sorrisos*. Televised vocal manifestation of Paulo Vanzolini’s song rather than a commercial 78-rpm issue.
+- *Sou da Pontinha*. Vocal-recording manifestation.
+- **1930:** *Taí (Pra Você Gostar de Mim)*. Victor recording of Joubert de Carvalho’s march and Miranda’s breakthrough phonographic manifestation.
+- *Tão Grande, Tão Bobo*. Vocal-recording manifestation.
+- *Tarde na Serra*. Vocal-recording manifestation.
+- *Tem Gente Aí*. Vocal-recording manifestation.
+- *Tempo Perdido*. Vocal-recording manifestation.
+- *Tenho um Novo Amor*. Vocal-recording manifestation.
+- *Tenho um Novo Namorado*. Vocal-recording manifestation.
+- *Terra Morena*. Vocal-recording manifestation.
+- **1943:** *The Lady with the Tutti-Frutti Hat*. Film-performance manifestation in *The Gang’s All Here*; its music, choreography, costume and cinematic construction make the number closer to a collaborative Gesamtkunstwerk than to a song authored by Miranda.
+- **1939:** *The South American Way*. English-language recording with Bando da Lua and Garoto.
+- **1935:** *Tic-Tac do Meu Coração*. Vocal-recording manifestation.
+- **1945:** *Tico-Tico no Fubá*. Vocal manifestation of Zequinha de Abreu’s instrumental composition, recorded with Bando da Lua.
+- *Tome Mais um Chopp*. Vocal-recording manifestation.
+- **1938:** *Touradas em Madri*. Vocal-recording manifestation subsequently used in Miranda’s international act.
+- **1929:** *Triste Jandaia*. Early Victor vocal-recording manifestation.
+- *Triste Sambista*. Vocal-recording manifestation.
+- *Um Pouquinho de Amor*. Vocal-recording manifestation.
+- **1939:** *Uva de Caminhão*. Vocal-recording manifestation.
+- *Veneno pra Dois*. Vocal-recording manifestation.
+- *Vingança*. Vocal-recording manifestation.
+- *Vira pra Cá*. Vocal-recording manifestation.
+- *Você Está Aí pra Isso?*. Vocal-recording manifestation.
+- *Você Não Tem Pena*. Vocal-recording manifestation.
+- *Você Nasceu pra Ser Granfina*. Vocal-recording manifestation.
+- **1940:** *Voltei pro Morro*. Vocal-recording manifestation.
+- *Vou Espalhando por Aí*. Vocal-recording manifestation.
+- **1941:** *Weekend in Havana*. English-language vocal manifestation associated with the film of the same name.
+- *When I Love, I Love*. English-language vocal manifestation.
+- *Ya Canta el Gallo*. Spanish-language vocal manifestation.
+- *Yi Boom Voom!*. Vocal manifestation whose composers are unidentified in the consulted title index.
+- *Yipsee-i-o, I Like West, Best!*. English-language vocal manifestation.
+
+### Feature-film performances
+
+These films were not authored or directed by Miranda. Each entry is therefore a collaborative screen manifestation in which she made a role, musical performance and star image; calling the entire film “her work” without qualification would overstate her authorship.
+
+- **1926:** *A Esposa do Solteiro*. Possible uncredited appearance. The attribution is reported in a scholarly filmography but is not secure.
+- **1929:** *Barro Humano*. Miranda may have appeared as an extra, according to Ruy Castro; the attribution remains disputed.
+- **1930:** *Degraus da Vida*. Unfinished film associated with a possible Miranda appearance; as an unrealized project it resists treatment as a completed film work.
+- **1932:** *O Carnaval Cantado de 1932*. Musical film manifestation in which Miranda appeared as herself.
+- **1933:** *A Voz do Carnaval*. Musical film manifestation in which Miranda appeared as herself; the film is considered lost.
+- **1935:** *Alô, Alô, Brasil*. Musical film manifestation in which Miranda appeared as herself.
+- **1935:** *Estudantes*. Screen performance as Mimi, one of Miranda’s comparatively rare fictional Brazilian roles.
+- **1936:** *Alô, Alô, Carnaval*. Musical film manifestation in which Miranda appeared as herself; unlike most of her Brazilian films, it survives in restored form.
+- **1939:** *Banana da Terra*. Musical film manifestation in which Miranda introduced her screen baiana persona. Most of the film is lost, so the surviving number is only a fragmentary manifestation of the original work.
+- **1940:** *Laranja da China*. Musical film manifestation in which Miranda appeared as herself.
+- **1940:** *Down Argentine Way*. Screen and musical performance as herself; Miranda’s first American feature and first of ten features made for Twentieth Century-Fox.
+- **1941:** *That Night in Rio*. Screen and musical performance as Carmen.
+- **1941:** *Week-End in Havana*. Screen and musical performance as Rosita Rivas.
+- **1942:** *Springtime in the Rockies*. Screen and musical performance as Rosita Murphy.
+- **1943:** *The Gang’s All Here*. Screen and musical performance as Dorita; Busby Berkeley’s staging, Miranda’s performance and her spectacular costume image make its musical numbers collaborative Gesamtkunstwerke.
+- **1944:** *Four Jills in a Jeep*. Screen manifestation in which Miranda played herself.
+- **1944:** *Greenwich Village*. Screen and musical performance as Princess Querida O’Toole.
+- **1944:** *Something for the Boys*. Screen and musical performance as Chiquita Hart.
+- **1945:** *Doll Face*. Screen and musical performance as Chita Chula.
+- **1946:** *If I’m Lucky*. Screen and musical performance as Michelle O’Toole; Miranda’s final Twentieth Century-Fox feature.
+- **1947:** *Copacabana*. Dual screen performance as Carmen Novarro and Mademoiselle Fifi; her first feature after leaving Fox.
+- **1948:** *A Date with Judy*. Screen and musical performance as Rosita Cochellas.
+- **1950:** *Nancy Goes to Rio*. Screen and musical performance as Marina Rodrigues.
+- **1953:** *Scared Stiff*. Screen and musical performance as Carmelita Castinha; Miranda’s final feature film.
+
+### Short-film manifestations
+
+- **1941:** *Hollywood Meets the Navy*. Short-subject appearance as herself.
+- **1945:** *Sing with the Stars*. Army Pictorial Service short-subject performance as herself.
+- **1945:** *The All-Star Bond Rally*. Short wartime bond-film appearance as a pin-up figure; this is an appearance within a collective production, not an authored Miranda work.
+- **1954:** *Hollywood Goes to War*. Short-film appearance as herself; the filmography’s title does not establish whether the material was newly performed or compiled.
+
+### Broadway projects and performance-works
+
+- **1939–1940:** *The Streets of Paris*. Broadway revue in which Miranda and Bando da Lua made their United States stage debut. It was a collective theatrical production rather than a text or solely authored Miranda obra.
+- **1941–1942:** *Sons o’ Fun*. Broadway revue featuring Miranda. Her contribution was an embodied performance-work within a collectively authored theatrical project.
+
+### Designed performance persona and costumes
+
+- **Before 1929:** *Women’s hats made in Rio de Janeiro*. Material objects made while Miranda worked in a hat shop and then operated a small hat business. No catalogue raisonné of individual hats, secure titles or dates was located, so inventing object-level entries would be misleading.
+- **1935:** *Tailcoats, top hats and trousers for “Cantores do Rádio”*. Costumes credited to Miranda for her and Aurora Miranda’s performance in *Alô, Alô, Carnaval*; these are designed performance objects rather than texts.
+- **1938–1939 onward:** *The stylized baiana performance persona*. A continuing, repeatedly remade Gesamtkunstwerk combining dress, platform footwear, jewelry, turban, gesture, dance, voice and song. It first became a screen object in *Banana da Terra*, but no single version exhausts the project and many individual costumes lack stable titles or a complete catalogue.
+
+### Radio and television manifestations
+
+These are documented appearances, not a complete catalogue of everything Miranda broadcast. Many live programs were ephemeral, episode titles are inconsistent, and survival of a recording is not guaranteed; the incompleteness therefore cannot responsibly be concealed.
+
+- **1939:** *The Rudy Vallée Show* (29 June and 17 August). Two radio-performance manifestations.
+- **1939:** *The Fred Allen Show* (4 October). Radio-performance manifestation.
+- **1941:** *Rudy Vallee Varieties* (22 May). Radio-performance manifestation.
+- **1942:** *Command Performance* (29 March and 4 August). Two wartime radio-performance manifestations.
+- **1942:** *Treasury Star Parade*. Radio-performance manifestation; the consulted filmography does not supply an episode date.
+- **1942:** *Hello Americans: Brazil*. Radio-performance manifestation within Orson Welles’s series.
+- **1943:** *Command Performance: Tribute to the British Army*. Wartime radio-performance manifestation.
+- **1944:** *Command Performance* (8 January and 25 March). Two wartime radio-performance manifestations.
+- **1944:** *Lux Radio Theatre: Springtime in the Rockies*. Radio adaptation and performance manifestation.
+- **1944:** *Jubilee* (26 June). Radio-performance manifestation.
+- **1945:** *Mail Call* (10 January). Radio-performance manifestation.
+- **1945:** *National Radio Hall of Fame: Breakfast in Hollywood*. Radio-performance manifestation.
+- **1945:** *Which Is Which* (31 January). Radio-performance manifestation.
+- **1945:** *Command Performance* (1 February). Wartime radio-performance manifestation.
+- **1945:** *The Danny Kaye Show* (15 February). Radio-performance manifestation.
+- **1946:** *The Fred Allen Show* (10 March). Radio-performance manifestation.
+- **1946:** *Here’s to Veterans: First Song Sioux City Sue*. Radio-performance manifestation.
+- **1946:** *Command Performance* (30 June). Radio-performance manifestation.
+- **1947:** *The Ford Show* (2 April). Radio-performance manifestation.
+- **1947:** *The Chase and Sanborn Hour* (23 November). Radio-performance manifestation.
+- **1948:** *Texaco Star Theatre* (5 October). Television-performance manifestation.
+- **1949:** *Texaco Star Theatre* (18 January). Television-performance manifestation.
+- **1949:** *Erskine Johnson’s Hollywood Reel*. Television appearance; the consulted filmography supplies no episode date.
+- **1949:** *The Ed Wynn Show* (29 September). Television-performance manifestation.
+- **1950:** *Texaco Star Theatre* (21 November). Television-performance manifestation.
+- **1950:** *The Hedda Hopper Show* (10 December). Radio-performance manifestation.
+- **1951:** *TV Club* (28 February). Television-performance manifestation.
+- **1951:** *Four Star Revue* (21 March). Television-performance manifestation.
+- **1951:** *The Big Show* (25 March). Radio-performance manifestation.
+- **1951:** *Texaco Star Theatre* (6 November). Television-performance manifestation.
+- **1951:** *What’s My Line?* (18 November). Television appearance as herself; principally a game-show performance rather than a musical work.
+- **1951:** *The Colgate Comedy Hour* (16 December). Television-performance manifestation.
+- **1952:** *The Colgate Comedy Hour* (24 February). Television-performance manifestation.
+- **1952:** *Texaco Star Theatre* (23 September). Television-performance manifestation.
+- **1953:** *Four Star Revue* (7 March). Television-performance manifestation.
+- **1953:** *Toast of the Town* (13 September). Television-performance manifestation.
+- **1955:** *The Jimmy Durante Show*. Miranda’s final filmed performance, recorded on 4 August and broadcast posthumously on 15 October. Dating it solely by the broadcast date would conceal that it was made the day before her death.
+
+### Sources
+
+- Maria Luiza Amaral Kfouri, [Discografia Brasileira: Carmen Miranda — músicas gravadas](https://discografia.discosdobrasil.com.br/interprete/carmen-miranda/musicas). This discographical database, not a library catalogue, supplies the 256-entry title corpus and composer attributions; its title-level aggregation is why alternate takes and issues are not falsely presented here as separate works.
+- Maria Luiza Amaral Kfouri, [Discografia Brasileira: Carmen Miranda](https://discografia.discosdobrasil.com.br/interprete/carmen-miranda). Performer authority record and discography.
+- Abel Cardoso Júnior, *Carmen Miranda: a cantora do Brasil* (São Paulo: privately published, 1978). The foundational specialist biography/discography; its film research is cited for the unfinished *Degraus da Vida* attribution.
+- [“Mestre-escola faz lista geral: discos de Carmen Miranda,” *Luta Democrática*](https://hemeroteca-pdf.bn.gov.br/030678/per030678_1974_06248.pdf), 1974. Contemporary account of Cardoso Júnior’s discographical research, reporting 141 Brazilian 78-rpm discs and identifying the Brunswick and Victor debut recordings.
+- Ruy Castro, *Carmen: uma biografia* (São Paulo: Companhia das Letras, 2005). Consulted through the filmography’s attribution notes, especially for the disputed possible appearance in *Barro Humano*.
+- [Carmen Miranda filmography](https://en.wikipedia.org/wiki/Carmen_Miranda_filmography). Consolidated film, short-subject, radio, television and stage checklist with citations to Abel Cardoso Júnior, Ruy Castro, Ana Rita Mendonça, Martha Gil-Montero, Dan Dietz and other specialist sources; used as a finding and reconciliation aid rather than as a discography.
+- Instituto Carmen Miranda, [Cinema](https://carmenmiranda.com.br/carreira/cinema/) and [Linha do tempo](https://carmenmiranda.com.br/historia/linha-do-tempo/). Institutional career chronology used to check Brazilian films, recordings, costumes and the emergence of the baiana persona.
+- Smithsonian National Museum of American History, [Carmen Miranda Collection, Series 7: Recordings, Audiovisual Materials, Motion Picture Films, and Photographs](https://sirismm.si.edu/EADpdfs/NMAH.AC.0750.pdf). Archival finding aid documenting surviving sound, film and audiovisual manifestations.
+- Tânia da Costa Garcia, *O “it verde e amarelo” de Carmen Miranda (1930–1946)*. Scholarly study cited by the consolidated filmography for the disputed 1926 appearance.
+- Martha Gil-Montero, *Brazilian Bombshell: The Biography of Carmen Miranda* (New York: Donald I. Fine, 1989). Biographical source for the performance career and final television appearance.
+- Ana Rita Mendonça, *Carmen Miranda foi a Washington* (Rio de Janeiro: Record, 1999). Specialist source for film, wartime short subjects and Miranda’s constructed performance image.

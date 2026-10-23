@@ -1,0 +1,252 @@
+## Works by Leslie Barry Lamport
+
+### Mathematical, technical, and scientific writings
+
+- **1957:** *Braid Theory*. A jointly authored high-school mathematics article; Lamport identifies it as his first publication. [MW 1]
+- **October 1966:** *Summer Vision Programs*. A Project MAC memorandum documenting computer-vision programs Lamport wrote at MIT. [MW 2]
+- **December 1966:** *Preliminary User’s Guide to Monitor 1*. With Roland Silver; a manual for the Phoenix computer’s operating system, apparently written principally by Silver from their shared work. [MW 3]
+- **circa 1967:** *Untitled Draft of Advanced Calculus Text*. An unpublished and unfinished textbook project with no surviving electronic version. [MW 4]
+- **1969:** *The Geometry of Space and Time*. An expository article about special relativity. [MW 5]
+- **1970:** *Comment on Bell’s Quadratic Quotient Algorithm*. A short technical comment on a numerical algorithm. [MW 6]
+- **1972:** *The Analytic Cauchy Problem with Singular Data*. Lamport’s Brandeis doctoral dissertation in mathematics. [MW 7]
+- **1973:** *An Extension of a Theorem of Hamada on the Cauchy Problem with Singular Data*. A mathematical research article extending work related to his dissertation. [MW 8]
+- **1973:** *The Coordinate Method for the Parallel Execution of DO Loops*. A report presenting a method for parallelizing iterative computations. [MW 9]
+- **1974:** *The Parallel Execution of DO Loops*. A journal article refining the coordinate method for parallel execution. [MW 10]
+- **1974:** *The Hyperplane Method for an Array Computer*. A parallel-computing paper. [MW 11]
+- **1974:** *A New Solution of Dijkstra’s Concurrent Programming Problem*. The paper introducing the bakery mutual-exclusion algorithm; it is simultaneously an article, an algorithmic obra, and a protocol for coordinating processes. [MW 12]
+- **5 December 1974:** *On Self-stabilizing Systems*. An unpublished technical note generalizing a Dijkstra algorithm; Lamport says one suggested bounded bakery variant was never written down or rigorously proved. [MW 13]
+- **1975:** *On Programming Parallel Computers*. A position paper advocating higher-level declarative descriptions for parallel computation. [MW 14]
+- **1975:** *Parallel Execution on Array and Vector Computers*. A conference paper about scheduling explicitly parallel statements. [MW 15]
+- **August 1975:** *Multiple Byte Processing with Full-Word Instructions*. An article describing packed-data parallelism. [MW 16]
+- **1976:** *The Synchronization of Independent Processes*. A generalization of bakery-style synchronization to broader constraint problems. [MW 17]
+- **January 1976:** *Comments on “A Synchronization Anomaly”*. A corrective technical note about what a system can observably specify. [MW 18]
+- **1976:** *Garbage Collection with Multiple Processes: an Exercise in Parallelism*. A conference paper and concurrent garbage-collection algorithm. [MW 19]
+- **1976:** *The Coordinate Method for the Parallel Execution of Iterative Loops*. A further account of Lamport’s loop-parallelization method. [MW 20]
+- **1976:** *Towards a Theory of Correctness for Multi-User Data Base Systems*. An early attempt to formulate database correctness. [MW 21]
+- **1976:** *On the Glitch Phenomenon*. A paper about metastability and the impossibility of completely reliable arbitration. [MW 22]
+- **1977:** *Proving the Correctness of Multiprocess Programs*. A foundational paper on assertional proofs for concurrent programs. [MW 23]
+- **1977:** *Formal Correctness Proofs for Multiprocess Algorithms*. A companion exposition of concurrent-program verification. [MW 24]
+- **1977:** *Concurrent Reading and Writing*. An article about constructing reliable multi-digit operations from smaller atomic operations. [MW 25]
+- **1977:** *State the Problem Before Describing the Solution*. A one-page methodological manifesto about specification preceding implementation. [MW 26]
+- **July 1978:** *Time, Clocks, and the Ordering of Events in a Distributed System*. A paper defining logical clocks and causal ordering and presenting a distributed state-machine protocol. [MW 27]
+- **1979:** *The Specification and Proof of Correctness of Interactive Programs*. A paper on formally specifying nonterminating interactive behavior. [MW 28]
+- **1979:** *The Implementation of Reliable Distributed Multiprocess Systems*. A report on fault-tolerant distributed-system construction. [MW 29]
+- **1978:** *SIFT: Design and Analysis of a Fault-Tolerant Computer for Aircraft Control*. With several collaborators; a system-design report whose object is an aircraft-control computer architecture rather than merely its description. [MW 30]
+- **1978:** *On-the-fly Garbage Collection: an Exercise in Cooperation*. With Edsger W. Dijkstra and others; a concurrent garbage-collection algorithm and proof. [MW 31]
+- **1979:** *A General Construction for Expressing Repetition*. A programming-language paper. [MW 32]
+- **1979:** *A New Approach to Proving the Correctness of Multiprocess Programs*. A verification paper developing Lamport’s assertional method. [MW 33]
+- **1979:** *How to Present a Paper*. A protocol for technical exposition and oral presentation. [MW 34]
+- **September 1979:** *How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs*. The article that formulates sequential consistency as a correctness condition. [MW 35]
+- **1979; published 2010:** *Constructing Digital Signatures from a One Way Function*. A research report introducing what became known as Lamport one-time signatures; its publication history is exceptionally delayed. [MW 36]
+- **1979:** *On the Proof of Correctness of a Calendar Program*. A verification note responding to claims that some specifications were impractical. [MW 37]
+- **November 1979:** *Letter to the Editor*. A polemical letter urging that published algorithms include correctness arguments. [MW 38]
+- **January 1980:** *“Sometime” is Sometimes “Not Never”*. A temporal-logic paper distinguishing linear-time from branching-time interpretations. [MW 39]
+- **1980:** *The “Hoare Logic” of Concurrent Programs*. A formal calculus for assertional reasoning about concurrent programs. [MW 40]
+- **April 1980:** *Reaching Agreement in the Presence of Faults*. With Marshall Pease and Robert Shostak; a paper establishing fundamental Byzantine-agreement bounds and algorithms. [MW 41]
+- **1980:** *Program Verification: An Approach to Reliable Hardware and Software*. A methodological exposition of formal verification. [MW 42]
+- **1981:** *Password Authentication with Insecure Communication*. A short authentication protocol using one-way functions. [MW 43]
+- **1981:** *TIMESETS—A New Method for Temporal Reasoning About Programs*. An alternative temporal-reasoning formalism. [MW 44]
+- **1981:** *Byzantine Generals and Transaction Commit Protocols*. A technical comparison linking agreement protocols to database commit. [MW 45]
+- **1982:** *The Byzantine Generals Problem*. With Robert Shostak and Marshall Pease; the canonical formulation and naming of Byzantine fault tolerance. [MW 46]
+- **1983:** *Proving Liveness Properties of Concurrent Programs*. A proof method for eventual-progress properties. [MW 47]
+- **1983:** *An Assertional Correctness Proof of a Distributed Program*. A worked formal proof. [MW 48]
+- **1983:** *Reasoning About Nonatomic Operations*. A paper supplying a formal framework for operations composed of smaller actions. [MW 49]
+- **1983:** *Specifying Concurrent Program Modules*. A specification method for modular concurrent programs. [MW 50]
+- **1983:** *Specification and Proof of a Fault-Tolerant Real-Time Algorithm*. With collaborators; a case study combining real-time requirements, faults, specification, and proof. [MW 51]
+- **July 1983:** *The Weak Byzantine Generals Problem*. A paper defining and solving a weakened agreement problem. [MW 52]
+- **1983:** *PHIL: A Semantic Structural Graphical Editor*. With collaborators; a paper describing an experimental editor, so the underlying software is part of the obra. [MW 53]
+- **1983:** *What Good Is Temporal Logic?*. A position paper defending temporal logic’s practical role. [MW 54]
+- **1984:** *Using Time Instead of Timeout for Fault-Tolerant Distributed Systems*. A protocol-design paper exploiting synchronized time. [MW 55]
+- **1984:** *The Hoare Logic of CSP, and All That*. With Fred Schneider; an assertional proof system for message-passing programs. [MW 56]
+- **1984:** *Byzantine Clock Synchronization*. A preliminary conference paper on fault-tolerant clocks. [MW 57]
+- **August 1984:** *Solved Problems, Unsolved Problems and NonProblems in Concurrency*. A reconstructed invited address whose opening was not recorded and had to be reinvented. [MW 58]
+- **1984:** *On a “Theorem” of Peterson*. A corrective note disputing a purported result. [MW 59]
+- **1984:** *Buridan’s Principle*. A conceptual paper about the physical impossibility of perfect discrete arbitration. [MW 60]
+- **1986:** *The Mutual Exclusion Problem—Part I: A Theory of Interprocess Communication; Part II: Statement and Solutions*. A two-part compendium of formal theory and algorithms. [MW 61]
+- **January 1985:** *Synchronizing Clocks in the Presence of Faults*. With P. M. Melliar-Smith; a rigorous family of Byzantine clock-synchronization protocols. [MW 62]
+- **January 1985:** *What It Means for a Concurrent Program to Satisfy a Specification: Why No One Has Specified Priority*. A paper identifying limits on what externally observable behavior can specify. [MW 63]
+- **January 1985:** *Constraints: A Uniform Approach to Aliasing and Typing*. With Fred Schneider; a formal treatment of program-language constraints. [MW 64]
+- **1985:** *Recursive Compiling and Programming Environments (Summary)*. A rejected extended abstract; the promised complete version was never written, so the project survives only in proposal form. [MW 65]
+- **February 1985:** *Distributed Snapshots: Determining Global States of a Distributed System*. With K. Mani Chandy; a paper and executable conceptual protocol for recording a distributed global state. [MW 66]
+- **1985:** *Formal Foundation for Specification and Verification*. A formal-methods paper. [MW 67]
+- **1985:** *An Axiomatic Semantics of Concurrent Programming Languages*. A paper constructing a semantics for concurrency. [MW 68]
+- **1986:** *LaTeX: A Document Preparation System*. A user manual and book for Lamport’s software; later editions revise the same obra rather than constituting unrelated works. [MW 69]
+- **1986:** *On Interprocess Communication—Part I: Basic Formalism; Part II: Algorithms*. A two-part foundation for reasoning about nonatomic shared registers. [MW 70]
+- **1986:** *The Byzantine Generals*. An expository treatment rather than a distinct invention of the underlying problem. [MW 71]
+- **1986:** *A Formal Basis for the Specification of Concurrent Systems*. A formal specification paper. [MW 72]
+- **1987:** *A Fast Mutual Exclusion Algorithm*. A new shared-memory protocol optimized for uncontended entry. [MW 73]
+- **1987:** *Derivation of a Simple Synchronization Algorithm*. A constructive algorithm-and-proof paper. [MW 74]
+- **1987:** *Distribution*. An essay on the conceptual meaning of distributed computation. [MW 75]
+- **1987:** *Document Production: Visual or Logical?*. A position paper advocating logical document structure. [MW 76]
+- **1987:** *Synchronizing Time Servers*. A short protocol paper. [MW 77]
+- **1987:** *Control Predicates Are Better than Dummy Variables for Representing Program Control*. A methodological note on formal modeling. [MW 78]
+- **1988:** *“EWD 1013”*. A response to an argument by Dijkstra; its title is deliberately bibliographic rather than descriptive. [MW 79]
+- **1988:** *Another Position Paper on Fairness*. A conceptual defense of fairness assumptions. [MW 80]
+- **August 1988:** *A Lattice-Structured Proof of a Minimum Spanning Tree Algorithm*. With Jennifer Welch and Nancy Lynch; a verification organized as a lattice of refinements. [MW 81]
+- **1988:** *A Simple Approach to Specifying Concurrent Systems*. A specification method leading toward TLA. [MW 82]
+- **1988:** *Pretending Atomicity*. A proof technique for replacing fine-grained behavior with abstract atomic actions. [MW 83]
+- **1989:** *Realizable and Unrealizable Specifications of Reactive Systems*. With Martín Abadi and Pierre Wolper; a paper about which temporal specifications can be implemented. [MW 84]
+- **1990:** *A Temporal Logic of Actions*. A research report introducing TLA as a logic and specification formalism. [MW 85]
+- **1990:** *win and sin: Predicate Transformers for Concurrency*. A formal-calculus paper. [MW 86]
+- **1990:** *A Theorem on Atomicity in Distributed Algorithms*. A theoretical paper about refining distributed actions. [MW 87]
+- **1990:** *Distributed Computing: Models and Methods*. A survey or chapter organizing approaches to distributed computation. [MW 88]
+- **1989:** *A Completeness Theorem for TLA*. A metatheoretical result about the Temporal Logic of Actions. [MW 89]
+- **1990:** *The Concurrent Reading and Writing of Clocks*. An algorithm paper applying Lamport’s register results to multiword clocks. [MW 90]
+- **1991:** *The Mutual Exclusion Problem Has Been Solved*. A position paper assessing the status of the problem. [MW 91]
+- **1991:** *The Existence of Refinement Mappings*. With Martín Abadi; a foundational paper showing when implementation relations can be represented by refinement mappings. [MW 92]
+- **1991:** *Preserving Liveness: Comments on “Safety and Liveness from a Methodological Point of View”*. A critical technical commentary. [MW 93]
+- **1991:** *Critique of the Lake Arrowhead Three*. A critical position paper. [MW 94]
+- **1991:** *The Reduction Theorem*. A formal result for decomposing verification. [MW 95]
+- **1992:** *Mechanical Verification of Concurrent Systems with TLA*. With Urban Engberg and Peter Grønning; a paper on machine-checked TLA proofs. [MW 96]
+- **1992:** *Reconfiguration System and Method for High-Speed Mesh Connected Local Area Network*. A patent, hence a legal-technical instrument as well as an engineering design. [MW 97]
+- **1993:** *Composing Specifications*. A paper about compositional reasoning in TLA. [MW 98]
+- **1993:** *Verification of a Multiplier: 64 Bits and Beyond*. With collaborators; a hardware-verification case study. [MW 99]
+- **1993:** *Verification and Specification of Concurrent Programs*. A survey or instructional text. [MW 100]
+- **1993:** *Hybrid Systems in TLA+*. A formal treatment of systems combining discrete and continuous behavior. [MW 101]
+- **1993:** *How to Write a Proof*. A protocol and manifesto for hierarchical, readable mathematical proofs. [MW 102]
+- **May 1994:** *The Temporal Logic of Actions*. The journal manifestation of TLA; it formalizes the logic as a specification and proof medium. [MW 103]
+- **1994:** *Decomposing Specifications of Concurrent Systems*. A compositional-verification paper. [MW 104]
+- **1994:** *Open Systems in TLA*. A paper extending TLA reasoning to environments not controlled by the specified system. [MW 105]
+- **1994:** *TLZ (Abstract)*. An abstract for a proposed synthesis of TLA and Z; its abbreviated state resists treatment as a completed work. [MW 106]
+- **1994:** *An Old-Fashioned Recipe for Real Time*. A protocol for specifying real-time systems without specialized temporal machinery. [MW 107]
+- **1994:** *Specifying and Verifying Fault-Tolerant Systems*. An expository formal-methods paper. [MW 108]
+- **1994:** *How to Write a Long Formula*. A protocol for structuring and displaying mathematical formulas. [MW 109]
+- **December 1994:** *Introduction to TLA*. An introductory exposition of the logic. [MW 110]
+- **1995:** *Adding “Process Algebra” to TLA*. A paper showing how process-algebraic constructions can be represented in TLA. [MW 111]
+- **1995:** *What Process Algebra Proofs Use Instead of Invariance*. A comparative methodological paper. [MW 112]
+- **1995:** *Conjoining Specifications*. A paper about composition by logical conjunction. [MW 113]
+- **1995:** *TLA in Pictures*. A visual exposition of TLA concepts. [MW 114]
+- **1995:** *The RPC-Memory Specification Problem: Problem Statement*. A deliberately posed benchmark rather than a solution; as an obra, it is a problem-making text. [MW 115]
+- **1995:** *A TLA Solution to the RPC-Memory Specification Problem*. The corresponding formal solution. [MW 116]
+- **1995:** *How to Tell a Program from an Automobile*. A conceptual essay about programs, specifications, and abstraction. [MW 117]
+- **December 1996:** *Refinement in State-Based Formalisms*. A formal comparison of refinement methods. [MW 118]
+- **1997:** *Marching to Many Distant Drummers*. A paper about coordinating distributed processes with imperfect clocks. [MW 119]
+- **1997:** *Processes Are in the Eye of the Beholder*. An essay arguing that process structure depends on the chosen abstraction. [MW 120]
+- **1997:** *How to Make a Correct Multiprocess Program Execute Correctly on a Multiprocessor*. A protocol for coping with weak memory behavior. [MW 121]
+- **1997:** *Substitution: Syntactic versus Semantic*. A technical note about substitution in formal languages. [MW 122]
+- **May 1998:** *The Part-Time Parliament*. The allegorical presentation of Paxos; it is both a scientific paper and a deliberately fictionalized protocol narrative. [MW 123]
+- **1998:** *Reduction in TLA*. A technical paper on proof reduction. [MW 124]
+- **1998:** *Composition: A Way to Make Proofs Harder*. A cautionary position paper. [MW 125]
+- **1998:** *Proving Possibility Properties*. A proof-method paper. [MW 126]
+- **1998:** *A Lazy Caching Proof in TLA*. A verification case study. [MW 127]
+- **1999:** *Specifying Concurrent Systems with TLA+*. An introduction to the TLA+ specification language. [MW 128]
+- **1999:** *TLA+ Verification of Cache-Coherence Protocols*. With collaborators; an industrial verification case study. [MW 129]
+- **1999:** *Should Your Specification Language Be Typed?*. A position paper arguing about type systems in specification languages. [MW 130]
+- **1999:** *Model Checking TLA+ Specifications*. With Yuan Yu and others; a paper introducing the TLC approach to checking finite models. [MW 131]
+- **2000:** *How (La)TeX Changed the Face of Mathematics*. A historical and reflective essay about TeX and LaTeX. [MW 132]
+- **May 2000:** *Fairness and Hyperfairness*. A research article, also issued as SRC Research Report 152; a preliminary version was rejected by CONCUR. [MW 133]
+- **May 2000:** *Archival References to Web Pages*. A short proposal for making mutable web references citable. [MW 134]
+- **2002:** *Disk Paxos*. With Eli Gafni; a consensus protocol using disks as shared memory. [MW 135]
+- **2000:** *Disk Paxos (Conference Version)*. The shorter preliminary manifestation of the Disk Paxos work, not an independent algorithm. [MW 136]
+- **2000:** *When Does a Correct Mutual Exclusion Algorithm Guarantee Mutual Exclusion?*. A paper exposing assumptions hidden beneath mutual-exclusion proofs. [MW 137]
+- **2000:** *Lower Bounds on Consensus*. A theoretical paper on consensus complexity. [MW 138]
+- **January 2001:** *The Wildfire Challenge Problem*. With Madhu Sharma, Mark Tuttle, and Yuan Yu; a rejected verification challenge that remains a posed project rather than a settled result. [MW 139]
+- **2001:** *Paxos Made Simple*. A concise protocol explanation intended to separate Paxos from the parliamentary allegory. [MW 140]
+- **2002:** *Specifying and Verifying Systems with TLA+*. An instructional overview. [MW 141]
+- **2002:** *Arbiter-Free Synchronization*. A paper about synchronization without conventional arbiters. [MW 142]
+- **2002:** *A Discussion With Leslie Lamport*. An interview or dialogic text; authorship is shared with the interlocutor and it is not straightforwardly a research work. [MW 143]
+- **2003:** *Lower Bounds for Asynchronous Consensus*. A theoretical report on limits of asynchronous agreement. [MW 144]
+- **June 2002:** *Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers*. A monograph, language reference, protocol manual, and freely available book. [MW 145]
+- **2003:** *Checking Cache-Coherence Protocols with TLA+*. An industrial model-checking case study. [MW 146]
+- **2003:** *High-Level Specifications: Lessons from Industry*. A methodological report drawn from practical formal-specification work. [MW 147]
+- **2003:** *The Future of Computing: Logic or Biology*. A speculative position paper. [MW 148]
+- **2004; journal version 2006:** *Consensus on Transaction Commit*. With Jim Gray; a paper deriving transaction commit from Paxos-style consensus. [MW 149]
+- **2004:** *On Hair Color in France*. A satirical statistical paper; although comic, it remains a made text in Lamport’s bibliography. [MW 150]
+- **2004:** *Formal Specification of a Web Services Protocol*. With James E. Johnson, David E. Langworthy, and Friedrich H. Vogt; a formalization of an industrial protocol. [MW 151]
+- **2004:** *Cheap Paxos*. With Mike Massa; a Paxos variant reducing the number of processors required for normal operation. [MW 152]
+- **2005:** *Implementing and Combining Specifications*. A paper about translating and composing formal specifications. [MW 153]
+- **2005:** *Lower Bounds for Asynchronous Consensus*. A later manifestation of the work catalogued under the same title; the bibliography treats the versions separately. [MW 154]
+- **March 2005:** *Generalized Consensus and Paxos*. A research report broadening consensus beyond totally ordered commands. [MW 155]
+- **March 2005:** *Real Time Is Really Simple*. A paper arguing that ordinary state-machine methods suffice for real-time specifications. [MW 156]
+- **2005:** *How Fast Can Eventual Synchrony Lead to Consensus?*. With collaborators; a theoretical paper on the latency of consensus. [MW 157]
+- **2005:** *Real-Time Model Checking Is Really Simple*. A model-checking counterpart to Lamport’s real-time specification argument. [MW 158]
+- **2006:** *Fast Paxos*. A protocol reducing consensus latency under favorable conditions. [MW 159]
+- **2006:** *Measuring Celebrity*. A playful quantitative essay rather than a core computer-science contribution. [MW 160]
+- **2006:** *Checking a Multithreaded Algorithm with +CAL*. A verification case study using the language later styled PlusCal. [MW 161]
+- **2009:** *The PlusCal Algorithm Language*. The defining paper for PlusCal, an algorithm language translated into TLA+. [MW 162]
+- **2008:** *TLA+*. A concise language description or encyclopedia-style exposition. [MW 163]
+- **2008:** *Implementing Dataflow with Threads*. An algorithmic programming paper. [MW 164]
+- **2008:** *Leslie Lamport: The Specification Language TLA+*. An interview or personal exposition; it resists classification as a solely authored research paper. [MW 165]
+- **2008:** *Computation and State Machines*. A conceptual essay presenting state machines as the basis of computation. [MW 166]
+- **2008:** *A TLA+ Proof System*. With Kaustuv Chaudhuri, Damien Doligez, and Stephan Merz; a system paper announcing TLAPS. [MW 167]
+- **2008:** *The Mailbox Problem*. With Marcos Kawazoe Aguilera and Eli Gafni; a distributed-computing problem and solution. [MW 168]
+- **2009:** *Teaching Concurrency*. A pedagogical manifesto about how concurrency should be taught. [MW 169]
+- **2009:** *Vertical Paxos and Primary-Backup Replication*. With Dahlia Malkhi and Lidong Zhou; a reconfigurable consensus protocol. [MW 170]
+- **2009:** *Computer Science and State Machines*. A broad conceptual essay. [MW 171]
+- **2009:** *Reconfiguring a State Machine*. With Dahlia Malkhi and Lidong Zhou; a protocol report on reconfiguration. [MW 172]
+- **2009:** *Stoppable Paxos*. With Dahlia Malkhi and Lidong Zhou; a protocol for safely stopping and replacing a replicated state machine. [MW 173]
+- **2010:** *Temporal Logic: The Lesser of Three Evils*. A position paper comparing ways to reason about behavior over time. [MW 174]
+- **2011:** *Verifying Safety Properties with the TLA+ Proof System*. With collaborators; a machine-checked proof case study. [MW 175]
+- **2011:** *Byzantizing Paxos by Refinement*. With collaborators; a construction of Byzantine Paxos through refinement. [MW 176]
+- **2011:** *Leaderless Byzantine Paxos*. With collaborators; a Byzantine consensus protocol without a conventional leader. [MW 177]
+- **2011:** *Euclid Writes an Algorithm: A Fairytale*. A pedagogical fiction that acts as an algorithm-design lesson; its hybrid form is part of the work. [MW 178]
+- **2012:** *How to Write a 21st Century Proof*. A manifesto and practical protocol for hierarchical, machine-checkable proof. [MW 179]
+- **2012:** *TLA+ Proofs*. A formal and instructional account of proof in TLA+. [MW 180]
+- **2013:** *Why We Should Build Software Like We Build Houses*. A public-facing manifesto for writing specifications before code. [MW 181]
+- **2013:** *Adaptive Register Allocation with a Linear Number of Registers*. With collaborators; a theoretical distributed-algorithms paper. [MW 182]
+- **2014:** *Coalescing: Syntactic Abstraction for Reasoning in First-Order Modal Logics*. With Denis Cousineau and Stephan Merz; a logic paper supporting mechanized reasoning. [MW 183]
+- **2014:** *Who Builds a House without Drawing Blueprints?*. A shorter manifesto for software specification. [MW 184]
+- **2015:** *The Computer Science of Concurrency: The Early Years*. A historical and autobiographical scholarly essay. [MW 185]
+- **2017:** *Auxiliary Variables in TLA+*. A formal paper explaining history, prophecy, and stuttering variables as refinement devices. [MW 186]
+- **2017:** *If You’re Not Writing a Program, Don’t Use a Programming Language*. A methodological manifesto favoring mathematics and specification languages for non-program artifacts. [MW 187]
+- **2019:** *Recursive Operator Definitions*. A technical account of recursive definitions in TLA+. [MW 188]
+- **2019:** *The TLA+ Toolbox*. With collaborators; a paper describing the integrated development environment, whose software is the larger obra. [MW 189]
+- **2022:** *Prophecy Made Simple*. With Stephan Merz; a paper simplifying prophecy-variable reasoning. [MW 190]
+- **2022:** *Verifying Hyperproperties with TLA*. With collaborators; a paper whose associated artifact includes formal specifications and proofs. [MW 191]
+- **2022:** *Deconstructing the Bakery to Build a Distributed State Machine*. A retrospective reconstruction of the bakery algorithm as a distributed state machine. [MW 192]
+- **2023:** *Concurrent Algorithms*. An instructional manuscript or book project devoted to algorithms and their proofs. [MW 193]
+- **2023:** *Making Math More Rigorous*. A manifesto for explicit, structured mathematical proof. [MW 194]
+- **2024:** *Some Data on the Frequency of Errors in Mathematics Papers*. An empirical note on mathematical mistakes. [MW 195]
+- **2025:** *A Retrospective of Proving the Correctness of Multiprocess Programs*. A retrospective reassessment of Lamport’s 1970s verification work. [MW 196]
+- **2024–present:** *A Science of Concurrent Programs*. An evolving, freely distributed book project; because Lamport continues to revise it, the project—not any single frozen version—is the most accurate obra. [MW 197]
+
+### Algorithms and protocols
+
+- **1974:** *Bakery Algorithm*. A mutual-exclusion protocol modeled on customers taking numbered tickets; its identity is not exhausted by the paper that introduced it.
+- **1978:** *Lamport Logical Clocks*. A mechanism for imposing an order consistent with causality on distributed events.
+- **1978:** *State-Machine Replication*. A general construction for implementing a deterministic service by ordering commands consistently across replicas.
+- **1979:** *Lamport One-Time Signature Scheme*. A cryptographic signature construction from a one-way function; the underlying report remained unpublished in its own time.
+- **1980–1982:** *Byzantine Agreement Algorithms*. Co-created with Marshall Pease and Robert Shostak; a family of protocols rather than one indivisible text.
+- **1981:** *Lamport Password Authentication Scheme*. A chain-of-one-way-functions protocol for authentication across an insecure channel.
+- **1985:** *Chandy–Lamport Distributed Snapshot Algorithm*. Co-created with K. Mani Chandy; a protocol for recording a consistent global state without stopping the system.
+- **1985:** *Byzantine Clock-Synchronization Algorithms*. Co-created in part with P. M. Melliar-Smith; a family of fault-tolerant clock protocols.
+- **1986:** *Safe, Regular, and Atomic Register Constructions*. A body of definitions, algorithms, and proofs spread across several papers; it resists treatment as a single bounded work.
+- **1987:** *Fast Mutual-Exclusion Algorithm*. A protocol optimized to use few memory operations when uncontended.
+- **late 1980s–1998:** *Paxos*. A consensus protocol first devised and circulated before its canonical publication; its dating is therefore divided between invention, submission, technical-report circulation, and the 1998 journal manifestation.
+- **2000–2002:** *Disk Paxos*. Co-created with Eli Gafni; a consensus protocol using shared disks.
+- **2004:** *Cheap Paxos*. Co-created with Mike Massa; a protocol trading additional auxiliary processors for fewer active replicated processors.
+- **2005:** *Generalized Paxos*. A consensus framework permitting compatible commands to be learned without imposing an unnecessary total order.
+- **2006:** *Fast Paxos*. A Paxos-family protocol allowing clients to communicate directly with acceptors in favorable executions.
+- **2008–2009:** *Vertical Paxos*. Co-created with Dahlia Malkhi and Lidong Zhou; a reconfigurable Paxos protocol separating configuration selection from command agreement.
+- **2008–2009:** *Stoppable Paxos*. Co-created with Dahlia Malkhi and Lidong Zhou; a protocol that terminates one state machine so another can safely replace it.
+
+### Languages, logics, software, and working environments
+
+- **early 1980s–1985:** *LaTeX*. A document-preparation language and macro system created by Lamport on top of TeX; responsibility for later LaTeX development passed to the LaTeX3 team, so contemporary LaTeX is not solely his work.
+- **late 1980s–1994:** *Temporal Logic of Actions (TLA)*. A mathematical logic for describing state machines and reasoning about their behaviors; it is both a formal language and a body of proof practice.
+- **1990s–present:** *TLA+*. A formal specification language extending TLA with set-theoretic notation and modular structure. It is an evolving communal project, although Lamport is its principal creator.
+- **1990s–present:** *TLC*. A model checker and simulator for finite-state TLA+ specifications, initially developed with Yuan Yu and subsequently maintained by a wider community; authorship is therefore distributed.
+- **2000s–present:** *PlusCal*. An algorithm language designed by Lamport and translated into TLA+; its executable-looking surface is chiefly a specification and reasoning medium.
+- **2000s–present:** *TLAPS, the TLA+ Proof System*. A mechanized proof environment created collaboratively with Kaustuv Chaudhuri, Damien Doligez, Stephan Merz, and later contributors; it cannot accurately be called Lamport’s alone.
+- **2000s–present:** *TLA+ Toolbox*. An integrated graphical working environment for TLA+ created by a team around Lamport’s language and tools; it is software infrastructure rather than a conventional text.
+- **1966 and later:** *Computer programs not individually catalogued*. Lamport’s bibliography says his 1966 memorandum describes programs he wrote and mentions later experimental tools, but it does not supply a complete software catalogue. Treating unnamed or lost programs as enumerable “works” would falsely imply completeness.
+
+### Projects, abandoned texts, and unstable works
+
+- **1962–1965:** *Lost MITRE technical reports*. Lamport recalls writing three or four reports, but only the *Preliminary User’s Guide to Monitor 1* was located; the remainder resist listing because their titles, dates, and contents are unknown.
+- **circa 1967:** *Advanced-calculus textbook project*. Only an untitled draft survives in the bibliography; it is an unfinished project rather than a published book.
+- **1974:** *Bounded bakery-algorithm variant*. Lamport remembered having an idea for such an algorithm but never wrote it down and no longer knew whether it was correct; it is an intention or conjectural project, not a recoverable text.
+- **1985:** *Full paper on recursive compiling*. The surviving extended abstract promises a complete treatment that was never written.
+- **1985:** *Generalized constraints paper*. Lamport says work extending the constraints method to arrays and pointers was cited as forthcoming, but the paper was never produced.
+- **1994:** *TLZ*. A proposed combination of TLA and Z preserved only as an abstract; its incompleteness is part of its identity.
+- **1995:** *RPC-Memory Specification Problem*. A deliberately manufactured open problem whose status lies between manifesto, benchmark, and protocol-design exercise.
+- **2024–present:** *A Science of Concurrent Programs*. A continuing book project published in changing electronic manifestations; no current version should be mistaken for an irrevocably finished edition.
+
+### Sources
+
+- **[MW]** Leslie Lamport, [“My Writings”](https://lamport.azurewebsites.net/pubs/pubs.html), revised 7 May 2026. This is Lamport’s numbered scientific autobiography and controlling bibliography. He describes it as containing “almost all” his technical papers, expressly noting omissions of lost, incomplete, and superseded early versions; consequently, no honest list can claim absolute completeness beyond its scope.
+- Leslie Lamport, [*My Writings* printable edition](https://lamport.org/pubs/pubs.pdf), dated 13 June 2024. Consulted for numbered entries, publication data, collaborators, rejected or unpublished status, and Lamport’s accounts of incomplete projects.
+- Leslie Lamport, [“My Papers About TLA and TLA+”](https://lamport.azurewebsites.net/tla/papers.html), an approximately comprehensive specialist bibliography used to distinguish TLA/TLA+ papers from the languages and tools themselves.
+- Leslie Lamport, [*A Science of Concurrent Programs* project page](https://lamport.azurewebsites.net/tla/science-book.html), consulted for the status of the continuing book project.
+- Leslie Lamport, [home page and collected-works portal](https://www.lamport.org/), consulted for the relationship between the collected writings, TLA+ materials, and Lamport’s post-retirement site.
+- Microsoft Research, [Leslie Lamport publications](https://www.microsoft.com/en-us/research/people/lamport/publications/), consulted as a primary institutional cross-check for publication dates and document types, not as the controlling bibliography.

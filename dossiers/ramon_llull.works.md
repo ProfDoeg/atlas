@@ -1,0 +1,327 @@
+## Works by Ramon Llull
+
+### Lifelong projects and institutional works
+
+- **c. 1274–1315:** *The Art (Ars)*. Llull’s overarching project: a combinatorial method intended to discover, demonstrate, and communicate truth across disciplines. Its many textual versions below are successive reformulations, not merely editions of one book.
+- **1276:** *Missionary language school at Miramar*. An institutional project, established with royal support, where Franciscans were to study Arabic and Llull’s Art; it is an obra made through patronage, organization, and curriculum rather than a text.
+- **c. 1274–1315:** *The missionary and reform program*. A sustained project joining rational interreligious disputation, preaching, language study, ecclesiastical reform, and plans for recovering the Holy Land. It appeared through books, petitions, journeys, teaching, and institutions, and therefore resists treatment as a single work.
+
+### Pre-Art and quaternary Art: foundational, pedagogical, scientific, and literary works
+
+- **1265–1271:** *Compendium logicae Algazelis / Lògica del Gatzel*. An adaptation and versified teaching compendium of logic derived from al-Ghazālī; catalogued as ROL 1.
+- **1271–1273:** *Libre de contemplació en Déu / Liber contemplationis in Deum*. A monumental contemplative and encyclopedic book, reportedly first composed in Arabic and transmitted in Catalan and Latin; ROL 2.
+- **c. 1274:** *Ars compendiosa inveniendi veritatem*. The first systematic manifestation of the Art, using letters and figures as an investigative protocol; ROL 3.
+- **1274–1283:** *Lectura compendiosa super Artem inveniendi veritatem*. A concise explanatory reading of the first Art; ROL 4.
+- **1274–1276:** *Ars notatoria*. A mnemonic or notational Art-text whose interpretation and textual reconstruction have required modern scholarly work; ROL 5.
+- **1274–1276:** *Libre de demostracions*. A large theological demonstration organized through the principles of the early Art; ROL 6.
+- **1274–1276:** *Llibre de l’orde de cavalleria*. A normative handbook and protocol for the social, moral, and religious office of knighthood; ROL 7.
+- **1274–1276:** *Doctrina pueril / De doctrina puerili*. A pedagogical compendium addressed to a child, combining religious instruction with an outline of worldly knowledge; ROL 8.
+- **1274–1276:** *Oracions e contemplacions de l’enteniment / Orationes et contemplationes intellectus*. A sequence of intellectual prayers and contemplative exercises; ROL 9.
+- **1274–1276:** *Llibre contra Anticrist / Liber contra Antichristum*. An eschatological and missionary treatise opposing coercive conversion and proposing rational demonstration; ROL 10.
+- **1274–1283:** *Llibre del gentil e dels tres savis / Liber de gentili et tribus sapientibus*. A staged interreligious disputation among a gentile, a Jew, a Christian, and a Muslim; it is philosophical dialogue rather than a record of an actual debate, ROL 11.
+- **1274–1283:** *Liber principiorum theologiae*. An Art-based protocol of theological principles; ROL 12.
+- **1274–1283:** *Liber principiorum philosophiae*. An Art-based compendium of philosophical principles; ROL 13.
+- **1274–1283:** *Liber principiorum iuris*. An application of the early Art to legal reasoning; ROL 14.
+- **1274–1283:** *Començaments de medicina / Liber principiorum medicinae*. A diagrammatic and combinatorial medical treatise applying the Art to humors, qualities, and treatment; ROL 15.
+- **1274–1283:** *Ars universalis*. An expanded formulation of the early universal Art; ROL 16.
+- **1274–1283:** *Artificium electionis personarum*. A procedural text for comparing and electing candidates, sometimes discussed in the history of voting methods; ROL 17.
+- **1274–1283:** *Liber de Spiritu sancto*. A Christian theological disputation concerning the procession of the Holy Spirit; ROL 18.
+- **1274–1283:** *Llibre d’intenció / Liber de prima et secunda intentione*. A moral and pedagogical treatise distinguishing primary and secondary intention; ROL 19.
+- **1274–1283:** *De adventu Messiae*. An apologetic treatise on the Messiah; ROL 20.
+- **1276–1283:** *Romanç d’Evast e Blaquerna*. A didactic novel following Blaquerna through successive social and religious estates; it includes the internally distinct *Llibre d’amic e amat*, ROL 21.
+- **1276–1283:** *Libre dels àngels / Liber de angelis*. A theological treatise on angels; ROL 22.
+- **1274–1283, perhaps 1294:** *Lo pecat d’Adam*. A verse work on Adam’s sin whose precise dating is disputed; ROL 23.
+- *De arte retentiva*. A lost work on the retentive or mnemonic art; only its title survives in the catalogue, ROL 24.
+- *Liber de petitionibus, principiis et definitionibus*. A lost Art-related work known by title; ROL 25.
+- *Liber de doctrina principum*. A lost work on princely instruction; ROL 26.
+- **c. 1283:** *Art demostrativa / Ars demonstrativa*. The principal work of the second cycle of Llull’s quaternary Art, combining textual exposition with operative figures; ROL 27.
+- **1283–1285:** *Liber de quattuordecim articulis fidei*. An Art-based demonstration of fourteen articles of faith; ROL 28.
+- **1283–1285:** *Introductoria Artis demonstrativae*. An introduction to the *Ars demonstrativa*; ROL 29.
+- **1283–1285:** *Regles introductòries a la pràctica de l’Art demostrativa / Regulae introductoriae*. A compact protocol for operating the demonstrative Art; ROL 30.
+- **1283–1287:** *Ars inveniendi particularia in universalibus*. A logical-Art treatise for finding particulars through universals; ROL 31.
+- **1283–1287:** *Liber propositionum secundum Artem demonstrativam*. A collection or generator of propositions organized by the demonstrative Art; ROL 32.
+- **1283–1287:** *Liber de quaestionibus, per quem modus Artis demonstrativae patefit*. A question-book designed to disclose how the Art operates; ROL 33.
+- **1285–1287:** *Ars iuris*. An Art-based legal method; ROL 34.
+- **1285–1287:** *Ars compendiosa medicinae*. A concise medical application of the Art; ROL 35.
+- **1285–1287:** *Lectura super figuras Artis demonstrativae*. An exposition of the figures of the demonstrative Art; ROL 36.
+- **1285–1287:** *Liber exponens figuram elementalem Artis demonstrativae*. An explanation of the elemental figure; ROL 37.
+- **1288, or possibly 1292:** *Cent noms de Déu / Liber de centum nominibus Dei*. A hundred-part devotional and theological poem; both its date and the relationship between its verse form and doctrinal program resist a simple “treatise” classification, ROL 38.
+- **1288:** *Liber super Psalmum “Quicumque vult”*. An exposition of the Athanasian Creed; ROL 39.
+- **1288–1289:** *Disputatio fidelis et infidelis*. A scripted apologetic disputation between believer and unbeliever; ROL 40.
+- **1288–1289:** *Libre de meravelles*. An encyclopedic quest-narrative or novel; its seventh part, the politically charged animal fable *Llibre de les bèsties*, is an embedded but distinct literary unit, ROL 41.
+- **1289:** *Epistola dedicatoria ad ducem Venetorum*. A dedicatory letter that also acts as promotion for Llull’s Art; ROL 42.
+- **1289:** *Compendium seu commentum Artis demonstrativae*. A compendium and commentary on the demonstrative Art; ROL 43.
+
+### Ternary Art: revised system, devotion, science, and public petitions
+
+- **1290:** *Ars inventiva veritatis*. The foundational formulation of the ternary Art, reducing and reorganizing the system’s principles; ROL 44.
+- **1289–1291:** *Quaestiones per Artem demonstrativam seu inventivam solubiles*. A collection of questions offered as test cases for the Art; ROL 45.
+- **1290:** *Art amativa / Ars amativa boni*. An “amative” counterpart to the inventive Art, directing the system toward loving the good; ROL 46.
+- **1290:** *Taula d’esta Art / Tabula de explanatione vocabulorum*. An alphabetical explanatory table or working glossary for the *Art amativa*; ROL 47.
+- **1290–1292:** *Quaestiones, quas quaesivit quidam frater minor*. Responses to questions attributed to a Franciscan interlocutor; ROL 48.
+- **1290–1292:** *Libre de santa Maria / Liber de sancta Maria*. A dialogic Marian devotional and theological work; ROL 49.
+- **1292:** *Hores de nostra Dona santa Maria*. A vernacular Marian book of hours in verse; ROL 50.
+- **1290–1294:** *Desconhort de nostra Dona*. A Marian lament in verse; ROL 51.
+- **1292:** *Quomodo Terra Sancta recuperari potest*. A crusade and missionary policy memorandum; ROL 52a.
+- **1292:** *Tractatus de modo convertendi infideles*. A protocol for missionary conversion, emphasizing language training and organized disputation; ROL 52b.
+- **1293–1294:** *Taula general / Tabula generalis*. A tabular and textual instrument consolidating the ternary Art; ROL 53.
+- **1295:** *Lectura compendiosa Tabulae generalis*. A concise exposition of the *General Table*; ROL 54.
+- **1294–1296:** *Lectura super tertiam figuram Tabulae generalis*. An exposition devoted to the Table’s third figure; ROL 55.
+- **1294:** *Lo sisèn seny, lo qual apellam affatus / Liber de sexto sensu*. A philosophical treatise proposing speech as a “sixth sense”; ROL 56.
+- **1294:** *Flors d’amors e flors d’intel·ligència*. A paired collection of brief contemplative and aphoristic “flowers” of love and understanding; ROL 57.
+- **1294:** *Disputació de cinc savis / Disputatio quinque hominum sapientium*. A constructed five-speaker theological disputation; ROL 58.
+- **1294:** *Petició de Ramon al papa Celestí V per a la conversió dels infidels*. A petition-manifesto seeking papal action for missions and reform; ROL 59.
+- **1295:** *Petitio Raymundi pro conversione infidelium ad Bonifacium VIII papam*. A renewed petition to Boniface VIII, acting as a program for institutional missionary policy; ROL 60.
+- **1294:** *Arbre de filosofia desiderat / Arbor philosophiae desideratae*. A tree-structured philosophical compendium; ROL 61.
+- **1294:** *De levitate et ponderositate elementorum*. A natural-philosophical treatise on elemental lightness and heaviness; ROL 62.
+- **1295:** *Desconhort*. A long autobiographical debate-poem in which the persona “Ramon” laments the failure of his missionary project; ROL 63.
+- **1294–1295:** *Art de fer e solre qüestions / Ars ad faciendum et solvendum quaestiones*. A question-forming and question-solving protocol derived from the Art; ROL 64.
+- **1295–1296:** *Arbre de ciència / Arbor scientiae*. A vast arboreal encyclopedia in which multiple sciences become branches of one Art-governed structure; it approaches a textual Gesamtkunstwerk, ROL 65.
+- **1296:** *Llibre dels articles de la fe / Liber de articulis fidei*. A rational exposition of Christian articles of faith; ROL 66.
+- **1296:** *Novell llibre d’ànima racional / Liber novus de anima rationali*. A systematic psychology of the rational soul; ROL 67.
+- **1296:** *Liber de potentia, obiecto et actu*. A philosophical treatise on power, object, and act; ROL 68.
+- **1296:** *Proverbis de Ramon / Liber proverbiorum*. A large organized collection of instructional aphorisms; ROL 69.
+- **1297:** *Contemplatio Raymundi*. A compact contemplative exercise; ROL 70.
+- **1297:** *Quomodo contemplatio transit in raptu*. A short mystical protocol describing contemplation’s passage into rapture; ROL 71.
+- **1297:** *De declaratione conscientiae*. A short spiritual text on examining or declaring conscience; ROL 72.
+- **1297:** *Tractatus novus de astronomia / Tractat d’astronomia*. An Art-based astronomical and astrological treatise; ROL 73.
+- **1298:** *Declaratio Raymundi per modum dialogi*. A dialogue opposing propositions condemned at Paris and defending Llull’s theological philosophy; ROL 74.
+- **1298:** *Investigatio mixtionum generalium secundum Artem generalem*. A natural-philosophical investigation of mixtures through the General Art; ROL 75.
+- **1298:** *Disputatio eremitae et Raymundi super aliquibus dubiis quaestionibus Sententiarum Magistri Petri Lombardi*. A staged scholastic disputation about difficult questions in Peter Lombard’s *Sentences*; ROL 76.
+- **1298:** *Arbre de filosofia d’amor / Arbor philosophiae amoris*. A tree-structured synthesis of philosophy, devotion, and mystical love; ROL 77.
+- **1298:** *Consolatio Venetorum et totius gentis desolatae*. A public consolatory letter or address to Venice after military catastrophe; ROL 78.
+- **1300:** *Cant de Ramon*. An autobiographical lyric and self-fashioned missionary manifesto; ROL 79.
+- **1299:** *Ars compendiosa*. A concise Art-text; its generic title makes its precise identity dependent on manuscript and catalogue evidence, ROL 80.
+- **1299:** *[Quaestio de congruo adducto ad necessariam rationem]*. A scholastic question known under a modern descriptive title, not a securely authorial one; ROL 81.
+- **1299:** *De quadratura e triangulatura de cercle / De quadrangulatura et triangulatura circuli*. A geometrical treatise on squaring and triangulating the circle; ROL 82.
+- **1299:** *Ars electionis*. A procedural work on election or collective choice; ROL 83.
+- **1299:** *Liber de geometria nova et compendiosa*. A “new and concise” Art-based geometry; ROL 84.
+- **1299:** *Liber super quaestiones Magistri Thomae Attrabatensis*. Responses to questions associated with Thomas of Arras; ROL 85.
+- **1299:** *Principia philosophiae / Començaments de filosofia*. A systematic statement of philosophical principles; ROL 86.
+- **1299:** *Dictat de Ramon*. A compact doctrinal poem; ROL 87.
+- **1299:** *Coment del dictat / Dictati commentum*. Llull’s prose commentary on the preceding poem, making the pair a mixed verse-prose teaching object; ROL 88.
+- **1299:** *Oracions de Ramon*. A collection of prayers; ROL 89.
+- **1300:** *Medicina de pecat*. A large verse “medicine” for sin, combining moral theology, devotion, and mnemonic poetry; ROL 90.
+- **1300:** *Tractatus compendiosus de articulis fidei*. A concise rational treatment of the articles of faith; ROL 91.
+- **1300:** *Llibre de l’és de Déu / Liber de est Dei*. A metaphysical-theological book on God’s being; ROL 92.
+- **1300:** *Llibre de coneixença de Déu / Liber de cognitione Dei*. A treatise on knowing God; ROL 93.
+- **1300:** *Llibre d’home / Liber de homine*. An anthropological and theological treatise on the human being; ROL 94.
+- **1300:** *Llibre de Déu / Liber de Deo*. A systematic theological work on God; ROL 95.
+- **1301:** *Aplicació de l’Art general*. A practical demonstration of applying the General Art; ROL 96.
+- **1301:** *Retòrica nova / Rhetorica nova*. A “new rhetoric” governed by Llull’s principles; the Catalan form is lost, while the Latin text survives, ROL 97.
+- **1301:** *Liber de natura*. A short natural-philosophical treatise; ROL 98.
+- **1302:** *Llibre què deu hom creure de Déu*. A vernacular doctrinal guide to what should be believed about God; ROL 99.
+- **1302:** *Mil proverbis / Liber de mille proverbiis*. A structured collection of one thousand didactic proverbs; ROL 100.
+- **1303:** *Logica nova / Lògica nova*. Llull’s reconstructed “new logic,” integrating conventional logic with the Art; ROL 101.
+- *[Liber de modo applicandi logicam novam ad scientiam iuris et medicinae]*. An application of the *New Logic* to law and medicine under an editorially supplied title; ROL 102.
+- *Tractatus de aeternitate*. A lost treatise on eternity; ROL 103.
+- *De syllogismis*. A lost work on syllogisms; ROL 104.
+- **1303:** *Disputatio fidei et intellectus*. A dialogue or disputation on the relationship between faith and understanding; ROL 105.
+- **1303:** *Liber de lumine*. A philosophical-theological treatise on light; ROL 106.
+- **1303:** *Liber de regionibus sanitatis et infirmitatis*. A medical-theoretical map of the “regions” of health and illness; ROL 107.
+- **1304:** *Ars de iure*. A revised Art of law; ROL 108.
+- **1304:** *Liber de intellectu*. A philosophical treatise on intellect; ROL 109.
+- **1304:** *Liber de voluntate*. A philosophical treatise on will; ROL 110.
+- **1304:** *Liber de memoria*. A philosophical treatise on memory; ROL 111.
+- **1304:** *Lectura Artis, quae intitulata est Brevis practica Tabulae generalis*. An exposition and practical abridgment of the *General Table*; ROL 112.
+- **1304:** *Liber ad probandum aliquos articulos fidei catholicae per syllogisticas rationes*. A protocol for syllogistically demonstrating selected Catholic doctrines; ROL 113.
+- **1304:** *Liber de significatione*. A logical and semantic treatise on signification; ROL 114.
+- **1304:** *Liber de consilio*. A philosophical treatment of counsel or deliberation; ROL 115.
+- **1304:** *De investigatione actuum divinarum rationum*. An inquiry into the acts of the divine attributes; ROL 116.
+- **1304:** *Liber de praedestinatione et libero arbitrio*. A theological treatise on predestination and free will; ROL 117.
+- **1304:** *Liber de praedicatione*. An extensive theory and practical resource for preaching; ROL 118.
+- *Liber de motu*. A lost work on motion; ROL 119.
+- **1305:** *Liber de ascensu et descensu intellectus*. A protocol for the intellect’s ascent from sensible things and descent from general principles; ROL 120.
+- **1305:** *Liber de demonstratione per aequiparantiam*. A logical-theological treatise defining demonstration through the equivalence of divine attributes; ROL 121.
+- **1305:** *Liber de fine*. A missionary and crusading policy manifesto directed toward the “final end” of conversion; ROL 122.
+- **1305:** *Liber praedicationis contra Iudaeos*. A polemical preaching manual directed against Jewish belief; ROL 123.
+- **1305:** *Liber de trinitate et incarnatione*. A rational apologetic treatment of the Trinity and Incarnation; ROL 124.
+- *[Introductorium magnae Artis generalis]*. An introduction to the Great General Art known under an editorial title and without a secure date in the cited catalogue; ROL 125.
+
+### Definitive Art and post-Art logical, theological, and polemical works
+
+- **1308:** *Ars brevis / Art breu*. The portable, highly compressed protocol corresponding to the completed *Ars generalis ultima*; ROL 126.
+- **1308:** *Ars brevis, quae est de inventione iuris*. A concise application of the Art to legal discovery; ROL 127.
+- **1305–1308:** *Ars generalis ultima*. Llull’s fullest definitive formulation of the General Art, completed after several years of work; ROL 128.
+- *[Liber ad memoriam confirmandam]*. A work intended to strengthen memory, surviving under an editorially supplied title and without a secure date in the catalogue; ROL 129.
+- **1308:** *Liber de venatione substantiae, accidentis et compositi*. A logical-metaphysical “hunt” for substance, accident, and composite; ROL 130.
+- **1308:** *Liber disputationis Raimundi christiani et Homeri saraceni*. A reconstructed Christian-Muslim disputation: Llull says an earlier version begun at Béjaïa was lost in shipwreck; ROL 131.
+- **1308:** *Liber de centum signis Dei*. A hundred-sign theological and contemplative work; ROL 132.
+- **1307:** *Liber clericorum*. A reforming instructional book for clergy; ROL 133.
+- **1308:** *Ars compendiosa Dei*. A large Art-based theological synthesis, also known as *Ars Dei*; ROL 134.
+- **1308:** *Liber de novis fallaciis*. A treatise identifying “new fallacies” through Llull’s reformed logic; ROL 135.
+- **1308:** *Liber de aequalitate actuum potentiarum animae in beatitudine*. A short philosophical-theological work on the equality of the soul’s acts in beatitude; ROL 136.
+- **1308:** *Liber de investigatione vestigiorum productionis divinarum personarum*. A Trinitarian inquiry seeking traces of divine personal production; ROL 137.
+- **1308:** *Liber de experientia realitatis Artis ipsius generalis*. A defense or experimental verification of the General Art’s reality; ROL 138.
+- **1308:** *Liber de refugio intellectus*. A logical-theological “refuge of the intellect”; ROL 139.
+- **1308:** *Liber de conversione syllogismi*. A very short logical work on converting syllogisms; ROL 140.
+- **1309:** *Excusatio Raymundi*. A defensive self-justification of Llull and his method; ROL 141.
+- **1309:** *Epistola Iacobo regi Aragoniae*. A letter to James II of Aragon promoting Llull’s missionary program; ROL 142.
+- **1309?:** *Proverbis d’ensenyament*. A short collection of instructional proverbs whose date is uncertain; ROL 142a.
+- **1309:** *Liber de maiori agentia Dei*. A theological treatise on God’s greater agency; ROL 143.
+- **1309:** *Liber de convenientia, quam habent fides et intellectus in obiecto*. A treatise on the agreement of faith and intellect in their object; ROL 144.
+- **1309:** *Liber de duodecim syllogismis concludentibus duos actus finales*. A set of twelve syllogistic demonstrations concerning intrinsic and extrinsic final acts; ROL 145.
+- **1309:** *Liber de acquisitione Terrae sanctae*. A geopolitical, missionary, and crusading memorandum on acquiring the Holy Land; ROL 146.
+- **1309:** *Liber de propriis et communibus actibus divinarum rationum*. A theological work on proper and common acts of the divine attributes; ROL 147.
+- **1309:** *Liber de potestate divinarum rationum*. A theological treatise on the power of the divine attributes; ROL 148.
+- **1309:** *Liber de nominibus divinarum personarum*. A Trinitarian work on the names of the divine persons; ROL 149.
+- **1309:** *Liber de probatione, quod in Deo sunt tres personae, et non plures neque pauciores*. A formal demonstration that God contains exactly three persons; ROL 150.
+- **1287–1289:** *Epistola ad universitatem Parisiensem*. A letter presenting Llull or his Art to the University of Paris; ROL 151.
+- **1287–1289:** *Epistola ad regem Francorum*. A petitionary letter to the king of France; ROL 152.
+- **1287–1289:** *Epistola ad quendam praelatum consiliarium regis Francorum*. A letter to an unnamed prelate and royal adviser; ROL 153.
+- **1309:** *Ars mystica theologiae et philosophiae*. A synthesis of mystical theology, philosophy, and the Art; ROL 154.
+- **1309:** *Liber de perversione entis removenda*. A polemical metaphysical work seeking to remove a “perversion” in the understanding of being; ROL 155.
+- **1310:** *Metaphysica nova et compendiosa*. A concise “new metaphysics”; ROL 156.
+- **1310:** *Liber novus physicorum et compendiosus*. A concise reconstruction of natural philosophy; ROL 157.
+- **1310:** *Liber de ente infinito*. A metaphysical-theological treatise on infinite being; ROL 158.
+- **1310:** *Liber correlativorum innatorum*. A treatise on Llull’s correlatives, the internally related forms of agent, action, and patient; ROL 159.
+- **1310:** *Liber de praedestinatione et praescientia*. A theological work on predestination and divine foreknowledge; ROL 160.
+- **1310:** *Liber de modo naturali intelligendi*. A logical-psychological account of the natural mode of understanding; ROL 161.
+- **1310:** *Supplicatio Raymundi venerabilibus … professoribus ac baccalariis studii Parisiensis*. A formal supplication to the theology faculty at Paris and an act of institutional persuasion; ROL 162.
+- **1310:** *De conversione subiecti et praedicati et medii*. A logical treatise on converting subject, predicate, and middle term; ROL 163.
+- **1310:** *Liber reprobationis aliquorum errorum Averrois*. An anti-Averroist polemic defending Catholic doctrine; ROL 164.
+- **1310:** *Liber, in quo declaratur, quod fides sancta catholica est magis probabilis quam improbabilis*. An apologetic argument for the rational probability of Catholic faith; ROL 165.
+- **1310:** *Liber de possibili et impossibili*. A logical-metaphysical treatise on possibility and impossibility; ROL 166.
+- **1310:** *De fallaciis … contra purissimum actum Dei*. A brief anti-Averroist catalogue of philosophical fallacies; ROL 167.
+- **1310:** *Disputatio Raymundi et Averroistae*. A staged debate between Llull and an Averroist; ROL 168.
+- **1311:** *Liber natalis pueri parvuli Christi Jesu*. A dialogic Nativity meditation joining theology, allegory, and anti-Averroist argument; ROL 169.
+- **1311:** *Liber lamentationis Philosophiae*. An allegorical lament in which Philosophy becomes a speaking figure in the anti-Averroist controversy; ROL 170.
+- **1311:** *Liber contradictionis*. A logical-polemical work on contradiction; ROL 171.
+- **1311:** *Liber de syllogismis contradictoriis*. A protocol of contradictory syllogisms aimed at doctrinal error; ROL 172.
+- **1311:** *Liber de divina unitate et pluralitate*. A theological-metaphysical work on unity and plurality in God; ROL 173.
+- **1311:** *Sermones contra errores Averrois*. Polemical sermons against Averroist doctrines; ROL 174.
+- **1311:** *Liber de efficiente et effectu*. A metaphysical work on efficient cause and effect; ROL 175.
+- **1311:** *Liber facilis scientiae*. A concise method promising an accessible science; ROL 176.
+- **1311:** *Quaestiones factae supra Librum facilis scientiae*. Questions testing or explaining the preceding *Liber facilis scientiae*; ROL 177.
+- **1311:** *Liber de Deo ignoto et de mundo ignoto*. A theological-philosophical treatment of the unknown God and unknown world; ROL 178.
+- **1311:** *Liber de forma Dei*. A theological work on the “form” of God; ROL 179.
+- **1311:** *Liber de divina existentia et agentia*. A treatise on divine existence and agency; ROL 180.
+- **1311:** *Liber de quaestione valde alta et profunda*. A response to a “very high and profound” question; the generic title leaves its identity dependent on the catalogued text, ROL 181.
+- *Liber de beatitudine*. A lost work on beatitude; ROL 182.
+- *Liber de articulis rationum divinarum*. A lost work on the articles of the divine attributes; ROL 183.
+- *Liber de maiestate divina et individua*. A lost theological work on divine and indivisible majesty; ROL 184.
+- *Liber de proprietatibus Dei*. A lost work on the properties of God; ROL 185.
+- *Liber intellectus*. A lost work on intellect, distinct in the catalogue from the surviving *Liber de intellectu*; ROL 186.
+- *Ars navigandi*. A lost protocol or Art of navigation; because no text survives, its practical form and scope cannot securely be described, ROL 187.
+- **1311:** *Liber de ente, quod simpliciter est per se et propter se existens et agens*. A metaphysical-theological treatise on self-existing and self-acting being; ROL 188.
+
+### Self-representation, council intervention, and late theology
+
+- **1311:** *Vita magistri Raymundi / Vita coaetanea*. An autobiographical life dictated by Llull rather than simply written in his own hand; it is simultaneously testimony, institutional credential, and promotion of his project, ROL 189.
+- **1311:** *Del concili*. A verse manifesto addressed to the approaching Council of Vienne; ROL 189a.
+- **1311:** *Liber disputationis Petri et Raymundi / Phantasticus*. A dialogue staged between a cautious cleric and the supposedly “fantastic” Ramon, defending Llull’s mode of life and action; ROL 190.
+- **1311:** *Liber de ente reali et rationis*. A metaphysical treatise distinguishing real and rational being; ROL 191.
+- **1311:** *Liber de divina habentia*. A theological work on divine “having” or possession; ROL 192.
+- **1312:** *Liber de ente simpliciter absoluto*. A metaphysical work on absolutely unqualified being; ROL 193.
+- **1312:** *Liber de locutione angelorum*. A speculative treatise on angelic speech; ROL 194.
+- **1312:** *Liber de participatione christianorum et saracenorum*. A proposal concerning Christian-Muslim participation or shared disputation; ROL 195.
+- **1312:** *Liber de differentia correlativorum divinarum dignitatum*. A technical theological work on distinctions among the correlatives of divine attributes; ROL 196.
+- **1312:** *Liber de quinque principiis quae sunt in omni eo quod est*. A metaphysical treatise identifying five principles in every being; ROL 197.
+- **1312:** *De secretis sacratissimae trinitatis et incarnationis*. A concise rational theology of the Trinity and Incarnation; ROL 198.
+- **1312:** *Liber de novo modo demonstrandi*. A methodological text proposing a new mode of demonstration; ROL 199.
+- **1312:** *Liber, qui continet confessionem*. A confessional text whose generic title resists finer classification without the surviving contents; ROL 200.
+- **1312:** *Liber de sermonibus factis de decem praeceptis*. A sermon collection on the Ten Commandments; ROL 201.
+- **1312:** *Liber de septem sacramentis sanctae Ecclesiae*. A preaching or instructional cycle on the seven sacraments; ROL 202.
+- **1312:** *Liber de Pater noster*. A devotional and homiletic exposition of the Lord’s Prayer; ROL 203.
+- **1312:** *Liber de Ave Maria*. A devotional and homiletic exposition of the Ave Maria; ROL 204.
+
+### Preaching systems, testament, and the Messina cycle
+
+- **1313:** *Llibre de virtuts e pecats / Liber de virtutibus et peccatis*. A major cycle of 182 sermons organized combinatorially around virtues and sins; it is both a sermon corpus and a generative preaching system, ROL 205.
+- **1313:** *Liber de septem donis Spiritus sancti*. A sermon or devotional cycle on the seven gifts of the Holy Spirit; ROL 206.
+- **1313:** *De operibus misericordiae sermones*. Sermons on the works of mercy; ROL 207.
+- **1313:** *Art abreujada de preïcació / Ars abbreviata praedicationis*. A concise protocol for composing sermons through the Art; ROL 208.
+- **1313:** *Liber, per quem poterit cognosci, quae lex sit magis bona, magis magna et etiam magis vera*. A comparative-religion protocol claiming to identify the best and truest law; ROL 209.
+- **1313:** *[Ars infusa]*. A theological-Art text transmitted under an editorially supplied title; ROL 210.
+- **1313:** *De virtute veniali et vitali et de peccatis venialibus et mortalibus*. A moral-theological classification of virtues and venial and mortal sins; ROL 211.
+- **1313:** *Testamentum Raymundi*. Llull’s legal testament, a documentary act rather than a literary composition, but also an instrument for preserving and disseminating his books; ROL 212.
+- **1313:** *Liber de compendiosa contemplatione*. A concise contemplative manual; ROL 213.
+- **1313:** *Llibre de consolació d’ermità / Liber de consolatione eremitae*. A consolatory dialogue or devotional book centered on a hermit; ROL 214.
+- **1313:** *Liber de definitionibus Dei*. A compact theological collection of definitions of God; ROL 215.
+- **1313:** *Liber de accidente et substantia*. A metaphysical work on accident and substance; ROL 216.
+- **1313:** *Liber de ente absoluto*. A treatise on absolute being; ROL 217.
+- **1313:** *Liber de actu maiori*. A short metaphysical-theological work on the greater act; ROL 218.
+- **1313:** *Liber de divinis dignitatibus infinitis et benedictis*. A work on the infinite and blessed divine attributes; ROL 219.
+- **1313:** *Liber propter bene intelligere, diligere et possificare*. A practical intellectual and devotional protocol for understanding, loving, and bringing about good; ROL 220.
+- **1313:** *Liber de medio naturali*. A philosophical work on the natural middle or mediating term; ROL 221.
+- **1313:** *Liber de scientia perfecta*. A short account of perfect knowledge; ROL 222.
+- **1313:** *Liber de infinita et ordinata potestate*. A theological treatise on infinite and ordered power; ROL 223.
+- **1313:** *Liber de minori loco ad maiorem*. A logical or metaphysical ascent from the lesser place to the greater; ROL 224.
+- **1313:** *Liber de infinito esse*. A treatise on infinite being; ROL 225.
+- **1313:** *Liber de trinitate trinitissima*. A concentrated Trinitarian treatise; ROL 226.
+- **1313:** *Liber de sanctitate Dei*. A work on divine holiness; ROL 227.
+- **1313:** *Liber de divina unitate*. A work on divine unity; ROL 228.
+- **1313:** *Liber de inventione Dei*. An Art-based protocol for “finding” or demonstrating God; ROL 229.
+- **1313:** *Liber de quinque praedicabilibus et decem praedicamentis*. A logical treatment of the five predicables and ten categories; ROL 230.
+- **1313:** *Liber de divina natura*. A work on divine nature; ROL 231.
+- **1313:** *Liber de essentia et esse Dei*. A theological-metaphysical treatise on God’s essence and existence; ROL 232.
+- **1313:** *Liber de creatione*. A short theological work on creation; ROL 233.
+- **1313:** *Liber de concordantia et contrarietate*. A logical-metaphysical work on concordance and contrariety; ROL 234.
+- **1314:** *Liber de potestate pura*. A theological treatise on pure power; ROL 235.
+- **1314:** *Liber de intelligere Dei*. A work on God’s act of understanding; ROL 236.
+- *Liber de sapientia Dei absoluta et ordinata*. A lost work on God’s absolute and ordered wisdom; ROL 237.
+- **1314:** *Liber de divina voluntate infinita et ordinata*. A work on infinite and ordered divine will; ROL 238.
+- **1314:** *Liber de Deo maiore et Deo minore*. A paradoxically titled theological comparison of “greater” and “lesser” God-language; ROL 239.
+- **1314:** *Liber de affirmatione et negatione*. A logical-theological work on affirmation and negation; ROL 240.
+- **1314:** *Liber de iustitia Dei*. A treatise on divine justice; ROL 241.
+- **1314:** *Liber de fine maiore*. A work on the greater end; ROL 242.
+- **1314:** *Liber de vita divina*. A short work on divine life; ROL 243.
+- **1314:** *Liber de perfecto esse*. A metaphysical-theological treatise on perfect being; ROL 244.
+- **1314:** *Liber de obiecto finito et infinito*. A work on finite and infinite objects; ROL 245.
+- **1314:** *Liber de memoria Dei*. A theological work on divine memory; ROL 246.
+- **1314:** *Liber de multiplicatione, quae fit in essentia Dei per divinam Trinitatem*. A Trinitarian treatise on multiplication within the divine essence; ROL 247.
+- **1314:** *Liber de perseitate Dei*. A work on God’s being-through-himself; ROL 248.
+- **1314:** *De ostentione, per quam fides catholica est probabilis atque demonstrabilis*. A concise demonstration of the Catholic faith’s probability and demonstrability; ROL 249.
+- **1314:** *Liber de civitate mundi*. An allegorical political-theological work presenting the world as a city; ROL 250.
+
+### Letters and final Tunisian works
+
+- **1314:** *[Lletra als jurats de la Ciutat de Mallorca]*. A letter to the municipal jurors of Majorca preserved under a descriptive editorial title; ROL 251.
+- *Epistola Raymundi ad Regem Aragoniae*. A lost letter to the king of Aragon; its date and contents are not fixed in the cited catalogue, ROL 252.
+- **1315:** *Ars consilii*. A systematic Art of counsel or deliberation; ROL 253.
+- **1315:** *Liber de Deo et suis propriis qualitatibus infinitis*. A theological work on God and his infinite proper qualities; ROL 254.
+- *Lost work recorded as ROL 255*. The chronological catalogue reserves a separate work-number but supplies no title or date; it therefore resists identification as anything more specific than a lost-work record.
+- *Lost work recorded as ROL 256*. The catalogue supplies neither title nor date, so no genre can responsibly be invented.
+- *Lost work recorded as ROL 257*. An individually numbered but otherwise unidentified lost-work record.
+- *Lost work recorded as ROL 258*. The catalogue gives no recoverable title, date, or form.
+- *Lost work recorded as ROL 259*. Its status as a separately numbered item survives, but the made thing itself cannot now be characterized.
+- *Lost work recorded as ROL 260*. An unidentified catalogue slot for a lost work, not a securely nameable text.
+- *Lost work recorded as ROL 261*. Neither title nor date is preserved in the consulted chronological catalogue.
+- *Lost work recorded as ROL 262*. A numbered trace of a work whose medium and subject cannot safely be supplied.
+- *Lost work recorded as ROL 263*. The entry records loss rather than a recoverable textual object.
+- *Lost work recorded as ROL 264*. No fixed title, date, or description survives in the consulted catalogue.
+- *Lost work recorded as ROL 265*. An unidentified lost work represented only by its catalogue number.
+- *Lost work recorded as ROL 266*. The work’s separate identity is catalogical, while its contents remain unknown.
+- *Lost work recorded as ROL 267*. A lost and untitled item for which classification would be conjectural.
+- *Lost work recorded as ROL 268*. The catalogue preserves only an empty numbered position, making even its status as a distinguishable work unusually resistant.
+- *Epistola Raymundi ad Regem Iacobum Aragoniae*. A lost letter to King James of Aragon; the catalogue gives no secure date, ROL 269.
+- **1315:** *Liber de inventione maiore*. A very brief final work on “greater invention”; ROL 270.
+- **1315:** *Liber de agentia maiore*. A very brief final work on greater agency; ROL 271.
+- **1315:** *Liber de bono et malo*. A short treatise on good and evil; ROL 272.
+- *Liber de unitate maiori*. A lost work on greater unity; ROL 273.
+- *Liber de essentia maiori*. A lost work on greater essence; ROL 274.
+- *Liber de pertinentia maiori*. A lost work on greater pertinence or belonging; ROL 275.
+- *Liber de obiectatione maiori*. A lost work on greater objectification or objection; its exact sense cannot be recovered from the title alone, ROL 276.
+- **1315:** *Liber de maiori fine intellectus, amoris et honoris*. A final theological work on the greater end of intellect, love, and honor; ROL 277.
+- **1315:** *Liber de Deo et de mundo*. A late synthesis on God and the world; ROL 278.
+- **1309:** *Liber de exemplo unissimae et volissimae voluntatis*. A brief theological exemplum concerning supremely unified and willing will; ROL 279.
+- **1309:** *Liber de esse Dei*. A concise work on God’s being; ROL 280.
+
+### Works reported but not securely recoverable as authored texts
+
+- **Before c. 1263:** *Courtly songs and poems*. The autobiographical tradition presents the young Llull as composing troubadour-style love songs, but no securely attributable examples survive; this is evidence of a creative practice, not a list of recoverable works.
+- **1271–1273:** *Arabic version of the Libre de contemplació*. Llull’s early biography and the work’s transmission associate it with an Arabic original, now lost; whether “original,” author-supervised version, and later translation can be separated as independent works remains disputed.
+- **c. 1274:** *Illumination at Randa*. Llull treated the revelation of the Art as something received rather than authored. It is therefore a creation or manifestation in his account, but resists being called a work he made.
+- **1307–1308:** *First version of the Béjaïa disputation*. A manuscript begun during imprisonment and reportedly lost in a shipwreck; the surviving *Liber disputationis Raimundi christiani et Homeri saraceni* is Llull’s reconstruction, not the lost object itself.
+
+### Sources
+
+- Jordi Gayà, [*Catálogo de las obras de Ramon Llull*](https://jordigaya.com/llull/cataleg.html). Chronological list numbered ROL 1–280, with dates, variant-language titles, critical-edition references, and explicit identification of lost works; used as the item-by-item spine of this list.
+- Anthony Bonner, *Selected Works of Ramon Llull (1232–1316)*, 2 vols. (Princeton University Press, 1985), pp. 1257–1304, “A Chronological Catalogue of Ramon Llull’s Works”; revised Catalan version in *Obres selectes de Ramon Llull* (Editorial Moll, 1989), vol. 2, pp. 539–589. The catalogue’s scope and publication history are documented in the [online catalogue notice](https://www.ramonllull.net/sw_studies/l_br/s_catalogo.html) and the [publisher’s description](https://novaeditorialmoll.cat/producte/obres-selectes-de-ramon-llull-1232-1316/).
+- Fernando Domínguez Reboiras, updated by Viola Tenge-Wolf, “Chronological catalogue of Ramon Llull’s works,” in *Raimundi Lulli Opera Latina*, scholars’ edition contents described in the [Corpus Christianorum catalogue](https://www.brepols.net/files/publicity/d/b/d/dbd7974d-8faa-4207-8600-0e8abb43cf5f/CC-catalogus_2020_v6_LoRes.pdf). Used to check the collected-works framework and later ROL organization.
+- Centre de Documentació Ramon Llull, Universitat de Barcelona, [Ramon Llull Database](https://www.ub.edu/llulldb/bibliografia/catalegs/obres). The database distinguishes authentic, apocryphal, and related works and supplies the scholarly catalogue infrastructure rather than library-edition records.
+- Centre de Documentació Ramon Llull, [“Chronology”](https://www.quisestlullus.narpan.net/en/chronology). Used for the chronology of composition, journeys, the lost Béjaïa manuscript, the sermon cycle, and Llull’s final Tunisian production.
+- Centre de Documentació Ramon Llull, [“The phases of the Art”](https://quisestlullus.narpan.net/en/phases-art). Used for the distinction among the pre-Art, quaternary, ternary, and post-Art phases and for understanding successive Arts as reformulations of a project.
+- Centre de Documentació Ramon Llull, [“Profile of Ramon Llull”](https://quisestlullus.narpan.net/en/profile-ramon-llull). Used for the multilingual production history, the Miramar school, the missionary project, and the approximate extent of the authentic corpus.
+- Centre de Documentació Ramon Llull, [“The new Literature”](https://www.quisestlullus.narpan.net/en/new-literature). Used for the distinction among Llull’s novels, verse, proverbs, exempla, and innovative preaching rather than treating every item simply as a “book.”
+- Centre de Documentació Ramon Llull, [“The Figure of Ramon”](https://quisestlullus.narpan.net/en/figure-ramon). Used for the propagandistic and self-fashioning status of *Desconhort*, *Cant de Ramon*, *Vita coaetanea*, and *Phantasticus*.

@@ -1,0 +1,300 @@
+## Works by Siméon Denis Poisson
+
+### Separately published works and editorial projects
+
+- **1809:** *Cours de mécanique de la seconde division, comprenant la statique et les premiers principes de la dynamique*. Printed course notes—a pedagogical obra rather than a research memoir.
+- **1809:** *Cours de mécanique de la première division, comprenant la suite de la dynamique, l’hydrostatique et l’hydrodynamique*. Companion volume to the preceding course.
+- **1811:** *Traité de mécanique*. Two-volume treatise; substantially remade for the second edition rather than merely reprinted.
+- **1811:** *Théorie de la figure de la terre, tirée des principes de l’hydrostatique, par Clairaut*. Poisson’s second edition of Clairaut: an editorial and mathematical intervention, not an originally authored treatise.
+- **1826:** *Formules relatives aux effets du tir du canon sur les différentes parties de son affût, et règles pour calculer la grandeur et la durée du recul*. Applied-mathematical protocol for artillery calculation.
+- **1831:** *Nouvelle théorie de l’action capillaire*. Book-length mathematical-physics obra.
+- **1833:** *Traité de mécanique*, second edition. A revised two-volume manifestation of the 1811 treatise.
+- **1835:** *Théorie mathématique de la chaleur*. Book-length synthesis of Poisson’s heat theory.
+- **1837:** *Mémoire sur les températures de la partie solide du globe, de l’atmosphère et du lieu de l’espace où la Terre se trouve actuellement*. Separately issued memoir conceived as a supplement to *Théorie mathématique de la chaleur*.
+- **1837:** *Recherches sur la probabilité des jugements en matière criminelle et en matière civile, précédées des règles générales du calcul des probabilités*. Book-length probabilistic and juridical study.
+- **1837:** *Théorie mathématique de la chaleur*. A separately issued abridged opuscule, not simply another copy of the 1835 book.
+- **1838:** *Formules relatives aux effets du tir du canon…*, second edition. Revised manifestation with notes by Guillaume Piobert; consequently not solely Poisson’s textual object.
+- **1839:** *Recherches sur le mouvement des projectiles dans l’air, en ayant égard à leur figure et leur rotation, et à l’influence du mouvement diurne de la Terre*. Composite volume gathering three previously published memoirs.
+
+### Mathematical memoirs and notes
+
+- **1800:** *Mémoire sur la pluralité des intégrales dans le calcul des différences*. Research memoir.
+- **Date not stated:** *Additions à un Mémoire sur l’application de l’algèbre à la géométrie*. Joint mathematical addition by Hachette and Poisson.
+- **Date not stated:** *Mémoire sur l’élimination dans les équations algébriques*. Research memoir.
+- **Date not stated:** *Note sur les équations primitives singulières*. Mathematical note.
+- **Date not stated:** *Mémoire sur les solutions particulières des équations différentielles et des équations aux différences*. Research memoir, followed in print by additions.
+- **Date not stated:** *Additions au Mémoire sur les solutions particulières des équations différentielles et des équations aux différences*. Supplementary mathematical text.
+- **Date not stated:** *Mémoire sur les équations aux différences mêlées*. Research memoir.
+- **Date not stated:** *Extrait de mes leçons sur les points singuliers*. Printed pedagogical extract.
+- **1804:** *Extrait d’un Mémoire sur les questions de maximis et minimis relatives aux intégrales*. Abstract or manifestation of a longer memoir, not necessarily an autonomous obra.
+- **1804:** *Remarques sur les intégrales des équations aux différences partielles*. Mathematical note.
+- **Date not stated:** *Mémoire sur les intégrales définies*. Research memoir.
+- **1811:** *Sur les intégrales définies*. Shorter printed mathematical article.
+- **Date not stated:** *Suite du Mémoire sur les intégrales définies*. First continuation.
+- **Date not stated:** *Suite du Mémoire sur les intégrales définies*. Second continuation, separately printed in the next issue.
+- **Date not stated:** *Suite du Mémoire sur les intégrales définies et sur la sommation des séries*. Further continuation.
+- **Date not stated:** *Suite du Mémoire sur les intégrales définies et sur la sommation des séries*. Another separately printed continuation.
+- **Date not stated:** *Mémoire sur la manière d’exprimer les fonctions par des séries de quantités périodiques, et sur l’usage de cette transformation dans la solution de différents problèmes*. Research memoir on periodic series.
+- **Date not stated:** *Addition au Mémoire sur la manière d’exprimer les fonctions par des séries de quantités périodiques*. Supplementary note.
+- **Date not stated:** *Mémoire sur l’intégration des équations linéaires aux différences partielles*. Research memoir.
+- **1815:** *Note sur une difficulté relative à l’intégration des équations aux différences partielles du premier ordre*. Mathematical note, reprinted elsewhere.
+- **1817:** *Note sur la forme des intégrales des équations aux différences partielles*. Mathematical note.
+- **1818:** *Remarque relative à une note de M. Cauchy sur l’intégration d’une classe particulière d’équations différentielles*. Critical mathematical response.
+- **1819:** *Extrait d’un Mémoire sur l’intégration de plusieurs équations linéaires aux différences partielles*. Abstract or abbreviated manifestation.
+- **1822:** *Remarques sur les intégrales des équations aux différences partielles*. Mathematical note.
+- **1822:** *Extrait d’un Mémoire sur les intégrales définies et sur la sommation des séries*. Abstract of earlier research rather than a wholly new obra.
+- **1826:** *Mémoire sur le calcul numérique des intégrales définies*. Research memoir.
+- **1826:** *Extrait du Mémoire sur le calcul numérique des intégrales définies*. Abbreviated manifestation of the preceding memoir.
+- **Date not stated:** *Mémoire sur la courbure des surfaces*. Differential-geometrical memoir, later reprinted.
+- **Date not stated:** *Note sur les surfaces développables*. Mathematical note.
+- **Date not stated:** *Note sur la surface dont l’aire est un minimum entre des limites données*. Variational note.
+- **Date not stated:** *Note sur une difficulté relative à la rectification des courbes*. Mathematical note.
+- **Date not stated:** *Sur les lignes élastiques à double courbure*. Mathematical-mechanical article.
+- **Date not stated:** *Théorèmes relatifs aux intégrales des fonctions algébriques*. Research note.
+- **1837:** *Note sur un passage de la seconde partie de la Théorie des fonctions*. Critical note.
+- **1837:** *Addition à la note sur un passage de la seconde partie de la Théorie des fonctions*. Supplement.
+- **1837:** *Remarques sur l’intégration des équations différentielles de la dynamique*. Mathematical-mechanical note.
+- **1837:** *Remarques sur les intégrales des fonctions rationnelles*. Mathematical note.
+- **1837:** *Solution d’un problème de probabilité*. Research note.
+- **1837:** *Note sur un passage de la Mécanique céleste*. Critical mathematical note.
+- **1838:** *Note sur les limites de la série de Taylor*. Mathematical note.
+- **1838:** *Note sur l’intégration des équations linéaires aux différences partielles*. Mathematical note.
+- **Date not stated:** *Démonstration du théorème de Taylor*. Expository proof.
+- **Date not stated:** *Application du théorème de Taylor au développement des fonctions*. Expository note, also incorporated into Garnier’s *Leçons d’analyse*.
+- **Date not stated:** *Note sur les développements des puissances des sinus et cosinus en séries de sinus et cosinus d’arcs multiples*. Mathematical note.
+- **Date not stated:** *Observations relatives au développement des puissances de sinus et de cosinus en séries de sinus ou de cosinus d’angles multiples*. Mathematical article.
+- **Date not stated:** *Addition aux Observations relatives au développement des puissances de sinus et de cosinus*. Supplement.
+- **Date not stated:** *Remarque sur une classe particulière d’équations aux différences partielles*. Mathematical note.
+- **Date not stated:** *Note sur les racines des équations transcendantes*. Mathematical note, published in more than one venue.
+- **Date not stated:** *Note sur différentes propriétés des projections*. Geometrical note.
+
+### Mechanics, elasticity, acoustics, fluids, and ballistics
+
+- **Date not stated:** *Mémoire sur les oscillations du pendule dans un milieu résistant, et ayant égard à l’extensibilité du fil*. Research memoir.
+- **Date not stated:** *Addition au Mémoire sur le pendule*. Supplementary memoir.
+- **Date not stated:** *Mémoire sur la théorie du son*. Acoustical memoir.
+- **Date not stated:** *Mémoire sur un cas particulier du mouvement de rotation des corps pesants*. Mechanical memoir.
+- **Date not stated:** *Mémoire sur les équations générales de l’équilibre et du mouvement des corps solides élastiques et des fluides*. Foundational continuum-mechanics memoir.
+- **Date not stated:** *Formules relatives au mouvement du boulet dans l’intérieur du canon, extraites des manuscrits de Lagrange*. An editorial derivation from Lagrange’s manuscripts; Poisson made the printed formulation, but not its entire mathematical substance.
+- **Date not stated:** *Conditions d’équilibre des corps solides*. Mechanical note.
+- **Date not stated:** *Démonstration du parallélogramme des forces*. Proof recorded in Petit’s rédaction, so the surviving textual manifestation is mediated by another writer.
+- **Date not stated:** *Note sur la composition des mouvements*. Mechanical note.
+- **Date not stated:** *Addition à la note sur la composition des mouvements*. Supplement.
+- **Date not stated:** *Sur le frottement des corps qui tournent*. Applied-mechanics article.
+- **1816:** *Note sur une propriété des équations générales du mouvement*. Mechanical note.
+- **1819:** *Note sur le mouvement d’un système de corps en supposant les masses variables*. Mechanical note.
+- **Date not stated:** *Mémoire sur les surfaces élastiques*. Research memoir.
+- **Date not stated:** *Extrait du Mémoire sur les surfaces élastiques*. Abbreviated manifestation.
+- **Date not stated:** *Note sur les vibrations des corps sonores*. Acoustical note.
+- **Date not stated:** *Note sur l’intégration de l’équation relative aux vibrations des plaques élastiques*. Mathematical-acoustical note.
+- **Date not stated:** *Note sur l’extension des fils et des plaques élastiques*. Elasticity note.
+- **Date not stated:** *Mémoire sur l’équilibre et le mouvement des corps solides élastiques*. Academy memoir.
+- **Date not stated:** *Addition au Mémoire sur l’équilibre et le mouvement des corps solides élastiques*. Supplement.
+- **Date not stated:** *Préambule et extrait du Mémoire sur l’équilibre et le mouvement des corps élastiques*. Abbreviated manifestation.
+- **Date not stated:** *Réponse à une note de M. Navier*. Polemical scientific response concerning elasticity.
+- **Date not stated:** *Lettre à M. Arago en réponse à une seconde note de M. Navier*. Open scientific letter.
+- **Date not stated:** *Note sur la compression d’une sphère*. Elasticity note.
+- **Date not stated:** *Mémoire sur le mouvement des fluides élastiques dans des tuyaux cylindriques et sur la théorie des instruments à vent*. Composite research memoir joining fluid dynamics and acoustics.
+- **Date not stated:** *Mémoire sur la théorie des instruments à vent*. Research memoir also circulated through an extract.
+- **1818:** *Mémoire sur le mouvement des fluides élastiques dans des tuyaux cylindriques*. Research memoir; Poisson’s catalogue gives “1808” for its Bulletin extract, almost certainly a typographical error, so the date is disputed.
+- **1818:** *Remarques sur un rapport qui existe entre la propagation des ondes à la surface de l’eau et leur propagation dans une plaque élastique*. Comparative physical note.
+- **Date not stated:** *Mémoire sur la propagation du mouvement dans les fluides élastiques*. Poisson says this text was absorbed into the memoir on two superposed fluids; it therefore resists treatment as a fully independent finished work.
+- **Date not stated:** *Mémoire sur le mouvement de deux fluides élastiques superposés*. Academy memoir.
+- **Date not stated:** *Mémoire sur la propagation du mouvement dans les milieux élastiques*. Academy memoir.
+- **1829:** *Mémoire sur les petites oscillations de l’eau contenue dans un cylindre*. Hydrodynamical memoir.
+- **Date not stated:** *Note sur le mouvement d’un liquide pesant dans l’hypothèse du parallélisme des tranches*. Hydrodynamical note.
+- **Date not stated:** *Sur l’écoulement de l’eau dans un cylindre vertical*. Hydrodynamical article.
+- **1819:** *Sur les oscillations du pendule composé*. Mechanical memoir.
+- **1833:** *Mémoire sur l’influence réciproque de deux pendules voisins*. Mechanical memoir.
+- **1833:** *Mémoire sur le pendule de Borda*. Mechanical and metrological memoir.
+- **1834:** *Mémoire sur le mouvement du pendule dans un milieu résistant*. Mechanical memoir.
+- **Date not stated:** *Mémoire sur les mouvements simultanés d’un pendule et de l’air environnant*. Academy memoir, also reprinted in *Connaissance des temps*.
+- **Date not stated:** *Addition au Mémoire sur les mouvements simultanés d’un pendule et de l’air environnant*. Supplement.
+- **Date uncertain:** *Lettre sur les oscillations du pendule dans l’air*. Poisson himself was unsure whether it had been printed; its status as a published work is therefore unresolved.
+- **Date not stated:** *Mémoire sur le mouvement d’un corps solide*. Academy memoir.
+- **Date not stated:** *Note sur le mouvement de rotation des corps solides*. Research note.
+- **Date not stated:** *Analyse du Mémoire sur le mouvement de rotation des corps solides*. Authorial abstract or analytical manifestation.
+- **Date not stated:** *Mémoire sur le mouvement des projectiles dans l’air, en ayant égard à la rotation de la Terre*. Ballistics memoir.
+- **1837–1838:** *Mémoire sur le mouvement des projectiles dans l’air, en ayant égard à leur rotation*. Ballistics memoir published in two parts.
+- **Date not stated:** *Second Mémoire sur le mouvement des projectiles dans l’air, en ayant égard à leur rotation*. Continuation.
+- **Date not stated:** *Addition au chapitre III du premier Mémoire sur le mouvement des projectiles*. Supplement.
+- **Date not stated:** *Formules de probabilités relatives au résultat moyen des observations qui peuvent être utiles dans l’artillerie*. Applied-probability protocol.
+- **Date not stated:** *Sur la probabilité du tir à la cible*. Applied-probability article.
+- **Posthumously published:** *Mémoire sur l’équilibre et le mouvement des corps cristallisés*. Completed scientific memoir, announced by a preamble in 1839 and published after Poisson’s death.
+
+### Electricity, magnetism, optics, heat, and capillarity
+
+- **1811:** *Mémoire sur la distribution de l’électricité à la surface des corps conducteurs*. First Academy memoir on electricity.
+- **1811:** *Second Mémoire sur la distribution de l’électricité à la surface des corps conducteurs*. Continuation.
+- **1812–1813:** *Extraits des deux Mémoires sur la distribution de l’électricité à la surface des corps conducteurs*. Abbreviated manifestations, not distinct research obras.
+- **1824:** *Mémoire sur la distribution de l’électricité dans une sphère creuse électrisée par influence*. Research memoir, printed in more than one journal.
+- **Date not stated:** *Mémoire sur la théorie des ondes*. Physical memoir.
+- **1815:** *Extrait du premier Mémoire sur la théorie des ondes*. Abbreviated manifestation.
+- **1817:** *Extrait du second Mémoire sur la théorie des ondes*. Abbreviated manifestation.
+- **Date not stated:** *Note sur le problème des ondes*. Academy note.
+- **Date not stated:** *Extrait d’une lettre à M. Fresnel*. Fragmentary optical communication; its title does not identify the full subject.
+- **Date not stated:** *Sur le phénomène des anneaux colorés*. Optical note.
+- **1826:** *Sur la vitesse du son*. Physical article, reprinted in another periodical.
+- **Date not stated:** *Sur la chaleur des gaz et des vapeurs*. Thermodynamical memoir.
+- **Date not stated:** *Addition au Mémoire sur la chaleur des gaz et des vapeurs*. Supplement.
+- **1814:** *Note sur la chaleur rayonnante*. Physical note.
+- **1815:** *Remarque relative à la Note sur la chaleur rayonnante*. Supplement.
+- **Date not stated:** *Sur la chaleur rayonnante*. Later article.
+- **Date not stated:** *Note relative au Mémoire sur la chaleur rayonnante*. Supplement.
+- **Date not stated:** *Discussion relative à la chaleur rayonnante*. Polemical scientific text.
+- **Date not stated:** *Mémoire sur la distribution de la chaleur dans les corps solides*. First research memoir.
+- **Date not stated:** *Addition au Mémoire sur la distribution de la chaleur dans les corps solides*. Supplement.
+- **Date not stated:** *Second Mémoire sur la distribution de la chaleur dans les corps solides*. Research continuation.
+- **1820:** *Second extrait du premier Mémoire sur la distribution de la chaleur dans les corps solides*. Abbreviated manifestation.
+- **1820 or 1821:** *Extrait du second Mémoire sur la distribution de la chaleur dans les corps solides*. Poisson left the publication year uncertain.
+- **1826:** *Sur la distribution de la chaleur dans un anneau, lorsque la température du lieu où il est placé varie d’un point à un autre*. Research article.
+- **Date not stated:** *Sur la température des différents points de la Terre, particulièrement près de la surface*. Geophysical-thermal memoir.
+- **1833:** *Extrait détaillé de la Théorie mathématique de la chaleur*. Authorial digest.
+- **1835:** *Note sur les inégalités diurnes et annuelles de la température de la Terre, correspondantes à celles de la chaleur solaire*. Research note.
+- **Date not stated:** *Mémoire sur la théorie du magnétisme*. First Academy memoir.
+- **Date not stated:** *Second Mémoire sur la théorie du magnétisme*. Continuation.
+- **Date not stated:** *Mémoire sur la théorie du magnétisme en mouvement*. Research memoir.
+- **1825–1826:** *Solution d’un problème relatif au magnétisme terrestre*. Research article published in two installments.
+- **Date not stated:** *Addition à l’extrait du Mémoire sur la théorie du magnétisme en mouvement*. Supplement.
+- **1838:** *Mémoire sur les déviations de la boussole produites par le fer des vaisseaux*. Magnetic and navigational memoir; a later manifestation bears the date 1841 because it was printed posthumously in *Connaissance des temps*.
+- **Date not stated:** *Mémoire sur l’équilibre des fluides*. Academy memoir.
+- **Date not stated:** *Note sur des effets qui peuvent être produits par la capillarité et les affinités des substances hétérogènes*. Physical note, reprinted in Magendie’s journal.
+- **Posthumous; date not fixed:** *Mémoire sur les apparences des corps lumineux en repos ou en mouvement*. Manuscript found among Poisson’s papers and submitted to the Academy by his son Charles; its degree of completion is not stated, so it resists classification as a finished obra.
+
+### Astronomy, geodesy, and celestial mechanics
+
+- **1808:** *Mémoire sur les inégalités séculaires des moyens mouvements des planètes*. Celestial-mechanics memoir.
+- **1809:** *Mémoire sur le mouvement de rotation de la Terre*. Celestial-mechanics memoir.
+- **1809:** *Mémoire sur la variation des constantes arbitraires dans les questions de mécanique*. Research memoir, with a second memoir and later Academy manifestation.
+- **1816:** *Second Mémoire sur la variation des constantes arbitraires*. Research continuation.
+- **1819:** *Note sur l’invariabilité du jour moyen*. Astronomical note.
+- **1821:** *Sur la libration de la Lune*. Celestial-mechanics memoir.
+- **1822:** *Addition au Mémoire sur la libration de la Lune*. Supplement.
+- **1821:** *Sur le problème de la précession des équinoxes*. Astronomical memoir.
+- **1827:** *Sur une nouvelle manière d’exprimer les coordonnées des planètes dans le mouvement elliptique*. Mathematical-astronomical memoir; the catalogue prints “coordinations,” apparently a typographical corruption.
+- **1829:** *Mémoire sur l’attraction des sphéroïdes*. Research memoir.
+- **1831:** *Additions au Mémoire sur l’attraction des sphéroïdes*. Supplement.
+- **1831:** *Mémoire sur plusieurs points de la mécanique céleste*. Composite astronomical memoir.
+- **1831:** *Note relative au Mémoire sur plusieurs points de la mécanique céleste*. Supplement.
+- **1832:** *Addition au Mémoire sur plusieurs points de la mécanique céleste*. Further supplement.
+- **Date not stated:** *Mémoire sur le mouvement de la Terre autour de son centre de gravité*. Academy memoir.
+- **Date not stated:** *Note relative au Mémoire sur le mouvement de la Terre autour de son centre de gravité*. Supplement.
+- **1836:** *Sur le développement des coordonnées d’une planète dans son mouvement elliptique et de la fonction perturbatrice de ce mouvement*. Celestial-mechanics memoir.
+- **1836:** *Sur la stabilité du système planétaire*. Celestial-mechanics memoir.
+- **Date not stated:** *Mémoire sur le mouvement de la Lune autour de la Terre*. Academy memoir.
+- **1836:** *Extrait du Mémoire sur le mouvement de la Lune autour de la Terre, avec une note sur la masse de Jupiter*. Abbreviated and augmented manifestation.
+- **1836:** *Sur la variation dans le mouvement de la Lune*. Astronomical note.
+- **1837:** *Note sur les inégalités du mouvement de la Lune autour de la Terre*. Astronomical note.
+- **1837:** *Remarques sur l’invariabilité des grands axes des orbites, dans le mouvement des planètes en général et dans le mouvement de la Lune en particulier*. Research note.
+- **1837:** *Mémoire sur la précession des équinoxes dans l’hypothèse d’une très-petite obliquité de l’écliptique, et spécialement d’une vitesse initiale de rotation égale à zéro*. Celestial-mechanics memoir.
+- **Date not stated:** *Note sur la précession des équinoxes*. Astronomical note.
+- **Date not stated:** *Mémoire sur l’attraction d’un ellipsoïde homogène*. Academy memoir.
+- **1837:** *Note sur l’attraction d’un ellipsoïde hétérogène*. Research note.
+- **1834:** *Préambule d’une note relative à l’attraction d’un ellipsoïde hétérogène et à l’équilibre d’un fluide homogène*. Preliminary manifestation.
+- **1838:** *Remarques à l’occasion d’un rapport relatif à l’attraction des ellipsoïdes*. Scientific response.
+- **1838:** *Addition aux remarques sur l’attraction des ellipsoïdes*. Supplement.
+- **1838:** *Note sur une propriété générale des formules relatives aux attractions des sphéroïdes*. Research note.
+- **1827:** *Note sur une formule relative à l’attraction des sphéroïdes*. Article in the *Philosophical Magazine*.
+- **1835:** *Quelques mots sur la comète de Halley*. Short astronomical communication.
+- **Date not stated:** *Note sur le plan invariable*. Celestial-mechanics note.
+
+### Probability and statistics
+
+- **1820:** *Mémoire sur l’avantage du banquier au jeu de trente et quarante*. Probability memoir, later reprinted and abstracted.
+- **1827:** *Sur la probabilité des résultats moyens des observations*. Statistical memoir.
+- **1832:** *Suite du Mémoire sur la probabilité des résultats moyens des observations*. Continuation.
+- **Date not stated:** *Note sur la probabilité du résultat moyen des observations*. Statistical note.
+- **Date not stated:** *Mémoire sur la proportion des naissances des filles et des garçons*. Statistical memoir.
+- **Date not stated:** *Observations sur le rapport des naissances des deux sexes*. Short statistical article.
+- **1836:** *Note sur la loi des grands nombres*. Probability note.
+- **1836:** *Note sur le calcul des probabilités*. Probability note.
+- **1836:** *Formules relatives aux probabilités qui dépendent de grands nombres*. Research note.
+- **1837:** *Note sur la proportion des condamnations prononcées par le jury*. Statistical-juridical note.
+- **1837:** *Addition à la note sur la proportion des condamnations prononcées par le jury*. Supplement.
+- **1836–1837:** *Programme des cours de calcul des probabilités à la Faculté des sciences*. Teaching protocol rather than a research obra.
+
+### Reviews, reports, editorial notices, and institutional protocols
+
+- **1807:** *Annonce des éléments d’une comète calculés par M. Bouvard*. Editorial notice.
+- **1807:** *Extrait d’un Mémoire de M. Malus sur l’optique*. Critical abstract of another author’s work.
+- **1808:** *Compte rendu des expériences de M. Biot sur la production du son dans les vapeurs*. Scientific report.
+- **1808:** *Compte rendu d’un Mémoire de M. Malus sur le pouvoir réfringent des corps opaques*. Scientific report.
+- **1808:** *Annonce des éléments de la planète Vesta déterminés par M. Burckhardt*. Editorial notice.
+- **1808:** *Extrait d’un Mémoire de M. Fourier sur la propagation de la chaleur dans les corps solides*. Critical abstract.
+- **1808:** *Annonce de la seconde édition du Traité de la résolution des équations numériques de Lagrange*. Bibliographical notice.
+- **1808:** *Extrait d’un Mémoire de M. de Humboldt sur les réfractions astronomiques dans la zone torride*. Critical abstract.
+- **1808:** *Extrait du supplément au troisième volume de la Mécanique céleste*. Critical abstract of Laplace.
+- **1808:** *Annonce des tables de Saturne et Jupiter et des tables écliptiques des satellites de Jupiter*. Institutional notice.
+- **1808:** *Extrait d’un Mémoire de M. Biot sur les réfractions extraordinaires très-près de l’horizon*. Critical abstract.
+- **1808:** *Annonce de la seconde édition de l’Essai sur la théorie des nombres de Legendre*. Bibliographical notice.
+- **1809–1810:** *Extraits et annonces des Mémoires de Lagrange sur la variation des constantes arbitraires*. A sequence of three editorial abstracts, manifestations of Poisson’s work as scientific mediator rather than original research.
+- **1810:** *Extrait d’un Mémoire de Laplace sur les approximations des formules qui sont fonctions de très-grands nombres*. Critical abstract.
+- **1811:** *Extrait d’un Mémoire de Laplace sur les intégrales définies*. Critical abstract.
+- **1811:** *Extrait d’un Mémoire de Binet sur la théorie des moments d’inertie des corps*. Critical abstract.
+- **1811:** *Extrait d’un Mémoire de Laplace sur les fonctions génératrices, les intégrales définies et leur application au calcul des probabilités*. Critical abstract.
+- **1812:** *Extrait du Mémoire de Cauchy sur l’égalité des polyèdres composés des mêmes faces*. Critical abstract.
+- **1812:** *Annonce des éléments d’une comète calculés par Bouvard et Nicollet*. Editorial notice.
+- **1812:** *Annonce de la Théorie analytique des probabilités de Laplace*. Bibliographical notice.
+- **1812–1813:** *Extrait du Mémoire d’Ivory sur l’attraction des ellipsoïdes homogènes*, with an addition. Critical abstract and supplement.
+- **1813:** *Annonce des tables de la Lune de Burckhardt*. Bibliographical notice.
+- **1813:** *Annonce des Développements de géométrie analytique de Dupin*. Bibliographical notice.
+- **1813:** *Annonce de la seconde édition de la Théorie des fonctions analytiques*. Bibliographical notice.
+- **1813:** *Annonce de la quatrième édition de l’Exposition du système du monde*. Bibliographical notice.
+- **1814:** *Extrait des Mémoires de Cauchy sur la détermination du nombre des racines réelles des équations algébriques*. Critical abstract.
+- **1814:** *Extrait d’un Mémoire d’Ampère sur l’intégration des équations aux différences partielles*. Critical abstract.
+- **1814:** *Annonce de la seconde édition de la Théorie analytique des probabilités*. Bibliographical notice.
+- **1814:** *Extrait d’un Mémoire d’Ampère sur les équations aux différences partielles*. Critical abstract.
+- **1814:** *Extrait d’un Mémoire de Cauchy sur les intégrales définies*. Critical abstract.
+- **1815:** *Extrait d’un rapport sur l’élévation de l’eau de la Seine à Marly*. Administrative-scientific report.
+- **1815:** *Extrait d’un Mémoire de Dubourguet sur la réalité et les signes des racines des équations*. Critical abstract.
+- **1815:** *Extrait d’un Mémoire de Rodrigues sur quelques propriétés des intégrales doubles et des rayons de courbure des surfaces*. Critical abstract.
+- **1815:** *Extrait d’un Mémoire d’Ampère sur un théorème relatif à la double réfraction*. Critical abstract.
+- **1815:** *Annonce des éléments elliptiques d’une comète dont la révolution serait d’environ soixante-quatorze ans*. Astronomical notice.
+- **1816:** *Extrait d’un Mémoire de Bouvard et Nicollet sur la libration de la Lune*. Critical abstract.
+- **1816:** *Extrait d’un Mémoire de Pouillet sur les anneaux colorés*. Critical abstract.
+- **1816:** *Annonce du supplément à la Théorie analytique des probabilités*. Bibliographical notice.
+- **1816:** *Note relative à un Mémoire de Laplace sur la longueur du pendule à secondes*. Critical note.
+- **1816:** *Extrait d’un Mémoire de Laplace sur la transmission du son à travers les corps solides*. Critical abstract.
+- **1817:** *Annonce de l’Essai historique de Gauthier sur le problème des trois corps*. Bibliographical notice.
+- **1820:** *Annonce du jugement de l’Académie sur le prix relatif aux tables de la Lune*. Institutional notice.
+- **1827:** *Rapport sur le Mémoire de Damoiseau relatif à la comète à courte période*. Academy report.
+- **1832:** *Rapport sur un Mémoire de Pontécoulant relatif aux grandes inégalités de Saturne et Jupiter*. Academy report.
+- **Date not stated:** *Rapport sur l’ouvrage de Jacobi*. Review accompanied in its Academy manifestation by four mathematical notes.
+- **Date not stated:** *Rapports sur trois Mémoires de Liouville*. Three separate Academy assessments, not original memoirs on the same subjects.
+- **Date not stated:** *Rapport sur le Cours de mécanique céleste manuscrit d’Ostrogradski*. Assessment of an unpublished work.
+- **Date not stated:** *Rapport sur un Mémoire de Hachette relatif à l’écoulement des fluides*. Academy report.
+- **Date not stated:** *Rapport sur les Développements de géométrie analytique de Dupin*. Published prefatory report.
+- **Date uncertain:** *Rapport verbal sur la prétendue résolution des équations algébriques de Wronski*. Poisson believed it had been printed in the *Moniteur* but expressed uncertainty; publication is not securely established.
+- **Date not stated:** *Rapport sur un Mémoire de Binet relatif à un système de formules analytiques*. Academy report.
+- **Date not stated:** *Rapport sur un Mémoire de Cauchy relatif au calcul des fonctions symétriques*. Academy report.
+- **Date not stated:** *Rapport sur un Mémoire de Binet relatif au développement de la fonction des perturbations planétaires*. Academy report.
+- **Date not stated:** *Rapport sur un Mémoire de Cauchy relatif au nombre des racines réelles des équations*. Academy report.
+- **Date not stated:** *Rapport sur un Mémoire de Coriolis relatif au principe des forces vives dans les mouvements relatifs des machines*. Academy report.
+- **Date not stated:** *Rapport sur un Mémoire de Lamé relatif aux surfaces isothermes*. Academy report; Poisson also produced a related note.
+- **1838:** *Rapport sur l’enseignement des mathématiques*. Institutional and pedagogical protocol.
+- **1837:** *Sujet du prix de l’Académie proposé pour 1838*. Institutional protocol that sets a research task rather than describing one.
+- **1839:** *Rapport sur une note de Liouville relative au calcul des perturbations des planètes*. Academy report.
+- **Date not stated:** *Mémoire sur les pierres tombées du ciel*. Scientific memoir known in the self-catalogue through an extract made by Biot and through an unidentified book; its full publication history and fixed title are unclear.
+- **Date not stated:** *Article pour une édition de Lacaille par des élèves de l’École polytechnique*. Attributed in the catalogue only “selon M. Hachette”; its identity and authorship therefore remain uncertain.
+- **Date not stated:** *Solution d’un problème de fortification*. Contribution embedded in a work by Gay de Vernon rather than an independent publication.
+- **Date not stated:** *Sur une propriété des lignes de plus grande pente*. Contribution embedded in Puissant’s *Traité de topographie*.
+- **1837:** *Remarques sur un article du dernier numéro du Journal de Crelle*. Critical response.
+- **1839:** *Note relative au compte rendu de la séance du 15 avril 1839*. Institutional clarification whose title does not disclose its subject.
+
+### Speeches, letters, and public interventions
+
+- **1820:** *Discours prononcé à la distribution des prix du collège Henri-IV*. Ceremonial speech.
+- **1827:** *Discours prononcé à la séance des quatre Académies*. Institutional oration.
+- **1828:** *Discours prononcé aux obsèques de Laplace*. Funeral oration, later printed with a note.
+- **Date not stated:** *Discours prononcé aux funérailles de Legendre*. Funeral oration.
+- **Date not stated:** *Discours prononcé aux funérailles de Hachette*. Funeral oration.
+- **1828:** *Sur le remboursement des rentes*. Written public-policy speech, not a scientific memoir.
+- **Date not stated:** *Lettre au rédacteur du Lycée*. Published letter; Poisson’s catalogue supplies neither date nor subject.
+- **1834:** *Lettre au rédacteur du Journal des débats*. Published letter dated 28 May; the self-catalogue does not state its subject.
+
+### Sources
+
+- Siméon-Denis Poisson, [*Catalogue des travaux laissés par Poisson, rédigé par lui-même*](https://fr.wikisource.org/wiki/Poisson_(Arago)/22), in François Arago, *Œuvres complètes*, vol. II, Paris, 1854, pp. 672–689. This is the governing bibliography: Poisson’s own list, found among his papers, including separate books, periodical contributions, reports, speeches, doubtful publications, and posthumous manuscripts.
+- University of Illinois Mathematics Library, [*Siméon-Denis Poisson: Mathematics in the Service of Science*](https://www.library.illinois.edu/mtx/wp-content/uploads/sites/18/2016/12/UrbanaCatalogue.pdf), 2014. Consulted for the history and status of the self-catalogue and for the eleven-item group of separately published works.
+- Pierre Costabel, [“Simeon Denis Poisson,” *Complete Dictionary of Scientific Biography*](https://www.encyclopedia.com/people/science-and-technology/mathematics-biographies/simeon-denis-poisson). Consulted to corroborate the self-catalogue’s bibliographical authority, its reprinting in Arago’s *Œuvres complètes*, and the principal book-length works.
+

@@ -1,0 +1,363 @@
+## Works by Dante Gabriel Rossetti
+
+### Gesamtkunstwerke and “double works”
+
+- **1847–1849:** *The Girlhood of Mary Virgin*. A painting, two accompanying sonnets, inscribed frame, and exhibition arrangement conceived as one composite obra; the several textual and visual objects also have independent documentary lives.
+- **1847–1881:** *The Blessed Damozel*. A poem followed decades later by drawings and paintings; unusually among Rossetti’s double works, the text preceded the image.
+- **1847–1870:** *The Portrait*. Poem and painting developed separately before being brought into an explicitly doubled relation; the unstable relationship is part of the work.
+- **1848–1850:** *Ecce Ancilla Domini! / The Annunciation*. Oil painting with a related sonnet and carefully designed frame; its several titles and dates reflect Rossetti’s continuing reconception of it.
+- **1848–1870:** *The Bride’s Prelude*. An unfinished narrative poem and an incomplete pictorial project, also called *Bride-Chamber Talk*; incompletion is constitutive rather than merely accidental.
+- **1849–1863:** *The Salutation of Beatrice*. A project combining two Dantean scenes, inscriptions, architectural framing, and Rossetti’s translation of the *Vita Nuova*; he returned to the subject in 1880–81.
+- **1849–1870:** *Dante at Verona*. A long poem associated with projected and surviving drawings; the projected pictorial component was never completed.
+- **1854–1860:** *Mary Magdalene at the Door of Simon the Pharisee*. Drawing, watercolour, inscribed frame, and accompanying sonnet form a composite meditation on conversion.
+- **1854–1860:** *The Passover in the Holy Family*. Watercolour, replicas, studies, frame inscriptions, and an explanatory text; its multiplication resists treatment as one self-contained picture.
+- **1855–1858:** *Beauty and the Bird / Bella’s Bulfinch*. Drawing or watercolour subject accompanied by verse; both title and surviving form vary.
+- **1856–1880:** *Dante’s Dream at the Time of the Death of Beatrice*. Watercolour and monumental oil versions, studies, inscriptions, designed frames, and translated Dantean texts constitute an extended project rather than a single canvas.
+- **1857–1874:** *The Damsel of the Sanct Grael*. Successive watercolour and oil manifestations of an Arthurian conception, with accompanying text and decorative framing.
+- **1857–1870:** *Sister Helen*. Ballad, designs, and an unrealized or incompletely surviving pictorial intention; the visual half of the double work remains uncertain.
+- **1858–1869:** *Mary Magdalene*. A projected double work known through pictorial and textual remnants; it resists classification as a completed work.
+- **1860–1869:** *Cassandra*. Drawing and sonnet, repeatedly revised; the dates differ among the several manifestations.
+- **1862–1880:** *Beata Beatrix*. Oil painting, replicas, drawings, predella studies, inscriptions, and framing form a serial commemorative project. Some later replicas involved studio assistance, making unitary authorship problematic.
+- **1863–1869:** *Fazio’s Mistress / Aurelia*. Painting temporarily paired with Rossetti’s translation of Fazio degli Uberti’s canzone; later retitling loosened that textual relation.
+- **1865–1868:** *Aspecta Medusa*. Sonnet and projected picture represented chiefly by studies; the intended painting was apparently not completed.
+- **1865:** *Beatrice, Her Damozels, and Love*. A projected Dantean double work whose completeness and surviving components are uncertain.
+- **1866–1868:** *Lady Lilith / Body’s Beauty*. Painting, replicas, watercolour, studies, sonnet, and frame inscription; repainting and assistance by Henry Treffry Dunn complicate the identity and authorship of individual versions.
+- **1866–1870:** *Sibylla Palmifera / Soul’s Beauty*. Painting and sonnet conceived as the spiritual counterpart to *Lady Lilith*.
+- **1867–1870:** *Venus Verticordia*. Painting, watercolour replica, studies, frame, and sonnet; extensive repainting makes its date a range rather than a moment.
+- **1868–1870:** *Found*. Rossetti’s major modern-life painting project, begun earlier and left unfinished, with a related poem and designed frame. Several later hands worked on the canvas, so the surviving object is not wholly his execution.
+- **1869–1870:** *The Question*. Drawing and accompanying explanatory sonnet or inscription; a doubled philosophical allegory rather than simply an illustration.
+- **1869–1877:** *A Sea-Spell*. Painting, sonnet, studies, and frame conceived together.
+- **1869–1877:** *La Bella Mano*. Painting, sonnet, replicas, and designed frame; the title refers both to the image and the composite work.
+- **1869–1879:** *Proserpine*. A serial project of oils, drawings, replicas, sonnet, Italian and English inscriptions, and designed frames. Several versions were damaged, repainted, or completed with assistance.
+- **1870–1877:** *The Blessed Damozel* pictorial cycle. Paintings, predella, studies, frames, and Rossetti’s earlier poem form a late visual manifestation of the 1847 poetic project.
+- **1873–1877:** *Astarte Syriaca*. Monumental painting, drawings, sonnet, inscriptions, and designed frame; the painting and poem mutually interpret rather than illustrate one another.
+- **1875–1881:** *Mnemosyne*. Painting and projected textual counterpart; the Archive treats it among the double works although the literary element survives incompletely.
+- **1878–1880:** *The Day-Dream*. Painting, studies, frame inscription, and sonnet; the textual component was written for the picture.
+- **1880–1881:** *The Salutation of Beatrice*. A late independent painting returning to the earlier composite Dantean project.
+- **1881:** *The House of Life: Introductory Sonnet*. An illuminated manuscript design in which lettering, ornament, and poem are inseparable; it is the closest of Rossetti’s works to a Blakean illuminated page.
+
+### Books, book-projects, and authorial editions
+
+- **1840–1843:** *Sir Hugh the Heron*. Juvenile verse tale circulated in manuscript and privately printed in a tiny number of copies; it is a book-object as well as a youthful poem.
+- **1849–1850:** *The Germ*. A collaborative Pre-Raphaelite periodical project to which Rossetti contributed poems, prose, art criticism, and visual design; he did not make it alone.
+- **1860–1861:** *Dante at Verona and Other Poems*. An advertised collection abandoned after Elizabeth Siddal’s death. As an unrealized publishing intention it is a project, not a published book.
+- **1861:** *The Early Italian Poets, from Ciullo d’Alcamo to Dante Alighieri*. Rossetti’s authored anthology of translations, critical notices, arrangement, typography, and binding design.
+- **1861:** *Poets Chiefly Before Dante*. The first conceptual division of *The Early Italian Poets*; a curated historical sequence rather than an independently issued book.
+- **1861:** *Dante and His Circle*. The second division of *The Early Italian Poets*, later revised into a separate book.
+- **1869–1870:** *Poems: Proofs and Trial Books*. A succession of privately printed proofs, “Penkill” sheets, trial books, and revised states through which Rossetti composed the 1870 volume. These are working manifestations, not interchangeable editions.
+- **1870:** *Poems*. A deliberately designed book-ob­ra combining earlier and recent poems, *The House of Life*, typography, binding, and numerous verbal–pictorial correspondences.
+- **1873:** *Poems* (Tauchnitz edition). An authorially revised continental manifestation of the 1870 collection, not merely a mechanical reprint.
+- **1874:** *Dante and His Circle*. A substantially revised and retitled recasting of *The Early Italian Poets*.
+- **1881:** *Ballads and Sonnets*. An authorially arranged book containing the late ballads and the greatly expanded *House of Life*.
+- **1881:** *Poems: A New Edition*. A companion volume to *Ballads and Sonnets*, revising the 1870 book and incorporating additional work.
+- **1886:** *The Collected Works of Dante Gabriel Rossetti*. A posthumous two-volume construction edited by William Michael Rossetti. It is indispensable evidence for dispersed writings but is not itself wholly an obra made by Dante Gabriel.
+- **1911:** *The Works of Dante Gabriel Rossetti*. William Michael Rossetti’s culminating posthumous collected edition; again an editorial manifestation of Dante Gabriel’s corpus, not an author-made book.
+
+### Poetic obras and projects
+
+- **1846:** *A Prayer*. Early lyric surviving in more than one corrected manuscript state.
+- **1846:** *Henry the Leper*. A narrative “miracle-rhyme” after Hartmann von Aue; both adaptation and original English poem.
+- **1847:** *Algernon Stanhope*. Memorial poem dated September 1847.
+- **1847–1848:** *Songs of the Art Catholic*. A projected sequence or rubric rather than a securely completed collection.
+- **1847–1869:** *Ave*. Devotional poem repeatedly revised over more than two decades.
+- **1848:** *Afterwards / Unburied Death*. Poem known under variant titles.
+- **1848:** *At the Sun-Rise in 1848*. Political sonnet.
+- **1848:** *Autumn Song / The Fall of the Leaf / The Angel of Death*. One lyric with several authorial identities.
+- **1848:** *Happy and Thankful*. Religious or visionary lyric.
+- **1848:** *The Heart of the Night*. Early meditative poem.
+- **1848:** *Height in Depth*. Early dramatic or meditative fragment.
+- **1848:** *Praise and Prayer*. Poem surviving in cancelled and revised manuscript forms.
+- **1848–1881:** *Poetical Scraps*. Notebook fragments, trial lines, memoranda, and incomplete poems. This archive resists being called a single work, but it records Rossetti’s continuing compositional practice.
+- **1849:** *Place de la Bastille, Paris*. Sonnet produced during Rossetti’s continental journey.
+- **1849:** *Song and Music*. Lyric later incorporated into Rossetti’s collections.
+- **1849–1850:** *Sonnets for Pictures*. A changing group of poems responding to works by Memling or Gerard David, Mantegna, Titian, Ingres, Leonardo, Botticelli, Burne-Jones, and others; it is a recurring protocol rather than one fixed sequence.
+- **1850:** *Adieu*. Lyric beginning as an act of leave-taking; a distinct later poem also bears this title.
+- **1850:** *Autumn Idleness*. Seasonal sonnet.
+- **1850:** *The Burden of Nineveh*. Poem about the museum display of an excavated Assyrian antiquity.
+- **1850:** *The Card-Dealer*. Poetic response to a painting by Theodore von Holst.
+- **1850:** *Jenny*. Dramatic monologue repeatedly revised before its 1870 publication.
+- **1850:** *My Sister’s Sleep*. Narrative poem first published in *The Germ* and later substantially revised.
+- **1850:** *The Woodspurge*. Lyric of grief and involuntary perception.
+- **1853–1856:** *The Staff and Scrip*. Chivalric narrative poem.
+- **1854:** *The Woodspurge* manuscript and revision project. Its surviving states show that the familiar poem is one stabilized manifestation of a longer compositional process.
+- **1855:** *A Dark Day*. Poem dated January 1855.
+- **1855:** *Dawn on the Night Journey*. Journey lyric.
+- **1855:** *Priapus Higg Loquitur*. Satirical poem directed against institutional hypocrisy.
+- **1856–1869:** *The Stream’s Secret*. Long lyric composed and revised over an extended period.
+- **1857:** *Address to the D—l (Dalziel Brothers)*. Comic or satirical verse aimed at the wood-engraving firm.
+- **1859:** *After the French Liberation of Italy*. Political sonnet.
+- **1861:** *Dantis Tenebrae*. Memorial sonnet for Rossetti’s father.
+- **1861–1881:** *Rose Mary*. Supernatural ballad begun earlier and extensively rebuilt for *Ballads and Sonnets*.
+- **1869:** *Death-in-Love*. Sonnet, originally associated with the date 1 May 1869.
+- **1869:** *The Portrait*. Narrative and elegiac poem, distinct from yet ultimately related to Rossetti’s picture of the same name.
+- **1869:** *Songs*. A provisional grouping in the trial-book construction of *Poems*.
+- **1869:** *Sonnets*. A provisional grouping rather than one stable work.
+- **1869–1870:** *Eden Bower*. Dramatic monologue spoken by Lilith.
+- **1869–1870:** *Troy Town*. Ballad on Helen and the judgment of Paris.
+- **1869–1870:** *Stratton Water*. Ballad derived from traditional narrative materials.
+- **1869–1870:** *The Sea-Limits*. Meditative lyric.
+- **1869–1870:** *The Cloud Confines*. Choral or incantatory lyric.
+- **1869–1870:** *The Honeysuckle*. Lyric included in the 1870 poetic project.
+- **1869–1881:** *The House of Life*. A mutable sonnet-and-song project: initially a smaller 1870 sequence, later rearranged and enlarged to 101 numbered sonnets in 1881. There is no single composition date or entirely neutral “complete” form.
+- **1870:** *A Day of Love*. Sonnet incorporated into *The House of Life*.
+- **1870:** *Death’s Songsters / Deadly Sweetness / Death’s Sweetness*. Sonnet with variant titles.
+- **1870:** *He and I*. Sonnet.
+- **1870:** *The Orchard-Pit*. Poem related to an unfinished prose tale and projected picture; the three forms never coalesced into a completed composite work.
+- **1871:** *After the German Subjugation of France*. Political sonnet.
+- **1871:** *The Dark Glass*. Sonnet dated August 1871.
+- **1871:** *Heart’s Compass / Love’s Compass*. Sonnet with variant title.
+- **1871:** *Heart’s Haven*. Sonnet.
+- **1871:** *Heart’s Hope*. Sonnet in *The House of Life*.
+- **1871:** *Her Gifts / My Lady’s Gifts*. Sonnet whose title changed.
+- **1871:** *Pride of Youth / Love’s Changes*. Sonnet with an earlier title.
+- **1871:** *The Stealthy School of Criticism*. Polemical prose manifesto defending Rossetti’s poetry against Robert Buchanan; it acts publicly against an attack rather than merely describing critical principles.
+- **1874:** *Barcarola (“Per carità”)*, also called *Serenata*. Italian-language song.
+- **1875:** *Bambino Fasciato*. Short Italian-language verse.
+- **1875:** *Barcarola (“Oltre tomba”)*. Italian-language song distinct from the 1874 *Barcarola*.
+- **1875:** *Hero’s Lamp*. Sonnet.
+- **1876:** *Adieu*. A later lyric distinct from the poem of 1850.
+- **1878:** *Sonnet about Cyprus*. An incompletely documented occasional sonnet; the descriptive title is editorial rather than a secure authorial title.
+- **1879–1881:** *The King’s Tragedy*. Historical ballad on James I of Scotland.
+- **1879–1881:** *The White Ship*. Historical ballad on the wreck of 1120.
+- **1880:** *The Song-Throe*. Sonnet dated 12 April 1880.
+- **1881:** *Alas, So Long!*. Late lyric.
+- **1881:** *Possession*. Late sonnet.
+
+### Fiction, criticism, manifestos, and prose fragments
+
+- **1848:** *St. Agnes of Intercession*. Unfinished prose tale about artistic identity and reincarnation. Its fragmentary state is essential evidence: it is a sustained project, not a completed short story.
+- **1849–1850:** *Hand and Soul*. Prose fiction that also operates as an aesthetic manifesto through the invented life of the painter Chiaro dell’Erma.
+- **1850:** *The Pre-Raphaelite Brotherhood*. Explanatory and polemical prose associated with the Brotherhood’s public identity; authorship of particular formulations belongs partly to the group rather than securely to Rossetti alone.
+- **1850s:** *The Orchard-Pit*. Unfinished prose tale surviving in fragmentary forms and overlapping with a poem and unrealized picture.
+- **1850s–1880s:** *Subjects for Pictures, Tales, and Humorous Poems*. Notebook proposals, scenarios, jokes, and unrealized inventions. They are projects or seeds of projects, and should not be silently promoted into completed works.
+- **1863:** *Life of William Blake: “Pictor Ignotus” materials*. Rossetti supplied an essay, editorial commentary, and edited Blake texts for Alexander Gilchrist’s posthumous biography; the resulting book is collaborative and principally Gilchrist’s.
+- **1860s:** *Notes on Blake*. Editorial and critical annotations created for the Gilchrist project and related study.
+- **1860s–1870s:** *Notes on Early Italian Art and Literature*. Dispersed criticism and scholarly memoranda rather than one authorially constituted book.
+- **1870:** *The Monochord*. Short prose or aphoristic aesthetic text; its generic status is deliberately unstable.
+- **1871:** *The Stealthy School of Criticism*. Public reply to Robert Buchanan, functioning as polemic and manifesto.
+- **1870s:** *La Ghirlandata: explanatory text*. Prose account prepared to accompany or explain the picture; ancillary text and component of a larger pictorial event.
+- **1870s:** *Found: explanatory text*. Prose exposition attached to the unfinished modern-life painting and its poem.
+- **1880:** *The Day-Dream: description of subject*. An artist’s explanatory statement designed to govern the reception of the painting and frame-sonnet.
+- **Throughout his life:** *Letters*. Thousands of manuscript communications containing criticism, poems, drawings, negotiations, and collaborative instructions. They are made texts, but not one intentionally bounded obra; the scholarly correspondence edition treats them document by document.
+
+### Translations as made English texts
+
+- **1845–1849:** *The New Life / Vita Nuova*. Rossetti’s translation of Dante’s prosimetrum, repeatedly revised before inclusion in *The Early Italian Poets*.
+- **1846:** *All My Thoughts Always Speak to Me of Love*. Translation from Dante, later revised for the 1861 volume.
+- **1848:** *At Whiles I Muse over*. Translation from Dante, later revised.
+- **1849:** *In Absence from Becchina*. Sonnet translated from Cecco Angiolieri.
+- **1849–1861:** *Francesca da Rimini*. Translation from Dante’s *Inferno*, surviving and published in changing forms.
+- **1850s–1861:** *Poems of Ciullo d’Alcamo*. Translations and editorial presentation within Rossetti’s historical anthology.
+- **1850s–1861:** *Poems of Folcachiero de’ Folcachieri*. Translated lyric corpus.
+- **1850s–1861:** *Poems of Meo Abbracciavacca*. Translated lyric corpus.
+- **1850s–1861:** *Poems of Guido Guinicelli*. Translated lyric corpus.
+- **1850s–1861:** *Poems of Guido Cavalcanti*. Translated lyric corpus; individual poems were revised across editions.
+- **1850s–1861:** *Poems of Cino da Pistoia*. Translated lyric corpus.
+- **1850s–1861:** *Poems of Lapo Gianni*. Translated lyric corpus.
+- **1850s–1861:** *Poems of Dino Frescobaldi*. Translated lyric corpus.
+- **1850s–1861:** *Poems of Gianni Alfani*. Translated lyric corpus.
+- **1850s–1861:** *Poems of Dante da Maiano*. Translated lyric corpus.
+- **1850s–1861:** *Poems of Cecco Angiolieri*. Translated comic and amatory corpus.
+- **1850s–1861:** *Poems of Fazio degli Uberti*. Translated lyric corpus, one canzone later paired with *Fazio’s Mistress*.
+- **1850s–1861:** *Poems of Franco Sacchetti*. Translated lyric corpus.
+- **1850s–1861:** *Poems of Giovanni Boccaccio*. Translations presented within Rossetti’s constructed genealogy of Dante’s circle.
+- **1850s–1861:** *Poems of Petrarch*. Select translations rather than an attempted complete Petrarch.
+- **1850s–1861:** *Poets Chiefly Before Dante*. Collectively, Rossetti’s translations of early Sicilian, Tuscan, and Bolognese verse form a scholarly-creative anthology rather than isolated linguistic exercises.
+- **1861:** *A Last Confession*. An original poem with an Italian historical setting, not a translation despite its frequent proximity to the Italian materials.
+- **1861:** *Youth and Lordship*. Translation of an Italian street song.
+- **1861–1874:** *Dante and His Circle* revisions. Rewritten translations, altered notes, omissions, and additions constitute a second translation project rather than a simple reissue.
+- **1869:** *The Ballad of Dead Ladies*. Translation of François Villon’s *Ballade des dames du temps jadis*.
+- **1869:** *To Death, of His Lady*. Translation from Villon.
+- **1869:** *His Mother’s Service to Our Lady*. Translation from Villon.
+- **1870:** *Beauty*. Translation or adaptation of Sappho, earlier titled *One Girl*; its textual source and title changed in Rossetti’s editions.
+- **1870:** *The Carillon*. Translation from the French.
+- **1870:** *John of Tours*. Translation or adaptation from the French.
+- **1870:** *My Father’s Close*. Translation from the French.
+- **1870:** *On a Handful of French Money*. Translation from the French.
+- **1870:** *The Sea-Limits* translations and analogues. Rossetti’s practice sometimes moved between translation, imitation, and original recomposition, making strict authorship categories inadequate.
+- **1874:** *The Leaf*. Translation of Giacomo Leopardi.
+- **Various dates:** *Italian and French translation fragments*. Manuscript translations, abandoned drafts, and unidentified excerpts survive in notebooks; they resist enumeration as securely titled finished works.
+
+### Paintings, watercolours, drawings, and pictorial projects
+
+- **1834:** *The Rocking Horse*. Rossetti’s earliest recorded surviving drawing, dated through family evidence.
+- **c. 1834:** *Buckingham and Catesby Presenting the Crown to Richard*. Juvenile historical drawing; the date is approximate.
+- **c. 1834:** *Casca Stabbing Caesar*. Juvenile historical drawing.
+- **1834–1836:** *Carriage of the Duchess of Kent and Attendants*. Juvenile drawing with uncertain exact date.
+- **1834–1836:** *Scene from Virgil’s Aeneid*. Juvenile literary drawing, also known by its Latin inscription.
+- **1834–1836?:** *Sailing Ship of the Thirteenth Century*. Juvenile antiquarian drawing; dating is uncertain.
+- **1835?:** *Cavalier in a Plumed Hat with Drawn Sword*. Juvenile figure drawing; date uncertain.
+- **1836:** *The Castle Spectre / Percy and Motley*. Juvenile theatrical drawing with variant title.
+- **1838:** *Bantam Battering*. Juvenile drawing.
+- **1838–1839?:** *The Saracens Seizing Isaac, the Jew of York*. Juvenile *Ivanhoe* subject; date uncertain.
+- **1839:** *Scene from Ivanhoe*. Juvenile literary drawing.
+- **1840:** *Adrian Colonna, Baron di Costello*. Juvenile historical figure.
+- **1840:** *The Arabian Nights Illustrations*. A juvenile series rather than one sheet.
+- **1840:** *Cavalier Holding a Sword*. Juvenile figure drawing.
+- **1841–1842:** *Characters from Catherine Crowe’s Susan Hopley*. Literary drawings.
+- **1842:** *The Cavalier*. Early figure study.
+- **1842–1844:** *Cavalier Mortara*. Early historical or costume study.
+- **1844:** *Back View of a Man and Woman*. Academic drawing.
+- **1845:** *A Boy Smoking*. Figure study dated January.
+- **1846:** *Beggar and Woman*. Figure composition dated September.
+- **1846:** *Caricature of a Man*. Drawing dated July.
+- **1846:** *Chambermaid with Taper*. Figure drawing.
+- **1846:** *Woman in Fancy Dress*. Drawing dated April.
+- **1846?:** *The Shadowless Man*. Project or study with uncertain date and status.
+- **1846:** *Shakespeare, after Droeshout*. Copy or interpretive drawing after the engraved portrait.
+- **1846:** *Young Men Playing Chess*. Figure composition.
+- **1847?:** *The German Student*. Bohemian skit or caricature; title and date are not entirely secure.
+- **1848:** *Angels Watching the Crown of Thorns*. Religious drawing.
+- **1848:** *Bottles*. Still-life or study.
+- **1848–1850:** *Self-Portrait*. Early likeness surviving in more than one medium or state.
+- **1849:** *The Artist’s Studio*. Interior or figure composition.
+- **1849–1850:** *The First Anniversary of the Death of Beatrice*. Dantean drawing and watercolour project.
+- **1850:** *Rossovestita*. Female figure or costume study.
+- **1850–1863:** *Lucrezia Borgia / Borgia*. Pictorial project revised over many years.
+- **1851–1855:** *Beatrice Meeting Dante at a Marriage Feast, Denies Him Her Salutation*. Dantean watercolour developed over an extended period.
+- **1852:** *Giotto Painting the Portrait of Dante*. Historical-artistic subject.
+- **1853:** *Carlisle Wall / The Lovers*. Drawing dated June, merging observed place with an intimate figure subject.
+- **1853:** *Battlements of Wetheral*. Architectural or landscape drawing.
+- **1853:** *Rossetti, Deverell and MacCracken*. Group caricature or conversation drawing.
+- **1853:** *Ruding Deverell*. Portrait drawing.
+- **1854:** *Elizabeth Siddal*. Rossetti began an extensive, separately catalogued corpus of drawings and watercolours of Siddal; many sheets are untitled likenesses whose dates remain approximate.
+- **1854–1860:** *Elizabeth Siddal portrait corpus*. Hundreds of intimate drawings, studies, reading and sleeping figures form a body of work without a single authorial title or fixed boundary.
+- **1854–1856:** *Ballad of Fair Annie*. Pictorial treatment of a traditional ballad.
+- **1855:** *Arthur’s Tomb*. Arthurian watercolour.
+- **1855:** *The Tune of Seven Towers*. Watercolour whose enigmatic title does not identify a stable literary source.
+- **1855:** *The Blue Closet*. Watercolour presenting an invented, music-like medieval scene.
+- **1855:** *The Wedding of St George and the Princess Sabra*. Watercolour and associated design.
+- **1855:** *Ruth and Boaz*. Biblical drawing or watercolour.
+- **1855–1856:** *The Carol*. Medievalizing musical subject.
+- **1855:** *Cat’s Cradle*. Intimate figure drawing.
+- **1855:** *Paolo and Francesca da Rimini*. Dantean watercolour with related drawings and replicas.
+- **1855–1864:** *The Chapel before the Lists*. Arthurian or chivalric project developed over a long period.
+- **1856:** *The Gate of Memory*. Urban or social-life subject known through drawings.
+- **1856–1859:** *Red Lion Mary*. Portrait-study corpus of an unidentified or nicknamed model.
+- **1857:** *Arthur Sitting with His Knights at the Round Table*. Design associated with Arthurian decorative work.
+- **1857:** *The Death of Breuse sans Pitié*. Arthurian design.
+- **1857:** *Sir Tristram and La Belle Yseult Drinking the Love Potion*. Arthurian design for furniture decoration.
+- **1857–1858:** *Before the Battle*. Chivalric watercolour.
+- **1857–1864:** *The Merciless Lady*. Medievalizing narrative subject.
+- **1858:** *Writing on the Sand*. Watercolour or drawing developed through 1859.
+- **1858:** *A Christmas Carol*. Medievalizing pictorial work, distinct from *The Carol*.
+- **1858:** *The Farmer’s Daughter*. Literary or rustic figure subject.
+- **1858–1859:** *Ruth Herbert portrait corpus*. Numerous portrait drawings and studies; individual sheets often share the same untitled sitter-name.
+- **1859:** *Bocca Baciata*. Small oil marking Rossetti’s decisive turn toward Venetianate female portraiture.
+- **1859:** *The Bower Garden*. Group portrait or decorative figure composition.
+- **1860:** *Annie Miller portrait corpus*. Numerous drawings, several catalogued under the sitter’s name alone and not securely differentiable by title.
+- **1860:** *The Arming of the Knight*. Design for the back of an armchair.
+- **1860–1861:** *How They Met Themselves*. Doppelgänger subject in drawing and watercolour versions.
+- **1860–1867:** *Fair Rosamund*. Painting, replicas, and studies.
+- **1861:** *Burd Alane*. Literary watercolour or drawing.
+- **1861:** *Censing Angel I* and *Censing Angel II*. A pair of stained-glass designs.
+- **1861:** *The Seed of David*. Triptych or altarpiece design with related sonnet.
+- **1861:** *The Rose Garden*. Decorative figure composition dated October.
+- **1861:** *The Annunciation* designs. Later treatments distinct from *Ecce Ancilla Domini!*.
+- **c. 1861:** *The Sermon on the Mount*. Religious design.
+- **1861?:** *Round Tower at Jhansi*. Architectural or topical drawing; attribution or dating is uncertain.
+- **1862:** *Aggie*. Several portrait studies bearing the sitter’s name, not one unique object.
+- **1862:** *The Rossetti Chair*. Furniture design, probably collaborative in execution.
+- **1862–1863:** *Joan of Arc Kissing the Sword of Deliverance*. Oil or watercolour project.
+- **1863:** *The Beloved / The Bride*. Oil painting, studies, replica, elaborate accessories, and frame.
+- **1863:** *The Blue Bower*. Oil painting.
+- **c. 1863:** *The Scotch Girl / The Hair-Net / Aggie Monetti*. Female portrait with variant titles.
+- **1863:** *Brimfull*. Portrait or figure study.
+- **1863–1865:** *Ada Vernon*. Several portrait manifestations rather than one object.
+- **1863–1873:** *Monna Vanna / Belcolore*. Oil, replicas, studies, retitling, and a loose relation to Rossetti’s Dante translation.
+- **c. 1864:** *Agnes Manetti*. Portrait.
+- **c. 1864:** *Aspasia Teaching Socrates to Dance*. Classical subject, possibly project or drawing rather than a completed major painting.
+- **1864:** *Woman Combing Her Hair*. Figure study.
+- **1865:** *The Blue Silk Dress*. Portrait of Jane Morris.
+- **1865:** *The Loving Cup*. Female figure composition.
+- **1865:** *Cassandra*. Drawing connected with the sonnet.
+- **1865–1874:** *Rosa Triplex*. Three-head or serial female portrait composition.
+- **1866–1874:** *Alexa Wilding portrait corpus*. Numerous drawings and studies sharing the sitter’s name; they constitute a body of work rather than one titled portrait.
+- **1866–1867:** *Regina Cordium*. Portrait and idealized female image in more than one version.
+- **1867:** *Aurora*. Female portrait or allegory.
+- **c. 1867:** *The Rose: A Lady at a Window*. Female figure composition.
+- **1867–1868:** *The Return of Tibullus to Delia*. Classical-literary painting.
+- **1868:** *The Beloved* revisions. Rossetti substantially reworked the 1863 canvas; the present picture is therefore a later manifestation.
+- **c. 1868:** *Aurea Catena / Golden Chain*. Female portrait or allegory.
+- **1868:** *The Bard and the Petty Tradesmen*. Satirical drawing.
+- **1868?:** *Boy with Long Hair*. Portrait study; date uncertain.
+- **1869:** *Mariana*. Tennysonian painting with studies and versions.
+- **1869:** *Calliope Coronio*. Portrait drawing dated February.
+- **1869:** *La Pia de’ Tolomei*. Dantean painting, studies, and replicas developed into the 1870s.
+- **1869:** *Pandora*. Painting, drawings, replicas, and related text.
+- **1869–1873:** *Veronica Veronese*. Painting and studies presenting music, colour, and female portraiture as a synthetic aesthetic event.
+- **1870:** *The Roman Widow / Dîs Manibus*. Painting with an alternative Latin title.
+- **1870:** *The Roseleaf*. Female figure or portrait subject.
+- **c. 1870:** *A Woman Lolling on a Sofa*. Drawing.
+- **c. 1870:** *Woman Seated at an Embroidery Frame*. Drawing.
+- **1870:** *Woman with a Fan*. Portrait or figure study.
+- **1870–1875:** *Wood Nymph*. Figure subject with approximate date.
+- **1871–1879?:** *Caius between Statues of Castor and Pollux*. Project or drawing with a broad, uncertain date.
+- **1871–1879?:** *Cavalier Standing before a Woman’s Portrait*. Project or drawing with uncertain dating.
+- **1872:** *The Bower Meadow*. Oil painting derived from an earlier composition.
+- **1872:** *Water Willow*. Landscape-portrait of Jane Morris.
+- **1873:** *La Ghirlandata*. Painting, studies, frame, and explanatory materials.
+- **1873–1874:** *The Boat of Love*. Dantean painting and studies.
+- **1874:** *Rupes Topseiana*. Humorous or private drawing.
+- **1874:** *Dîs Manibus*. Title associated with *The Roman Widow* rather than necessarily a separate conception.
+- **1875:** *The Sea-Spell*. Painted manifestation of the earlier double-work project.
+- **1875–1877:** *Astarte Syriaca*. Painted manifestation of the composite project.
+- **1876–1877:** *The Day Dream* preliminary studies. Drawings of Jane Morris in a sycamore preceded the finished painting.
+- **1877:** *The Blessed Damozel*. Principal oil manifestation, accompanied by a predella and related poem.
+- **1877:** *A Vision of Fiammetta*. Painting, studies, frame inscription, and literary source.
+- **1878:** *Bruna Brunelleschi*. Portrait.
+- **1878:** *Perlascura: Twelve Coins for One Queen*. Planned publication of twelve images of Jane Morris with poetic texts. It was not realized and survives as an intention, selections, photographs, and associated drawings.
+- **1879:** *Beatrice*. Late Dantean female image.
+- **1879:** *Sancta Lilias*. Painting related to the *Blessed Damozel* conception.
+- **1880:** *The Day-Dream*. Finished oil manifestation.
+- **1880–1881:** *The Salutation of Beatrice*. Late oil painting.
+- **Undated or multiply dated:** *Untitled heads, hands, draperies, models, landscapes, caricatures, copies, and compositional studies*. Surtees and the Rossetti Archive catalogue these sheet by sheet; many have only descriptive editorial titles, and converting those descriptions into invented authorial “works” would falsify the record.
+
+### Decorative art, furniture, stained glass, jewelry, photography, and graphic design
+
+- **1848–1882:** *Picture frames*. Rossetti designed frames, inscriptions, roundels, mouldings, and colour relations for many paintings. The corpus has no single fixed title or complete surviving inventory, and fabrication was carried out by craftsmen.
+- **1850s:** *Clothing designs*. Contemporary evidence says Rossetti designed garments, but the designs have not been identified; this is a documented practice without a surviving catalogue of objects.
+- **1850s–1860s:** *Jewelry designs*. Surviving drawings and realized ornaments form a small applied-art corpus; manufacture was collaborative.
+- **1850s–1870s:** *Monograms and stationery*. Designs for Rossetti, Elizabeth Siddal, Jane Morris, and others; many are functional marks rather than autonomous artworks.
+- **c. 1860:** *The Arming of the Knight*. Furniture design for an armchair back.
+- **c. 1861:** *Amor, Amans, Amata*. Designs for a sofa; realization belonged to the collaborative Morris firm.
+- **1861 onward:** *Morris, Marshall, Faulkner & Co. designs*. Stained glass, furniture, tiles, and related decorative work produced within a collective workshop. Authorship must be divided among Rossetti’s cartoons, the firm’s adaptation, and craftsmen’s execution.
+- **1861:** *Censing Angels*. Pair of stained-glass cartoons.
+- **1861:** *The Annunciation*. Stained-glass design in several manifestations.
+- **1861:** *The Sermon on the Mount*. Stained-glass cartoon or design.
+- **1861:** *The Seed of David*. Ecclesiastical decorative project spanning painted and stained-glass conceptions.
+- **1860s:** *Arthurian furniture designs*. Designs including *The Arming of the Knight* and Round Table subjects, executed through collaborative manufacture.
+- **1860s:** *Tile designs*. Applied patterns and figure subjects associated with Morris, Marshall, Faulkner & Co.; surviving attribution is not uniformly secure.
+- **1860s:** *Wallpaper designs*. Documentary evidence and surviving designs are limited; the corpus should not be expanded beyond identified sheets.
+- **1860s–1870s:** *Photographic reproductions of Rossetti’s pictures*. Rossetti directed, selected, retouched, coloured, mounted, and circulated photographs, often with photographers and assistants. These are collaborative manifestations, not straightforward photographs “by” Rossetti.
+- **1865:** *The Comedy of Dante Alighieri, Part I: The Hell*. Binding design for William Michael Rossetti’s translation.
+- **1865:** *Atalanta in Calydon*. Binding design for Algernon Charles Swinburne’s book.
+- **1866:** *The Prince’s Progress and Other Poems*. Binding, frontispiece, and title-page designs for Christina Rossetti’s book.
+- **1870:** *Poems*. Binding, title page, typography, ornaments, and overall material design for Rossetti’s own book.
+- **1871:** *Songs before Sunrise*. Binding design for Swinburne’s book.
+- **1872:** *A Shadow of Dante*. Binding design for Maria Francesca Rossetti’s book.
+- **1876:** *The Poetical Works of Percy Bysshe Shelley*. Binding design attributed to Rossetti in the Archive.
+- **1881:** *Ballads and Sonnets*. Book design adapting the visual protocol of the 1870 *Poems*.
+- **1881:** *Poems: A New Edition*. Book design adapting the same binding system.
+- **Various dates:** *Goblin Market and Other Poems*. Binding, frontispiece, and title-page designs for Christina Rossetti’s 1862 volume, modified for later issue.
+- **Various dates:** *Photographs and hand-coloured photographs of Jane Morris*. Collaborative photographic sessions and altered prints involving Rossetti’s direction, posing, selection, and sometimes graphic intervention; camera authorship belongs to the photographers.
+- **Various dates:** *Unexecuted decorative designs*. Furniture, glass, jewelry, clothing, and architectural ideas survive in sketches or documentation. They are projects, not safely enumerable realized objects.
+
+### Sources
+
+- Jerome J. McGann, ed., [*The Complete Writings and Pictures of Dante Gabriel Rossetti: A Hypermedia Archive*](https://rossettiarchive.iath.virginia.edu/). Completed scholarly electronic edition covering Rossetti’s writings, pictures, designs, manuscripts, books, and documentary states.
+- Rossetti Archive, [“Objects & Commentary” indices](https://rossettiarchive.iath.virginia.edu/exhibits/index.html). Consulted for the Archive’s divisions into double works, pictures, poems, prose, translations, books, manuscripts, correspondence, and material design.
+- Rossetti Archive, [“Paintings, Drawings, and Designs”](https://rossettiarchive.iath.virginia.edu/racs/pictures.rac.html). Alphabetical catalogue and scholarly overview of the pictorial corpus.
+- Rossetti Archive, [“Double Works”](https://rossettiarchive.iath.virginia.edu/racs/doubleworks.rac.html) and [chronological index](https://rossettiarchive.iath.virginia.edu/racs/doubleworks.chrono.rac.html). Used for composite, incomplete, provisional, and loosely doubled works.
+- Rossetti Archive, [“Poems”](https://rossettiarchive.iath.virginia.edu/racs/poems.rac.html) and [chronological poetry index](https://rossettiarchive.iath.virginia.edu/racs/poems.chrono.rac.html). Used for titles, variant titles, composition ranges, poetic groupings, and publication projects.
+- Rossetti Archive, [“Prose Works and Fragments”](https://rossettiarchive.iath.virginia.edu/racs/prose.rac.html). Used for fiction, criticism, polemic, notebook proposals, and unfinished prose.
+- Rossetti Archive, [“Translations”](https://rossettiarchive.iath.virginia.edu/racs/translations.rac.html). Used for translated poems, anthology groupings, and revision history.
+- Rossetti Archive, [“Books”](https://rossettiarchive.iath.virginia.edu/racs/books.rac.html). Used to distinguish author-made books and trial books from posthumous editions.
+- Rossetti Archive, [“Manuscripts”](https://rossettiarchive.iath.virginia.edu/racs/mss.rac.html). Used for surviving drafts, notebooks, fair copies, printer’s copy, and disbound manuscript materials.
+- Rossetti Archive, [“Bindings and Material Designs”](https://rossettiarchive.iath.virginia.edu/racs/binding.rac.html). Used for bindings, furniture, stained glass, jewelry, clothing, stationery, and collaborative craft work.
+- Virginia Surtees, *The Paintings and Drawings of Dante Gabriel Rossetti (1828–1882): A Catalogue Raisonné*, 2 vols. (Oxford: Clarendon Press, 1971); bibliographic record at [Google Books](https://books.google.com/books?id=W2gMAQAAIAAJ). The standard numbered catalogue underlying much of the Archive’s pictorial description.
+- William Michael Rossetti, ed., [*The Collected Works of Dante Gabriel Rossetti*, vol. 1](https://rossettiarchive.iath.virginia.edu/docs/1-1886.1sted.vol1.rad.html) (1886), with the companion second volume. Consulted as the first collected-works edition, while treating its posthumous editorial organization cautiously.
+- Dante Gabriel Rossetti, [*Poems* (1870), first edition](https://rossettiarchive.iath.virginia.edu/docs/1-1870.1stedn.radheader.html). Consulted as an authorially organized and materially designed book.
+- Rossetti Archive, [“Beata Beatrix: Collection Introduction”](https://rossettiarchive.iath.virginia.edu/docs/s168.raw.html) and [“Instances of Beata Beatrix”](https://rossettiarchive.iath.virginia.edu/docs/s168.rawcollection.html). Used to verify the multiplicity of studies, replicas, media, dates, and later prints.
+- Rossetti Archive, [“The Day-Dream” manuscript record](https://rossettiarchive.iath.virginia.edu/docs/7-1880.lasnerms.rad.html). Used for the relation among painting, explanatory text, sonnet, and frame.
+

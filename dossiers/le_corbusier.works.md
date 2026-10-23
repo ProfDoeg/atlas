@@ -1,0 +1,264 @@
+## Works by Le Corbusier
+
+### Built architecture and realized ensembles
+
+- **1905–1907:** *Villa Fallet*. House in La Chaux-de-Fonds, designed under Charles L’Eplattenier’s supervision; authorship is therefore collaborative rather than exclusively Le Corbusier’s.
+- **1907–1908:** *Villa Stotzer*. House in La Chaux-de-Fonds, an early work made before Charles-Édouard Jeanneret adopted the name Le Corbusier.
+- **1907–1908:** *Villa Jaquemet*. House in La Chaux-de-Fonds; like Villa Stotzer, it belongs to the collaborative workshop setting of Jeanneret’s student years.
+- **1911–1912:** *Villa Jeanneret-Perret (Maison Blanche)*. House for the architect’s parents in La Chaux-de-Fonds.
+- **1912–1913:** *Villa Favre-Jacot*. House in Le Locle for the watch manufacturer Georges Favre-Jacot.
+- **1916:** *Cinéma La Scala*. Interior reconstruction of a cinema in La Chaux-de-Fonds, not an autonomous new building.
+- **1916–1917:** *Villa Schwob (Villa Turque)*. House in La Chaux-de-Fonds and a late major work under the name Charles-Édouard Jeanneret.
+- **1917:** *Château d’eau de Podensac*. Industrial water tower in Podensac.
+- **1917–1918:** *Cité ouvrière de Saint-Nicolas-d’Aliermont*. Workers’ housing ensemble.
+- **1921–1922:** *Aménagement de la Villa Berque*. Interior alteration in Paris rather than a wholly authored building.
+- **1922–1923:** *Villa Besnus*. House at Vaucresson, designed with Pierre Jeanneret.
+- **1922–1924:** *Maison-atelier Ozenfant*. Combined house and studio in Paris for Amédée Ozenfant, designed with Pierre Jeanneret.
+- **1923–1924:** *Petite villa au bord du lac Léman (Villa “Le Lac”)*. Compact house at Corseaux for Le Corbusier’s parents.
+- **1923–1925:** *Maisons La Roche–Jeanneret*. Two joined Paris houses, designed with Pierre Jeanneret; Maison Jeanneret later became the Fondation Le Corbusier’s offices.
+- **1923–1925:** *Maison et cantine de Lège*. Standardized workers’ dwellings and canteen at Lège.
+- **1923–1926:** *Villas Lipchitz–Miestchaninoff*. Pair of artists’ houses and studios at Boulogne-Billancourt, designed with Pierre Jeanneret.
+- **1923–1927:** *Maison Ternisien*. House and music room at Boulogne-Billancourt; subsequently altered and partly demolished.
+- **1924:** *Maison du Tonkin*. Demonstration house built at Bordeaux.
+- **1924–1925:** *Pavillon de l’Esprit Nouveau*. Exhibition pavilion and full-scale dwelling prototype in Paris, designed with Pierre Jeanneret; the original was demolished, and the Bologna reconstruction is a later manifestation rather than the original obra.
+- **1924–1926:** *Cité Frugès*. Experimental housing estate at Pessac, designed with Pierre Jeanneret; only part of the projected estate was built.
+- **1924–1929:** *Maison Planeix*. Paris house and studio, designed with Pierre Jeanneret.
+- **1925–1926:** *Garage Sensaud de Lavaud*. Automobile workshop and garage at Neuilly-sur-Seine.
+- **1925–1927:** *Maison Guiette*. Artist’s house in Antwerp, designed with Pierre Jeanneret.
+- **1926:** *Palais du Peuple, Armée du Salut*. Alterations and additions to an existing Paris social building.
+- **1926–1927:** *Maison Cook*. House at Boulogne-Billancourt, designed with Pierre Jeanneret.
+- **1926–1928:** *Villa Stein-de-Monzie (“Les Terrasses”)*. House at Vaucresson, designed with Pierre Jeanneret.
+- **1927:** *Maisons de la Weissenhof-Siedlung*. Two model houses in Stuttgart, designed with Pierre Jeanneret.
+- **1927–1928:** *Pavillon Nestlé*. Traveling exhibition pavilion; an ephemeral commercial construction rather than a permanent building.
+- **1927–1930:** *Villa Church*. House and alterations at Ville-d’Avray, designed with Pierre Jeanneret; subsequently demolished.
+- **1928:** *Villa Baizeau*. House at Carthage, designed with Pierre Jeanneret.
+- **1928–1931:** *Villa Savoye et loge du jardinier*. House and gatekeeper’s lodge at Poissy, designed with Pierre Jeanneret.
+- **1928–1935:** *Centrosoyuz*. Office complex in Moscow; Le Corbusier and Pierre Jeanneret designed it with Nikolai Kolli responsible for local execution.
+- **1929:** *Asile flottant (Louise-Catherine)*. Conversion of a concrete barge into an Armée du Salut shelter; its status lies between architecture, naval refit, and social infrastructure.
+- **1929–1931:** *Villa de Madame H. de Mandrot*. House at Le Pradet, designed with Pierre Jeanneret.
+- **1929–1931:** *Appartement de Charles de Beistegui*. Paris rooftop apartment and surreal interior ensemble, designed with Pierre Jeanneret; largely destroyed by later alteration.
+- **1929–1933:** *Cité de Refuge*. Armée du Salut hostel in Paris, designed with Pierre Jeanneret.
+- **1930:** *Pavillon S.T.A.R.*. Prefabricated exhibition pavilion at Le Bourget.
+- **1930–1932:** *Immeuble Clarté*. Apartment building in Geneva, designed with Pierre Jeanneret.
+- **1930–1933:** *Pavillon Suisse*. Student residence at the Cité internationale universitaire de Paris, designed with Pierre Jeanneret.
+- **1931–1934:** *Immeuble locatif à la porte Molitor*. Paris apartment building containing Le Corbusier’s own apartment-studio, designed with Pierre Jeanneret.
+- **1934:** *Maison Henfel (Maison de week-end)*. Weekend house at La Celle-Saint-Cloud, designed with Pierre Jeanneret.
+- **1934–1935:** *Villa “Le Sextant”*. Timber holiday house at Les Mathes, designed with Pierre Jeanneret.
+- **1936–1937:** *Pavillon des Temps Nouveaux*. Tent-like exhibition pavilion for the 1937 Paris exposition, designed with Pierre Jeanneret; demolished after the event.
+- **1938:** *Centre scientifique de la main-d’œuvre*. Paris research and exhibition installation.
+- **1938–1940:** *Centre de réadaptation des jeunes chômeurs*. Social and educational complex in Paris.
+- **1945–1952:** *Unité d’habitation de Marseille*. Collective-housing Gesamtkunstwerk incorporating apartments, circulation, services, furnishings, color, sculpture, and a roof landscape.
+- **1946–1950:** *Manufacture Claude-et-Duval*. Factory at Saint-Dié; the Fondation dates the realized work 1946–1950, while the *Œuvre complète* groups the project under 1946–1951.
+- **1949:** *Maison du docteur Curutchet*. House and surgery at La Plata; Amancio Williams supervised construction, making execution a shared authorship.
+- **1949–1955:** *Unité d’habitation de Rezé*. Collective-housing block near Nantes.
+- **1950–1955:** *Chapelle Notre-Dame-du-Haut*. Pilgrimage chapel at Ronchamp: architecture, painting, sculpture, stained glass, and liturgical environment form a Gesamtkunstwerk.
+- **1950–1965:** *Chandigarh*. Urban plan and governmental complex developed with a large international and Indian team; Le Corbusier’s authorship is decisive but not exclusive.
+- **1951:** *Cabanon de Le Corbusier*. Modulor-sized timber retreat at Roquebrune-Cap-Martin, including built-in furniture and painting.
+- **1951:** *Villa Shodhan*. House at Ahmedabad; begun as a different commission for Surottam Hutheesing before being adapted for Shyamubhai Shodhan.
+- **1951–1954:** *Aéroclub de Doncourt*. Clubhouse at Doncourt-lès-Conflans.
+- **1951–1955:** *Maisons Jaoul*. Pair of vaulted houses at Neuilly-sur-Seine.
+- **1951–1956:** *Palais des Filateurs*. Mill Owners’ Association headquarters at Ahmedabad.
+- **1951–1956:** *Villa Manorama Sarabhai*. House at Ahmedabad.
+- **1951–1957:** *Musée d’Ahmedabad (Sanskar Kendra)*. Museum based on the “museum of unlimited growth” project.
+- **1952–1959:** *Maison du Brésil*. Student residence in Paris, begun by Lúcio Costa and substantially redesigned with Le Corbusier; sole attribution to either architect would be misleading.
+- **1953–1960:** *Couvent Sainte-Marie-de-la-Tourette*. Dominican monastery at Éveux-sur-l’Arbresle, conceived as an architectural, acoustic, chromatic, and liturgical whole.
+- **1953–1965:** *Maison de la Culture de Firminy*. Cultural building begun during Le Corbusier’s lifetime and completed after his death.
+- **1955:** *Musée national des Beaux-Arts de l’Occident*. Tokyo museum, developed with Japanese collaborators Kunio Maekawa, Junzo Sakakura, and Takamasa Yoshizaka.
+- **1955–1958:** *Unité d’habitation de Berlin*. Housing block whose execution diverged from Le Corbusier’s Modulor dimensions under German regulations.
+- **1955–1963:** *Barrage de Bhakra*. Architectural treatment and associated structures for the Indian dam; the dam’s engineering cannot be attributed to Le Corbusier alone.
+- **1955–1969:** *Stade de Firminy*. Stadium completed posthumously.
+- **1956:** *Unités de camping*. Five minimal holiday cabins at Roquebrune-Cap-Martin.
+- **1956:** *Stade de Bagdad*. Sports complex commissioned in Iraq; only part was eventually realized, substantially after Le Corbusier’s death.
+- **1957–1958:** *Pavillon Philips*. Multimedia Gesamtkunstwerk for Expo 58 in Brussels, made with Iannis Xenakis and Edgard Varèse; attributing its architecture and electronic spectacle to Le Corbusier alone remains disputed.
+- **1958–1965:** *Tombe de Le Corbusier et Yvonne Gallis*. Polychrome funerary monument at Roquebrune-Cap-Martin, designed by Le Corbusier for himself and his wife.
+- **1959–1961:** *Carpenter Center for the Visual Arts*. Harvard arts center; Josep Lluís Sert and Guillermo Jullian de la Fuente were important collaborators.
+- **1959–1961:** *Unité d’habitation de Briey-en-Forêt*. Collective-housing block.
+- **1959–1968:** *Unité d’habitation de Firminy*. Housing block completed posthumously.
+- **1960:** *Bâtiments de l’écluse de Kembs-Niffer*. Control tower and customs building for a Rhine canal lock.
+- **1960–1967:** *Pavillon d’exposition ZHLC (Maison d’Homme)*. Steel-and-glass museum-house commissioned by Heidi Weber and completed posthumously in Zurich.
+- **1960–2006:** *Église Saint-Pierre de Firminy*. Church project left incomplete at Le Corbusier’s death and realized decades later by José Oubrerie; the present building is therefore a posthumous interpretation as well as a Le Corbusier project.
+
+### Architectural and urban projects
+
+- **1913:** *Plan de La Chaux-de-Fonds*. Unbuilt urban study.
+- **1914:** *Maison Dom-Ino*. Open concrete-frame construction system: a protocol and generative project rather than a single house.
+- **1916:** *Villa Paul Poiret*. Unbuilt house project.
+- **1919:** *Maisons Monol*. Standardized vaulted-house type, never realized as proposed.
+- **1920–1922:** *Maison Citrohan*. Evolving standardized-house project rather than one fixed object.
+- **1922:** *Ville contemporaine de trois millions d’habitants*. Theoretical urban project.
+- **1922:** *Immeubles-villas*. Collective-housing type combining apartments with house-like terraces.
+- **1922:** *Étude pour un stade*. Unlocated and unrealized sports project.
+- **1924:** *Villa Mongermon*. Unbuilt Paris house project.
+- **1925:** *Plan Voisin pour Paris*. Urban-demolition and reconstruction proposal; a polemical manifesto in plan, model, and exhibition form, not a realized city.
+- **1925:** *Villa Meyer*. Unbuilt house project at Neuilly-sur-Seine.
+- **1925:** *Villa près de Bordeaux*. Unbuilt house project.
+- **1926:** *Villa Joseph et Hanau*. Unbuilt Vaucresson house.
+- **1926:** *Usine Frugès*. Unbuilt Bordeaux factory.
+- **1927:** *Palais de la Société des Nations*. Competition project for Geneva, made with Pierre Jeanneret; its rejection generated later petitions and remains central to the project’s identity.
+- **1928:** *Villa Ocampo*. Unbuilt Buenos Aires house.
+- **1929:** *Mundaneum / Musée mondial*. Unbuilt Geneva cultural complex, made with Pierre Jeanneret and associated with Paul Otlet’s universal-documentation project.
+- **1929:** *Villa Paulo Prado*. Unbuilt São Paulo house.
+- **1929:** *Villa Jacquin*. Unbuilt house at Bois-Colombes.
+- **1930:** *Ville radieuse*. Theoretical urban project that also became a book and manifesto; it resists treatment as one stable work.
+- **1930:** *Palais des Soviets*. Competition project for Moscow, made with Pierre Jeanneret.
+- **1930:** *Villa Martínez de Hoz*. Unbuilt Buenos Aires house.
+- **1931:** *Musée des artistes vivants*. Unbuilt museum at Nesle-la-Vallée.
+- **1931:** *Musée d’art moderne de Paris*. Unbuilt museum project.
+- **1933:** *Petite maison C.M.A.*. Unbuilt Algiers housing study.
+- **1934–1942:** *Plans pour Alger*, including *Plan Obus*, *Quartier de la Marine*, and the later master plan. A changing family of urban projects, not one fixed plan; none was realized as proposed.
+- **1935:** *Musée de la ville et de l’État*. Unbuilt Paris museum.
+- **1935:** *Pavillon du Jeune Homme*. Unbuilt Brussels exhibition pavilion.
+- **1936:** *Plan directeur de Buenos Aires*. Urban project later developed with Argentine collaborators.
+- **1936:** *Voiture minimum*. Compact-car project; it is industrial design rather than architecture and was not produced.
+- **1936–1945:** *Ministère de l’Éducation et de la Santé publique, Rio de Janeiro*. Le Corbusier served as consultant to Lúcio Costa’s Brazilian team; the realized building is a collective creation, not properly a sole Le Corbusier work.
+- **1937:** *Monument à Paul Vaillant-Couturier*. Unbuilt memorial project.
+- **1937:** *Pavillon de la France à l’Exposition de l’Eau*. Unbuilt Liège exhibition project.
+- **1937:** *Pavillon Bat’a*. Unbuilt Paris pavilion.
+- **1937:** *Exposition de 1937, projet C: Centre d’esthétique contemporaine*. Unbuilt exhibition project.
+- **1937:** *Plan de Paris*. Urban study rather than a discrete building.
+- **1939:** *Musée à croissance illimitée*. Spiral museum protocol capable of indefinite enlargement; a project-type manifested in later museums.
+- **1939:** *Station biologique de Roscoff*. Unbuilt research-station project.
+- **1939:** *Grand-place de la mairie de Boulogne-sur-Seine*. Unbuilt civic project.
+- **1939:** *Maison Clarke Arundel*. Unbuilt house project.
+- **1939:** *Station de sports d’hiver et d’été de la vallée de Vars*. Unbuilt regional project.
+- **1939–1940:** *M.A.S., maisons montées à sec*. Dry-assembled standardized-house system.
+- **1940:** *Maisons Murondins*. Emergency earth-and-timber housing protocol, explicitly instructional as well as architectural.
+- **1940:** *Maisons pour ingénieurs et contremaîtres, S.P.A. Lannemezan*. Unbuilt standardized employee-housing projects.
+- **1940:** *Exposition de la France d’outre-mer*. Unrealized Paris exhibition scheme.
+- **1942–1945:** *Cité linéaire industrielle*. Urban and territorial model rather than a site-specific realized city.
+- **1944:** *Usine verte*. Industrial-building and landscape prototype.
+- **1947:** *Siège de l’Organisation des Nations unies*. Le Corbusier’s proposal contributed to the collaborative UN design process, but the realized headquarters cannot be classified as his sole work.
+- **1947:** *Plans d’urbanisation de Marseille, Vieux-Port et Marseille-Veyre*. Unbuilt reconstruction and extension projects.
+- **1948:** *Grille CIAM d’urbanisme*. Analytical and exhibition protocol for comparing urban plans.
+- **1948:** *Sainte-Baume: basilique de la Paix et du Pardon, cité nouvelle et maisons de La Trouinade*. Unbuilt pilgrimage and settlement project.
+- **1949:** *Roq et Rob*. Unbuilt seaside subdivisions at Roquebrune-Cap-Martin.
+- **1950:** *Plan directeur de Bogotá*. Developed with Josep Lluís Sert and Paul Lester Wiener; both authorship and the project’s relation to later Bogotá planning are collaborative.
+- **1950:** *Synthèse des arts majeurs—Porte Maillot 50*. Unbuilt Paris Gesamtkunstwerk project.
+- **1950:** *Maison du professeur Fueter*. Unbuilt house project on Lake Constance.
+- **1950–1965:** *Palais du Gouverneur*. Unbuilt Chandigarh capitol building.
+- **1950–1965:** *Village du Gouverneur*. Unbuilt Chandigarh residential ensemble.
+- **1950–1965:** *Monument des Martyrs*. Partly realized Chandigarh memorial project; its incomplete state belongs to the work.
+- **1950–1965:** *Main Ouverte*. Monument for Chandigarh, conceived by Le Corbusier but completed posthumously; simultaneously sculpture, civic sign, and political manifestation.
+- **1950–1965:** *Bâtiment P.T.T.*. Unbuilt Chandigarh administrative project.
+- **1951:** *Concours de Strasbourg pour 800 logements*. Unbuilt housing-competition project.
+- **1953:** *Étude d’habitations H.E.M.*. Unbuilt housing study for Roubaix.
+- **1956:** *Maisons rurales de Chessy*. Unbuilt rural-housing project.
+- **1958:** *Concours international d’urbanisme de Berlin*. Unbuilt urban project.
+- **1961:** *Orsay-Paris, centre de culture*. Unbuilt cultural-center project.
+- **1962:** *Pavillon d’exposition du palais Ahrenberg*. Unbuilt Stockholm exhibition pavilion.
+- **1963:** *Centre international d’art à Erlenbach*. Unbuilt cultural complex.
+- **1963–1964:** *Centre de calculs électroniques Olivetti*. Unbuilt industrial and office project at Rho near Milan.
+- **1964:** *Palais des Congrès de Strasbourg*. Unbuilt convention-center project.
+- **1964–1965:** *Ambassade de France à Brasília*. Unbuilt diplomatic complex.
+- **1965:** *Hôpital de Venise*. Hospital project unfinished at Le Corbusier’s death; subsequent versions by his collaborators complicate the boundary of the work.
+- **1965:** *Musée du XXe siècle*. Unbuilt museum project at Nanterre.
+
+### Furniture, equipment, color systems, and industrial design
+
+- **1905 onward:** *Furniture and interior fittings for the La Chaux-de-Fonds houses*. A body of fixed and movable furniture rather than a single catalogued object.
+- **1925:** *Casiers standard*. Modular storage system developed for houses and the Pavillon de l’Esprit Nouveau.
+- **1927:** *Études sur les différentes manières de s’asseoir*. Research protocol that became the basis for later standardized seating.
+- **1928–1929:** *Équipement intérieur d’une habitation*. Furniture ensemble made with Charlotte Perriand and Pierre Jeanneret and presented at the 1929 Salon d’Automne; collaborative authorship is essential.
+- **1928:** *Fauteuil à dossier basculant (LC1)*. Tubular-steel reclining armchair made with Perriand and Pierre Jeanneret.
+- **1928:** *Fauteuil Grand Confort, petit modèle (LC2)*. Tubular-steel armchair made with Perriand and Pierre Jeanneret.
+- **1928:** *Fauteuil Grand Confort, grand modèle (LC3)*. Tubular-steel armchair made with Perriand and Pierre Jeanneret.
+- **1928:** *Chaise longue à réglage continu (LC4)*. Adjustable chaise made with Perriand and Pierre Jeanneret.
+- **1928:** *Table en tube d’avion (LC6)*. Dining table made with Perriand and Pierre Jeanneret.
+- **1928–1929:** *Tabouret tournant (LC8)*. Swiveling stool made with Perriand and Pierre Jeanneret.
+- **1931:** *Salubra I: claviers de couleurs*. Architectural-color system and selection protocol, not simply a book of swatches.
+- **1949–1952:** *Furniture and built-in equipment for the Marseille Unité*. A body of kitchens, cupboards, tables, seating, and fittings integrated with the building; individual authorship was shared with the atelier and collaborators.
+- **1951:** *Cabanon furniture*. Built-in bed, cupboards, tables, and stools forming an inseparable part of the cabin.
+- **1952:** *Lampe de Marseille*. Adjustable wall lamp designed for the Unité d’habitation.
+- **1959:** *Salubra II: claviers de couleurs*. Second architectural polychromy system.
+- **Various dates:** *Furniture and lighting corpus*. The Fondation treats fixed furniture, movable furniture, kitchens, conference tables, personal furnishings, and luminaires as a distinct obra; many objects were tied to particular buildings and resist separation from them.
+
+### Books, manifestos, protocols, and visual texts
+
+- **1912:** *Étude sur le mouvement d’art décoratif en Allemagne*. Charles-Édouard Jeanneret’s first book, an analytical report.
+- **1914:** *Un mouvement d’art à La Chaux-de-Fonds*. Polemical cultural text.
+- **1918:** *Après le cubisme*. Manifesto written with Amédée Ozenfant.
+- **1920–1925:** *L’Esprit Nouveau*. Review founded and directed with Ozenfant and Paul Dermée; Le Corbusier’s articles within it are numerous individual texts, while the periodical itself is a collective manifestation.
+- **1923:** *Vers une architecture*. Architectural manifesto assembled largely from revised journal articles.
+- **1925:** *L’Art décoratif d’aujourd’hui*. Polemical book and manifesto against conventional decorative art.
+- **1925:** *Urbanisme*. Treatise and urban manifesto.
+- **1925:** *La Peinture moderne*. Art-theoretical book written with Ozenfant.
+- **1926:** *Almanach d’architecture moderne*. Hybrid yearbook, manifesto, and presentation of projects.
+- **1928:** *Une maison—un palais*. Architectural polemic.
+- **1928:** *Requête adressée à M. le Président et aux membres du Conseil de la Société des Nations*. Advocacy text written with Pierre Jeanneret; a text that acts upon an institutional decision and therefore functions as a manifesto-petition.
+- **1930:** *Précisions sur un état présent de l’architecture et de l’urbanisme*. Lectures recast as an illustrated theoretical book.
+- **1930–1965:** *Œuvre complète*. Self-documenting architectural corpus, produced with Pierre Jeanneret and editors Oscar Stonorov, Willy Boesiger, and others; it is catalogue, argument, and constructed public image rather than neutral documentation.
+- **1931:** *Requête au président du Conseil de la Société des Nations*. Second institutional petition written with Pierre Jeanneret.
+- **1931:** *Salubra, claviers de couleur*. Book-object and working protocol for choosing architectural color.
+- **1933:** *Croisade ou le crépuscule des académies*. Polemical manifesto.
+- **1935:** *Aircraft*. Photographic and architectural meditation on aviation.
+- **1935:** *La Ville radieuse*. Urban manifesto that gathers and transforms earlier projects.
+- **1937:** *Les Tendances de l’architecture rationaliste en rapport avec la collaboration de la peinture et de la sculpture*. Lecture-text advocating a synthesis of the arts.
+- **1937:** *Quand les cathédrales étaient blanches: voyage au pays des timides*. Travel book, cultural criticism, and architectural manifesto.
+- **1938:** *Des canons, des munitions? Merci! Des logis… s.v.p.*. Housing polemic whose title and form make it an intervention rather than detached description.
+- **1938:** *L’Îlot insalubre no 6*. Project dossier and advocacy publication for urban redevelopment.
+- **1939:** *Le Lyrisme des temps nouveaux et l’urbanisme*. Published lecture and manifesto.
+- **1941:** *Sur les quatre routes*. Essay on transport, territory, and modern life.
+- **1941:** *Destin de Paris*. Urban polemic.
+- **1942:** *La Maison des hommes*. Architectural and social treatise written with François de Pierrefeu.
+- **1942:** *Les Constructions “Murondins”*. Building manual: explicitly a protocol for emergency construction.
+- **1943:** *La Charte d’Athènes*. Urbanist manifesto and protocol published by Le Corbusier from the collective work of CIAM IV; presenting it as solely authored by him would suppress that collective origin.
+- **1943:** *Entretien avec les étudiants des écoles d’architecture*. Address to architecture students.
+- **1945:** *Les Trois établissements humains*. Territorial-planning doctrine.
+- **1946:** *Manière de penser l’urbanisme*. Condensed urban treatise.
+- **1946:** *Propos d’urbanisme*. Collection of urbanist arguments.
+- **1947:** *UN Headquarters*. Project publication and advocacy document.
+- **1948:** *New World of Space*. English-language synthesis of architecture, painting, and sculpture.
+- **1948:** *Grille CIAM d’urbanisme: mise en application de la Charte d’Athènes*. Explanatory publication for an analytical protocol.
+- **1950:** *Poésie sur Alger*. Visual-poetic book about Algiers.
+- **1950:** *Le Modulor*. Proportional system presented as book, measurement protocol, bodily diagram, and design tool.
+- **1950:** *L’Unité d’habitation de Marseille*. Project monograph and manifesto for collective housing.
+- **1954:** *Une petite maison*. Retrospective visual narrative about Villa “Le Lac,” not merely conventional architectural documentation.
+- **1955:** *Architecture du bonheur: l’urbanisme est une clef*. Urbanist essay.
+- **1955:** *Le Modulor 2*. Continuation, defense, and collection of applications of the Modulor protocol.
+- **1955:** *Le Poème de l’angle droit*. Lithographic “iconostase” combining handwriting, images, color, and book design; poem, print suite, and Gesamtkunstwerk rather than simply a text.
+- **1956:** *Les Plans de Paris: 1956–1922*. Retrospective project book.
+- **1956:** *Ronchamp*. Early monograph on the chapel.
+- **1957:** *Von der Poesie des Bauens*. German-language visual and architectural book.
+- **1957:** *Ronchamp*. A distinct later publication, not merely a reprint of the 1956 book.
+- **1958:** *Le Poème électronique*. Multimedia-project book connected with the Philips Pavilion.
+- **1959:** *Salubra, claviers de couleur, deuxième série*. Second book-object and color-selection protocol.
+- **1960:** *L’Atelier de la recherche patiente*. Autobiographical presentation of a life’s work.
+- **1961:** *Le Livre de Ronchamp*. Visual-textual meditation on the chapel.
+- **1961:** *Un couvent de Le Corbusier*. Project monograph on La Tourette.
+- **1965:** *Textes et dessins pour Ronchamp*. Visual and textual book.
+- **Written earlier; published 1966:** *Le Voyage d’Orient*. Travel narrative prepared by Le Corbusier but published posthumously; the publication date is not the date of the journey or original writing.
+- **Written 1965; published 1966:** *Mise au point*. Final autobiographical statement, posthumously published.
+- **Published 1968:** *Les Maternelles vous parlent*. Posthumous book concerning the nursery school at the Marseille Unité; its edition is later than its author’s life.
+
+### Painting, drawing, collage, printmaking, sculpture, tapestry, enamel, and murals
+
+- **1917–1965:** *Painted oeuvre*. A corpus of more than 450 paintings, beginning before the fully developed Purist collaboration and continuing through postwar figural and symbolic compositions. Treating every canvas as securely and uniformly titled would be misleading: titles, dates, and catalogue descriptions vary.
+- **1918:** *La Cheminée*. Purist painting often treated as Le Corbusier’s first mature canvas.
+- **1918–1925:** *Purist paintings*. Body of still lifes and geometric compositions made in dialogue with Ozenfant; individual works exist, but “Purism” is a collaborative program as well as an oeuvre.
+- **1910–1965:** *Drawings and papiers collés*. A corpus of roughly 8,000 sheets catalogued by the Fondation, ranging from travel observation to architectural research and autonomous collage. It resists reduction to a list of fixed titles because many sheets are studies, notebook leaves, or untitled working documents.
+- **1914–1964:** *Carnets*. Seventy-three surviving sketchbooks spanning travel, buildings, people, diagrams, texts, and private notes; they are working instruments and an archive of process rather than seventy-three conventional “works.”
+- **1927–1936:** *Murals at E.1027*. Paintings made on walls of the house designed by Eileen Gray and Jean Badovici. Their status as Le Corbusier works is inseparable from the dispute over consent, intrusion into Gray’s architecture, and later conservation.
+- **1930s–1965:** *Print oeuvre*. A corpus of about one hundred prints, including lithographs, engravings, and book-linked suites.
+- **1940s–1965:** *Sculptural oeuvre*. Forty-four sculptures are recorded by the Fondation; many wooden works were designed by Le Corbusier and materially executed with cabinetmaker Joseph Savina, so authorship is collaborative.
+- **1940s–1965:** *Ozon and Ubu sculptures*. Families of carved, assembled, and painted wooden forms developed with Joseph Savina; they are series rather than single stable objects.
+- **1948–1965:** *Tapestry oeuvre (“muralnomads”)*. Thirty tapestry models are recorded by the Fondation. Le Corbusier conceived tapestry as a movable mural, making each work both textile object and portable architecture.
+- **1950s–1965:** *Enamel oeuvre*. Approximately fifty enamel works, including autonomous panels and architectural surfaces.
+- **1950–1955:** *Enamelled south door of Notre-Dame-du-Haut*. Monumental pivoting door whose imagery belongs simultaneously to painting, enamel, liturgical equipment, and architecture.
+- **1951–1956:** *Tapestry for the Chandigarh High Court*. Architectural textile designed for the court building.
+- **1950s–1960s:** *Chandigarh tapestries*. Body of large textile works for governmental interiors; workshop execution means that design and physical manufacture have different authors.
+- **1955:** *Le Poème de l’angle droit print cycle*. Nineteen lithographic image-text units organized as an iconostase; also inseparable from the book bearing the same title.
+- **1956–1958:** *Visual program of the Philips Pavilion*. Diagram, projected imagery, light, color, architecture, and sound formed one electronic Gesamtkunstwerk, collaboratively realized.
+- **1963–1965:** *Cortège*. Engraving project based on 1953 pastels and left incomplete at Le Corbusier’s death; several plates were not completed or signed, so the suite resists classification as a finished work.
+
+### Sources
+
+- Fondation Le Corbusier, [“Les bâtiments réalisés de Le Corbusier”](https://www.fondationlecorbusier.fr/le-corbusier/oeuvres/architecture/realisations/). The Fondation’s catalogue identifies 79 realized buildings or ensembles, 65 surviving, and supplies the titles, places, and date ranges used above.
+- Fondation Le Corbusier, [“Projets non-réalisés”](https://www.fondationlecorbusier.fr/le-corbusier/oeuvres/architecture/projets-non-realises/). Catalogue of approximately 200 unrealized projects at different stages, from sketches and correspondence to extensive plan sets.
+- Fondation Le Corbusier, [“Études et recherches”](https://www.fondationlecorbusier.fr/le-corbusier/oeuvres/architecture/etudes-et-recherches/). Catalogue for Dom-Ino, Monol, Citrohan, the theoretical cities, Plan Voisin, Murondins, and Modulor research.
+- Fondation Le Corbusier, [“Les livres de Le Corbusier”](https://www.fondationlecorbusier.fr/le-corbusier/oeuvres/livres/). Standard works list of nearly forty books, including collaborative and posthumous titles and the volumes of the *Œuvre complète*.
+- Le Corbusier and Pierre Jeanneret; Willy Boesiger et al., eds., *Œuvre complète*, eight volumes: *1910–1929*, *1929–1934*, *1934–1938*, *1938–1946*, *1946–1952*, *1952–1957*, *1957–1965*, and the final index volume, Zurich: Girsberger/Éditions d’Architecture, 1930–1970. See the Fondation’s contents for [1938–1946](https://www.fondationlecorbusier.fr/oeuvre-livre/oeuvre-complete-1938-46/), [1946–1952](https://www.fondationlecorbusier.fr/oeuvre-livre/oeuvre-complete-1946-52/), [1952–1957](https://www.fondationlecorbusier.fr/oeuvre-livre/oeuvre-complete-1952-57/), and [1957–1965](https://www.fondationlecorbusier.fr/oeuvre-livre/le-corbusier-oeuvre-complete-1957-1965/).
+- Fondation Le Corbusier, [“Le mobilier et les luminaires de Le Corbusier”](https://www.fondationlecorbusier.fr/le-corbusier/oeuvres/mobilier/). Overview of early furnishings, casiers, metal-tube furniture, kitchens, lighting, Unité equipment, and the 1928–1929 collaboration with Charlotte Perriand and Pierre Jeanneret.
+- Fondation Le Corbusier, [“La production artistique de Le Corbusier”](https://www.fondationlecorbusier.fr/le-corbusier/oeuvres/arts-plastiques/). Catalogue overview documenting more than 450 paintings, approximately 8,000 drawings and collages, about 100 prints, 44 sculptures, 30 tapestry models, and approximately 50 enamels.
+- Fondation Le Corbusier, [Collections and archives](https://www.fondationlecorbusier.fr/collections/). Institutional description of the drawings, plans, writings, photographs, paintings, preliminary tapestry studies, collages, engravings, and sculptures preserved by Le Corbusier’s universal legatee.
+- Françoise de Franclieu, ed., *Le Corbusier: Carnets*, 4 vols., Paris: Fondation Le Corbusier/Herscher, 1981–1982. Complete facsimile publication of the 73 surviving notebooks, covering 1914–1964.
+- UNESCO, [*The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement*](https://whc.unesco.org/en/list/1321/). Scholarly nomination and serial-property documentation used for collaborative histories, alterations, realization status, and the distinction between projects and surviving built works.

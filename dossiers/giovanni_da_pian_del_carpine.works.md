@@ -1,0 +1,23 @@
+## Works by Giovanni da Pian del Carpine
+
+### Obra: diplomatic, ethnographic, and strategic report
+
+- **1247:** *Ystoria Mongalorum quos nos Tartaros appellamus* (also *Historia Mongalorum* or *Liber Tartarorum*). A Latin prose report arising from Giovanni’s 1245–1247 papal mission: part travel narrative, part geographical and ethnographic survey, part history of the Mongols, and part protocol for recognizing and resisting Mongol warfare. The standard critical edition treats these titles as names for one obra, not separate books; Giovanni produced it in two successive authorial redactions. ([Dizionario Biografico degli Italiani](https://www.treccani.it/enciclopedia/giovanni-da-pian-del-carpine_(Dizionario-Biografico)/), [ARLIMA](https://www.arlima.net/eh/giovanni_di_pian_del_carpino.html), [CISAM](https://shop.cisam.org/index.php?product_id=451&route=product/product))
+
+### Authorial manifestations of the report
+
+- **1247, during the return journey:** *Ystoria Mongalorum*—first redaction. This shorter, not yet complete manifestation comprised the prologue and principally the ethnographic, historical, and military material now forming chapters 1–8; copies were made while Giovanni was still travelling through Central and Western Europe. Its incompleteness is authorially acknowledged, but the precise relationship among its surviving manuscript witnesses and a possible preliminary “rough draft” remains a matter of textual scholarship rather than a securely recoverable sequence. ([CISAM](https://shop.cisam.org/index.php?product_id=451&route=product/product), [IMAGO](https://imagoarchive.it/archive/manuscript.html?iri=https%3A%2F%2Fimagoarchive.it%2Fontology%2Fresources%2Fmanuscript%2Fluxembourg%2Fbibliothquenationale%2F110%2F175r187r), [ARLIMA](https://www.arlima.net/eh/giovanni_di_pian_del_carpino.html))
+
+- **1247 or shortly thereafter:** *Ystoria Mongalorum*—revised redaction. Giovanni corrected and enlarged the circulating report, adding material throughout and a ninth chapter narrating the itinerary and identifying witnesses to the mission; this is a substantial authorial reworking, but still a manifestation of the same obra rather than an independent title. The exact date of completion is not fixed by the surviving evidence. ([Dizionario Biografico degli Italiani](https://www.treccani.it/enciclopedia/giovanni-da-pian-del-carpine_(Dizionario-Biografico)/), [CISAM](https://shop.cisam.org/index.php?product_id=451&route=product/product), [ARLIMA](https://www.arlima.net/eh/giovanni_di_pian_del_carpino.html))
+
+### Oral manifestation, not securely a separate work
+
+- **1247–1248:** Oral explanations accompanying readings of the *Ystoria Mongalorum*. Salimbene de Adam reports that Giovanni carried his report with him, had it read, and personally explained passages that listeners found obscure or unbelievable. These performances resist classification as an additional work: no fixed text, title, or independent transmission survives, so they are best understood as oral manifestations of the written obra. ([Dizionario Biografico degli Italiani](https://www.treccani.it/enciclopedia/giovanni-da-pian-del-carpine_(Dizionario-Biografico)/))
+
+### Sources
+
+- Enrico Menestò et al., eds., *Giovanni di Pian di Carpine: Storia dei Mongoli* (Spoleto: Centro italiano di studi sull’alto medioevo, 1989), the modern critical edition, including Maria Cristiana Lungarotti’s study “Le due redazioni dell’Historia Mongalorum.” [Publisher’s description and contents](https://shop.cisam.org/index.php?product_id=451&route=product/product)
+- Raimondo Michetti, “Giovanni da Pian del Carpine,” *Dizionario Biografico degli Italiani*, vol. 56 (2001). [Treccani](https://www.treccani.it/enciclopedia/giovanni-da-pian-del-carpine_(Dizionario-Biografico)/)
+- *Archives de littérature du Moyen Âge* (ARLIMA), “Giovanni di Pian del Carpino,” work record, manuscript census, and bibliography for *Historia Mongalorum ou Liber Tartarorum*. [ARLIMA](https://www.arlima.net/eh/giovanni_di_pian_del_carpino.html)
+- IMAGO, *Opere geografiche*, record for Luxembourg, Bibliothèque nationale, MS 110, fols. 175r–187r, a witness to the first redaction. [IMAGO manuscript record](https://imagoarchive.it/archive/manuscript.html?iri=https%3A%2F%2Fimagoarchive.it%2Fontology%2Fresources%2Fmanuscript%2Fluxembourg%2Fbibliothquenationale%2F110%2F175r187r)
+- Anastasius van den Wyngaert, ed., *Sinica Franciscana*, vol. 1 (Quaracchi, 1929), pp. 27–130, the earlier standard Latin edition cited by Michetti and the critical-edition bibliography. [Bibliographic discussion in Treccani](https://www.treccani.it/enciclopedia/giovanni-da-pian-del-carpine_(Dizionario-Biografico)/)

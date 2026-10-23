@@ -1,0 +1,356 @@
+## Works by John Milton Cage Jr.
+
+### Compositions, scores, sound works, and performance protocols
+
+- **1931:** *Untitled work for instruments within specified ranges*. An unpublished, never-performed composition whose manuscript was once in Don Sample’s estate; its title and precise medium remain unknown.
+- **1932:** *Greek Ode*. A composition for voice and piano.
+- **1933:** *Three Songs*. A vocal composition using texts by Gertrude Stein.
+- **1933:** *Three Easy Pieces*. A piano composition.
+- **1933:** *Sonata for Clarinet*. A solo instrumental composition.
+- **1933:** *Sonata for Two Voices*. A composition for two or more instruments.
+- **1934:** *Composition for Three Voices*. A composition for three or more instruments.
+- **1934:** *Solo with Obbligato Accompaniment of Two Voices in Canon, and Six Short Inventions on the Subjects of the Solo*. A contrapuntal composition for three or more instruments, rearranged for seven instruments in 1958.
+- **1935:** *Two Pieces for Piano*. A piano composition revised in 1974.
+- **1935:** *Quartet*. A composition for four percussionists.
+- **1935:** *Three Pieces for Flute Duet*. A chamber composition.
+- **1935:** *Quest*. A piano composition.
+- **1935–1937:** *Untitled counterpoint exercises*. Manuscript exercises without fixed instrumentation; whether they constitute autonomous works is uncertain.
+- **1936:** *Trio*. A composition for three percussionists.
+- **1936:** *Untitled string quartet*. An unpublished work whose present location and performance history are unknown.
+- **before 2 July 1938:** *Untitled aquatic-ballet music*. Music involving water gongs, commissioned by UCLA’s Physical Education Department; its surviving status and complete instrumentation are unknown.
+- **1938:** *Metamorphosis*. A piano composition.
+- **1938:** *Five Songs for Contralto*. Songs for alto and piano using texts by E. E. Cummings.
+- **1938:** *Music for Wind Instruments*. A quintet for flute, oboe, clarinet, horn, and bassoon.
+- **1939:** *Imaginary Landscape No. 1*. A composition for four percussionists using electronic media.
+- **1939:** *First Construction (in Metal)*. A composition for six percussionists.
+- **1939:** *25 Ballets in 1 Act for a Solo Dancer*. A documented but unpublished project whose music and precise medium are unknown.
+- **1940:** *A Chant with Claps*. A work for voice.
+- **1940:** *Second Construction*. A composition for four percussionists.
+- **1940:** *Bacchanale*. A dance-derived composition for prepared piano.
+- **1940:** *Imaginary Landscape No. 2*. A withdrawn composition for three percussionists, distinct from the 1942 work bearing the same title.
+- **1940:** *Fads and Fancies in the Academy*. A composition for piano and four percussionists.
+- **1940:** *Living Room Music*. A quartet for household percussion, incorporating a Gertrude Stein text.
+- **1941:** *Double Music*. A percussion quartet made collaboratively with Lou Harrison.
+- **1941:** *Third Construction*. A composition for four percussionists.
+- **1942:** *Jazz Study*. A piano composition.
+- **1942:** *Imaginary Landscape No. 3*. A composition for six percussionists and electronic instruments.
+- **1942:** *Imaginary Landscape No. 2*. A composition for five percussionists, not the withdrawn 1940 piece.
+- **1942:** *The City Wears a Slouch Hat*. Incidental music for Kenneth Patchen’s radio play.
+- **1942:** *Credo in Us*. A composition for four percussionists.
+- **1942:** *Forever and Sunsmell*. A work for voice and two percussionists using a text by E. E. Cummings.
+- **1942:** *Totem Ancestor*. A prepared-piano composition.
+- **1942:** *And the Earth Shall Bear Again*. A prepared-piano composition.
+- **1942:** *The Wonderful Widow of Eighteen Springs*. A song for voice and closed piano using words from James Joyce.
+- **1942:** *Primitive*. A prepared-piano composition.
+- **1942:** *In the Name of the Holocaust*. A prepared-piano composition.
+- **1943:** *Four Dances*. A work for voice, prepared piano, and percussion.
+- **1943:** *Amores*. A four-movement composition for prepared piano and percussion trio.
+- **1943:** *Ad Lib*. A piano composition.
+- **1943:** *Our Spring Will Come*. A prepared-piano composition.
+- **1943:** *She Is Asleep*. A work for voice, prepared piano, and percussion.
+- **1943:** *A Room*. A composition performable on prepared or unprepared piano.
+- **1943:** *Tossed as It Is Untroubled*. A prepared-piano composition.
+- **1943:** *Triple-Paced No. 1*. A piano composition.
+- **1944:** *The Perilous Night*. A cycle for prepared piano.
+- **1944:** *Prelude for Meditation*. A prepared-piano composition.
+- **1944:** *Root of an Unfocus*. A prepared-piano composition.
+- **1944:** *Spontaneous Earth*. A prepared-piano composition.
+- **1944:** *Triple-Paced No. 2*. A prepared-piano composition.
+- **1944:** *The Unavailable Memory of*. A prepared-piano composition whose grammatically suspended title is intentional.
+- **1944:** *A Valentine Out of Season*. A prepared-piano composition.
+- **1944:** *A Book of Music*. A composition for two prepared pianos—not a prose book.
+- **1944:** *Four Walls*. Music for Merce Cunningham’s dance drama, for voice and piano.
+- **1945:** *Crete*. A piano composition.
+- **1945:** *Dad*. A piano composition.
+- **1945:** *Party Pieces*. A collaborative compositional game made with Henry Cowell, Lou Harrison, and Virgil Thomson; individual authorship is deliberately entangled.
+- **1945:** *Soliloquy*. A piano composition.
+- **1945:** *Experiences No. 1*. A composition for two pianos.
+- **1945:** *Mysterious Adventure*. A prepared-piano composition.
+- **1945:** *Three Dances*. A composition for two prepared pianos.
+- **1945:** *Daughters of the Lonesome Isle*. A prepared-piano composition.
+- **1946:** *Ophelia*. A piano composition.
+- **1946:** *Prelude for Six Instruments in A Minor*. A chamber composition.
+- **1946:** *Two Pieces for Piano*. A piano composition.
+- **1946–1948:** *Sonatas and Interludes*. A cycle of twenty prepared-piano pieces.
+- **1947:** *Music for Marcel Duchamp*. A prepared-piano composition made for Hans Richter’s film *Dreams That Money Can Buy*.
+- **1947:** *The Seasons*. A ballet score for orchestra, also arranged for piano.
+- **1947:** *Nocturne for Violin and Piano*. A chamber composition.
+- **1948:** *Experiences No. 2*. A solo vocal composition.
+- **1948:** *Dream*. A piano composition originating as dance music.
+- **1948:** *In a Landscape*. A composition for piano or harp.
+- **1948:** *Suite for Toy Piano*. A cycle for toy piano.
+- **1949–1950:** *String Quartet in Four Parts*. A string quartet organized around the seasons.
+- **1950:** *Works of Calder*. Music involving prepared piano and tape for Herbert Matter’s film.
+- **1950:** *Six Melodies for Violin and Keyboard*. Six chamber miniatures.
+- **1950:** *A Flower*. A work for voice and closed piano.
+- **1950–1951:** *Sixteen Dances*. A dance score for instrumental ensemble.
+- **1950–1951:** *Concerto for Prepared Piano and Chamber Orchestra*. A concerto whose compositional method moves toward chance operations.
+- **1951:** *Imaginary Landscape No. 4*. A protocol-composition for twelve radios and twenty-four performers.
+- **1951:** *Music of Changes*. A chance-composed piano work.
+- **1951–1952:** *Seven Haiku*. Seven piano pieces.
+- **1952:** *Waiting*. A piano composition.
+- **1952:** *Imaginary Landscape No. 5*. A magnetic-tape collage protocol.
+- **1952:** *Two Pastorales*. Prepared-piano compositions.
+- **1952:** *Water Music*. A timed performance score for pianist, radio, water, containers, cards, and other actions.
+- **1952:** *Music for Carillon No. 1*. A carillon composition.
+- **1952:** *Black Mountain Piece* / *Theatre Piece No. 1*. An untitled, largely undocumented concerted event involving simultaneous activities; the familiar titles are retrospective, so it resists identification as a stable work.
+- **1952:** *For M.C. and D.T.*. A piano composition dedicated through its initials to Merce Cunningham and David Tudor.
+- **1952:** *4′33″*. A three-movement performance protocol for any instrument or ensemble in which no intentional sounds are prescribed; revised notation and performance-dependent duration make it less a silent object than a frame for contingent sound.
+- **1952:** *Williams Mix*. An eight-channel magnetic-tape composition.
+- **1952–1956:** *Music for Piano 1–84*. A cumulative series of chance-derived piano pieces rather than a single conventionally continuous composition.
+- **1953:** *59½″ for a String Player*. A timed composition for any four-stringed instrument.
+- **1954:** *Music for Carillon Nos. 2 and 3*. Two carillon compositions.
+- **1954:** *34′46.776″ for a Pianist*. A timed, indeterminate piano score.
+- **1954:** *31′57.9864″ for a Pianist*. A timed score for prepared piano and additional sound sources.
+- **1953–1955:** *26′1.1499″ for a String Player*. A modular timed score incorporating five earlier short string-player pieces.
+- **1955:** *Speech 1955*. A composition for newsreader and five radios.
+- **1956:** *27′10.554″ for a Percussionist*. An indeterminate timed score whose instrumentation is selected by the performer.
+- **1956:** *Radio Music*. A score of frequency tunings for one to eight radios.
+- **1957:** *Winter Music*. An indeterminate score for one to twenty pianists.
+- **1957:** *For Paul Taylor and Anita Dencks*. A piano composition.
+- **1957–1958:** *Concert for Piano and Orchestra*. A constellation of independently performable solos without a conventional controlling score.
+- **1958:** *Haiku*. A composition for unspecified instruments.
+- **1958–1978:** *Variations I–VIII*. Eight increasingly open protocols for producing sound, action, audiovisual performance, or—in *Variations VIII*—no music or recording at all.
+- **1958:** *Solo for Voice 1*. A vocal performance score.
+- **1958:** *Music Walk*. A mobile performance protocol for one or more pianists.
+- **1958:** *TV Köln*. A piano composition.
+- **1958:** *Fontana Mix*. A graphic score and tape work designed to generate multiple realizations.
+- **1958:** *Aria*. A multicolored graphic vocal score.
+- **1959:** *Sounds of Venice*. A theatrical score for a television performer.
+- **1959:** *Water Walk*. A timed solo involving water, household objects, and electronics, devised for television performance.
+- **1960:** *Theatre Piece*. An indeterminate protocol for one to eight performers.
+- **1960:** *Music for Amplified Toy Pianos*. A composition for amplified toy pianos.
+- **1960:** *WBAI*. A score for an operator of machines.
+- **1960:** *Music for “The Marrying Maiden”*. Tape music for Jackson Mac Low’s play.
+- **1960:** *Cartridge Music*. A score for amplified small sounds produced through phonograph cartridges.
+- **1960:** *Solo for Voice 2*. A vocal score for one or more performers.
+- **1961:** *Music for Carillon No. 4*. A carillon composition.
+- **1961–1962:** *Atlas Eclipticalis*. An orchestral score derived from star charts; its parts may be performed independently.
+- **1962:** *Music for Piano 85*. The final numbered work in the *Music for Piano* series.
+- **1962:** *0′00″ (4′33″ No. 2)*. A six-sentence protocol instructing an amplified performer to carry out a disciplined action; duration and sounding result remain indeterminate.
+- **1964:** *Electronic Music for Piano*. An open score for piano with electronics.
+- **1965:** *Rozart Mix*. A continuously variable work for tape loops.
+- **1967:** *Music for Carillon No. 5*. A carillon composition.
+- **1967:** *Newport Mix*. A tape-loop composition.
+- **1967:** *Musicircus*. A Gesamtkunstwerk-like invitation for unrelated performers to perform simultaneously; it resists the bounded identity of a repeatable composition.
+- **1967–1969:** *HPSCHD*. A vast multimedia environment for harpsichords, computer-generated tapes, projections, and film, made with Lejaren Hiller.
+- **1968:** *Reunion*. An electronic performance structured by a chess game, made with Lowell Cross and other collaborators.
+- **1969:** *33⅓*. A participatory installation using at least twelve turntables and records selected and played by visitors.
+- **1969:** *Cheap Imitation*. A chance-derived recomposition of Erik Satie’s *Socrate*, later orchestrated and arranged for violin.
+- **1970:** *Song Books (Solos for Voice 3–92)*. A collection of ninety vocal, theatrical, electronic, and action protocols; its components may be combined freely and repeatedly refuse separation between music, theatre, and everyday activity.
+- **1971:** *Sixty-Two Mesostics re Merce Cunningham*. A vocal text-score.
+- **1971:** *Les chants de Maldoror pulvérisés par l’assistance même*. A participatory work for a French-speaking audience using Lautréamont as source material.
+- **1972:** *Bird Cage*. A sound work for twelve tapes.
+- **1973:** *Etcetera*. A score for orchestra and tape that redistributes authority between conductor and performers.
+- **1974:** *Score (40 Drawings by Thoreau) and 23 Parts*. A graphic score translating Henry David Thoreau’s drawings into material for unspecified instruments.
+- **1975:** *Etudes Australes*. A cycle of thirty-two exceptionally demanding piano etudes derived from star maps.
+- **1975:** *Child of Tree*. A protocol for amplified plant materials.
+- **1975:** *Lecture on the Weather*. A multimedia performance for twelve speaking voices, recordings, film, and lighting, using texts by Thoreau.
+- **1976:** *Branches*. A performance protocol for amplified plant materials.
+- **1976:** *Renga*. An orchestral or ensemble score built from drawings by Thoreau.
+- **1976:** *Apartment House 1776*. A bicentennial music project for multiple performers, incorporating transformed early American repertories.
+- **1976:** *Quartets I–VIII*. Eight orchestral pieces subsequently arranged for concert band and for amplified voices.
+- **1977:** *Telephones and Birds*. A work for three performers with tapes.
+- **1977:** *Inlets*. A composition for performers manipulating water-filled conch shells, with conch trumpet and fire.
+- **1977:** *Forty-Nine Waltzes for the Five Boroughs*. A mapped listening, performing, or recording project locating chance-determined sites across New York City.
+- **1977:** *Alla ricerca del silenzio perduto*. A sound event for a “prepared train”; it is as much journey and intervention as composition.
+- **1977–1990:** *Freeman Etudes*. Thirty-two violin etudes begun in 1977–80, abandoned as practically impossible, then completed in 1989–90.
+- **1978:** *Chorals*. A violin composition.
+- **1978:** *Etudes Boreales*. A set of etudes for cello or piano.
+- **1978:** *A Dip in the Lake*. A mapped listening, performance, or recording project for sites in Chicago.
+- **1978:** *Sound Anonymously Received*. A composition for any instrument.
+- **1978:** *Some of “The Harmony of Maine”*. An organ work derived from Supply Belcher.
+- **1979:** *Hymns and Variations*. A composition for twelve amplified voices based on hymns by William Billings.
+- **1979:** *____, ____ ____ circus on ____*. A fill-in protocol for making a “circus” from any book; its best-known realization is *Roaratorio, an Irish Circus on Finnegans Wake*.
+- **1979:** *Roaratorio, an Irish Circus on Finnegans Wake*. A radio Gesamtkunstwerk of voice, environmental recordings, sound effects, and Irish traditional musicians.
+- **1979:** *Paragraphs of Fresh Air*. A radio event.
+- **1980:** *Improvisation III*. A protocol for cassette players.
+- **1980:** *Furniture Music etcetera*. A composition for two pianos.
+- **1980:** *Litany for the Whale*. A vocal composition for two singers.
+- **1981:** *Thirty Pieces for Five Orchestras*. A large-scale orchestral composition.
+- **1982:** *Improvisation IV*. A protocol for three cassette players.
+- **1982:** *Dance/4 Orchestras*. A composition for four orchestras and dance.
+- **1982:** *Postcard from Heaven*. A flexible composition for one to twenty harps.
+- **1983:** *Ear for EAR*. A vocal composition for two or more voices.
+- **1983:** *Souvenir*. An organ composition.
+- **1983:** *Thirty Pieces for String Quartet*. A quartet consisting of thirty short pieces.
+- **1983–1985:** *Ryoanji*. A family of solo-and-percussion scores for voice or instruments, with an orchestral version, generated by tracings of stones.
+- **1984:** *Perpetual Tango*. A piano composition.
+- **1984:** *Haikai*. A composition for flute and zoomoozophone.
+- **1984:** *Nowth upon Nacht*. A work for voice and piano.
+- **1984:** *A Collection of Rocks*. A composition for voices and orchestra.
+- **1984:** *Eight Whiskus*. A vocal work, arranged for violin in 1985.
+- **1984:** *Exercise*. An orchestral composition.
+- **1984:** *Selkus²*. A vocal composition.
+- **1984:** *Mirakus²*. A vocal composition.
+- **1985:** *ASLSP*. A piano composition whose title means “as slow as possible”; its organ version has enabled performances lasting centuries.
+- **1985:** *Sonnekus²*. A vocal composition.
+- **1985:** *But What About the Noise of Crumpling Paper…?*. A percussion-ensemble score whose extraordinarily long Arp-derived title is part of the work.
+- **1985:** *Etcetera 2/4 Orchestras*. A composition for either two or four orchestras.
+- **1986:** *Improvisation A+B*. A protocol for voice, clarinet, trombone, percussion, and cello.
+- **1986:** *Hymnkus*. A composition for chamber ensemble.
+- **1986:** *Rocks*. A performance using electronic devices.
+- **1986:** *Haikai*. A gamelan composition distinct from the 1984 work.
+- **1986:** *Essay*. A tape composition derived from Cage’s reading of an essay by Thoreau.
+- **1984–1987:** *Music for ____*. A modular work for variable chamber ensemble; the blank in the title is genuine and receives the performers’ names.
+- **1987:** *Two*. A number piece for flute and piano.
+- **1987:** *Organ²/ASLSP*. The organ version of *ASLSP*, conceived without a fixed maximum duration.
+- **1987:** *Europeras 1 & 2*. Operatic Gesamtkunstwerke that chance-superimpose fragments of European opera, sets, costumes, lighting, and recorded sound.
+- **1987:** *One*. A number piece for piano.
+- **1988:** *Five*. A number piece for any five instruments or voices.
+- **1988:** *Four Solos for Voice*. Four vocal compositions.
+- **1988:** *Seven*. A number piece for seven specified instrumentalists.
+- **1988:** *Twenty-Three*. A number piece for string orchestra.
+- **1988:** *Five Stone Wind*. A performance work for three performers.
+- **1988:** *101*. A number piece for orchestra.
+- **1989:** *Swinging*. A piano composition.
+- **1989:** *Four*. A number piece for string quartet.
+- **1989:** *Three*. A number piece for three recorders.
+- **1989:** *Two²*. A number piece for two pianos.
+- **1989:** *Sculptures Musicales*. A protocol for sounds that begin and continue for indeterminate periods; it is closer to a sonic situation than a fixed composition.
+- **1989:** *One²*. A number piece for piano.
+- **1989:** *One³*. A number piece for a solo performer.
+- **1990:** *Composed Improvisations*. Independently notated improvisation protocols for electric bass, snare drum, and one-sided drums.
+- **1990:** *One⁴*. A number piece for percussion.
+- **1990:** *Fourteen*. A number piece for piano and chamber ensemble.
+- **1990:** *One⁵*. A number piece for piano.
+- **1990:** *One⁶*. A number piece for violin.
+- **1990:** *Europeras 3 & 4*. Two operas continuing Cage’s chance-controlled dismantling and recombination of operatic convention.
+- **1990:** *Seven²*. A number piece for seven low-register instruments.
+- **1990:** *Scottish Circus*. A protocol allowing Scottish traditional musicians to perform as independent individuals within an ensemble.
+- **1990:** *Four²*. A number piece for four-part vocal ensemble.
+- **1990:** *One⁷*. A number piece for any solo instrument.
+- **1991:** *Europera 5*. A chamber-scale continuation of the *Europeras* project.
+- **1991:** *One⁸*. A number piece for cello.
+- **1991:** *108*. A number piece for orchestra.
+- **1991:** *Eight*. A number piece for wind octet.
+- **1991:** *Five²*. A number piece for English horn, three clarinets, and timpani.
+- **1991:** *Lullaby*. A composition for music box.
+- **1991:** *Four³*. A number piece for piano, rainsticks, violin, and silence.
+- **1991:** *Three²*. A number piece for three percussionists.
+- **1991:** *One⁹*. A number piece for shō.
+- **1991:** *Two³*. A number piece for shō and conch shells.
+- **1991:** *Two⁴*. A number piece for violin and piano or shō.
+- **1991:** *103*. A number piece for orchestra.
+- **1991:** *Six*. A number piece for six percussionists.
+- **1991:** *Five³*. A number piece for trombone and string quartet.
+- **1991:** *Five⁴*. A number piece for two saxophones and three percussionists.
+- **1991:** *Five⁵*. A number piece for flute, three clarinets, and percussion.
+- **1991:** *Four⁴*. A number piece for four percussionists.
+- **1991:** *Four⁵*. A number piece for saxophone ensemble.
+- **1991:** *Ten*. A number piece for ten instrumentalists.
+- **1991:** *Two⁵*. A number piece for tenor trombone and piano.
+- **1991:** *Five Hanau Silence*. An environmental-sound work situated in Hanau.
+- **1991:** *Twenty-Eight*. A number piece for wind ensemble.
+- **1991:** *Twenty-Six*. A number piece for twenty-six violins.
+- **1991:** *Twenty-Nine*. A number piece for percussion, piano, violas, cellos, and double basses.
+- **1991:** *Twenty-Eight, Twenty-Six and Twenty-Nine*. A compound orchestral performance of three independently performable number pieces.
+- **1992:** *Eighty*. A number piece for orchestra.
+- **1992:** *Sixty-Eight*. A number piece for orchestra.
+- **1992:** *One¹⁰*. A number piece for violin.
+- **1992:** *Fifty-Eight*. A number piece for wind orchestra.
+- **1992:** *Four⁶*. A number piece for four performers.
+- **1992:** *Seventy-Four*. A number piece for orchestra.
+- **1992:** *Two⁶*. A number piece for violin and piano.
+- **1992:** *Thirteen*. A number piece for chamber ensemble.
+- **1992:** *Untitled piano commission*. A projected work for Yvar Mikhashoff, Anthony de Mare, and Stephen Drury; it was never begun, so it survives only as intention and is a project rather than a made score.
+
+### Books, text-works, lectures, and mesostic projects
+
+- **1937:** *The Future of Music: Credo*. A manifesto-lecture asserting the musical use of all audible sound.
+- **1939:** *Goal: New Music, New Dance*. A manifesto-like essay connecting percussion music with modern dance.
+- **1948:** *A Composer’s Confessions*. An autobiographical lecture-text.
+- **1949:** *Forerunners of Modern Music*. A theoretical essay.
+- **1949:** *Defense of Satie*. A lecture and polemical text.
+- **1949:** *Lecture on Nothing*. A lecture composed through rhythmic time-brackets; it is simultaneously essay, score, and performance.
+- **1950:** *Lecture on Something*. A formally composed lecture centered on Morton Feldman.
+- **1952:** *Juilliard Lecture*. A lecture-performance assembled through chance operations.
+- **1954:** *45′ for a Speaker*. A timed verbal score that may be performed alone or simultaneously with Cage’s contemporaneous instrumental time-length pieces.
+- **1957–1958:** *Indeterminacy: New Aspect of Form in Instrumental and Electronic Music*. A sequence of one-minute spoken stories; publication, lecture, and recorded performance are different manifestations of the same unstable text-work.
+- **1958:** *Composition as Process*. A tripartite lecture project comprising *Changes*, *Indeterminacy*, and *Communication*.
+- **1961:** *Silence: Lectures and Writings*. A made book assembling essays and lectures whose typography frequently preserves their status as performed or rhythmically composed texts.
+- **1963–1969:** *Diary: How to Improve the World (You Will Only Make Matters Worse), Parts I–IV*. Chance-composed diary installments combining observation, politics, anecdote, and typography.
+- **1965:** *A Year from Monday*. A book-project of lectures and writings, published in 1967.
+- **1966:** *Mureau*. A text-composition drawn from Thoreau’s journals through chance operations; its words, syllables, letters, and punctuation destabilize the boundary between prose, poetry, and score.
+- **1967–1972:** *M: Writings ’67–’72*. A heterogeneous book of mesostics, lectures, performance texts, and diary installments.
+- **1970:** *The Best Form of Government Is No Government at All*. An anarchist manifesto-text.
+- **1970:** *Re an Interview with the Critic Harold Rosenberg*. A mesostic transformation that acts on, rather than simply reports, an interview.
+- **1972–1982:** *Writing through Finnegans Wake* / *Writing for the Second Time through Finnegans Wake*. Mesostic reading-writing projects generated from Joyce; they are procedures and performances as much as poems.
+- **1973–1978:** *Empty Words*. A four-part textual decomposition of Thoreau’s journals, moving from phrases toward letters and sounds; book, reading, and vocal performance are distinct manifestations.
+- **1976:** *Mushroom Book*. A collaborative artist’s book with Lois Long’s illustrations and Alexander H. Smith’s mycological identifications; Cage supplied chance-derived texts, making authorship deliberately distributed.
+- **1976–1982:** *Diary: How to Improve the World (You Will Only Make Matters Worse), Parts V–VIII*. Later chance-composed installments; an unfinished Part IX survives in manuscript.
+- **1978:** *Writing through the Cantos*. A mesostic text generated through Ezra Pound’s *Cantos*.
+- **1979:** *Writing for the Fourth Time through Finnegans Wake*. A mesostic text and source for *Roaratorio*.
+- **1979:** *James Joyce, Marcel Duchamp, Erik Satie: An Alphabet*. A radio play in which historical figures meet through an invented alphabetical dialogue.
+- **1979:** *The First Meeting of the Satie Society*. A text and performance project staging an imaginary society.
+- **1980:** *Empty Words: Writings ’73–’78*. A book collecting textual compositions, lectures, and writings from the period.
+- **1982:** *Themes & Variations*. A mesostic text constructed from remarks by and about numerous people.
+- **1983:** *X: Writings ’79–’82*. A book whose writings and mesostics cross poetry, criticism, score, lecture, and visual typography.
+- **1983–1992:** *Writing through the Essay “On the Duty of Civil Disobedience”*. A sequence of mesostic transformations of Thoreau; individual realizations vary and the project remained generative.
+- **1984:** *Mushrooms et Variationes*. A mycological text-work and publication project.
+- **1988–1990:** *I–VI*. Six mesostic lectures subsequently gathered as a book; each is both readable text and performance score.
+- **1989:** *Anarchy*. A mesostic text generated from anarchist writings.
+- **1990:** *Four Statements on the Dance*. A small collection of Cage’s writings on dance.
+- **1991:** *Fourteen Ways to Describe Rain*. A textual homage connected to Hanns Eisler’s music and Joris Ivens’s film.
+- **1992:** *Composition in Retrospect*. A late book-length text that revisits Cage’s working methods through mesostics and thematic reflections.
+- **1992:** *Diary: How to Improve the World (You Will Only Make Matters Worse), Part IX*. An unfinished manuscript project; posthumous facsimile publication does not make it complete.
+- **1993, posthumous:** *A Year from Monday: New Lectures and Writings* and other earlier books continued to appear in new editions, but those editions are manifestations rather than new Cage works.
+- **1993, posthumous:** *John Cage: Writer*. An editorial selection made by Richard Kostelanetz; it is not itself a new Cage-composed work, although its component texts are Cage’s.
+- **2015, posthumous:** *Diary: How to Improve the World (You Will Only Make Matters Worse)*. The first publication gathering all eight completed parts, with later editions adding facsimiles of incomplete Part IX; this is a collected manifestation of a decades-long work, not a newly authored 2015 work.
+
+### Visual works, prints, drawings, objects, and installations
+
+- **1969:** *Not Wanting to Say Anything About Marcel*. A visual Gesamtkunstwerk comprising eight printed Plexigrams and two lithographs, made after Marcel Duchamp’s death through chance operations.
+- **1978:** *Score Without Parts (40 Drawings by Thoreau)*. Visual and musical manifestations of Thoreau-derived drawings; the same material refuses a clean division between image and score.
+- **1978:** *Seven Day Diary*. A series of drawings generated through chance operations.
+- **1978:** *Changes and Disappearances*. A print series made with Crown Point Press, combining etching procedures selected by chance.
+- **1979–1982:** *Déreau*. A series of drawings and prints whose title combines Duchamp and Thoreau.
+- **1979:** *Signals*. A print series produced through chance-determined marks and printing procedures.
+- **1980:** *On the Surface*. A series of etchings.
+- **1980:** *Changes and Disappearances II*. A continuation of the print project rather than a reproduction of its first state.
+- **1981:** *The Missing Stone*. An etching project organized around the absence of a selected stone.
+- **1981:** *Towards the Year 2000*. A print series.
+- **1982:** *A Room*. A visual work sharing its title with the 1943 piano composition but not merely illustrating it.
+- **1982:** *Déreau No. 2*. A continuation of the chance-generated visual series.
+- **1982:** *Earth Pieces*. Works made by applying chance procedures to earth, stones, and paper; they occupy the border between drawing, print, and material event.
+- **1982:** *Mud Book*. An artist’s-book object made collaboratively with Lois Long.
+- **1983:** *Mushroom Book*. Visual-art manifestations associated with Cage and Lois Long’s earlier artist’s book; catalogues differ over whether editions, proofs, and related sheets are separate works.
+- **1983–1992:** *Where R = Ryoanji*. A large series of pencil drawings made by tracing chance-positioned stones; the series is catalogued as a visual oeuvre, while individual sheets are its distinct manifestations.
+- **1984:** *Ryoanji*. Etchings related procedurally—but not reducible—to the musical work and the *Where R = Ryoanji* drawings.
+- **1985:** *River Rocks and Smoke*. A watercolor project made at Mountain Lake Workshop; collaborative production and natural materials complicate singular authorship.
+- **1988:** *New River Watercolors*. A series of large watercolors made through chance-determined placement, brushing, and materials.
+- **1988:** *The First Meeting of the Satie Society*. A visual and performative project sharing its identity with Cage’s textual fiction.
+- **1989:** *The Seasons*. A visual series sharing its title with Cage’s 1947 ballet but constituting a separate made thing.
+- **1989:** *HV*. A visual series made through chance operations.
+- **1990:** *New River Rocks and Smoke*. A later collaborative series of watercolors and smoke impressions.
+- **1990:** *Without Horizon*. A series of prints made with chance-selected procedures.
+- **1991:** *Global Village*. A visual project produced at Mountain Lake Workshop.
+- **1991:** *The Missing Stone II*. A return to the earlier absence-structured print project.
+- **1992:** *River Rocks and Smoke 4/11/90 No. 1–*. Individually numbered sheets exist within a broader series; catalogue boundaries between unique works, states, and series are not always consistent.
+- **1992:** *Chess Pieces*. A musical manuscript painted across a chessboard-like field; it is at once visual artwork, score, and playable composition.
+- **various dates:** *Untitled drawings, watercolors, prints, objects, designs, and unrealized installations*. The scholarly art catalogue records numerous unique, proof-state, fragmentary, or untitled objects. Treating every impression or state as a separate “work” would silently confuse obra with manifestation, so their catalogue-level existence should be retained without inventing titles.
+
+### Projects, environments, and works that resist stable workhood
+
+- **late 1940s:** *Opera on the life of Milarepa*. An unfinished project known from Cage’s testimony; no completed opera survives.
+- **circa 1952:** *Untitled magnetic-tape worksheets*. Possibly material for *Williams Mix* or *Works of Calder*; attribution to either work is uncertain.
+- **circa 1953:** *Untitled feedback-noise tape work*. A documented but unidentified electronic work whose source is no longer located.
+- **1962:** *Sound-and-image sculpture for the Lippold Room*. An unrealized installation project combining background music with surveillance-camera sounds; it was cancelled after the building agreed to silence its background music.
+- **1966:** *9 Evenings: Theatre & Engineering*. Cage participated through *Variations VII*; the larger event was collaborative and should not be attributed to him alone.
+- **1968:** *0′00″ No. 2*. A game played on an amplified surface, incorporated into *Song Books* as *Solo for Voice 23*; its double identity makes it both component and work.
+- **1974–1975:** *Untitled music for Westbeth*. A poorly documented work, apparently for piano, associated with choreography by Charles Atlas and Merce Cunningham; its manuscript location is unknown.
+- **before 21 March 1985:** *Untitled amplified railway-container installation*. An empty SNCF container transmitting exterior sounds; it may be identical with *Silent Environment*, so the catalogue does not securely establish two works.
+- **1987 onward:** *ORGAN²/ASLSP performances*. Each realization is a manifestation governed by Cage’s score, not a separately authored composition; the famous Halberstadt performance began after Cage’s death.
+- **throughout Cage’s career:** *Once-only events, lectures, realizations, performances, and mushroom expeditions*. Many were consequential creations but were not all stabilized by Cage as works; the completed-work list explicitly omits most once-only events, while the fuller scholarly catalogue preserves fragments, unrealized intentions, and “non-works.”
+
+### Sources
+
+- Paul van Emmerik, general editor, with Herbert Henck and András Wilheim, [*A John Cage Compendium*](https://cagecompendium.org/). This is the principal scholarly catalogue used here; it explicitly separates Cage’s music, texts, and visual art while acknowledging that many entries cross those divisions.
+- Paul van Emmerik et al., [“Music,” *A John Cage Compendium*](https://cagecompendium.org/music/). Annotated catalogue of compositions, arrangements, music theatre, events, installations, fragments, unfinished projects, manuscripts, dates, performances, and publications.
+- Paul van Emmerik et al., [“Text,” *A John Cage Compendium*](https://cagecompendium.org/text/). Catalogue of Cage’s essays, lectures, theoretical writings, radio plays, poetry, reviews, and performance texts.
+- Paul van Emmerik et al., [“Art,” *A John Cage Compendium*](https://cagecompendium.org/art/). Catalogue of drawings, prints, objects, installations, films, and designs made or conceived by Cage.
+- James Pritchett, [“A Chronological List of the Musical Works of John Cage”](https://rosewhitemusic.com/cage/texts/worklist.html). A completed-works list based heavily on van Emmerik’s research; Pritchett expressly excludes incomplete, undocumented, and most once-only events, making its exclusions important evidence about disputed “work” status.
+- John Cage Trust, [Database of Works](https://data-johncage.org/). The Trust’s annotated database of Cage’s musical works and publication information.
+- John Cage Trust, [“John Cage: Ryoanji—Catalogue Raisonné, Volume I”](https://johncage.org/kuhns/john-cage-ryoanji-catalog-raisonn-volume-i). Documentation of the complete *Where R = Ryoanji* drawing series and its chance procedures.
+- John Cage Trust, [“About”](https://johncage.org/about). Documentation of Cage’s literary, musical, and visual legacy, including the publication history and incomplete ninth part of *Diary: How to Improve the World (You Will Only Make Matters Worse)*.
+- IRCAM, [“John Cage: Resources”](https://ressources.ircam.fr/en/composer/john-cage/resources). Chronological and categorical work lists and bibliography of Cage’s principal authored books.

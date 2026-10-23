@@ -1,0 +1,61 @@
+## Works by Aron Iosifovich Kremer
+
+### Political manifestos and interventions
+
+- **1893–1896:** *Ob agitatsii* (*On Agitation*; often called the “Vilna Program”). An anonymously circulated strategic pamphlet—part manifesto, part protocol—urging socialists to move from small-circle instruction to mass agitation around workers’ immediate demands. Its chronology is unsettled: Kremer composed it in 1893 or early 1894, Martov edited it, manuscript and hectograph copies circulated in 1894, and the first printed edition appeared in Geneva in 1896; some references consequently date the work 1893, 1894, or 1896. ([Memorial volume, pp. 281–282](https://archive.org/details/nybc201153); [Electronic Jewish Encyclopedia](https://eleven.co.il/jews-of-russia/movements-parties/12234/))
+
+- **1897:** *Der adres* (*The Address*). An anonymous political address published in *Der yidisher arbeter*, nos. 4–5; it is a manifesto in the literal sense of a text intended to organize collective action. The memorial volume attributes it to Kremer but does not present a signed original. ([Memorial volume, bibliography of Kremer’s published writings](https://archive.org/stream/nybc201153/nybc201153_djvu.txt))
+
+- **1904:** *Nokh a kritiker fun Bund* (*Another Critic of the Bund*). A polemical article published under the name “Prantsov” in *Tsukunft*, nos. 9–10. The bibliography’s compiler says Kremer personally identified himself as its author; authorship therefore rests on reported oral testimony rather than an original signature. ([Memorial volume, pp. 281–282](https://archive.org/details/nybc201153))
+
+- **1928:** *Mit 25 yor tsurik* (*Twenty-Five Years Ago*). Kremer’s annotated republication of an early mutual-aid fund statute and an accompanying proposal to establish a library, printed in *Unzer tsayt*, no. 2. It resists single authorship: the historical documents are collective artifacts, while Kremer’s framing remarks are his own work. ([Memorial volume, bibliography of published writings](https://archive.org/stream/nybc201153/nybc201153_djvu.txt); [Leksikon fun der nayer yidisher literatur](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935))
+
+- **1929:** *Rede, gehalten af der efənung-zitsung fun 4tn tsuzamenfor fun Bund in Poyln* (*Speech at the Opening Session of the Fourth Congress of the Bund in Poland*). A congress speech subsequently printed in *Naye folkstsaytung*, no. 10: an oral political act preserved as a text, rather than a book conceived for publication. ([Memorial volume, bibliography of published writings](https://archive.org/stream/nybc201153/nybc201153_djvu.txt))
+
+- **1932:** *Bagrisung tsum ershtn land-tsuzamenfor fun Yugnt-Bund “Tsukunft” in Poyln* (*Greeting to the First National Congress of the Youth Bund “Tsukunft” in Poland*). A ceremonial and exhortatory address delivered to the youth organization’s Warsaw congress and printed in *Yugnt-veker*, no. 13; the memorial bibliography’s OCR renders the publication year inconsistently, but the congress itself is dated 10–11 June 1932. ([Memorial volume, contents and bibliography](https://archive.org/stream/nybc201153/nybc201153_djvu.txt))
+
+### Memoirs and historical witness
+
+- **1922:** *Di grindung fun Bund* (*The Founding of the Bund*). A first-person historical memoir published under “Aleksander” in *Arbeter-luekh*, pp. 91–100. It is testimony by a participant, not a neutral institutional history, and later appeared in reprints. ([Memorial volume, pp. 281–282](https://archive.org/details/nybc201153); [Russian historical-documents edition](https://www.docs.historyrussia.org/ru/indexes/values/835))
+
+- **1922 or 1923:** *Martov in Vilne: A bisl zikhrones* (*Martov in Vilna: A Few Memories*). A memoir published under “Aleksander” in *Unzer gedank*, no. 13, and reprinted in Berlin. The memorial bibliography dates it 1922, whereas the later *Leksikon* entry gives 1923; the discrepancy should not be silently resolved. ([Memorial volume, bibliography of published writings](https://archive.org/stream/nybc201153/nybc201153_djvu.txt); [Leksikon fun der nayer yidisher literatur](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935))
+
+- **1927:** *Der ershter tsentral-komitet fun Bund: Epizod Zubatov* (*The First Central Committee of the Bund: The Zubatov Episode*). A historical-reminiscence article published in *Naye folkstsaytung*, apparently no. 237; damaged OCR in the standard bibliography makes the issue data less secure than the title and year. ([Memorial volume, bibliography of published writings](https://archive.org/stream/nybc201153/nybc201153_djvu.txt); [Leksikon fun der nayer yidisher literatur](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935))
+
+- **1932:** *Di wanderungen fun an ilegaler bibliotek* (*The Wanderings of an Illegal Library*). A memoir of an underground library, published in *Naye folkstsaytung*, no. 356. The object it follows was itself a clandestine collective project, so the article records the social life of a made thing as much as Kremer’s own experience. ([Memorial volume, bibliography of published writings](https://archive.org/stream/nybc201153/nybc201153_djvu.txt); [Leksikon fun der nayer yidisher literatur](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935))
+
+- **1937, posthumous:** *A blik af der vayter fargangenheyt* (*A Glance at the Distant Past*). A retrospective article, identified as marking a twentieth anniversary, published after Kremer’s death in *Naye folkstsaytung*. The memorial bibliography’s OCR obscures part of the citation, while the *Leksikon* supplies no. 353 and the year 1937; its date of composition is not established. ([Memorial volume, bibliography of published writings](https://archive.org/stream/nybc201153/nybc201153_djvu.txt); [Leksikon fun der nayer yidisher literatur](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935))
+
+### Technical protocols and teaching works
+
+- **1925–1927:** *Elektrotekhnik: Konspektn lektsyes fun inzh. Kremer* (*Electrical Engineering: Lecture Outlines by Engineer Kremer*). Lithographed Yiddish teaching notes issued by students of the Vilna Jewish Technicum in semester installments and later in an expanded form. They are protocols for instruction and the material residue of a course, not a conventional authored book. ([Memorial volume, pp. 282–283](https://archive.org/details/nybc201153))
+
+- **1925–1927:** *Vekslstrom* (*Alternating Current*). A multipart lithographed set of lecture outlines: a teaching instrument generated from Kremer’s lectures and reproduced for his students. The bibliography records components in 1925 and a larger 1927 issue but does not make entirely clear whether these constitute revisions, volumes, or successive states of one course. ([Memorial volume, pp. 282–283](https://archive.org/details/nybc201153); [Leksikon fun der nayer yidisher literatur](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935))
+
+- **1927–1931:** *Elektrotekhnik: Glaykhstrom* (*Electrical Engineering: Direct Current*). Lithographed course notes issued through the Vilna Jewish Technicum students’ aid fund, with later revised or reissued parts in 1930–1931. It is best treated as an evolving instructional obra rather than counting every edition as a new work. ([Memorial volume, pp. 282–283](https://archive.org/details/nybc201153))
+
+- **1928–1929:** *Elektrotekhnik: Magnetizm* (*Electrical Engineering: Magnetism*). A lithographed technical course, including a second edition of its second part. The source compresses the first publication date as “1928/29,” so a single year cannot safely be imposed. ([Memorial volume, pp. 282–283](https://archive.org/details/nybc201153))
+
+- **1929–1930:** *Elektrotekhnik: Motorn* (*Electrical Engineering: Motors*). The fourth part of Kremer’s lithographed electrical-engineering course, dated 1929/30 in the bibliography. It is simultaneously a text, a curriculum unit, and a collectively manufactured classroom object. ([Memorial volume, pp. 282–283](https://archive.org/details/nybc201153))
+
+- **1931:** *Elektrotekhnik farן finftn halb-yor* (*Electrical Engineering for the Fifth Semester*). A lithographed semester course of approximately 186 pages. The digitized bibliography’s OCR reads “1921,” but the scholarly *Leksikon* places Kremer’s electrical publications in 1928–1931; 1931 is therefore probable rather than beyond dispute. ([Memorial volume, pp. 282–283](https://archive.org/details/nybc201153); [Leksikon fun der nayer yidisher literatur](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935))
+
+- **1934:** *Elektrotekhnik: Dinamo* (*Electrical Engineering: Dynamo*). The sixth-semester lithographed course. Its year is reconstructed as 1934 from the *Leksikon*’s chronological summary because the memorial volume’s OCR misreads it as “1924”; the discrepancy belongs to the digital transcription, but the scan should be consulted before treating 1934 as certain. ([Memorial volume, pp. 282–283](https://archive.org/details/nybc201153); [Leksikon fun der nayer yidisher literatur](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935))
+
+- **1936, posthumous:** *Glaykhstrom* (*Direct Current*). A 144-page memorial issue of Kremer’s course, published by the Vilna Jewish Technicum students’ aid fund on the first anniversary of his death and supplied with his portrait. This is not a wholly new composition: it is a posthumous manifestation of the continuing course-work, materially made by Kremer’s students from his instruction. ([Memorial volume, pp. 282–283](https://archive.org/details/nybc201153); [Leksikon fun der nayer yidisher literatur](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935))
+
+### Collective institutional obra
+
+- **1897:** *Der Algemeyner Yidisher Arbeter Bund in Lite, Poyln un Rusland* (*The General Jewish Labour Bund in Lithuania, Poland, and Russia*). A political organization rather than a text: Kremer was a principal founder and early leader, but neither sole authorship nor the fiction of a single maker fits it. As a durable collective obra joining program, organization, press, education, and political action, it resists reduction to any one manifesto or founding meeting. ([YIVO Encyclopedia](https://encyclopedia.yivo.org/article/146); [Memorial volume](https://archive.org/details/nybc201153))
+
+### Sources
+
+- M. Yevzerov, “Bio-bibliografishe yedies,” in *Arkadi: Zamlbukh tsum ondenk fun grinder fun “Bund,” Arkadi Kremer (1865–1935)*, Vilna, 1939; New York reprint, Unzer Tsayt, 1942, especially pp. 277–289 and “Fun Arkadis aygene shriftn,” pp. 293–410. This is the standard memorial volume’s bibliography and collected-writings section on which the list is principally based. [Yiddish Book Center record and scan](https://www.yiddishbookcenter.org/collections/yiddish-books/spb-nybc201153/arkadi-zamlbukh-tsum-ondenk-fun-grinder-fun-bund-arkadi-kremer); [searchable OCR](https://archive.org/stream/nybc201153/nybc201153_djvu.txt).
+
+- Yisroel Figa, “Kremer, Arkadi,” *Leksikon fun der nayer yidisher literatur*, vol. 8, New York, 1981, p. 269; revised online presentation by the Congress for Jewish Culture. [Entry](https://congressforjewishculture.org/people/908/Kremer-Arkadi-August-25-1865-September-20-1935).
+
+- “Кремер Аркадий,” *Electronic Jewish Encyclopedia*, used to check the dating, editing, and historical function of *Ob agitatsii*. [Entry](https://eleven.co.il/jews-of-russia/movements-parties/12234/).
+
+- Daniel Blatman, “Bund,” *YIVO Encyclopedia of Jews in Eastern Europe*, used for the collective institutional work and Kremer’s role within it. [Entry](https://encyclopedia.yivo.org/article/146).
+
+- *The Bund: Documents and Materials, 1894–1921*, Russian historical-documents edition, used to check the surviving documentary titles *Ob agitatsii* and *The Founding of the Bund*. [Index entry for A. I. Kremer](https://www.docs.historyrussia.org/ru/indexes/values/835).

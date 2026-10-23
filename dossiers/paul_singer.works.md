@@ -1,0 +1,59 @@
+## Works by Paul Elliott Singer
+
+### Authored essays and opinion texts
+
+- **3 April 2009:** *Free-Marketeers Should Welcome Some Regulation*. An individually credited Wall Street Journal opinion column arguing for stronger financial regulation after the credit crisis; contemporary commentary and the surviving bibliographic record identify Singer as its author. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer), [The New Criterion](https://newcriterion.com/general/scylla-and-charybdis-or-regulation-risk-and-the-passion-for-fairness/)
+- **24 April 2016:** *The Lessons of Our Bond War*. An individually credited Wall Street Journal opinion essay interpreting Elliott’s fifteen-year dispute with Argentina; it is advocacy by an interested participant, not a neutral history. [Infobae](https://www.infobae.com/2016/04/25/1807002-la-carta-paul-singer-el-acuerdo-la-argentina/), [bibliographic citation](https://repositorio.usp.br/directbitstream/fe252c72-46fd-4340-b151-bcf3dc847a9f/3222329.pdf)
+- **19 October 2017:** *Efficient Markets Need Guys Like Me*. An individually credited Wall Street Journal opinion essay defending activist investors as complements to index funds. [The Wall Street Journal](https://www.wsj.com/articles/efficient-markets-need-guys-like-me-1508454427)
+- **November 2021:** *Of Owners and Ownership*. An essay first issued within an Elliott quarterly investor letter and subsequently published under Singer’s name; it straddles private client communication and public polemic. [Harvard Law School Forum on Corporate Governance](https://corpgov.law.harvard.edu/2021/11/15/of-owners-and-ownership/)
+
+### Collective manifesto
+
+- **15 November 2010:** *An Open Letter to Ben Bernanke*. A public intervention urging the Federal Reserve to abandon further large-scale asset purchases. Singer was one of numerous signatories, not an established sole author, so this is best treated as a collective manifesto to which he attached his name. [The Reformed Broker](https://thereformedbroker.com/2010/11/15/dear-ben/), [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+
+### Speeches and their textual manifestations
+
+- **September 2006:** *Complexity Made Simple*. A speech delivered at a Grant’s Interest Rate Observer conference warning about collateralized-debt obligations and subprime securitization. The speech is documented retrospectively, but no authoritative complete text or recording was located; its surviving public identity may therefore be only a title and reported argument. [Investor Home](https://www.investorhome.com/predicted.htm), [Paul Singer profile](https://en.wikipedia.org/wiki/Paul_Singer)
+- **May 2014:** *2014 Manhattan Institute Alexander Hamilton Award Dinner—Paul Singer*. A ceremonial address preserved as a transcript; the archive supplies a descriptive title rather than evidence that Singer formally titled the speech himself. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **May 2023:** *2023 Alexander Hamilton Awards: Paul Singer*. An edited transcript of award-dinner remarks. It is a documentary manifestation of an oral event, and its editorial shaping means it should not automatically be equated with a manuscript authored word-for-word by Singer. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+
+### Elliott corporate interventions
+
+- **11 June 2015:** *Elliott Management Letter to Citrix Systems*. An activist-investor letter intended to induce corporate change—a text that acts, and thus a corporate manifesto as much as correspondence. The publication attributes it to Elliott Management, not individually to Singer; its inclusion in a Singer collection does not establish sole authorship. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **March 2020:** *Elliott Management Investor Letter*. A private corporate letter addressing the COVID-19 market collapse. It is collected under Singer’s name, but public evidence does not settle whether he wrote, co-wrote, approved, or merely authorized it. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **1 July 2021:** *Elliott Management Letter Regarding GlaxoSmithKline*. A letter and activist program directed at GSK. It functions as a protocol for corporate restructuring, but it was issued in Elliott’s institutional voice and cannot safely be assigned to Singer as sole author. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **3 May 2022:** *Elliott Management Letter to the Board of Western Digital*. A corporate intervention proposing separation of Western Digital’s businesses. Its operative force matters more than literary authorship, which remains institutional and undisclosed. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **November 2022:** *Elliott Management Investor Letter*. A private investor communication preserved in the principal online Singer compilation. Its supplied title is generic, and the available record does not establish Singer’s individual authorship. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **10 June 2024:** *Elliott Sends Letter and Presentation to the Board of Southwest Airlines*. A composite activist package—letter, diagnosis, valuation argument, and restructuring protocol—issued by Elliott Investment Management. Singer’s leadership links him to the project, but the release credits Elliott rather than naming an individual author. [PR Newswire](https://www.prnewswire.com/news-releases/elliott-sends-letter-and-presentation-to-the-board-of-southwest-airlines-302168276.html)
+
+### Recorded conversations and appearances
+
+- **7 October 2013:** *Paul Singer Interview*. A recorded interview preserved with a closed-caption transcript. It is a jointly produced conversational manifestation, not a text made by Singer alone. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **July 2015:** *Delivering Alpha Unfiltered: Paul Singer*. A television interview with David Faber. Singer made his answers, but the interview as an audiovisual object also belongs to its interviewer, editors, and broadcaster. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **August 2015 / 7 September 2016:** *Paul Singer Interview*. An online manifestation catalogued under its 2016 posting date while naming August 2015 in its title. It may duplicate or repackage another interview; the date and independent-work status are therefore unresolved. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **September 2016:** *Paul Singer: Delivering Alpha Unfiltered*. A television interview with Kelly Evans. It resists classification as Singer’s autonomous work because its questions, recording, selection, and presentation were made collaboratively. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **October 2016:** *Paul Singer on Elliott Management Corporation*. A WSJDLive stage interview with Gerard Baker, existing principally as an audiovisual event rather than an authored text. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **May 2017:** *Luncheon Keynote: Fireside Chat with Paul Singer*. A recorded public conversation. “Keynote” and “fireside chat” describe the event format; they do not establish a fixed Singer-authored text. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **July 2017:** *The David Rubenstein Show: Peer-to-Peer Conversations—Paul Singer*. A produced television interview whose final form belongs jointly to participant, interviewer, and production team. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **2018:** *Are We in an Economic Bubble?*. An Aspen Ideas Festival conversation. It is an event and recording, not a sole-authored essay, notwithstanding its interrogative editorial title. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **June 2019:** *David Rubenstein & Paul Singer on U.S. Politics and the Economy*. A filmed Aspen Ideas conversation whose title describes its subject rather than naming a formal work conceived by Singer. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **January 2021:** *The End Game, Episode 14—Paul Singer*. A podcast interview made collaboratively with host Grant Williams and the program’s producers. Singer is its speaking subject, not its sole creator. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **February 2021:** *Interview with Paul Singer: Napa Institute 2020 Principled Entrepreneurship Conference*. A delayed publication or manifestation of a 2020 conference interview; the catalogue’s two dates refer to event and release rather than two separate works. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+- **February 2025:** *Paul Singer—In Good Company*. A Norges Bank Investment Management podcast interview. Its conversational and produced character makes it a shared manifestation, not an autonomous Singer text. [Bishop Rock Capital](https://www.bishoprockcap.com/library/paul-singer)
+
+### Institutional projects
+
+- **1977–:** *Elliott Associates / Elliott Investment Management*. A continuing investment enterprise founded by Singer with outside capital. It is his most consequential obra, but it is a collective institution and evolving body of strategies, transactions, litigation, and corporate campaigns—not a single fixed text. [Fortune](https://fortune.com/2017/12/07/elliott-management-hedge-fund-paul-singer/), [The New Yorker](https://www.newyorker.com/magazine/2018/08/27/paul-singer-doomsday-investor)
+- **By 2018:** *American Opportunity Alliance*. A donor-coordination network formed by Singer after the 2012 election. It is an organizational and political project rather than a conventional authored work; its membership and activities are partly private, so its boundaries are not fully cataloguable. [The New Yorker](https://www.newyorker.com/magazine/2018/08/27/paul-singer-doomsday-investor)
+
+### Sources
+
+- [Bishop Rock Capital, “Paul Singer”](https://www.bishoprockcap.com/library/paul-singer). The closest located equivalent to a collected-works bibliography: it describes itself as a comprehensive compilation of Singer’s writings, presentations, interviews, and talks. No scholarly bibliography, catalogue raisonné, collected-works edition, or personal archive finding aid for Paul Elliott Singer was located; accordingly, completeness beyond this compilation cannot be claimed.
+- [The Wall Street Journal, “Efficient Markets Need Guys Like Me”](https://www.wsj.com/articles/efficient-markets-need-guys-like-me-1508454427).
+- [Harvard Law School Forum on Corporate Governance, “Of Owners and Ownership”](https://corpgov.law.harvard.edu/2021/11/15/of-owners-and-ownership/).
+- [PR Newswire, “Elliott Sends Letter and Presentation to the Board of Southwest Airlines”](https://www.prnewswire.com/news-releases/elliott-sends-letter-and-presentation-to-the-board-of-southwest-airlines-302168276.html).
+- [Infobae, “La carta de Paul Singer tras el acuerdo con la Argentina”](https://www.infobae.com/2016/04/25/1807002-la-carta-paul-singer-el-acuerdo-la-argentina/).
+- [The Reformed Broker, “Dear Ben”](https://thereformedbroker.com/2010/11/15/dear-ben/).
+- [Investor Home, “Who Predicted the Global Financial Crisis and/or Housing Crash?”](https://www.investorhome.com/predicted.htm).
+- [Sheelah Kolhatkar, “Paul Singer, Doomsday Investor,” *The New Yorker*](https://www.newyorker.com/magazine/2018/08/27/paul-singer-doomsday-investor).
+- [Jen Wieczner, “Inside Elliott Management: How Paul Singer’s Hedge Fund Always Wins,” *Fortune*](https://fortune.com/2017/12/07/elliott-management-hedge-fund-paul-singer/).

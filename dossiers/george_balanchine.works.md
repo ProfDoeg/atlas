@@ -1,0 +1,338 @@
+## Works by George Balanchine
+
+### Early choreography, projects, and lost works in Russia
+
+- **ca. 1919–1920:** *Three unidentified dances for Petrograd Theater School concerts*. Early choreography known only through documentary testimony; titles and exact dates are not securely established.
+- **ca. 1920:** *La Nuit*. A pas de deux to Anton Rubinstein, generally identified as Balanchine’s first titled ballet; documentation of the Young Ballet period is incomplete.
+- **1921:** *Poème*. A solo associated with Lydia Ivanova; the surviving evidence does not establish a fully stable text.
+- **1921:** *Marche funèbre*. An early choreographic miniature; now lost.
+- **1921:** *Petit morceau*. An early dance work; now lost.
+- **1922:** *Valse Triste*. A solo to Sibelius, credited either jointly to Balanchine and Lydia Ivanova or to Ivanova working under his supervision; the catalogue preserves that attributional uncertainty.
+- **1922:** *Funeral March*. An early Young Ballet work distinct in the catalogue from the similarly titled 1921 piece; lost.
+- **1922:** *The White Rose*. An early Young Ballet choreography; lost or undocumented beyond contemporary records.
+- **1922:** *The Enigma*. An experimental Young Ballet work; lost.
+- **1922:** *Dance Symphony*. Balanchine contributed choreography to Fëdor Lopukhov’s symphonic-dance project; it resists treatment as a wholly independent Balanchine obra.
+- **1923:** *Gavotte*. A Young Ballet concert dance; lost.
+- **1923:** *Spanish Dance*. A Young Ballet concert number; lost.
+- **1923:** *Orientalia*. A Young Ballet work; lost.
+- **1923:** *The Funeral of the Rose*. A Young Ballet miniature; lost.
+- **1923:** *The Song of the Volga Boatmen*. A concert dance; lost.
+- **1923:** *The Fairy’s Kiss*. An early work unrelated to his later Stravinsky ballet of the same translated title; lost.
+- **1923:** *Cabaret and cinema dances*. Balanchine made dances and movement numbers for Petrograd cabarets, cinemas, and the FEKS company; several lack recoverable titles and resist division into stable works.
+- **1924:** *Pulcinella*. A staging to Stravinsky for Young Ballet, not the later 1972 Balanchine–Robbins work.
+- **1924:** *Young Ballet’s final concert works*. A group of short choreographies catalogued separately but incompletely documented; their unstable titles and performance circumstances make them closer to surviving traces of a project than recoverable ballets.
+
+### Ballets, opera dances, concert choreography, and theatrical movement in Europe
+
+- **1925:** *Opéra de Monte-Carlo ballet sequences*. Choreography for several opera productions; these dances belonged to larger operatic Gesamtkunstwerke and generally do not survive as autonomous works.
+- **1925:** *Pas de Deux*. A concert work to Scriabin’s *Désir*, made for Ruth Page and Michel Pavloff.
+- **1925:** *L’Enfant et les Sortilèges*. Ballet and movement sequences for the world premiere of Ravel’s opera; singers and Ballets Russes dancers shared the theatrical construction.
+- **1925:** *Le Chant du rossignol*. A revision of Léonide Massine’s choreography rather than an entirely original ballet.
+- **1925:** *Barabau*. Balanchine’s first original ballet for Diaghilev’s Ballets Russes.
+- **1926:** *La Pastorale*. A Ballets Russes ballet to music by Georges Auric; lost.
+- **1926:** *Jack in the Box*. A Ballets Russes ballet to Erik Satie; lost.
+- **1926:** *The Triumph of Neptune*. A revue-ballet to Lord Berners; a hybrid theatrical spectacle rather than a conventional repertory ballet.
+- **1926:** *The Sleeping Beauty Divertissement*. A revision and restaging of inherited Petipa choreography; authorship is therefore composite.
+- **1926:** *Opéra de Monte-Carlo dances*. Choreography for several opera productions, surviving chiefly as production records rather than autonomous ballets.
+- **1927:** *La Chatte*. A Ballets Russes ballet to Henri Sauguet; lost.
+- **1927:** *Grotesque Espagnol*. A cabaret dance for Nikita Balieff’s *Chauve-Souris*.
+- **1927:** *Sarcasm*. A cabaret choreography to Prokofiev for *Chauve-Souris*.
+- **1927:** *Opéra de Monte-Carlo dances*. Ballet sequences for several operas; component works inside larger productions.
+- **1928:** *Aleko*. A ballet for Anna Pavlova’s South American tour; documentation is incomplete.
+- **1928:** *Polka Grotesque*. A Pavlova-company work whose music is unidentified; lost.
+- **1928:** *Apollon Musagète* (later *Apollo*). A ballet to Stravinsky, repeatedly revised and stripped of much of its original décor and narrative detail.
+- **1928:** *The Gods Go A-Begging*. A Handel ballet arranged for the Ballets Russes; lost.
+- **1928:** *Chauve-Souris numbers*. Three separately catalogued cabaret choreographies; ephemeral production pieces rather than securely preserved ballets.
+- **1928:** *Opéra de Monte-Carlo dances*. Choreography for a group of operas; surviving documentation is fuller than the choreography itself.
+- **1929:** *Le Bal*. A Ballets Russes ballet to Vittorio Rieti; lost.
+- **1929:** *Le Fils prodigue* (later *The Prodigal Son*). A narrative ballet to Prokofiev, Diaghilev’s last newly produced ballet.
+- **1929:** *Pas de Deux*. A concert duet to music by José Padilla or Noël Coward’s collaborator Michael Arlen/Da Costa as various sources identify it; the catalogue distinguishes it from Balanchine’s many later works bearing the same generic title.
+- **1929:** *Les Créatures de Prométhée*. A project begun by Balanchine but completed by Serge Lifar after Balanchine became ill; the intention is Balanchine’s in part, but the realized ballet cannot be called solely his obra.
+- **1929:** *Dark Red Roses*. A dance sequence to Mussorgsky for a British sound film.
+- **1929:** *Opéra de Monte-Carlo dances*. Ballets for several opera productions; embedded theatrical components.
+- **1930:** *Aubade*. A ballet to Poulenc for Vera Nemtchinova’s company.
+- **1930:** *Cochran’s 1930 Revue*. Several revue numbers to music by Lord Berners, Henri Sauguet, and others; an ephemeral theatrical assemblage.
+- **1930:** *Royal Danish Ballet restagings*. Six ballets by Fokine and Massine staged and partly rechoreographed by Balanchine; derivative manifestations, not wholly original works.
+- **1931:** *Variety Shows*. A suite of music-hall numbers for the “16 Delightful Balanchine Girls”; the constituent dances lack stable independent identities.
+- **1931:** *Cochran’s 1931 Revue*. Revue choreography; largely lost.
+- **1931:** *Orphée aux Enfers*. Ballets for Offenbach’s comic opera, made with Les Ballets Russes de Georges Balanchine.
+- **1932:** *Opéra de Monte-Carlo opera ballets*. Dances for eighteen productions; each was made within another author’s opera and most survive only as catalogue records.
+- **1932:** *Cotillon*. A Ballets Russes de Monte-Carlo ballet to Chabrier.
+- **1932:** *La Concurrence*. A ballet to Georges Auric.
+- **1932:** *Le Bourgeois Gentilhomme*. A ballet to Richard Strauss; Balanchine later stated that his 1932, 1944, and 1979 versions were completely different.
+- **1932:** *Suite de Danses*. A ballet to Glinka; lost.
+- **1933:** *Mozartiana*. The first of Balanchine’s distinct ballets with this title, set to Tchaikovsky; it is not the same choreography as the 1981 work.
+- **1933:** *Les Songes*. A ballet to Milhaud, revised as *Dreams* in America.
+- **1933:** *Les Sept Péchés Capitaux* (*The Seven Deadly Sins*). A dance-and-song theater work to Weill and Brecht; its refusal to separate ballet, acting, and sung text makes it a Gesamtkunstwerk.
+- **1933:** *L’Errante*. A ballet to Schubert, subsequently revised and retitled *The Wanderer* and *Alma Errante*.
+- **1933:** *Fastes*. A ballet to Henri Sauguet; lost.
+- **1933:** *Les Valses de Beethoven*. A ballet for Les Ballets 1933; lost.
+
+### American Ballet, opera, Broadway, revue, circus, and film
+
+- **1934:** *Serenade*. A ballet to Tchaikovsky, first made for School of American Ballet students and repeatedly revised.
+- **1934:** *Alma Mater*. A ballet to Kay Swift.
+- **1934:** *Transcendence*. A ballet to Liszt; lost.
+- **1934:** *Dreams*. An American revision of *Les Songes*, not a wholly independent conception.
+- **1934:** *Mozartiana*. An American staging and revision of the 1933 ballet.
+- **1935:** *Reminiscence*. A ballet to Benjamin Godard; lost.
+- **1935:** *Metropolitan Opera ballets*. Dances for seven opera productions; embedded manifestations within operas rather than independent books or scores.
+- **1936:** *Concerto*. A ballet co-choreographed with William Dollar; authorship is shared.
+- **1936:** *The Bat*. A Johann Strauss ballet, later also staged in Spanish as *El Murciélago*.
+- **1936:** *Orpheus and Eurydice*. A danced-through production of Gluck’s opera, directed and choreographed by Balanchine; a Gesamtkunstwerk rather than merely an inserted ballet.
+- **1936:** *Serenata: Magic*. A Mozart ballet for the Hartford Festival.
+- **1936:** *Ziegfeld Follies of 1936*. Six production numbers made for the Broadway revue.
+- **1936:** *Words without Music: A Surrealist Ballet*. A production number within *Ziegfeld Follies*.
+- **1936:** *Night Flight*. A solo for Harriet Hoctor within *Ziegfeld Follies*.
+- **1936:** *5 A.M.*. A number for Josephine Baker and male dancers within *Ziegfeld Follies*.
+- **1936:** *On Your Toes*. Choreography for the Rodgers and Hart musical; its dances are dramatic agents rather than decorative interruptions.
+- **1936:** *Princess Zenobia Ballet*. A ballet within *On Your Toes*.
+- **1936:** *Slaughter on Tenth Avenue*. A narrative ballet within *On Your Toes*, subsequently performed as an independent work and rechoreographed in 1968.
+- **1937:** *Babes in Arms*. Choreography for the Rodgers and Hart musical.
+- **1937:** *The Card Party* (also *Jeu de cartes*, *Card Game*, or *Poker Game*). A Stravinsky ballet whose changing English titles name successive manifestations of substantially the same work.
+- **1937:** *Le Baiser de la Fée* (*The Fairy’s Kiss*). A Stravinsky ballet, later revised and excerpted.
+- **1937:** *Le Coq d’Or*. Opera staging and choreography after Fokine; authorship is layered.
+- **1937–1938:** *The Goldwyn Follies*. Screen choreography for Samuel Goldwyn’s film.
+- **1937–1938:** *Romeo and Juliet*. A ballet sequence in *The Goldwyn Follies*, opposing ballet-dancing Capulets to tap-dancing Montagues.
+- **1937–1938:** *Water Nymph Ballet*. An aquatic screen ballet in *The Goldwyn Follies*.
+- **1938:** *I Married an Angel*. Choreography for the Rodgers and Hart musical.
+- **1938:** *The Boys from Syracuse*. Choreography for the Rodgers and Hart musical.
+- **1938:** *Great Lady*. Choreography for a Broadway musical with music by Frederick Loewe.
+- **1939:** *On Your Toes*. Dance direction for the film adaptation; not simply a recording of the stage choreography.
+- **1939–1940:** *I Was an Adventuress*. Screen choreography for the film starring Vera Zorina.
+- **1940:** *Keep Off the Grass*. Choreography for a Broadway revue.
+- **1940:** *Louisiana Purchase*. Choreography for Irving Berlin’s musical.
+- **1940:** *Cabin in the Sky*. Staging and choreography for the musical, with choreography also by Katherine Dunham; authorship is collaborative.
+- **1941:** *Balustrade*. A ballet to Stravinsky’s Violin Concerto; it is not the choreography later made to the same score as *Stravinsky Violin Concerto*.
+- **1941:** *Ballet Imperial*. A ballet to Tchaikovsky’s Second Piano Concerto, later redesigned and renamed *Tschaikovsky Piano Concerto No. 2*.
+- **1941:** *Concerto Barocco*. A ballet to Bach, first conceived for students and then made for American Ballet Caravan.
+- **1941:** *Divertimento*. A ballet to Rossini arranged by Benjamin Britten; lost.
+- **1941:** *Fantasia Brasileira*. A ballet to Francisco Mignone; lost.
+- **1941:** *The Lady Comes Across*. Choreography for the Duke–Latouche Broadway musical.
+- **1942:** *The Ballet of the Elephants*. A circus choreography to Stravinsky’s *Circus Polka*, made for fifty elephants and fifty women; it resists the boundary between ballet and circus spectacle.
+- **1942:** *Mârouf*. Opera choreography for Teatro Colón.
+- **1942:** *Concierto de Mozart* (also *Mozart Violin Concerto*). A ballet made for Teatro Colón.
+- **1942:** *Rosalinda*. Choreography for the New Opera Company’s adaptation of *Die Fledermaus*.
+- **1942:** *Star Spangled Rhythm*. Screen choreography for the film.
+- **1942:** *That Old Black Magic*. A song-and-dance screen number performed by Vera Zorina in *Star Spangled Rhythm*.
+- **1942:** *The Lady Comes Across*. Broadway choreography; the production failed quickly, and the dances are lost.
+- **1943:** *Helen of Troy*. Assistance to David Lichine in revising Fokine’s last ballet; Balanchine’s exact authorship is limited and disputed.
+- **1943:** *The Crucifixion of Christ*. A modern miracle-play project with Leopold Stokowski and Robert Edmond Jones, set to Bach’s *St Matthew Passion*; collaborative Gesamtkunstwerk.
+- **1943:** *The Merry Widow*. Choreography for the New Opera Company operetta.
+- **1943:** *What’s Up?*. Choreography for the Lerner–Loewe musical.
+- **1944:** *Dream with Music*. Ballet sequences for a Broadway musical fantasy.
+- **1944:** *Song of Norway*. Choreography for the operetta; Balanchine first made dances in Los Angeles and the production later became a Broadway success.
+- **1944:** *Danses Concertantes*. A Stravinsky ballet for Ballet Russe de Monte Carlo; substantially rechoreographed in 1972.
+- **1944:** *Le Bourgeois Gentilhomme*. A new Ballet Russe de Monte Carlo version, which Balanchine said differed completely from his 1932 version.
+- **1944:** *Waltz Academy*. A ballet to Vittorio Rieti for Ballet Theatre.
+- **1944:** *Follow the Boys*. Screen choreography for the wartime film.
+- **1945:** *The Tempest*. Movement sequences for Ariel in Margaret Webster’s Broadway production; theatrical movement rather than an autonomous ballet.
+- **1945:** *Pas de Deux*. A ballet to Tchaikovsky for Ballet Russe de Monte Carlo.
+- **1945:** *Mr. Strauss Goes to Boston*. Choreography for the Broadway musical.
+- **1945:** *Circus Polka*. A stage ballet to Stravinsky, distinct from the earlier elephant spectacle using the same score.
+- **1945:** *Élégie*. A solo to Stravinsky, later remade in 1982.
+- **1945/1947:** *Symphonie Concertante*. A Mozart ballet first made for students in 1945 and professionally premiered in 1947.
+- **1946:** *The Night Shadow*. A narrative ballet to Rieti, subsequently revised and known as *Night Shadow* and *La Sonnambula*.
+- **1946:** *Raymonda*. A version made with Alexandra Danilova after Petipa; authorship is explicitly shared and derivative.
+- **1946:** *The Life and Loves of Pavlova*. An unfinished film-choreography project abandoned after approximately two months; a project, not a completed film work.
+- **1946:** *Giselle, Act II death scene*. A staging of the Maryinsky tradition for Ballet Theatre, not an original full ballet.
+- **1946:** *L’Enfant et les Sortilèges*. A new American choreography for Ravel’s opera, distinct from the 1925 production.
+- **1946:** *The Four Temperaments*. A ballet to Hindemith; its score had been commissioned by Balanchine and partly explored in the unrealized *The Cave of Sleep*.
+- **1941–1946:** *The Cave of Sleep*. An unproduced ballet project to Hindemith, with designs by Pavel Tchelitchew; portions of the choreographic thinking passed into *The Four Temperaments*.
+- **1947:** *Renard*. A Stravinsky ballet for Ballet Society.
+- **1947:** *Divertimento* (also *Haieff Divertimento*). A ballet to Alexei Haieff.
+- **1947:** *The Chocolate Soldier*. Choreography for the Broadway operetta.
+- **1947:** *Le Palais de Cristal*. A four-movement ballet to Bizet for the Paris Opera, revised and retitled *Symphony in C* in America.
+- **1947:** *Theme and Variations*. A Tchaikovsky ballet for Ballet Theatre, later incorporated into *Tschaikovsky Suite No. 3*.
+- **1948:** *The Triumph of Bacchus and Ariadne*. A ballet to Vittorio Rieti.
+- **1948:** *Symphony in C*. The American revision of *Le Palais de Cristal*.
+- **1948:** *Élégie*. A Ballet Society manifestation of the Stravinsky solo first made in 1945.
+- **1948:** *Orpheus*. A Stravinsky–Balanchine–Noguchi ballet; music, movement, objects, and stage image form a collaborative Gesamtkunstwerk.
+- **1948:** *Pas de Trois Classique* (also *Minkus Pas de Trois*). A staging after Petipa for the Grand Ballet du Marquis de Cuevas.
+- **1948:** *Where’s Charley?*. Choreography for Frank Loesser’s Broadway musical.
+- **1948:** *New York City Opera ballets*. Dances for several opera productions; component choreographies inside larger works.
+- **1948:** *The Madwoman of Chaillot*. Movement direction for actors in the Broadway play, not a ballet in the ordinary sense.
+
+### New York City Ballet, television, festivals, and related works
+
+- **1949:** *Princess Aurora*. An adaptation of Petipa for Ballet Theatre.
+- **1949:** *Don Quixote Pas de Deux*. A staging after Petipa for Ballet Theatre.
+- **1949:** *Black Swan Pas de Deux*. A staging after Petipa and Ivanov for Ballet Theatre.
+- **1949:** *Cinderella*. An original television ballet to Tchaikovsky, broadcast by CBS.
+- **1949:** *La Mort du Cygne*. A staging of Fokine’s *The Dying Swan*; not original choreography.
+- **1949:** *Firebird*. A Stravinsky ballet for New York City Ballet, revised several times and later with contributions by Jerome Robbins.
+- **1949:** *Bourrée Fantasque*. A ballet to Chabrier.
+- **1949:** *New York City Opera ballets*. Choreography for opera productions; embedded works.
+- **1950:** *Pas de Deux Romantique*. A ballet to Weber.
+- **1950:** *Jones Beach*. A ballet co-created with Jerome Robbins to Hendrik Andriessen; shared authorship.
+- **1950:** *Trumpet Concerto*. A Haydn ballet for the touring Sadler’s Wells Ballet.
+- **1950:** *Mazurka from A Life for the Tsar*. A Glinka dance for New York City Ballet.
+- **1950:** *Sylvia: Pas de Deux*. A ballet to Delibes.
+- **1951:** *Music and Dance*. A Carnegie Hall program for which Balanchine created and arranged several choreographic manifestations; it resists treatment as one autonomous ballet.
+- **1951:** *The Card Game*. A revival or revision of the 1937 Stravinsky ballet.
+- **1951:** *Pas de Trois*. A staging to Minkus.
+- **1951:** *La Valse*. A ballet to Ravel.
+- **1951:** *Capriccio Brillant*. A ballet to Mendelssohn.
+- **1951:** *Pavane*. A dance to David Diamond for a Broadway production of *Romeo and Juliet*.
+- **1951:** *Courtin’ Time*. Choreography for the Broadway musical.
+- **1951:** *À la Françaix*. A ballet to Jean Françaix.
+- **1951:** *Tyl Ulenspiegel*. A ballet to Richard Strauss; lost.
+- **1951:** *Apollo, Leader of the Muses*. A retitled and revised manifestation of *Apollon Musagète*.
+- **1951:** *Swan Lake, Act II*. A one-act staging after Petipa and Ivanov, reshaped by Balanchine rather than wholly invented by him.
+- **1952:** *Caracole*. A ballet to Mozart’s Divertimento No. 15.
+- **1952:** *Bayou*. A ballet to Virgil Thomson.
+- **1952:** *Scotch Symphony*. A ballet to Mendelssohn.
+- **1952:** *Metamorphoses*. A ballet to Hindemith.
+- **1952:** *Harlequinade Pas de Deux*. A Drigo duet after the Petipa tradition.
+- **1952:** *Concertino*. A ballet to Jean Françaix; incomplete or short-lived in its original form.
+- **1952:** *One, Yuletide Square*. An abridged television treatment of *Coppélia*.
+- **1953:** *Valse Fantaisie*. A Glinka ballet; Balanchine made a substantially new version in 1967.
+- **1953:** *The Countess Becomes the Maid*. A television ballet to Johann Strauss.
+- **1953:** *The Rake’s Progress*. Stage direction for the Metropolitan Opera’s American premiere; an operatic production rather than a choreographic work alone.
+- **1953:** *Cotillion Promenade*. A ceremonial dance protocol arranged for approximately five hundred couples at the Negro Debutante Ball.
+- **1953:** *La Scala and Florence opera ballets*. Choreographies for several Italian opera productions; embedded and mostly lost.
+- **1954:** *Opus 34*. A ballet to Schoenberg.
+- **1954:** *The Nutcracker*. A full-length production after the nineteenth-century ballet tradition; Balanchine’s staging incorporates inherited material as well as extensive original choreography.
+- **1954:** *Western Symphony*. A ballet to American songs arranged by Hershy Kay.
+- **1954:** *Ivesiana*. A ballet suite to Charles Ives.
+- **1954:** *House of Flowers*. Dances for the Arlen–Capote musical; Balanchine withdrew before Broadway, and Herbert Ross rearranged the choreography, so the performed result resists sole attribution to Balanchine.
+- **1955:** *Roma*. A ballet to Bizet.
+- **1955:** *Pas de Trois*. A ballet to Glinka.
+- **1955:** *The Tempest*. A ballet masque for the American Shakespeare Festival.
+- **1955:** *Pas de Dix*. A ballet to Glazunov derived from *Raymonda*.
+- **1955:** *Jeux d’Enfants*. Choreography to Bizet; only sections were completed or presented.
+- **1956:** *The Magic Flute*. Stage direction for an NBC color-television opera production.
+- **1956:** *Allegro Brillante*. A ballet to Tchaikovsky.
+- **1956:** *A Musical Joke*. A Mozart festival ballet.
+- **1956:** *Divertimento No. 15*. A ballet to Mozart.
+- **1957:** *Square Dance*. A ballet to Vivaldi and Corelli, originally incorporating an onstage square-dance caller.
+- **1957:** *Agon*. A Stravinsky ballet commissioned through Balanchine and Lincoln Kirstein.
+- **1957:** *The Nutcracker*. A live CBS television manifestation specially adapted for the medium.
+- **1958:** *Gounod Symphony*. A ballet to Gounod.
+- **1958:** *Stars and Stripes*. A ballet in five “campaigns” to Sousa arranged by Hershy Kay.
+- **1958:** *A Midsummer Night’s Dream*. Dance passages for the American Shakespeare Festival play; distinct from the 1962 ballet.
+- **1958:** *The Winter’s Tale*. Dance passages for the American Shakespeare Festival.
+- **1958:** *Waltz-Scherzo*. A ballet to Tchaikovsky.
+- **1958:** *The Seven Deadly Sins*. A new version of the Weill–Brecht dance-theater work.
+- **1958:** *The Nutcracker for television*. A production redesigned for CBS, with Balanchine appearing as Drosselmeyer; a televisual manifestation rather than a neutral recording.
+- **1959:** *Native Dancers*. A ballet to Vittorio Rieti.
+- **1959:** *Episodes*. A composite homage to Webern: Martha Graham choreographed Part I and Balanchine Part II; later performances generally retained Balanchine’s portion alone.
+- **1959:** *Variations for Orchestra within Episodes*. A solo made for Paul Taylor and later dropped; Taylor reconstructed it in 1986, so the posthumous manifestation depends upon remembered choreography.
+- **1959:** *Romeo and Juliet*. Dances for the American Shakespeare Festival play.
+- **1959:** *The Merry Wives of Windsor*. Dances for the American Shakespeare Festival.
+- **1960:** *Night Shadow* (later *La Sonnambula*). A New York City Ballet revision of the 1946 ballet.
+- **1960:** *Panamerica*. A ballet to music by several Latin American composers.
+- **1960:** *Theme and Variations*. A New York City Ballet staging of the 1947 work.
+- **1960:** *Tschaikovsky Pas de Deux*. A ballet to music written for but omitted from *Swan Lake*.
+- **1960:** *The Figure in the Carpet*. A Handel ballet created for the International Congress of Iranian Art and Archaeology.
+- **1960:** *Donizetti Variations*. A ballet to Donizetti.
+- **1960:** *Liebeslieder Walzer*. A ballet to Brahms for dancers, four singers, and two pianists, deliberately poised between social dance and theatrical ballet.
+- **1960:** *Monumentum pro Gesualdo*. A Stravinsky ballet later paired with *Movements for Piano and Orchestra*.
+- **1960:** *Ragtime (I)*. A short ballet to Stravinsky, distinct from the 1967 work.
+- **1961:** *Electronics*. A ballet to Remi Gassmann and Oskar Sala’s electronic score.
+- **1961:** *Raymonda Variations*. A Glazunov ballet after material associated with Petipa’s *Raymonda*.
+- **1962:** *A Midsummer Night’s Dream*. A full-length Mendelssohn ballet; distinct from Balanchine’s 1958 incidental dances.
+- **1963:** *Bugaku*. A ballet to Toshiro Mayuzumi, drawing on but transforming Japanese court-dance imagery.
+- **1963:** *Meditation*. A pas de deux to Tchaikovsky.
+- **1963:** *Movements for Piano and Orchestra*. A Stravinsky ballet.
+- **1964:** *Clarinade*. A ballet to Morton Gould.
+- **1964:** *Tarantella*. A pas de deux to Gottschalk arranged by Hershy Kay.
+- **1965:** *Pas de Deux and Divertissement*. A Delibes ballet.
+- **1965:** *Harlequinade*. A two-act ballet after Petipa’s *Les Millions d’Arlequin*; authorship combines inherited scenario and steps with Balanchine’s production.
+- **1965:** *Don Quixote*. A full-length ballet to Nicolas Nabokov, unrelated choreographically to Balanchine’s earlier Petipa-derived pas de deux.
+- **1966:** *Brahms–Schoenberg Quartet*. A ballet to Schoenberg’s orchestration of Brahms.
+- **1966:** *Variations*. A Stravinsky ballet in which the score was played three times; the 1982 *Variations for Orchestra* was entirely rechoreographed.
+- **1967:** *Divertimento Brillante*. A ballet to Glinka.
+- **1967:** *Jewels*. A three-part, evening-length ballet—*Emeralds*, *Rubies*, and *Diamonds*—whose unity is conceptual rather than narrative.
+- **1967:** *Emeralds*. The Fauré section of *Jewels*; also performed as an independent ballet.
+- **1967:** *Rubies*. The Stravinsky section of *Jewels*; also performed independently.
+- **1967:** *Diamonds*. The Tchaikovsky section of *Jewels*; also performed independently.
+- **1967:** *Ragtime (II)*. A Stravinsky ballet distinct from *Ragtime (I)*.
+- **1967:** *Valse-Fantaisie*. A new Glinka choreography, not simply a revival of the 1953 ballet.
+- **1968:** *Metastaseis and Pithoprakta*. A ballet to Iannis Xenakis.
+- **1968:** *Requiem Canticles*. A Stravinsky ballet made as a memorial for Martin Luther King Jr.
+- **1968:** *La Source*. A ballet to Delibes assembled from earlier Balanchine treatments of that music.
+- **1968:** *Slaughter on Tenth Avenue*. A substantially rechoreographed New York City Ballet version of the 1936 Broadway ballet.
+- **1970:** *Tschaikovsky Suite No. 3*. A four-movement ballet whose finale incorporates the earlier *Theme and Variations*.
+- **1970:** *Who Cares?*. A ballet to Gershwin songs arranged by Hershy Kay.
+- **1972:** *Pulcinella*. A ballet co-choreographed with Jerome Robbins; authorship is shared.
+- **1972:** *Stravinsky Violin Concerto*. A new ballet to the score Balanchine had used for *Balustrade* in 1941.
+- **1972:** *Symphony in Three Movements*. A Stravinsky ballet.
+- **1972:** *Duo Concertant*. A Stravinsky ballet for two dancers, violinist, and pianist.
+- **1972:** *Lost Sonata*. A Stravinsky Festival ballet; its title explicitly marks the incomplete or rediscovered status of the music.
+- **1972:** *Divertimento from Le Baiser de la Fée*. A new extraction and reworking of material from Balanchine’s earlier full ballet.
+- **1972:** *Choral Variations on Bach’s “Vom Himmel Hoch”*. A Stravinsky Festival choreography.
+- **1972:** *Danses Concertantes*. A new choreography to the score used in 1944, not merely a revival.
+- **1972:** *Scherzo à la Russe*. A Stravinsky ballet.
+- **1972:** *Stravinsky Festival*. A curated festival-project joining new ballets, revivals, music, programming, and institutional performance; it is a Gesamtkunstwerk at the level of repertory construction.
+- **1973:** *Cortège Hongrois*. A Glazunov ballet created as a farewell for Melissa Hayden.
+- **1974:** *Coppélia*. A full-length production made with Alexandra Danilova after Saint-Léon and Petipa; Danilova staged much of Act II, making authorship composite.
+- **1974:** *Variations pour une porte et un soupir*. A ballet to Pierre Henry’s musique concrète.
+- **1975:** *Sonatine*. A pas de deux to Ravel.
+- **1975:** *Tzigane*. A Ravel ballet.
+- **1975:** *Le Tombeau de Couperin*. A Ravel ballet structured around corps groupings rather than principal roles.
+- **1975:** *Pavane*. A Ravel ballet, distinct from the 1951 Diamond *Pavane*.
+- **1975:** *Shéhérazade*. A Ravel ballet.
+- **1975:** *Gaspard de la Nuit*. A Ravel ballet.
+- **1975:** *Rapsodie Espagnole*. A Ravel ballet.
+- **1975:** *L’Enfant et les Sortilèges* (also *The Spellbound Child*). A further staging of the Ravel opera-ballet, related to but not identical with Balanchine’s 1925 and 1946 productions.
+- **1975:** *Ravel Festival*. A repertorial Gesamtkunstwerk joining new choreographies, revived works, and Ravel’s music across multiple programs.
+- **1975:** *The Steadfast Tin Soldier*. A ballet to Bizet after Hans Christian Andersen.
+- **1976:** *Chaconne*. A ballet to Gluck, developed from dances Balanchine had made for *Orpheus and Eurydice*.
+- **1976:** *Union Jack*. A three-part ballet to British music and military-display forms.
+- **1977:** *Etude for Piano*. A short ballet.
+- **1977:** *Vienna Waltzes*. A five-part ballet to Johann Strauss II, Franz Lehár, and Richard Strauss.
+- **1978:** *Ballo della Regina*. A ballet to Verdi.
+- **1978:** *Kammermusik No. 2*. A ballet to Hindemith.
+- **1979:** *Le Bourgeois Gentilhomme*. A new production for New York City Opera; Balanchine said it differed completely from his 1932 and 1944 versions.
+- **1980:** *Ballade*. A ballet to Fauré.
+- **1980:** *Robert Schumann’s Davidsbündlertänze*. A ballet to Schumann’s piano cycle.
+- **1980:** *Walpurgisnacht Ballet*. A ballet extracted and expanded from the opera *Faust*.
+- **1981:** *Garland Dance*. A choreography from Tchaikovsky’s *The Sleeping Beauty* made for the Tschaikovsky Festival.
+- **1981:** *Hungarian Gypsy Airs*. A ballet or concert dance; its independent status is less stable than that of the major repertory works.
+- **1981:** *Mozartiana*. A wholly new Tchaikovsky ballet, not a revival of the 1933–1934 choreography.
+- **1981:** *Tschaikovsky Festival*. A festival-project joining new works, revised works, décor, and programming.
+- **1982:** *Élégie*. A new Stravinsky solo made for Suzanne Farrell, distinct from the 1945–1948 manifestations.
+- **1982:** *Noah and the Flood*. Choreography and staging for Stravinsky’s musical play; a mixed-media theatrical work.
+- **1982:** *Tango*. A ballet to Stravinsky.
+- **1982:** *Variations for Orchestra*. A solo for Suzanne Farrell, made in collaboration with her and entirely rechoreographed from the 1966 work; Balanchine’s final completed ballet.
+- **1982:** *Stravinsky Centennial Celebration*. A festival-project rather than a single ballet, encompassing premieres, revisions, revivals, television, and repertorial argument.
+
+### Compositions, institutions, teaching, and protocols
+
+- **ca. 1919–1924:** *Musical compositions*. Balanchine studied piano and theory at the Petrograd Conservatory and composed music, but no authoritative complete work-list or stable surviving corpus has been established; this is therefore a partially documented creative practice rather than a securely enumerable oeuvre.
+- **1934–1983:** *School of American Ballet teaching practice*. A continually revised embodied protocol for classical training, transmitted orally and physically rather than fixed by Balanchine in a single written manual; the later “Balanchine technique” should not be mistaken for a formally codified text authored entirely by him.
+- **1934:** *School of American Ballet*. An institution co-founded with Lincoln Kirstein and Vladimir Dimitriev; an institutional obra and continuing pedagogical project rather than an individually authored object.
+- **1946:** *Ballet Society*. A subscription company founded with Lincoln Kirstein; an institutional and curatorial project.
+- **1948:** *New York City Ballet*. A company co-founded with Lincoln Kirstein and developed by Balanchine through repertory, casting, teaching, and programming; a collective institutional obra that resists sole authorship.
+- **1959 onward:** *School of American Ballet seminars for regional teachers*. A pedagogical protocol transmitted through demonstrations and instruction rather than a fixed published text.
+- **1972:** *Stravinsky Festival repertory design*. Beyond the individual ballets, Balanchine and his collaborators made an argument through sequence, juxtaposition, and institutional scale; it functions as a manifesto enacted in performance.
+- **1975:** *Ravel Festival repertory design*. A curatorial project making one composer’s music visible through multiple choreographic forms.
+- **1981:** *Tschaikovsky Festival repertory design*. A curatorial and theatrical project extending beyond the individual dances.
+- **1982:** *Stravinsky Centennial repertory design*. Balanchine’s last large curatorial project, only partly separable from the company and collaborators who realized it.
+
+### Books, essays, and spoken texts
+
+- **1945:** *Notes on Choreography*. An essay stating practical and aesthetic principles of choreography; in its prescriptive passages it approaches a manifesto.
+- **1947:** *The Dance Element in Stravinsky’s Music*. An essay on the choreographic force of Stravinsky’s music.
+- **1954:** *The Complete Stories of the Great Ballets*. A reference book issued under Balanchine’s name and edited with Francis Mason; its collaborative editorial construction means it should not be treated as an unmediated single-author text.
+- **1956:** *Balanchine’s Complete Stories of the Great Ballets*. An expanded manifestation of the ballet-story reference work, again editorially mediated by Francis Mason.
+- **1968:** *Balanchine’s New Complete Stories of the Great Ballets*. A substantially revised and enlarged manifestation of the earlier reference book, made with Francis Mason.
+- **1977:** *Balanchine’s Festival of Ballet*. A book for younger readers, produced with Francis Mason; a collaborative explanatory text.
+- **1989, posthumous:** *Balanchine’s Tchaikovsky: Interviews with George Balanchine*. Solomon Volkov shaped recorded conversations into a book published after Balanchine’s death; it is a posthumous textual manifestation, and its degree of editorial mediation prevents simple classification as a book “written by” Balanchine.
+- **Various dates:** *Interviews, program notes, letters, lectures, and dictated statements*. These exist in archives and publications but have no scholarly collected-works edition establishing a complete canon; many are collaborative, transcribed, or editorially shaped and therefore resist enumeration as discrete authored works.
+
+### Sources
+
+- George Balanchine Foundation, [*Choreography by George Balanchine: A Catalogue of Works*](https://balanchine.org/balanchine-catalogue/). The Foundation describes this as the complete premiere-performance database of every known work staged or choreographed by Balanchine, including ballets, opera dances, operettas, films, musicals, plays, concert works, television, choral staging, and circus; the online catalogue updates the printed catalogue raisonné.
+- George Balanchine Foundation, [Catalogue of Works Archive](https://balanchine.org/balanchine-catalogue/catalogue-of-works/). Individual records supply titles, dates, media, collaborators, premiere data, revisions, alternate titles, disputed attributions, and survival notes.
+- George Balanchine Foundation, [Chronology: Life and Works](https://balanchine.org/balanchine-catalogue/chronology-life-and-works/). Used to connect catalogue entry numbers with Balanchine’s companies, opera work, film work, theatrical movement, television, and unfinished projects.
+- George Balanchine Foundation, [“Valse Triste” catalogue record](https://balanchine.org/balanchine-catalogue/catalogue-of-works/10-valse-triste-1922/). Used for the disputed Balanchine–Lydia Ivanova attribution and the Foundation’s warning that complete documentation of the pre-1924 works is impossible.
+- George Balanchine Foundation, [“Episodes” catalogue record](https://balanchine.org/balanchine-catalogue/catalogue-of-works/324-episodes-1959/). Used for the divided Graham/Balanchine authorship, the Paul Taylor solo, and its later reconstruction.
+- George Balanchine Foundation, [“Variations for Orchestra” catalogue record](https://balanchine.org/balanchine-catalogue/catalogue-of-works/425-variations-for-orchestra-1982/). Used for Farrell’s collaborative credit, the distinction from the 1966 ballet, and its status as Balanchine’s final work.
+- George Balanchine Foundation, [Additional Information: Lincoln Kirstein’s introduction](https://balanchine.org/balanchine-catalogue/additional-information/). Describes the catalogue’s preparation with Balanchine and its aim of listing every choreographic work.
+- George Balanchine Foundation, [Media and selected bibliography](https://balanchine.org/balanchine-catalogue/media/). Used for Balanchine’s books, essays, interviews, filmography, and the limits of the published textual corpus.
+- George Balanchine, Eakins Press Foundation, and Harvey Simmonds, ed., [*Choreography by George Balanchine: A Catalogue of Works*](https://books.google.com/books?id=EjIUAQAAIAAJ) (Eakins Press Foundation/Viking, 1983–1984). The standard printed catalogue raisonné underlying the Foundation’s expanded online database.
+- Nancy Reynolds, *Repertory in Review: 40 Years of the New York City Ballet* (Dial Press, 1977). Used by the Balanchine Trust’s [chronological repertory index](https://www.balanchine.com/BalletbyDate) to distinguish New York City Ballet repertory works and revisions.
+- George Balanchine Trust, [Ballets Chronologically](https://www.balanchine.com/BalletbyDate) and [Ballets Alphabetically](https://www.balanchine.com/BalletsAlph). Consulted as a repertory cross-check; these are selective performance lists and not substitutes for the Foundation’s catalogue raisonné.
+- Stephanie Jordan and Larraine Nicholas, [*The Early Life and Works of George Balanchine*](https://refubium.fu-berlin.de/bitstream/fub188/8037/1/Early_Life_and_Works_of_George_Balanchine.pdf). Consulted for the fragmentary evidence, variant attributions, and survival problems surrounding the Russian and early Ballets Russes choreography.

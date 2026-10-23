@@ -1,0 +1,345 @@
+## Works by Sir John Everett Millais
+
+### Oil paintings and oil studies
+
+- **1841:** *Cupid Crowned with Flowers*. An early oil painting, made when Millais was about twelve.
+- **c. 1843:** *Emily Millais*. An oil portrait of the artist’s sister.
+- **1846:** *Pizarro Seizing the Inca of Peru*. A large historical oil painting produced as a Royal Academy student.
+- **1847:** *Self-Portrait*. An oil portrait on millboard.
+- **c. 1847:** *The Artist Attending the Mourning of a Young Girl*. A small narrative oil study.
+- **c. 1847:** *The Conjuror*. A small narrative oil painting.
+- **c. 1847:** *Infancy*. One panel in an allegorical series of the stages of life.
+- **c. 1847:** *Youth*. One panel in the stages-of-life series.
+- **c. 1847:** *Manhood*. One panel in the stages-of-life series.
+- **c. 1847:** *Old Age*. One panel in the stages-of-life series.
+- **c. 1847:** *Music*. An allegorical companion panel.
+- **c. 1847:** *Poetry*. An allegorical companion panel.
+- **1847–48:** *Cymon and Iphigenia*. A literary history painting.
+- **1848:** *Serjeant Ralph Thomas*. An oil portrait on wood.
+- **1848:** *Portrait of Hugh Fenn*. An oil portrait also recorded as *William Hugh Fenn* and *Portrait of W. Hugh Fenn*.
+- **c. 1848:** *The Death of Romeo and Juliet*. A small oil study rather than a large exhibition picture.
+- **c. 1848:** *Landscape, Hampstead*. An oil landscape also called *Hampstead Heath*.
+- **1848–49:** *Isabella*. A Pre-Raphaelite literary painting also called *Lorenzo and Isabella*.
+- **1849:** *Ferdinand Lured by Ariel*. A small oil study distinct from the finished painting of 1849–50.
+- **1849:** *James Wyatt and His Granddaughter Mary*. A double portrait also recorded as *Portrait of a Gentleman and His Grandchild*.
+- **1849:** *Portrait of Four Children of the Wyatt Family*. A group portrait on board.
+- **1849:** *The Kingfisher’s Haunt*. A painting subsequently destroyed during the Second World War.
+- **1849–50:** *Christ in the House of His Parents*. A Pre-Raphaelite religious painting also known as *The Carpenter’s Shop*.
+- **1849–50:** *Ferdinand Lured by Ariel*. The finished Pre-Raphaelite literary painting, distinct from the small 1849 study.
+- **1849–51:** *The Woodman’s Daughter*. A literary oil painting.
+- **1850:** *Portrait of the Artist’s Brother William Henry Millais*. An oil portrait.
+- **1850–51:** *Mariana*. A literary oil painting derived from Tennyson.
+- **1851:** *The Return of the Dove to the Ark*. A biblical oil painting.
+- **1851:** *The Bridesmaid*. A small symbolic figure painting, not the different picture bearing this title in 1879.
+- **1851:** *Mrs Coventry Patmore*. A small oil portrait also catalogued under the sitter’s full name, Emily Augusta Patmore.
+- **1851–52:** *A Huguenot, on St Bartholomew’s Day, Refusing to Shield Himself from Danger by Wearing the Roman Catholic Badge*. A historical narrative painting commonly shortened to *The Huguenot*.
+- **1851–52:** *Ophelia*. A Pre-Raphaelite oil painting in which landscape and literary figure were painted in separate campaigns.
+- **1852:** *Memory*. A small portrait-head traditionally identified as the Marchioness of Ripon.
+- **1852–53:** *The Order of Release, 1746*. A Jacobite historical painting whose earlier conception and title, *The Ransom*, differed from the finished obra.
+- **1852–53:** *The Proscribed Royalist, 1651*. A historical painting also called *The Royalist*.
+- **1853:** *The Waterfall*. A small portrait-landscape also called *A Waterfall at Glenfinlas* and *Effie at Glenfinlas*.
+- **1853:** *Effie with Foxgloves in Her Hair*. An oil portrait study also called *The Foxglove*.
+- **1853–54:** *John Ruskin*. An oil portrait painted outdoors at Glenfinlas.
+- **1854:** *The Highland Lassie*. A small oil head also catalogued as *Head of a Scotch Girl*.
+- **1854:** *Waiting*. A small figure painting also called *Girl at the Stile* and *The Stile*.
+- **1854:** *The Violet’s Message*. A small oil also called *A Girl with Violets*.
+- **1854–55:** *L’Enfant du Régiment*. A military-subject oil also called *A Random Shot*.
+- **1855:** *The Rescue*. A large modern-life painting of a fireman carrying children from a burning house.
+- **1855–56:** *Autumn Leaves*. A poetic group painting whose subject is mood and transience rather than a specific narrative.
+- **1856:** *The Blind Girl*. A modern-life landscape and figure painting.
+- **1856:** *Peace Concluded, 1856*. A Crimean War domestic scene also called *Conclusion of Peace, 1856*.
+- **1856:** *News from Home*. A small military-subject oil painting.
+- **1856:** *Pot Pourri*. A domestic figure painting.
+- **1856–57:** *A Dream of the Past: Sir Isumbras at the Ford*. A pseudo-medieval narrative painting.
+- **1856–57:** *The Escape of a Heretic, 1559*. A historical-religious oil painting.
+- **1857:** *Sophie Gray*. A portrait head also known as *Head of a Girl*, *Portrait of a Girl*, and *Portrait of a Young Lady*.
+- **1857:** *Alice Gray*. A portrait head which should not be confused with the same-year portrait of Sophie Gray.
+- **1857–58:** *Only a Lock of Hair*. A small sentimental narrative painting.
+- **1858–59:** *The Vale of Rest*. A cemetery scene combining landscape, genre, and meditation on mortality.
+- **1858–59:** *The Love of James I of Scotland*. A literary-historical oil painting.
+- **1856–59:** *Spring*. A large group painting also known as *Apple Blossoms*.
+- **1859:** *Meditation*. A figure painting; the title is also attached to a different Millais painting of 1879.
+- **1860:** *The Black Brunswicker*. A historical genre painting.
+- **1860:** *The Rivals*. An oil painting whose documentation is less complete than that of Millais’s principal exhibition pictures.
+- **1860–62:** *The Ransom*. A large historical oil also called *The Hostage*; it is not the abandoned early conception of *The Order of Release*.
+- **1860–62:** *Trust Me*. A narrative oil painting.
+- **1862:** *Mrs Charles Freeman*. A small oil portrait.
+- **1862:** *The White Cockade*. A Jacobite subject in oil.
+- **1862:** *The Bride*. A figure painting identified in early records by the passion flowers in the sitter’s hair.
+- **1862–63:** *The Wolf’s Den*. A family group presented as a children’s game.
+- **1863:** *The Eve of St Agnes*. A literary oil painting after Keats.
+- **1863:** *My First Sermon*. A child-subject oil painting later paired with *My Second Sermon*.
+- **1863:** *Portrait of Henry Manners, Later Marquess of Granby*. A child portrait.
+- **1863:** *Suspense*. A narrative or genre painting whose title is preserved in contemporary catalogues.
+- **1863:** *The Bridesmaid Throwing the Lucky Slipper*. A genre painting.
+- **c. 1863:** *Milking Time*. A rural figure painting also called *The Farmer’s Daughter*, *The Milkmaid*, and *Girl in Cornfield*.
+- **1863–64:** *Lily Noble*. A portrait also catalogued as *Lily, Daughter of John Noble*.
+- **1864:** *Charlie Is My Darling*. A Scottish historical-genre painting.
+- **1864:** *My Second Sermon*. The comic-sequel companion to *My First Sermon*.
+- **1864:** *Harold Heneage Finch-Hatton*. A small oval child portrait.
+- **1864:** *Leisure Hours*. A double portrait or domestic group painting.
+- **1864:** *John Wycliffe Taylor at the Age of Five*. A child portrait.
+- **1864:** *Swallow! Swallow!*. A literary figure painting.
+- **1865:** *Joan of Arc*. A historical figure painting.
+- **1865:** *Esther*. A biblical figure painting.
+- **1865:** *The Parable of the Tares*. A biblical oil also called *The Enemy Sowing Tares*.
+- **1865:** *The Romans Leaving Britain*. A large historical painting.
+- **1865–66:** *Master Cayley*. A portrait also known as *Hugh Cayley of Wydale*.
+- **1865–67:** *Asleep*. A child-subject painting also called *Sleeping*.
+- **1865–67:** *Just Awake*. A companion child-subject painting also called *Waking*.
+- **1867:** *Jephthah*. A biblical history painting.
+- **c. 1867–68:** *Rosalind in the Forest*. A small oil study on board.
+- **1868:** *Sisters*. A group portrait.
+- **1868:** *A Souvenir of Velazquez*. A child portrait in historical costume.
+- **1868:** *Vanessa*. A literary portrait-subject.
+- **1868:** *Stella*. A companion literary portrait-subject.
+- **1868:** *Portrait of Sir John Fowler, Bart.*. An oil portrait.
+- **1868:** *Rosalind and Celia*. A Shakespearean oil painting.
+- **1868:** *Greenwich Pensioners at the Tomb of Nelson*. A modern historical-genre painting also called *Pilgrims to St Paul’s*.
+- **1869:** *The Gambler’s Wife*. A narrative figure painting.
+- **1869:** *Nina, Daughter of Frederick Lehmann*. A portrait.
+- **1870:** *The Boyhood of Raleigh*. A historical childhood scene.
+- **1870:** *Amy, Marchioness of Huntly*. A full-length society portrait.
+- **1870:** *Chill October*. A large Scottish landscape.
+- **1870:** *A Flood*. A dramatic modern-life painting.
+- **1870:** *The Knight Errant*. A medievalist nude; Millais subsequently altered the woman’s pose, so reproductions may show different states.
+- **1870:** *A Widow’s Mite*. A modern-life painting with a biblical allusion.
+- **1870:** *Sir John Kelk, Bart.*. An oil portrait.
+- **1871:** *The Martyr of the Solway*. A historical-religious painting also associated with the name Margaret Wilson.
+- **1871:** *Victory O Lord!*. A monumental biblical battle painting.
+- **1871:** *A Somnambulist*. A nocturnal figure painting.
+- **1871:** *Flowing to the River*. A landscape conceived as a companion to *Flowing to the Sea*.
+- **1871:** *Flowing to the Sea*. A companion landscape to *Flowing to the River*.
+- **1871:** *Charles Lyon Liddell*. A portrait also called *The Brown Boy* and *The Boy in the Brown Suit*.
+- **1871:** *Yes or No?*. A narrative society painting.
+- **1871:** *George Grote*. An oil portrait.
+- **1872:** *Oh! That a Dream So Sweet, So Long Enjoy’d, Should Be So Sadly, Cruelly Destroy’d*. A literary or sentimental figure painting.
+- **1872:** *Hearts Are Trumps*. A triple portrait of Elizabeth, Diana, and Mary Armstrong.
+- **1872:** *Isabella Heugh*. An oil portrait also called *Mrs Heugh*.
+- **1872:** *Sir James Paget, Bart.*. An oil portrait.
+- **1873:** *Mrs Bischoffsheim*. A society portrait.
+- **1873:** *Effie Millais*. A portrait of the artist’s wife.
+- **1873:** *Scotch Firs*. A large landscape.
+- **1873:** *Winter Fuel*. A Scottish landscape and labour subject.
+- **1873:** *New-Laid Eggs*. A child or domestic genre painting.
+- **1873:** *Early Days*. A childhood-subject oil painting.
+- **1873:** *Walter Rothschild*. A child portrait.
+- **1873:** *Sir William Sterndale Bennett*. An oil portrait.
+- **1874:** *The North-West Passage*. A history-and-empire painting formulated as a domestic scene.
+- **1874:** *The Fringe of the Moor*. A large landscape.
+- **1874:** *Day Dreams*. A figure painting.
+- **1874:** *The Picture of Health*. A child-subject painting.
+- **1874:** *Eveleen Tennant*. A portrait of the future Mrs F. H. Myers.
+- **1875:** *The Deserted Garden*. A landscape.
+- **1875:** *Over the Hills and Far Away*. A large landscape.
+- **1875:** *The Crown of Love*. A literary narrative painting.
+- **1875:** *Forbidden Fruit*. A figure painting.
+- **1875:** *Eveline, Daughter of T. Evans Lees*. A portrait.
+- **1875:** *Gracia, Daughter of T. Evans Lees*. A portrait.
+- **1875:** *No!*. A narrative figure painting.
+- **1875:** *James Wyatt Junior*. An oil portrait.
+- **c. 1875:** *Dead Pheasants*. A small still life.
+- **1876:** *George Gray Millais*. An oval family portrait.
+- **1876:** *Everett Millais*. An oval family portrait.
+- **1876:** *Effie Millais*. An oval family portrait of the artist’s daughter, distinct from the 1873 portrait of Lady Millais.
+- **1876:** *Mary Millais*. An oval family portrait.
+- **1876:** *Alice Millais*. An oval family portrait.
+- **1876:** *Lord Ronald Gower*. An oil portrait.
+- **1876:** *Edward Robert Bulwer-Lytton, First Earl Lytton*. An oil portrait.
+- **1876:** *Stitch! Stitch! Stitch!*. A modern-life figure painting.
+- **1876:** *Portrait of a Lady*. An unidentified or generically titled portrait.
+- **1876:** *Getting Better*. A domestic genre painting.
+- **1877:** *The Sound of Many Waters*. A landscape or seascape.
+- **1877:** *The Yeoman of the Guard*. A historical-costume figure painting.
+- **1877:** *Effie Deans*. A literary painting after Walter Scott.
+- **1878:** *The Princes in the Tower*. A historical painting also exhibited as *The Two Princes Edward and Richard in the Tower, 1483*.
+- **1878:** *St Martin’s Summer*. A figure painting.
+- **1878:** *Mrs Stibbard*. An oil portrait.
+- **1878:** *The Bride of Lammermoor*. A literary painting after Walter Scott.
+- **1879:** *Urquhart Castle, on Loch Ness*. A Scottish landscape.
+- **1879:** *Cherry Ripe*. A child portrait transformed into a popular fancy picture.
+- **1879:** *Princess Elizabeth in Prison at St James’s*. A historical childhood scene.
+- **1879:** *Louise Jopling*. A portrait of the artist, also catalogued as *Mrs Jopling*.
+- **1879:** *William Ewart Gladstone*. An official portrait.
+- **1879:** *Meditation*. A figure painting distinct from the 1859 work bearing the same title.
+- **1879:** *Beatrice Caird*. An oval portrait.
+- **1879:** *Hermione Schenley*. An oil portrait.
+- **1879:** *The Bridesmaid*. A portrait or fancy picture distinct from the 1851 symbolic painting.
+- **1879:** *Mrs S. H. Beddington*. An oil portrait.
+- **1880:** *Self-Portrait*. The oil self-portrait made for the Uffizi Gallery.
+- **1880:** *Kate Perugini*. An oil portrait.
+- **1880:** *Mrs Caird*. An oil portrait.
+- **1880:** *Alcyone Stepney*. An oil portrait.
+- **1880:** *Bishop James Fraser*. An oil portrait.
+- **1880:** *Diana Vernon*. A literary-costume figure painting.
+- **1880:** *John Bright*. An official portrait.
+- **1880:** *Cuckoo!*. A child-subject painting.
+- **1880:** *Luther Holden*. An oil portrait.
+- **c. 1880:** *Reverend John Caird*. An oil portrait.
+- **1881:** *Benjamin Disraeli, Earl of Beaconsfield*. An official portrait; Millais also made a smaller replica for Queen Victoria.
+- **1881:** *Alfred Tennyson*. An oil portrait.
+- **1881:** *Cardinal John Henry Newman*. An oil portrait.
+- **1881:** *Cinderella*. A child or fancy-subject painting.
+- **1881:** *Sweetest Eyes Were Ever Seen*. A fancy portrait.
+- **1881:** *Sir Henry Thompson*. An oil portrait.
+- **1881:** *Daniel Thwaites*. An oil portrait.
+- **1881:** *The Children of Octavius Moulton Barrett*. A group portrait.
+- **1881:** *Sir John D. Astley, Bart.*. An oil portrait.
+- **1881:** *Little Mrs Gamp*. A Dickensian fancy picture.
+- **1881:** *Caller Herrin’*. A Scottish fancy picture.
+- **1882:** *The Captive*. A fancy portrait also called *Ruby*.
+- **1882:** *The Stowaway*. A narrative child-subject painting.
+- **1882:** *Pomona*. An allegorical figure painting.
+- **1882:** *Mrs James Stern*. An oil portrait.
+- **1882:** *Olivia*. A Shakespearean figure painting now recorded as lost.
+- **1882:** *The Duchess of Westminster*. An oil portrait.
+- **1882:** *For the Squire*. A narrative figure painting.
+- **1882:** *J. C. Hook, R.A.*. A portrait of the painter.
+- **1882:** *H.R.H. Princess Marie of Edinburgh*. A royal portrait.
+- **1883:** *The Marquess of Salisbury*. An official portrait.
+- **1883:** *Self-Portrait*. A small oil self-portrait.
+- **1883:** *Fallen from the Nest*. A child-subject painting.
+- **1883:** *Forget-Me-Not*. A fancy portrait.
+- **1883:** *Sir Henry Irving*. A portrait of the actor.
+- **1883:** *Love Birds*. A society or fancy picture also known as *Une Grande Dame*.
+- **1884:** *An Idyll of 1745*. A Jacobite historical-genre painting.
+- **1884:** *Little Miss Muffet*. A nursery-rhyme child painting; catalogues vary between *Muffet* and *Muffett*.
+- **1884:** *In Perfect Bliss*. A child or domestic genre painting.
+- **1884:** *Lady Peggy Primrose*. A portrait.
+- **1884:** *Lady Campbell*. An oil portrait.
+- **1884:** *A Message from the Deep*. A maritime narrative painting.
+- **1884:** *The Mistletoe-Gatherer*. A figure painting.
+- **1884–85:** *William Ewart Gladstone*. A later portrait of Gladstone, distinct from the 1879 version.
+- **1885:** *The Ruling Passion*. A family genre painting also called *The Ornithologist*.
+- **1886:** *Bubbles*. A child portrait or fancy picture subsequently appropriated for commercial advertising; the advertisement is a manifestation after Millais’s obra, not a separate painting by him.
+- **1886:** *Portia*. A Shakespearean costume painting.
+- **1886:** *Archibald Philip Primrose, Fifth Earl of Rosebery*. An oil portrait.
+- **1886:** *Isabella Elder*. An oil portrait.
+- **1886:** *Lilacs*. A figure or flower-subject painting.
+- **1886:** *Thomas Oldham Barlow*. A portrait of the engraver.
+- **1886:** *Mercy: St Bartholomew’s Day, 1572*. A historical painting returning to the massacre underlying *The Huguenot*.
+- **1887:** *Christmas Eve*. A landscape.
+- **1887:** *Il Penseroso*. A poetic figure painting also called *Penseroso*.
+- **1887:** *Clarissa*. A literary or fancy portrait.
+- **1887:** *Mrs Charles Stuart-Wortley*. An oil portrait of the artist’s daughter Alice.
+- **1887:** *The Nest*. A child-subject painting.
+- **1887:** *Murthly Moss*. A Scottish landscape.
+- **1887:** *Allegro*. A poetic figure painting conceived as a counterpart to *Il Penseroso*.
+- **1888:** *Arthur Sullivan*. A portrait of the composer.
+- **1888:** *The Grey Lady*. A figure painting.
+- **1888:** *The Old Garden*. A garden landscape.
+- **1888:** *The Last Rose of Summer*. A portrait or fancy picture traditionally identified with Mary Hunt Millais.
+- **1888:** *Mrs Paul Hardy*. An oil portrait.
+- **1888:** *Murthly Water*. A Scottish landscape.
+- **1888:** *Charles J. Wertheimer*. An oil portrait.
+- **1889:** *Robert Rankin*. An oil portrait.
+- **1889–90:** *Dew-Drenched Furze*. A large landscape.
+- **1890:** *Lingering Autumn*. A landscape.
+- **1890:** *The Moon Is Up, and Yet It Is Not Night*. A landscape whose title comes from Byron.
+- **1891:** *Glen Birnam*. A Scottish landscape.
+- **1891:** *Mrs Charles Wertheimer*. A portrait now understood to depict Sarah Hammond, Wertheimer’s mistress, rather than his wife; the traditional title is therefore misleading.
+- **1891:** *Dorothy Lawson*. An oil portrait.
+- **1891:** *Mary Chamberlain*. A portrait also called *Mrs Chamberlain*.
+- **1891:** *The Hon. Mrs Herbert Gibbs*. An oil portrait.
+- **1891:** *Grace*. A portrait or fancy picture.
+- **1891–92:** *Little Speedwell’s Darling Blue*. A child-subject painting.
+- **1892:** *Blow, Blow, Thou Winter Wind!*. A Shakespearean winter scene.
+- **1892:** *Master Anthony de Rothschild*. A child portrait.
+- **1892:** *Halcyon Weather*. A landscape.
+- **1892:** *Sweet Emma Moreland*. A literary or fancy picture; the name is sometimes rendered “Morland.”
+- **1893:** *The Girlhood of St Theresa*. A religious-historical painting.
+- **1893:** *John Hare*. A portrait of the actor-manager.
+- **1895:** *Speak! Speak!*. A supernatural narrative painting.
+- **1895:** *St Stephen*. A religious painting.
+- **1895:** *Time*. An allegorical painting.
+- **1896:** *A Forerunner*. A biblical subject and the last subject picture Millais exhibited.
+- **1896:** *Sir Robert Pullar*. An oil portrait.
+- **1896:** *Sir Richard Quain, Bart., M.D.*. An oil portrait.
+- **1896:** *The Last Trek*. An intended African subject based on an illustration made for his son John Guille Millais; the projected oil painting remained unfinished or unrealized and therefore belongs more properly to Millais’s projects than to his completed paintings.
+
+### Watercolours
+
+- **c. 1860:** *The Leaven*. A watercolour design from Millais’s series on the parables.
+- **c. 1860:** *The Hidden Treasure*. A watercolour design from the parables series.
+- **c. 1860:** *The Pharisee and the Publican*. A watercolour design from the parables series.
+- **c. 1860:** *The Unmerciful Servant*. A watercolour design associated with the parables project.
+- **1862:** *The Wise Virgins*. A biblical watercolour.
+- **1862:** *The Foolish Virgins*. A companion biblical watercolour.
+- **1862:** *Study of a Roman Girl*. A watercolour figure study.
+- **1863:** *The Order of Release*. A watercolour manifestation of the earlier oil subject.
+- **1863:** *The Huguenot*. A watercolour manifestation of the earlier oil subject.
+- **1863:** *My First Sermon*. A watercolour manifestation of the oil composition.
+- **1864:** *My Second Sermon*. A watercolour manifestation of the oil composition.
+- **1864:** *Charlie Is My Darling*. A watercolour manifestation of the oil subject.
+- **1864:** *Swallow! Swallow!*. A watercolour manifestation of the literary subject.
+- **1864:** *The Evil One Sowing Tares*. A watercolour treatment of the parable.
+- **1866:** *Ophelia*. A watercolour manifestation of the famous oil composition.
+- **1866:** *The Minuet*. A watercolour figure composition.
+- **1866:** *The Huguenot*. A further watercolour version; the catalogue records more than one treatment, so the shared title must not be mistaken for a single object.
+- **1866:** *The Black Brunswicker*. A watercolour version of the oil composition.
+- **1866:** *Will He Come?*. A narrative watercolour.
+- **1868:** *Mr Fowler*. A watercolour portrait.
+- **1869:** *The Wife*. A watercolour or illustration design.
+- **1869:** *A Girl Serving*. A watercolour made as a book illustration.
+- **1869:** *Effie, Lady Millais*. A watercolour portrait.
+- **1869:** *Sister Anna’s Probation*. A watercolour illustration design.
+- **date not fixed:** *Miss Effie Millais*. A small family watercolour whose date is not securely fixed in the early checklist.
+- **date not fixed:** *A Shepherdess*. A watercolour figure subject.
+- **date not fixed:** *Two Figures on a Road*. A watercolour or illustration study.
+
+### Drawings, designs, and illustration projects
+
+- **1839:** *Scene in the Time of Charles II*. A childhood drawing; its survival complicates any division between juvenilia and professional obra.
+- **1839:** *Benjamites Seizing Their Brides*. A childhood biblical drawing.
+- **1839:** *Scene from Peveril of the Peak*. A childhood literary drawing.
+- **1839:** *Design for the Cover of a Book on Armour*. An early applied-graphic design, not a painting or a book authored by Millais.
+- **1840:** *The Lemprière Family*. A family-group drawing.
+- **1840:** *Narcissus Bookplate*. A graphic design intended to function as an ownership mark.
+- **1841:** *Wood Scene with Gipsy*. An early drawing.
+- **1847:** *D. G. Rossetti Drinking*. A highly finished study used in developing *Isabella*.
+- **1850:** *The Germ illustrations*. Designs made for the Pre-Raphaelite periodical; these are components of a collaborative publication rather than a book by Millais.
+- **1852:** *Mr Wray’s Cash-Box illustrations*. Designs for Wilkie Collins’s fiction.
+- **1853–56:** *L’Enfant du Régiment studies*. Three recorded original ideas for the painting; they resist treatment as one finished work and are best understood as a project-group.
+- **1853–56:** *Peace Concluded studies*. Three recorded compositional drawings for the painting.
+- **1853–56:** *Roswell*. A drawing of an Irish wolfhound.
+- **1853–56:** *Crusaders studies*. A group of preparatory drawings rather than a single fixed composition.
+- **1853–56:** *The Crusader’s Return*. A finished or substantially developed drawing.
+- **1853–56:** *Head of Ruth*. A figure study.
+- **1853–56:** *Study of a Young Girl Looking Away*. A figure study without a securely established independent title.
+- **1853–56:** *Study of a Child Slipping from Its Mother*. A figure study.
+- **1853–56:** *The Royalist studies*. Two first ideas for the painting.
+- **1853–56:** *The Order of Release studies*. Two first ideas for the painting.
+- **1856–57:** *Illustrations to Tennyson’s Poems*. Eighteen named designs—including treatments of “Mariana,” “Dora,” “Locksley Hall,” “St Agnes’ Eve,” “The Day-Dream,” and “The Lord of Burleigh”—made for Edward Moxon’s collaborative illustrated edition; each design was an obra, while the published book was a collective manifestation engraved by others.
+- **c. 1857–64:** *The Parables of Our Lord*. A cycle of designs issued through the Dalziel Brothers; the project crosses drawing, wood engraving, religious instruction, and book production without becoming a book authored by Millais.
+- **1860–61:** *Framley Parsonage illustrations*. Six published full-page designs for Anthony Trollope’s novel, with an additional watercolour or variant recorded for *The Crawley Family*.
+- **1861–62:** *Orley Farm illustrations*. Forty designs for Trollope’s novel; the drawings form a coherent illustration project, while the printed wood engravings are collaborative manifestations cut by the Dalziel Brothers.
+- **1862–64:** *The Small House at Allington illustrations*. Eighteen full-page illustrations and nineteen initial-letter designs for Trollope’s novel.
+- **1863–64:** *Rachel Ray illustration*. A single design used as a frontispiece in an illustrated edition of Trollope’s novel.
+- **1867–69:** *Phineas Finn illustrations*. Twenty designs for Trollope’s novel, translated into wood engravings by Joseph Swain.
+- **1882:** *Kept in the Dark frontispiece*. A design first published with Trollope’s serial and reused as the book’s pictorial frontispiece.
+- **1856–69:** *Periodical illustrations*. Numerous designs for *Once a Week*, *The Cornhill Magazine*, *Good Words*, *London Society*, *Punch*, and *The Illustrated London News*. John Guille Millais explicitly labels his own enumeration incomplete, and many originals were destroyed when their boxwood blocks were cut; consequently this body resists a truthful claim to item-by-item completeness.
+- **1850s–1890s:** *Preparatory drawings and sketchbooks*. Thousands of figure studies, compositional trials, landscape sketches, caricatures, and family drawings survive or are documented. They are made things, but neither the 1899 family checklist nor the later 1979 drawings exhibition claims to enumerate every sheet, and many lack fixed titles or dates.
+
+### Printmaking and translated manifestations
+
+- **date not securely fixed:** *The Parable of the Sower*. The sole etching listed in John Guille Millais’s medium-by-medium appendix; impressions are manifestations of the etched plate.
+- **1840s–1890s:** *Engravings after Millais*. The family catalogue separately lists prints made after his pictures. Except where Millais drew directly on a block or etched a plate himself, these are collaborative or derivative manifestations by engravers, not independent works wholly made by him.
+
+### Writing, collective projects, and works that resist a single-author category
+
+- **1848:** *The Pre-Raphaelite Brotherhood*. Millais co-founded the artistic brotherhood with William Holman Hunt, Dante Gabriel Rossetti, and others. It is a collective project and historical formation, not an individually authored object.
+- **1850:** *The Germ*. Millais participated in this collective Pre-Raphaelite periodical through images and organizational activity. The periodical as a whole is a collaborative manifestation rather than a book “by” Millais.
+- **1888:** *Thoughts on Our Art of To-day*. A published address or essay in which Millais intervened in contemporary artistic debate; it is discursive criticism rather than a manifesto in the strict sense.
+- **1893:** *The Royal Academy Banquet address*. A public presidential-era speech preserved through publication and reporting; its textual manifestations do not constitute a separately designed book.
+- **1896:** *Presidency of the Royal Academy*. An institutional office and short-lived program of action rather than an obra. It resists classification as a made object, although Millais’s acceptance of the presidency was an intentional professional project.
+
+### Sources
+
+- John Guille Millais, *The Life and Letters of Sir John Everett Millais*, 2 vols. (1899), vol. II, appendix, “Chronological List of Millais’ Work in Oil, Water, and Black-and-White,” followed by “Etching” and “Engraved Pictures.” The 1905 edition reproduces the checklist and explicitly states that the black-and-white list is incomplete: [Internet Archive full text](https://archive.org/stream/lifelettersofsir00mill/lifelettersofsir00mill_djvu.txt) and [volume record](https://archive.org/details/lifelettersofsir00mill).
+- Royal Academy of Arts, *Exhibition of Works by the Late Sir John Everett Millais, Bart., President of the Royal Academy* (1898), the principal memorial exhibition catalogue used to check exhibited titles and variants: [digitized catalogue](https://upload.wikimedia.org/wikipedia/commons/9/91/Exhibition_of_works_by_the_late_Sir_John_Everett_Millais%2C_Bart.%2C_President_of_the_Royal_Academy_-_Winter_exhibition%2C_twenty-ninth_year%2C_1898_%28IA_exhibitionofwor00roya%29.pdf).
+- Arts Council of Great Britain, *The Drawings of John Everett Millais* (1979), the standard exhibition catalogue for the drawings; bibliographic record and discussion are indexed in [Peattie’s Pre-Raphaelite bibliography](https://dai.mun.ca/PDFs/biblio/Peattie.pdf).
+- Paul Goldman, *Beyond Decoration: The Illustrations of John Everett Millais* (Pinner: Private Libraries Association, 2005), the specialist study and catalogue of Millais’s illustration work: [Google Books record](https://books.google.com/books?id=6jwWAQAAIAAJ).
+- Paul Goldman, “Millais’s Illustrations for Trollope,” including publication histories and counts for the principal series: [The Victorian Web](https://www.victorianweb.org/art/illustration/millais/cooke2.html).
+- “Illustrations by John Everett Millais,” including the eighteen Moxon Tennyson designs and indexed illustration cycles: [The Victorian Web](https://victorianweb.org/art/illustration/millais/index.html).
+- Leslie Stephen and Sidney Lee, eds., “Millais, Sir John Everett,” *Dictionary of National Biography*, 1901 supplement, which records eighty-seven Trollope drawings and Millais’s wider periodical work: [Wikisource](https://en.wikisource.org/wiki/Page:Dictionary_of_National_Biography._Sup._Vol_III_%281901%29.djvu/185).
+- *List of Paintings by John Everett Millais*, used only as a cross-check against the scholarly and exhibition catalogues, not as the originating catalogue; it openly describes itself as incomplete: [Wikipedia](https://en.wikipedia.org/wiki/List_of_paintings_by_John_Everett_Millais).

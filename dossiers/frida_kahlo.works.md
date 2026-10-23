@@ -1,0 +1,202 @@
+## Works by Frida Kahlo
+
+### Paintings
+
+- **1924:** *Tray with Poppies (Charola de amapolas).* Oil painting on a circular metal or wooden support; the support is described differently in published lists.
+- **1925:** *Still Life (Roses) (Naturaleza muerta [Rosas]).* Oil painting on canvas.
+- **1925:** *Urban Landscape (Paisaje urbano).* Oil painting on canvas.
+- **1926:** *Self-Portrait in a Velvet Dress (Autorretrato con traje de terciopelo).* Oil self-portrait on canvas.
+- **1927:** *Portrait of Adriana (Retrato de Adriana).* Oil portrait on canvas; earlier lists dated it 1924, while the 2021 catalogue dates it 1927.
+- **1927:** *Portrait of Jesús Ríos y Valles.* Portrait known through documentation and reported destroyed; its precise date and medium remain uncertain.
+- **1927:** *Portrait of Alicia Galant.* Oil portrait on canvas.
+- **1927:** *Portrait of Ruth Quintanilla.* Oil portrait on canvas; present whereabouts unknown.
+- **1927:** *Portrait of Agustín Olmedo.* Oil portrait on canvas.
+- **1927:** *La Adelita, Pancho Villa, and Frida.* Oil painting on canvas.
+- **1927:** *If Adelita… / The Peaked Caps (Si Adelita… / Los Cachuchas).* Oil group portrait on canvas.
+- **1927:** *Portrait of Miguel N. Lira.* Oil portrait on canvas incorporating symbolic objects and writing.
+- **1927–1928:** *Portrait of Tina Modotti.* Recorded portrait whose medium and whereabouts are unknown.
+- **1928:** *Portrait of Alejandro Gómez Arias.* Oil portrait on wood; unknown to the 1988 catalogue’s authors and authenticated after resurfacing.
+- **1928:** *Portrait of Cristina, My Sister.* Oil portrait on wood.
+- **1928:** *Sitting Girl with Duck.* Oil painting on canvas.
+- **1928:** *Two Women (Salvadora and Herminia).* Oil double portrait on canvas.
+- **1928:** *Hucha and Black Horse (Hucha y caballo negro).* Recorded painting whose medium, dimensions, and whereabouts are uncertain.
+- **1929:** *Portrait of Miriam Penansky.* Oil portrait on canvas, dated August; it was unknown to the 1988 catalogue’s authors and accepted after resurfacing.
+- **1929:** *Portrait of Isolda Pinedo Kahlo.* Oil portrait on canvas.
+- **1929:** *Portrait of Lupe Marín.* Oil portrait on canvas.
+- **1929:** *Portrait of a Girl.* Oil portrait on canvas.
+- **1929:** *Portrait of a Girl with a Ribbon Around Her Waist.* Oil portrait on canvas; its whereabouts are unknown.
+- **1929:** *Indian Woman Nude.* Oil painting on canvas; present location unknown.
+- **1929:** *Girl with Necklace / Portrait of a Girl with Necklace.* Oil portrait on canvas, formerly considered lost.
+- **1929:** *Self-Portrait—Time Flies (Autorretrato—El tiempo vuela).* Oil self-portrait on masonite.
+- **1929:** *The Bus (El camión).* Oil painting on canvas.
+- **c. 1929:** *Portrait of a Woman in a Polka-Dot Dress.* Painting unknown to the compilers of the 1988 catalogue and subsequently identified; dating remains approximate.
+- **1929–1930:** *Portrait of a Woman in White.* Oil portrait on canvas; catalogues have differed over the sitter’s identity and exact date.
+- **1930:** *Self-Portrait.* Oil self-portrait on canvas.
+- **1931:** *Display Window in a Street in Detroit.* Oil painting on metal.
+- **1931:** *Frieda and Diego Rivera.* Oil double portrait on canvas; Kahlo used the spelling “Frieda” in its inscription.
+- **1931:** *Portrait of Dr. Leo Eloesser.* Oil portrait on masonite.
+- **1931:** *Portrait of Eva Frederick.* Oil portrait on canvas.
+- **1931:** *Portrait of Mrs. Jean Wight.* Oil portrait on canvas.
+- **1932:** *Frida and the Cesarean Operation.* Unfinished oil painting on canvas; its visibly incomplete state makes the project, rather than a polished final object, central to the obra.
+- **1932:** *Henry Ford Hospital.* Oil painting on metal in the format of a retablo.
+- **1932:** *My Birth.* Oil painting on metal.
+- **1932:** *Portrait of Luther Burbank.* Oil portrait on masonite that transforms the sitter into a hybrid human-and-plant figure.
+- **1932:** *Self-Portrait on the Border Between Mexico and the United States.* Oil self-portrait on metal.
+- **1933:** *My Dress Hangs There.* Oil-and-collage painting on masonite; its combination of painted field and pasted material approaches a small Gesamtkunstwerk.
+- **1933:** *Self-Portrait.* Fresco transferred or mounted onto metal.
+- **1933:** *Self-Portrait—Very Ugly.* Fresco self-portrait mounted on masonite.
+- **1933:** *Self-Portrait with Necklace.* Oil self-portrait on metal.
+- **c. 1933:** *New York.* Oil painting on canvas; the title is descriptive and the dating approximate.
+- **1935:** *A Few Small Nips (Unos cuantos piquetitos).* Oil painting on metal with an integral painted wooden frame.
+- **1935:** *Self-Portrait with Curly Hair.* Small oil self-portrait on tin.
+- **1936:** *My Grandparents, My Parents, and I.* Oil-and-tempera genealogical self-portrait on zinc.
+- **1937:** *Portrait of Alberto Misrachi.* Oil portrait on metal.
+- **1937:** *The Deceased Dimas.* Oil painting on masonite in the Mexican post-mortem portrait tradition.
+- **1937:** *My Nurse and I.* Oil painting on metal.
+- **1937:** *Fulang-Chang and I.* Oil self-portrait on masonite; Kahlo later paired it with a mirror, making the displayed ensemble more than a single painted panel.
+- **1937:** *Me and My Doll.* Oil self-portrait on sheet metal.
+- **1937:** *Memory, the Heart (Recuerdo).* Oil painting on metal.
+- **1937:** *Portrait of Diego Rivera.* Oil portrait on wood.
+- **1937:** *Self-Portrait Dedicated to Leon Trotsky.* Oil self-portrait on masonite presented as a personal dedication.
+- **1937:** *Cactus Fruits (Tunas).* Oil still life on metal.
+- **1937:** *I Belong to My Owner.* Recorded oil painting on canvas whose present whereabouts are unknown.
+- **c. 1938:** *The Eye.* Recorded painting with no secure original title, medium, or exact date; the name is descriptive rather than demonstrably Kahlo’s.
+- **c. 1938:** *The Survivor (Superviviente).* Small painting of uncertain medium and approximate date.
+- **1938:** *Four Inhabitants of Mexico City.* Oil painting on metal; some sources instead describe its support as canvas.
+- **1938:** *Fruits of the Earth.* Oil still life on masonite.
+- **1938:** *Girl with Death Mask (She Plays Alone).* Oil painting on metal.
+- **1938:** *Girl with Death Mask II.* A separately recorded version whose medium and whereabouts remain unknown.
+- **1938:** *Itzcuintli Dog with Me.* Oil self-portrait on canvas.
+- **1938:** *Pitahayas.* Oil still life on metal.
+- **1938:** *Remembrance of an Open Wound.* Oil painting destroyed by fire and now known through documentation.
+- **1938:** *Self-Portrait.* Miniature oil self-portrait on panel, unknown to the 1988 catalogue’s authors when that catalogue appeared.
+- **1938:** *Self-Portrait with Monkey.* Oil self-portrait on masonite.
+- **1938:** *Self-Portrait with Monkey.* A second, distinct composition bearing the same conventional English title.
+- **1938:** *The Frame.* Oil self-portrait painted on aluminum and set behind a reverse-painted glass frame; the composite object resists separation into painting and frame.
+- **1938:** *The Suicide of Dorothy Hale.* Oil painting on masonite, commissioned as a memorial but conceived in the narrative form of an ex-voto.
+- **1938:** *They Asked for Planes and Were Given Straw Wings.* Oil painting on metal; its present location is unknown.
+- **1938:** *What the Water Gave Me.* Oil painting on canvas.
+- **1938:** *When I Have You, Life, How Much I Love You.* Reported oil painting on panel; its attribution to Kahlo is disputed.
+- **1938:** *Xochitl, Flower of Life.* Oil painting on metal.
+- **1939:** *The Two Fridas.* Large oil double self-portrait on canvas.
+- **1939:** *Two Nudes in a Forest (The Earth Itself).* Oil painting on metal.
+- **1940:** *Self-Portrait Dedicated to Dr. Eloesser.* Oil self-portrait on masonite.
+- **1940:** *Self-Portrait Dedicated to Sigmund Firestone.* Oil self-portrait on masonite.
+- **1940:** *Self-Portrait with Cropped Hair.* Oil self-portrait on canvas.
+- **1940:** *Self-Portrait with Monkey.* Oil self-portrait on masonite, distinct from Kahlo’s other works conventionally given this title.
+- **1940:** *Self-Portrait with Thorn Necklace and Hummingbird.* Oil self-portrait on canvas.
+- **1940:** *The Dream (The Bed).* Oil painting on canvas.
+- **1940:** *The Wounded Table.* Monumental oil painting on wood, lost after exhibition in Europe; its survival and present location remain disputed.
+- **1940:** *Retablo.* Oil painting on metal.
+- **1941:** *Flower Basket.* Oil painting on a circular copper support.
+- **1941:** *Me and My Parrots.* Oil self-portrait on canvas.
+- **1941:** *Portrait of Arija Muray.* Oil portrait on masonite.
+- **1941:** *Self-Portrait (MCMXLI) / Self-Portrait in Red and Gold Dress.* Oil self-portrait on canvas.
+- **1941:** *Self-Portrait with Bonito.* Oil self-portrait on canvas, formerly catalogued as lost.
+- **1941:** *Self-Portrait with Braid.* Oil self-portrait on masonite.
+- **1942:** *Portrait of Lucha María, a Girl from Tehuacán.* Oil portrait on masonite.
+- **1942:** *Portrait of Marucha Lavín.* Oil portrait on copper.
+- **1942:** *Self-Portrait with Monkey and Parrot.* Oil self-portrait on masonite.
+- **1942:** *Still Life (Round) (Naturaleza muerta [Tondo]).* Oil still life on a circular copper plate.
+- **1943:** *Diego in My Thoughts / Thinking of Diego / Self-Portrait as a Tehuana.* Oil self-portrait on masonite; its several established titles describe the same object.
+- **1943:** *Flower of Life.* Oil painting on masonite.
+- **1943:** *How Beautiful Life Is When It Gives Us Its Riches.* Reported painting of unknown medium and location; its authenticity is disputed.
+- **1943:** *Portrait of Natasha Gelman.* Oil portrait on canvas.
+- **1943:** *Roots (El Pedregal).* Oil painting on metal.
+- **1943:** *Self-Portrait with Monkeys.* Oil self-portrait on canvas.
+- **1943:** *The Bride Frightened at Seeing Life Opened.* Oil still life on canvas.
+- **1943:** *Thinking About Death.* Oil self-portrait on canvas mounted on masonite.
+- **1944:** *Diego and Frida 1929–1944.* Small oil double portrait on masonite.
+- **1944:** *Frida and Diego / Diego and Frida 1929–1944 II.* A second small oil double portrait on masonite; some cataloguing treats the paired miniatures as a closely related project.
+- **1944:** *Portrait of Alicia and Eduardo Safa.* Oil double portrait on canvas.
+- **1944:** *Portrait of Doña Rosita Morillo.* Oil portrait on canvas mounted on masonite.
+- **1944:** *Portrait of Lupita Morillo Safa.* Oil portrait on masonite.
+- **1944:** *Portrait of Mariana Morillo Safa.* Oil portrait on canvas.
+- **1944:** *Portrait of Engineer Eduardo Morillo Safa.* Oil portrait on masonite.
+- **1944:** *Portrait of Marte R. Gómez.* Oil portrait on masonite.
+- **1944:** *Portrait of Marte R. Gómez.* A second oil portrait or variant on masonite, separately numbered in the 2021 catalogue.
+- **1944:** *The Broken Column.* Oil self-portrait on masonite.
+- **1945:** *Magnolias.* Oil still life on masonite, reportedly completed with assistance from an unidentified student; the extent of shared workmanship is uncertain.
+- **1945:** *Self-Portrait with Small Monkey.* Oil self-portrait on masonite.
+- **1945:** *Self-Portrait with Monkey.* Oil self-portrait on masonite, distinct from similarly titled compositions of 1938 and 1940.
+- **1945:** *The Chick.* Small painting whose title is sometimes rendered *The Little Chick*.
+- **1945:** *Without Hope.* Oil painting on canvas mounted on masonite.
+- **1945:** *Moses / Nucleus of Creation.* Oil painting on masonite conceived as a densely populated historical and cosmological panorama.
+- **1946:** *Landscape.* Oil painting on masonite.
+- **1946:** *Tree of Hope, Remain Strong.* Oil double self-portrait on masonite.
+- **1946:** *The Wounded Deer / The Little Deer.* Oil painting on masonite.
+- **1947:** *Sun and Life.* Oil painting on masonite.
+- **1948:** *Self-Portrait.* Oil self-portrait on masonite, usually identified by its lace headdress.
+- **1949:** *Diego and I.* Oil self-portrait on canvas mounted on masonite.
+- **1949:** *The Love Embrace of the Universe, the Earth (Mexico), Myself, Diego, and Señor Xólotl.* Oil painting on canvas.
+- **1950:** *Portrait of Frida’s Family.* Unfinished oil genealogical portrait on masonite; blank and only partially realized figures preserve the work explicitly as a project.
+- **1951:** *Coconuts.* Oil still life on masonite.
+- **1951:** *Portrait of Marta Patricia Procel.* Oil-and-pencil portrait on masonite; some sources date or describe it differently.
+- **1951:** *Portrait of My Father, Wilhelm Kahlo.* Oil portrait on masonite derived partly from a photograph.
+- **1951:** *Self-Portrait with the Portrait of Dr. Farill.* Oil self-portrait on masonite.
+- **1951:** *Still Life Dedicated to Samuel Fastlicht.* Oil still life on canvas.
+- **1951:** *Still Life with Parrot and Flag.* Oil still life on masonite.
+- **1951:** *Still Life with Parrot and Fruit.* Oil still life on canvas.
+- **1951:** *The Circle.* Fragmentary oil painting on metal; it resists classification as a completed composition and may be a surviving portion of a larger object.
+- **1951:** *Weeping Coconuts.* Oil still life on masonite.
+- **1952:** *Congress of the Peoples for Peace.* Oil-and-tempera political painting on masonite, formerly recorded as lost before resurfacing.
+- **1952:** *Living Nature.* Oil still life on canvas.
+- **1952:** *Self-Portrait.* Unfinished oil-and-charcoal painting on canvas; its project-state is part of the surviving object.
+- **1952:** *Still Life Dedicated to Samuel Fastlicht.* Oil still life on canvas mounted on wood, distinct from the 1951 work with the same dedication.
+- **1953:** *Fruit of Life.* Oil still life on masonite.
+- **1953:** *Still Life with Watermelons.* Oil still life on compressed wood.
+- **1954:** *Brick Kilns.* Oil landscape on masonite.
+- **1954:** *Frida in Flames / Self-Portrait Inside a Sunflower.* Oil painting on canvas mounted on wood; catalogues use variant titles.
+- **1954:** *Marxism Will Give Health to the Sick.* Oil political self-portrait on masonite, combining personal healing imagery with manifesto-like political assertion.
+- **1954:** *Portrait of Stalin.* Unfinished oil-and-pencil portrait on masonite.
+- **1954:** *Self-Portrait in a Landscape with the Sun Going Down.* Painting destroyed by Kahlo; the destroyed object is known only through documentation.
+- **1954:** *Self-Portrait with a Portrait of Diego on the Breast and María Between the Eyebrows.* Oil self-portrait on masonite.
+- **1954:** *Self-Portrait with Stalin.* Oil political self-portrait on masonite.
+- **1954:** *Still Life with Flag.* Oil still life on masonite.
+- **1954:** *Viva la Vida and Dr. Juan Farill.* Oil painting on masonite.
+- **1954:** *Viva la Vida (Long Live Life).* Oil still life on masonite. Although frequently called Kahlo’s final painting, the underlying work may predate its 1954 inscription, so “last painting” is not a secure description.
+
+### Graphic works and prints
+
+- **1920s–1954:** *Drawings, studies, watercolors, and sketches catalogued in Frida Kahlo: Das Gesamtwerk.* The 1988 catalogue raisonné records 271 works altogether, including 146 paintings and approximately 125 works in other graphic media; this dispersed corpus cannot safely be converted into separately titled works because many sheets have only later descriptive titles.
+- **1930:** *Self-Portrait.* Lithograph; an original print made from Kahlo’s design rather than a reproduction of a painting.
+- **1932:** *Henry Ford Hospital: preparatory drawing.* Pencil study for the painting; it records the project’s development rather than functioning as a replica.
+- **1932:** *Self-Portrait on the Border Between Mexico and the United States: preparatory drawing.* Study connected with the finished painting.
+- **1937:** *Self-Portrait drawing.* Work on paper documented in the 1967 exhibition *Frida Kahlo, acompañada de siete pintoras*.
+- **1944:** *The Broken Column: preparatory drawing.* Study associated with the oil painting.
+- **1946:** *The Wounded Deer: preparatory drawing.* Study associated with the finished painting.
+- **Undated:** *Exquisite-corpse sketch, possibly for Anahuacalli.* Drawing attributed only tentatively to Kahlo; the archive that holds it explicitly marks the authorship uncertain.
+- **Undated:** *Untitled and descriptively titled drawings in the Frida Kahlo papers.* Several sheets are not authoritatively attributed to Kahlo, so they resist entry as secure works by her.
+
+### Illustrated diary
+
+- **1944–1954:** *The Diary of Frida Kahlo.* A private manuscript book combining writing, automatic writing, poems, lists, watercolor, ink, drawings, color experiments, and inscriptions. It is a Gesamtkunstwerk rather than merely a literary text, and posthumous printed editions are reproductions of this singular object, not separate works.
+- **1953:** *Señor Coyote.* Ink-and-watercolor diary page later exhibited separately; materially it remains a leaf within the larger diary rather than an autonomous work in an uncomplicated sense.
+
+### Correspondence and occasional writings
+
+- **1922–1954:** *Correspondence.* Hundreds of manuscript and typescript letters, postcards, notes, receipts, and illustrated messages survive in multiple archives and published selections. They form a dispersed textual-and-visual obra rather than a book Kahlo designed, and published “letters of Frida Kahlo” are editorial collections, not works issued by her.
+- **1930–1954:** *Letters in the Nelleke Nix and Marianne Huber Collection.* An archival corpus of correspondence to family, friends, artists, doctors, dealers, and associates; some items include drawings, making any strict division between text and graphic work artificial.
+- **1939:** *Contribution to the catalogue Mexique.* A short autobiographical or artistic statement associated with the Paris exhibition; it functions as an exhibition text rather than an independent book.
+- **1940:** *Statement concerning Surrealism and her painting.* An occasional text preserved through interviews and exhibition documentation; its various printed forms are mediated records, not a securely established standalone manifesto.
+- **1950:** *Interview inventory of paintings.* An oral account naming works Kahlo remembered having made. It is evidence for her oeuvre rather than an artwork, and it survives through another person’s record of the conversation.
+
+### Painted garments, supports, and bodily objects
+
+- **c. 1940s–1954:** *Painted plaster corsets.* Medical supports transformed with painted political, anatomical, and symbolic imagery. They resist being called either paintings or clothing: each is simultaneously orthopedic apparatus, altered body-shell, and obra.
+- **c. 1940s:** *Corset painted with hammer-and-sickle and fetus imagery.* A painted medical apparatus in which political emblem, reproductive imagery, and bodily support form one object.
+- **c. 1940s:** *Corset painted with a broken column.* A painted orthopedic support closely related to Kahlo’s bodily iconography; its objecthood cannot be reduced to a preparatory study for the painting.
+- **1953:** *Prosthetic leg with red boot.* A medical prosthesis customized with an embroidered red boot, Chinese-style decoration, and bell. Authorship is collaborative at the level of fabrication, but Kahlo’s transformation and use of it make it a self-fashioned bodily object rather than a conventional sculpture.
+- **Various dates:** *Painted and inscribed frames.* Kahlo frequently treated frames as active parts of paintings, sometimes painting or selecting vernacular frames herself; where frame and image survive as a unit, separating “work” from “surround” misdescribes the made thing.
+
+### Sources
+
+- Helga Prignitz-Poda, Salomón Grimberg, and Andrea Kettenmann, *Frida Kahlo: Das Gesamtwerk* (Frankfurt am Main: Verlag Neue Kritik, 1988), the catalogue raisonné documenting 271 works. Bibliographic record: [INIST/BHA](https://bha-test.inist.fr/vibad/index.php?action=getRecordDetail&idt=oba_0357890&lang=en).
+- Luis-Martín Lozano, with Andrea Kettenmann and Marina Vázquez Ramos, *Frida Kahlo: The Complete Paintings* (Cologne: TASCHEN, 2021), catalogue of 152 documented paintings, including lost works known from photographs. Publisher description: [TASCHEN](https://www.taschen.com/en/books/art/01189/frida-kahlo-the-complete-paintings/).
+- Salomón Grimberg, “Two Frida Kahlo Portraits,” documenting the scope of the 1988 catalogue, subsequently recovered paintings, and works unknown when it appeared: [International Foundation for Art Research PDF](https://static1.squarespace.com/static/532886d8e4b0eeecbb69ce2c/t/53481069e4b0bf294b4c6a92/1397231721590/%E2%80%9CKahlo%2BArticle%2Brev%2Bv14no3%2B%281%29.pdf%E2%80%9D.pdf).
+- Salomón Grimberg, “Frida Kahlo’s Still Lifes: ‘I Paint Flowers So They Will Not Die,’” *Woman’s Art Journal* 25, no. 2 (2004): 25–30: [JSTOR](https://www.jstor.org/stable/3566514).
+- National Museum of Women in the Arts, *Frida Kahlo Papers, 1907–1954: Collection and Series Description*, including item-level correspondence and drawings with explicit attribution cautions: [finding aid PDF](https://nmwa.org/wp-content/uploads/2020/01/4.3.4.2-frida_kahlo_papers_1907-1954.pdf).
+- *List of paintings by Frida Kahlo*, used only as a cross-check for dates, media, locations, destroyed works, and the two disputed paintings—not as the governing catalogue: [English table](https://en.wikipedia.org/wiki/List_of_paintings_by_Frida_Kahlo).
+- *Список картин Фриды Кало*, a table keyed to the numbering of the 2021 Lozano–Kettenmann–Vázquez Ramos catalogue, used to cross-check catalogue sequence and variant datings: [Russian table](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%A4%D1%80%D0%B8%D0%B4%D1%8B_%D0%9A%D0%B0%D0%BB%D0%BE).
+- Banco de México, Diego Rivera and Frida Kahlo Museums Trust, and Museo Frida Kahlo, institutional collection information concerning paintings, the diary, corsets, clothing, and prosthesis: [Museo Frida Kahlo](https://www.museofridakahlo.org.mx/).
+

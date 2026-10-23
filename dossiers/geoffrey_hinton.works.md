@@ -1,0 +1,337 @@
+## Works by Geoffrey Everest Hinton
+
+### Dissertation
+
+- **1978:** *Relaxation and Its Role in Vision*. Doctoral thesis submitted to the University of Edinburgh; the earliest book-length research text in Hinton’s official bibliography.
+
+### Books and edited collections
+
+- **1981:** *Parallel Models of Associative Memory*. Co-edited scholarly book with James A. Anderson; it gathers connectionist models rather than constituting a single-authored monograph.
+- **1990:** *Connectionist Models: Proceedings of the 1990 Connectionist Summer School*. Co-edited proceedings volume with David Touretzky, Jeffrey Elman, and Terrence Sejnowski.
+- **1999:** *Unsupervised Learning: Foundations of Neural Computation*. Co-edited research anthology with Terrence Sejnowski.
+
+### Scientific papers, chapters, reports, and preprints
+
+- **1976:** *Using Relaxation to Find a Puppet*. Conference paper and the earliest item in Hinton’s official publication list.
+- **1978:** *Representation and Control in Vision*. Co-authored conference paper.
+- **1978:** *Respectively Reconsidered*. Article published in *Pragmatics Microfiche*; its microfiche manifestation makes it unlike a conventional journal paper.
+- **1979:** *Some Demonstrations of the Effects of Structural Descriptions in Mental Imagery*. Single-authored journal article.
+- **1979:** *Imagery without Arrays*. Brief journal commentary rather than a full experimental paper.
+- **1981:** *The Role of Spatial Working Memory in Shape Perception*. Conference paper.
+- **1981:** *Models of Information Processing in the Brain*. Co-authored chapter in *Parallel Models of Associative Memory*.
+- **1981:** *Implementing Semantic Networks in Parallel Hardware*. Book chapter.
+- **1981:** *A Parallel Computation That Assigns Canonical Object-Based Frames of Reference*. Conference paper.
+- **1981:** *Frames of Reference and Mental Imagery*. Co-authored book chapter.
+- **1981:** *Shape Representation in Parallel Systems*. Conference paper.
+- **1983:** *Parallel Visual Computation*. Co-authored review article in *Nature*.
+- **1983:** *Optimal Perceptual Inference*. Co-authored conference paper.
+- **1983:** *Massively Parallel Architectures for A.I.: NETL, Thistle, and Boltzmann Machines*. Co-authored conference paper comparing three computational architectures.
+- **1983:** *Analyzing Cooperative Computation*. Co-authored conference paper.
+- **1984:** *Parallel Computations for Controlling an Arm*. Journal article on computational motor control.
+- **1984:** *Boltzmann Machines: Constraint Satisfaction Networks That Learn*. Co-authored Carnegie Mellon technical report; it is a report manifestation of the Boltzmann-machine project, not a commercial book.
+- **1984:** *Why the Islands Move*. Co-authored journal article on visual perception.
+- **1984:** *Evaluating the Interface of a Document Processor: A Comparison of Expert Judgement and User Observation*. Co-authored human-computer-interaction conference paper.
+- **1984:** *Some Computational Solutions to Bernstein’s Problems*. Book chapter on motor control.
+- **1985:** *A Learning Algorithm for Boltzmann Machines*. Co-authored journal paper establishing the learning procedure associated with Boltzmann machines.
+- **1985:** *Symbols among the Neurons: Details of a Connectionist Inference Architecture*. Co-authored conference paper.
+- **1985:** *Shape Recognition and Illusory Conjunctions*. Co-authored conference paper.
+- **1985:** *Learning in Parallel Networks*. Expository magazine article in *Byte*.
+- **1985:** *Solving Random-Dot Stereograms Using the Heat Equation*. Co-authored conference paper.
+- **1986:** *Learning Representations by Back-Propagating Errors*. Co-authored *Nature* paper; a short scientific article, not the invention of backpropagation itself.
+- **1986:** *Separating Figure from Ground with a Parallel Network*. Co-authored journal article.
+- **1986:** *Learning Symmetry Groups with Hidden Units: Beyond the Perceptron*. Co-authored journal article.
+- **1986:** *Learning Distributed Representations of Concepts*. Conference paper, subsequently reprinted as a book chapter.
+- **1986:** *Experiments on Learning by Back-Propagation*. Co-authored Carnegie Mellon technical report.
+- **1986:** *The Appeal of Parallel Distributed Processing*. Co-authored introductory chapter in *Parallel Distributed Processing*; Hinton’s official bibliography appears to print “appeal of for,” a catalogue-level error not reproduced here.
+- **1986:** *A General Framework for Parallel Distributed Processing*. Co-authored book chapter.
+- **1986:** *Distributed Representations*. Co-authored book chapter.
+- **1986:** *Learning and Relearning in Boltzmann Machines*. Co-authored book chapter describing a learning protocol.
+- **1986:** *Learning Internal Representations by Error Propagation*. Co-authored book chapter and a fuller manifestation of the backpropagation research associated with the shorter *Nature* paper.
+- **1986:** *Parallel Distributed Models of Schemata and Sequential Thought Processes*. Co-authored book chapter.
+- **1986:** *G-Maximization: An Unsupervised Learning Procedure for Discovering Regularities*. Co-authored conference paper.
+- **1987:** *Connectionist Architectures for Artificial Intelligence*. Co-authored review article.
+- **1987:** *Learning Translation-Invariant Recognition in a Massively Parallel Network*. Conference paper.
+- **1987:** *The Horizontal-Vertical Delusion*. Short journal article on perception.
+- **1987:** *Using Fast Weights to Deblur Old Memories*. Co-authored conference paper.
+- **1987:** *How Learning Can Guide Evolution*. Co-authored journal paper. Hinton’s bibliography records that a conference version was rejected despite favorable referees; the published article is therefore the surviving work, while the rejected submission is an earlier manifestation.
+- **1987:** *Learning Sets of Filters Using Back-Propagation*. Co-authored journal article.
+- **1987:** *Separating Figure from Ground Using a Boltzmann Machine*. Co-authored book chapter.
+- **1988:** *A Distributed Connectionist Production System*. Co-authored journal article.
+- **1988:** *Scene-Based and Viewer-Centered Representations for Comparing Shapes*. Co-authored journal article.
+- **1988:** *Learning Representations by Recirculation*. Co-authored conference paper proposing a learning procedure.
+- **1988:** *Representing Part-Whole Hierarchies in Connectionist Networks*. Conference paper.
+- **1989:** *Deterministic Boltzmann Learning Performs Steepest Descent in Weight-Space*. Single-authored journal article.
+- **1989:** *Phoneme Recognition Using Time-Delay Neural Networks*. Co-authored journal article.
+- **1989:** *GEMINI: Gradient Estimation by Matrix Inversion after Noise Injection*. Co-authored conference paper.
+- **1989:** *Connectionist Learning Procedures*. Major single-authored review article.
+- **1990:** *Mean Field Networks That Learn to Discriminate Temporally Distorted Strings*. Co-authored proceedings paper.
+- **1990:** *TRAFFIC: Recognizing Objects Using Hierarchical Reference-Frame Transformations*. Co-authored conference paper.
+- **1990:** *Discovering Higher-Order Features with Mean Field Networks*. Co-authored conference paper.
+- **1990:** *Dimensionality Reduction and Prior Knowledge in E-Set Recognition*. Co-authored conference paper.
+- **1990:** *Deterministic Boltzmann Learning in Networks with Asymmetric Connectivity*. Co-authored proceedings paper.
+- **1990:** *Preface to the Special Issue on Connectionist Symbol Processing*. Editorial preface, not an ordinary research article.
+- **1990:** *A Time-Delay Neural Network Architecture for Isolated Word Recognition*. Co-authored journal article.
+- **1990:** *Mapping Part-Whole Hierarchies into Connectionist Networks*. Single-authored journal article.
+- **1990:** *An Unsupervised Learning Procedure That Discovers Surfaces in Random-Dot Stereograms*. Co-authored conference paper.
+- **1990:** *The Bootstrap Widrow-Hoff Rule as a Cluster-Formation Algorithm*. Co-authored journal article.
+- **1991:** *Adaptive Mixtures of Local Experts*. Co-authored journal paper introducing a trainable mixture-of-experts architecture.
+- **1991:** *Evaluation of Adaptive Mixtures of Competing Experts*. Co-authored conference paper.
+- **1991:** *Discovering Viewpoint-Invariant Relationships That Characterize Objects*. Co-authored conference paper.
+- **1991:** *Lesioning an Attractor Network: Investigations of Acquired Dyslexia*. Co-authored cognitive-modeling article.
+- **1992:** *Glove-Talk: A Neural Network Interface between a Data-Glove and a Speech Synthesizer*. Co-authored journal paper describing both a computational model and a working gestural-speech interface.
+- **1992:** *Combining Two Methods of Recognizing Hand-Printed Digits*. Co-authored conference paper.
+- **1992:** *Adaptive Elastic Models for Character Recognition*. Co-authored conference paper.
+- **1992:** *Simplifying Neural Networks by Soft Weight Sharing*. Co-authored journal article.
+- **1992:** *A Self-Organizing Neural Network That Discovers Surfaces in Random-Dot Stereograms*. Co-authored *Nature* article and journal manifestation of the stereogram project.
+- **1992:** *How Neural Networks Learn from Experience*. Single-authored popular-science article in *Scientific American*.
+- **1993:** *Hand-Printed Digit Recognition Using Deformable Models*. Co-authored book chapter.
+- **1993:** *Using Mixtures of Deformable Models to Capture Variations in the Shapes of Hand-Printed Digits*. Co-authored conference paper.
+- **1993:** *Keeping Neural Networks Simple by Minimizing the Description Length of the Weights*. Co-authored conference paper.
+- **1993:** *Simulating Brain Damage*. Co-authored popular-science article.
+- **1993:** *Learning Mixture Models of Spatial Coherence*. Co-authored journal article.
+- **1993:** *A Soft Decision-Directed LMS Algorithm for Blind Equalization*. Co-authored engineering journal article.
+- **1993:** *Feudal Reinforcement Learning*. Co-authored conference paper proposing a hierarchical reinforcement-learning protocol.
+- **1994:** *Autoencoders, Minimum Description Length, and Helmholtz Free Energy*. Co-authored conference paper.
+- **1994:** *Developing Population Codes by Minimizing Description Length*. Co-authored conference paper.
+- **1994:** *A Modified Gating Network for the Mixtures of Experts Architecture*. Co-authored conference paper.
+- **1995:** *Recognizing Handwritten Digits Using Mixtures of Linear Models*. Co-authored conference paper.
+- **1995:** *Using a Neural Net to Instantiate a Deformable Model*. Co-authored conference paper; a later journal manifestation appeared in 1997.
+- **1995:** *An Alternative Model for Mixtures of Experts*. Co-authored conference paper.
+- **1995:** *GloveTalkII: Mapping Hand Gestures to Speech Using Neural Networks*. Co-authored conference paper describing the second Glove-Talk system.
+- **1995:** *Learning Population Codes by Minimizing Description Length*. Co-authored journal article.
+- **1995:** *The Wake-Sleep Algorithm for Unsupervised Neural Networks*. Co-authored *Science* paper presenting a learning protocol.
+- **1995:** *The Helmholtz Machine*. Co-authored journal paper describing a generative neural architecture.
+- **1995:** *The Helmholtz Machine through Time*. Co-authored conference paper extending that architecture to temporal data.
+- **1995:** *Using Neural Networks to Monitor for Rare Failures*. Co-authored industrial conference paper.
+- **1996:** *Does the Wake-Sleep Algorithm Learn Good Density Estimators?* Co-authored conference paper.
+- **1996:** *A Simple Algorithm That Discovers Efficient Perceptual Codes*. Co-authored book chapter.
+- **1996:** *Varieties of Helmholtz Machines*. Co-authored journal article.
+- **1996:** *Using Pairs of Data-Points to Define Splits for Decision Trees*. Co-authored conference paper.
+- **1996:** *The EM Algorithm for Mixtures of Factor Analyzers*. Co-authored University of Toronto technical report.
+- **1996:** *Parameter Estimation for Linear Dynamical Systems*. Co-authored University of Toronto technical report.
+- **1996:** *Free Energy Coding*. Co-authored conference paper.
+- **1996:** *Using Generative Models for Handwritten Digit Recognition*. Co-authored journal article.
+- **1997:** *A Hierarchical Community of Experts*. Co-authored book chapter.
+- **1997:** *Instantiating Deformable Models with a Neural Net*. Co-authored journal article developed from the 1995 conference paper.
+- **1997:** *Modeling the Manifolds of Images of Handwritten Digits*. Co-authored journal article.
+- **1997:** *Using Mixtures of Factor Analyzers for Segmentation and Pose Estimation*. Co-authored technical paper; Hinton’s bibliography gives no journal or proceedings venue.
+- **1997:** *Generative Models for Discovering Sparse Distributed Representations*. Co-authored journal article.
+- **1997:** *Minimizing Description Length in an Unsupervised Neural Network*. Co-authored technical paper; Hinton’s bibliography does not specify its venue.
+- **1997:** *Using EM for Reinforcement Learning*. Co-authored journal article.
+- **1997:** *A Mobile Robot That Learns Its Place*. Co-authored journal article describing an embodied learning system as well as its algorithm.
+- **1997:** *Efficient Stochastic Source Coding and an Application to a Bayesian Network Source Model*. Co-authored journal article.
+- **1997:** *GTM through Time*. Co-authored conference paper.
+- **1998:** *A View of the EM Algorithm That Justifies Incremental, Sparse, and Other Variants*. Co-authored book chapter.
+- **1998:** *Cascaded Redundancy Reduction*. Co-authored journal article.
+- **1998:** *Coaching Variables for Regression and Classification*. Co-authored journal article.
+- **1998:** *A Comparison of Statistical Learning Methods on the GUSTO Database*. Co-authored applied-medical statistics article.
+- **1998:** *Hierarchical Nonlinear Factor Analysis and Topographic Maps*. Co-authored conference paper.
+- **1998:** *NeuroAnimator: Fast Neural Network Emulation and Control of Physics-Based Models*. Co-authored SIGGRAPH paper describing a software-animation system.
+- **1998:** *Glove-TalkII: A Neural Network Interface Which Maps Gestures to Parallel Formant Speech Synthesizer Controls*. Co-authored journal article and fuller manifestation of the GloveTalkII project.
+- **1999:** *Supervised Learning in Multilayer Neural Networks*. Encyclopedia article.
+- **1999:** *Training Products of Experts by Maximizing Contrastive Likelihood*. Technical report; Hinton’s bibliography directs readers to a revised 2000 report.
+- **1999:** *Products of Experts*. Conference paper introducing a model family.
+- **1999:** *Scaling in a Hierarchical Unsupervised Network*. Co-authored conference paper.
+- **1999:** *Variational Learning in Nonlinear Gaussian Belief Networks*. Co-authored journal article.
+- **2000:** *Training Products of Experts by Minimizing Contrastive Divergence*. Technical report replacing the 1999 “contrastive likelihood” version; a journal manifestation followed in 2002.
+- **2000:** *Extracting Distributed Representations of Concepts and Relations from Positive and Negative Propositions*. Co-authored conference paper.
+- **2000:** *Modelling High-Dimensional Data by Combining Simple Experts*. Single-authored conference paper.
+- **2000:** *Learning Distributed Representations of Concepts from Relational Data Using Linear Relational Embedding*. Co-authored journal article; the bibliography also identifies a technical-report preprint.
+- **2000:** *Spiking Boltzmann Machines*. Co-authored conference paper.
+- **2000:** *Learning to Parse Images*. Co-authored conference paper.
+- **2000:** *Variational Learning for Switching State-Space Models*. Co-authored journal article.
+- **2000:** *SMEM Algorithm for Mixture Models*. Co-authored journal article.
+- **2000:** *Learning Distributed Representations by Mapping Concepts and Relations into a Linear Space*. Co-authored conference paper.
+- **2001:** *A New View of ICA*. Co-authored conference paper.
+- **2001:** *Discovering Multiple Constraints That Are Frequently Approximately Satisfied*. Co-authored conference paper.
+- **2001:** *Training Many Small Hidden Markov Models*. Co-authored workshop paper.
+- **2001:** *Products of Hidden Markov Models*. Co-authored conference paper.
+- **2001:** *Rate-Coded Restricted Boltzmann Machines for Face Recognition*. Co-authored conference paper.
+- **2001:** *Using Free Energies to Represent Q-Values in a Multiagent Reinforcement Learning Task*. Co-authored conference paper.
+- **2001:** *Recognizing Hand-Written Digits Using Hierarchical Products of Experts*. Co-authored conference paper; a journal version followed in 2002.
+- **2002:** *Training Products of Experts by Minimizing Contrastive Divergence*. Single-authored journal article and peer-reviewed manifestation of the 2000 technical report.
+- **2002:** *Classical and Bayesian Inference in Neuroimaging: Theory*. Multi-author journal article.
+- **2002:** *Relative Density Nets: A New Way to Combine Backpropagation with HMMs*. Co-authored conference paper.
+- **2002:** *Learning Hierarchical Structures with Linear Relational Embedding*. Co-authored conference paper.
+- **2002:** *Global Coordination of Local Linear Models*. Co-authored conference paper.
+- **2002:** *A Desktop Input Device and Interface for Interactive 3D Character Animation*. Co-authored graphics paper describing a physical interface and its software.
+- **2002:** *Local Physical Models for Interactive Character Animation*. Co-authored graphics paper.
+- **2002:** *A New Learning Algorithm for Mean Field Boltzmann Machines*. Co-authored conference paper.
+- **2002:** *Recognizing Handwritten Digits Using Hierarchical Products of Experts*. Co-authored journal article developed from the 2001 conference paper.
+- **2003:** *Energy-Based Models for Sparse Overcomplete Representations*. Co-authored journal article.
+- **2003:** *Stochastic Neighbor Embedding*. Co-authored conference paper introducing an embedding protocol.
+- **2003:** *Efficient Parametric Projection Pursuit Density Estimation*. Co-authored conference paper.
+- **2003:** *Self-Supervised Boosting*. Co-authored conference paper.
+- **2003:** *Learning Sparse Topographic Representations with Products of Student-t Distributions*. Co-authored conference paper.
+- **2003:** *The Ups and Downs of Hebb Synapses*. Short single-authored journal article.
+- **2004:** *Reinforcement Learning with Factored States and Actions*. Co-authored journal article.
+- **2004:** *Distinguishing Text from Graphics in On-Line Handwritten Ink*. Co-authored conference paper.
+- **2004:** *Wormholes Improve Contrastive Divergence*. Co-authored conference paper.
+- **2004:** *Probabilistic Sequential Independent Components Analysis*. Co-authored journal article.
+- **2005:** *Learning Causally Linked Markov Random Fields*. Co-authored conference paper.
+- **2005:** *What Kind of a Graphical Model Is the Brain?* Single-authored conference paper.
+- **2005:** *Learning Unreliable Constraints Using Contrastive Divergence*. Co-authored conference paper.
+- **2005:** *Improving Dimensionality Reduction with Spectral Gradient Descent*. Co-authored journal article.
+- **2005:** *On Contrastive Divergence Learning*. Co-authored conference paper.
+- **2005:** *Neighbourhood Components Analysis*. Co-authored conference paper introducing a supervised metric-learning protocol.
+- **2005:** *Multiple Relational Embedding*. Co-authored conference paper.
+- **2005:** *Exponential Family Harmoniums with an Application to Information Retrieval*. Co-authored conference paper.
+- **2006:** *Reducing the Dimensionality of Data with Neural Networks*. Co-authored *Science* paper; its associated code is a computational manifestation of the research.
+- **2006:** *Unsupervised Discovery of Non-Linear Structure Using Contrastive Backpropagation*. Co-authored journal article.
+- **2006:** *A Fast Learning Algorithm for Deep Belief Nets*. Co-authored journal paper presenting both an architecture and its training protocol.
+- **2006:** *Inferring Motor Programs from Images of Handwritten Digits*. Co-authored conference paper.
+- **2006:** *Topographic Product Models Applied to Natural Scene Statistics*. Co-authored journal article.
+- **2007:** *Learning Multiple Layers of Representation*. Single-authored review article.
+- **2007:** *To Recognize Shapes, First Learn to Generate Images*. Single-authored book chapter.
+- **2007:** *Boltzmann Machine*. Single-authored *Scholarpedia* reference article.
+- **2007:** *Restricted Boltzmann Machines for Collaborative Filtering*. Co-authored conference paper.
+- **2007:** *Three New Graphical Models for Statistical Language Modelling*. Co-authored conference paper.
+- **2007:** *Semantic Hashing*. Co-authored workshop paper describing a document-retrieval method.
+- **2007:** *Unsupervised Learning of Image Transformations*. Co-authored conference paper; Hinton’s bibliography also identifies a longer 2006 technical-report manifestation.
+- **2007:** *Learning a Non-Linear Embedding by Preserving Class Neighbourhood Structure*. Co-authored conference paper.
+- **2007:** *Learning Multilevel Distributed Representations for High-Dimensional Sequences*. Co-authored conference paper with a longer 2006 technical-report manifestation.
+- **2007:** *Visualizing Similarity Data with a Mixture of Maps*. Co-authored conference paper.
+- **2007:** *Modeling Human Motion Using Binary Latent Variables*. Co-authored conference paper.
+- **2008:** *Visualizing Data Using t-SNE*. Co-authored journal article introducing the t-SNE visualization protocol; supplementary material forms part of its published manifestation.
+- **2008:** *Generating Facial Expressions with Deep Belief Nets*. Co-authored book chapter.
+- **2008:** *Analysis-by-Synthesis by Learning to Invert Generative Black Boxes*. Co-authored conference paper.
+- **2008:** *Improving a Statistical Language Model by Modulating the Effects of Context Words*. Co-authored conference paper.
+- **2008:** *Deep Narrow Sigmoid Belief Networks Are Universal Approximators*. Co-authored journal article.
+- **2008:** *Modeling Image Patches with a Directed Hierarchy of Markov Random Fields*. Co-authored conference paper.
+- **2008:** *Using Deep Belief Nets to Learn Covariance Kernels for Gaussian Processes*. Co-authored conference paper.
+- **2009:** *Deep Belief Networks for Phone Recognition*. Co-authored workshop paper.
+- **2009:** *Replicated Softmax: An Undirected Topic Model*. Co-authored conference paper.
+- **2009:** *3-D Object Recognition with Deep Belief Nets*. Co-authored conference paper.
+- **2009:** *Zero-Shot Learning with Semantic Output Codes*. Co-authored conference paper.
+- **2009:** *Learning Generative Texture Models with Extended Fields-of-Experts*. Co-authored conference paper.
+- **2009:** *Products of Hidden Markov Models: It Takes N > 1 to Tango*. Co-authored conference paper; despite the title, it is not a tango.
+- **2009:** *Factored Conditional Restricted Boltzmann Machines for Modeling Motion Style*. Co-authored conference paper.
+- **2009:** *Using Fast Weights to Improve Persistent Contrastive Divergence*. Co-authored conference paper.
+- **2009:** *Modeling Pigeon Behaviour Using a Conditional Restricted Boltzmann Machine*. Co-authored conference paper.
+- **2009:** *Deep Boltzmann Machines*. Co-authored conference paper.
+- **2009:** *A Scalable Hierarchical Distributed Language Model*. Co-authored conference paper.
+- **2009:** *Implicit Mixtures of Restricted Boltzmann Machines*. Co-authored conference paper.
+- **2009:** *Using Matrices to Model Symbolic Relationships*. Co-authored conference paper.
+- **2009:** *The Recurrent Temporal Restricted Boltzmann Machine*. Co-authored conference paper.
+- **2009:** *Generative versus Discriminative Training of RBMs for Classification of fMRI Images*. Multi-author conference paper.
+- **2010:** *Gated Softmax Classification*. Co-authored conference paper.
+- **2010:** *Generating More Realistic Images Using Gated MRFs*. Co-authored conference paper.
+- **2010:** *Phone Recognition with the Mean-Covariance Restricted Boltzmann Machine*. Co-authored conference paper.
+- **2010:** *Learning to Combine Foveal Glimpses with a Third-Order Boltzmann Machine*. Co-authored conference paper.
+- **2010:** *Binary Coding of Speech Spectrograms Using a Deep Auto-Encoder*. Co-authored conference paper.
+- **2010:** *Learning to Represent Spatial Transformations with Factored Higher-Order Boltzmann Machines*. Co-authored journal article.
+- **2010:** *Rectified Linear Units Improve Restricted Boltzmann Machines*. Co-authored conference paper.
+- **2010:** *Learning to Represent Visual Input*. Single-authored journal article.
+- **2010:** *Learning to Detect Roads in High-Resolution Aerial Images*. Co-authored conference paper.
+- **2010:** *Temporal Kernel Recurrent Neural Networks*. Co-authored journal article.
+- **2010:** *Modeling Pixel Means and Covariances Using Factored Third-Order Boltzmann Machines*. Co-authored conference paper.
+- **2010:** *Dynamic Binary Latent Variable Models for 3D Human Pose Tracking*. Co-authored conference paper.
+- **2010:** *Factored 3-Way Restricted Boltzmann Machines for Modeling Natural Images*. Co-authored conference paper.
+- **2010:** *Phone Recognition Using Restricted Boltzmann Machines*. Co-authored conference paper.
+- **2011:** *Generating Text with Recurrent Neural Networks*. Co-authored conference paper.
+- **2011:** *A New Way to Learn Acoustic Events*. Co-authored workshop paper.
+- **2011:** *Conditional Restricted Boltzmann Machines for Structured Output Prediction*. Co-authored conference paper.
+- **2011:** *On Deep Generative Models with Applications to Recognition*. Co-authored conference paper.
+- **2011:** *Modeling the Joint Density of Two Images under a Variety of Transformations*. Co-authored conference paper.
+- **2011:** *Transforming Auto-Encoders*. Co-authored conference paper.
+- **2011:** *Using Very Deep Autoencoders for Content-Based Image Retrieval*. Co-authored conference paper.
+- **2011:** *Learning a Better Representation of Speech Sound Waves Using Restricted Boltzmann Machines*. Co-authored conference paper.
+- **2011:** *Deep Belief Networks Using Discriminative Features for Phone Recognition*. Multi-author conference paper.
+- **2011:** *Deep Belief Nets for Natural Language Call-Routing*. Co-authored conference paper.
+- **2011:** *Discovering Binary Codes for Fast Document Retrieval by Learning Deep Generative Models*. Co-authored journal article.
+- **2012:** *ImageNet Classification with Deep Convolutional Neural Networks*. Co-authored conference paper describing the system later commonly called AlexNet; authorship is shared with Alex Krizhevsky and Ilya Sutskever, and the retrospective name should not erase that allocation of credit.
+- **2012:** *A Better Way to Pretrain Deep Boltzmann Machines*. Co-authored conference paper.
+- **2012:** *Improving Neural Networks by Preventing Co-Adaptation of Feature Detectors*. Multi-author arXiv preprint introducing dropout; the later 2014 journal paper is a distinct, fuller manifestation.
+- **2012:** *Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups*. Multi-author survey article.
+- **2012:** *An Efficient Learning Procedure for Deep Boltzmann Machines*. Co-authored journal article.
+- **2012:** *Deep Lambertian Networks*. Co-authored conference paper.
+- **2012:** *Learning to Label Aerial Images from Noisy Data*. Co-authored conference paper.
+- **2012:** *Deep Mixtures of Factor Analysers*. Co-authored conference paper.
+- **2012:** *Robust Boltzmann Machines for Recognition and Denoising*. Co-authored conference paper.
+- **2012:** *Understanding How Deep Belief Networks Perform Acoustic Modelling*. Co-authored conference paper.
+- **2012:** *Visualizing Non-Metric Similarities in Multiple Maps*. Co-authored journal article.
+- **2012:** *Acoustic Modeling Using Deep Belief Networks*. Co-authored journal article.
+- **2013:** *Modeling Documents with a Deep Boltzmann Machine*. Co-authored conference paper.
+- **2013:** *Vocal Tract Length Perturbation Improves Speech Recognition*. Co-authored workshop paper.
+- **2013:** *Speech Recognition with Deep Recurrent Neural Networks*. Co-authored conference paper.
+- **2013:** *Improving Deep Neural Networks for LVCSR Using Rectified Linear Units and Dropout*. Co-authored conference paper.
+- **2013:** *On Rectified Linear Units for Speech Processing*. Multi-author conference paper.
+- **2013:** *New Types of Deep Neural Network Learning for Speech Recognition and Related Applications: An Overview*. Co-authored survey paper.
+- **2013:** *Modeling Natural Images Using Gated MRFs*. Co-authored journal article.
+- **2013:** *On the Importance of Initialization and Momentum in Deep Learning*. Co-authored conference paper.
+- **2013:** *Tensor Analyzers*. Co-authored conference paper.
+- **2014:** *Dropout: A Simple Way to Prevent Neural Networks from Overfitting*. Multi-author journal article and fuller manifestation of the 2012 dropout preprint.
+- **2014:** *Grammar as a Foreign Language*. Multi-author arXiv preprint.
+- **2014:** *Where Do Features Come From?* Single-authored journal article.
+- **2014:** *Application of Deep Belief Networks for Natural Language Understanding*. Co-authored journal article.
+- **2014:** *Autoregressive Product of Multi-Frame Predictions Can Improve the Accuracy of Hybrid Models*. Co-authored conference paper.
+- **2015:** *Deep Learning*. Co-authored review article in *Nature* with Yann LeCun and Yoshua Bengio.
+- **2015:** *Distilling the Knowledge in a Neural Network*. Co-authored arXiv preprint proposing a model-distillation protocol.
+- **2016:** *Using Fast Weights to Attend to the Recent Past*. Multi-author conference paper.
+- **2016:** *Layer Normalization*. Co-authored workshop paper and arXiv preprint presenting a normalization protocol.
+- **2016:** *Attend, Infer, Repeat: Fast Scene Understanding with Generative Models*. Multi-author conference paper.
+- **2017:** *Dynamic Routing between Capsules*. Co-authored conference paper defining a routing protocol for capsule networks.
+- **2017:** *Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer*. Multi-author arXiv preprint.
+- **2017:** *Distilling a Neural Network into a Soft Decision Tree*. Co-authored arXiv preprint.
+- **2017:** *Regularizing Neural Networks by Penalizing Confident Output Distributions*. Multi-author arXiv preprint.
+- **2018:** *Matrix Capsules with EM Routing*. Co-authored conference paper.
+- **2018:** *Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search*. Co-authored conference paper.
+- **2018:** *Large Scale Distributed Neural Network Training through Online Distillation*. Multi-author conference paper.
+- **2018:** *Who Said What: Modeling Individual Labelers Improves Classification*. Multi-author conference paper.
+- **2019:** *Stacked Capsule Autoencoders*. Co-authored conference paper.
+- **2019:** *Lookahead Optimizer: k Steps Forward, 1 Step Back*. Co-authored conference paper presenting an optimization protocol.
+- **2019:** *When Does Label Smoothing Help?* Co-authored conference paper.
+- **2019:** *Cerberus: A Multi-Headed Derenderer*. Co-authored workshop paper describing a learned vision system.
+- **2019:** *CvxNet: Learnable Convex Decomposition*. Multi-author workshop paper.
+- **2019:** *Similarity of Neural Network Representations Revisited*. Multi-author conference paper.
+- **2020:** *NASA: Neural Articulated Shape Approximation*. Multi-author conference paper; “NASA” here names a neural shape model, not the space agency.
+- **2020:** *Subclass Distillation*. Co-authored arXiv preprint.
+- **2020:** *Big Self-Supervised Models Are Strong Semi-Supervised Learners*. Multi-author conference paper.
+- **2020:** *A Simple Framework for Contrastive Learning of Visual Representations*. Multi-author conference paper describing the framework known as SimCLR.
+- **2020:** *Backpropagation and the Brain*. Multi-author review article.
+- **2020:** *Detecting and Diagnosing Adversarial Images with Class-Conditional Capsule Reconstructions*. Multi-author conference paper.
+- **2021:** *How to Represent Part-Whole Hierarchies in a Neural Network*. Single-authored journal paper presenting the project called GLOM; GLOM is best understood as a proposed architecture rather than a completed general-intelligence system.
+- **2021:** *Neural Additive Models: Interpretable Machine Learning with Neural Nets*. Multi-author conference paper.
+- **2021:** *Deep Learning for AI*. Co-authored review article with Yoshua Bengio and Yann LeCun.
+- **2021:** *Canonical Capsules: Unsupervised Capsules in Canonical Pose*. Multi-author arXiv preprint whose first public version dates from 2020, although Hinton’s bibliography places it under 2021.
+- **2021:** *Unsupervised Part Representation by Flow Capsules*. Multi-author arXiv preprint whose first public version dates from 2020, although Hinton’s bibliography places it under 2021.
+- **2022:** *The Forward-Forward Algorithm: Some Preliminary Investigations*. Single-authored arXiv preprint proposing an alternative training protocol; “preliminary investigations” makes its explicitly unfinished status part of the work.
+- **2022:** *Analog Bits: Generating Discrete Data Using Diffusion Models with Self-Conditioning*. Co-authored arXiv preprint.
+- **2022:** *Scaling Forward Gradient with Local Losses*. Multi-author arXiv preprint.
+- **2022:** *A Unified Sequence Interface for Vision Tasks*. Multi-author arXiv preprint.
+- **2022:** *A Generalist Framework for Panoptic Segmentation of Images and Videos*. Multi-author arXiv preprint.
+- **2022:** *Gaussian-Bernoulli RBMs without Tears*. Multi-author arXiv preprint.
+- **2022:** *Testing GLOM’s Ability to Infer Wholes from Ambiguous Parts*. Co-authored arXiv preprint testing the still-experimental GLOM project.
+- **2024:** *Managing Extreme AI Risks amid Rapid Progress*. Multi-author *Science* policy article. Its prescriptive collective argument gives it some of the force of a manifesto, although it remains formally a scientific-policy paper.
+- **2025:** *International AI Safety Report: First Key Update—Capabilities and Risk Implications*. Massively collaborative technical-policy report; Hinton is one contributor rather than its sole maker.
+- **2025:** *International AI Safety Report: Second Key Update—Technical Safeguards and Risk Management*. Massively collaborative technical-policy report and continuation of the international assessment project.
+- **2025:** *Nobel Lecture: Boltzmann Machines*. Published Nobel lecture in *Reviews of Modern Physics*; simultaneously a lecture, retrospective scientific text, and ceremonial manifestation.
+- **2026:** *Artificial Intelligence as the Fourth Decentering Revolution: From Cosmic, Biological, and Psychological Displacement to Cognitive Decentering*. Multi-author journal article. Because the official bibliography already assigns it to 2026, it is included here even though a present-day list may encounter online-first and issue dates differently.
+
+### Systems, software, and institutional projects that resist reduction to papers
+
+- **1992–1998:** *Glove-Talk / GloveTalkII*. A jointly made data-glove-to-speech system whose papers are listed separately above. It resists treatment as merely a text because the obra includes an interface, trained neural networks, synthesizer controls, and live gestural performance.
+- **1997:** *A Mobile Robot That Learns Its Place*. An experimental robot-and-learning-system project, known through its journal paper; responsibility is shared with Shumeet Baluja Oore and Gregory Dudek, and the bibliography does not supply a separate machine title.
+- **1998:** *NeuroAnimator*. A jointly built neural-network animation and control system, not merely the SIGGRAPH paper bearing its name.
+- **2002:** *Desktop Input Device and Interface for Interactive 3D Character Animation*. A jointly made physical input device plus software interface; its material and interactive components prevent classification as only a publication.
+- **2006:** *Deep-belief-net dimensionality-reduction code*. MATLAB software distributed with *Reducing the Dimensionality of Data with Neural Networks*; it is a computational manifestation of the paper rather than an independently titled obra.
+- **2012:** *ImageNet deep convolutional neural network (“AlexNet”)*. A trained image-classification system jointly produced with Alex Krizhevsky and Ilya Sutskever. The paper names the architecture descriptively; “AlexNet” is the later conventional name, and primary implementation credit is especially associated with Krizhevsky.
+- **2012–2013:** *DNNresearch Inc.* A jointly founded company created to transfer the Toronto group’s deep-learning expertise and intellectual property. It is an institutional project rather than a scientific text, and calling it a personal “work by Hinton” without naming Alex Krizhevsky and Ilya Sutskever would overstate sole authorship.
+- **2021–:** *GLOM*. An architectural research project for representing part-whole hierarchies. It deliberately resists classification as a completed system: the principal text proposes the architecture, and subsequent experiments test only portions of the intention.
+- **2022–:** *Forward-Forward*. An alternative neural-network training project in which positive and negative forward passes replace ordinary forward-and-backward propagation. Its foundational publication calls itself preliminary, so incompleteness belongs to the project’s documented status.
+
+### Teaching creations
+
+- **2012:** *Neural Networks for Machine Learning*. University of Toronto–Coursera online course: a sequence of recorded lectures, slides, demonstrations, and exercises rather than a book.
+- **2013:** *Introduction to Machine Learning and Data Mining (CSC321)*. University of Toronto undergraduate course represented on Hinton’s site by teaching materials; a pedagogical project with changing classroom manifestations.
+- **2013:** *Advanced Machine Learning (CSC2515)*. University of Toronto graduate course represented by online teaching materials; likewise a curriculum rather than a fixed authored text.
+
+### Sources
+
+- Geoffrey E. Hinton, [“Publications”—full list in reverse chronological order](https://www.cs.utoronto.ca/~hinton/pages/publications.html). This describes itself as the full list of Hinton’s scientific publications and is the controlling bibliography for the entries through 2026.
+- Geoffrey E. Hinton, [legacy publications bibliography](https://www.cs.toronto.edu/~hinton/papers.html). This version supplies venues, version relationships, technical-report identifiers, supplementary materials, and Hinton’s note concerning the rejected conference submission of *How Learning Can Guide Evolution*.
+- Geoffrey E. Hinton, [Full Curriculum Vitae (2024)](https://www.cs.utoronto.ca/~hinton/fullcv2024.pdf). Used to check the bibliography’s division among refereed articles, conference papers, chapters, reports, and other publications.
+- Geoffrey E. Hinton, [official University of Toronto home page](https://www.cs.utoronto.ca/~hinton/). Used for the official links to publications, teaching materials, source code, and talks.
+- Geoffrey E. Hinton, [talks and lectures available on the web](https://www.cs.utoronto.ca/~hinton/talks.html). Used to distinguish recorded lectures and public appearances from the formal publication bibliography.
+- Geoffrey Hinton, Nitish Srivastava, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov, [*Improving Neural Networks by Preventing Co-Adaptation of Feature Detectors*](https://arxiv.org/abs/1207.0580). Used to verify the 2012 dropout preprint as a distinct manifestation.
+- Geoffrey Hinton, [*The Forward-Forward Algorithm: Some Preliminary Investigations*](https://arxiv.org/abs/2212.13345). Used to verify the title, date, single authorship, and explicitly preliminary status of the Forward-Forward project.

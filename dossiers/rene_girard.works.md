@@ -1,0 +1,251 @@
+## Works by René Noël Théophile Girard
+
+### Dissertation and monographs
+
+- **1950:** *American Opinion of France, 1940–1943*. Doctoral dissertation submitted to Indiana University; an archival-historical study rather than a commercial book.
+- **1961:** *Mensonge romantique et vérité romanesque*. Monograph of literary criticism in which Girard first systematically formulates triangular or mimetic desire.
+- **1963:** *Dostoïevski, du double à l’unité*. Critical monograph devoted to Dostoevsky; later translations and retitlings are manifestations of this work, not separate works.
+- **1972:** *La Violence et le Sacré*. Anthropological-theoretical monograph on sacrifice, ritual, and collective violence.
+- **1982:** *Le Bouc émissaire*. Monograph combining a theory of persecution texts with biblical interpretation.
+- **1985:** *La Route antique des hommes pervers*. Extended interpretation of Job as a victim of collective persecution.
+- **1990–1991:** *Shakespeare, les feux de l’envie / A Theater of Envy: William Shakespeare*. Book-length Shakespeare study composed in English; the French translation appeared in 1990, before the English original of 1991, so neither title alone straightforwardly identifies the work’s first manifestation.
+- **1999:** *Je vois Satan tomber comme l’éclair*. Monograph contrasting mythic concealment with the biblical disclosure of collective violence.
+- **2001:** *Celui par qui le scandale arrive*. Essay collection with a concluding interview by Maria Stella Barberi; thus partly authored exposition and partly dialogic text.
+- **2003 or 2004:** *Le Sacrifice*. Published lectures on Vedic sacrifice delivered at the Bibliothèque nationale de France. The comprehensive COV&R bibliography dates the book to 2003, while the Association Recherches Mimétiques bibliography gives 2004.
+- **2007:** *Achever Clausewitz: Entretiens avec Benoît Chantre*. A book-length dialogic inquiry into Clausewitz, reciprocal escalation, war, and apocalypse; a substantially revised and expanded edition appeared in 2022.
+- **2008:** *Anorexie et désir mimétique*. Short theoretical essay assembled in French from Girard’s work on eating disorders and mimetic competition.
+
+### Collaborations, dialogues, and correspondence
+
+- **1978:** *Des choses cachées depuis la fondation du monde: Recherches avec Jean-Michel Oughourlian et Guy Lefort*. A collaborative research-book in dialogue form; Girard supplies the central theory, but its interrogative architecture and named collaborators resist classification as an exclusively single-authored monograph.
+- **1983/1987:** *Violent Origins: Walter Burkert, René Girard, and Jonathan Z. Smith on Ritual Killing and Cultural Formation*. Record of a 1983 scholarly encounter, edited by Robert G. Hamerton-Kelly and published in 1987; Girard’s contribution is one voice in a collective conversation rather than the whole book.
+- **1994:** *Quand ces choses commenceront: Entretiens avec Michel Treguer*. Book of conversations; its made form depends upon both Girard’s answers and Treguer’s questioning.
+- **2000:** *Um longo argumento do princípio ao fim: diálogos com João Cezar de Castro Rocha e Pierpaolo Antonello*. Book-length retrospective dialogues. Its French manifestation, *Les Origines de la culture*, appeared in 2003 or 2004—the consulted bibliographies disagree on the year—and the English version, *Evolution and Conversion*, followed in 2007/2008.
+- **2006:** *Verità o fede debole? Dialogo su cristianesimo e relativismo*. Dialogue with Gianni Vattimo; French and English manifestations appeared as *Christianisme et modernité* and *Christianity, Truth, and Weakening Faith*.
+- **2007:** *Dieu, une invention?* Collective debate with André Gounelle and Alain Houziaux; Girard made only one argumentative strand of the resulting book.
+- **2007:** *Le Tragique et la Pitié*. Paired ceremonial speeches: Girard’s Académie française reception address and Michel Serres’s response. The volume is therefore a composite institutional act, not wholly Girard’s work.
+- **2010:** *Prima dell’Apocalisse*. Published dialogue with Jean-Pierre Dupuy.
+- **2010:** *Gewalt und Religion: Ursache oder Wirkung?* Published dialogue with Wolfgang Palaver, first issued in German.
+- **1974–1991; published 2014:** *Briefwechsel mit René Girard*. Girard’s correspondence with Raymund Schwager, edited posthumously within Schwager’s collected writings. The letters are Girard’s acts of correspondence, while the bounded book is an editorial manifestation not made by him alone.
+- **Published 2015:** *Les grands entretiens d’artpress: René Girard*. Collection of interviews conducted by Jacques Henric, François Lagarde, and Philippe Muray; an editorially constituted book rather than a new continuous Girard manuscript.
+- **Published 2016:** *Reading the Bible with René Girard: Conversations with Steven E. Berry*. Edited conversations; publication postdates Girard’s death and therefore should not be mistaken for a monograph prepared by him.
+- **Published 2018:** *L’Univers de René Girard: Entretiens de René Girard avec Nadine Dormoy*. Posthumously issued interviews; the conversations belong to Girard’s spoken œuvre, while their final book form is editorial.
+- **Published 2020:** *Conversations with René Girard: Prophet of Envy*. Cynthia L. Haven’s edited collection of conversations. Girard made the spoken responses, but not the posthumous compilation as a unit.
+
+### Authorial collections and editorial manifestations
+
+- **1976:** *Critique dans un souterrain*. Authorial collection of previously produced literary-critical essays; a new book-object but not a set of newly written texts.
+- **1978:** *“To Double Business Bound”: Essays on Literature, Mimesis, and Anthropology*. English-language essay collection bringing together literary, anthropological, and theoretical studies.
+- **1996:** *The Girard Reader*. James G. Williams’s anthology of Girard’s earlier texts, with interview and editorial apparatus. It is a useful manifestation of the œuvre but resists attribution as a newly made Girard work.
+- **1998:** *La vittima e la folla: Violenza del mito e cristianesimo*. Giuseppe Fornari’s Italian selection of Girard texts; an editorial manifestation rather than a distinct authored work.
+- **1999:** *Il risentimento: Lo scacco del desiderio nell’uomo contemporaneo*. Italian thematic compilation of earlier writings; not an independently composed Girard book.
+- **2000:** *La pietra scartata: Antigiudaismo cristiano e antropologia evangelica*. Alberto Signorini’s Italian selection and translation; an editorial manifestation.
+- **2002:** *Il caso Nietzsche*. Volume made with Giuseppe Fornari from Girard’s writings and discussion of Nietzsche; its collaborative/editorial construction complicates single authorship.
+- **2002:** *La Voix méconnue du réel: Une théorie des mythes archaïques et modernes*. French collection, largely translated from previously published English essays; a new arrangement of existing texts.
+- **2004:** *Oedipus Unbound: Selected Writings on Rivalry and Desire*. Mark R. Anspach’s edited selection; the component texts are Girard’s, but the anthology as an object is Anspach’s editorial construction.
+- **2005:** *Miti d’origine: Persecuzioni e ordine culturale*. Italian selection edited by Pierpaolo Antonello and Giuseppe Fornari; not a newly composed Girard monograph.
+- **2006:** *Il pensiero rivale: Dialoghi su letteratura, filosofia e antropologia*. Pierpaolo Antonello and Barbara Carnevali’s edited Italian collection of dialogues.
+- **2007:** *De la violence à la divinité*. Omnibus containing four earlier books plus a new general introduction; the omnibus is a new manifestation, not four new works.
+- **2007:** *Wissenschaft und christlicher Glaube: Lucas-Preis 2006*. Bilingual publication associated with Girard’s Lucas Prize lecture; part lecture-text, part institutional document.
+- **2008:** *Cahier Girard*. Mark R. Anspach’s multi-author cahier containing texts by and about Girard. It resists classification as Girard’s work as a whole, although several otherwise uncollected texts by him appear within it.
+- **2008:** *La Conversion de l’art*. French collection of literary and artistic criticism, including a previously unpublished Wagner lecture; its original edition also incorporated the filmed conversation *Le Sens de l’histoire*, making it a modest multimedia object rather than only a book.
+- **2008:** *Mimesis and Theory: Essays on Literature and Criticism, 1953–2005*. Robert Doran’s scholarly collection of twenty essays, including translations and previously uncollected pieces; Girard made the essays, Doran the retrospective volume.
+- **2008:** *Qu’est-ce qu’un mythe?* Short extracted or recomposed presentation of Girard’s theory of myth; bibliographically a separate booklet, though closely dependent on earlier work.
+- **2008:** *Voldens Verden—Verdens Vold*. Two-volume Danish selection edited by Jørgen Jørgensen; a translated editorial manifestation.
+- **2010:** *Géométries du désir*. French collection translated and introduced by Mark R. Anspach and Myriam Dennehy. Sources disagree between 2010 and 2011 for its publication.
+- **2019:** *Mimesi e pensiero: Saggi su filosofia e letteratura*. Posthumous Italian collection edited by Pierpaolo Antonello; its constituent essays are Girard’s, but its bounded form is not.
+- **Published 2025:** *La Naïveté du rire*. Posthumous collection prefaced by Benoît Chantre. Because Girard died in 2015, the volume as arranged and titled is necessarily an editorial manifestation, even where its component texts are his.
+
+### Contributions to collective books and prefatory texts
+
+- **1961:** *Duc de Saint-Simon*. Bibliographical-critical contribution to *A Critical Bibliography of French Literature*.
+- **1961:** *General Studies on the Novel*. Bibliographical-critical contribution to the same reference work.
+- **1962:** *Introduction* to *Proust: A Collection of Critical Essays*. Girard also edited the collection; the introduction is his text, while the collection as a whole is not.
+- **1967:** *À propos de Jean-Paul Sartre: rupture et création littéraire*. Conference-paper contribution later reprinted and translated.
+- **1968:** *La notion de structure en critique littéraire*. Published lecture on literary-critical structure.
+- **1969:** *Triangular Desire*. Extract or English manifestation of the argument developed in *Mensonge romantique et vérité romanesque*, published in an edition of Stendhal.
+- **1970:** *Explication de texte de Jean-Paul Sartre*. Pedagogical-critical contribution to a collective volume.
+- **1970:** *Une analyse d’Œdipe roi*. Extended contribution combining sociological and psychoanalytic criticism.
+- **1970:** *Tiresias and the Critic*. Introductory address to *The Languages of Criticism and the Sciences of Man*.
+- **1970:** *Stendhal et les problèmes de noblesse*. Contribution to a Stendhal collection.
+- **1971:** *La grâce romanesque*. Short contribution on Proust.
+- **1972:** *Introduction to “De la folie”*. Editorial introduction in a literary anthology.
+- **1972:** *Myth and Ritual in Shakespeare: A Midsummer Night’s Dream*. Memorial lecture later incorporated into Girard’s Shakespearean work.
+- **1972/1973:** *Préface* to Charles Castella’s *Structure romanesque et vision sociale chez Guy de Maupassant*. A prefatory intervention rather than an autonomous book.
+- **1974:** *Critical Reflections on Literary Studies*. Collective-volume manifestation of Girard’s critique of literary research.
+- **1975:** *Preface* to Cesáreo Bandera’s *Mimesis conflictiva*. Prefatory text.
+- **1978:** *Narcissism: The Freudian Myth Demythified by Proust*. Book chapter later collected and translated.
+- **1979:** *Postface* to Paul Dumouchel and Jean-Pierre Dupuy’s *L’Enfer des choses*. Concluding intervention in a book applying mimetic theory to economics.
+- **1980:** *Shakespeare’s Theory of Mythology*. Collective-volume essay.
+- **1981:** *Comedies of Errors: Plautus—Shakespeare—Molière*. Comparative literary essay in a collective volume.
+- **1983:** *Culture “primitive”, giudaismo, cristianismo*. Italian collective-volume contribution.
+- **1983:** *La contingence dans les affaires humaines*. Published debate with Cornelius Castoriadis; the dialogic event, not Girard alone, constitutes the text.
+- **1983:** *La danse de Salomé*. Short contribution on imitation and scandal.
+- **1983:** *Preface* to Bruce Bassoff’s *The Secret Sharers*. Prefatory essay.
+- **1984:** *Disorder and Order in Mythology*. Proceedings paper from the 1981 Stanford International Symposium.
+- **1985:** *Mythos und Gegenmythos: Zu Kleists “Das Erdbeben in Chili”*. German collective-volume essay.
+- **1985:** *Violence et réciprocité*. Contribution to a special issue on violent action.
+- **1985:** *The Politics of Desire in Troilus and Cressida*. Shakespearean essay later absorbed into the book-length study.
+- **1985:** *“To Entrap the Wisest”: A Reading of The Merchant of Venice*. Collective-volume Shakespeare essay.
+- **1985:** *Le meurtre fondateur dans la pensée de Nietzsche*. Contribution to the Cerisy volume *Violence et vérité*.
+- **1987:** *Bottom’s One-Man Show*. Shakespearean contribution to a collective volume.
+- **1987:** *Der tragische Konflikt*. Conference contribution on tragic conflict.
+- **1987:** *Der grundlegende Mord im Denken Nietzsches*. German manifestation of Girard’s Nietzsche essay.
+- **2008:** *L’enfance en Avignon au temps jadis*. Autobiographical contribution to *Cahier Girard*.
+- **2008:** *Le déclin temporaire de l’influence culturelle française en Amérique après “l’étrange défaite”*. Historical-autobiographical note in *Cahier Girard*.
+- **2008:** *Mémoires d’une existentialiste rangée*. Reprinted critical text on Simone de Beauvoir.
+- **2008:** *Réponse à Jacques T. Godbout sur le jugement de Salomon*. Brief reply published in *Cahier Girard*.
+- **2008:** *Réponse à Sandor Goodhart sur la victime innocente*. Brief reply published in *Cahier Girard*.
+- **1986; published 2008:** *Satan et le scandale*. Earlier text first or newly made accessible in *Cahier Girard*.
+- **2008:** *Souvenirs d’un jeune Français aux États-Unis*. Autobiographical contribution.
+- **2011:** *Agneau de Dieu*. Short contribution to *Figures du Messie*.
+- **2012:** *Totem und Tabu und die Inzestverbote*. Contribution to a centenary volume on Freud’s *Totem and Taboo*.
+- **2015:** *Animal Scapegoating at Çatalhöyük*. Essay connecting mimetic theory with archaeological interpretations of human origins.
+- **2015:** *Literature and Christianity: A Personal View*. Autobiographical-critical essay.
+- **2020:** *Oedipus and the Surrogate Victim*. Reprint of a chapter from *Violence and the Sacred*; an editorial manifestation, not a newly made text.
+
+### Journal articles, reviews, and public essays
+
+- **1953:** *L’homme et le cosmos dans L’Espoir et Les Noyers de l’Altenburg d’André Malraux*. Literary-critical article.
+- **1953:** *Les réflexions sur l’art dans les romans de Malraux*. Literary-critical article.
+- **1953:** *Le règne animal dans les romans de Malraux*. Literary-critical article.
+- **1953:** *The Role of Eroticism in Malraux’s Fictions*. Literary-critical article.
+- **1953:** *L’histoire dans l’œuvre de Saint-John Perse*. Literary-critical article.
+- **1953:** *Marriage in Avignon in the Second Half of the Fifteenth Century*. Historical article derived from Girard’s archival training.
+- **1953:** *Franz Kafka et ses critiques*. Critical article.
+- **1954:** *Valéry et Stendhal*. Comparative literary article.
+- **1955:** *André Suarès et les autres*. Literary-critical article.
+- **1956:** *Existentialism and Criticism*. Theoretical-critical article.
+- **1956:** *Situation du poète américain*. Essay on American poetry.
+- **1956:** *Saint-Simon et la critique*. Literary-critical article.
+- **1956:** *Winds and Poetic Experience*. Literary-critical essay.
+- **1957:** *Où va le roman?* Essay on the contemporary novel.
+- **1957:** *Man, Myth and Malraux*. Literary-critical article, later translated under the substantially different title *L’humanisme tragique d’André Malraux*.
+- **1960:** *Stendhal and Tocqueville*. Comparative article.
+- **1960:** *Pride and Passion in the Contemporary Novel*. Literary-critical article.
+- **1961:** *Memoirs of a Dutiful Existentialist: Simone de Beauvoir*. Review-essay.
+- **1963:** *De Dante à la sociologie du roman*. Literary-sociological essay.
+- **1963:** *Marivaudage, Hypocrisy, and Bad Faith*. Literary-critical article later collected in French.
+- **1963:** *Des formes aux structures, en littérature et ailleurs*. Theoretical article.
+- **1964:** *Racine, poète de la gloire*. Literary-critical article.
+- **1964:** *Camus’s Stranger Retried*. Revisionary reading of Camus, later titled *Pour un nouveau procès de L’Étranger* in French.
+- **1965:** *Monstres et demi-dieux dans l’œuvre de Hugo*. Literary-critical article.
+- **1965:** *De l’expérience romanesque au mythe œdipien*. Article connecting the novelistic and mythic analyses.
+- **1965:** *L’anti-héros et les salauds*. Literary-critical essay.
+- **1966:** *Réflexions critiques sur les recherches littéraires*. Methodological article.
+- **1968:** *Symétrie et dissymétrie dans le mythe d’Œdipe*. Article on mythic structure.
+- **1970:** *Dionysos et la genèse violente du sacré*. Article anticipating the theory of sacred violence.
+- **1972:** *Perilous Balance: A Comic Hypothesis*. Article on comedy, later translated as *Un équilibre périlleux*.
+- **1972:** *Système du délire*. Review-essay on Deleuze and Guattari’s *L’Anti-Œdipe*.
+- **1973:** *Vers une définition systématique du sacré*. Theoretical article.
+- **1973:** *Lévi-Strauss, Frye, Derrida and Shakespearean Criticism*. Critical-theoretical article.
+- **1974:** *The Plague in Literature and Myth*. Comparative article later translated and collected.
+- **1975:** *Les malédictions contre les Pharisiens et la révélation évangélique*. Biblical-theological article.
+- **1976:** *Differentiation and Undifferentiation in Lévi-Strauss and Current Critical Theory*. Theoretical article later translated and collected.
+- **1976:** *Superman and the Underground: Strategies of Madness—Nietzsche, Wagner and Dostoyevsky*. Comparative essay later translated and collected.
+- **1976:** *French Theories of Fiction, 1947–1974*. Survey and critical essay.
+- **1977:** *Violence and Representation in the Mythical Text*. Theoretical article later incorporated into collections.
+- **1979:** *Mimesis and Violence: Perspectives in Cultural Criticism*. Theoretical article.
+- **1979:** *L’an prochain à Jérusalem*. Newspaper essay.
+- **1979:** *Rite, travail, science*. Theoretical essay.
+- **1979:** *Interdividual Psychology*. Article presenting Girard’s relational account of psychology.
+- **1979:** *Review of Ce que je crois, by André Chouraqui*. Book review; some bibliographies associate it with the same newspaper pages as *L’an prochain à Jérusalem*, so the precise boundary between the two items requires consultation of the original issue.
+- **1980:** *Vers une nouvelle anthropologie*. Review of Georges-Hubert de Radkowski’s *Les Jeux du désir*.
+- **1982:** *Peter’s Denial and the Question of Mimesis*. Biblical-literary article.
+- **1982:** *Derrière la modestie de l’approche, un projet vaste se dessine*. Review of Jacques Attali’s *Histoires du temps*.
+- **1983:** *Job et le bouc émissaire*. Article anticipating or restating the Job monograph.
+- **1983:** *Le démolisseur de l’Olympe*. Public essay.
+- **1983:** *Un prétexte pour régler les comptes*. Newspaper intervention.
+- **1983:** *Esprit de concurrence: des vertus inaltérables*. Magazine essay.
+- **1983:** *History and the Paraclete*. English manifestation of the final chapter of *Le Bouc émissaire*; not an independent new composition.
+- **1983:** *Scandal and the Dance: Salome in the Gospel of Mark*. Article first printed in *Ballet Review* and again in *New Literary History* in 1984.
+- **1983:** *More Than Fancy’s Images*. Shakespearean article.
+- **1984:** *The Bible Is Not a Myth*. Biblical-theoretical article.
+- **1984:** *Dionysus Versus the Crucified*. Essay on Nietzsche, Christianity, and myth.
+- **1984:** *Generative Violence and the Extinction of Social Order*. Article on mimetic rivalry in the Gospels.
+- **1984:** *Hamlet’s Dull Revenge*. Shakespearean article later shortened and incorporated into *A Theater of Envy*.
+- **1984:** *Review of Le XIXe siècle à travers les âges, by Philippe Muray*. Book review.
+- **1984:** *La Différence Franco-Américaine*. Public-cultural essay.
+- **1985:** *Exorciser la violence*. Newspaper essay.
+- **1985:** *Faits divers et bonne nouvelle*. Essay on violence and Gospel disclosure.
+- **1985:** *The Ancient Trail Trodden by the Wicked: Job as Scapegoat*. Article related to *La Route antique des hommes pervers*.
+- **1986:** *Nietzsche and Contradiction*. Article later translated and collected.
+- **1986:** *La morne vengeance de Hamlet*. French manifestation of Girard’s Hamlet argument.
+- **1987:** *Serres, le philosophe en marche*. Review of Michel Serres’s *Statues*.
+- **1988:** *La mythologie et sa déconstruction dans “L’Anneau du Nibelung”*. Essay on Wagner, myth, and mimetic desire.
+- **1989:** *Love Delights in Praises: A Reading of The Two Gentlemen of Verona*. Shakespearean article; the consulted bibliography omits the journal title, so that incomplete citation should not be silently repaired.
+- **1990:** *Do You Love Him Because I Do? Mimetic Interaction in Shakespeare’s Comedies*. Shakespearean article.
+- **1990:** *The Crime and Conversion of Leontes in The Winter’s Tale*. Shakespearean article.
+- **1990:** *Innovation and Repetition*. Theoretical article later translated and collected.
+- **1990:** *Croyez-vous vous-même à votre propre théorie?* Short public intervention whose interrogative form makes it closer to an exchange than a conventional article.
+- **1990:** *Love and Hate in Yvain*. Article on Chrétien de Troyes.
+- **1991:** *Collective Violence and Sacrifice in Shakespeare’s Julius Caesar*. Shakespearean article.
+- **1992:** *L’apothéose des victimes*. Newspaper essay.
+- **1992:** *Origins: A View from the Literature*. Contribution on origins from a literary perspective.
+- **1993:** *Is There Anti-Semitism in the Gospels?* Biblical article later translated and collected.
+- **1996:** *Are the Gospels Mythical?* Public theological essay.
+- **1996:** *Eating Disorders and Mimetic Desire*. Article later forming the basis of *Anorexie et désir mimétique*.
+- **2009:** *On War and Apocalypse*. English essay distilling arguments associated with *Achever Clausewitz*.
+- **2009:** *I crimini di Edipo Re*. Italian newspaper essay comparing Oedipus and Joseph.
+- **2009:** *Nietzsches zweifaches Erbe*. German essay on Nietzsche’s double legacy.
+- **2004; translated 2016:** *Les appartenances / Belonging*. Essay first published in *Politiques de Caïn* and later translated in *Contagion*; the 2016 item is a manifestation, not a posthumously written work.
+
+### Recorded discussions, interviews, broadcasts, and ceremonial acts
+
+- **1973:** *Discussion avec René Girard*. Extended collective discussion published in *Esprit*; both an intellectual event and a jointly produced transcript, later issued in English as a book.
+- **1975:** *Un critico dell’indeterminatezza, dell’intuizione e dell’imitazione*. Interview by Michele Ricciardelli.
+- **1978:** *Interview with René Girard*. Interview by Bruce Bassoff.
+- **1978:** *Interview: René Girard*. Extended interview published in *Diacritics*.
+- **1978:** *Jacques Chancel s’entretient avec René Girard*. France Inter broadcast; an audio manifestation later redistributed online.
+- **1978–1979:** *Quand ces choses commenceront…*. Two-part interview by Philippe Muray in *Tel quel*; distinct from the later book of conversations with Michel Treguer that reused the phrase.
+- **1979:** *La subversion judéo-chrétienne*. Interview by Jean-Luc Allouche.
+- **1979:** *Violence et mimétisme*. Interview by Julien Betbeze and Gérard Leclerc.
+- **1979:** *Le “scandale” René Girard*. Interview by Jean-Claude Guillebaud.
+- **1979:** *René Girard*. Interview by Pierre Pachet in *La Quinzaine littéraire*; the bibliography supplies no more specific title.
+- **1980:** *D’où vient la violence?* Round table with Christian Mellon, Jean-Marie Muller, Hervé Ott, and Jacques Sémelin; collective speech-act rather than Girard’s sole work.
+- **1980:** *La non-violence ou la mort*. Interview by Laurence Cossé.
+- **1981:** *Conversation with René Girard*. Interview by Louise Gulda Larrabure.
+- **1981:** *Violence et sacré*. Interview by Mireille Poncet.
+- **1981:** *Un colloquio con René Girard*. Interview by Jean-Pierre Rosa.
+- **1981:** *La Violence et le religieux*. Interview by Louis Schneiter.
+- **1982:** *René Girard: Bible et ethnologie*. Interview by Michel Augendre and Bernard Sauvagnat.
+- **1982:** *Débat, séance du 21 juin 1982*. Seminar debate recorded in *Modèles formels de la philosophie sociale et politique*.
+- **1982:** *L’Amérique n’est pas organisée pour l’impérialisme*. Interview by Gérard Leclerc and Bertrand Renouvin.
+- **1982:** *Eugène Mannoni fait le point avec René Girard*. Magazine interview.
+- **1982:** *René Girard, le bouc émissaire*. Interview by Philippe Muray.
+- **1982:** *Le bouc émissaire*. Interview by Pierre Pachet.
+- **1982:** *Une connivence ambiguë*. Interview by Guitta Pessis-Pasternak.
+- **1982:** *Démonter les mécanismes de la persécution*. Interview by Bertrand Renouvin.
+- **1983:** *Conversation avec René Girard*. Interview by Nadine Dormoy Savage.
+- **1983:** *Claudel catholique*. Interview by Jacques Henric.
+- **1983:** *Interview with René Girard*. Interview by Guitta Pessis-Pasternak in *Le Monde Dimanche*; the source records only this generic title.
+- **1983:** *L’Apocalisse non viene da Dio*. Interview by Sergio Quinzio.
+- **2002:** *The Scapegoat: The Thought of René Girard*. Five-part CBC radio interview by Paul Kennedy, produced by David Cayley; later rebroadcast and redistributed online.
+- **2002:** *Le désir mimétique*. Interview by Maria Stella Barberi.
+- **2002:** *Penser le mal*. France Culture conversation with Jean-Pierre Dupuy, moderated by Alain Finkielkraut.
+- **2002:** *Que valent nos valeurs?* Interview by Laurent d’Ersu and Robert Migliorini.
+- **2002/2003:** *Psicoanalisi e teoria mimetica*. Conversation with Sergio Benvenuto, in collaboration with Maurizio Meloni. The Italian and English manifestations carry different 2002–2003 publication dates.
+- **2003:** *The God of the Apocalypse*. Interview by Attilio Scarpellini.
+- **2003:** *Violence & the Lamb Slain*. Interview by Brian McDonald.
+- **2004:** *Le nécessaire retour à la Bible*. Interview by Thomas Regnier; also circulated in Dutch translation.
+- **2004:** *Les ruses du désir*. Interview by Jean-Claude Guillebaud.
+- **2004:** *René Girard, l’anthropologue du désir*. Radio conversation with Raphaël Enthoven.
+- **2005:** *A Conversation with René Girard*. Interview by David W. Gill.
+- **2005:** *Aux origines de la culture*. Televised interview by Benoît Chantre and Annie Chevallay for ARTE’s *Metropolis*.
+- **2005:** *Entretien avec René Girard*. Interview by Laurent Linneuil and Guillaume de Tanoüarn, later translated as *Facing the Devil’s Test*.
+- **2005:** *Jesus, unser Sündenbock*. Interview by Thomas Assheuer.
+- **2005:** *La passion*. Filmed lecture-conversation with Benoît Chantre at the Centre Pompidou.
+- **2005:** *Ratzinger Is Right*. Interview by Nathan Gardels.
+- **2005:** *Religions, rites, violence*. Interview by Benoît Chantre and Michel Crépu.
+- **2005:** *Discours de réception à l’Académie française*. Ceremonial address delivered under the Coupole on 15 December 2005. It is simultaneously an authored speech and an institutional act; recordings preserve a performance rather than merely another edition of the printed text.
+- **2005:** *Discours de remise d’épée*. Ceremonial speech associated with Girard’s admission to the Académie française; it belongs to the event’s composite record rather than to an ordinary book œuvre.
+- **2008:** *Le Sens de l’histoire*. Filmed conversation with Benoît Chantre issued on DVD with *La Conversion de l’art*; an audiovisual work that should not be collapsed into the accompanying printed collection.
+
+### Sources
+
+- Dietmar Regensburger, [“Bibliography of René Girard (1923–2015),” *Bulletin of the Colloquium on Violence & Religion* 73, Bibliography of Literature on the Mimetic Theory, vol. L](https://violenceandreligion.com/bibliography/bibliography-l/), August 2022. This comprehensive scholarly bibliography supplied the principal inventory and distinguishes books, contributions, articles, and recorded conversations.
+- Association Recherches Mimétiques, [“Bibliographie”](https://www.rene-girard.fr/bibliographie). Consulted especially for the French-title sequence, later collections, the posthumous *La Naïveté du rire*, and cross-references between articles and collections.
+- Académie française, [“René Girard: Œuvres; Discours et travaux académiques”](https://www.academie-francaise.fr/les-immortels/rene-girard). Consulted for the Académie’s authorized works list and the date and institutional status of Girard’s reception discourse.
+- Imitatio Foundation, [“Girard’s Works”](https://www.imitatio.org/girards-works-1). Consulted for descriptions of the major books, dialogues, essay collections, and the Girard–Schwager correspondence.
+- Stanford University Press, Robert Doran, [introduction to *Mimesis and Theory: Essays on Literature and Criticism, 1953–2005*](https://supress.sites-pro.stanford.edu/sites/default/files/media/file/10194_Introduction.pdf). Consulted for the collected volume’s status as an edition of previously uncollected literary writings.
+- University of Innsbruck, [Dietmar Regensburger’s publication record](https://www.uibk.ac.at/systheol/regensburger/publ/index.html.en). Consulted to verify the scholarly provenance and publication history of the comprehensive Girard bibliography.

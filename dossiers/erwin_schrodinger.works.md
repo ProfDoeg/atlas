@@ -1,0 +1,272 @@
+## Works by Erwin Rudolf Josef Alexander Schrödinger
+
+### Scientific papers and technical chapters
+
+- **1910:** *Über die Leitung der Elektrizität auf der Oberfläche von Isolatoren an feuchter Luft*. Experimental-physics paper; Schrödinger’s first listed publication (bibliography A1).
+- **1912:** *Zur kinetischen Theorie des Magnetismus (Einfluß der Leitungselektronen)*. Theoretical-physics paper (A2).
+- **1912:** *Studien über Kinetik der Dielektrika, den Schmelzpunkt, Pyro- und Piezoelektrizität*. Scientific paper (A3).
+- **1912:** *Über die Höhenverteilung der durchdringenden atmosphärischen Strahlung (Theorie)*. Theoretical study of atmospheric radiation (A4).
+- **1913:** *Notiz über die Theorie der anomalen elektrischen Dispersion*. Scientific note (A5).
+- **1913:** *Radium-A-Gehalt der Atmosphäre in Seeham 1913*. Experimental report (A6).
+- **1914:** *Über die Schärfe der mit Röntgenstrahlen erzeugten Interferenzbilder*. Scientific paper (A7).
+- **1914:** *Zur Dynamik elastisch gekoppelter Punktsysteme*. Mathematical-physics paper (A8).
+- **1914:** *Zur Theorie des Debyeeffekts*. Scientific paper (A9).
+- **1914:** *Über die weiche (β) Sekundärstrahlung von γ-Strahlen*. Experimental paper made with K. W. F. Kohlrausch; authorship is shared (A10).
+- **1914:** *Zur Dynamik der elastischen Punktreihe*. Mathematical-physics paper (A11).
+- **1914/1918:** *Dielektrizität*. Handbook chapter dated “[1914]” in the bibliography but published in 1918; the dating is therefore intrinsically double (A12).
+- **1915:** *Notiz über den Kapillardruck in Gasblasen*. Scientific note (A13).
+- **1915:** *Zur Theorie der Fall- und Steigversuche an Teilchen mit Brownscher Bewegung*. Scientific paper (A14).
+- **1917:** *Die Ergebnisse der neueren Forschung über Atom- und Molekularwärmen*. Two-part review article rather than two independent projects (A15–16).
+- **1917:** *Zur Akustik der Atmosphäre*. Scientific paper with a separately printed addendum (A17).
+- **1918:** *Die Energiekomponenten des Gravitationsfeldes*. Relativity paper (A18).
+- **1918:** *Über ein Lösungssystem der allgemein kovarianten Gravitationsgleichungen*. Relativity paper (A19).
+- **1918:** *Über ein in der experimentellen Radiumforschung auftretendes Problem der statistischen Dynamik*. Statistical-physics paper (A20).
+- **1918:** *Notiz über die Ordnung in Zufallsreihen*. Scientific note (A21).
+- **1919:** *Wahrscheinlichkeitstheoretische Studien, betreffend Schweidlersche Schwankungen, besonders die Theorie der Meßanordnung*. Probability paper (A22).
+- **1919:** *Der Energieinhalt der Festkörper im Lichte der neueren Forschung*. Multi-installment scientific review (A23).
+- **1919:** *Über die Kohärenz in weitgeöffneten Bündeln*. Optics paper (A24).
+- **1920:** *Theorie der Pigmente von größter Leuchtkraft*. Color-science paper (A25).
+- **1920:** *Grundlinien einer Theorie der Farbenmetrik im Tagessehen*. Three-part colorimetry study (A26).
+- **1920:** *Farbenmetrik*. Scientific paper (A27).
+- **1921:** *Versuch zur modellmäßigen Deutung des Terms der scharfen Nebenserien*. Atomic-physics paper (A28).
+- **1921:** *Isotopie und Gibbssches Paradoxon*. Statistical-physics paper (A29).
+- **1922:** *Dopplerprinzip und Bohrsche Frequenzbedingung*. Quantum-theory paper (A30).
+- **1922:** *Über die spezifische Wärme fester Körper bei hoher Temperatur und über die Quantelung von Schwingungen endlicher Amplitude*. Scientific paper (A31).
+- **1922:** *Über eine bemerkenswerte Eigenschaft der Quantenbahnen eines einzelnen Elektrons*. Quantum-theory paper (A32).
+- **1924:** *Gasentartung und freie Weglänge*. Statistical-physics paper (A34).
+- **1924:** *Über das thermische Gleichgewicht zwischen Licht- und Schallstrahlen*. Scientific paper (A36).
+- **1924:** *Bemerkung zu zwei Arbeiten des Herrn Elemér Császár über Strahlungstheorie und spezifische Wärmen*. Critical scientific note (A37).
+- **1924:** *Bohrs neue Strahlungshypothese und der Energiesatz*. Quantum-theory paper (A38).
+- **1924:** *Über den Ursprung der Empfindlichkeitskurven des Auges*. Vision-science paper (A40).
+- **1924:** *Über die Rotationswärme des Wasserstoffs*. Quantum-statistical paper (A41).
+- **1925:** *Über Farbenmessung*. Colorimetry paper (A42).
+- **1925:** *Die wasserstoffähnlichen Spektren vom Standpunkte der Polarisierbarkeit des Atomrumpfes*. Atomic-spectroscopy paper (A43).
+- **1925:** *Über die subjektiven Sternfarben und die Qualität der Dämmerungsempfindung*. Vision and astronomy paper (A44).
+- **1925:** *Die Erfüllbarkeit der Relativitätsforderung in der klassischen Mechanik*. Mathematical-physics paper (A45).
+- **1925:** *Bemerkungen über die statistische Entropiedefinition beim idealen Gas*. Statistical-mechanics paper (A47).
+- **1925:** *Über das Verhältnis der Vierfarben- zur Dreifarbentheorie*. Color-theory paper (A49).
+- **1926:** *Zur Einsteinschen Gastheorie*. Quantum-statistics paper, later translated as *Sulla teoria del gas di Einstein*; the translation is a manifestation, not a second obra (A50, A207j).
+- **1926:** *Die Energiestufen des idealen einatomigen Gasmodells*. Quantum-statistics paper (A51).
+- **1926:** *Quantisierung als Eigenwertproblem (Erste Mitteilung)*. First paper of the wave-mechanics sequence (A52).
+- **1926:** *Quantisierung als Eigenwertproblem (Zweite Mitteilung)*. Second paper of the wave-mechanics sequence (A53).
+- **1926:** *Das Ehrenfestsche Modell der H-Kurve*. Paper made with K. W. F. Kohlrausch; authorship is shared (A54).
+- **1926:** *Über das Verhältnis der Heisenberg-Born-Jordanschen Quantenmechanik zu der meinen*. Comparative quantum-mechanics paper (A55).
+- **1926:** *Quantisierung als Eigenwertproblem (Dritte Mitteilung: Störungstheorie, mit Anwendung auf den Starkeffekt der Balmerlinien)*. Third wave-mechanics paper (A56).
+- **1926:** *Quantisierung als Eigenwertproblem (Vierte Mitteilung)*. Fourth wave-mechanics paper (A57).
+- **1926:** *Der stetige Übergang von der Mikro- zur Makromechanik*. Wave-mechanics paper (A58).
+- **1926:** *An Undulatory Theory of the Mechanics of Atoms and Molecules*. English-language exposition and development of wave mechanics (A59).
+- **1926:** *Spezifische Wärme (theoretischer Teil)*. Handbook chapter (A60).
+- **1926:** *Die Gesichtsempfindungen*. Substantial textbook chapter on visual sensation (A61).
+- **1927:** *Über den Comptoneffekt*. Wave-mechanics paper (A62).
+- **1927:** *Der Energieimpulssatz der Materiewellen*. Wave-mechanics paper (A63).
+- **1927:** *Energieaustausch nach der Wellenmechanik*. Wave-mechanics paper (A64).
+- **1928:** *La mécanique des ondes*. Solvay-conference report (A66).
+- **1929:** *Die Erfassung der Quantengesetze durch kontinuierliche Funktionen*. Quantum-theory paper (A70).
+- **1929:** *Verwaschene Eigenwertspektra*. Mathematical-physics paper (A78).
+- **1930:** *Zum Heisenbergschen Unschärfeprinzip*. Quantum-mechanics paper (A82).
+- **1930:** *Über die kräftefreie Bewegung in der relativistischen Quantenmechanik*. Relativistic quantum-mechanics paper, associated with the phenomenon later called zitterbewegung (A83).
+- **1931:** *Zur Quantendynamik des Elektrons*. Quantum-theory paper (A89).
+- **1931:** *Über die Umkehrung der Naturgesetze*. Paper on time reversal (A90).
+- **1931:** *Spezielle Relativitätstheorie und Quantenmechanik*. Scientific paper (A91).
+- **1931:** *Bemerkung zu der Arbeit des Herrn V. Fock: „Die inneren Freiheitsgrade des Elektrons“*. Technical comment (A92).
+- **1932:** *Sur la théorie relativiste de l’électron et l’interprétation de la mécanique quantique*. Extended scientific paper (A93).
+- **1932:** *Diracsches Elektron im Schwerefeld I*. Paper on the Dirac equation in curved spacetime; its “I” did not lead to a correspondingly titled published second part (A95).
+- **1932:** *Über das Verhalten des Starkeffekts bei plötzlichen Feldänderungen*. Joint experimental-theoretical paper: H. Rausch von Traubenberg and R. Gebauer supplied the experimental part, Schrödinger the theory (A96).
+- **1933:** *L’électron de Dirac dans la théorie de la relativité générale*. Conference paper (A97).
+- **1933:** *Über den zweiten Hauptsatz der Thermodynamik*. Very short academy communication (A98).
+- **1934:** *Über die Unanwendbarkeit der Geometrie im Kleinen*. Scientific-philosophical paper (A100).
+- **1935:** *The Absolute Field Constant in the New Field Theory*. Brief joint paper with Max Born; authorship is shared (A102).
+- **1935:** *Contributions to Born’s New Theory of the Electromagnetic Field*. Field-theory paper (A103).
+- **1935:** *¿Son lineales las verdaderas ecuaciones del campo electromagnético?*. Field-theory paper published in Spanish (A106).
+- **1935:** *Discussion of Probability Relations between Separated Systems*. Quantum-entanglement paper (A107).
+- **1935:** *Die gegenwärtige Situation in der Quantenmechanik*. Three-part paper containing the cat thought experiment; the cat is an argumentative construction inside the text, not a separately made physical object (A108).
+- **1935:** *La nueva mecánica ondulatoria*. Extended Spanish-language course text (A109).
+- **1936:** *Probability Relations between Separated Systems*. Sequel to A107 (A114).
+- **1936:** *Phenomenological Theory of Supra-conductivity*. Brief scientific communication (A115).
+- **1937:** *World Structure*. Cosmology paper (A117).
+- **1937/1938:** *Über die Eddington’sche Welttheorie / Sur la théorie du monde d’Eddington*. A conference extract followed by a fuller French publication; the bibliography treats the manifestations as A117a and A119.
+- **1938:** *Eigenschwingungen des sphärischen Raumes*. Cosmology paper (A118).
+- **1938:** *Die Mehrdeutigkeit der Wellenfunktion*. Quantum-mechanics paper (A120).
+- **1938:** *Mean Free Path of Protons in the Universe*. Brief astrophysics paper (A121).
+- **1939:** *Nature of the Nebular Red-Shift*. Brief cosmology paper (A122).
+- **1939:** *The Proper Vibrations of the Expanding Universe*. Cosmology paper (A123).
+- **1940:** *A Method of Determining Quantum-Mechanical Eigenvalues and Eigenfunctions*. Mathematical-physics paper (A124).
+- **1940:** *Maxwell’s and Dirac’s Equations in the Expanding Universe*. Relativistic wave-equation paper (A125).
+- **1940:** *Boolean Algebra and Probability Theory*. Joint paper with T. S. Broderick; authorship is shared (A126).
+- **1940/1953:** *The General Theory of Relativity and Wave Mechanics*. Scientific paper republished in 1953; the later printing is not a new work (A127, A183).
+- **1941:** *Further Studies on Solving Eigenvalue Problems by Factorization*. Mathematical-physics paper (A129).
+- **1941:** *On the Solutions of Wave Equations for Non-Vanishing Rest-Mass Including a Source-Function*. Scientific paper (A130).
+- **1941:** *Exchange and Spin*. Scientific paper incorporating a note by James Hamilton, so the object is textually composite (A131).
+- **1941:** *The Factorization of the Hypergeometric Equation*. Mathematical note (A132).
+- **1941:** *La structure de l’Univers en relation avec la structure corpusculaire*. Cosmology paper (A133).
+- **1942:** *Non-linear Optics*. Extended scientific paper (A134).
+- **1942:** *Dynamics and Scattering-power of Born’s Electron*. Field-theory paper (A135).
+- **1943:** *Pentads, Tetrads, and Triads of Meson-Matrices*. Mathematical-physics paper (A136).
+- **1943:** *Systematics of Meson-Matrices*. Mathematical-physics paper (A137).
+- **1943:** *The General Unitary Theory of the Physical Fields*. Unified-field paper (A138).
+- **1943:** *A New Exact Solution in Non-Linear Optics (Two-Wave-System)*. Scientific paper (A139).
+- **1943:** *The Earth’s and the Sun’s Permanent Magnetic Fields in the Unitary Field Theory*. Unified-field paper (A140).
+- **1944:** *The Point Charge in the Unitary Field Theory*. Scientific paper (A141).
+- **1944:** *Unitary Field Theory: Conservation Identities and Relation to Weyl and Eddington*. Scientific paper (A142).
+- **1944:** *The Shielding Effect of Planetary Magnetic Fields*. Joint paper with J. McConnell; authorship is shared (A143).
+- **1944:** *The Union of the Three Fundamental Fields (Gravitation, Meson, Electromagnetism)*. Unified-field paper (A144).
+- **1944:** *The Affine Connexion in Physical Field Theories*. Scientific paper (A145).
+- **1944:** *Rate of n-fold Accidental Coincidences*. Probability note (A146).
+- **1944:** *The Statistical Law in Nature*. Scientific-philosophical article (A147).
+- **1945:** *On Distant Affine Connection*. Mathematical-physics paper (A148).
+- **1945:** *Infinitesimal Affine Connections with Twofold Einstein-Bargmann Symmetry*. Joint paper with F. Mautner; authorship is shared (A149).
+- **1945:** *Probability Problems in Nuclear Chemistry*. Scientific paper (A150).
+- **1946:** *The General Affine Field Laws*. Unified-field paper (A153).
+- **1946:** *Affine Feldtheorie und Meson*. Scientific paper (A154).
+- **1947:** *The Foundation of the Theory of Probability—I*. First part of a two-paper project (A155).
+- **1947:** *The Foundation of the Theory of Probability—II*. Second part of that project (A156).
+- **1947:** *The Relation between Metric and Affinity*. Mathematical-physics paper (A157).
+- **1947:** *The Final Affine Field Laws I*. First of three papers (A158).
+- **1948:** *The Final Affine Field Laws II*. Second paper (A162).
+- **1948:** *The Final Affine Field Laws III*. Third paper (A163).
+- **1950:** *Irreversibility*. Scientific paper, later reprinted without becoming a new obra (A166, A207c).
+- **1951:** *Studies in the Non-Symmetric Generalization of the Theory of Gravitation I*. Monograph-length institute paper (A168).
+- **1951:** *On the Differential Identities of an Affinity*. Mathematical-physics paper (A169).
+- **1951:** *The Point-Charge in the Non-symmetric Field Theory*. Joint paper with A. Papapetrou; authorship is shared (A170).
+- **1951:** *Studies in the Generalized Theory of Gravitation II: The Velocity of Light*. Institute paper made with O. Hittmair; authorship is shared (A171).
+- **1951:** *A Combinatorial Problem in Counting Cosmic Rays*. Scientific note (A172).
+- **1952:** *Dirac’s New Electrodynamics*. Brief scientific comment (A175).
+- **1952:** *Relativistic Fourier Reciprocity and the Elementary Masses*. Mathematical-physics paper (A178).
+- **1953:** *The Meaning of Wave Mechanics / La signification de la mécanique ondulatoire*. Commemorative scientific essay (A182).
+- **1954:** *Electric Charge and Current Engendered by Combined Maxwell-Einstein Fields*. Scientific paper (A184).
+- **1954:** *Relativistic Quantum Theory*. Published extract from a private letter: it resists easy classification as a deliberately made article because the publication object was created editorially from correspondence (A185).
+- **1954:** *Measurement of Length and Angle in Quantum Mechanics*. Brief scientific communication (A186).
+- **1955:** *A Thermodynamic Relation between Frequency-Shift and Broadening*. Scientific paper (A191).
+- **1955:** *The Wave Equation for Spin 1 in Hamiltonian Form I*. First paper of a pair (A192).
+- **1955:** *Must the Photon Mass Be Zero?*. Joint paper with L. Bass; a later summary and discussion is a manifestation of the same project (A194, A197).
+- **1955:** *The Wave Equation for Spin 1 in Hamiltonian Form II*. Second paper of the pair (A195).
+- **1958:** *Might Perhaps Energy Be a Merely Statistical Concept?*. Scientific paper (A201).
+
+### Lectures, essays, addresses, journalism, and other public prose
+
+- **1923:** *Ton und Farbe*. Newspaper essay relating sound and color (A33).
+- **1923:** *Vom Radium*. Newspaper article (A33a).
+- **1924:** *Kann man Atome photographieren?*. Newspaper science essay (A35).
+- **1924:** *Einiges über die Sterne*. Three-part newspaper article (A39).
+- **1925:** *Otto Lummer*. Newspaper memorial or biographical notice (A46).
+- **1925:** *Michelsonscher Versuch und Relativitätstheorie*. Newspaper exposition (A48).
+- **1928:** *Neue Wege in der Physik*. Public scientific essay, subsequently reprinted; the reprints are manifestations rather than new works (A65, A68, A96a).
+- **1929:** *Der erkenntnistheoretische Wert physikalischer Modellvorstellungen*. Philosophical lecture or essay, translated as *Conceptual Models in Physics and Their Philosophical Value* (A67).
+- **1929:** *Was ist ein Naturgesetz?*. Philosophy-of-science essay (A69).
+- **1929:** *Einstein Explained*. Popular exposition (A71).
+- **1929:** *Antrittsrede des Hrn. Schrödinger*. Academy inaugural address; abridged and posthumous printings are manifestations (A72, A75, A96b, A207b).
+- **1929:** *Adresse an Hrn. Max Planck zum fünfzigjährigen Doktorjubiläum*. Ceremonial address printed unsigned; the bibliography attributes it to Schrödinger but preserves the absence of a signature (A73).
+- **1929:** *Das Rätsel des Lichts*. Popular-science essay (A76).
+- **1929:** *Das Gesetz der Zufälle: Der Kampf um Ursache und Wirkung in den modernen Naturwissenschaften*. Popular philosophical essay (A77).
+- **1929:** *Vorwort* to K. K. Darrow’s *Elementare Einführung in die Wellenmechanik*. Preface: a paratext made for another author’s book rather than an independent book (A79).
+- **1930:** *Das gehetzte Licht*. Magazine science essay (A80).
+- **1930:** *Was ist eigentlich Elektrizität?*. Popular-science essay (A81).
+- **1930:** *Wissenschaft—Kunst—Spiel*. Cultural essay, later rewritten or translated under several English titles (A84, A87, A88, A113).
+- **1930:** *Verabsäumte Pflichten*. Short public essay (A85).
+- **1930:** *Naturwissenschaft und Ethik*. Newspaper essay (A86).
+- **1930/1962:** *Die Wandlung des physikalischen Weltbegriffs*. Lecture delivered at the Deutsches Museum on 6 May 1930 but first separately recorded in the bibliography under 1962; performance and publication dates differ (A206).
+- **1931:** *Interviews with Great Scientists: Prof. Schrödinger*. An interview text: partly his utterance and partly an editor’s artifact, so it resists unqualified sole authorship (A88).
+- **1932:** *Anmerkungen zum Kausalproblem*. Philosophy-of-science essay (A94).
+- **1932:** *Über Indeterminismus in der Physik*. Lecture-essay later paired with *Ist die Naturwissenschaft milieubedingt?* in a book (B3.1).
+- **1932:** *Ist die Naturwissenschaft milieubedingt?*. Lecture-essay whose English manifestation was substantially rewritten by James Murphy; that version cannot be treated as transparently identical to Schrödinger’s German text (B3.1–3.3).
+- **1933/1934:** *Der Grundgedanke der Wellenmechanik*. Nobel lecture delivered in 1933 and first printed in 1934, with another authorized printing in 1935 (A101, A110).
+- **1933:** *Warum sind die Atome so klein?*. Public scientific essay (A99).
+- **1935:** *Quelques remarques au sujet des bases de la connaissance scientifique*. Philosophy-of-science essay (A104).
+- **1935:** *Equality and Relativity of Freedom*. Radio/public essay; its German printing was an abridged translation (A105, A106b).
+- **1935:** *The Decline*. Cultural or educational essay (A109a).
+- **1935:** *Trinkspruch*. Ceremonial toast, untitled in the source beyond this generic description (A111).
+- **1935:** *Erwin Schrödinger*. Autobiographical sketch prepared for the Nobel record (A112).
+- **1936:** *Indeterminism and Free Will*. Philosophical letter or short article (A116).
+- **1941:** *Prof. Richard Bär*. Obituary (A128).
+- **1945:** *Österreichische Wissenschaft*. Political-cultural essay for the Free Austrian movement, subsequently modified and translated as *Austrian Science* (A151–152a).
+- **1947:** *Der Geist der Naturwissenschaft*. Eranos lecture-essay, translated as *The Spirit of Science* (A159, A189, A207).
+- **1948:** *2400 Jahre Quantentheorie*. Historical essay; its Hungarian printing is a translation, not a second work (A160, A204).
+- **1948:** *Die Besonderheit des Weltbilds der Naturwissenschaft*. Extended philosophy-of-science essay (A161).
+- **1948:** *Theoretiker und Praktiker*. Newspaper essay (A164).
+- **1950:** *What Is an Elementary Particle?*. Scientific essay issued simultaneously in several languages and repeatedly reprinted; these are manifestations of one text (A165, A173–174, A203).
+- **1950:** *The Future of Understanding / Die Zukunft des Weltverstehens*. Project comprising three BBC talks, later incorporated into books (A167).
+- **1952–1954:** *Unsere Vorstellung von der Materie / Our Conception of Matter*. Geneva lecture-essay subsequently abridged, translated, and retitled *What Is Matter?*, *Our Image of Matter*, and *L’immagine attuale della materia*; these variants form a manifestation family rather than independent works (A179–181, A187, A202, A205, A208).
+- **1952:** *Are There Quantum Jumps? Part I*. Philosophy-of-physics essay (A176).
+- **1952:** *Are There Quantum Jumps? Part II*. Continuation of the essay (A177).
+- **1954:** *Orientierung im Weltall; Erdalter und Weltalter; Die Kohlenstoff-Uhr; Raum und Zeit*. Four linked public lectures or essays published together (A188).
+- **1955:** *The Philosophy of Experiment*. Philosophy-of-science essay (A190).
+- **1955:** *Atomenergie*. Popular article (A193).
+- **1955:** *Die Atomisten*. Historical-philosophical essay, also a chapter of *Nature and the Greeks* (A196; B10).
+- **1956/1957:** *Festrede bei der Eröffnung der fünften Weltkraftkonferenz*. Ceremonial address delivered in 1956 and published in German, English, and French in 1957; it has no stable authorial title in the bibliography (A198).
+- **1957:** *Zur Geistesgeschichte der Stellung der Menschen*. Historical-philosophical essay (A199).
+- **1957:** *Die Atomtheorie*. Public scientific essay (A200).
+- **1959:** *Commilitonen!* Short letter to graduating pupils; printed alongside the poem *Upanishad* and therefore a composite publication rather than one homogeneous text (A201a).
+- **1961:** *Religion und Naturwissenschaft*. Extract from *Nature and the Greeks*, not a wholly independent work (A203a).
+- **No publication date recorded:** *Infinites—A Discourse on Transfinite Numbers*. Essay whose venue is identified but whose date and fuller bibliographical particulars were already unavailable to the standard bibliography; its incompleteness should not be silently repaired (A209).
+
+### Reviews
+
+- **1921:** Review of D. L. Webster, C. G. Found, and H. A. Wilson on quantum emission, ionization potentials, and electromagnetic momentum. A compound article review rather than an original research paper (A27a).
+- **1925:** Review of E. Marx’s *Handbuch der Radiologie 6: Die Theorien der Radiologie*. Book review (A47a).
+- **1926:** Review of J. Guild’s *Die geometrische Lösung von Farbenmischungsaufgaben*. Article review (A52a).
+- **1926:** Review of K. F. Herzfeld’s *Kinetische Theorie der Wärme*. Book review (A53a).
+- **1929:** Review of A. S. Eddington’s *The Nature of the Physical World*. Book review (A74).
+- **1930:** Review of H. A. Lorentz’s *Vorlesungen über theoretische Physik an der Universität Leiden*, volume 4. Book review (A79a).
+- **1931:** Review of H. Jeffreys’s *Scientific Inference*. Book review (A92a).
+- **1932:** Review of the German edition of Eddington’s *Das Weltbild der Physik und ein Versuch seiner philosophischen Deutung*. Related to, but not simply identical with, the 1929 review (A94a).
+- **1932:** Review of A. Sommerfeld’s *Atombau und Spektrallinien*, fifth edition. Jointly made with V. F. Weisskopf (A95a).
+- **1933:** Review of B. L. van der Waerden’s *Die gruppentheoretische Methode in der Quantenmechanik*. Book review (A97a).
+- **1934:** Review of H. A. Lorentz’s *Vorlesungen über theoretische Physik an der Universität Leiden*, volume 5. Book review (A99a).
+- **1935:** Review of P. Frank and R. von Mises, *Die Differential- und Integralgleichungen der Mechanik und Physik 2*. Book review (A106a).
+- **1940:** Review of A. S. Eddington’s *The Philosophy of Physical Science*. Book review (A124a).
+
+### Books, lecture-books, and author-shaped collections
+
+- **1927:** *Abhandlungen zur Wellenmechanik*. Author-organized collection of six existing wave-mechanics papers with a new preface and systematic synopsis; it is both book and retrospective obra (B1.1).
+- **1928:** *Abhandlungen zur Wellenmechanik*, second enlarged edition. A materially expanded authorial state adding three papers; later translations and reprints are manifestations of this state (B1.2–1.8).
+- **1928:** *Four Lectures on Wave Mechanics*. Book made from four Royal Institution lectures; the German and Russian versions are translations (B2).
+- **1932:** *Über Indeterminismus in der Physik—Ist die Naturwissenschaft milieubedingt? Zwei Vorträge zur Kritik der naturwissenschaftlichen Erkenntnis*. Paired lecture-book (B3.1).
+- **1935:** *Science and the Human Temperament*. English essay collection assembled through translation and rewriting by James Murphy and W. H. Johnston, with a biographical introduction by Murphy and foreword by Rutherford; its authorship and textual identity are consequently collaborative and mediated (B4).
+- **1944:** *What Is Life? The Physical Aspect of the Living Cell*. Lecture-book based on Schrödinger’s February 1943 Trinity College lectures; its later translations and reprints are manifestations (B5).
+- **1944/1946:** *Statistical Thermodynamics: A Course of Seminar Lectures*. Seminar course first issued as a Dublin hectograph in 1944 and commercially in 1946; the 1952 second edition adds an appendix but largely reprints the first (B6).
+- **1950:** *Space-Time Structure*. Technical monograph on differential geometry and relativity (B8).
+- **1951:** *Science and Humanism: Physics in Our Time*. Book-length lecture-essay; Schrödinger himself produced the German version *Naturwissenschaft und Humanismus* (B9).
+- **1948/1954:** *Nature and the Greeks*. Book arising from the 1948 Shearman lectures and first published in English in 1954; the temporal gap distinguishes the performed project from its book manifestation (B10.1).
+- **1955:** *Die Natur und die Griechen: Kosmos und Physik*. German authorial/translated manifestation of *Nature and the Greeks* (B10.2).
+- **1956:** *Expanding Universes*. Technical cosmology monograph developed from four linked studies (B11).
+- **1956:** *What Is Life? and Other Scientific Essays*. Retrospective collection of previously made texts; bibliographically a book, but mostly a new container rather than new prose (B12).
+- **1957:** *Science Theory and Man*. *Science and the Human Temperament* reissued unchanged except for the addition of *What Is an Elementary Particle?*; an expanded manifestation rather than a wholly new work (B13).
+- **1958:** *Mind and Matter*. Book made from the Tarner Lectures delivered in October 1956 (B14).
+- **1925/1960–1961:** *Meine Weltansicht*. Philosophical book combining *Suche nach dem Weg*, written in autumn 1925, with *Was ist wirklich*, written in 1960; the 1961 book is therefore one late obra assembled from two temporally distant projects (B15).
+- **1962:** *Was ist ein Naturgesetz? Beiträge zum naturwissenschaftlichen Weltbild*. Posthumous collection of six earlier essays; it is an editorial manifestation, not a book newly made by Schrödinger after death (B16).
+- **1963:** *Schrödinger—Planck, Einstein, Lorentz: Briefe zur Wellenmechanik*. Posthumously edited correspondence published by K. Przibram. Schrödinger made his individual letters, but not this later book-object as such (B17).
+- **1963:** *L’immagine del mondo*. Posthumous Italian collection whose selection Schrödinger himself made; the selection is his project, while translation and final book manifestation are editorial (B18).
+- **1985:** *Mein Leben*. Autobiographical text first published posthumously with *Meine Weltansicht*. Its composition date is not fixed by the standard bibliography, and the 1985 date belongs to the manifestation, not necessarily the writing (B22).
+
+### Poetry and literary pieces
+
+- **1949:** *Gedichte*. Authorial poetry collection; the individual poems constitute works too, but the standard bibliography principally catalogues the collection as the book-object (B7).
+- **Date not fixed; published by 1949:** *Begegnung*. Poem later printed with *Parabel* in 1954 (A186a; B7).
+- **Date not fixed; published by 1949:** *Parabel*. Poem repeatedly reprinted after Schrödinger’s death; those appearances are manifestations of the same poem (A186a, A207l–n, A207p; B7).
+- **Date not fixed; published by 1949:** *Zürich*. Poem in *Gedichte*, later reprinted in Walter Moore’s biography (A207p; B7).
+- **Date not fixed; published by 1949:** *Liebeslied*. Poem in *Gedichte*, later reprinted in Moore (A207p; B7).
+- **Date not fixed; published by 1949:** *Geborgen*. Poem in *Gedichte*, later reprinted in Moore (A207p; B7).
+- **Date not fixed; published by 1949:** *Der Enttäuschte*. Poem in *Gedichte*, later reprinted in Moore; the bibliography’s transcription gives *Entäuschte* (A207p; B7).
+- **Date not fixed; published by 1949:** *On the Shore*. Poem in *Gedichte*, later reprinted in Moore (A207p; B7).
+- **Date not fixed; published by 1949:** *Juni*. Poem in *Gedichte*, later reprinted in Moore (A207p; B7).
+- **By 1959:** *Upanishad*. Poem printed with the short letter *Commilitonen!*; the bibliography calls it previously unpublished but supplies no composition date (A201a).
+- **Date unknown; first published 1989:** *Zittern*. Posthumously published poem; the publication date must not be mistaken for a composition date (A207q).
+- **Date unknown; first published 1989:** *Herbst*. Posthumously published poem; the standard bibliography supplies no composition date (A207r).
+- **Date unknown:** *Fragment from an Unpublished Dialogue of Galileo*. Literary dialogue fragment, published posthumously in 1975 after an earlier appearance in a school magazine; neither its composition date nor that earlier publication date is fixed in the bibliography (A207a).
+
+### Correspondence, autobiography, and resistant objects
+
+- **Various dates; published 1963:** *Letters on Wave Mechanics*. Schrödinger’s letters to or from Planck, Einstein, and Lorentz are individually made correspondence, but the titled book is Przibram’s posthumous editorial construction (B17).
+- **Date not fixed; first published 1985:** *Mein Leben*. Autobiographical manuscript. It resists being identified with the 1985 volume *Mein Leben, Meine Weltansicht*, which combines it with a previously published philosophical work and an editor’s introduction (B22).
+- **Date not fixed:** *Glückliche Kindheit*. Autobiographical passage, printed independently in 1989 but explicitly identified as a short extract from *Mein Leben*; not a securely independent obra (A207s; B22).
+- **Date not fixed; published 1989:** *Zur Verteidigung der universalen Betrachtungsweise*. Preface to a German edition of *What Is Life?*, later excerpted independently; fundamentally a paratext, not a separate book (A207o).
+- **1925–1960:** *Meine Weltansicht* as philosophical project. Its two strata, *Suche nach dem Weg* and *Was ist wirklich*, show a project resumed after roughly thirty-five years rather than a continuously composed single text (B15).
+- **1926 onward:** *Wave mechanics*. A theoretical and mathematical body of work realized across papers, lectures, and books. It is an obra in the sense of a sustained made system, but not a single text or a manifesto.
+- **1935:** The “Schrödinger’s cat” thought experiment. A conceptual device made within *Die gegenwärtige Situation in der Quantenmechanik*, not a separately titled publication, protocol, or physical experiment; calling it an independent “work” would overstate its bibliographical autonomy (A108).
+- **No fixed date:** Schrödinger’s unpublished manuscripts, notebooks, and private correspondence outside the items incorporated into the standard publication bibliography. These unquestionably include things he made, but the consulted bibliography is a publication bibliography rather than a catalogue raisonné of archival papers; completeness at the manuscript level therefore cannot responsibly be claimed.
+
+### Sources
+
+- Auguste Dick, Gabriele Kerber, Wolfgang Kerber, and Karl von Meyenn, [*Erwin Schrödinger: Bibliographie*](https://zbphysik.univie.ac.at/ausstellung/schroedinger/bibliographie.pdf), Zentralbibliothek für Physik in Wien. This is the controlling scholarly bibliography: Part A catalogues papers “of every kind,” including reviews, speeches, extracts, poems, and posthumous appearances; Part B catalogues independently published books and records their contents, translations, and edition relationships.
+- Dick, Kerber, Kerber, and von Meyenn, [online HTML edition of the publication bibliography](https://zbphysik.univie.ac.at/ausstellung/schroedinger/ebibliographie/publications.htm). Consulted to cross-check entry numbering, titles, dates, co-authorship, translation relationships, and the editors’ explanatory notes.
+- Erwin Schrödinger, *Gesammelte Abhandlungen / Collected Papers*, 4 vols. (Vienna: Verlag der Österreichischen Akademie der Wissenschaften; Braunschweig/Wiesbaden: Vieweg, 1984), ISBN 3-7001-0573-8. The collected-works edition organizes the papers into statistical mechanics, field theory, quantum theory, and general scientific or popular writings; bibliographical record and volume description are reproduced in the [University of Utah bibliography](https://ftp.math.utah.edu/pub/bibnet/authors/s/schroedinger-erwin.html).

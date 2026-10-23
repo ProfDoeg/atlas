@@ -1,0 +1,47 @@
+## Works by Saddam Hussein al-Tikriti
+
+### Political discourse as a collected obra
+
+- **1968–1989:** *Al-Muʾallafāt al-kāmilah* (*The Complete Works*). An eighteen-volume official collected corpus of speeches, interviews, articles, messages, and political statements, published in Baghdad in 1989 and arranged chronologically; it is an archival body of discourse rather than eighteen independently composed books, and its state-produced form makes Hussein’s individual authorship difficult to separate from speechwriters and the Baʿthist apparatus. The catalogue describes volumes covering 1968–89, while scholarly bibliographies cite individual items from this corpus. ([Bibliothèque nationale de Tunisie](https://www.bibliotheque.nat.tn/BNTK/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=6164984&TITLE=%D8%A7%D9%84%D9%85%D9%88%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9&_lg=ar-TN); [Cambridge bibliography](https://www.cambridge.org/core/books/abs/saddam-husseins-bath-party/bibliography/DE1A01A625893EE0C2346C658B3D4EF9))
+
+- **1977–1978:** *On Democracy*. Three speeches delivered while Hussein was vice-president, later gathered under this editorial title. They are political manifestos in the functional sense—texts intended to organize institutions and legitimate power—not a single book conceived under that title; their incorporation into later editions should not be mistaken for additional works. ([Middle Eastern Studies](https://www.tandfonline.com/doi/abs/10.1080/00263206.2016.1271786); [Greene Naftali](https://greenenaftaligallery.com/shop/on-democracy-by-saddam-hussein))
+
+- **Dates various, chiefly before 1989:** *On History, Heritage and Religion*; *On Iraq and International Politics*; *The Revolution and the Young*; *On Current Affairs in Iraq*; *One Trench or Two?*; and *The Revolution and Woman in Iraq*. These are thematic compilations of Hussein’s political discourse rather than securely identifiable unitary compositions; they therefore resist treatment as six separately written books and belong bibliographically to the larger collected political obra. ([New Humanist](https://newhumanist.org.uk/articles/book-review-dictator-literature/); [Bibliothèque nationale de Tunisie](https://www.bibliotheque.nat.tn/BNTK/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=6164984&TITLE=%D8%A7%D9%84%D9%85%D9%88%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9&_lg=ar-TN))
+
+### Novels and literary propaganda
+
+- **2000 or 2001:** *Zabībah wa-l-Malik* (*Zabibah and the King*). An allegorical historical romance first issued anonymously as “a novel by its author”; sources differ between 2000 and 2001 for composition or first publication. It is conventionally attributed to Hussein, but claims of ghostwriting persist; later research treats Hussein as the writer while allowing for editorial assistance, so unqualified sole authorship remains unsafe. ([Hawraa Al-Hassan, Edinburgh University Press](https://edinburghuniversitypress.com/pub/media/resources/9781474441773_Al-Hassan_Women_Writing_and_the_Iraqi_Ba_thist_State_Chapter1.pdf); [Cambridge bibliography](https://www.cambridge.org/core/books/abs/saddam-husseins-bath-party/bibliography/DE1A01A625893EE0C2346C658B3D4EF9); [Hudson Institute discussion of the dispute](https://www.hudson.org/national-security-defense/saddam-hussein-s-new-novel-might-end-up-funneling-money-to-isis))
+
+- **2001:** *Al-Qalʿah al-ḥaṣīnah* (*The Fortified Castle*). A political-allegorical novel about national unity, inheritance, and resistance to foreign intrusion. Like the other late novels, it appeared within a state propaganda system and without an ordinary transparent authorial presentation, making it simultaneously a literary obra and a regime production. ([Oxford Academic](https://academic.oup.com/edinburgh-scholarship-online/book/40243); [Hawraa Al-Hassan, Edinburgh University Press](https://edinburghuniversitypress.com/pub/media/resources/9781474441773_Al-Hassan_Women_Writing_and_the_Iraqi_Ba_thist_State_Chapter1.pdf))
+
+- **2002:** *Rijāl wa-madīnah* (*Men and a City*, also translated *Men and the City*). A quasi-autobiographical historical novel connecting Hussein’s family mythology, Tikrit, and the emergence of the Baʿth movement. Its fictional form does not make it an independent private utterance: scholarship reads it as state-sponsored nationalist indoctrination, and its precise degree of editorial collaboration is undocumented. ([Hawraa Al-Hassan, Edinburgh University Press](https://edinburghuniversitypress.com/pub/media/resources/9781474441773_Al-Hassan_Women_Writing_and_the_Iraqi_Ba_thist_State_Chapter1.pdf); [Nidaba](https://journals.lub.lu.se/nidaba/issue/download/2427/329))
+
+- **2003; published posthumously in some markets in 2005–2006:** *Ukhruj minhā yā malʿūn* (*Begone, Demons*; also *Get Out of Here, Curse You!* and, in Japanese, *Devil’s Dance*). Hussein’s fourth attributed novel is a pan-Arabist political allegory reportedly completed around the invasion of Iraq; its manuscript was carried out of Iraq, and different circulated or published versions were reportedly altered, so there is no securely established definitive text. Contemporary reporting accordingly called it “purportedly” his. ([Radio Free Europe/Radio Liberty](https://www.rferl.org/a/1068516.html); [Hudson Institute](https://www.hudson.org/national-security-defense/saddam-hussein-s-new-novel-might-end-up-funneling-money-to-isis); [Nidaba](https://journals.lub.lu.se/nidaba/issue/download/2427/329))
+
+### Prison poetry
+
+- **2005–2006:** *Untitled or variably titled prison poems*. Hussein composed multiple Arabic poems while imprisoned, and individual poems circulated through his lawyers and the press, including one reported in February 2006 beginning with the speaker’s unconquered heart and ending in salutations to Iraq. No authoritative collected edition or complete scholarly inventory was located, titles are inconsistently supplied by journalists, and the surviving public corpus therefore resists enumeration as a stable set of separately titled works. ([ABC News](https://abcnews.com/International/IraqCoverage/story?id=1588831); [Al-Riyadh](https://www.alriyadh.com/156067); [Le Monde](https://www.lemonde.fr/a-la-une/article/2006/12/30/saddam-hussein-un-tyran-en-sa-prison_850653_3208.html))
+
+### Commissioned and collaborative textual object
+
+- **Late 1990s–2000:** *The Blood Qur’an*. A 605-page Qur’an manuscript commissioned by Hussein and calligraphed by Abbas Shakir Joudi, reportedly using blood supplied by Hussein; it is therefore a collaborative manifestation and political-religious Gesamtkunstwerk, not a text authored by Hussein. Even its material claim resists certainty: reports give approximately 24–27 litres of blood, an amount medical commentators have questioned, while the manuscript’s post-2003 whereabouts and present integrity are not securely documented. ([University of Florida study](https://ufdcimages.uflib.ufl.edu/UF/E0/05/27/78/00001/MCDANIEL_M.pdf); [Jewish Policy Center](https://www.jewishpolicycenter.org/2010/12/23/saddam-inked-quran-in-own-blood/))
+
+### Sources
+
+- Hawraa Al-Hassan, *Women, Writing and the Iraqi Baʿthist State: Contending Discourses of Resistance and Collaboration, 1968–2003*, especially “The Infamous Iraqi Majidat: Chastity, Chivalry and Collective Identity in the Novels of Saddam Hussein.” [Oxford Academic](https://academic.oup.com/edinburgh-scholarship-online/book/40243); [publisher’s chapter material](https://edinburghuniversitypress.com/pub/media/resources/9781474441773_Al-Hassan_Women_Writing_and_the_Iraqi_Ba_thist_State_Chapter1.pdf).
+
+- Joseph Sassoon, *Saddam Hussein’s Baʿth Party: Inside an Authoritarian Regime*, bibliography. [Cambridge University Press](https://www.cambridge.org/core/books/abs/saddam-husseins-bath-party/bibliography/DE1A01A625893EE0C2346C658B3D4EF9).
+
+- Bibliothèque nationale de Tunisie, catalogue record for Saddam Hussein, *Al-Muʾallafāt al-kāmilah*, 18 vols., Baghdad, 1989. [Catalogue record](https://www.bibliotheque.nat.tn/BNTK/detailstatic.aspx?RSC_BASE=SYRACUSE&RSC_DOCID=6164984&TITLE=%D8%A7%D9%84%D9%85%D9%88%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9&_lg=ar-TN).
+
+- Ronen Zeidel, “The Iraqi Novel and the Baʿthist State,” *Nidaba: An Interdisciplinary Journal of Middle East Studies*, vol. 2, no. 1. [Issue PDF](https://journals.lub.lu.se/nidaba/issue/download/2427/329).
+
+- Kanan Makiya and other commentators on the novels’ disputed authorship, reported by the Hudson Institute. [“Saddam Hussein’s New Novel Might End Up Funneling Money to ISIS”](https://www.hudson.org/national-security-defense/saddam-hussein-s-new-novel-might-end-up-funneling-money-to-isis).
+
+- Radio Free Europe/Radio Liberty, report on the first authorized Japanese publication of Hussein’s fourth attributed novel. [“Saddam Hussein Novel On Sale In Japan”](https://www.rferl.org/a/1068516.html).
+
+- ABC News, contemporary report of a prison poem transmitted by Hussein’s lawyers. [“Waxing On About Iraq: Saddam Pens a Poem”](https://abcnews.com/International/IraqCoverage/story?id=1588831).
+
+- Yahya al-Amir, report on Hussein’s late prison poetry, *Al-Riyadh*, 21 May 2006. [Arabic article](https://www.alriyadh.com/156067).
+
+- Matthew McDaniel, University of Florida study discussing the commission, manufacture, and uncertain survival of the Blood Qur’an. [PDF](https://ufdcimages.uflib.ufl.edu/UF/E0/05/27/78/00001/MCDANIEL_M.pdf).

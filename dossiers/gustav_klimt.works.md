@@ -1,0 +1,204 @@
+## Works by Gustav Klimt
+
+### Architectural decorations and collaborative Gesamtkunstwerke
+
+- **1883–1884:** *Ceiling paintings for the Stadttheater, Fiume/Rijeka*. A decorative cycle executed by the Künstler-Compagnie—Gustav Klimt, Ernst Klimt, and Franz Matsch—so individual authorship belongs partly to a collaborative workshop rather than to Klimt alone.
+- **1884–1885:** *Curtain and ceiling designs for the Stadttheater, Karlsbad/Karlovy Vary*. Designs for a theatrical decorative program undertaken by the Künstler-Compagnie; the surviving studies and the realized architectural painting are related but distinct objects.
+- **1885:** *Ceiling paintings for the Hermesvilla, Vienna*. Decorative paintings made collaboratively by the Künstler-Compagnie; attribution of individual portions among Klimt, Ernst Klimt, and Matsch is not always secure.
+- **1886–1888:** *Ceiling paintings of the staircases of the Burgtheater, Vienna*. An architectural program by the Künstler-Compagnie, including Klimt’s *The Theatre at Taormina* and *The Altar of Dionysus*; it is better understood as collaborative decoration than as a set of autonomous easel pictures.
+- **1888:** *Auditorium of the Old Burgtheater*. A large gouache recording the audience in the soon-to-be-demolished theatre; simultaneously a group portrait, documentary image, and commemorative object.
+- **1890–1891:** *Spandrel and intercolumnar paintings, Kunsthistorisches Museum, Vienna*. Klimt’s contributions include *Ancient Greece and Egypt*, *Florentine Cinquecento and Quattrocento*, *Old Italian Art*, and *Roman and Venetian Quattrocento*; the paintings belong to architecture and resist separation into wholly independent works.
+- **1899–1907:** *Faculty Paintings for the University of Vienna*. A state commission comprising *Philosophy*, *Medicine*, and *Jurisprudence*, plus the related faculty symbols; Klimt withdrew after controversy and repaid his fee. The principal canvases were destroyed at Schloss Immendorf in 1945 and survive through photographs, reproductions, and studies.
+- **1899–1907:** *Philosophy*. Monumental ceiling painting for the University of Vienna; rejected in controversy, returned to Klimt, and destroyed in 1945.
+- **1900–1907:** *Medicine*. Monumental university ceiling painting; its dating varies because Klimt repeatedly revised it. It was destroyed in 1945.
+- **1903–1907:** *Jurisprudence*. Monumental university ceiling painting, substantially reconceived after the commission began; destroyed in 1945.
+- **1901–1902:** *Beethoven Frieze*. A monumental, multipart wall painting made for the Vienna Secession’s Beethoven exhibition; conceived as temporary exhibition architecture, later removed, preserved, and reinstalled, it is both painting and Gesamtkunstwerk component.
+- **1901–1902:** *The Longing for Happiness*. The first long wall of the *Beethoven Frieze*, incorporating the floating Genii and the supplicating figures.
+- **1901–1902:** *The Hostile Powers*. The frieze’s central wall, including Typhoeus, the Gorgons, Sickness, Madness, Death, Lust, Unchastity, and Intemperance.
+- **1901–1902:** *The Well-Armed Strong One*. A component of the *Beethoven Frieze* representing the heroic agent through whom humanity seeks happiness.
+- **1901–1902:** *This Kiss to the Whole World*. The concluding wall of the *Beethoven Frieze*, joining poetry, music, choir, and embracing figures.
+- **1905–1911:** *Stoclet Frieze*. Klimt’s mosaic designs for the dining room of the Palais Stoclet in Brussels, realized by Wiener Werkstätte craftspeople in stone, ceramic, glass, enamel, and precious metal. Authorship is distributed between Klimt’s project, Josef Hoffmann’s architecture, the workshop’s fabrication, and the installed Gesamtkunstwerk.
+- **1905–1911:** *Expectation*. Mosaic-cartoon project for the Stoclet dining room, centered on a standing dancer.
+- **1905–1911:** *The Tree of Life*. Central mosaic-cartoon project for the Stoclet dining room; the famous image is not an autonomous canvas but part of the larger decorative scheme.
+- **1905–1911:** *Fulfilment*. Mosaic-cartoon project showing an embracing couple and answering *Expectation* across the Stoclet room.
+- **1905–1911:** *Knight*. Abstracted mosaic-cartoon component of the Stoclet program whose interpretation remains contested.
+- **1908:** *Klimt Room at the Kunstschau Wien*. An exhibition environment assembled around Klimt’s paintings within a larger show conceived as a Gesamtkunstwerk; Klimt contributed the displayed obra, but the architectural authorship was collective.
+
+### Allegories, mythologies, and figure paintings
+
+- **1883:** *Fable*. An early academic allegorical painting.
+- **1884:** *Idyll*. An allegorical painting in the historicist manner.
+- **1884–1885:** *Allegory of Sacred Music (Female Organ Player)*. A painted design rather than a realized architectural commission.
+- **1888–1890:** *Sappho*. A mythological-literary painting whose title and dating vary slightly among catalogues.
+- **1889:** *Allegory of Sculpture*. A painted allegory prepared for Martin Gerlach’s publication *Allegorien und Embleme*.
+- **1895:** *Love*. An allegorical painting made for Gerlach’s *Allegorien: Neue Folge*.
+- **1895:** *Music I*. An allegorical painting; the original was destroyed in the Immendorf fire in 1945.
+- **1897:** *Tragedy*. A painted allegory designed for publication.
+- **1898:** *Music II*. An allegorical painting destroyed at Schloss Immendorf in 1945.
+- **1898:** *Pallas Athena*. An easel painting that also functioned as an emblematic declaration of Secessionist artistic autonomy.
+- **1899:** *Nuda Veritas*. An allegorical painting carrying a text by Schiller; its manifesto-like role in Secessionist debates exceeds ordinary description.
+- **1899:** *Mermaids (Silverfish)*. A symbolist figure painting, later retitled *Silverfish* after hostile criticism.
+- **1899–1907:** *Goldfish*. A figure painting initially associated with Klimt’s defiant response to critics; catalogues differ over the exact span of its revisions.
+- **1900–1901:** *Floating Woman with Outstretched Arm*. A figure painting closely connected to Klimt’s studies for the University commission.
+- **1902–1903:** *Will-o’-the-Wisps*. A symbolist figure painting.
+- **1903:** *The Golden Knight*. An allegorical painting also known as *Life Is a Struggle*.
+- **1903:** *Hope I*. A painting of a pregnant nude whose exhibition history made it a deliberately confrontational public image.
+- **1903:** *Procession of the Dead*. A symbolist painting known through the catalogue tradition; it was destroyed in 1945.
+- **1904–1907:** *Water Serpents I / Girlfriends*. A mixed-media painting on parchment, amended after its first completion; the competing titles reflect its changing exhibition history.
+- **1904–1907:** *Water Serpents II*. A large figure painting repeatedly revised by Klimt; later alterations made after his death complicate the identity of the object.
+- **1905:** *The Three Ages of Woman*. An allegorical painting of infancy, maturity, and old age.
+- **1907–1908:** *Danaë*. A mythological figure painting.
+- **1907–1908:** *Hope II*. A painting of pregnancy, mourning, and ornament, also known as *Vision*.
+- **c. 1907–1909:** *The Kiss (Lovers)*. An oil, gold-, silver-, and platinum-leaf painting; its completion date is variously given as 1908 or 1909.
+- **1909:** *Judith II (Salome)*. A biblical-symbolist painting; the alternative title *Salome* was attached early and remains common.
+- **1909–1910:** *Mother with Two Children (Family)*. A figure painting known under both titles.
+- **1910–1915:** *Death and Life*. An allegorical painting revised substantially after its initial exhibition, making the displayed 1911 and post-1915 states materially different manifestations.
+- **1912–1913:** *The Virgin*. A large allegorical figure painting.
+- **1916–1917:** *Women Friends*. A figure painting destroyed in the Immendorf fire of 1945.
+- **1916–1918:** *Adam and Eve*. An unfinished painting left in Klimt’s studio at his death; the incomplete surface is part of its status as a project.
+- **1916–1918:** *The Dancer*. A late figure painting, probably unfinished or still subject to revision when Klimt died.
+- **1917–1918:** *Baby (Cradle)*. A late figure painting.
+- **1917–1918:** *The Bride*. A large unfinished project found in Klimt’s studio; exposed underdrawing and incomplete figures make the process itself visible.
+
+### Portrait paintings
+
+- **1883:** *Head Study of a Girl from Haná*. An early painted character study.
+- **1890:** *Portrait of Joseph Pembauer*. A portrait framed with an ornamental design associated with Klimt’s brother Georg.
+- **1890–1892:** *Two Girls with an Oleander*. A double portrait or genre-like figure painting.
+- **1893:** *Portrait of Mathilde Trau*. An easel portrait.
+- **1894:** *Portrait of Marie Breunig*. An easel portrait.
+- **1894:** *Portrait of a Woman*. A portrait whose sitter is not securely identified.
+- **1894:** *Portrait of an Unknown Woman*. An unidentified-sitter portrait; similarly generic titles in different catalogues should not automatically be treated as the same object.
+- **1894:** *Seated Young Girl*. A painted portrait or figure study.
+- **1895:** *Josef Lewinsky as Carlos in Clavigo*. A theatrical portrait portraying the actor in character.
+- **1895:** *Lady with a Lilac Scarf*. A portrait whose sitter remains unidentified.
+- **1896:** *Blind Man*. A painted character study or portrait.
+- **1896:** *Schubert at the Piano*. A commissioned interior and group portrait destroyed in 1945; the commonly reproduced image derives from photographs and color reproductions.
+- **1897–1898:** *Lady at the Fireplace (Dusk)*. A portrait-like interior whose title and genre remain unsettled.
+- **1897–1898:** *Lady with Cape and Hat*. An unidentified-sitter portrait.
+- **1897–1898:** *Sonja Knips*. A society portrait.
+- **1897–1900:** *Prince William Nii Nortey Dowuona*. A portrait whose dating differs among catalogues.
+- **c. 1898:** *Girl in Green / Girl in the Foliage*. A portrait-like figure painting with competing titles.
+- **1898:** *Lady en Face*. An unidentified-sitter portrait.
+- **1898:** *Portrait of Helene Klimt*. A portrait of the artist’s niece.
+- **1898:** *Head of a Girl en Face*. A small painted head study.
+- **1899:** *Portrait of Serena Pulitzer Lederer*. A society portrait destroyed in 1945.
+- **1900:** *Portrait of Rose von Rosthorn-Friedmann*. A society portrait destroyed in 1945.
+- **1901–1902:** *Portrait of Marie Henneberg*. A society portrait.
+- **1902:** *Portrait of Emilie Flöge*. A portrait integrating clothing, ornament, and pictorial field.
+- **1902:** *Portrait of Gertrud Loew*. A society portrait, later also known by the sitter’s married name, Gertha Felsöványi.
+- **1903–1907:** *Portrait of Adele Bloch-Bauer I*. A commissioned portrait combining oil, gold, silver, and ornamental relief; its extended date records a prolonged project rather than a single act of execution.
+- **1904:** *Portrait of Hermine Gallia*. A society portrait.
+- **1905:** *Portrait of Margaret Stonborough-Wittgenstein*. A society portrait.
+- **1906:** *Portrait of Fritza Riedler*. A society portrait.
+- **1909:** *Lady with Hat and Feather Boa*. An unidentified-sitter portrait.
+- **1910:** *The Black Feather Hat*. An unidentified-sitter portrait.
+- **c. 1910:** *Portrait of a Woman*. An unidentified-sitter portrait.
+- **1911–1912:** *Portrait of Paula Zuckerkandl*. A commissioned portrait destroyed in 1945.
+- **1912:** *Portrait of Adele Bloch-Bauer II*. A second, stylistically distinct portrait of the same sitter.
+- **1912:** *Ria Munk on Her Deathbed*. A posthumous portrait and the first of three substantially different treatments commissioned by the sitter’s family.
+- **1912–1913:** *Portrait of Mäda Primavesi*. A portrait of a child.
+- **1913–1914:** *Portrait of Eugenia Primavesi*. A society portrait.
+- **1914–1916:** *Portrait of Elisabeth Lederer*. A society portrait.
+- **1915:** *Portrait of Barbara Flöge*. A portrait of Emilie Flöge’s mother.
+- **1916:** *Portrait of Friederike Maria Beer*. A society portrait.
+- **1916:** *Lady with a Muff*. An unidentified-sitter portrait.
+- **1916:** *The Fur Collar*. An unidentified-sitter portrait.
+- **1916:** *The Polecat Fur*. An unidentified-sitter portrait whose conventional title describes the costume rather than identifying the woman.
+- **1916–1917:** *Portrait of a Lady*. A double-sided and radically altered painting: a later portrait was painted over an earlier *Portrait of a Young Woman*, making the present object two temporally layered works.
+- **1917:** *Portrait of Fräulein Lieser*. An unfinished portrait; the sitter’s identity has been disputed between members of the Lieser family.
+- **1917–1918:** *Lady with a Fan*. A late, unfinished or not finally resolved portrait-like painting.
+- **1917–1918:** *Lady in White*. A late portrait of an unidentified sitter.
+- **1917–1918:** *Portrait of Amalie Zuckerkandl*. An unfinished portrait.
+- **1917–1918:** *Portrait of Johanna Staude*. An unfinished portrait.
+- **1917–1918:** *Portrait of Ria Munk III*. The unfinished third version of the posthumous portrait project.
+- **1917–1918:** *Head of a Woman*. A late painted head study.
+- **undated:** *Portrait of a Woman (Study)*. A painted study without a securely established date or sitter.
+
+### Landscapes and gardens
+
+- **1898:** *After the Rain*. A landscape painting.
+- **1898:** *Moving Water*. A landscape painting.
+- **1899:** *Tranquil Pond*. A landscape painting.
+- **1900:** *On Lake Attersee*. A lake landscape.
+- **1900:** *Farmhouse with Birch Trees*. A landscape painting.
+- **1900:** *The Large Poplar I*. A landscape painting.
+- **1900:** *Cows in a Stable*. A rural interior or animal painting rather than a conventional open landscape.
+- **1901:** *Fir Forest I*. A square forest landscape.
+- **1901:** *Fir Forest II*. A second, distinct forest painting.
+- **1901:** *Lakeshore with Birches*. A lake landscape.
+- **1901–1902:** *Island in the Attersee*. A lake landscape whose title is sometimes translated as *Attersee*.
+- **1902:** *Beech Grove I*. A forest landscape.
+- **1902–1903:** *Garden Landscape (A Summer’s Day)*. A flower-and-garden landscape.
+- **1903:** *Beech Grove II*. A forest landscape.
+- **1903:** *The Large Poplar II*. A landscape painting distinct from the 1900 picture.
+- **1903, reworked 1918:** *Pear Tree*. A landscape substantially altered near the end of Klimt’s life; its two dates describe one evolving object.
+- **c. 1905:** *Orchard*. A landscape painting.
+- **1905:** *Rosebushes under the Trees*. A garden landscape.
+- **c. 1905–1907:** *Flower Garden*. A garden painting whose dating remains approximate.
+- **1906:** *Cottage Garden with Sunflowers*. A garden landscape; some older sources date it 1907.
+- **1907:** *Flowering Poppies / Poppy Field*. A landscape known under both titles.
+- **1907–1908:** *Sunflower*. A garden painting focused on a single tall plant.
+- **1908:** *Blooming Meadow*. A flower landscape.
+- **1908–1909:** *Schloss Kammer on Lake Attersee I*. The first of Klimt’s numbered views of Schloss Kammer.
+- **1909:** *Park at Schloss Kammer*. A landscape painting.
+- **1909:** *Schloss Kammer on Lake Attersee II*. A distinct view within the Schloss Kammer sequence.
+- **1909–1910:** *The Park*. A densely patterned landscape.
+- **c. 1910:** *Rosebush*. A garden painting.
+- **c. 1910–1912:** *Schloss Kammer on Lake Attersee III*. Catalogues differ slightly on its dating.
+- **1910:** *Schloss Kammer on Lake Attersee IV*. A distinct architectural landscape.
+- **1911:** *Upper Austrian Farmhouse / Farmhouse in Buchberg*. A landscape known under variant translated titles.
+- **1911–1912:** *Farm Garden with Crucifix*. A landscape destroyed at Schloss Immendorf in 1945.
+- **c. 1911–1912:** *Avenue to Schloss Kammer*. A landscape whose date is generally approximate.
+- **1912:** *Apple Tree I*. An orchard landscape.
+- **1913:** *Church in Cassone*. An architectural landscape.
+- **1913:** *Italian Garden Landscape*. A garden landscape.
+- **1913:** *Malcesine on Lake Garda*. A landscape destroyed in 1945.
+- **1914:** *Forester’s House in Weissenbach I*. An architectural landscape.
+- **1914:** *Forester’s House in Weissenbach II (Garden)*. A distinct second treatment of the site.
+- **c. 1914–1915:** *Litzlberg on the Attersee*. A lake landscape.
+- **1915–1916:** *Litzlberg Cellar on the Attersee*. An architectural landscape.
+- **1916:** *Apple Tree II*. An orchard landscape.
+- **1916:** *Church in Unterach on the Attersee*. An architectural landscape.
+- **1916:** *Forest Slope in Unterach*. A landscape painting.
+- **1916:** *Garden Landscape with Hilltop*. A landscape painting.
+- **1916:** *Houses at Unterach on the Attersee*. An architectural landscape.
+- **1916:** *Schönbrunn Landscape*. An urban-edge landscape.
+- **1917:** *Garden Path with Chickens*. A late garden landscape.
+
+### Drawings, sketchbooks, and printed manifestations
+
+- **c. 1877–1918:** *Drawn oeuvre*. More than 3,700 catalogued drawings—figure studies, portraits, compositional studies, erotic drawings, landscapes, and autonomous sheets—form an obra in their own right. This resists treatment as a closed list: Alice Strobl’s catalogue ended at no. 3741, while the Albertina’s dynamic catalogue assigns separate GKZ numbers to drawn rectos and versos and continues to add newly surfaced sheets.
+- **1879:** *Seated Male Nude*. An academic study in the drawn oeuvre.
+- **1880:** *Girl’s Head Turned Left*. An early study drawing.
+- **1883:** *Male Nude*. An academic drawing.
+- **c. 1884–1885:** *Design for the Karlsbad Theatre Curtain*. A project drawing for architectural decoration rather than the realized curtain itself.
+- **c. 1900:** *Two Female Nudes Standing*. A figure study with approximate dating.
+- **c. 1901:** *Study of a Nude Old Woman Clenching Her Fists*. A preparatory drawing associated with the University paintings.
+- **1901–1902:** *Head of a Woman in Three-Quarter Profile*. A figure study.
+- **c. 1903:** *Study for Portrait of Adele Bloch-Bauer I: Seated*. One of numerous drawings belonging to the long portrait project.
+- **c. 1903:** *Study for Portrait of Adele Bloch-Bauer I: Standing*. A distinct preparatory drawing.
+- **1904:** *Girl Seated in a Chair*. A figure study.
+- **1908–1909:** *Crouching Woman Wrapped in a Dark Cloak*. A drawing or painted study, depending on catalogue classification.
+- **c. 1909:** *Reclining Woman*. A figure study.
+- **c. 1910:** *Backfisch (The Young Girl)*. A figure study; the historical German title carries a period-specific social meaning not captured fully by translation.
+- **c. 1910:** *Standing Woman*. A figure study.
+- **1916:** *Seated Semi-Nude with Scarf*. A figure study.
+- **1916–1917:** *Curled-Up Girl on Bed*. A figure study.
+- **1897–1903:** *Ver Sacrum illustrations*. Graphic manifestations made for the Vienna Secession’s journal rather than autonomous paintings; individual designs are catalogued within Klimt’s graphic oeuvre.
+- **1898:** *Poster for the First Vienna Secession Exhibition*. A lithographic exhibition poster and manifesto-like public graphic; the first design was censored, and the published version covered the male figure’s genitals with a tree.
+- **1898:** *Red Sketchbook*. A bound working object containing studies rather than a single unified composition; its pages document thought and revision and resist classification as either one work or many.
+- **1917–1918:** *Last sketchbooks and studio studies*. Groups of drawings connected with *The Bride*, *Adam and Eve*, late portraits, and reclining figures; many are projects toward unfinished paintings, while others remain autonomous sheets.
+
+### Sources
+
+- Tobias G. Natter, ed., *Gustav Klimt: The Complete Paintings* (Taschen, 2012), especially “Catalog of Paintings,” pp. 512–645. The publisher identifies it as a complete catalogue of Klimt’s paintings: [Taschen](https://www.taschen.com/en/books/art/44819/gustav-klimt-the-complete-paintings/).
+- Tobias G. Natter, research statement describing the 2012 publication as a catalogue raisonné of all Klimt paintings: [Natter Fine Arts](https://natterfinearts.com/en/research.html).
+- Alfred Weidinger, Michaela Seiser, and Eva Winkler, “Kommentiertes Gesamtverzeichnis des malerischen Werkes,” in Alfred Weidinger, ed., *Gustav Klimt* (Prestel, 2007). Its catalogue references are reproduced in individual entries of the [Belvedere Collection Online](https://sammlung.belvedere.at/collections/482201/gustav-klimt/objects).
+- Alice Strobl, *Gustav Klimt: Die Zeichnungen*, 4 vols. (Galerie Welz/Albertina, 1980–1989), the foundational catalogue raisonné of the drawings.
+- Marian Bisanz-Prakken et al., *Online Catalogue Raisonné of Gustav Klimt’s Drawings*, Albertina, a continuously revised successor to Strobl explaining the GKZ numbering, recto-verso treatment, post-3741 additions, revised dates, titles, attribution, and provenance: [methodology](https://digitalepublikationen.albertina.at/groups/einleitung-klimt) and [catalogue portal](https://digitalepublikationen.albertina.at/groups/klimt-werkverzeichnis).
+- Belvedere, *Gustav Klimt Collection Online*, scholarly entries with catalogue-raisonné concordances, provenance research, conservation findings, and bibliography: [collection overview](https://sammlung.belvedere.at/collections/482201/gustav-klimt/objects).
+- Belvedere, catalogue entry for *Adam and Eve*, documenting its unfinished state and differing dates and numbers in the Dobai, Weidinger, Natter, and Klimt Database catalogues: [Adam and Eve](https://sammlung.belvedere.at/objects/3196/adam-und-eva).
+- Belvedere, catalogue entry for *Flowering Poppies*, providing concordances across Dobai, Weidinger, Natter, and the Klimt Database: [Flowering Poppies](https://sammlung.belvedere.at/de/objects/3917/bluhender-mohn).
+- Belvedere, collection record listing the *Beethoven Frieze*, *Red Sketchbook*, portraits, landscapes, and drawings in the museum’s holdings: [Klimt collection, objects 13–24](https://sammlung.belvedere.at/collections/482201/gustav-klimt%3Bjsessionid%3D12890316DEABA249CB2F189D68E2ABB3/objects/images%3Bjsessionid%3D6C6C006E9DFA06424013EB5E936DC1DF?page=2).
+- College for Creative Studies Library, bibliographic description and contents of Natter’s catalogue raisonné, including the page range of the painting catalogue: [catalogue record](https://lib.ccsdetroit.edu/bib/48836).

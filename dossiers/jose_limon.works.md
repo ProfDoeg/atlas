@@ -1,0 +1,172 @@
+## Works by José Arcadio Limón
+
+### Choreographic obras
+
+- **1930:** *Etude in D Minor*. Duet for Limón and Letitia Ide and his first documented choreography; the INBA chronology instead calls it *Etude in D-flat Major*, so both key and title are disputed. [1][2]
+- **1930:** *Bacchanale*. Early dance choreography; the surviving catalogues provide little information about its form or preservation. [1][2]
+- **1930:** *Two Preludes*. Early choreography, apparently distinct from the male solo of the same title dated 1931 in the INBA anthology; the catalogues disagree over its date. [1][2]
+- **1931:** *Petite Suite*. Early dance suite. [1][2]
+- **1931:** *B Minor Suite*. Early dance suite; it is absent from the INBA anthology’s shorter chronological list. [1][2]
+- **1931:** *Mazurca*. Early choreography; a second work with this title is catalogued in 1942, and neither should be confused with the later ensemble *Mazurkas*. [1]
+- **1932:** *Bach Suite*. Choreographic suite set to music by Bach. [1][2]
+- **1933:** *Canción y Danza*. Dance work whose Spanish title identifies it as a conjunction of song and dance, not a written song. [1][2]
+- **1933:** *Danza (Prokofiev)*. Choreography identified in the catalogues by its composer rather than a stable independent title. [1][2]
+- **1933:** *Pièces Froides*. Dance work, also rendered in the sources as *Cold Pieces* or *Piezas frías*. [1][2]
+- **1933:** *Roberta*. Choreography associated with the Broadway musical; because it was made within a larger theatrical production, it resists treatment as a fully autonomous Limón work. [1]
+- **1935:** *Three Studies*. Set of three choreographic studies. [1][2]
+- **1935:** *Nostalgic Fragments*. Multi-part dance work. [1][2]
+- **1935:** *Prelude*. Dance prelude. [1][2]
+- **1936:** *Satiric Lament*. Choreographic solo or small-form dance; the catalogues do not establish a surviving performance text. [1][2]
+- **1936:** *Hymn*. Dance conceived in the formal register of a hymn rather than as a literary hymn. [1][2]
+- **1937:** *Danza de la Muerte*. Dance work, also catalogued in English as *Dance of Death*. [1][2]
+- **1937:** *Opus for Three and Props*. Trio in which dancers and stage objects together constitute the obra. [1]
+- **1939:** *Danzas Mexicanas*. Major solo cycle drawing on Mexican subjects; the original is considered lost, so modern versions are reconstructions or reimaginings rather than an intact performance text. [1][8]
+- **1940:** *War Lyrics*. Duet made jointly with May O’Donnell, with music by Esther Williamson and a text by William Archibald; its authorship is therefore collaborative. [1][2]
+- **1941:** *Curtain Raiser*. Short theatrical dance co-choreographed with May O’Donnell, functioning as an opening piece rather than a self-contained narrative ballet. [1]
+- **1941:** *This Story Is Legend*. Dance-theatre work. [1]
+- **1941:** *Three Inventories on Casey Jones*. Three-part choreography based on the American folk figure Casey Jones. [1]
+- **1941:** *Three Women*. Choreographic work for or about three women. [1]
+- **1941:** *Praeludium: Theme and Variations*. Choreographic theme-and-variations work. [1]
+- **1942:** *Chaconne*. Solo made for Limón himself to Bach’s Chaconne from the D-minor violin partita; its premiere is documented as December 27, 1942. [1][3]
+- **1942:** *Alley Tune*. Dance work made before Limón entered Army service. [1]
+- **1942:** *Mazurca*. Choreography sharing its title with the 1931 work; the catalogue treats the two dates separately, but the precise relationship between them is unclear. [1]
+- **1943:** *Western Folk Suite*. Duet assembled from American folk and concert-music materials. [1][2]
+- **1943:** *Fun for the Birds*. Army-era revue or entertainment containing Limón’s *We Speak for Ourselves*; it resists classification as his work alone because the containing show was collective. [1][2][3]
+- **1944:** *Deliver the Goods*. Army revue choreography; some secondary lists misprint the title as *Deliver the Gods*. [1][2]
+- **1944:** *Hi, Yank*. Army Special Services revue with choreography by Limón; it is a collective military-theatre production rather than an autonomous dance. [1]
+- **1944:** *Interlude Dances*. Choreographic interludes made for an Army production. [1]
+- **1944:** *Mexilinda*. Army-era theatrical choreography. [1]
+- **1944:** *Rosenkavalier Waltz*. Dance to music from Richard Strauss’s *Der Rosenkavalier*. [1]
+- **1945:** *Concerto Grosso*. Trio to Vivaldi, developed during Limón’s Army service and subsequently retained as an independent concert dance. [1]
+- **1945:** *Eden Tree*. Dance work; little secure production information accompanies it in the standard chronology. [1]
+- **1945:** *Danza (Arcadio)*. Choreography distinguished in the catalogue by the parenthetical name “Arcadio.” [1]
+- **1946:** *Masquerade*. Choreographic work listed under this date in the scholarly chronology; the archive separately dates the premiere of a work called *Masquerade* to 1964, leaving uncertain whether that record represents a revival, revision, or different work. [1][3]
+- **1947:** *La Malinche*. Compact dance-drama for three principal figures—La Malinche, the Indigenous man, and the conquistador—with music by Norman Lloyd. [1][9]
+- **1947:** *The Song of Songs*. Choreographic interpretation of the biblical text, not an edition or translation of it. [1]
+- **1947:** *Sonata Opus 4*. Dance structured around a musical sonata. [1]
+- **1949:** *The Moor’s Pavane*. Quartet-dance based on Shakespeare’s *Othello*, set to music by Purcell arranged by Simon Sadoff; its reduction of the drama to four bodies makes it both adaptation and autonomous choreographic obra. [1][3][9]
+- **1950:** *The Exiles*. Duet evoking Adam and Eve’s expulsion from Paradise, set to Schoenberg’s Second Chamber Symphony. [1][9]
+- **1950:** *Concert*. Choreographic work bearing a deliberately generic musical title. [1]
+- **1951:** *Los Cuatro Soles*. Large Mexican ballet made with music and scenario by Carlos Chávez and designs by Miguel Covarrubias; sources sometimes misprint the title as *Los Cuatros Soles*. [1][10]
+- **1951:** *Dialogues*. Choreographic work from Limón’s Mexican residency. [1]
+- **1951:** *Antígona*. Dance-theatre treatment of Antigone; the standard English-language list omits the accent. [1]
+- **1951:** *Tonantzintla*. Ballet inspired by the syncretic architecture of Santa María Tonantzintla, made with Miguel Covarrubias and music by Antonio Soler orchestrated by Rodolfo Halffter; the 1951 version lacks a known film record, while a later recreation survives. [1][10]
+- **1951:** *The Queen’s Epicedium*. Choreographic lament; “epicedium” names a funeral song, but the made object here is a dance. [1]
+- **1951:** *Redes*. Mexican choreography later revised as *El Grito*. [1]
+- **1952:** *The Visitation*. Trio premiered at the American Dance Festival; it is a danced dramatic visitation rather than a text. [1][2]
+- **1952:** *El Grito*. Revision of *Redes*, sufficiently transformed to receive a new title but not wholly independent in its choreographic genealogy. [1]
+- **1953:** *Don Juan Fantasia*. Dance fantasy on the Don Juan subject. [1]
+- **1954:** *Ode to the Dance*. Choreographic ode: its declarative title describes a bodily homage, not a poem. [1]
+- **1954:** *The Traitor*. Ensemble dance responding to betrayal and the political climate of the McCarthy era, with music by Gunther Schuller. [1][3]
+- **1955:** *Scherzo (Barracuda, Lincoln, Venable)*. Choreographic scherzo identified by the surnames associated with its music or production; the parenthetical wording is part of the catalogue’s means of distinguishing it. [1]
+- **1955:** *Scherzo (Johnson)*. Quartet to music by Hazel Johnson, distinct from the other 1955 *Scherzo*. [1]
+- **1955:** *Symphony for Strings*. Ensemble choreography to William Schuman’s music, not the musical composition itself. [1]
+- **1956:** *There Is a Time*. Ensemble dance structured after Ecclesiastes, with a commissioned score by Norman Dello Joio; its source is a text, but its manifestation is choreographic. [1][3]
+- **1956:** *A King’s Heart*. Dance work; archival costume records preserve the variant *King’s Heart*. [1][3]
+- **1956:** *The Emperor Jones*. Dance-drama after Eugene O’Neill with music by Heitor Villa-Lobos; Limón’s performance of Brutus Jones in dark makeup has generated a continuing dispute over blackface and racial representation integral to the work’s history. [1][11]
+- **1956:** *Rhythmic Study*. Choreographic study whose generic title makes it easy to mistake for classroom material, although the standard chronology lists it as a work. [1]
+- **1957:** *Blue Roses*. Dance premiered August 16, 1957; the archive preserves choreographic and production notes. [1][3]
+- **1958:** *Missa Brevis*. Large ensemble dance to Zoltán Kodály’s mass, conceived in response to European cities and lives devastated by war; the liturgical score and moving bodies together create a dance-theatre manifestation, not a mass composed by Limón. [1][3]
+- **1958:** *Serenata*. Dance work in serenade form. [1]
+- **1958:** *Dances*. Choreographic work with a generic plural title whose lack of specificity should not be “corrected” into another title. [1]
+- **1958:** *Mazurkas*. Ensemble cycle to Chopin; it is distinct from Limón’s two earlier singular *Mazurca* entries. [1]
+- **1959:** *Tenebrae 1914*. Dance of mourning associated with the catastrophe of the First World War. [1]
+- **1959:** *The Apostate*. Dance-drama organized around apostasy or rejection of faith. [1]
+- **1960:** *Barren Sceptre*. Choreographic work; the NYPL finding aid gives the variant *Barren Spectre*, so even the noun in the title remains bibliographically unstable. [1][3]
+- **1961:** *Performance*. Choreography whose title names the event that realizes it, making the work unusually resistant to separation from its manifestations. [1]
+- **1961:** *The Moirai*. Dance invoking the Greek Fates. [1]
+- **1961:** *Sonata for Two Cellos*. Choreography to a two-cello sonata, not a musical sonata composed by Limón. [1]
+- **1962:** *I, Odysseus*. Dance-theatre work centered on Odysseus and the speaking position implied by its title. [1][3]
+- **1963:** *The Demon*. Dance to music by Paul Hindemith, who conducted its premiere; some sources misspell the title *The Deamon*. [1]
+- **1963:** *Concerto in D Minor After Vivaldi*. Choreography responding to a Vivaldi-derived concerto. [1]
+- **1964:** *Two Essays for Large Ensemble*. Pair of dances for a large cast; “essays” here denotes choreographic arguments rather than prose texts. [1]
+- **1964:** *A Choreographic Offering*. Large-scale homage to Doris Humphrey set to Bach; it is simultaneously memorial, lineage statement, and concert dance. [1][3]
+- **1965:** *Variations on a Theme of Paganini*. Ensemble choreography for ten dancers, structured as musical variations. [1][2]
+- **1965:** *My Son, My Enemy*. Dramatic dance built around a familial antagonism. [1]
+- **1966:** *The Winged*. Ensemble choreography created substantially in silence, with limited incidental music by Hank Johnson; Carla Maxwell’s 1996 staging used a new Jon Magnussen score, so the later musical manifestation is not identical to Limón’s original sound-world. [1][2]
+- **1967:** *Mac Aber’s Dance*. Choreographic work whose title is preserved in this form in the standard chronology. [1]
+- **1967:** *Psalm*. Ensemble dance originally made with music by Eugene Lester; the later repertory version uses a new Jon Magnussen score, making the choreography’s current manifestation materially different from its premiere form. [1][12]
+- **1968:** *Comedy*. Dance work whose genre word is also its complete title. [1]
+- **1968:** *Legend*. Choreographic work, documented by original-cast participant Daniel Lewis. [1][13]
+- **1969:** *La Piñata*. Dance premiered March 20, 1969. [1][3]
+- **1970–1971:** *The Unsung*. Silent ensemble hymn to eight Indigenous North American leaders, first shown in 1970 as a work in progress and premiered in completed form in 1971; its processual first manifestation resists a single premiere date. [1][2]
+- **1971:** *Revel*. Dance work from Limón’s final creative period. [1]
+- **1971:** *Dances for Isadora*. Cycle of solos honoring Isadora Duncan, set to Chopin; it is a plural suite rather than one undifferentiated solo. [1]
+- **1971:** *And David Wept*. Choreography created for CBS television; it is both a dance and a camera-mediated screen work rather than simply a stage repertory piece. [1][13]
+- **1972:** *Carlota*. Danced drama recalling Empress Carlota’s disordered memories of Maximilian and Mexico; at least part of the role was danced in silence. [1][5]
+- **1972:** *Orfeo*. Quintet based on Orpheus and Eurydice and set to Beethoven; it is among Limón’s last completed concert dances. [1]
+- **1971:** *The Winds*. Choreography made for the Philadelphia Dance Theater rather than Limón’s principal company. [1]
+
+### Collaborative, commissioned, and applied choreography
+
+- **1943:** *We Speak for Ourselves*. Dance made for the Army entertainment *Fun for the Birds*; the NYPL archive treats it as a Limón work, while other chronologies subsume it under the revue. [2][3]
+- **1943–1945:** *Song of the Medics*. Army Special Services number made at Fort Dix; it belongs to a soldier revue and therefore resists the autonomy normally implied by “work.” [2]
+- **1943–1945:** *Christmas Pageant*. Army theatrical pageant containing choreography by Limón; surviving catalogues do not supply a firmer date or stable production title. [2]
+- **1971:** *Yerma*. Choreography for the Santa Fe Opera premiere of Heitor Villa-Lobos’s opera; the opera is Villa-Lobos’s obra, while Limón made its danced component. [14]
+- **1972:** *Luther*. Solo dance interpretation filmed with Limón for television shortly before his death but not broadcast until the 1986 WCBS series *For Our Times*; “1986” dates the manifestation, not the making. [1][5]
+- **June 1972:** *Lenero*. Choreographic project listed by the INBA anthology as unpresented; because it apparently never reached performance, it survives as a project rather than a completed public work. [2]
+
+### Unfinished and posthumously completed projects
+
+- **1971–1975:** *The Waldstein Sonata*. Limón began the ensemble choreography in 1971 but died before assembling a finished work; Daniel Lewis reconstructed what he could and completed it for an April 26, 1975 premiere, so authorship properly belongs to Limón and Lewis and the completed ballet cannot be treated as wholly Limón’s. [5][6]
+- **Undated:** *Distant Ballad*. Choreographic project represented by notes in the Limón papers; the archive does not establish a premiere, and it may resist being called a completed work. [3]
+- **Undated:** *Brahms’ Waltz No. 7, Op. 39*. Choreographic material preserved in Limón’s papers; no premiere date or completed status is supplied. [3]
+- **Undated:** *Hopping Study*. Movement study preserved in the archive; it may be classroom or compositional material rather than an autonomous obra. [3]
+- **Undated:** *Study in Slow Sustained Movement*. Movement study preserved in the archive; its generic designation and lack of performance history make work-status uncertain. [3]
+- **Undated:** *Dance work by José Limón for proposed performance…*. An archival project identified only by its opening description; the absence of a fixed title and evidence of realization should be retained rather than repaired. [3]
+
+### Prose, lectures, and textual projects
+
+- **Written through 1942; published posthumously 1998/1999:** *An Unfinished Memoir*. Handwritten autobiography left incomplete by Limón and later edited for publication by Lynn Garafola; the published book is a posthumous editorial manifestation of an unfinished manuscript, not a book completed by Limón. [3][4]
+- **1944:** *Application for Guggenheim Fellowship for Creative Work in Dance*. Grant application preserved in holograph and typescript; it is an operative project-text seeking support, not a retrospective description. [3]
+- **1949:** *Ballet Time, No. 37*. Annotated typescript of R. Severin’s interview with Limón; its mixed interviewer–interviewee authorship makes it a collaborative document. [3]
+- **1957:** *Dialogue, Monologue, Dialogue*. Holograph text whose title supplies its rhetorical form. [3]
+- **1958:** *Letter regarding the 1957 European Tour*. Typescript report or reflection on the company’s tour. [3]
+- **1959:** *Letter to Pauline, Betty, and Lucas on the Occasion of the Tenth Anniversary of “The Moor’s Pavane”*. Commemorative letter surviving in draft and revised typescripts. [3]
+- **1965:** *The Voices of the Body*. Essay or lecture articulating Limón’s understanding of dance as embodied expression. [3]
+- **1965:** *Comments on the Speech by the President of Cornell University at New York State Theater, New York City, March 9, 1965*. Revised typescript response whose lengthy descriptive heading functions as its archival title. [3]
+- **1966:** *When the young D. H. formed her own company…*. Text about Doris Humphrey known only by its first line; it has no secure authorial title. [3]
+- **1967:** *On Constancy*. Text surviving in holograph and typescript forms. [3]
+- **1968:** *Center for American Indian Dance*. Proposal co-authored with Martha Hill; as an institutional project-text, it attempts to bring an organization into being rather than merely describing one. [3]
+- **Undated:** *Class Work*. Holograph and typescript material on dance study or teaching; its status as lecture, notes, or essay is not resolved by the finding aid. [3]
+- **Undated:** *Composing Dances*. Holograph essay or lecture on choreographic practice. [3]
+- **Undated:** *Covarrubias*. Holograph text about Miguel Covarrubias. [3]
+- **Undated:** *The Dancer’s Art*. Essay or lecture surviving in holograph and multiple typescripts. [3]
+- **Undated:** *Doris Humphrey*. Holograph memorial or critical text. [3]
+- **Undated:** *Doris Humphrey belonged to that most rare of all phenomena…*. Separate Humphrey text without a fixed title, identified archivally by its opening words. [3]
+- **Undated:** *How fine, (how mature, how civilized) it is that…*. Revised typescript known by its first line; no title or genre is securely established. [3]
+- **Undated:** *It is with infinite sadness that I contemplate the passing of P. Ch.…*. Untitled memorial text identified by its opening words. [3]
+- **Undated:** *José Limón was born in Mexico…*. Autobiographical or biographical statement surviving in holograph and typescript, without a fixed authorial title. [3]
+- **Undated:** *Language of the Dance*. Essay or lecture preserved in holograph and typescript. [3]
+- **Undated:** *Men dancers have become…*. Untitled manuscript identified by its first words. [3]
+- **Undated:** *Music Is the Strongest Ally to a Dancer’s Way of Life*. Essay or lecture on dance and music. [3]
+- **Undated:** *A Plan for the José Limón Dance Company*. Operational and artistic project-text intended to shape the company’s future. [3]
+- **Undated:** *Review of Allan Ross MacDougall’s Isadora: A Revolutionary in Art and Love*. Holograph book review; unlike Limón’s dances for Isadora, this is a prose critical text. [3]
+- **Undated:** *The Rivals*. Notes for an article on Humphrey-Weidman, not demonstrated to be a completed publication. [3]
+- **Undated:** *The dance, oldest and most human of the arts…*. Untitled essay or lecture identified by its first line. [3]
+- **Undated:** *The Virile Dance*. Essay or lecture on masculinity and dance. [3]
+- **Undated:** *Miscellaneous manuscript pages and notes*. Archival fragments that resist individual work-status because they lack stable titles, dates, and evidence of completion. [3]
+
+### Institutional and embodied obras
+
+- **1946 onward:** *José Limón Dance Company*. Performing institution founded by Limón, with Doris Humphrey as artistic director; it is an ongoing collective obra and repertory-bearing body rather than a single choreography. [7]
+- **1950s–1972:** *Limón technique*. Pedagogical and kinetic system developed from Limón’s practice and Humphrey-Weidman principles; because it lives through bodies and teachers rather than a single authoritative text, it is better understood as an evolving embodied protocol. [7]
+- **1968:** *José Limón Foundation*. Institution created to preserve and continue Limón’s choreography and teaching; its continuing activity extends beyond the founder’s individual authorship. [7]
+- **1971:** *José Limón Philadelphia Dance Theater*. Second-company project founded late in Limón’s life; its short and incompletely documented existence makes it as much an intention as a durable institution. [1]
+
+### Sources
+
+- [1] June Dunbar, ed., *José Limón: An Artist Re-viewed*, especially Appendix II, “Chronological List of Works Choreographed by José Limón,” and Appendix III, “Alphabetical List of Works Choreographed by José Limón” (Routledge, 2002/2013). [Publisher preview and contents](https://www.perlego.com/book/1624986/jose-limon-an-artist-reviewed-pdf).
+- [2] Patricia Cardona Lang, ed., *Antología: José Limón*, Cuadernos del CENIDI Danza José Limón 28 (INBA/CENART, 1993), especially the repertory entries and chronological list. [INBA digital copy](https://inbadigital.bellasartes.gob.mx/jspui/bitstream/11271/618/1/382difcua28.pdf).
+- [3] New York Public Library, Jerome Robbins Dance Division, *Guide to the José Limón Papers*, especially Series II–IV: writings, choreographic and production notes, and dance chronologies. [Finding aid](https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/dan19669.pdf).
+- [4] José Limón, *An Unfinished Memoir*, ed. Lynn Garafola (Wesleyan University Press, 1998/1999). [Publisher description](https://www.publishersweekly.com/9780819563743).
+- [5] José Limón, *An Unfinished Memoir*, appendices and program documentation for *Carlota*, *Luther*, and *The Waldstein Sonata*. [Searchable reference copy](https://www.scribd.com/document/485114471/Jose-Limon-an-unfinished-memoir-by-Jose-Limon).
+- [6] Clive Barnes, “Dance: Juilliard Ensemble Presents 3 New Works,” *The New York Times*, April 29, 1975, reproduced by the Daniel Lewis Dance Foundation. [Article reproduction](https://daniellewisdance.com/1975-new-york-times/).
+- [7] National Endowment for the Arts, “José Limón Dance Foundation,” including the company, foundation, repertory, and institutional history. [NEA profile](https://www.arts.gov/honors/medals/jose-limon-dance-foundation).
+- [8] Karen Greenspan, “Limón Company Commissions New Works for 75th Anniversary Season,” discussing the lost *Danzas Mexicanas* and its later reimagination. [arts•meme](https://artsmeme.com/2022/04/19/talent-in-the-room-limon-company-commissions-new-works-for-75th-anniversary-season/).
+- [9] University of Michigan program, José Limón Dance Company, November 1, 1969, documenting *La Malinche*, *The Moor’s Pavane*, and *The Exiles*. [Digitized program](https://aadl.org/sites/default/files/docfiles/programs_19691101e.pdf).
+- [10] Instituto Nacional de Bellas Artes research publication on Mexico’s modern-dance movement and Limón’s 1951 works, including *Los cuatro soles* and *Tonantzintla*. [INBA digital publication](https://inbadigital.bellasartes.gob.mx/jspui/bitstream/11271/907/1/382invpub1957.pdf).
+- [11] Rebekah J. Kowal, Gerald Siegmund, and Randy Martin, eds., *The Oxford Handbook of Dance and Politics* (Oxford University Press, 2017), discussion of *The Emperor Jones*, blackface, and Cold War cultural diplomacy. [Publisher record](https://global.oup.com/academic/product/the-oxford-handbook-of-dance-and-politics-9780199928187).
+- [12] Northrop, University of Minnesota, “Digital Program for Limón Dance Company,” documenting *Psalm*, its 1967 premiere, and later musical reconstruction. [Digital program](https://www.northrop.umn.edu/digital-program-limon-dance-company-2022).
+- [13] Daniel Lewis, curriculum vitae and performance history, documenting his original roles and the CBS production of *And David Wept*. [Daniel Lewis Dance Foundation](https://daniellewisdance.com/curriculum-vita/).
+- [14] Santa Fe Opera, “José Limón,” and the Museu Villa-Lobos work catalogue, documenting Limón’s choreography for the 1971 premiere of *Yerma*. [Santa Fe Opera](https://www.santafeopera.org/bio/jose-limon/); [Museu Villa-Lobos catalogue](https://museuvillalobos.museus.gov.br/images/PDFs/Catlogo_Villa-Lobos_-_4_edio_-_Verso_final.pdf).
