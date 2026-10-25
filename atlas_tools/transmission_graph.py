@@ -43,7 +43,27 @@ GENERIC = {"letters", "opera omnia", "poems", "works", "collected works", "sermo
            "complete works", "selected works", "writings", "fragments", "treatises", "commentaries",
            "opera", "obras completas", "obras", "cartas", "poesias", "sonnets", "songs", "untitled",
            "oeuvres completes", "oeuvres", "gesammelte schriften", "gesammelte werke", "werke",
-           "collected papers", "collected essays", "selected letters", "collected poems"}
+           "collected papers", "collected essays", "selected letters", "collected poems",
+           "testament", "last will and testament", "will", "epistolario", "souvenirs", "journal",
+           "notes", "papers", "articles", "addresses", "reports", "memoranda", "memoir",
+           "symposium", "interviews", "interview", "testamentum", "memorias", "memorie", "tagebucher",
+           "tagebücher", "diarios", "diario", "composition", "compositions", "theme and variations"}
+
+# A PERIODICAL is a place of publication, not a work. Two people who published in Communications of the ACM did
+# not read the same book, and once the prose pass began harvesting the venues a bibliography names, those
+# venues became the largest remaining source of false edges: the ACM wired 24 pairs together, La Nacion 18,
+# Philosophical Transactions 12, The Times 11, the Britannica 6. A bibliography SHOULD record where an article
+# appeared -- the inventory keeps them -- but a venue can never be evidence that one person transmitted a text
+# to another, which is the only thing this graph claims.
+PERIODICAL = re.compile(
+    r"\b(journal|revue|rivista|revista|zeitschrift|magazine|review|gazette|bulletin|proceedings|"
+    r"transactions|annals|annales|anales|annalen|quarterly|monthly|weekly|daily|times|post|herald|"
+    r"tribune|chronicle|observer|courier|press|prensa|nacion|naci[oó]n|mundo|clar[ií]n|mercury|"
+    r"comptes rendus|sitzungsberichte|abhandlungen|archiv|archive|archives|yearbook|jahrbuch|almanac|"
+    r"encyclopaedia|encyclopedia|enciclopedia|dictionary|who's who|newsletter|affairs|atlantic|"
+    r"communications of|notes and queries|philosophical magazine|scientific american|"
+    r"lib[eé]ration|le monde|el pa[ií]s|la repubblica|der spiegel|new yorker|harper's|"
+    r"atti della|memorie della|rendiconti)\b", re.I)
 
 # Surnames that are also ordinary words, or too ambiguous to match on alone.
 STOP_NAMES = {"bacon", "paul", "david", "solomon", "abraham", "moses", "jesus", "noah", "virgil", "king",
@@ -130,6 +150,8 @@ def main():
         for r in rows:
             t = norm(r.get("title"))
             if not t or t in GENERIC or len(t) < 8:
+                continue
+            if PERIODICAL.search(t):      # a venue, never evidence of transmission
                 continue
             title_owners[t].add(slug)
             title_row.setdefault((t, slug), r)

@@ -36,7 +36,8 @@ an invitation to fall back on catalogue rows. Michelangelo and Francis Bacon are
 
     python3 atlas_tools/corpus_bibliography.py --slug giordano_bruno
     python3 atlas_tools/corpus_bibliography.py --limit 20
-    python3 atlas_tools/corpus_bibliography.py
+    python3 atlas_tools/corpus_bibliography.py              # resumes: skips subjects already written
+    python3 atlas_tools/corpus_bibliography.py --rebuild    # rewrites all, after the inventory changes
 """
 import json
 import os
@@ -330,7 +331,12 @@ def main():
     tot_w = tot_e = tot_u = 0
     gaps = []
     for slug, (tr, dy) in todo:
-        if (BIB / f"{slug}.bib").exists() and "--slug" not in sys.argv:
+        # An existing .bib is normally taken as done, which is what makes a long run resumable. But the works
+        # come from the inventory, and when the inventory changes every stored bibliography is stale -- the
+        # prose-extraction pass added 6,244 works and not one of them would have reached a .bib file. Same
+        # shape as a verdict left behind after its gate moved, so it gets the same answer: an explicit flag
+        # that rebuilds from the current inventory rather than a number nobody notices is out of date.
+        if (BIB / f"{slug}.bib").exists() and "--slug" not in sys.argv and "--rebuild" not in sys.argv:
             continue
         ap = AV.AVAIL / f"{slug}.json"
         avail = json.loads(ap.read_text(encoding="utf-8")) if ap.exists() else None

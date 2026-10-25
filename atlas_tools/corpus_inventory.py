@@ -132,10 +132,26 @@ DATE_WEAK = re.compile(r"\b(before|after|early|late|mid|published|printed|writte
 DATE_RESIDUE = {"about", "around", "roughly", "approximately", "from", "by", "to", "between", "during",
                 "until", "till", "before", "after", "since", "in", "on", "at", "of", "and", "or", "the",
                 "early", "late", "mid", "circa", "published", "printed", "written", "composed", "undated",
-                "various", "unknown", "onward", "onwards", "ff", "later", "earlier"}
+                "various", "unknown", "onward", "onwards", "ff", "later", "earlier",
+                # Hedges and status words a dated lead hangs on: "**Probably 1580:**", "**unfinished,
+                # 1623**", "**traditionally c. 300 BCE**". Left in, these were the single largest source of
+                # false transmission edges -- "Probably" alone wired 164 pairs of people together, because a
+                # shared title is how that graph claims two men read the same book.
+                "probably", "possibly", "perhaps", "traditionally", "conventionally", "reportedly",
+                "allegedly", "uncertain", "disputed", "doubtful", "attributed", "unfinished", "incomplete",
+                "fragment", "fragments", "fragmentary", "lost", "extant", "surviving", "undetermined",
+                "publication", "importance", "testament", "epistolario", "epistolary",
+                "principally", "chiefly", "mainly", "mostly", "largely", "unrealized", "unrealised",
+                "childhood", "youth", "adulthood", "throughout", "spring", "summer", "autumn", "fall",
+                "winter"}
 
+MONTH = r"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?"
 DAY_MONTH = re.compile(r"^\s*(?:[0-9]{1,2}\s*(?:st|nd|rd|th)?[\s.]*)?"
-                       r"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?"
+                       + MONTH +
+                       # A month RANGE is just as much a date: "July-August", "February-March" and the rest
+                       # were works of their subjects, and each range wired together everyone whose
+                       # bibliography happened to use the same two months.
+                       r"(?:\s*[-–—/to]+\s*" + MONTH + r")?"
                        r"(?:[\s.]*[0-9]{1,2}(?:st|nd|rd|th)?)?\s*$", re.I)
 
 
@@ -158,6 +174,7 @@ ATTR_LABELS = {"original language", "language", "structure", "traditional attrib
                "years", "publisher", "place", "city", "format", "extent", "size", "series", "part", "parts",
                "chapter", "chapters", "section", "sections", "folio", "folios", "shelfmark", "call number",
                "identifier", "total", "count", "subject", "keywords", "category", "kind", "work", "works",
+               "publication", "importance", "significance", "reception", "influence", "context",
                "title in english", "english title", "latin title", "hebrew title", "arabic title", "greek title"}
 
 
@@ -243,8 +260,11 @@ def split_lead(lead):
     # What is left of "About 1872" or "From 1850" is the preposition the date hung on, not a title. The test is
     # length as well as vocabulary: one or two function words is residue, while "From Here to Eternity" is a
     # title that happens to start with one, and a word list alone would have thrown it away.
-    words = body.split()
-    if len(words) <= 2 and all(w.strip(".,;:").lower() in DATE_RESIDUE for w in words):
+    # Split on dashes as well as spaces: a season or life-stage range arrives as a single token,
+    # "Spring-Summer" or "childhood-", so splitting on whitespace alone left it unrecognised and standing in
+    # the catalogue as a work -- and then, being a title two people shared, as a transmission edge between them.
+    words = [w for w in re.split(r"[\s/\-–—]+", body.strip(".,;:")) if w]
+    if len(words) <= 2 and all(w.lower() in DATE_RESIDUE for w in words):
         return lead, ""
     if looks_like_date(body) or looks_like_attribute(body):
         return lead, ""
