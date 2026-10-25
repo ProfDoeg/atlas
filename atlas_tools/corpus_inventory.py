@@ -57,6 +57,14 @@ LEAD_BOLD = re.compile(r"^\s*[-*]\s+\*\*(.+?)\*\*:?\s*")
 # two titles (", subtitled an introduction to the School of Wisdom, and") as if that were a title.
 BOLD = re.compile(r"\*{2,3}(.{2,200}?)\*{2,3}")
 ITALIC_ONLY = re.compile(r"(?<!\*)\*([^*\n]{2,200})\*(?!\*)")
+# A QUOTED title. Italics are the convention for a book; quotation marks are the convention for a short work --
+# a story, a poem, an essay, a journal article -- and the works files observe the distinction correctly while
+# the parser only ever looked for italics. Poe's entire short-story corpus was therefore invisible: 148 lines
+# reading '- "Metzengerstein" (1832)', '- "MS. Found in a Bottle" (1833)', each recorded as a dateless row with
+# no title at all. The same held for Lovecraft's stories, Andersen's tales, Maxwell's papers and Freud's.
+# Curly and straight quotes both, plus the guillemets and low-9 quotes the European titles use.
+QUOTED = re.compile(r"[“„«\"]([^“”„«»\"\n]{2,200})"
+                    r"[”»\"]")
 # A year in parentheses or trailing, as prose writes it inside a bold title:
 # "**Das Reisetagebuch eines Philosophen (1919)**", "**Das Spektrum Europas / Europe (1928)**".
 TRAILING_YEAR = re.compile(r"[\s,;(\[]*\b(1[0-9]{3}|20[0-9]{2}|[1-9][0-9]{2})\b"
@@ -214,6 +222,35 @@ PROSE_STOP = {"the", "and", "or", "not", "sic", "ibid", "passim", "op cit", "cir
               "see also", "above", "below", "ibidem", "et al", "cf"}
 
 
+def quoted_titles(text):
+    """Titles in quotation marks, guarded the way prose spans are.
+
+    Quotation marks do more work than italics: besides naming a short work they carry scare quotes and quoted
+    phrases. Harvesting them unguarded made "parece que" a work of Policarpa Salavarrieta's -- Spanish for "it
+    seems that", quoted from her source because even her occupation is only cautiously attested -- and "works"
+    a work of hers too. So a quoted span must pass the same tests a prose span does: not all lowercase, not a
+    field label, not date residue, long enough to be a title.
+    """
+    out = []
+    for raw in QUOTED.findall(text):
+        t = clean_title(raw.strip().strip("*_ ").strip())
+        if not t or len(t) < 4:
+            continue
+        if t.lower().rstrip("?") in PROSE_STOP or t.lower() in DATE_RESIDUE:
+            continue
+        if PROSE_NOT_WORKS.match(t) or looks_like_attribute(t) or looks_like_date(t):
+            continue
+        # A title is capitalised; a quoted PHRASE lifted out of a sentence usually is not. This is what
+        # separates "Metzengerstein" from "the land of Moriah", "sons of Aaron", "publie par Alexandre Dumas"
+        # and "books by Gaudi" -- all quotations from the surrounding prose, none of them works. The
+        # all-lowercase test alone let them through, since each carries a capitalised name further in.
+        if not t[:1].isupper():
+            continue
+        if t not in out:
+            out.append(t)
+    return out
+
+
 def clean_title(t):
     """Strip a title's trailing date, and the bracket that date was sitting in.
 
@@ -294,6 +331,7 @@ def prose_titles(body):
     spans = BOLD.findall(body)
     rest = BOLD.sub(" ", body)
     spans += ITALIC_ONLY.findall(rest)
+    quoted = quoted_titles(rest)        # a short work: a story, a poem, an article
 
     out = []
     for raw in spans:
@@ -307,6 +345,9 @@ def prose_titles(body):
             continue
         if looks_like_attribute(t):
             continue
+        if t not in out:
+            out.append(t)
+    for t in quoted:
         if t not in out:
             out.append(t)
     return out
@@ -451,16 +492,32 @@ def parse(slug, text):
         body = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", body)      # [text](url) -> text
         titles = [t.strip() for t in ITALIC.findall(body)]
         titles = [t for t in titles if not t.startswith("(")]
+        # Then the QUOTED titles, which is how a short work is named: '- "Metzengerstein" (1832)'. Looking only
+        # for italics left Poe's entire short-story corpus out of the catalogue, 148 lines of it, each stored as
+        # a row with no title. Italics first, since a line carrying both names the book in italics and quotes
+        # something within it.
+        titles += [t for t in quoted_titles(body) if t not in titles]
         if not titles and bold_title:
             titles = [bold_title]                     # "**2 Thessalonians:** divided opinion"
         elif bold_title:
             titles = [bold_title] + titles
         ys = [int(y) for y in YEAR.findall(date_text) if 100 <= int(y) <= 2100]
+        year = min(ys) if ys else None
+        if year is None and titles:
+            # No bold date lead, because the date is in the line itself: '- "MS. Found in a Bottle" (1833)'.
+            # Every one of Poe's recovered stories came through dateless until this looked. The year nearest
+            # the chosen title wins, so a line naming two works with two dates gives each the right one.
+            cand = [(m.start(), int(m.group(1))) for m in YEAR.finditer(body)
+                    if 100 <= int(m.group(1)) <= 2100]
+            if cand:
+                at = body.find(titles[0])
+                year = min(cand, key=lambda p: abs(p[0] - at))[1] if at >= 0 else cand[0][1]
+                date_text = date_text or str(year)
         rows.append({
             "slug": slug,
             "kind": kind,
             "date_text": date_text,
-            "year": min(ys) if ys else None,
+            "year": year,
             "title": titles[0] if titles else "",
             "alt_titles": titles[1:],
             # A line with no title at all is still a real statement about the corpus ("Numerous short treatises,
