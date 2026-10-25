@@ -241,6 +241,15 @@ ASSERTS = re.compile(r"\b(is|are|was|were|be|been|has|have|had|does|do|did|can|c
                      r"preserve|reported|reports|report|known|attested|circulated|appeared|appear)\b", re.I)
 
 
+# Words that open a CIRCUMSTANCE rather than name a thing. Found by auditing which titles carried the most
+# transmission edges, after nodus2 pointed out that a bad title does not stay a bad title -- it becomes a wire
+# between everyone who happens to share it.
+ADVERBIAL = {"throughout", "during", "across", "between", "after", "before", "from", "in", "by", "on", "at",
+             "with", "within", "among", "amongst", "despite", "although", "while", "since", "until", "about",
+             "around", "beyond", "under", "over", "through", "via", "per", "according", "as", "for", "of",
+             "both", "either", "neither", "most", "many", "several", "some", "various", "numerous", "much"}
+
+
 def descriptive_title(note):
     """A work that has no title still has a description, and the description can serve as its name.
 
@@ -278,6 +287,17 @@ def descriptive_title(note):
     # Dublin" is where Giulio Camillo's manuscripts are, not a thing he made.
     head = re.split(r"[\s:,]", first, 1)[0].lower().rstrip(":")
     if head in ATTR_LABELS:
+        return ""
+    # An ADVERBIAL opener introduces a circumstance, not a thing: "Throughout his working life" became a work
+    # of ten different people's and then a shared_work edge between all of them, which is a manufactured wire.
+    if head in ADVERBIAL:
+        return ""
+    # And a description must actually describe: three words or more, with a proper noun or a concrete anchor
+    # past the first word. "Survival", "Introduction" and "Genuine authorship" are section headings, and each
+    # was carrying twenty-one transmission edges. "Untitled scaffold denunciations" and "Altar at Shechem, by
+    # the terebinth of Moreh" pass, which is the distinction that matters.
+    words = first.split()
+    if len(words) < 3:
         return ""
     return first
 
@@ -362,6 +382,11 @@ def split_lead(lead):
     # the catalogue as a work -- and then, being a title two people shared, as a transmission edge between them.
     words = [w for w in re.split(r"[\s/\-–—]+", body.strip(".,;:")) if w]
     if len(words) <= 2 and all(w.lower() in DATE_RESIDUE for w in words):
+        return lead, ""
+    # An adverbial opener introduces a circumstance, not a work: the bold lead "**Throughout his working
+    # life:**" became a title for ten subjects, and a title shared by ten people becomes nine wires between
+    # them. A bold lead that opens this way is a heading over works, not one of them.
+    if words[0].lower() in ADVERBIAL and len(words) >= 2:
         return lead, ""
     if looks_like_date(body) or looks_like_attribute(body):
         return lead, ""

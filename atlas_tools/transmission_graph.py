@@ -47,7 +47,29 @@ GENERIC = {"letters", "opera omnia", "poems", "works", "collected works", "sermo
            "testament", "last will and testament", "will", "epistolario", "souvenirs", "journal",
            "notes", "papers", "articles", "addresses", "reports", "memoranda", "memoir",
            "symposium", "interviews", "interview", "testamentum", "memorias", "memorie", "tagebucher",
-           "tagebücher", "diarios", "diario", "composition", "compositions", "theme and variations"}
+           "tagebücher", "diarios", "diario", "composition", "compositions", "theme and variations",
+           # The same generic words in the other languages of the corpus. English-only blocking was
+           # cosmetic: "Correspondance" alone was wiring 120 pairs of people together, and "Maktubat" --
+           # Letters, which every Sufi has -- put a false edge between Abd al-Qadir al-Jilani and Moinuddin
+           # Chishti. nodus2 found that one by reading the file, which is how it should have been found.
+           "correspondance", "correspondenz", "korrespondenz", "briefe", "briefwechsel", "gedichte",
+           "poesie", "poesías", "poesias", "poemas", "lettres", "letras", "scritti", "schriften",
+           "œuvres complètes", "oeuvres completes", "œuvres", "obra completa", "opere", "opere complete",
+           "maktubat", "maktūbāt", "diwan", "divan", "dīwān", "kulliyat", "rasail", "rasāʾil", "risala",
+           "majmua", "tazkira", "ruba'iyat", "rubaiyat", "ghazals", "qasidas", "sermones", "discursos",
+           "versions", "survival", "introduction", "genuine authorship", "prefaces", "prologue",
+           "surviving correspondence", "surviving letters", "surviving works", "surviving fragments",
+           "collected correspondence", "selected correspondence", "general correspondence"}
+
+# GENRES are forms, not works. Many painters made a self-portrait and many composers wrote a nocturne; sharing
+# the name of the form says nothing about transmission. This is deliberately NOT extended to shared SUBJECTS --
+# the Annunciation, the Last Judgment, Ave Maria, Perséphone, Le Sacre du printemps -- because the same subject
+# treated by different hands is the interesting case and precisely what this edge is for.
+GENRE = re.compile(r"^(self[- ]portraits?|nocturnes?|serenades?|valse(\s+\w+)?|[eé]tudes?|preludes?|"
+                   r"sonatas?|symphon(y|ies)|concertos?|quartets?|quintets?|masses?|requiems?|cantatas?|"
+                   r"fugues?|variations?|impromptus?|rhapsod(y|ies)|intermezzos?|caprices?|mazurkas?|"
+                   r"waltzes?|marches?|songs?|arias?|hymns?|psalms?|odes?|elegies?|sketches?|studies?|"
+                   r"landscapes?|portraits?|still[- ]lifes?|nudes?|busts?|crucifixions?|madonnas?)$", re.I)
 
 # A PERIODICAL is a place of publication, not a work. Two people who published in Communications of the ACM did
 # not read the same book, and once the prose pass began harvesting the venues a bibliography names, those
@@ -76,6 +98,12 @@ def norm(s):
     s = "".join(c for c in s if not unicodedata.combining(c)).lower()
     s = re.sub(r"[^a-z0-9 ]+", " ", s)
     return re.sub(r"\s+", " ", s).strip()
+
+
+# Compared against norm()'d titles, so the list must be norm()'d too. Without this a non-ASCII entry can never
+# match: norm strips the ligature from "Oeuvres completes", leaving "uvres completes", so the blocklist entry
+# sat there looking correct while fifteen edges went out on it.
+GENERIC = {norm(g) for g in GENERIC}
 
 
 def load_subjects():
@@ -152,6 +180,8 @@ def main():
             if not t or t in GENERIC or len(t) < 8:
                 continue
             if PERIODICAL.search(t):      # a venue, never evidence of transmission
+                continue
+            if GENRE.match(t):            # a form, never evidence of transmission
                 continue
             title_owners[t].add(slug)
             title_row.setdefault((t, slug), r)
