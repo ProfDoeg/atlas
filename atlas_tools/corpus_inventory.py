@@ -222,6 +222,66 @@ PROSE_STOP = {"the", "and", "or", "not", "sic", "ibid", "passim", "op cit", "cir
               "see also", "above", "below", "ibidem", "et al", "cf"}
 
 
+# A clause that ASSERTS something is a note about the corpus, not a thing in it. These are the finite verbs and
+# negations that mark a scholarly caveat -- "Abrahamic authorship is pseudepigraphic or legendary", "No securely
+# identifiable ancient manuscript of these Abrahamic titles survives", "Later works using such titles are not
+# evidence of original authorship". Anthony, 2026-10-25: "The notes can convey the pseudo or contested
+# authorship." So they stay notes, and only the noun phrases become works.
+ASSERTS = re.compile(r"\b(is|are|was|were|be|been|has|have|had|does|do|did|can|could|may|might|must|"
+                     r"will|would|should|says|said|appears|seems|survives|survive|remains|remain|exists|"
+                     r"exist|describes|describe|records|record|notes|note|attributes|attribute|"
+                     r"identifies|identify|suggests|suggest|indicates|indicate|resists|resist|"
+                     r"prevents|prevent|establishes|establish|"
+                     # Caught in the first full run: "Original-language and first-publication details VARY in
+                     # the sources", "Later publisher catalogs LIST continuing essay collections",
+                     # "PRESERVED as an official transcript", "Coworkers REMEMBERED Yiddish poems". All
+                     # statements about the corpus, none of them things in it.
+                     r"vary|varies|list|lists|listed|include|includes|included|comprise|comprises|"
+                     r"consist|consists|differ|differs|range|ranges|remembered|remember|preserved|"
+                     r"preserve|reported|reports|report|known|attested|circulated|appeared|appear)\b", re.I)
+
+
+def descriptive_title(note):
+    """A work that has no title still has a description, and the description can serve as its name.
+
+    Anthony, 2026-10-25: "Sure an altar can be a work. The notes can convey the pseudo or contested authorship.
+    Untitled works can be labeled 'untitled'." So Abraham's "Altar at Shechem, by the terebinth of Moreh" and
+    Policarpa Salavarrieta's "Untitled scaffold denunciations" are entries in the catalogue, not absences from
+    it. Policarpa's whole file is of this kind: a seamstress's garments, clandestine messages, intelligence
+    reports, a support network, a speech from the scaffold -- nothing of it titled, because nothing of it
+    survives with a title, and all of it made.
+
+    Returns "" for anything that is a STATEMENT rather than a thing: the scholarly caveats, and the lists of
+    archives consulted, which end in a semicolon because they are enumerations of sources.
+    """
+    s = re.sub(r"\s+", " ", str(note or "")).strip().lstrip("-* ").strip()
+    s = re.sub(r"\*{1,3}([^*]*)\*{1,3}", r"\1", s)     # a description may still carry emphasis inside it
+    if not s:
+        return ""
+    if s.rstrip().endswith(";"):          # "French national and colonial archives;" -- a source enumeration
+        return ""
+    first = re.split(r"(?<=[.;])\s", s)[0].strip().rstrip(".,;:")
+    if not (8 <= len(first) <= 90):
+        return ""
+    if not first[:1].isupper():
+        return ""
+    if ASSERTS.search(first):
+        return ""
+    # Only the explicit field-label list applies here, not looks_like_attribute's shape test. That test reads
+    # "a two or three word phrase whose later words are lowercase" as a field name, which is right for a bold
+    # lead and wrong for a description: it rejected "Untitled scaffold denunciations", Policarpa Salavarrieta's
+    # speech on the way to her execution, for having no capital after the first word.
+    if first.lower().rstrip(":") in ATTR_LABELS or looks_like_date(first):
+        return ""
+    # A clause OPENING with a field label is that field's value, not a work: "Subject: love for Beatrice,
+    # poetic development, grief" is Dante's subject matter, and "Manuscripts in Pavia, Naples, and reportedly
+    # Dublin" is where Giulio Camillo's manuscripts are, not a thing he made.
+    head = re.split(r"[\s:,]", first, 1)[0].lower().rstrip(":")
+    if head in ATTR_LABELS:
+        return ""
+    return first
+
+
 def quoted_titles(text):
     """Titles in quotation marks, guarded the way prose spans are.
 
@@ -513,17 +573,31 @@ def parse(slug, text):
                 at = body.find(titles[0])
                 year = min(cand, key=lambda p: abs(p[0] - at))[1] if at >= 0 else cand[0][1]
                 date_text = date_text or str(year)
-        rows.append({
+        # A line with no title at all is still a real statement about the corpus ("Numerous short treatises,
+        # prayers, orations ... gathered only in the Opera omnia"). Keep its prose so nothing is silently lost.
+        note = "" if titles else re.sub(r"\s+", " ", body).strip()
+        row = {
             "slug": slug,
             "kind": kind,
             "date_text": date_text,
             "year": year,
             "title": titles[0] if titles else "",
             "alt_titles": titles[1:],
-            # A line with no title at all is still a real statement about the corpus ("Numerous short treatises,
-            # prayers, orations ... gathered only in the Opera omnia"). Keep its prose so nothing is silently lost.
-            "note": "" if titles else re.sub(r"\s+", " ", body).strip(),
-        })
+            "note": note,
+        }
+        if not titles and note:
+            # No marked-up title, so the description becomes the name -- but only where the description names a
+            # THING. The note is kept either way, which is what lets a contested attribution still be read.
+            desc = descriptive_title(note)
+            if desc:
+                row["title"] = desc
+                row["from"] = "descriptive"
+                if row["year"] is None:
+                    cand = [int(y) for y in YEAR.findall(body) if 100 <= int(y) <= 2100]
+                    if cand:
+                        row["year"] = min(cand)
+                        row["date_text"] = row["date_text"] or str(row["year"])
+        rows.append(row)
     if pending[0] is not None:                        # a table that ran to the end of the section
         rows.append(pending[0])
     return dedupe(rows)
