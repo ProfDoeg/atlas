@@ -172,18 +172,56 @@ def main():
     if "--limit" in sys.argv:
         todo = todo[: int(sys.argv[sys.argv.index("--limit") + 1])]
 
+    workers = int(sys.argv[sys.argv.index("--workers") + 1]) if "--workers" in sys.argv else 1
     print(f"{len(todo)} subjects have free editions; budget {gb:.0f} GB; "
-          f"{'text and PDF' if want_pdf else 'text only'}", flush=True)
+          f"{'text and PDF' if want_pdf else 'text only'}; {workers} worker(s)", flush=True)
     tot_f = tot_b = 0
-    for slug, rec in todo:
-        if budget["left"] <= 0:
-            print("budget exhausted", flush=True)
-            break
-        w, b = fetch_subject(slug, rec, want_pdf, budget)
-        tot_f += w
-        tot_b += b
-        if w:
-            print(f"  {slug:<34} {w:>4} files  {b/1e6:>8.1f} MB", flush=True)
+
+    if workers <= 1:
+        for slug, rec in todo:
+            if budget["left"] <= 0:
+                print("budget exhausted", flush=True)
+                break
+            w, b = fetch_subject(slug, rec, want_pdf, budget)
+            tot_f += w
+            tot_b += b
+            if w:
+                print(f"  {slug:<34} {w:>4} files  {b/1e6:>8.1f} MB", flush=True)
+    else:
+        # One worker per SUBJECT, never per file: each subject owns its own folder and manifest, so workers
+        # never write the same file and no locking is needed around the manifests. The budget is the one
+        # shared thing and it takes a lock. Serial was costing days -- 25 subjects of 642 in three hours --
+        # because every book needs two requests (metadata, then text) at one a second, and the Archive is
+        # untroubled by a handful of streams at this scale.
+        import threading
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+        blk = threading.Lock()
+        orig = budget["left"]
+        spent = {"n": 0}
+
+        def work(item):
+            slug, rec = item
+            with blk:
+                if budget["left"] <= 0:
+                    return slug, 0, 0
+            w, b = fetch_subject(slug, rec, want_pdf, budget)
+            with blk:
+                spent["n"] += b
+                budget["left"] = orig - spent["n"]
+            return slug, w, b
+
+        with ThreadPoolExecutor(max_workers=workers) as ex:
+            futs = {ex.submit(work, it): it[0] for it in todo}
+            for f in as_completed(futs):
+                try:
+                    slug, w, b = f.result()
+                except Exception as e:
+                    print(f"  {futs[f]:<34} FAILED {e!r}", flush=True)
+                    continue
+                tot_f += w
+                tot_b += b
+                if w:
+                    print(f"  {slug:<34} {w:>4} files  {b/1e6:>8.1f} MB", flush=True)
     print(f"\n{tot_f} files, {tot_b/1e9:.2f} GB, into {FILES}")
 
 
