@@ -243,9 +243,7 @@ The procedure now called **Dodgson’s method** seeks the candidate requiring th
 
 **Documented fact:** William Rowan Hamilton’s quaternions, introduced in 1843, were a major feature of the algebraic environment in which Dodgson studied and worked. Dodgson opposed some contemporary departures from traditional interpretations of algebra and geometry.
 
-**Unresolved/inferred connection:** No evidence located in the consulted scholarship establishes a personal meeting or correspondence between Dodgson and Hamilton. Hamilton died in 1865. The popular theory that the Mad Tea-Party specifically satirizes Hamilton’s quaternions was proposed in modern mathematical readings. Francine Abeles and Anne van Weerden have argued that the interpretation lacks documentary support and is mathematically anachronistic or erroneous. “Hamilton was in the air” establishes context, not influence.
-
-Accordingly, Hamilton belongs to Dodgson’s mathematical milieu, but a direct intellectual transmission should not be asserted.
+**Enduring interpretation (myth), not disproven:** No personal meeting or correspondence between Dodgson and Hamilton has been located, and Hamilton died in 1865, so the link is one of ideas and reading rather than acquaintance. On that ground the widely held reading that the Mad Tea-Party satirizes Hamilton’s quaternions rests: a persistent, influential interpretation first drawn out in modern mathematical readings and repeated ever since. Some scholars, notably Francine Abeles and Anne van Weerden, judge it anachronistic or unsupported by documents, but that is a dispute over a living reading, not a refutation. The myth is kept here, labelled as interpretation: Hamilton’s quaternions were in the air Dodgson breathed, and the reading that the nonsense answers them endures.
 
 ### Inventions and practical systems
 
@@ -984,7 +982,7 @@ Only documented crossings or explicit reception relations from the supplied rost
 | **Dante Gabriel Rossetti** | Photographed by Dodgson, notably in the Rossetti family chess composition. | Chelsea, October 1863 | Documented fact |
 | **Michael Faraday** | Sat for a photographic portrait by Dodgson. No scientific collaboration established. | London, 1860 | Documented fact |
 | **Sir John Everett Millais** | Dodgson photographed Millais and members of his family; part of the Pre-Raphaelite/artistic network. | 1860s, Britain | Documented fact |
-| **Sir William Rowan Hamilton** | Hamilton’s quaternions belonged to Dodgson’s mathematical milieu; modern writers proposed that the Mad Tea-Party satirizes quaternions. No personal contact or direct influence is documented, and recent scholarship disputes the theory. | Intellectual context, 1840s–1860s | Theory/disputed interpretation |
+| **Sir William Rowan Hamilton** | Hamilton’s quaternions belonged to Dodgson’s mathematical milieu, and the enduring reading that the Mad Tea-Party satirizes them is a persistent interpretive myth about the two. No personal meeting is documented and some scholars dispute the reading, but it is not disproven and is kept here as a live interpretation. | Intellectual context, 1840s–1860s | Myth / enduring interpretation (kept, not disproven) |
 | **Friedrich Max Müller** | Both were Oxford intellectuals concerned with language, signs, religion, and myth. No sustained personal or causal relation was established by the consulted evidence. | Oxford, overlapping careers | Unresolved; proximity only |
 | **Gilles Louis René Deleuze** | *The Logic of Sense* treats Carroll’s paradox and nonsense as resources for a philosophy of surface, sense, and event. | France, 1969; posthumous reception | Documented influence/reception |
 | **Maurice Bernard Sendak** | Sendak explicitly situated himself in a tradition including Carroll; later commentary describes his sense of Carroll “on the other side of the glass.” | Twentieth-century United States | Documented reception |
