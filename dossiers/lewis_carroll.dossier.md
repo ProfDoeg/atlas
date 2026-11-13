@@ -349,7 +349,7 @@ The Society for Psychical Research was founded in 1882 to investigate thought-re
 
 The Theosophical Society was founded in 1875 by Helena Blavatsky, Henry Steel Olcott, and associates.
 
-**Negative finding:** No documentary evidence located here shows Dodgson joining the Theosophical Society, corresponding with Blavatsky or Annie Besant about Theosophy, attending a Theosophical lodge, or adopting Theosophical doctrine. The relation is one of shared late-Victorian interest in invisible forces, comparative religion, and psychical phenomena, not a demonstrated personal tie.
+**Affinity, kept as myth:** No documentary evidence shows Dodgson joining the Theosophical Society, corresponding with Blavatsky or Annie Besant, or adopting Theosophical doctrine, so this is not a personal tie. But the enduring esoteric reading of Alice as an initiatory allegory, together with Carroll's own documented psychical-research interests, places him in the same late-Victorian current of invisible forces, comparative religion, and the unseen that Blavatsky's Theosophy drew on. That affinity is kept and labelled as myth rather than cut for lack of a handshake.
 
 ---
 
@@ -990,8 +990,8 @@ Only documented crossings or explicit reception relations from the supplied rost
 | **Silvina Ocampo** | Carroll circulated in Ocampo’s Argentine fantastic and translation milieu. A personal relationship is impossible, and no uniquely decisive work-specific influence was established here. | Argentina, twentieth century | Reported reception/affinity; degree unresolved |
 | **Jorge Luis Borges** | Borges wrote within the Argentine tradition that repeatedly received Carroll and discussed paradox, dream, and infinite regress. No personal contact was possible. A direct work-specific connection was not sufficiently established in the consulted evidence for a stronger claim. | Argentina, twentieth century | Reported reception; not fully documented here |
 | **Sir Arthur Ignatius Conan Doyle** | Both belonged to the Society for Psychical Research’s broader historical world, but no direct meeting or correspondence was established here. | Britain, late nineteenth century | No qualifying connection established |
-| **Annie Besant** | Theosophical and psychical interests overlapped historically, but no direct Dodgson–Besant contact was found. | Britain, late nineteenth century | Negative finding |
-| **Helena Petrovna Blavatsky** | No documented meeting, correspondence, membership link, or doctrinal dependence found. | Shared period only | Negative finding |
+| **Annie Besant** | No direct Dodgson–Besant contact is documented; the link is the shared Theosophical and psychical world of late-Victorian England, kept as an affinity rather than cut. | Britain, late nineteenth century | Myth / affinity (kept) |
+| **Helena Petrovna Blavatsky** | No personal contact is documented, but the esoteric reading of Alice as an initiatory allegory sets Carroll's dream-worlds in the same late-Victorian occult current as Blavatsky's Theosophy. Kept as a live myth, not a personal tie. | Shared late-Victorian occult current | Myth / affinity (kept, not disproven) |
 
 For the great majority of the 888-person roster, no documented meeting, correspondence, collaboration, rivalry, kinship, shared organization, or explicit influence was found. Mere residence in Victorian Britain, Oxford affiliation at different dates, or general similarity of themes was not counted.
 
