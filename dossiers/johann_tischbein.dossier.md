@@ -744,7 +744,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **Johann Friedrich Overbeck** [T5]
 - **Franz Pforr** [T5]
 - **Wolfgang Amadeus Mozart** [T9+]
-- **Arthur of Lotharingia** [T9+]
 
 ## Compact Chronology
 

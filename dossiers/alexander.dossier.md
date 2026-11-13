@@ -1652,7 +1652,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **Christopher Columbus** [T3] (mirrored from columbus.dossier.md)
 - **Ludwig Derleth** [T1+] (mirrored from ludwig_derleth.dossier.md)
 - **Judah Loew ben Bezalel** [T1+] (mirrored from judah_loew_ben_bezalel_the_maharal_of_prague.dossier.md)
-- **The Lady of the Lake** [T5] (mirrored from lady-of-the-lake.dossier.md)
 - **Hannibal Barca** [T1+] (mirrored from hannibal.dossier.md)
 - **Aurelius Augustinus** [T1+] (mirrored from saint_augustine_of_hippo.dossier.md)
 - **Homer** [T9-] (mirrored from homer.dossier.md)

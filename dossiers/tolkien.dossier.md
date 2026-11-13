@@ -1370,7 +1370,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **Morgan le Fay** [T1-] (mirrored from morgan-le-fay.dossier.md)
 - **Jacob Ludwig Carl Grimm and Wilhelm Carl Grimm** [T9-] (mirrored from brothers_grimm.dossier.md)
 - **Peter Andreas Thiel** [T1+] (mirrored from peter_thiel.dossier.md)
-- **Guinevere** [T1-] (mirrored from guinevere.dossier.md)
 - **Lancelot** [T1-] (mirrored from lancelot.dossier.md)
 - **Parzival** [T1-] (mirrored from parzival.dossier.md)
 

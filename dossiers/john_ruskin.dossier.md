@@ -838,7 +838,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **Marcel Proust** [T3] (mirrored from marcel_proust.dossier.md)
 - **Oscar Fingal O'Fflahertie Wills Wilde** [T3] (mirrored from oscar_wilde.dossier.md)
 - **Calvert Vaux** [T3] (mirrored from calvert_vaux.dossier.md)
-- **The Lady of the Lake** [T1-] (mirrored from lady-of-the-lake.dossier.md)
 - **Frank Lloyd Wright** [T3] (mirrored from frank_lloyd_wright.dossier.md)
 - **William Holman Hunt** [T5] (mirrored from william_holman_hunt.dossier.md)
 - **Frederick Law Olmsted** [T3] (mirrored from frederick_law_olmsted.dossier.md)

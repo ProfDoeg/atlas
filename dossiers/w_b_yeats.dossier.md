@@ -984,7 +984,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **Dion Fortune** [T9+] (mirrored from dion_fortune.dossier.md)
 - **William Seward Burroughs II** [T3] (mirrored from william_s_burroughs.dossier.md)
 - **Sir Edward Coley Burne-Jones** [T3] (mirrored from edward_burne_jones.dossier.md)
-- **The Lady of the Lake** [T1-] (mirrored from lady-of-the-lake.dossier.md)
 - **Howard Phillips Lovecraft** [T3] (mirrored from h_p_lovecraft.dossier.md)
 - **Rabindranath Tagore** [T5] (mirrored from rabindranath_tagore.dossier.md)
 - **Leo Africanus** [T1-] (mirrored from leo_africanus.dossier.md)

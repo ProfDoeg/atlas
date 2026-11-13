@@ -1550,12 +1550,9 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 
 - **Kyot-Willehalm** [T1+]
 - **King Solomon** [T9-]
-- **Arthur of Lotharingia** [T5]
-- **Guinevere** [T4]
 - **Lancelot** [T4]
 - **Merlin** [T4]
 - **Morgan le Fay** [T4]
-- **The Lady of the Lake** [T4]
 - **Jacob Ludwig Carl Grimm and Wilhelm Carl Grimm** [T1+]
 - **Engelbert Humperdinck** [T9+]
 - **Friedrich Nietzsche** [T1+]

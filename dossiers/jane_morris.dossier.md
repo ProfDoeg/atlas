@@ -1059,7 +1059,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **Mary "May" Morris** [T5]
 - **Sir Edward Coley Burne-Jones** [T5]
 - **Christina Georgina Rossetti** [T4]
-- **Guinevere** [T9-] (mirrored from guinevere.dossier.md)
 - **Elizabeth** [T5] (mirrored from elizabeth_bessie_burden.dossier.md)
 - **William Holman Hunt** [T4] (mirrored from william_holman_hunt.dossier.md)
 - **Dante Gabriel Rossetti** [T3] (mirrored from dante_gabriel_rossetti.dossier.md)

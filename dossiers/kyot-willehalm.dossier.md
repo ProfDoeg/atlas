@@ -1018,7 +1018,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 
 - **Charlemagne** [T4]
 - **Parzival** [T5]
-- **Arthur of Lotharingia** [T4]
 - **Rudolf Steiner** [T1+]
 - **Parzival** [T1-] (mirrored from parzival.dossier.md)
 

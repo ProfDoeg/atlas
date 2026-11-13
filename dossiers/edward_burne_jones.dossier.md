@@ -1026,7 +1026,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **William Butler Yeats** [T3]
 - **William Blake** [T3]
 - **Sarah Bernhardt** [T5]
-- **The Lady of the Lake** [T1-] (mirrored from lady-of-the-lake.dossier.md)
 - **Lancelot** [T3] (mirrored from lancelot.dossier.md)
 - **Elizabeth** [T9+] (mirrored from elizabeth_bessie_burden.dossier.md)
 

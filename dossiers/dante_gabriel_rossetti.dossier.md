@@ -942,9 +942,7 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **James Augustine Aloysius Joyce** [T3] (mirrored from james_joyce.dossier.md)
 - **Émile Jaques-Dalcroze** [T5] (mirrored from jaques_dalcroze.dossier.md)
 - **Jane Morris** [T5] (mirrored from jane_morris.dossier.md)
-- **The Lady of the Lake** [T1-] (mirrored from lady-of-the-lake.dossier.md)
 - **Achille-Claude Debussy** [T1+] (mirrored from claude_debussy.dossier.md)
-- **Guinevere** [T1-] (mirrored from guinevere.dossier.md)
 - **Elizabeth** [T3] (mirrored from elizabeth_bessie_burden.dossier.md)
 - **John Ruskin** [T5] (mirrored from john_ruskin.dossier.md)
 

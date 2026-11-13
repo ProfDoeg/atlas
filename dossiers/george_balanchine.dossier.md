@@ -1076,7 +1076,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **Igor Fyodorovich Stravinsky** [T5]
 - **Sergei Pavlovich Diaghilev** [T5]
 - **Martha Graham** [T5]
-- **Arthur of Lotharingia** [T5]
 - **Pyotr Ilyich Tchaikovsky** [T9-]
 - **Achille-Claude Debussy** [T9-]
 - **Erik Satie** [T9-]

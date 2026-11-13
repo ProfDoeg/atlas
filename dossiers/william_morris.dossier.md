@@ -881,8 +881,6 @@ Machine-readable summary of this dossier's Atlas Connections, added 2026-09-05 d
 - **Rudolf Rocker** [T3] (mirrored from rudolf_rocker.dossier.md)
 - **Theodor Reuss** [T3] (mirrored from theodor_reuss.dossier.md)
 - **Morgan le Fay** [T1-] (mirrored from morgan-le-fay.dossier.md)
-- **The Lady of the Lake** [T1-] (mirrored from lady-of-the-lake.dossier.md)
-- **Guinevere** [T1-] (mirrored from guinevere.dossier.md)
 - **Frank Lloyd Wright** [T3] (mirrored from frank_lloyd_wright.dossier.md)
 - **Lancelot** [T1-] (mirrored from lancelot.dossier.md)
 - **Elizabeth** [T5] (mirrored from elizabeth_bessie_burden.dossier.md)
