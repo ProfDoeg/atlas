@@ -200,4 +200,3 @@ unanswered.
 
 | docs | subject | who |
 |--:|---|---|
-| 0 | **Lewis Carroll** | Charles Lutwidge Dodgson (1832–1898), Oxford mathematician and logician, pioneering portrait photographer, and author of Alice's Adventures in Wonderland and Through the Looking-Glass; his nonsense logic and camera thread through Christina Rossetti, Sendak, Deleuze, Silvina Ocampo, W. R. Hamilton, Max Müller and Charly García |
